@@ -1,0 +1,3002 @@
+{
+  "batch_id": "h_batch_001",
+  "script": "heb",
+  "datum": "2026-05-01",
+  "entries": [
+    {
+      "strong": "Hc",
+      "hebreeuws": "ו",
+      "translit": "we/u",
+      "woordsoort": "conjuncion-prefijo",
+      "es_concordant": "y",
+      "grondvorm": "y",
+      "stamfamilie": [
+        "Hc"
+      ],
+      "toelichting": "Prefijo waw conjuntivo. Conector basico aditivo. 'Y' cubre la funcion aditiva; el contexto puede implicar 'pero' o 'entonces', pero concordantemente 'y' se mantiene como representacion base. Distribucion de 51170 apariciones confirma el aditivo como denominador comun.",
+      "voorkomens": 51170
+    },
+    {
+      "strong": "Hd",
+      "hebreeuws": "ה",
+      "translit": "ha",
+      "woordsoort": "articulo-definido-prefijo",
+      "es_concordant": "el",
+      "grondvorm": "el",
+      "stamfamilie": [
+        "Hd"
+      ],
+      "toelichting": "Prefijo articulo definido. Forma de cita masculino-singular 'el'; los ajustes morfologicos (la, los, las) se aplican al renderizar, ya que el espanol flexiona el articulo segun genero y numero del sustantivo. Concordantemente uniforme como lexema.",
+      "voorkomens": 24008
+    },
+    {
+      "strong": "Hl",
+      "hebreeuws": "ל",
+      "translit": "le",
+      "woordsoort": "preposicion-prefijo",
+      "es_concordant": "a",
+      "grondvorm": "a",
+      "stamfamilie": [
+        "Hl"
+      ],
+      "toelichting": "Preposicion procliticamente unida. Dativo y direccional. 'A' preserva el nucleo dativo-direccional; 'para' es benefactivo y se desliza hacia proposito; 'hacia' es direccional puro. 'A' es el minimo concordante.",
+      "voorkomens": 20774
+    },
+    {
+      "strong": "Hb",
+      "hebreeuws": "ב",
+      "translit": "be",
+      "woordsoort": "preposicion-prefijo",
+      "es_concordant": "en",
+      "grondvorm": "en",
+      "stamfamilie": [
+        "Hb"
+      ],
+      "toelichting": "Preposicion procliticamente unida. Locativo-instrumental. 'En' como nucleo locativo; las extensiones instrumentales 'con/por' surgen en contexto pero no son el nucleo.",
+      "voorkomens": 15782
+    },
+    {
+      "strong": "Hm",
+      "hebreeuws": "מ",
+      "translit": "mi",
+      "woordsoort": "preposicion-prefijo",
+      "es_concordant": "de",
+      "grondvorm": "de",
+      "stamfamilie": [
+        "Hm"
+      ],
+      "toelichting": "Forma abreviada de min (H4480a) como prefijo. 'De' captura el nucleo ablativo. La forma plena min se rendera como 'desde' para diferenciar el prefijo del lexema independiente. Choque con el genitivo posesivo se resuelve en contexto sintactico.",
+      "voorkomens": 6395
+    },
+    {
+      "strong": "Hk",
+      "hebreeuws": "כ",
+      "translit": "ke",
+      "woordsoort": "preposicion-prefijo",
+      "es_concordant": "como",
+      "grondvorm": "como",
+      "stamfamilie": [
+        "Hk"
+      ],
+      "toelichting": "Preposicion proclitica de comparacion. 'Como' cubre el nucleo comparativo; lexemas independientes con 'como' (H3644 kemo, H834d ka-asher) son distintos.",
+      "voorkomens": 2962
+    },
+    {
+      "strong": "Hi",
+      "hebreeuws": "ה",
+      "translit": "ha",
+      "woordsoort": "particula-interrogativa-prefijo",
+      "es_concordant": "?",
+      "grondvorm": "?",
+      "stamfamilie": [
+        "Hi"
+      ],
+      "toelichting": "Prefijo interrogativo (homografo del articulo definido Hd, pero funcionalmente distinto). Concordantemente representado como signo de interrogacion '?' en el renderizado; el espanol no posee forma interrogativa prefijal.",
+      "voorkomens": 657
+    },
+    {
+      "strong": "Hs",
+      "hebreeuws": "ש",
+      "translit": "she",
+      "woordsoort": "conjuncion-prefijo",
+      "es_concordant": "que-she",
+      "grondvorm": "que-she",
+      "stamfamilie": [
+        "Hs"
+      ],
+      "toelichting": "Relativo proclitico (forma de hebreo tardio, hermano de asher H834a). Concordantemente 'que' como forma primaria con sufijo '-she' para distinguir del relativo H834a tambien rendido como 'que'.",
+      "voorkomens": 142
+    },
+    {
+      "strong": "H1",
+      "hebreeuws": "אב",
+      "translit": "av",
+      "woordsoort": "sustantivo",
+      "es_concordant": "padre",
+      "grondvorm": "padre",
+      "stamfamilie": [
+        "H1",
+        "H517"
+      ],
+      "toelichting": "Raiz 'b. Termino de parentesco basico; paralelo em (madre, H517). Distribucion de 1211 apariciones confirma 'padre' como denominador comun unico.",
+      "voorkomens": 1211
+    },
+    {
+      "strong": "H2",
+      "hebreeuws": "אַב",
+      "translit": "av-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "padre-arameo",
+      "grondvorm": "padre-arameo",
+      "stamfamilie": [
+        "H1"
+      ],
+      "toelichting": "Cognado arameo de H1 av 'padre' (Dan 2:23; 5:2,11,13,18; Esd 4:15; 5:12). Concordantemente vinculado por sufijo '-arameo'.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H3",
+      "hebreeuws": "אֵב",
+      "translit": "eve",
+      "woordsoort": "sustantivo",
+      "es_concordant": "brote-tierno-renuevo",
+      "grondvorm": "brote-tierno-renuevo",
+      "stamfamilie": [],
+      "toelichting": "El brote o renuevo verde joven - Job 8:12 (todavia esta en su verdor, no cortado) y Cnt 6:11 (para ver los renuevos); tambien la 'fruta' aramea en Dan 4:11-12. Hyphenated triple para preservar la planta-joven sin precommit a una especie botanica.",
+      "voorkomens": 2,
+      "notes": "Job-plant"
+    },
+    {
+      "strong": "H4",
+      "hebreeuws": "אֵב",
+      "translit": "ev-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "fruto-arameo",
+      "grondvorm": "fruto-arameo",
+      "stamfamilie": [],
+      "toelichting": "Dan-arameo-fruto-arbol-abundante y Dan-arameo-fruto-de-comer (Dan 4:9,11,18,21). Hyphenated para distinguir el aspecto fruto-arameo de H6529 peri-hebreo 'fruto'; cognado-arameo-arbol-frutal.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H5",
+      "hebreeuws": "אֲבַגְתָא",
+      "translit": "avagta-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abagta-pn",
+      "grondvorm": "Abagta-pn",
+      "stamfamilie": [],
+      "toelichting": "Nombre propio, cuarto eunuco asistente de Asuero; Est 1:10. Concordantemente transliterado. Convencion espanola: Abagta.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6",
+      "hebreeuws": "אבד",
+      "translit": "avad",
+      "woordsoort": "verbo",
+      "es_concordant": "perecer-perderse",
+      "grondvorm": "perecer-perderse",
+      "stamfamilie": [
+        "H6",
+        "H7",
+        "H8",
+        "H9",
+        "H10",
+        "H11",
+        "H12",
+        "H13"
+      ],
+      "toelichting": "Qal: estar perdido, perecer, desvanecerse. Pi y Hi: causar perecer, destruir. El nucleo comun es 'dejar de existir donde se estaba'. Usado tanto para objetos perdidos (oveja, Lev 5:23) como para personas que perecen (Num 24:20). Hyphenated para preservar el doble-aspecto; 'perecer' solo deja subdimensionado el sentido objeto-perdido. RV60 alterna 'perecer/perder' segun contexto, lo cual destruye la concordancia.",
+      "voorkomens": 184
+    },
+    {
+      "strong": "H7",
+      "hebreeuws": "אֲבַד",
+      "translit": "avad-Aram-vergaan",
+      "woordsoort": "verbo",
+      "es_concordant": "perecer-arameo",
+      "grondvorm": "perecer-arameo",
+      "stamfamilie": [
+        "H6"
+      ],
+      "toelichting": "Cognado arameo de H6 avad 'perecer' (Dan 2:12,18,24; 4:33; 7:11,26; Esd 6:12; 7:26; Jer 10:11). Concordantemente vinculado por sufijo '-arameo'.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H8",
+      "hebreeuws": "אֹבֵד",
+      "translit": "oved",
+      "woordsoort": "adjetivo",
+      "es_concordant": "pereciendo-perdido-bajando",
+      "grondvorm": "pereciendo-perdido-bajando",
+      "stamfamilie": [
+        "H6"
+      ],
+      "toelichting": "Participio activo de H6 avad. Usado dos veces (Num 24:20,24) para naciones 'bajando' a destruccion. La triple-hyphenation captura el aspecto durativo (pereciendo como proceso continuo) en lugar del puntual 'ha perecido'.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H9",
+      "hebreeuws": "אֲבֵדָה",
+      "translit": "avedah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cosa-perdida-perdida",
+      "grondvorm": "cosa-perdida-perdida",
+      "stamfamilie": [
+        "H6"
+      ],
+      "toelichting": "Objeto extraviado o perdida-de-propiedad (Ex 22:8; Lev 5:22,23; Dt 22:3; Is 11:11). Hyphenated para distinguir el aspecto perdida-extraviada de H7665 shever 'rotura'; familia con H6 avad.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H10",
+      "hebreeuws": "אֲבֵדָה",
+      "translit": "avaddoh-vernietiging",
+      "woordsoort": "sustantivo",
+      "es_concordant": "destruccion-ruina-exterminio",
+      "grondvorm": "destruccion-ruina-exterminio",
+      "stamfamilie": [
+        "H6"
+      ],
+      "toelichting": "Sustantivo abstracto de la misma raiz. Usado en Pr 27:20 emparejado con Sheol, y Num 24:20 para el 'fin' de Amalec. La triple-hyphenation distingue de H11 avaddon (toponimo) y H12 avdan (sustantivo-de-estado), preservando el sentido abstracto-acumulativo.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H11",
+      "hebreeuws": "אֲבַדּוֹן",
+      "translit": "avaddon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "perdicion-destruccion-lugar-Abadon",
+      "grondvorm": "perdicion-destruccion-lugar-Abadon",
+      "stamfamilie": [
+        "H6"
+      ],
+      "toelichting": "Los sentidos toponimico y conceptual se agrupan: lugar de perdicion junto a Sheol, ocasionalmente personificado. Apo 9:11 translitera como Abadon (emparejado con el griego Apolion). El render hyphenated preserva tanto el sustantivo-de-estado ('perdicion') como el nombre-propio-de-lugar ('Abadon').",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H12",
+      "hebreeuws": "אֲבַדָּן",
+      "translit": "avdan",
+      "woordsoort": "sustantivo",
+      "es_concordant": "destruccion-estado",
+      "grondvorm": "destruccion-estado",
+      "stamfamilie": [
+        "H6"
+      ],
+      "toelichting": "Sustantivo de estado de la raiz avad, usado una vez (Est 9:5 segun TM). Hyphenated para distinguir de H10 (acto-de-destruccion) y H11 (lugar-de-perdicion).",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H13",
+      "hebreeuws": "אָבְדָן",
+      "translit": "ovdan",
+      "woordsoort": "sustantivo",
+      "es_concordant": "perecimiento-de-pueblo",
+      "grondvorm": "perecimiento-de-pueblo",
+      "stamfamilie": [
+        "H6"
+      ],
+      "toelichting": "Sustantivo de la misma raiz, hapax (Est 8:6 'perecimiento de mi pueblo'). El compuesto preserva el aspecto colectivo-nacional distinto del personal H6.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H14",
+      "hebreeuws": "אבה",
+      "translit": "avah",
+      "woordsoort": "verbo",
+      "es_concordant": "estar-dispuesto",
+      "grondvorm": "estar-dispuesto",
+      "stamfamilie": [
+        "H14",
+        "H34"
+      ],
+      "toelichting": "Considerado: querer, consentir, estar-dispuesto. El verbo se usa abrumadoramente en negacion ('no quisieron'). El nucleo es consentimiento volitivo en lugar de deseo apetitivo (H7521 ratsah, H2654 chafets). 'Estar-dispuesto' captura el nucleo modal-volitivo. Distinto de H183 avah-homografo 'anhelar'.",
+      "voorkomens": 54
+    },
+    {
+      "strong": "H15",
+      "hebreeuws": "אֵב",
+      "translit": "av-vrucht",
+      "woordsoort": "sustantivo",
+      "es_concordant": "follaje-fresco",
+      "grondvorm": "follaje-fresco",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Job 8:12). Sustantivo del verde-vigoroso de la planta. Distinto de H3 eve por morfologia.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H16",
+      "hebreeuws": "אֵבֶה",
+      "translit": "ebeh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "junco-veloz",
+      "grondvorm": "junco-veloz",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Job 9:26 'pasan como naves de junco'). Hyphenated para preservar tanto el material (junco-papiro) como el aspecto velocidad. NL 'riet-snel' seguido.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H17",
+      "hebreeuws": "אֲבוֹי",
+      "translit": "abui",
+      "woordsoort": "interjeccion",
+      "es_concordant": "ay-abui",
+      "grondvorm": "ay-abui",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Pr 23:29). Lamento breve. Hyphenated con sufijo '-abui' para distinguir de H188 oy y H190 oyah, ambos lamentos pero de mayor frecuencia.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H18",
+      "hebreeuws": "אֵבוּס",
+      "translit": "evus-kribbe",
+      "woordsoort": "sustantivo",
+      "es_concordant": "pesebre-comedero",
+      "grondvorm": "pesebre-comedero",
+      "stamfamilie": [],
+      "toelichting": "Comedero de animales (Job 39:9; Pr 14:4; Is 1:3). Hyphenated para preservar la doble-funcion: el receptaculo y el contenido-alimentario.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H19",
+      "hebreeuws": "אִבְחָה",
+      "translit": "ivchah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tajo-de-espada",
+      "grondvorm": "tajo-de-espada",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Eze 21:15). Hyphenated para preservar el aspecto golpe-de-espada distinto de H2719 cherev 'espada' (objeto).",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H20",
+      "hebreeuws": "אֲבַטִּיחִים",
+      "translit": "avattichim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "sandias",
+      "grondvorm": "sandias",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Num 11:5 'recordamos las sandias de Egipto'). Plural natural en hebreo y en espanol.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H21",
+      "hebreeuws": "אֲבִי",
+      "translit": "avi-eign-moeder",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abi-pn-madre-Ezequias",
+      "grondvorm": "Abi-pn-madre-Ezequias",
+      "stamfamilie": [],
+      "toelichting": "Nombre propio, abreviacion de Abiyyah (H29); madre del rey Ezequias (2Re 18:2). Sufijo '-pn-madre-Ezequias' para distinguir de la forma plena.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H22",
+      "hebreeuws": "אֲבִיאֵל",
+      "translit": "Aviel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abiel",
+      "grondvorm": "Abiel",
+      "stamfamilie": [
+        "H1"
+      ],
+      "toelichting": "Abuelo de Saul (1Sa 9:1) y guerrero de David (1Cr 11:32). Convencion espanola RV60.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H23",
+      "hebreeuws": "אֲבִיאָסָף",
+      "translit": "aviasaf-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abiasaf-pn",
+      "grondvorm": "Abiasaf-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax-tendencia, hijo de Core (Ex 6:24). Forma alternativa Ebiasaf (H43). Sufijo '-pn' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H24",
+      "hebreeuws": "אָבִיב",
+      "translit": "aviv",
+      "woordsoort": "sustantivo",
+      "es_concordant": "espiga-mes",
+      "grondvorm": "espiga-mes",
+      "stamfamilie": [],
+      "toelichting": "La espiga de grano-en-leche (Ex 9:31; Lev 2:14) y por extension el mes de la primera cosecha (Aviv = marzo-abril). Hyphenated para preservar tanto el aspecto botanico como el calendarico.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H26",
+      "hebreeuws": "אֲבִיגַיִל",
+      "translit": "avigail",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abigail",
+      "grondvorm": "Abigail",
+      "stamfamilie": [],
+      "toelichting": "Esposa de Nabal y luego de David (1Sa 25). Etimologia: 'mi-padre-es-gozo'. Convencion espanola RV60.",
+      "voorkomens": 19
+    },
+    {
+      "strong": "H27",
+      "hebreeuws": "אֲבִידָן",
+      "translit": "Avidan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abidan",
+      "grondvorm": "Abidan",
+      "stamfamilie": [
+        "H1"
+      ],
+      "toelichting": "Principe de Benjamin (Num 1:11; 2:22). Convencion espanola.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H28",
+      "hebreeuws": "אֲבִידָע",
+      "translit": "Abida",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abida",
+      "grondvorm": "Abida",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Madian, nieto de Abraham (Gn 25:4; 1Cr 1:33). Convencion espanola.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H29",
+      "hebreeuws": "אֲבִיָּה",
+      "translit": "aviyyah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abias",
+      "grondvorm": "Abias",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores: hijo de Samuel (1Sa 8:2), rey de Juda (1Re 14:31), sacerdote (Lc 1:5 NT-eco), etc. Convencion espanola RV60.",
+      "voorkomens": 25
+    },
+    {
+      "strong": "H30",
+      "hebreeuws": "אֲבִיהוּא",
+      "translit": "Avihu",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abiu",
+      "grondvorm": "Abiu",
+      "stamfamilie": [],
+      "toelichting": "Segundo hijo de Aaron, muerto con Nadab por fuego extrano (Lev 10:1-2). Convencion espanola RV60.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H31",
+      "hebreeuws": "אֲבִיהוּד",
+      "translit": "avihud-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abihud-pn",
+      "grondvorm": "Abihud-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax, descendiente de Benjamin (1Cr 8:3). Sufijo '-pn' para distinguir de Abiu (H30).",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H32",
+      "hebreeuws": "אֲבִיחַיִל",
+      "translit": "Avichayil",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abihail",
+      "grondvorm": "Abihail",
+      "stamfamilie": [
+        "H1"
+      ],
+      "toelichting": "Multiples portadores: padre de Zuriel (Num 3:35), Abigail-Davidica-cuando-de-Carmel (1Cr 2:29), padre de Ester (Est 2:15). Convencion espanola RV60.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H33",
+      "hebreeuws": "אֲבִיַֽעֶזְרִי",
+      "translit": "Aviezri",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "abiezerita",
+      "grondvorm": "abiezerita",
+      "stamfamilie": [
+        "H44"
+      ],
+      "toelichting": "Adjetivo gentilicio de Abiezer (H44). Hyphenated NA.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H34",
+      "hebreeuws": "אֶבְיוֹן",
+      "translit": "evyon",
+      "woordsoort": "adjetivo",
+      "es_concordant": "pobre-necesitado",
+      "grondvorm": "pobre-necesitado",
+      "stamfamilie": [
+        "H14"
+      ],
+      "toelichting": "Considerado: pobre, necesitado, indigente, mendigo. El sustantivo deriva de avah (anhelar, desear) y se refiere a la clase social caracterizada por carencia y anhelo. Hebreo tiene multiples palabras-de-pobreza (ani, dal, evyon, rash, miskeen). El par concordante 'pobre-necesitado' captura tanto la carencia material como el anhelo-de-ayuda de la raiz av-.",
+      "voorkomens": 61
+    },
+    {
+      "strong": "H35",
+      "hebreeuws": "אֲבִיוֹנָה",
+      "translit": "abiune",
+      "woordsoort": "sustantivo",
+      "es_concordant": "alcaparra",
+      "grondvorm": "alcaparra",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Ec 12:5 'la alcaparra fallara'). Planta arbustiva mediterranea. Convencion botanica.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H36",
+      "hebreeuws": "אֲבִיטוּב",
+      "translit": "avitub-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abitob-pn",
+      "grondvorm": "Abitob-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax, descendiente de Benjamin (1Cr 8:11). Sufijo '-pn' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H37",
+      "hebreeuws": "אֲבִיטָל",
+      "translit": "Avital",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abital",
+      "grondvorm": "Abital",
+      "stamfamilie": [
+        "H1"
+      ],
+      "toelichting": "Esposa de David, madre de Sefatias (2Sa 3:4; 1Cr 3:3). Convencion espanola.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H38",
+      "hebreeuws": "אֲבִיָּם",
+      "translit": "Aviyyam",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abiam",
+      "grondvorm": "Abiam",
+      "stamfamilie": [
+        "H29"
+      ],
+      "toelichting": "Rey de Juda (1Re 14:31; 15:1-8), variante de Abias H29 segun cronistas. Convencion espanola RV60.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H39",
+      "hebreeuws": "אֲבִימָאֵל",
+      "translit": "Abimael",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abimael",
+      "grondvorm": "Abimael",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Joctan (Gn 10:28; 1Cr 1:22). Convencion espanola RV60.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H40",
+      "hebreeuws": "אֲבִימֶלֶךְ",
+      "translit": "avimelech",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abimelec",
+      "grondvorm": "Abimelec",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores: rey de Gerar (Gn 20-21; 26), hijo de Gedeon (Jue 9), sacerdote (Sal 34 titulo). Convencion espanola RV60.",
+      "voorkomens": 67
+    },
+    {
+      "strong": "H41",
+      "hebreeuws": "אֲבִינָדָב",
+      "translit": "Avinadav",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abinadab",
+      "grondvorm": "Abinadab",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores: padre de los criados-del-arca (1Sa 7:1), hermano de David (1Sa 16:8), hijo de Saul (1Sa 31:2), oficial de Salomon (1Re 4:11). Convencion espanola RV60.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H42",
+      "hebreeuws": "אֲבִינֹֽעַם",
+      "translit": "Avino'am",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abinoam",
+      "grondvorm": "Abinoam",
+      "stamfamilie": [
+        "H5278"
+      ],
+      "toelichting": "Padre de Barac (Jue 4:6,12; 5:1,12). Convencion espanola RV60.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H43",
+      "hebreeuws": "אֶבְיָסָף",
+      "translit": "Evyasaf",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ebiasaf",
+      "grondvorm": "Ebiasaf",
+      "stamfamilie": [
+        "H1"
+      ],
+      "toelichting": "Hijo de Core (1Cr 6:23,37; 9:19); variante de H23 Abiasaf. Convencion espanola RV60.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H44",
+      "hebreeuws": "אֲבִיעֶזֶר",
+      "translit": "Avi'ezer",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abiezer",
+      "grondvorm": "Abiezer",
+      "stamfamilie": [
+        "H33"
+      ],
+      "toelichting": "Multiples portadores: descendiente de Manases (Jos 17:2; Jue 6:34), guerrero de David (2Sa 23:27). Convencion espanola RV60.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H45",
+      "hebreeuws": "אֲבִי‐עַלְבּוֹן",
+      "translit": "avi-alvon-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abi-Albon-pn",
+      "grondvorm": "Abi-Albon-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax, guerrero de David (2Sa 23:31). Sufijo '-pn' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H46",
+      "hebreeuws": "אָבִיר",
+      "translit": "abir",
+      "woordsoort": "sustantivo",
+      "es_concordant": "toro-poderoso",
+      "grondvorm": "toro-poderoso",
+      "stamfamilie": [
+        "H47"
+      ],
+      "toelichting": "Usado seis veces, todas como titulos o metaforas con lo divino ('el Poderoso de Jacob', Gn 49:24) o como sementales-jefes. El rango semantico cubre el toro literal y el poderoso figurado. RV60 usa 'Fuerte' o 'Poderoso' solo, lo cual pierde la imagen-de-toro. La forma hyphenated preserva ambos polos. Distinguido de H47 abbir (forma adjetiva).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H47",
+      "hebreeuws": "אַבִּיר",
+      "translit": "abbir",
+      "woordsoort": "adjetivo",
+      "es_concordant": "fuerte-poderoso",
+      "grondvorm": "fuerte-poderoso",
+      "stamfamilie": [
+        "H46"
+      ],
+      "toelichting": "Forma adjetiva. Usada 17 veces para guerreros, aves-rapaces, toros. La hyphenation marca intensidad. Distinguido de H46 por morfologia (sustantivo-titulo vs adjetivo) y por la perdida de la imagen-toro explicita en el adjetivo.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H48",
+      "hebreeuws": "אֲבִירָם",
+      "translit": "Aviram",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abiram",
+      "grondvorm": "Abiram",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores: rebelde de la familia de Datan-Abiram (Num 16), hijo primogenito de Hiel (1Re 16:34). Convencion espanola RV60.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H49",
+      "hebreeuws": "אֲבִישַׁג",
+      "translit": "Avishag",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abisag",
+      "grondvorm": "Abisag",
+      "stamfamilie": [],
+      "toelichting": "Sunamita que sirvio al envejecido David (1Re 1:1-4,15; 2:17,21,22). Convencion espanola RV60.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H50",
+      "hebreeuws": "אֲבִישׁוּעַ",
+      "translit": "Avishua",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abisua",
+      "grondvorm": "Abisua",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Finees, sumo sacerdote (1Cr 6:4-5,50; Esd 7:5). Convencion espanola RV60.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H51",
+      "hebreeuws": "אֲבִישֽׁוּר",
+      "translit": "Avishur-Sjamai-zoon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abisur",
+      "grondvorm": "Abisur",
+      "stamfamilie": [
+        "H1"
+      ],
+      "toelichting": "Descendiente de Juda (1Cr 2:28-29). Convencion espanola RV60.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H52",
+      "hebreeuws": "אֲבִישַׁי",
+      "translit": "avishai",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abisai",
+      "grondvorm": "Abisai",
+      "stamfamilie": [],
+      "toelichting": "Hermano de Joab y Asael, sobrino de David (1Sa 26:6 etc.). Convencion espanola RV60.",
+      "voorkomens": 26
+    },
+    {
+      "strong": "H53",
+      "hebreeuws": "אַבְשָׁלוֹם",
+      "translit": "Avshalom",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Absalon",
+      "grondvorm": "Absalon",
+      "stamfamilie": [],
+      "toelichting": "Tercer hijo de David, rebelde (2Sa 13-19). Convencion espanola RV60.",
+      "voorkomens": 114
+    },
+    {
+      "strong": "H54",
+      "hebreeuws": "אֶבְיָתָר",
+      "translit": "evyatar",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abiatar",
+      "grondvorm": "Abiatar",
+      "stamfamilie": [],
+      "toelichting": "Sumo sacerdote durante David, expulsado por Salomon (1Sa 22:20-23 etc.). Convencion espanola RV60.",
+      "voorkomens": 29
+    },
+    {
+      "strong": "H55",
+      "hebreeuws": "אָבַח",
+      "translit": "avach",
+      "woordsoort": "verbo",
+      "es_concordant": "humear-elevarse",
+      "grondvorm": "humear-elevarse",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Is 9:18 'humear y elevarse'). Hyphenated para distinguir del comportamiento-fuego de H8313 saraf y H398 akal.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H56",
+      "hebreeuws": "אבל",
+      "translit": "aval",
+      "woordsoort": "verbo",
+      "es_concordant": "estar-de-luto",
+      "grondvorm": "estar-de-luto",
+      "stamfamilie": [
+        "H56",
+        "H57",
+        "H60"
+      ],
+      "toelichting": "Verbo. Campo semantico estandar; el nucleo es la expresion de duelo por los muertos o por calamidad. Distinguido de H56 mediante woordsoort de H57 (adjetivo) y H60 (sustantivo).",
+      "voorkomens": 39
+    },
+    {
+      "strong": "H57",
+      "hebreeuws": "אָבֵל",
+      "translit": "avel",
+      "woordsoort": "adjetivo",
+      "es_concordant": "doliente-avel",
+      "grondvorm": "doliente-avel",
+      "stamfamilie": [
+        "H56"
+      ],
+      "toelichting": "Adjetival. Forma comparte raiz con H56 verbo y H60 sustantivo. Hyphenated con sufijo '-avel' para preservar uniqueness.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H59",
+      "hebreeuws": "אָבֵל",
+      "translit": "Avel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abel-lugar",
+      "grondvorm": "Abel-lugar",
+      "stamfamilie": [],
+      "toelichting": "Toponimo, abreviado de varios nombres-Abel-X (H62, H63, H65, H66, H67). Hyphenated con '-lugar' para distinguir de homografos.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H60",
+      "hebreeuws": "אֵבֶל",
+      "translit": "evel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "luto",
+      "grondvorm": "luto",
+      "stamfamilie": [
+        "H56"
+      ],
+      "toelichting": "Sustantivo abstracto de la raiz aval. Distinto de H57 (adjetivo) por morfologia y de H56 (verbo) por morfologia. Concordante simple.",
+      "voorkomens": 24
+    },
+    {
+      "strong": "H61",
+      "hebreeuws": "אֲבָל",
+      "translit": "aval",
+      "woordsoort": "interjeccion",
+      "es_concordant": "ciertamente-aval",
+      "grondvorm": "ciertamente-aval",
+      "stamfamilie": [],
+      "toelichting": "Homonimo de H56 (mismas consonantes, raiz distinta). Particula afirmativa-adversativa. Considerado: en-verdad, ciertamente, sin-embargo. RV60 alterna 'ciertamente/sin embargo'. 'Ciertamente' como nucleo afirmativo; el uso adversativo es matiz contextual. Sufijo '-aval' para distinguir de homografos.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H62",
+      "hebreeuws": "אָבֵל בֵּית מַעֲכָה",
+      "translit": "Abel-Beth-Maakah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abel-Bet-Maaca-Neftali",
+      "grondvorm": "Abel-Bet-Maaca-Neftali",
+      "stamfamilie": [
+        "H59"
+      ],
+      "toelichting": "Ciudad fortificada al norte (2Sa 20:14-18 etc.). Hyphenated con localizacion tribal.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H63",
+      "hebreeuws": "אָבֵל הַשִּׁטִּים",
+      "translit": "avel-hashittim-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abel-Sitim-pn",
+      "grondvorm": "Abel-Sitim-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Num 33:49). Sufijo '-pn' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H64",
+      "hebreeuws": "אָבֵל כְּרָמִים",
+      "translit": "avel-keramim-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abel-Keramim-pn-lugar",
+      "grondvorm": "Abel-Keramim-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jue 11:33). 'Llano-de-las-vinas'. Sufijo '-pn-lugar' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H65",
+      "hebreeuws": "אָבֵל מְחוֹלָה",
+      "translit": "Abel-Mecholah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abel-Mehola-ciudad-Jordan",
+      "grondvorm": "Abel-Mehola-ciudad-Jordan",
+      "stamfamilie": [
+        "H57"
+      ],
+      "toelichting": "Lugar de nacimiento de Eliseo (Jue 7:22; 1Re 4:12; 19:16). Hyphenated con localizacion.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H66",
+      "hebreeuws": "אָבֵל מָיִם",
+      "translit": "avel-mayim-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abel-Maim-pn",
+      "grondvorm": "Abel-Maim-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (2Cr 16:4). Variante de Abel-Bet-Maaca. Sufijo '-pn' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H67",
+      "hebreeuws": "אָבֵל מִצְרַיִם",
+      "translit": "avel-mitsrayim-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abel-Mizraim-pn",
+      "grondvorm": "Abel-Mizraim-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Gn 50:11). 'Llano-de-Egipto', donde Jose lloro a Jacob. Sufijo '-pn' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H68",
+      "hebreeuws": "אֶבֶן",
+      "translit": "even",
+      "woordsoort": "sustantivo",
+      "es_concordant": "piedra",
+      "grondvorm": "piedra",
+      "stamfamilie": [
+        "H68",
+        "H69",
+        "H70"
+      ],
+      "toelichting": "Lexema unico. 267 apariciones. Concordante simple. Stamfamilie con H69 (arameo) y H70 (dual).",
+      "voorkomens": 267
+    },
+    {
+      "strong": "H69",
+      "hebreeuws": "אֶבֶן",
+      "translit": "even-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "piedra-arameo",
+      "grondvorm": "piedra-arameo",
+      "stamfamilie": [
+        "H68"
+      ],
+      "toelichting": "Cognado arameo de H68 (Esd 5:8; 6:4 etc.; Dan 2:34-35,45). Concordantemente vinculado por sufijo '-arameo'.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H70",
+      "hebreeuws": "אָבְנַיִם",
+      "translit": "ovnayim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "piedras-de-parto-rueda-de-alfarero",
+      "grondvorm": "piedras-de-parto-rueda-de-alfarero",
+      "stamfamilie": [
+        "H68"
+      ],
+      "toelichting": "Forma dual de H68 que cubre dos objetos distintos: las piedras-de-parto (Ex 1:16, la silla sobre la cual las hebreas daban a luz) y la rueda del alfarero (Jer 18:3). El render concordante preserva ambos, usando la indicacion de forma-dual de que son objetos pareados-de-piedra.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H71",
+      "hebreeuws": "אֲבָנָה",
+      "translit": "abne",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abana-rio-pn",
+      "grondvorm": "Abana-rio-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (2Re 5:12). Rio de Damasco. Hyphenated con descriptor.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H72",
+      "hebreeuws": "אֶבֶן הָעָזֶר",
+      "translit": "Even-ha-Ezer",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Eben-ezer",
+      "grondvorm": "Eben-ezer",
+      "stamfamilie": [
+        "H68"
+      ],
+      "toelichting": "Sustantivo propio compuesto. Convencion espanola Eben-ezer (1Sa 4:1; 5:1; 7:12). El sentido literal 'piedra-de-ayuda' se preserva en la toelichting.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H73",
+      "hebreeuws": "אַבְנֵט",
+      "translit": "avnet",
+      "woordsoort": "sustantivo",
+      "es_concordant": "faja-cinto",
+      "grondvorm": "faja-cinto",
+      "stamfamilie": [],
+      "toelichting": "El cinto del sumo sacerdote (Ex 28:4 etc.) y de oficiales reales (Is 22:21). Hyphenated para preservar tanto la longitud-de-tela como la funcion-cenidor.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H74",
+      "hebreeuws": "אַבְנֵר",
+      "translit": "avner",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abner",
+      "grondvorm": "Abner",
+      "stamfamilie": [],
+      "toelichting": "Comandante del ejercito de Saul, primo del rey, asesinado por Joab (1Sa 14:50 etc.). Convencion espanola RV60.",
+      "voorkomens": 63
+    },
+    {
+      "strong": "H75",
+      "hebreeuws": "אָבוּס",
+      "translit": "avus-gemest",
+      "woordsoort": "verbo",
+      "es_concordant": "engordado-cebado-establo",
+      "grondvorm": "engordado-cebado-establo",
+      "stamfamilie": [],
+      "toelichting": "Participio pasivo. Animal cebado-en-establo (1Re 4:23; Pr 15:17; Jer 46:21). Hyphenated triple para preservar tanto el estado (engordado), el proceso (cebado) y la ubicacion (establo).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H76",
+      "hebreeuws": "אֲבַעְבֻעֹת",
+      "translit": "ababuoth",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ampollas-pustulas-ulceras",
+      "grondvorm": "ampollas-pustulas-ulceras",
+      "stamfamilie": [],
+      "toelichting": "Sexta plaga de Egipto (Ex 9:9-10). Hyphenated triple para preservar tanto la pequenez-de-vejiga, la formacion-pustular como el aspecto-ulceroso.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H77",
+      "hebreeuws": "אֶבֶץ",
+      "translit": "evets-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ebes-pn-lugar",
+      "grondvorm": "Ebes-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jos 19:20). Ciudad de Isacar. Sufijo '-pn-lugar' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H78",
+      "hebreeuws": "אִבְצָן",
+      "translit": "Ivtsan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ibzan-juez-Belen",
+      "grondvorm": "Ibzan-juez-Belen",
+      "stamfamilie": [],
+      "toelichting": "Juez de Israel, sucesor de Jefte (Jue 12:8-10). Hyphenated con descripcion-rol-localizacion.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H79",
+      "hebreeuws": "אָבַק",
+      "translit": "avaq-worstelen",
+      "woordsoort": "verbo",
+      "es_concordant": "luchar-levantar-polvo",
+      "grondvorm": "luchar-levantar-polvo",
+      "stamfamilie": [
+        "H80"
+      ],
+      "toelichting": "Hapax-doblado (Gn 32:24-25 lucha de Jacob con el angel). La etimologia conecta con avaq 'polvo' (H80): luchar es levantar-polvo. Hyphenated para preservar tanto la accion (luchar) como su-efecto-fisico (levantar-polvo).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H80",
+      "hebreeuws": "אָבָק",
+      "translit": "avaq",
+      "woordsoort": "sustantivo",
+      "es_concordant": "polvo",
+      "grondvorm": "polvo",
+      "stamfamilie": [
+        "H79",
+        "H81"
+      ],
+      "toelichting": "Polvo fino (Ex 9:9; Dt 28:24; Is 5:24; 29:5; Eze 26:10; Nah 1:3). Concordante simple.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H81",
+      "hebreeuws": "אֲבָקָה",
+      "translit": "avqah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "polvo-de-especias",
+      "grondvorm": "polvo-de-especias",
+      "stamfamilie": [
+        "H80"
+      ],
+      "toelichting": "Hapax (Cnt 3:6 'polvos del mercader'). Hyphenated para distinguir del polvo-comun H80.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H82",
+      "hebreeuws": "אָבַר",
+      "translit": "avar",
+      "woordsoort": "verbo",
+      "es_concordant": "ala-extender",
+      "grondvorm": "ala-extender",
+      "stamfamilie": [
+        "H83",
+        "H84"
+      ],
+      "toelichting": "Hapax (Job 39:26 'extiende sus alas'). Verbo denominativo de H83 ever 'ala'. Hyphenated para preservar el sentido extender-ala distinto del simple-volar.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H83",
+      "hebreeuws": "אֵבֶר",
+      "translit": "ever-vleugel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ala-pluma-grande",
+      "grondvorm": "ala-pluma-grande",
+      "stamfamilie": [
+        "H82"
+      ],
+      "toelichting": "Plumas grandes-mayores del ala (Sal 55:6; Is 40:31; Eze 17:3). Hyphenated para preservar tanto el ala-completa como la pluma-mayor especifica.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H84",
+      "hebreeuws": "אֶבְרָה",
+      "translit": "evrah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "remera-pluma-grande-golpe",
+      "grondvorm": "remera-pluma-grande-golpe",
+      "stamfamilie": [
+        "H83"
+      ],
+      "toelichting": "Sustantivo abstracto/concreto del aleteo. Sal 68:13; Job 39:13; Dt 32:11. Hyphenated triple para preservar el golpe-aletear y la pluma-grande mayor.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H85",
+      "hebreeuws": "אַבְרָהָם",
+      "translit": "Avraham",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abraham",
+      "grondvorm": "Abraham",
+      "stamfamilie": [
+        "H87"
+      ],
+      "toelichting": "El patriarca despues de Gn 17:5. Convencion espanola estandar. El cambio-de-nombre narrativo se preserva manteniendo H85 y H87 como codigos Strong separados.",
+      "voorkomens": 175
+    },
+    {
+      "strong": "H86",
+      "hebreeuws": "אַבְרֵךְ",
+      "translit": "avrek",
+      "woordsoort": "interjeccion",
+      "es_concordant": "abrek-doblad-rodilla",
+      "grondvorm": "abrek-doblad-rodilla",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Gn 41:43 grito heraldico ante Jose). Etimologia debatida: posiblemente del egipcio o de barak 'rodilla/bendecir'. Hyphenated para preservar transliteracion mas glosa funcional.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H87",
+      "hebreeuws": "אַבְרָם",
+      "translit": "avram",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abram",
+      "grondvorm": "Abram",
+      "stamfamilie": [
+        "H85"
+      ],
+      "toelichting": "Nombre pre-pactual. Concordantemente transliterado. Convencion espanola.",
+      "voorkomens": 61
+    },
+    {
+      "strong": "H88",
+      "hebreeuws": "אֹבֹת",
+      "translit": "Ovoth",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Obot",
+      "grondvorm": "Obot",
+      "stamfamilie": [],
+      "toelichting": "Lugar de campamento en el desierto (Num 21:10-11; 33:43-44). Convencion espanola RV60.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H89",
+      "hebreeuws": "אָגֵא",
+      "translit": "age-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ague-pn",
+      "grondvorm": "Ague-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (2Sa 23:11). Padre de Sama. Sufijo '-pn' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H90",
+      "hebreeuws": "אֲגַג",
+      "translit": "Agag",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Agag",
+      "grondvorm": "Agag",
+      "stamfamilie": [
+        "H91"
+      ],
+      "toelichting": "Rey de Amalec asesinado por Samuel (1Sa 15). Convencion espanola RV60.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H91",
+      "hebreeuws": "אֲגָגִי",
+      "translit": "Agagi",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "agagueo",
+      "grondvorm": "agagueo",
+      "stamfamilie": [
+        "H90"
+      ],
+      "toelichting": "Adjetivo gentilicio aplicado a Aman (Est 3:1 etc.). Convencion espanola.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H92",
+      "hebreeuws": "אֲגֻדָּה",
+      "translit": "aguddah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "haz-gavilla-atadura",
+      "grondvorm": "haz-gavilla-atadura",
+      "stamfamilie": [
+        "H97"
+      ],
+      "toelichting": "Manojo de hisopo (Ex 12:22), gavilla (2Sa 2:25), atadura del yugo (Is 58:6), banda del cielo-firmamento (Am 9:6). Hyphenated triple para preservar el ambito unidad-objeto, agricultura-cosecha, y atadura-vinculante.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H93",
+      "hebreeuws": "אֲגוֹז",
+      "translit": "egoz",
+      "woordsoort": "sustantivo",
+      "es_concordant": "nuez-huerto",
+      "grondvorm": "nuez-huerto",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Cnt 6:11 'huerto de nogales'). Hyphenated para preservar la nuez-fruto y el huerto-locacion.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H94",
+      "hebreeuws": "אָגוּר",
+      "translit": "agur-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Agur-pn",
+      "grondvorm": "Agur-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Pr 30:1). Autor reconocido del proverbio. Sufijo '-pn' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H95",
+      "hebreeuws": "אֲגוֹרָה",
+      "translit": "agorah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "moneda-pieza",
+      "grondvorm": "moneda-pieza",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Sa 2:36 'pago de plata'). Pieza pequena de plata. Hyphenated para preservar moneda-fisica y pieza-fragmento.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H96",
+      "hebreeuws": "אֵגֶל",
+      "translit": "egel-druppel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "gota-de-rocio",
+      "grondvorm": "gota-de-rocio",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Job 38:28 'gotas del rocio'). Hyphenated para preservar la gota-individual y el rocio-fenomeno.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H97",
+      "hebreeuws": "אֶגְלַיִם",
+      "translit": "eglayim-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Eglaim-pn-lugar",
+      "grondvorm": "Eglaim-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Is 15:8). Lugar moabita. Sufijo '-pn-lugar' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H98",
+      "hebreeuws": "אֲגַם",
+      "translit": "agam",
+      "woordsoort": "sustantivo",
+      "es_concordant": "estanque-de-juncos",
+      "grondvorm": "estanque-de-juncos",
+      "stamfamilie": [],
+      "toelichting": "Aguas-estancadas con juncos (Ex 7:19; 8:5; Sal 107:35; Is 14:23). Hyphenated para preservar el estanque-locacion mas el junco-vegetacion-asociada.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H99",
+      "hebreeuws": "אֲגַם",
+      "translit": "agam-werker",
+      "woordsoort": "sustantivo",
+      "es_concordant": "jornalero-asalariado",
+      "grondvorm": "jornalero-asalariado",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Is 19:10). Mismas consonantes que H98 pero campo-semantico distinto: trabajador-pagado-por-jornada. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H100",
+      "hebreeuws": "אַגְמוֹן",
+      "translit": "agmon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "junco-cana",
+      "grondvorm": "junco-cana",
+      "stamfamilie": [
+        "H98"
+      ],
+      "toelichting": "Junco con la cabeza inclinada (Is 9:14; 19:15; 58:5; Job 40:26; 41:2). Distinto de H98 (estanque) y H7070 qaneh (cana-recta).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H101",
+      "hebreeuws": "אַגָּן",
+      "translit": "aggan-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "vasija-tazon-copa-tazon-de-sacrificio",
+      "grondvorm": "vasija-tazon-copa-tazon-de-sacrificio",
+      "stamfamilie": [],
+      "toelichting": "Recipiente sagrado para libacion (Ex 24:6; Cnt 7:3; Is 22:24). Cuadruple-hyphenation preserva el rango-completo del recipiente desde uso-domestico hasta sacrificial.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H102",
+      "hebreeuws": "אֲגַף",
+      "translit": "agaph",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tropa-flanco",
+      "grondvorm": "tropa-flanco",
+      "stamfamilie": [],
+      "toelichting": "Tropas-militares-bordeadas, flanco del ejercito (Eze 12:14; 17:21; 38:6,9,22; 39:4). Hyphenated para preservar el aspecto-tropa y el aspecto-flanco-formacion.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H103",
+      "hebreeuws": "אָגַר",
+      "translit": "agar",
+      "woordsoort": "verbo",
+      "es_concordant": "recolectar-cosechar",
+      "grondvorm": "recolectar-cosechar",
+      "stamfamilie": [],
+      "toelichting": "Recoger en cosecha (Pr 6:8; Pr 10:5; Dt 28:39). Hyphenated para preservar la accion de recoger general y especificamente cosecha-agricola.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H104",
+      "hebreeuws": "אִגְּרָה",
+      "translit": "iggera",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "misiva-carta-aramea",
+      "grondvorm": "misiva-carta-aramea",
+      "stamfamilie": [
+        "H107"
+      ],
+      "toelichting": "Cognado arameo de H107 (Esd 4:8,11; 5:6). Hyphenated con sufijo '-aramea' para distinguir del hebreo H107.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H105",
+      "hebreeuws": "אֲגַרְטָל",
+      "translit": "agartal",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tazon-de-ofrenda",
+      "grondvorm": "tazon-de-ofrenda",
+      "stamfamilie": [],
+      "toelichting": "Tazones de oro-plata para el templo (Esd 1:9 dos veces). Persa-loanword. Hyphenated.",
+      "voorkomens": 2,
+      "notes": "Persian-loanword"
+    },
+    {
+      "strong": "H106",
+      "hebreeuws": "אֶגְרֹף",
+      "translit": "egrof",
+      "woordsoort": "sustantivo",
+      "es_concordant": "puno-mano-cerrada-golpear",
+      "grondvorm": "puno-mano-cerrada-golpear",
+      "stamfamilie": [],
+      "toelichting": "El puno cerrado-para-golpear (Ex 21:18; Is 58:4). Triple-hyphenation preserva la mano-fisica, su-estado-cerrado y la accion-de-golpe.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H107",
+      "hebreeuws": "אִגֶּרֶת",
+      "translit": "iggeret",
+      "woordsoort": "sustantivo",
+      "es_concordant": "carta",
+      "grondvorm": "carta",
+      "stamfamilie": [],
+      "toelichting": "Carta-escrita estandar (2Cr 30:1,6 etc.). Distinguido de H5612 sefer 'libro/rollo' y H4385 mikhtav 'escritura'.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H108",
+      "hebreeuws": "אֵד",
+      "translit": "ed-nevel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "neblina-vapor-humedad-ascendente",
+      "grondvorm": "neblina-vapor-humedad-ascendente",
+      "stamfamilie": [],
+      "toelichting": "Hapax-doble (Gn 2:6 'subia un vapor'; Job 36:27 'vapores de aguas'). Hyphenated cuadruple para preservar el aspecto neblina-fisica, vapor-ascendente y humedad-difusa.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H109",
+      "hebreeuws": "אָדִיב",
+      "translit": "adib",
+      "woordsoort": "verbo",
+      "es_concordant": "causar-pesar",
+      "grondvorm": "causar-pesar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Sa 2:33 'consumas tus ojos y aflijas tu alma'). Hyphenated para preservar el sentido causativo de afliccion.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H110",
+      "hebreeuws": "אַדְבְּאֵל",
+      "translit": "Adbeel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Adbeel",
+      "grondvorm": "Adbeel",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Ismael (Gn 25:13; 1Cr 1:29). Convencion espanola.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H111",
+      "hebreeuws": "אֲדַד",
+      "translit": "adad-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Adad-pn",
+      "grondvorm": "Adad-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Re 11:17 LXX-aclaracion). Sufijo '-pn' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H112",
+      "hebreeuws": "אִדַּיִן",
+      "translit": "iddayin-Aram",
+      "woordsoort": "adverbio-arameo",
+      "es_concordant": "tiempo-entonces-arameo",
+      "grondvorm": "tiempo-entonces-arameo",
+      "stamfamilie": [
+        "H116"
+      ],
+      "toelichting": "Cognado arameo de H116 (Dan 2:35; 6:5). Hyphenated con sufijo '-arameo'.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H113",
+      "hebreeuws": "אדון",
+      "translit": "adon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "senor",
+      "grondvorm": "senor",
+      "stamfamilie": [
+        "H113",
+        "H136"
+      ],
+      "toelichting": "Considerado: senor, amo, soberano, senor-respetado. El lexema cubre todos en distribucion. RV60 alterna entre 'Senor' (divino), 'amo' (humano), 'senor' (cortesia). El analisis de siete-anclas confirma que el nucleo es relacion-de-autoridad-jerarquica; la division divino-vs-humano es contextual. 'Senor' (minuscula) sostiene el nucleo-autoridad a traves de las 326 apariciones. La capitalizacion es eleccion de renderizado (cuando el referente es YHWH o el Mesias), no distincion lexica.",
+      "voorkomens": 326
+    },
+    {
+      "strong": "H114",
+      "hebreeuws": "אַדּוֹן",
+      "translit": "addon-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Addon-pn-lugar",
+      "grondvorm": "Addon-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Neh 7:61). Sufijo '-pn-lugar' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H115",
+      "hebreeuws": "אֲדוֹרַיִם",
+      "translit": "adorayim-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Adoraim-pn-ciudad",
+      "grondvorm": "Adoraim-pn-ciudad",
+      "stamfamilie": [],
+      "toelichting": "Hapax (2Cr 11:9). Ciudad fortificada por Roboam. Sufijo '-pn-ciudad' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H116",
+      "hebreeuws": "אֱדַיִן",
+      "translit": "edayin-Aram",
+      "woordsoort": "adverbio",
+      "es_concordant": "entonces-arameo-edayin",
+      "grondvorm": "entonces-arameo-edayin",
+      "stamfamilie": [],
+      "toelichting": "Adverbio arameo principal (57 apariciones en Daniel y Esdras). Hyphenated con sufijo '-edayin' para distinguir del hebreo az H227.",
+      "voorkomens": 57
+    },
+    {
+      "strong": "H117",
+      "hebreeuws": "אַדִּיר",
+      "translit": "addir",
+      "woordsoort": "adjetivo",
+      "es_concordant": "poderoso-addir",
+      "grondvorm": "poderoso-addir",
+      "stamfamilie": [
+        "H142",
+        "H155"
+      ],
+      "toelichting": "Adjetivo de magnitud-poder. 26 apariciones (Sal 8:1,9; Sal 76:4; Is 33:21 etc.). Hyphenated con sufijo '-addir' para distinguir de H142 addir 'poderoso-excelente-noble' (variante semantica).",
+      "voorkomens": 26
+    },
+    {
+      "strong": "H118",
+      "hebreeuws": "אֲדַלְיָא",
+      "translit": "adalya-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Adalia-pn",
+      "grondvorm": "Adalia-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Est 9:8). Hijo de Aman. Sufijo '-pn' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H119",
+      "hebreeuws": "אָדַם",
+      "translit": "adam-II",
+      "woordsoort": "verbo",
+      "es_concordant": "enrojecer-ser-rojo",
+      "grondvorm": "enrojecer-ser-rojo",
+      "stamfamilie": [
+        "H120",
+        "H122a"
+      ],
+      "toelichting": "Verbo denominativo del color rojo (Is 1:18; Lam 4:7; Ex 25:5 etc.). Hyphenated para preservar tanto el causativo (enrojecer) como el estativo (ser-rojo).",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H120",
+      "hebreeuws": "אדם",
+      "translit": "adam",
+      "woordsoort": "sustantivo",
+      "es_concordant": "humano",
+      "grondvorm": "humano",
+      "stamfamilie": [
+        "H120",
+        "H127"
+      ],
+      "toelichting": "DECISION CLAVE. Considerado: hombre, humanidad, ser-humano, humano. RV60/NVI/LBLA usan 'hombre' por defecto. El analisis de siete-anclas: el adam hebreo es gramaticalmente masculino pero semanticamente inclusivo (Gn 1:27 'varon y hembra los creo' ambos dentro de ha-adam; Gn 5:2 'macho y hembra los creo y los llamo Adam'). 'Hombre' en espanol moderno es genero-cargado y excluye la referencia femenina. 'Humano' preserva el significado-especie sin el sesgo-masculino. NRSV ingles usa 'human/humankind/humanity' por la misma razon. 'Humano' es el minimo concordante que sostiene tanto sentido individual como colectivo sin insertar genero que la fuente no especifica. Nota: cuando aparece 'ben-adam' (hijo-de-hombre) el render es 'hijo-de-humano', concordante aunque insolito.",
+      "voorkomens": 549
+    },
+    {
+      "strong": "H121",
+      "hebreeuws": "אָדָם",
+      "translit": "Adam-I",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Adan",
+      "grondvorm": "Adan",
+      "stamfamilie": [
+        "H120"
+      ],
+      "toelichting": "Mantenido como nombre-propio donde el contexto se refiere inequivocamente al primer-humano como individuo nombrado (Gn 4:25; 5:1-5 etc.). El homografo con H120 adam se preserva por la distincion-de-codigo-Strong.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H122a",
+      "hebreeuws": "אָדֹם",
+      "translit": "adom",
+      "woordsoort": "adjetivo",
+      "es_concordant": "rojo",
+      "grondvorm": "rojo",
+      "stamfamilie": [
+        "H119",
+        "H120"
+      ],
+      "toelichting": "Color rojo general (Gn 25:30; Is 1:18; Lam 4:7; Cnt 5:10; Pr 23:31). Concordante simple.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H122b",
+      "hebreeuws": "אָדֹם",
+      "translit": "adom-paard",
+      "woordsoort": "adjetivo",
+      "es_concordant": "alazan-rojizo-color-de-caballo",
+      "grondvorm": "alazan-rojizo-color-de-caballo",
+      "stamfamilie": [
+        "H122a"
+      ],
+      "toelichting": "Mismo lexema que H122a dividido por uso-distintivo de Zacarias para color-de-caballo. H122a cubre el rojo general; H122b especificamente la-pelaje-de-caballo 'alazan/bayo'. Hyphenated triple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H123",
+      "hebreeuws": "אדום",
+      "translit": "Edom",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Edom",
+      "grondvorm": "Edom",
+      "stamfamilie": [
+        "H123"
+      ],
+      "toelichting": "Esau-renombrado (Gn 25:30) y la nacion descendiente. Convencion espanola RV60.",
+      "voorkomens": 99
+    },
+    {
+      "strong": "H124",
+      "hebreeuws": "אֹדֶם",
+      "translit": "odem-robijn",
+      "woordsoort": "sustantivo",
+      "es_concordant": "rubi-cornalina-gema-roja",
+      "grondvorm": "rubi-cornalina-gema-roja",
+      "stamfamilie": [
+        "H122a"
+      ],
+      "toelichting": "Piedra-preciosa-roja del pectoral (Ex 28:17; 39:10; Eze 28:13). Hyphenated triple para no precommitir a una identificacion gemologica.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H125",
+      "hebreeuws": "אֲדַמְדָּם",
+      "translit": "adamdam",
+      "woordsoort": "adjetivo",
+      "es_concordant": "rojizo-mancha",
+      "grondvorm": "rojizo-mancha",
+      "stamfamilie": [
+        "H119",
+        "H122"
+      ],
+      "toelichting": "Reduplicacion-intensiva. Mancha rojiza en piel-leprosa (Lev 13:19,24,42-43,49; 14:37). Hyphenated para preservar tanto el color como la patologia.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H126",
+      "hebreeuws": "אַדְמָה",
+      "translit": "Admah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Adma",
+      "grondvorm": "Adma",
+      "stamfamilie": [],
+      "toelichting": "Una de las cinco ciudades del Jordan-llano (Gn 10:19; 14:2,8; Dt 29:23; Os 11:8). Convencion espanola RV60.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H127",
+      "hebreeuws": "אדמה",
+      "translit": "adamah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tierra",
+      "grondvorm": "tierra",
+      "stamfamilie": [
+        "H127",
+        "H120"
+      ],
+      "toelichting": "Tierra-suelo cultivable (Gn 2:5,7,9 etc.). Distinguido de H776 erets 'tierra-pais'. Concordante simple. Etimologicamente vinculada a adam H120.",
+      "voorkomens": 225
+    },
+    {
+      "strong": "H128",
+      "hebreeuws": "אֲדָמָה",
+      "translit": "adamah-eign-stad",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Adama-pn-lugar",
+      "grondvorm": "Adama-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jos 19:36). Ciudad de Neftali. Sufijo '-pn-lugar' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H129",
+      "hebreeuws": "אֲדָמִי הַנֶּקֶב",
+      "translit": "adami-hanneqev-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Adami-Nequeb-pn-lugar",
+      "grondvorm": "Adami-Nequeb-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jos 19:33). Sufijo '-pn-lugar' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H130",
+      "hebreeuws": "אֲדֹמִי",
+      "translit": "Adomi",
+      "woordsoort": "adjetivo",
+      "es_concordant": "edomita",
+      "grondvorm": "edomita",
+      "stamfamilie": [
+        "H123"
+      ],
+      "toelichting": "Adjetivo gentilicio de H123 Edom. Convencion espanola RV60.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H131",
+      "hebreeuws": "אֲדֻמִּים",
+      "translit": "Adummim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Adumim-subida",
+      "grondvorm": "Adumim-subida",
+      "stamfamilie": [],
+      "toelichting": "Subida-de-Adumim, paso entre Jerusalen y Jerico (Jos 15:7; 18:17). Hyphenated con descriptor topografico.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H132",
+      "hebreeuws": "אַדְמוֹנִי",
+      "translit": "admoni",
+      "woordsoort": "adjetivo",
+      "es_concordant": "rojizo-rubicundo-tez",
+      "grondvorm": "rojizo-rubicundo-tez",
+      "stamfamilie": [
+        "H119"
+      ],
+      "toelichting": "Tez-rojiza, sano-de-color. David (1Sa 16:12; 17:42) y Esau-naciente (Gn 25:25). Hyphenated triple para preservar la coloracion-roja, su intensidad-sanguinea y la asociacion-con-tez.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H133",
+      "hebreeuws": "אַדְמָתָא",
+      "translit": "admata-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Admata-pn",
+      "grondvorm": "Admata-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Est 1:14). Sufijo '-pn' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H134",
+      "hebreeuws": "אֶדֶן",
+      "translit": "eden",
+      "woordsoort": "sustantivo",
+      "es_concordant": "base-pedestal",
+      "grondvorm": "base-pedestal",
+      "stamfamilie": [],
+      "toelichting": "Base de plata para las tablas del tabernaculo (Ex 26:19 etc.). Hyphenated para preservar tanto la funcion-base como la forma-pedestal.",
+      "voorkomens": 57
+    },
+    {
+      "strong": "H135",
+      "hebreeuws": "אַדָּן",
+      "translit": "addan-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Addan-pn-lugar",
+      "grondvorm": "Addan-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Esd 2:59). Variante de Addon H114. Sufijo '-pn-lugar' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H136",
+      "hebreeuws": "אדני",
+      "translit": "Adonay",
+      "woordsoort": "sustantivo",
+      "es_concordant": "mi-Senor",
+      "grondvorm": "mi-Senor",
+      "stamfamilie": [
+        "H136",
+        "H113"
+      ],
+      "toelichting": "Morfologicamente forma pronominal-1cs de adon. Hyphenated para preservar la composicion. Capitalizado porque la forma esta reservada como direccion-divina en el TM (junto a YHWH); RV60 usa 'Senor'. La lectura morfema-por-morfema 'mi-senor(es)' es plural-honorifico con sufijo de primera persona.",
+      "voorkomens": 447
+    },
+    {
+      "strong": "H137",
+      "hebreeuws": "אֲדֹנִי בֶזֶק",
+      "translit": "Adoni-Bezeq",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Adoni-Bezec",
+      "grondvorm": "Adoni-Bezec",
+      "stamfamilie": [],
+      "toelichting": "Rey cananeo derrotado (Jue 1:5-7). Convencion espanola RV60.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H138",
+      "hebreeuws": "אֲדֹנִיָּה",
+      "translit": "adoniyyah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Adonias",
+      "grondvorm": "Adonias",
+      "stamfamilie": [],
+      "toelichting": "Cuarto hijo de David, rebelde (1Re 1-2). Convencion espanola RV60.",
+      "voorkomens": 26
+    },
+    {
+      "strong": "H139",
+      "hebreeuws": "אֲדֹנִי־צֶדֶק",
+      "translit": "Adoni-Tsedeq",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Adoni-Sedec",
+      "grondvorm": "Adoni-Sedec",
+      "stamfamilie": [
+        "H113"
+      ],
+      "toelichting": "Rey cananeo de Jerusalen, lider de la coalicion contra Gabaon (Jos 10:1-3). Convencion espanola RV60.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H140",
+      "hebreeuws": "אֲדֹנִיקָם",
+      "translit": "Adoniqam",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Adonicam",
+      "grondvorm": "Adonicam",
+      "stamfamilie": [],
+      "toelichting": "Familia de retornados (Esd 2:13; 8:13; Neh 7:18). Convencion espanola RV60.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H141",
+      "hebreeuws": "אֲדֹנִירָם",
+      "translit": "adoniram-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Adoniram-pn",
+      "grondvorm": "Adoniram-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax-efectivo (1Re 4:6 etc.). Supervisor del trabajo-forzado. Variante Adoram H151. Sufijo '-pn' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H142",
+      "hebreeuws": "אַדִּיר",
+      "translit": "addir-heerlijk",
+      "woordsoort": "adjetivo",
+      "es_concordant": "poderoso-excelente-noble",
+      "grondvorm": "poderoso-excelente-noble",
+      "stamfamilie": [
+        "H117"
+      ],
+      "toelichting": "Variante semantica de H117. Triple-hyphenation distingue mediante el aspecto excelencia-cualitativa y nobleza-clase. Distribucion 3 apariciones.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H143",
+      "hebreeuws": "אֲדָר",
+      "translit": "Adar",
+      "woordsoort": "sustantivo",
+      "es_concordant": "Adar",
+      "grondvorm": "Adar",
+      "stamfamilie": [],
+      "toelichting": "Duodecimo mes hebreo (Est 3:7,13 etc.). Convencion espanola RV60.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H144",
+      "hebreeuws": "אֲדָר",
+      "translit": "adar-Aram-maand",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Adar-pn-mes-arameo",
+      "grondvorm": "Adar-pn-mes-arameo",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Esd 6:15). Sufijo '-pn-mes-arameo' para distinguir del hebreo H143.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H145",
+      "hebreeuws": "עֵדֶר",
+      "translit": "eder-II-eigennaam",
+      "woordsoort": "sustantivo",
+      "es_concordant": "Eder-Merari-levita",
+      "grondvorm": "Eder-Merari-levita",
+      "stamfamilie": [
+        "H5739"
+      ],
+      "toelichting": "Sustantivo propio levita (1Cr 23:23; 24:30). Hyphenated con descriptor.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H146",
+      "hebreeuws": "אַדָּר",
+      "translit": "Addar-grens",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Addar",
+      "grondvorm": "Addar",
+      "stamfamilie": [],
+      "toelichting": "Limite de Juda (Jos 15:3) y descendiente de Benjamin (1Cr 8:3). Convencion espanola.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H147",
+      "hebreeuws": "אִדַּר",
+      "translit": "adr",
+      "woordsoort": "sustantivo",
+      "es_concordant": "era-arameo",
+      "grondvorm": "era-arameo",
+      "stamfamilie": [
+        "H147"
+      ],
+      "toelichting": "Hapax (Dan 2:35). Era-de-trillar. Sufijo '-arameo'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H148",
+      "hebreeuws": "אֲדַרְגָּזָר",
+      "translit": "adargazar-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "consejero-supremo-arameo",
+      "grondvorm": "consejero-supremo-arameo",
+      "stamfamilie": [],
+      "toelichting": "Funcionario-real (Dan 3:2,3). Hyphenated triple para preservar funcion-asesora, jerarquia-suprema y origen-arameo.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H149",
+      "hebreeuws": "אַדְרַזְדָּא",
+      "translit": "adrazda-Aram",
+      "woordsoort": "adverbio",
+      "es_concordant": "diligentemente-arameo",
+      "grondvorm": "diligentemente-arameo",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Esd 7:23). Sufijo '-arameo'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H150",
+      "hebreeuws": "אֲדַרְכֹּן",
+      "translit": "adarkon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "darico-moneda-de-oro",
+      "grondvorm": "darico-moneda-de-oro",
+      "stamfamilie": [],
+      "toelichting": "Moneda persa de oro (Esd 8:27; 1Cr 29:7). Hyphenated para preservar el nombre-de-moneda y su material-valor.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H151",
+      "hebreeuws": "אֲדֹרָם",
+      "translit": "Adoram",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Adoram-supervisor-trabajo-forzado",
+      "grondvorm": "Adoram-supervisor-trabajo-forzado",
+      "stamfamilie": [
+        "H113"
+      ],
+      "toelichting": "Hapax-efectivo (2Sa 20:24; 1Re 12:18). Variante de Adoniram H141. Hyphenated con descriptor.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H152",
+      "hebreeuws": "אַדְרַמֶּלֶךְ",
+      "translit": "Adrammelech-Sefarvim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Adramelec-sefarvita",
+      "grondvorm": "Adramelec-sefarvita",
+      "stamfamilie": [
+        "H142",
+        "H4428"
+      ],
+      "toelichting": "Deidad-pagana adorada por sefarvitas (2Re 17:31), tambien hijo de Senaquerib (2Re 19:37; Is 37:38). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H153",
+      "hebreeuws": "אֶדְרָע",
+      "translit": "adro",
+      "woordsoort": "sustantivo",
+      "es_concordant": "brazo-arameo",
+      "grondvorm": "brazo-arameo",
+      "stamfamilie": [
+        "H153",
+        "H1872"
+      ],
+      "toelichting": "Hapax (Esd 4:23). Cognado arameo de zerowa H2220. Sufijo '-arameo'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H154",
+      "hebreeuws": "אֶדְרֶעִי",
+      "translit": "Edrei",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Edrei",
+      "grondvorm": "Edrei",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores: ciudad de Basan (Num 21:33 etc.) y de Neftali (Jos 19:37). Convencion espanola RV60.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H155",
+      "hebreeuws": "אַדֶּרֶת",
+      "translit": "aderet",
+      "woordsoort": "sustantivo",
+      "es_concordant": "manto-grande",
+      "grondvorm": "manto-grande",
+      "stamfamilie": [
+        "H142"
+      ],
+      "toelichting": "Manto profetico (1Re 19:13,19; 2Re 2:8,13,14) y vestidura-real-mesopotamica. Hyphenated para preservar tanto el tipo-vestidura como su-magnitud-prominencia.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H156",
+      "hebreeuws": "אָדוֹשׁ",
+      "translit": "adosh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "grano-trillar",
+      "grondvorm": "grano-trillar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Is 28:28). Hyphenated para preservar el grano-objeto y la accion-trillar.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H157",
+      "hebreeuws": "אהב",
+      "translit": "ahav",
+      "woordsoort": "verbo",
+      "es_concordant": "amar",
+      "grondvorm": "amar",
+      "stamfamilie": [
+        "H157",
+        "H160"
+      ],
+      "toelichting": "Verbo del amor general. 209 apariciones. RV60 'amar'. Concordante simple. El espanol distingue verbo (amar) y sustantivo (amor) lexicalmente, lo cual permite preservar la distincion morfologica que en hebreo se hace por morfologia, no por raiz distinta.",
+      "voorkomens": 209
+    },
+    {
+      "strong": "H158",
+      "hebreeuws": "אֲהָבִים",
+      "translit": "ahavim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "caricias-amorosas-plural",
+      "grondvorm": "caricias-amorosas-plural",
+      "stamfamilie": [
+        "H157"
+      ],
+      "toelichting": "Forma plural, usada dos veces en contexto poetico (Pr 5:19; Os 8:9). Hyphenated para marcar el sentido plural-colectivo distinto del abstracto H160 ahavah.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H159",
+      "hebreeuws": "אֹהַב",
+      "translit": "ohav",
+      "woordsoort": "sustantivo",
+      "es_concordant": "hacer-el-amor",
+      "grondvorm": "hacer-el-amor",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Os 9:10 'amantes-de-su-amor'). Sustantivo-de-acto-amoroso. Hyphenated triple para preservar el sentido-actividad.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H160",
+      "hebreeuws": "אַהֲבָה",
+      "translit": "ahavah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "amor-ahavah",
+      "grondvorm": "amor-ahavah",
+      "stamfamilie": [
+        "H157"
+      ],
+      "toelichting": "Sustantivo abstracto del amor. 40 apariciones (Cnt 2:4,5,7 etc.). Hyphenated con sufijo '-ahavah' para distinguir de H157 amar (verbo) en el master-master, dado que hash-key es Strong# pero unicidad de es_concordant es requisito.",
+      "voorkomens": 40
+    },
+    {
+      "strong": "H161",
+      "hebreeuws": "אֹהַד",
+      "translit": "Ohad",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ohad",
+      "grondvorm": "Ohad",
+      "stamfamilie": [],
+      "toelichting": "Tercer hijo de Simeon (Gn 46:10; Ex 6:15). Convencion espanola RV60.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H162",
+      "hebreeuws": "אֲהָהּ",
+      "translit": "ahah",
+      "woordsoort": "interjeccion",
+      "es_concordant": "Ah-ahah",
+      "grondvorm": "Ah-ahah",
+      "stamfamilie": [],
+      "toelichting": "Lamento emfatico, especialmente en direccion ('Ah Senor YHWH', Jer 1:6). 15 apariciones. Hyphenated con sufijo '-ahah' para distinguir de H17 abui y de H188 oy. Capitalizado para distinguir registro.",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H163",
+      "hebreeuws": "אַהֲוָא",
+      "translit": "Ahava",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahava",
+      "grondvorm": "Ahava",
+      "stamfamilie": [],
+      "toelichting": "Rio o canal mesopotamico (Esd 8:15,21,31). Convencion espanola RV60.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H164",
+      "hebreeuws": "אֵהוּד",
+      "translit": "Ehud",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Aod",
+      "grondvorm": "Aod",
+      "stamfamilie": [],
+      "toelichting": "Segundo juez de Israel, asesino de Eglon (Jue 3:15-30). Convencion espanola RV60.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H165",
+      "hebreeuws": "אֱהִי",
+      "translit": "ehi",
+      "woordsoort": "interjeccion",
+      "es_concordant": "donde-esta-el-donde-entonces",
+      "grondvorm": "donde-esta-el-donde-entonces",
+      "stamfamilie": [],
+      "toelichting": "Particula interrogativa-lamentadora (Os 13:10,14). Hyphenated cuadruple para preservar el caracter compuesto y interrogativo.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H166",
+      "hebreeuws": "אָהַל",
+      "translit": "ahal",
+      "woordsoort": "verbo",
+      "es_concordant": "luz-brillar",
+      "grondvorm": "luz-brillar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Job 25:5 'la luna no brilla'). Hyphenated para preservar la fuente-de-luz y la accion-brillar.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H167",
+      "hebreeuws": "אָהַל",
+      "translit": "ahal",
+      "woordsoort": "verbo",
+      "es_concordant": "armar-tienda",
+      "grondvorm": "armar-tienda",
+      "stamfamilie": [
+        "H168"
+      ],
+      "toelichting": "Verbo denominativo de H168 ohel 'tienda' (Gn 13:12,18; Is 13:20). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H168",
+      "hebreeuws": "אהל",
+      "translit": "ohel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tienda",
+      "grondvorm": "tienda",
+      "stamfamilie": [
+        "H168"
+      ],
+      "toelichting": "Tienda-habitacion. 348 apariciones, central a la narrativa-patriarcal y al tabernaculo del desierto. Concordante simple.",
+      "voorkomens": 348
+    },
+    {
+      "strong": "H169",
+      "hebreeuws": "אֹהֶל",
+      "translit": "ohel-eign-zoon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ohel-pn",
+      "grondvorm": "Ohel-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 3:20). Hijo de Zorobabel. Sufijo '-pn' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H170",
+      "hebreeuws": "אׇהֳלָה",
+      "translit": "Oholah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ohola",
+      "grondvorm": "Ohola",
+      "stamfamilie": [
+        "H168"
+      ],
+      "toelichting": "Personaje-femenino-simbolico para Samaria (Eze 23:4,5,36,44). Convencion espanola RV60. Etimologia: 'su-tienda-propia'.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H171",
+      "hebreeuws": "אָהֳלִיאָב",
+      "translit": "Oholiav",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Aholiab",
+      "grondvorm": "Aholiab",
+      "stamfamilie": [],
+      "toelichting": "Asistente de Bezaleel en la construccion del tabernaculo (Ex 31:6 etc.). Convencion espanola RV60.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H172",
+      "hebreeuws": "אׇהֳלִיבָה",
+      "translit": "Oholivah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Aholiba",
+      "grondvorm": "Aholiba",
+      "stamfamilie": [],
+      "toelichting": "Personaje-femenino-simbolico para Jerusalen (Eze 23:4,11,22 etc.). Convencion espanola RV60. Etimologia: 'mi-tienda-en-ella'.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H173",
+      "hebreeuws": "אָהֳלִיבָמָה",
+      "translit": "Oholivama",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Aholibama",
+      "grondvorm": "Aholibama",
+      "stamfamilie": [],
+      "toelichting": "Esposa hetea de Esau (Gn 36:2,5,14,18,25,41; 1Cr 1:52). Convencion espanola RV60.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H174",
+      "hebreeuws": "אֲהָלִים",
+      "translit": "ahalim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "aloes-madera-aromatica",
+      "grondvorm": "aloes-madera-aromatica",
+      "stamfamilie": [],
+      "toelichting": "Aquilaria/Aloexylon, madera-aromatica importada (Num 24:6; Sal 45:8; Pr 7:17; Cnt 4:14). Hyphenated triple para preservar la planta-fragante.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H175",
+      "hebreeuws": "אהרן",
+      "translit": "Aharon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Aaron",
+      "grondvorm": "Aaron",
+      "stamfamilie": [
+        "H175"
+      ],
+      "toelichting": "Hermano de Moises, primer sumo sacerdote. 344 apariciones. Convencion espanola RV60.",
+      "voorkomens": 344
+    },
+    {
+      "strong": "H176a",
+      "hebreeuws": "או",
+      "translit": "o",
+      "woordsoort": "conjuncion",
+      "es_concordant": "o",
+      "grondvorm": "o",
+      "stamfamilie": [
+        "H176a"
+      ],
+      "toelichting": "Conjuncion disyuntiva. 320 apariciones. Concordante simple.",
+      "voorkomens": 320
+    },
+    {
+      "strong": "H176b",
+      "hebreeuws": "אוֹ",
+      "translit": "o-II",
+      "woordsoort": "conjuncion",
+      "es_concordant": "o-de-otro-modo",
+      "grondvorm": "o-de-otro-modo",
+      "stamfamilie": [
+        "H176a"
+      ],
+      "toelichting": "Hapax (Pr 31:4 lectura-textual). Variante con sentido condicional-alternativo. Hyphenated para distinguir del simple H176a.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H177",
+      "hebreeuws": "אוּאֵל",
+      "translit": "uel-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Uel-pn",
+      "grondvorm": "Uel-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Esd 10:34). Sufijo '-pn' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H178",
+      "hebreeuws": "אוֹב",
+      "translit": "ov",
+      "woordsoort": "sustantivo",
+      "es_concordant": "nigromante",
+      "grondvorm": "nigromante",
+      "stamfamilie": [],
+      "toelichting": "Mediumnico-evocador-de-muertos (Lev 19:31; 20:6,27; 1Sa 28:3,7,8,9; Is 8:19; 19:3; 29:4 etc.). Distinguido de H3049 yiddeoni 'familiar-espiritu'.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H179",
+      "hebreeuws": "אוֹבִיל",
+      "translit": "ovil-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Obil-pn",
+      "grondvorm": "Obil-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 27:30). Camellero ismaelita. Sufijo '-pn' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H180",
+      "hebreeuws": "אוּבָל",
+      "translit": "uval",
+      "woordsoort": "sustantivo",
+      "es_concordant": "corriente-de-agua-arroyo",
+      "grondvorm": "corriente-de-agua-arroyo",
+      "stamfamilie": [
+        "H2975"
+      ],
+      "toelichting": "Canal-fluvial (Dan 8:2,3,6). Hyphenated para preservar el flujo-aspecto y la formacion-natural.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H181",
+      "hebreeuws": "אוּד",
+      "translit": "ud-brandhout",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tizon",
+      "grondvorm": "tizon",
+      "stamfamilie": [],
+      "toelichting": "Brasa-ardiente sacada del fuego (Is 7:4; Am 4:11; Zac 3:2). Concordante simple.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H182",
+      "hebreeuws": "אוֹדוֹת",
+      "translit": "odot",
+      "woordsoort": "sustantivo",
+      "es_concordant": "causa",
+      "grondvorm": "causa",
+      "stamfamilie": [],
+      "toelichting": "Causa-motivo (Gn 21:11,25 etc.). Concordante simple.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H183",
+      "hebreeuws": "אָוָה",
+      "translit": "avah",
+      "woordsoort": "verbo",
+      "es_concordant": "anhelar",
+      "grondvorm": "anhelar",
+      "stamfamilie": [
+        "H185",
+        "H8378"
+      ],
+      "toelichting": "Homonimo de H14 avah 'estar-dispuesto'. H14 es volitivo (consentir), H183 es apetitivo (desear-intensamente). El espanol distingue 'estar-dispuesto' (H14) y 'anhelar' (H183), preservando la distincion.",
+      "voorkomens": 28
+    },
+    {
+      "strong": "H184",
+      "hebreeuws": "אָוָה",
+      "translit": "avah-grens",
+      "woordsoort": "verbo",
+      "es_concordant": "delimitar-frontera",
+      "grondvorm": "delimitar-frontera",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Num 34:10 'demarcareis vuestro limite'). Mismas consonantes que H183 pero campo-semantico distinto: trazar-frontera. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H185",
+      "hebreeuws": "אַוָּה",
+      "translit": "avvah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ansia-vehemente",
+      "grondvorm": "ansia-vehemente",
+      "stamfamilie": [
+        "H183"
+      ],
+      "toelichting": "Sustantivo de H183 (Num 11:4 'ansia-vehemente cayo sobre ellos'). Hyphenated.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H186",
+      "hebreeuws": "אוּזַי",
+      "translit": "auzi",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Uzai-pn",
+      "grondvorm": "Uzai-pn",
+      "stamfamilie": [
+        "H186"
+      ],
+      "toelichting": "Hapax (Neh 3:25). Sufijo '-pn' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H187",
+      "hebreeuws": "אוּזָל",
+      "translit": "Uzal",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Uzal",
+      "grondvorm": "Uzal",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Joctan (Gn 10:27; 1Cr 1:21; Eze 27:19 lectura). Convencion espanola RV60.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H188",
+      "hebreeuws": "אוֹי",
+      "translit": "oy",
+      "woordsoort": "interjeccion",
+      "es_concordant": "ay-clamor",
+      "grondvorm": "ay-clamor",
+      "stamfamilie": [],
+      "toelichting": "Lamento-cry-de-juicio del hebreo biblico. 24 apariciones (especialmente en Isa, Jer, Eze profetico). Hyphenated con '-clamor' para distinguir de H17 abui y H190 oyah.",
+      "voorkomens": 24
+    },
+    {
+      "strong": "H189",
+      "hebreeuws": "אֱוִי",
+      "translit": "Evi",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Evi-rey-Madian-derrotado",
+      "grondvorm": "Evi-rey-Madian-derrotado",
+      "stamfamilie": [],
+      "toelichting": "Hapax-doblado (Num 31:8; Jos 13:21). Hyphenated con descripcion.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H190",
+      "hebreeuws": "אוֹיָה",
+      "translit": "oyah",
+      "woordsoort": "interjeccion",
+      "es_concordant": "ay-de-mi",
+      "grondvorm": "ay-de-mi",
+      "stamfamilie": [],
+      "toelichting": "Lamento-cry-personal-emfatico (Sal 120:5 'ay-de-mi'). Forma reflejada del oy. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H191",
+      "hebreeuws": "אֱוִיל",
+      "translit": "ewil",
+      "woordsoort": "adjetivo",
+      "es_concordant": "necio",
+      "grondvorm": "necio",
+      "stamfamilie": [],
+      "toelichting": "Hebreo tiene multiples palabras-de-necio: ewil, kesil (H3684), sakhal (H5530), naval (H5036). Cada una con matiz distinto. ewil es el moralmente-grosero, inflexible. El 'necio' espanol es inevitable como termino unico; la distincion se preserva por woordsoort y toelichting de cada Strong.",
+      "voorkomens": 26
+    },
+    {
+      "strong": "H192",
+      "hebreeuws": "אֱוִיל מְרֹדַךְ",
+      "translit": "Eveel-Merodak",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Evil-merodac",
+      "grondvorm": "Evil-merodac",
+      "stamfamilie": [],
+      "toelichting": "Rey de Babilonia, sucesor de Nabucodonosor (2Re 25:27; Jer 52:31). Convencion espanola RV60.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H193a",
+      "hebreeuws": "אוּל",
+      "translit": "ul-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "vientre-gordura",
+      "grondvorm": "vientre-gordura",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Sal 73:4 lectura). Hyphenated para preservar tanto la zona-fisica como su-condicion-engrosada.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H193b",
+      "hebreeuws": "אֱוִיל",
+      "translit": "evil-II-machtig",
+      "woordsoort": "sustantivo",
+      "es_concordant": "principe-poderoso",
+      "grondvorm": "principe-poderoso",
+      "stamfamilie": [
+        "H191"
+      ],
+      "toelichting": "Hapax (2Re 24:15 'los poderosos de la tierra'). Hyphenated para preservar la dignidad-principe y la fuerza-poderoso.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H194",
+      "hebreeuws": "אוּלַי",
+      "translit": "ulai",
+      "woordsoort": "adverbio",
+      "es_concordant": "quizas",
+      "grondvorm": "quizas",
+      "stamfamilie": [],
+      "toelichting": "Particula-de-incertidumbre (Gn 18:24 etc.). Concordante simple.",
+      "voorkomens": 45
+    },
+    {
+      "strong": "H195",
+      "hebreeuws": "אוּלַי",
+      "translit": "ulay-rivier",
+      "woordsoort": "sustantivo",
+      "es_concordant": "Ulai",
+      "grondvorm": "Ulai",
+      "stamfamilie": [],
+      "toelichting": "Rio de Susa (Dan 8:2,16). Convencion espanola RV60.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H196",
+      "hebreeuws": "אֱוִלִי",
+      "translit": "evili",
+      "woordsoort": "adjetivo",
+      "es_concordant": "pastor-necio",
+      "grondvorm": "pastor-necio",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Zac 11:15). Pastor-incompetente. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H197",
+      "hebreeuws": "אוּלָם",
+      "translit": "ulam",
+      "woordsoort": "sustantivo",
+      "es_concordant": "vestibulo",
+      "grondvorm": "vestibulo",
+      "stamfamilie": [],
+      "toelichting": "Vestibulo-portico-del-templo (1Re 6:3 etc.; Eze 8:16; 40:7-49 etc.). Concordante simple.",
+      "voorkomens": 34
+    },
+    {
+      "strong": "H198",
+      "hebreeuws": "אוּאֵל",
+      "translit": "U'el",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Uel",
+      "grondvorm": "Uel",
+      "stamfamilie": [
+        "H410"
+      ],
+      "toelichting": "Familia de retornados (Esd 10:34; 1Cr 4:34). Convencion espanola RV60.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H199",
+      "hebreeuws": "אוּלָם",
+      "translit": "ulam-bw",
+      "woordsoort": "conjuncion",
+      "es_concordant": "sin-embargo",
+      "grondvorm": "sin-embargo",
+      "stamfamilie": [],
+      "toelichting": "Conjuncion adversativa-emfatica. 19 apariciones. Hyphenated.",
+      "voorkomens": 19
+    },
+    {
+      "strong": "H200",
+      "hebreeuws": "אִוֶּלֶת",
+      "translit": "iwwelet",
+      "woordsoort": "sustantivo",
+      "es_concordant": "necedad",
+      "grondvorm": "necedad",
+      "stamfamilie": [
+        "H191"
+      ],
+      "toelichting": "Sustantivo abstracto de H191 ewil. 25 apariciones (Pr 5:23; 12:23; 13:16 etc.). Concordante simple.",
+      "voorkomens": 25
+    },
+    {
+      "strong": "H201",
+      "hebreeuws": "אוֹמָר",
+      "translit": "Omar",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Omar",
+      "grondvorm": "Omar",
+      "stamfamilie": [],
+      "toelichting": "Nieto de Esau (Gn 36:11,15; 1Cr 1:36). Convencion espanola RV60.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H202",
+      "hebreeuws": "אוֹן-I",
+      "translit": "on-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "vigor-varonil",
+      "grondvorm": "vigor-varonil",
+      "stamfamilie": [],
+      "toelichting": "Fuerza-procreativa (Gn 49:3; Dt 21:17; Sal 78:51 etc.). Hyphenated para preservar la fuerza-vital y su connotacion-masculina.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H203",
+      "hebreeuws": "אוֹן",
+      "translit": "on-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "On-pn",
+      "grondvorm": "On-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Num 16:1). Rebelde con Coré. Sufijo '-pn' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H204",
+      "hebreeuws": "אוֹן",
+      "translit": "On-stad",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "On-ciudad-Heliopolis",
+      "grondvorm": "On-ciudad-Heliopolis",
+      "stamfamilie": [],
+      "toelichting": "Heliopolis egipcia (Gn 41:45,50; 46:20; Eze 30:17 lectura). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H205",
+      "hebreeuws": "און",
+      "translit": "aven",
+      "woordsoort": "sustantivo",
+      "es_concordant": "iniquidad-aven",
+      "grondvorm": "iniquidad-aven",
+      "stamfamilie": [
+        "H205"
+      ],
+      "toelichting": "Considerado: iniquidad, vanidad, maldad, dano, calamidad. El aven hebreo cubre el mal-moral, la calamidad, la vacuidad. RV60 inconsistente (iniquidad/vanidad/maldad). El nucleo es mal-moral con tono de vacuidad. 'Iniquidad' preserva el peso moral; 'vanidad' pierde el aspecto-injusto; 'maldad' choca con H7562 resha. Distribucion 80 apariciones confirma 'iniquidad' como nucleo-moral dominante. Sufijo '-aven' para distinguir de H206.",
+      "voorkomens": 80
+    },
+    {
+      "strong": "H206",
+      "hebreeuws": "אָוֶן",
+      "translit": "aven-II-plaats",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Aven-Heliopolis-On-egipcio",
+      "grondvorm": "Aven-Heliopolis-On-egipcio",
+      "stamfamilie": [
+        "H205"
+      ],
+      "toelichting": "Mismas consonantes que H205 pero como toponimo para Heliopolis-egipcia (Os 10:5,8; Am 1:5; Eze 30:17 segun lectura). Juego-de-palabras: los profetas explotan la homografia entre nombre-de-lugar y termino-moral. Hyphenated cuadruple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H207",
+      "hebreeuws": "אוֹנוֹ",
+      "translit": "Ono",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ono",
+      "grondvorm": "Ono",
+      "stamfamilie": [],
+      "toelichting": "Ciudad benjaminita (1Cr 8:12; Esd 2:33; Neh 6:2; 7:37; 11:35). Convencion espanola RV60.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H208",
+      "hebreeuws": "אוֹנָם",
+      "translit": "Onam",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Onam",
+      "grondvorm": "Onam",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores: hijo de Sobal (Gn 36:23; 1Cr 1:40) y descendiente de Juda (1Cr 2:26,28). Convencion espanola RV60.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H209",
+      "hebreeuws": "אוֹנָן",
+      "translit": "Onan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Onan",
+      "grondvorm": "Onan",
+      "stamfamilie": [
+        "H205"
+      ],
+      "toelichting": "Segundo hijo de Juda, muerto por desobedecer ley-del-levirato (Gn 38:4-10; 46:12; Num 26:19; 1Cr 2:3). Convencion espanola RV60.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H210",
+      "hebreeuws": "אוּפָז",
+      "translit": "uphaz",
+      "woordsoort": "sustantivo",
+      "es_concordant": "Ufaz-oro",
+      "grondvorm": "Ufaz-oro",
+      "stamfamilie": [],
+      "toelichting": "Lugar productor de oro (Jer 10:9; Dan 10:5). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H211",
+      "hebreeuws": "אוֹפִיר",
+      "translit": "ofir",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ofir",
+      "grondvorm": "Ofir",
+      "stamfamilie": [],
+      "toelichting": "Multiples referentes: hijo de Joctan (Gn 10:29; 1Cr 1:23) y region productora de oro (1Re 9:28 etc.). Convencion espanola RV60.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H212",
+      "hebreeuws": "אוֹפָן",
+      "translit": "ofan",
+      "woordsoort": "sustantivo",
+      "es_concordant": "rueda",
+      "grondvorm": "rueda",
+      "stamfamilie": [],
+      "toelichting": "Rueda-de-carro (Ex 14:25), rueda-de-trono (Eze 1:15-21; 10:6-19), rueda-en-vision-de-mesa (1Re 7:30-33). 35 apariciones. Concordante simple.",
+      "voorkomens": 35
+    },
+    {
+      "strong": "H213",
+      "hebreeuws": "אוּץ",
+      "translit": "uts",
+      "woordsoort": "verbo",
+      "es_concordant": "apremiar-urgir",
+      "grondvorm": "apremiar-urgir",
+      "stamfamilie": [],
+      "toelichting": "Empujar-con-prisa (Gn 19:15 etc.). Hyphenated para preservar tanto la presion como la urgencia.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H214",
+      "hebreeuws": "אוֹצָר",
+      "translit": "otsar",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tesoro",
+      "grondvorm": "tesoro",
+      "stamfamilie": [
+        "H686"
+      ],
+      "toelichting": "Tesoreria-deposito (Dt 28:12; 32:34; Jos 6:19 etc.). 80 apariciones. Concordante simple.",
+      "voorkomens": 80
+    },
+    {
+      "strong": "H215",
+      "hebreeuws": "אוֹר",
+      "translit": "or",
+      "woordsoort": "verbo",
+      "es_concordant": "dar-luz",
+      "grondvorm": "dar-luz",
+      "stamfamilie": [
+        "H216",
+        "H217"
+      ],
+      "toelichting": "El hyphenated 'dar-luz' marca el aspecto causativo (Hi predominante) sobre el simple Qal 'brillar'. 42 apariciones. Distingue verbo de sustantivo en render. Distinguido de H216 or sustantivo.",
+      "voorkomens": 42
+    },
+    {
+      "strong": "H216",
+      "hebreeuws": "אור",
+      "translit": "or",
+      "woordsoort": "sustantivo",
+      "es_concordant": "luz",
+      "grondvorm": "luz",
+      "stamfamilie": [
+        "H216",
+        "H215"
+      ],
+      "toelichting": "Lexema unico para luz-fenomeno. 121 apariciones. Concordante simple.",
+      "voorkomens": 121
+    },
+    {
+      "strong": "H217a",
+      "hebreeuws": "אוּר",
+      "translit": "ur-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "luz-fuego-destello",
+      "grondvorm": "luz-fuego-destello",
+      "stamfamilie": [
+        "H215"
+      ],
+      "toelichting": "Tendencia-hapax. El compuesto preserva el doble sentido luminoso-fuego (juicio, oraculo) y el aspecto-destello que distingue de H216 or 'luz' y H784 esh 'fuego'.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H217b",
+      "hebreeuws": "אוּר",
+      "translit": "ur-II-licht",
+      "woordsoort": "sustantivo",
+      "es_concordant": "regiones-de-luz",
+      "grondvorm": "regiones-de-luz",
+      "stamfamilie": [
+        "H217a"
+      ],
+      "toelichting": "Hapax (Is 24:15 lectura). Las regiones-orientales-iluminadas. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H218a",
+      "hebreeuws": "אוּר",
+      "translit": "ur-eign-Davids",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ur-pn-guerrero-de-David",
+      "grondvorm": "Ur-pn-guerrero-de-David",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 11:35). Padre de Elifal. Sufijo '-pn-guerrero-de-David' para hygiene y disambig de H218b.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H218b",
+      "hebreeuws": "אוּר",
+      "translit": "Ur-II",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ur-lugar",
+      "grondvorm": "Ur-lugar",
+      "stamfamilie": [],
+      "toelichting": "Ur-de-los-caldeos, lugar de origen de Abraham (Gn 11:28,31; 15:7; Neh 9:7). Sufijo '-lugar'.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H219a",
+      "hebreeuws": "אוֹרָה",
+      "translit": "orah-licht",
+      "woordsoort": "sustantivo",
+      "es_concordant": "luz-del-dia-iluminacion",
+      "grondvorm": "luz-del-dia-iluminacion",
+      "stamfamilie": [
+        "H215"
+      ],
+      "toelichting": "Luz-difusa, claridad-diurna (Est 8:16; Sal 139:12; Is 26:19). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H219b",
+      "hebreeuws": "אוֹרֹת",
+      "translit": "orot-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "hierbas-silvestres",
+      "grondvorm": "hierbas-silvestres",
+      "stamfamilie": [],
+      "toelichting": "Hapax (2Re 4:39). Hierbas-silvestres-comestibles. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H220",
+      "hebreeuws": "אֲוֵרוֹת",
+      "translit": "averot",
+      "woordsoort": "sustantivo",
+      "es_concordant": "establos",
+      "grondvorm": "establos",
+      "stamfamilie": [],
+      "toelichting": "Hapax (2Cr 32:28 lectura). Cuadras-establos. Concordante simple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H221",
+      "hebreeuws": "אוּרִי",
+      "translit": "Uri",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Uri",
+      "grondvorm": "Uri",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores: padre de Bezaleel (Ex 31:2 etc.), oficial de Salomon (1Re 4:19), retornado (Esd 10:24). Convencion espanola RV60.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H222",
+      "hebreeuws": "אוּרִיאֵל",
+      "translit": "Uriel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Uriel",
+      "grondvorm": "Uriel",
+      "stamfamilie": [
+        "H217"
+      ],
+      "toelichting": "Levita (1Cr 6:24; 15:5,11; 2Cr 13:2). Convencion espanola RV60.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H223a",
+      "hebreeuws": "אוּרִיָּה",
+      "translit": "uriyah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Urias",
+      "grondvorm": "Urias",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores: hitita esposo de Betsabe (2Sa 11), sacerdote (2Re 16:10-16), retornado (Esd 8:33). Convencion espanola RV60.",
+      "voorkomens": 38
+    },
+    {
+      "strong": "H223b",
+      "hebreeuws": "אוּרִיָּהוּ",
+      "translit": "uriyahu-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Urias-pn-profeta",
+      "grondvorm": "Urias-pn-profeta",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jer 26:20-23). Profeta asesinado por Joacim. Sufijo '-pn-profeta' para distinguir de H223a.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H224",
+      "hebreeuws": "אוּרִים",
+      "translit": "Urim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "Urim",
+      "grondvorm": "Urim",
+      "stamfamilie": [],
+      "toelichting": "Objeto-oraculo en el pectoral del sumo sacerdote, junto a Tumim (Ex 28:30; Lev 8:8; Num 27:21; Dt 33:8; 1Sa 28:6; Esd 2:63; Neh 7:65). Transliteracion preservada.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H225",
+      "hebreeuws": "אוּת",
+      "translit": "uth",
+      "woordsoort": "verbo",
+      "es_concordant": "consentir-acordar",
+      "grondvorm": "consentir-acordar",
+      "stamfamilie": [],
+      "toelichting": "Hapax-efectivo (Gn 34:15,22,23). Hyphenated para preservar el consentimiento-formal y el acuerdo-mutuo.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H226",
+      "hebreeuws": "אוֹת",
+      "translit": "ot",
+      "woordsoort": "sustantivo",
+      "es_concordant": "senal",
+      "grondvorm": "senal",
+      "stamfamilie": [],
+      "toelichting": "Senal-marca (Gn 1:14; 4:15; 9:12,13,17; 17:11 etc.). 78 apariciones. Concordante simple.",
+      "voorkomens": 78
+    },
+    {
+      "strong": "H227a",
+      "hebreeuws": "אז",
+      "translit": "az",
+      "woordsoort": "adverbio",
+      "es_concordant": "entonces",
+      "grondvorm": "entonces",
+      "stamfamilie": [
+        "H227a"
+      ],
+      "toelichting": "Adverbio-temporal-conectivo. 122 apariciones. Concordante simple.",
+      "voorkomens": 122
+    },
+    {
+      "strong": "H227b",
+      "hebreeuws": "אָז",
+      "translit": "az",
+      "woordsoort": "adverbio",
+      "es_concordant": "entonces-sentido-b",
+      "grondvorm": "entonces-sentido-b",
+      "stamfamilie": [],
+      "toelichting": "Variante-semantica-secundaria de H227a. 19 apariciones. Hyphenated con sufijo '-sentido-b' para distinguir.",
+      "voorkomens": 19
+    },
+    {
+      "strong": "H228",
+      "hebreeuws": "אֲזָא",
+      "translit": "aza-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "calentar-horno-atizar-arameo",
+      "grondvorm": "calentar-horno-atizar-arameo",
+      "stamfamilie": [],
+      "toelichting": "Verbo arameo de Daniel (Dan 3:19,22). Hyphenated cuadruple para preservar el calentar, el horno-locacion, la accion-atizar y el origen-arameo.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H229",
+      "hebreeuws": "אֶזְבָּי",
+      "translit": "ezbay-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ezbai-pn",
+      "grondvorm": "Ezbai-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 11:37). Padre de Naarai. Sufijo '-pn' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H230",
+      "hebreeuws": "אַזְדָּא",
+      "translit": "azda",
+      "woordsoort": "verbo",
+      "es_concordant": "fijado-arameo-incierto",
+      "grondvorm": "fijado-arameo-incierto",
+      "stamfamilie": [
+        "H230"
+      ],
+      "toelichting": "Hapax (Dan 2:5,8 'palabra-fijada'). Etimologia debatida. Hyphenated triple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H231",
+      "hebreeuws": "אֵזוֹב",
+      "translit": "ezov",
+      "woordsoort": "sustantivo",
+      "es_concordant": "hisopo",
+      "grondvorm": "hisopo",
+      "stamfamilie": [],
+      "toelichting": "Planta-aromatica usada en rituales-de-purificacion (Ex 12:22; Lev 14:4 etc.; Sal 51:7; Jn-NT-eco). Concordante simple.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H232",
+      "hebreeuws": "אֵזוֹר",
+      "translit": "ezor",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cenidor-cinto",
+      "grondvorm": "cenidor-cinto",
+      "stamfamilie": [
+        "H247"
+      ],
+      "toelichting": "Hyphenated para preservar la funcion-cinto y la zona-lomos-cintura.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H233",
+      "hebreeuws": "אֲזַי",
+      "translit": "azai",
+      "woordsoort": "adverbio",
+      "es_concordant": "antano-entonces",
+      "grondvorm": "antano-entonces",
+      "stamfamilie": [],
+      "toelichting": "Adverbio-temporal-arcaico (Sal 124:3,4,5; Jos 14:11). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H234",
+      "hebreeuws": "אַזְכָּרָה",
+      "translit": "azkarah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "porcion-memorial",
+      "grondvorm": "porcion-memorial",
+      "stamfamilie": [
+        "H2142"
+      ],
+      "toelichting": "Porcion del cereal-quemada-como-recordatorio (Lev 2:2,9,16 etc.; Num 5:26). Hyphenated.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H235",
+      "hebreeuws": "אָזַל",
+      "translit": "azal",
+      "woordsoort": "verbo",
+      "es_concordant": "alejarse-desvanecerse",
+      "grondvorm": "alejarse-desvanecerse",
+      "stamfamilie": [],
+      "toelichting": "Hyphenated para preservar el aspecto-fisico (alejarse) y el aspecto-funcional (desvanecerse).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H236",
+      "hebreeuws": "אֲזַל",
+      "translit": "azal-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "alejarse-partir-irse-arameo",
+      "grondvorm": "alejarse-partir-irse-arameo",
+      "stamfamilie": [],
+      "toelichting": "Cognado arameo de H235 (Dan 2:17,24 etc.; Esd 4:23; 5:8,15 etc.). Hyphenated cuadruple para preservar el alejarse, el partir, el irse y el origen-arameo.",
+      "voorkomens": 7
+    }
+  ]
+}

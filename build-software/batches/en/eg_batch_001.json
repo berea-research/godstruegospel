@@ -1,0 +1,2918 @@
+{
+  "batch_id": "eg_batch_001",
+  "script": "gr",
+  "datum": "2026-05-02",
+  "entries": [
+    {
+      "strong": "G3588",
+      "grieks": "ὁ",
+      "translit": "ho",
+      "woordsoort": "lw",
+      "en_concordant": "the-definite-article",
+      "grondvorm": "de-het-lidwoord-definiet",
+      "stamfamilie": [],
+      "toelichting": "Definiet lidwoord, alle geslachten/naamvallen (ho, hē, to, tou, tēs, tōn, etc.). Markeert bepaaldheid; in Grieks vaak aa",
+      "voorkomens_ca": 20421
+    },
+    {
+      "strong": "G2532",
+      "grieks": "καί",
+      "translit": "kai",
+      "woordsoort": "vgw",
+      "en_concordant": "and-kai",
+      "grondvorm": "en-ook",
+      "stamfamilie": [],
+      "toelichting": "Nevenschikkend voegwoord 'en'; in paratactische zinsbouw ook als 'ook/zelfs/zowel'. Meest-voorkomend woord in het Grieks",
+      "voorkomens_ca": 9278
+    },
+    {
+      "strong": "G846",
+      "grieks": "αὐτός",
+      "translit": "autos",
+      "woordsoort": "vnw",
+      "en_concordant": "self-same",
+      "grondvorm": "hij-zelf-dezelfde",
+      "stamfamilie": [],
+      "toelichting": "Drievoudig voornaamwoord: (1) persoonlijk 3e persoon 'hij/zij/het', (2) intensief 'zelf' (ho theos autos = God zelf), (3",
+      "voorkomens_ca": 5784
+    },
+    {
+      "strong": "G1161",
+      "grieks": "δέ",
+      "translit": "de",
+      "woordsoort": "vgw",
+      "en_concordant": "but-now",
+      "grondvorm": "maar-echter-nu",
+      "stamfamilie": [],
+      "toelichting": "Postpositief overgangspartikel, zacht tegenstellend of verhalend voortstuwend. In narratief 'nu/vervolgens', in argument",
+      "voorkomens_ca": 2882
+    },
+    {
+      "strong": "G1722",
+      "grieks": "ἐν",
+      "translit": "en",
+      "woordsoort": "vz",
+      "en_concordant": "en-in",
+      "grondvorm": "in",
+      "stamfamilie": [],
+      "toelichting": "Voorzetsel met datief voor locatie, tijd, middel of sfeer: in-ruimtelijk (in Christus, in Jeruzalem), in-temporeel (in d",
+      "voorkomens_ca": 2805
+    },
+    {
+      "strong": "G1519",
+      "grieks": "εἰς",
+      "translit": "eis",
+      "woordsoort": "vz",
+      "en_concordant": "into-toward",
+      "grondvorm": "in-tot-naar",
+      "stamfamilie": [],
+      "toelichting": "Voorzetsel met accusatief voor beweging naar of doel: naar (richting), tot (doel/resultaat), in (penetrerend), ten opzic",
+      "voorkomens_ca": 1773
+    },
+    {
+      "strong": "G3756",
+      "grieks": "οὐ",
+      "translit": "ou",
+      "woordsoort": "ontkenningspartikel",
+      "en_concordant": "not-objective-ou",
+      "grondvorm": "niet-objectief",
+      "stamfamilie": [],
+      "toelichting": "Objectieve ontkenning bij indicatief-werkwoordsvormen — ontkent feiten en realiteit. Varianten ouk (voor klinker) en ouc",
+      "voorkomens_ca": 1646
+    },
+    {
+      "strong": "G3739",
+      "grieks": "ὅς",
+      "translit": "hos",
+      "woordsoort": "betrekkelijk-voornaamwoord",
+      "en_concordant": "who-relative",
+      "grondvorm": "die-welke-wat",
+      "stamfamilie": [],
+      "toelichting": "Relatief voornaamwoord 'die/welke/wat' voor alle geslachten (hos/hē/ho). Koppelt bijzin aan antecedent, congrueert in ge",
+      "voorkomens_ca": 1422
+    },
+    {
+      "strong": "G2316",
+      "grieks": "θεός",
+      "translit": "theos",
+      "woordsoort": "zn",
+      "en_concordant": "God-deity",
+      "grondvorm": "God-god",
+      "stamfamilie": [],
+      "toelichting": "God als eigennaam (ho theos = de God van Israël) of gewoon woord voor godheid (heidense goden). Context en al-dan-niet-l",
+      "voorkomens_ca": 1344
+    },
+    {
+      "strong": "G3004",
+      "grieks": "λέγω",
+      "translit": "legō",
+      "woordsoort": "ww",
+      "en_concordant": "speak-say",
+      "grondvorm": "zeggen-spreken",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van spreken-zeggen; inhoudelijk overleg. Aorist-stam overgenomen van G2036 eipon (andere stam — suppletief par",
+      "voorkomens_ca": 1343
+    },
+    {
+      "strong": "G3754",
+      "grieks": "ὅτι",
+      "translit": "hoti",
+      "woordsoort": "vgw",
+      "en_concordant": "that-because",
+      "grondvorm": "dat-omdat",
+      "stamfamilie": [],
+      "toelichting": "Ondergeschikt voegwoord met drie functies: (1) object-'dat' na zeggen/denken/weten, (2) causaal 'omdat/want', (3) recita",
+      "voorkomens_ca": 1291
+    },
+    {
+      "strong": "G3956",
+      "grieks": "πᾶς",
+      "translit": "pas",
+      "woordsoort": "bijvoeglijk-naamwoord",
+      "en_concordant": "all-every",
+      "grondvorm": "al-ieder-elk-geheel",
+      "stamfamilie": [],
+      "toelichting": "Universele kwantor 'al/ieder/elk/geheel'. Zonder lidwoord distributief 'ieder/elk'; met lidwoord collectief 'al/geheel'.",
+      "voorkomens_ca": 1243
+    },
+    {
+      "strong": "G1063",
+      "grieks": "γάρ",
+      "translit": "gar",
+      "woordsoort": "vgw",
+      "en_concordant": "for-indeed",
+      "grondvorm": "want-immers",
+      "stamfamilie": [],
+      "toelichting": "Postpositief redengevend partikel 'want/immers'. Koppelt uitleg of grond aan voorgaande bewering. Nooit op zinsbegin — s",
+      "voorkomens_ca": 1067
+    },
+    {
+      "strong": "G3361",
+      "grieks": "μή",
+      "translit": "mē",
+      "woordsoort": "ontkenningspartikel",
+      "en_concordant": "me-not",
+      "grondvorm": "niet-subjectief",
+      "stamfamilie": [],
+      "toelichting": "Subjectieve ontkenning bij imperatief, subjunctief, infinitief, participium — ontkent wens, mogelijkheid, verbod. Tegenh",
+      "voorkomens_ca": 1041
+    },
+    {
+      "strong": "G2036",
+      "grieks": "εἶπον",
+      "translit": "eipon",
+      "woordsoort": "ww",
+      "en_concordant": "said-aorist",
+      "grondvorm": "zei-aorist-spreken",
+      "stamfamilie": [
+        "G3004"
+      ],
+      "toelichting": "Aorist-vormen 'zei/sprak', suppletief paradigma met G3004 legō (wortel vep-/rhe-). Meest-voorkomend in verhalende delen ",
+      "voorkomens_ca": 976
+    },
+    {
+      "strong": "G2424",
+      "grieks": "Ἰησοῦς",
+      "translit": "iēsous",
+      "woordsoort": "zn",
+      "en_concordant": "Jesus-pn",
+      "grondvorm": "Jezus-eigennaam",
+      "stamfamilie": [],
+      "toelichting": "Eigennaam Jezus, Griekse weergave van Hebreeuws Yeshua/Yehoshua ('JHWH-redt'). Refereert bijna uitsluitend aan Jezus van",
+      "voorkomens_ca": 975
+    },
+    {
+      "strong": "G2076",
+      "grieks": "ἐστίν",
+      "translit": "estin",
+      "woordsoort": "ww",
+      "en_concordant": "is-3sg",
+      "grondvorm": "is-hij-is",
+      "stamfamilie": [
+        "G1510"
+      ],
+      "toelichting": "Derde-persoon-enkelvoud praesens van G1510 eimi 'zijn'. Als koppelwerkwoord (theos agapē estin = 'God is liefde'), als e",
+      "voorkomens_ca": 927
+    },
+    {
+      "strong": "G1537",
+      "grieks": "ἐκ",
+      "translit": "ek",
+      "woordsoort": "vz",
+      "en_concordant": "out-of",
+      "grondvorm": "uit-vanuit",
+      "stamfamilie": [],
+      "toelichting": "Voorzetsel met genitief voor beweging of oorsprong uit binnen-van-iets: uit (ruimtelijk), uit (bron/oorsprong), van (mat",
+      "voorkomens_ca": 917
+    },
+    {
+      "strong": "G1909",
+      "grieks": "ἐπί",
+      "translit": "epi",
+      "woordsoort": "vz",
+      "en_concordant": "upon-over",
+      "grondvorm": "op-over-bij",
+      "stamfamilie": [],
+      "toelichting": "Driekleurig voorzetsel: met genitief 'op/bij' (positie), met datief 'op/over/bij' (stationaire basis), met accusatief 'n",
+      "voorkomens_ca": 898
+    },
+    {
+      "strong": "G2962",
+      "grieks": "κύριος",
+      "translit": "kurios",
+      "woordsoort": "zn",
+      "en_concordant": "lord-kurios",
+      "grondvorm": "Heer-heer-eigenaar",
+      "stamfamilie": [],
+      "toelichting": "Titel Heer — betekenisspectrum: (1) YHWH in LXX-citaten (ho kurios = JHWH), (2) Jezus als verrezen Heer (NT-belijdenis k",
+      "voorkomens_ca": 748
+    },
+    {
+      "strong": "G4314",
+      "grieks": "πρός",
+      "translit": "pros",
+      "woordsoort": "vz",
+      "en_concordant": "toward-with",
+      "grondvorm": "naar-tot-bij",
+      "stamfamilie": [],
+      "toelichting": "Voorzetsel met drie naamvallen, maar in NT 99% met accusatief: 'naar/tot/bij' (beweging-naar-iemand-toe, richting, doel)",
+      "voorkomens_ca": 725
+    },
+    {
+      "strong": "G2192",
+      "grieks": "ἔχω",
+      "translit": "echō",
+      "woordsoort": "ww",
+      "en_concordant": "have-hold",
+      "grondvorm": "hebben-bezitten-houden",
+      "stamfamilie": [],
+      "toelichting": "Basaal werkwoord van bezit-hebben en toestand-houden: bezit (echō argurion = 'ik heb zilver'), relatie (echō patera = 'i",
+      "voorkomens_ca": 710
+    },
+    {
+      "strong": "G1492",
+      "grieks": "εἶδον",
+      "translit": "eidon",
+      "woordsoort": "ww",
+      "en_concordant": "see-perceive",
+      "grondvorm": "zien-waarnemen",
+      "stamfamilie": [
+        "G3708"
+      ],
+      "toelichting": "Aorist-stam 'zag/nam-waar'; suppletief paradigma met G3708 horaō (zien, praesens) en G3700 optanomai (futurum). Perfectu",
+      "voorkomens_ca": 691
+    },
+    {
+      "strong": "G1096",
+      "grieks": "γίνομαι",
+      "translit": "ginomai",
+      "woordsoort": "ww",
+      "en_concordant": "become-happen",
+      "grondvorm": "worden-geschieden-ontstaan",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van wording-ontstaan-gebeuren: worden (egeneto anthrōpos = 'er werd een mens/trad op'), geschieden (kai egenet",
+      "voorkomens_ca": 676
+    },
+    {
+      "strong": "G1223",
+      "grieks": "διά",
+      "translit": "dia",
+      "woordsoort": "vz",
+      "en_concordant": "through-by",
+      "grondvorm": "door-vanwege",
+      "stamfamilie": [],
+      "toelichting": "Tweekleurig voorzetsel: met genitief 'door/via' (middel, kanaal, doorgang — dia Christou = 'door Christus'), met accusat",
+      "voorkomens_ca": 673
+    },
+    {
+      "strong": "G575",
+      "grieks": "ἀπό",
+      "translit": "apo",
+      "woordsoort": "vz",
+      "en_concordant": "away-from",
+      "grondvorm": "van-vanaf",
+      "stamfamilie": [],
+      "toelichting": "Voorzetsel met genitief voor scheiding-vanaf-oppervlak: van/vanaf (ruimtelijk), sinds (temporeel), door (agens, zeldzaam",
+      "voorkomens_ca": 671
+    },
+    {
+      "strong": "G2443",
+      "grieks": "ἵνα",
+      "translit": "hina",
+      "woordsoort": "vgw",
+      "en_concordant": "in-order-that",
+      "grondvorm": "opdat-zodat",
+      "stamfamilie": [],
+      "toelichting": "Ondergeschikt voegwoord met subjunctief, drie functies: (1) finaal-doel 'opdat' (klassiek hoofdgebruik), (2) epexegetisc",
+      "voorkomens_ca": 671
+    },
+    {
+      "strong": "G2064",
+      "grieks": "ἔρχομαι",
+      "translit": "erchomai",
+      "woordsoort": "ww",
+      "en_concordant": "come-go",
+      "grondvorm": "komen-gaan",
+      "stamfamilie": [],
+      "toelichting": "Basaal bewegingswerkwoord 'komen/gaan'. Suppletief paradigma: praesens erchomai, aorist ēlthon, perfectum elēlutha, futu",
+      "voorkomens_ca": 642
+    },
+    {
+      "strong": "G235",
+      "grieks": "ἀλλά",
+      "translit": "alla",
+      "woordsoort": "vgw",
+      "en_concordant": "but-rather",
+      "grondvorm": "maar-doch",
+      "stamfamilie": [],
+      "toelichting": "Sterk tegenstellend voegwoord 'maar/doch' — scherpere tegenstelling dan G1161 de. Contrasteert twee onverenigbare opties",
+      "voorkomens_ca": 635
+    },
+    {
+      "strong": "G5213",
+      "grieks": "ὑμῖν",
+      "translit": "humin",
+      "woordsoort": "vnw",
+      "en_concordant": "you-pl-dat",
+      "grondvorm": "u-aan-u-jullie-datief",
+      "stamfamilie": [
+        "G4771"
+      ],
+      "toelichting": "Datief meervoud van G4771 su 'jij/u': aan-u/jullie, voor-u, bij-u. Vertelt ontvanger-positie in zin (legō humin = 'ik ze",
+      "voorkomens_ca": 622
+    },
+    {
+      "strong": "G3450",
+      "grieks": "μου",
+      "translit": "mou",
+      "woordsoort": "vnw",
+      "en_concordant": "of-me",
+      "grondvorm": "mijn-van-mij-genitief",
+      "stamfamilie": [
+        "G1473"
+      ],
+      "toelichting": "Genitief enkelvoud van G1473 egō 'ik': mijn/van-mij. Bezittelijk (ho patēr mou = 'de Vader van-mij/mijn-Vader') of parti",
+      "voorkomens_ca": 587
+    },
+    {
+      "strong": "G5216",
+      "grieks": "ὑμῶν",
+      "translit": "humōn",
+      "woordsoort": "vnw",
+      "en_concordant": "uw-van-u-genitief",
+      "grondvorm": "uw-van-u-genitief",
+      "stamfamilie": [
+        "G4771"
+      ],
+      "toelichting": "Genitief meervoud van G4771 su 'jij/u': uw/van-u. Bezittelijk (hē pistis humōn = 'het geloof van-u/uw-geloof') of partit",
+      "voorkomens_ca": 583
+    },
+    {
+      "strong": "G4160",
+      "grieks": "ποιέω",
+      "translit": "poieō",
+      "woordsoort": "ww",
+      "en_concordant": "make-do",
+      "grondvorm": "doen-maken-verrichten",
+      "stamfamilie": [],
+      "toelichting": "Algemeen werkwoord van handelen-scheppen: doen (poiein to thelēma = 'de wil doen'), maken-vervaardigen (poiein oikon = '",
+      "voorkomens_ca": 576
+    },
+    {
+      "strong": "G5547",
+      "grieks": "Χριστός",
+      "translit": "christos",
+      "woordsoort": "zn",
+      "en_concordant": "Anointed-Christ",
+      "grondvorm": "Christus-gezalfde",
+      "stamfamilie": [],
+      "toelichting": "Gezalfde — letterlijk 'met olie bestreken', vertaling van Hebreeuws mashiach (Messias). Begon als titel (ho christos = '",
+      "voorkomens_ca": 569
+    },
+    {
+      "strong": "G5101",
+      "grieks": "τίς",
+      "translit": "tis",
+      "woordsoort": "vnw",
+      "en_concordant": "who-what-question",
+      "grondvorm": "wie-wat-vragend",
+      "stamfamilie": [],
+      "toelichting": "Interrogatief voornaamwoord 'wie?/wat?/welk?' — met accent op eerste syllabe (tís) onderscheiden van indefiniet G5100 ti",
+      "voorkomens_ca": 568
+    },
+    {
+      "strong": "G444",
+      "grieks": "ἄνθρωπος",
+      "translit": "anthrōpos",
+      "woordsoort": "zn",
+      "en_concordant": "man-anthropos",
+      "grondvorm": "mens-mensheid",
+      "stamfamilie": [],
+      "toelichting": "Algemeen woord voor mens (in tegenstelling tot dier, engel, God): individuele mens (ho anthrōpos = 'de mens'), de menshe",
+      "voorkomens_ca": 559
+    },
+    {
+      "strong": "G5100",
+      "grieks": "τις",
+      "translit": "tis",
+      "woordsoort": "vnw",
+      "en_concordant": "any-someone",
+      "grondvorm": "iemand-iets-onbepaald",
+      "stamfamilie": [],
+      "toelichting": "Indefiniet voornaamwoord 'iemand/iets/een zekere' — enclitisch zonder accent, onderscheiden van interrogatief G5101 tís.",
+      "voorkomens_ca": 542
+    },
+    {
+      "strong": "G3767",
+      "grieks": "οὖν",
+      "translit": "oun",
+      "woordsoort": "vgw",
+      "en_concordant": "dus-daararound-nu",
+      "grondvorm": "dus-daarom-nu",
+      "stamfamilie": [],
+      "toelichting": "Postpositief gevolg-trekkend partikel: logisch 'dus/daarom' (argumentatie), verhalend 'nu/vervolgens' (voortstuwend in n",
+      "voorkomens_ca": 528
+    },
+    {
+      "strong": "G1487",
+      "grieks": "εἰ",
+      "translit": "ei",
+      "woordsoort": "vgw",
+      "en_concordant": "if-ei",
+      "grondvorm": "indien-als",
+      "stamfamilie": [],
+      "toelichting": "Conditioneel voegwoord 'indien/als': reële voorwaarde met indicatief (ei huios ei tou theou = 'als jij Zoon van God bent",
+      "voorkomens_ca": 503
+    },
+    {
+      "strong": "G4675",
+      "grieks": "σοῦ",
+      "translit": "sou",
+      "woordsoort": "vnw",
+      "en_concordant": "of-you-2sg",
+      "grondvorm": "uw-van-jou-genitief",
+      "stamfamilie": [
+        "G4771"
+      ],
+      "toelichting": "Genitief enkelvoud van G4771 su 'jij/u': uw/van-jou. Bezittelijk (ho patēr sou = 'jouw Vader'), oorsprong-bron (ti sou e",
+      "voorkomens_ca": 498
+    },
+    {
+      "strong": "G5613",
+      "grieks": "ὡς",
+      "translit": "hōs",
+      "woordsoort": "vgw",
+      "en_concordant": "as-hos",
+      "grondvorm": "als-zoals-toen",
+      "stamfamilie": [],
+      "toelichting": "Multifunctioneel partikel: (1) vergelijkend 'als/zoals' (hōs probata = 'als schapen'), (2) temporeel 'toen/terwijl' (hōs",
+      "voorkomens_ca": 494
+    },
+    {
+      "strong": "G2596",
+      "grieks": "κατά",
+      "translit": "kata",
+      "woordsoort": "vz",
+      "en_concordant": "down-against",
+      "grondvorm": "tegen-volgens-langs",
+      "stamfamilie": [],
+      "toelichting": "Tweekleurig voorzetsel: met genitief 'tegen/neer-van' (kata Christou = 'tegen Christus'), met accusatief 'volgens/overee",
+      "voorkomens_ca": 481
+    },
+    {
+      "strong": "G3778",
+      "grieks": "οὗτος",
+      "translit": "houtos",
+      "woordsoort": "aanwijzend-voornaamwoord",
+      "en_concordant": "this-near",
+      "grondvorm": "deze-dit",
+      "stamfamilie": [],
+      "toelichting": "Nabij-aanwijzend voornaamwoord 'deze/dit' (dichtbij-spreker-in-ruimte-tijd-of-gedachte). Vormen: houtos/hautē/touto. Teg",
+      "voorkomens_ca": 481
+    },
+    {
+      "strong": "G3326",
+      "grieks": "μετά",
+      "translit": "meta",
+      "woordsoort": "vz",
+      "en_concordant": "with-after",
+      "grondvorm": "met-na-achter",
+      "stamfamilie": [],
+      "toelichting": "Tweekleurig voorzetsel: met genitief 'met/samen-met' (meta tōn mathētōn = 'met de leerlingen' — vergezellend), met accus",
+      "voorkomens_ca": 474
+    },
+    {
+      "strong": "G2258",
+      "grieks": "ἦν",
+      "translit": "ēn",
+      "woordsoort": "ww",
+      "en_concordant": "was-imperfect",
+      "grondvorm": "was-hij-was",
+      "stamfamilie": [
+        "G1510"
+      ],
+      "toelichting": "Derde-persoon-enkelvoud imperfectum van G1510 eimi 'zijn': 'was/hij-was/er-was'. Duratief-achtergrond-tijd in narratief ",
+      "voorkomens_ca": 444
+    },
+    {
+      "strong": "G191",
+      "grieks": "ἀκούω",
+      "translit": "akouō",
+      "woordsoort": "ww",
+      "en_concordant": "hear-listen",
+      "grondvorm": "horen-luisteren",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van zintuiglijk en mentaal horen: horen-met-oren (akouein phōnēn = 'een stem horen'), luisteren-gehoorzamen (a",
+      "voorkomens_ca": 437
+    },
+    {
+      "strong": "G5209",
+      "grieks": "ὑμᾶς",
+      "translit": "humas",
+      "woordsoort": "vnw",
+      "en_concordant": "u-jullie-accusatief",
+      "grondvorm": "u-jullie-accusatief",
+      "stamfamilie": [
+        "G4771"
+      ],
+      "toelichting": "Accusatief meervoud van G4771 su 'jij/u': u/jullie als lijdend voorwerp (agapō humas = 'ik heb u lief'). Onderscheiden v",
+      "voorkomens_ca": 437
+    },
+    {
+      "strong": "G3962",
+      "grieks": "πατήρ",
+      "translit": "patēr",
+      "woordsoort": "zn",
+      "en_concordant": "father-pater-2",
+      "grondvorm": "vader-Vader",
+      "stamfamilie": [],
+      "toelichting": "Vader — natuurlijk (patēr kata sarka = 'vader naar het vlees'), geestelijk (patēr pneumatikos), voorvader (patēr hēmōn A",
+      "voorkomens_ca": 419
+    },
+    {
+      "strong": "G1325",
+      "grieks": "δίδωμι",
+      "translit": "didōmi",
+      "woordsoort": "ww",
+      "en_concordant": "give-didomi",
+      "grondvorm": "geven-overhandigen",
+      "stamfamilie": [],
+      "toelichting": "Basaal werkwoord van overdragen-schenken: geven (didōmi humin = 'ik geef aan u'), schenken-als-gift, overleveren (didōmi",
+      "voorkomens_ca": 413
+    },
+    {
+      "strong": "G2257",
+      "grieks": "ἡμῶν",
+      "translit": "hēmōn",
+      "woordsoort": "vnw",
+      "en_concordant": "of-us",
+      "grondvorm": "onze-van-ons-genitief",
+      "stamfamilie": [
+        "G1473"
+      ],
+      "toelichting": "Genitief meervoud van G1473 egō 'ik': onze/van-ons. Bezittelijk (ho kurios hēmōn Iēsous = 'onze Heer Jezus') of partitie",
+      "voorkomens_ca": 411
+    },
+    {
+      "strong": "G2250",
+      "grieks": "ἡμέρα",
+      "translit": "hēmera",
+      "woordsoort": "zn",
+      "en_concordant": "day",
+      "grondvorm": "dag",
+      "stamfamilie": [],
+      "toelichting": "Dag — astronomisch (24 uur), daglicht (tegenover G3571 nux nacht), periode/tijd (en tais hēmerais = 'in de dagen van'), ",
+      "voorkomens_ca": 389
+    },
+    {
+      "strong": "G4151",
+      "grieks": "πνεῦμα",
+      "translit": "pneuma",
+      "woordsoort": "zn",
+      "en_concordant": "spirit-wind",
+      "grondvorm": "geest-adem-wind",
+      "stamfamilie": [],
+      "toelichting": "Drielagig basisbegrip: (1) wind-beweging (pneuma pneon = 'een waaiende wind'), (2) adem-levensbeginsel (pneuma zōēs = 'l",
+      "voorkomens_ca": 385
+    },
+    {
+      "strong": "G5207",
+      "grieks": "υἱός",
+      "translit": "huios",
+      "woordsoort": "zn",
+      "en_concordant": "son-huios",
+      "grondvorm": "zoon",
+      "stamfamilie": [],
+      "toelichting": "Zoon — natuurlijk nakomeling (huios Abraam = 'zoon van Abraham'), lid-van-groep (huios tēs basileias = 'zoon van het kon",
+      "voorkomens_ca": 382
+    },
+    {
+      "strong": "G1473",
+      "grieks": "ἐγώ",
+      "translit": "egō",
+      "woordsoort": "vnw",
+      "en_concordant": "ik",
+      "grondvorm": "ik",
+      "stamfamilie": [],
+      "toelichting": "Eerste-persoon-enkelvoud-nominatief 'ik'. Expliciet uitgesproken alleen bij nadruk-of-contrast — anders in werkwoordverv",
+      "voorkomens_ca": 370
+    },
+    {
+      "strong": "G4183",
+      "grieks": "πολύς",
+      "translit": "polus",
+      "woordsoort": "bijvoeglijk-naamwoord",
+      "en_concordant": "veel-vele-great",
+      "grondvorm": "veel-vele-groot",
+      "stamfamilie": [],
+      "toelichting": "Kwantificeerder 'veel/vele/groot': numeriek (polloi = 'velen'), volume-omvang (polus ochlos = 'grote menigte'), intensit",
+      "voorkomens_ca": 365
+    },
+    {
+      "strong": "G2228",
+      "grieks": "ἤ",
+      "translit": "ē",
+      "woordsoort": "vgw",
+      "en_concordant": "or-than-e",
+      "grondvorm": "of-dan",
+      "stamfamilie": [],
+      "toelichting": "Disjunctief voegwoord: (1) keuze-of 'of' (ē touto ē ekeino = 'of dit of dat'), (2) vergelijkend 'dan' na comparatief (me",
+      "voorkomens_ca": 359
+    },
+    {
+      "strong": "G1520",
+      "grieks": "εἷς",
+      "translit": "heis",
+      "woordsoort": "tw",
+      "en_concordant": "een-één-enkel",
+      "grondvorm": "een-één-enkel",
+      "stamfamilie": [],
+      "toelichting": "Telwoord 'één' (geen onbepaald lidwoord — dat is G5100 tis). Vrouwelijk mia, onzijdig hen. Numeriek (heis anthrōpos = 'é",
+      "voorkomens_ca": 349
+    },
+    {
+      "strong": "G80",
+      "grieks": "ἀδελφός",
+      "translit": "adelphos",
+      "woordsoort": "zn",
+      "en_concordant": "adelphos-brother",
+      "grondvorm": "broeder",
+      "stamfamilie": [],
+      "toelichting": "Broeder — biologisch (adelphos mou Iakōbos = 'mijn broer Jakobus'), stammenbroeder-volksgenoot (adelphoi mou hoi Ioudaio",
+      "voorkomens_ca": 346
+    },
+    {
+      "strong": "G1438",
+      "grieks": "ἑαυτοῦ",
+      "translit": "heautou",
+      "woordsoort": "vnw",
+      "en_concordant": "zichzelf-reflexief",
+      "grondvorm": "zichzelf-reflexief",
+      "stamfamilie": [],
+      "toelichting": "Reflexief voornaamwoord 'zichzelf/zich': derde persoon (heauton ebalen = 'hij wierp zichzelf'), ook voor eerste en tweed",
+      "voorkomens_ca": 339
+    },
+    {
+      "strong": "G1437",
+      "grieks": "ἐάν",
+      "translit": "ean",
+      "woordsoort": "vgw",
+      "en_concordant": "if-ean",
+      "grondvorm": "indien-als-potentialis",
+      "stamfamilie": [],
+      "toelichting": "Conditioneel voegwoord 'indien/als' met subjunctief — potentialis (ean ēi = 'indien-eventueel-hij-is'). Onderscheiden va",
+      "voorkomens_ca": 336
+    },
+    {
+      "strong": "G5124",
+      "grieks": "τοῦτο",
+      "translit": "touto",
+      "woordsoort": "aanwijzend-voornaamwoord",
+      "en_concordant": "dit-nabij",
+      "grondvorm": "dit-nabij",
+      "stamfamilie": [
+        "G3778"
+      ],
+      "toelichting": "Onzijdig enkelvoud nominatief/accusatief van G3778 houtos 'deze/dit'. Nabij-aanwijzend naar zaak-of-feit: dia touto = 'd",
+      "voorkomens_ca": 334
+    },
+    {
+      "strong": "G4012",
+      "grieks": "περί",
+      "translit": "peri",
+      "woordsoort": "vz",
+      "en_concordant": "around-peri",
+      "grondvorm": "over-betreffende-rondom",
+      "stamfamilie": [],
+      "toelichting": "Tweekleurig voorzetsel: met genitief 'over/betreffende/aangaande' (peri tēs basileias = 'betreffende het koninkrijk' — o",
+      "voorkomens_ca": 331
+    },
+    {
+      "strong": "G3056",
+      "grieks": "λόγος",
+      "translit": "logos",
+      "woordsoort": "zn",
+      "en_concordant": "logos-word",
+      "grondvorm": "woord-rede-reden",
+      "stamfamilie": [],
+      "toelichting": "Multidimensionaal basiswoord: (1) gesproken-woord (logoi Iēsou = 'woorden van Jezus'), (2) rede-uiteenzetting-verhaal (l",
+      "voorkomens_ca": 330
+    },
+    {
+      "strong": "G3165",
+      "grieks": "με",
+      "translit": "me",
+      "woordsoort": "vnw",
+      "en_concordant": "me-accusative",
+      "grondvorm": "mij-accusatief-onbeklemtoond",
+      "stamfamilie": [
+        "G1473"
+      ],
+      "toelichting": "Accusatief enkelvoud enclitisch van G1473 egō 'ik': 'mij' als lijdend voorwerp, onbeklemtoond (akoluthei moi = 'volg mij",
+      "voorkomens_ca": 301
+    },
+    {
+      "strong": "G2980",
+      "grieks": "λαλέω",
+      "translit": "laleō",
+      "woordsoort": "ww",
+      "en_concordant": "laleo-speak",
+      "grondvorm": "spreken-praten",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van klank-voortbrengen en spreken: spreken (elalēsen ho Iēsous = 'Jezus sprak'), praten-converseren, uiten-med",
+      "voorkomens_ca": 295
+    },
+    {
+      "strong": "G3772",
+      "grieks": "οὐρανός",
+      "translit": "ouranos",
+      "woordsoort": "zn",
+      "en_concordant": "heaven",
+      "grondvorm": "hemel",
+      "stamfamilie": [],
+      "toelichting": "Hemel op drie niveaus in NT-Joodse kosmologie: (1) atmosferische hemel met vogels/wolken (ta peteina tou ouranou = 'voge",
+      "voorkomens_ca": 284
+    },
+    {
+      "strong": "G3101",
+      "grieks": "μαθητής",
+      "translit": "mathētēs",
+      "woordsoort": "zn",
+      "en_concordant": "leerling-disciple",
+      "grondvorm": "leerling-discipel",
+      "stamfamilie": [],
+      "toelichting": "Leerling-volgeling — etymologisch uit G3129 manthanō 'leren'. In NT vooral: Jezus-volgelingen in enge zin (de Twaalf), b",
+      "voorkomens_ca": 269
+    },
+    {
+      "strong": "G2983",
+      "grieks": "λαμβάνω",
+      "translit": "lambanō",
+      "woordsoort": "ww",
+      "en_concordant": "take-lambano",
+      "grondvorm": "nemen-ontvangen",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van grijpen-krijgen: actief nemen (labe tēn biblon = 'neem het boek'), passief ontvangen (elabete = 'jullie he",
+      "voorkomens_ca": 262
+    },
+    {
+      "strong": "G1093",
+      "grieks": "γῆ",
+      "translit": "gē",
+      "woordsoort": "zn",
+      "en_concordant": "earth-ge",
+      "grondvorm": "aarde-land-grond",
+      "stamfamilie": [],
+      "toelichting": "Aarde in vier betekenissen: (1) planeet-aarde tegenover hemel (ouranos kai gē = 'hemel en aarde'), (2) bewoonde wereld (",
+      "voorkomens_ca": 252
+    },
+    {
+      "strong": "G1565",
+      "grieks": "ἐκεῖνος",
+      "translit": "ekeinos",
+      "woordsoort": "aanwijzend-voornaamwoord",
+      "en_concordant": "that-ekeinos",
+      "grondvorm": "gene-die-veraf",
+      "stamfamilie": [],
+      "toelichting": "Veraf-aanwijzend voornaamwoord 'gene/die' (veraf van spreker in ruimte, tijd of gedachte). Tegenhanger van G3778 houtos ",
+      "voorkomens_ca": 251
+    },
+    {
+      "strong": "G611",
+      "grieks": "ἀποκρίνομαι",
+      "translit": "apokrinomai",
+      "woordsoort": "ww",
+      "en_concordant": "answer",
+      "grondvorm": "antwoorden",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van antwoorden-reageren: apokritheis eipen = 'hij antwoordde en zei' (Semitisme-inleiding directe rede). Vorm ",
+      "voorkomens_ca": 250
+    },
+    {
+      "strong": "G4100",
+      "grieks": "πιστεύω",
+      "translit": "pisteuō",
+      "woordsoort": "ww",
+      "en_concordant": "believe-trust",
+      "grondvorm": "geloven-vertrouwen",
+      "stamfamilie": [
+        "G4102"
+      ],
+      "toelichting": "Werkwoord van vertrouwen-geloven: (1) dat-feitelijk-geloven (pisteuein hoti = 'geloven dat'), (2) vertrouwen-op-persoon ",
+      "voorkomens_ca": 248
+    },
+    {
+      "strong": "G5023",
+      "grieks": "ταῦτα",
+      "translit": "tauta",
+      "woordsoort": "aanwijzend-voornaamwoord",
+      "en_concordant": "these-tauta",
+      "grondvorm": "deze-dingen-nabij",
+      "stamfamilie": [
+        "G3778"
+      ],
+      "toelichting": "Onzijdig meervoud nominatief/accusatief van G3778 houtos: 'deze dingen'. Verzamelnaamwoord voor meerdere-zaken-of-feiten",
+      "voorkomens_ca": 247
+    },
+    {
+      "strong": "G4102",
+      "grieks": "πίστις",
+      "translit": "pistis",
+      "woordsoort": "zn",
+      "en_concordant": "faith-pistis",
+      "grondvorm": "geloof-trouw-vertrouwen",
+      "stamfamilie": [
+        "G4100"
+      ],
+      "toelichting": "Drievoudig basisbegrip: (1) vertrouwen-geloof subjectief (pistis mou = 'mijn geloof'), (2) trouw-betrouwbaarheid objecti",
+      "voorkomens_ca": 244
+    },
+    {
+      "strong": "G5210",
+      "grieks": "ὑμεῖς",
+      "translit": "humeis",
+      "woordsoort": "vnw",
+      "en_concordant": "jullie-u-nominatief",
+      "grondvorm": "jullie-u-nominatief",
+      "stamfamilie": [
+        "G4771"
+      ],
+      "toelichting": "Nominatief meervoud van G4771 su 'jij/u': 'jullie/u' als onderwerp. Expliciet uitgesproken alleen bij nadruk-of-contrast",
+      "voorkomens_ca": 242
+    },
+    {
+      "strong": "G3427",
+      "grieks": "μοι",
+      "translit": "moi",
+      "woordsoort": "vnw",
+      "en_concordant": "to-me",
+      "grondvorm": "mij-aan-datief-onbeklemtoond",
+      "stamfamilie": [
+        "G1473"
+      ],
+      "toelichting": "Datief enkelvoud enclitisch van G1473 egō 'ik': 'aan-mij' als meewerkend voorwerp, onbeklemtoond (doxa moi = 'geef mij')",
+      "voorkomens_ca": 240
+    },
+    {
+      "strong": "G3762",
+      "grieks": "οὐδείς",
+      "translit": "oudeis",
+      "woordsoort": "vnw",
+      "en_concordant": "nothing-oudeis",
+      "grondvorm": "niemand-geen-objectief",
+      "stamfamilie": [
+        "G3756",
+        "G1520"
+      ],
+      "toelichting": "Samenstelling oude + heis: 'ook-niet-één/niemand/geen'. Objectieve ontkenning met G3756 ou-stam. Alle geslachten: oudeis",
+      "voorkomens_ca": 236
+    },
+    {
+      "strong": "G5259",
+      "grieks": "ὑπό",
+      "translit": "hupo",
+      "woordsoort": "vz",
+      "en_concordant": "under-hupo",
+      "grondvorm": "door-onder",
+      "stamfamilie": [],
+      "toelichting": "Tweekleurig voorzetsel: met genitief 'door' (agens-in-passief — hupo theou = 'door God' bij passieve werkwoorden, markee",
+      "voorkomens_ca": 231
+    },
+    {
+      "strong": "G40",
+      "grieks": "ἅγιος",
+      "translit": "hagios",
+      "woordsoort": "bijvoeglijk-naamwoord",
+      "en_concordant": "holy-apart-gezet",
+      "grondvorm": "heilig-apart-gezet",
+      "stamfamilie": [],
+      "toelichting": "Heilig in betekenis 'apart-gezet-voor-God' — niet primair moreel-rein maar cultisch-toegewijd: (1) God-zelf heilig (hagi",
+      "voorkomens_ca": 229
+    },
+    {
+      "strong": "G3686",
+      "grieks": "ὄνομα",
+      "translit": "onoma",
+      "woordsoort": "zn",
+      "en_concordant": "name-onoma",
+      "grondvorm": "naam",
+      "stamfamilie": [],
+      "toelichting": "Naam — niet louter label maar in Semitisch denken persoon-essentie-identiteit: (1) persoonsnaam (to onoma autou Iōannēs ",
+      "voorkomens_ca": 229
+    },
+    {
+      "strong": "G1097",
+      "grieks": "γινώσκω",
+      "translit": "ginōskō",
+      "woordsoort": "ww",
+      "en_concordant": "know-person-learn-know-fact",
+      "grondvorm": "kennen-leren-weten",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van ervaringskennis-leren-kennen: (1) kennis-opdoen-door-ervaring (egnōn = 'ik kwam te weten'), (2) persoonlij",
+      "voorkomens_ca": 223
+    },
+    {
+      "strong": "G1831",
+      "grieks": "ἐξέρχομαι",
+      "translit": "exerchomai",
+      "woordsoort": "ww",
+      "en_concordant": "outgon-outtrekken",
+      "grondvorm": "uitgaan-uittrekken",
+      "stamfamilie": [
+        "G1537",
+        "G2064"
+      ],
+      "toelichting": "Samenstelling ek + erchomai 'uit-komen/gaan'. Ruimtelijk (exēlthen ek tēs oikias = 'hij ging uit het huis'), metaforisch",
+      "voorkomens_ca": 222
+    },
+    {
+      "strong": "G4671",
+      "grieks": "σοι",
+      "translit": "soi",
+      "woordsoort": "vnw",
+      "en_concordant": "to-you-2sg",
+      "grondvorm": "jou-aan-datief",
+      "stamfamilie": [
+        "G4771"
+      ],
+      "toelichting": "Datief enkelvoud enclitisch van G4771 su 'jij/u': 'aan-jou/aan-u' als meewerkend voorwerp (legō soi = 'ik zeg aan-jou').",
+      "voorkomens_ca": 222
+    },
+    {
+      "strong": "G1135",
+      "grieks": "γυνή",
+      "translit": "gunē",
+      "woordsoort": "zn",
+      "en_concordant": "vrouw-echtgenote",
+      "grondvorm": "vrouw-echtgenote",
+      "stamfamilie": [],
+      "toelichting": "Vrouw in twee primaire betekenissen: (1) vrouw-als-geslacht (anēr kai gunē = 'man en vrouw'), (2) echtgenote (hē gunē au",
+      "voorkomens_ca": 221
+    },
+    {
+      "strong": "G435",
+      "grieks": "ἀνήρ",
+      "translit": "anēr",
+      "woordsoort": "zn",
+      "en_concordant": "man-echtgenoot",
+      "grondvorm": "man-echtgenoot",
+      "stamfamilie": [],
+      "toelichting": "Man in tegenstelling tot vrouw (onderscheid met G444 anthrōpos = mens generiek). Drie lagen: (1) mannelijk geslacht (anē",
+      "voorkomens_ca": 215
+    },
+    {
+      "strong": "G3779",
+      "grieks": "οὕτως",
+      "translit": "houtōs",
+      "woordsoort": "bw",
+      "en_concordant": "thus-houtos-bw",
+      "grondvorm": "zo-aldus-op-die-wijze",
+      "stamfamilie": [
+        "G3778"
+      ],
+      "toelichting": "Bijwoord van wijze gevormd uit G3778 houtos: 'zo/aldus/op-die-manier'. Terugverwijzend (houtōs legei kurios = 'zo spreek",
+      "voorkomens_ca": 213
+    },
+    {
+      "strong": "G2400",
+      "grieks": "ἰδού",
+      "translit": "idou",
+      "woordsoort": "tussenwerpsel",
+      "en_concordant": "behold-idou",
+      "grondvorm": "zie-kijk",
+      "stamfamilie": [
+        "G1492"
+      ],
+      "toelichting": "Tussenwerpsel 'zie!/kijk!' — bevroren imperatief-vorm van G1492 eidon (zien), heeft betekenis verloren van werkwoord en ",
+      "voorkomens_ca": 213
+    },
+    {
+      "strong": "G5037",
+      "grieks": "τε",
+      "translit": "te",
+      "woordsoort": "vgw",
+      "en_concordant": "en-ook-enclitisch",
+      "grondvorm": "en-ook-enclitisch",
+      "stamfamilie": [],
+      "toelichting": "Nevenschikkend voegwoord 'en/ook' — enclitisch, leunt aan voorgaand woord. Zwakker dan G2532 kai. Frequent in Lukas/Hand",
+      "voorkomens_ca": 212
+    },
+    {
+      "strong": "G2309",
+      "grieks": "θέλω",
+      "translit": "thelō",
+      "woordsoort": "ww",
+      "en_concordant": "will-wensen",
+      "grondvorm": "willen-wensen",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van willen-begeren-verkiezen: (1) wensen-wilen (thelō touto = 'ik wil dit'), (2) behagen-hebben-in (thelein en",
+      "voorkomens_ca": 210
+    },
+    {
+      "strong": "G3173",
+      "grieks": "μέγας",
+      "translit": "megas",
+      "woordsoort": "bijvoeglijk-naamwoord",
+      "en_concordant": "great-mega",
+      "grondvorm": "groot-sterk-machtig",
+      "stamfamilie": [],
+      "toelichting": "Basiskwalificatie 'groot': (1) fysieke grootte (megas lithos = 'grote steen'), (2) intensiteit (megalē phōnē = 'luide st",
+      "voorkomens_ca": 210
+    },
+    {
+      "strong": "G1410",
+      "grieks": "δύναμαι",
+      "translit": "dunamai",
+      "woordsoort": "ww",
+      "en_concordant": "be-able",
+      "grondvorm": "kunnen-in-staat-zijn",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van vermogen-kunnen: (1) macht-hebben-om (dunatai sōsai = 'hij kan redden'), (2) mogelijk-zijn (dunaton estin ",
+      "voorkomens_ca": 210
+    },
+    {
+      "strong": "G1125",
+      "grieks": "γράφω",
+      "translit": "graphō",
+      "woordsoort": "ww",
+      "en_concordant": "write-upschrift",
+      "grondvorm": "schrijven-opschrift",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van schrijven: (1) letters-schrijven (egraphen eis tēn gēn = 'hij schreef op de grond', Joh 8:6), (2) boek-bri",
+      "voorkomens_ca": 208
+    },
+    {
+      "strong": "G3844",
+      "grieks": "παρά",
+      "translit": "para",
+      "woordsoort": "vz",
+      "en_concordant": "alongside-para",
+      "grondvorm": "van-bij-naast-langs",
+      "stamfamilie": [],
+      "toelichting": "Driekleurig voorzetsel — rondom kern 'naast/nabij': met genitief 'van/van-naast' (para theou = 'van-naast-God/namens-God",
+      "voorkomens_ca": 200
+    },
+    {
+      "strong": "G2453",
+      "grieks": "Ἰουδαῖος",
+      "translit": "ioudaios",
+      "woordsoort": "bijvoeglijk-naamwoord",
+      "en_concordant": "Jew-Ioudaios",
+      "grondvorm": "joods-Jood",
+      "stamfamilie": [],
+      "toelichting": "Van Juda/Judea afkomstig — substantief 'Jood' en bijvoeglijk 'joods'. Drie gebruikslagen: (1) etnisch-religieus (Ioudaio",
+      "voorkomens_ca": 197
+    },
+    {
+      "strong": "G4571",
+      "grieks": "σε",
+      "translit": "se",
+      "woordsoort": "vnw",
+      "en_concordant": "you-2sg-acc",
+      "grondvorm": "jou-accusatief",
+      "stamfamilie": [
+        "G4771"
+      ],
+      "toelichting": "Accusatief enkelvoud enclitisch van G4771 su 'jij/u': 'jou/u' als lijdend voorwerp (agapō se = 'ik heb u lief'). Onbekle",
+      "voorkomens_ca": 197
+    },
+    {
+      "strong": "G3551",
+      "grieks": "νόμος",
+      "translit": "nomos",
+      "woordsoort": "zn",
+      "en_concordant": "law-nomos",
+      "grondvorm": "wet-Torah",
+      "stamfamilie": [],
+      "toelichting": "Wet — in NT-gebruik dominant: (1) ho nomos = 'de Wet' = Mozaïsche Torah (Pentateuch of bredere OT), (2) principe-ordenin",
+      "voorkomens_ca": 197
+    },
+    {
+      "strong": "G1525",
+      "grieks": "εἰσέρχομαι",
+      "translit": "eiserchomai",
+      "woordsoort": "ww",
+      "en_concordant": "binnengon-ingon",
+      "grondvorm": "binnengaan-ingaan",
+      "stamfamilie": [
+        "G1519",
+        "G2064"
+      ],
+      "toelichting": "Samenstelling eis + erchomai 'in-komen/gaan'. Ruimtelijk (eisēlthen eis tēn oikian = 'hij ging het huis binnen'), metafo",
+      "voorkomens_ca": 197
+    },
+    {
+      "strong": "G3303",
+      "grieks": "μέν",
+      "translit": "men",
+      "woordsoort": "vgw",
+      "en_concordant": "indeed-particle",
+      "grondvorm": "enerzijds-weliswaar",
+      "stamfamilie": [],
+      "toelichting": "Anticiperend partikel — 'enerzijds/weliswaar', vaak gevolgd door G1161 de 'maar-anderzijds'. Men-de-correlatie markeert ",
+      "voorkomens_ca": 193
+    },
+    {
+      "strong": "G2071",
+      "grieks": "ἔσομαι",
+      "translit": "esomai",
+      "woordsoort": "ww",
+      "en_concordant": "zal-be-futurum",
+      "grondvorm": "zal-zijn-futurum",
+      "stamfamilie": [
+        "G1510"
+      ],
+      "toelichting": "Futurum van G1510 eimi 'zijn': 'zal zijn'. Suppletief paradigma — eimi gebruikt verschillende wortels over tijden heen. ",
+      "voorkomens_ca": 193
+    },
+    {
+      "strong": "G302",
+      "grieks": "ἄν",
+      "translit": "an",
+      "woordsoort": "partikel",
+      "en_concordant": "an-particle",
+      "grondvorm": "modus-onvertaalbaar-conditioneel",
+      "stamfamilie": [],
+      "toelichting": "Modaliteitspartikel zonder eigen-lexicale-betekenis — kleurt werkwoordsmodus: (1) met indicatief aorist/imperfect 'zou-e",
+      "voorkomens_ca": 190
+    },
+    {
+      "strong": "G2889",
+      "grieks": "κόσμος",
+      "translit": "kosmos",
+      "woordsoort": "zn",
+      "en_concordant": "world-cosmos",
+      "grondvorm": "wereld-ordening",
+      "stamfamilie": [],
+      "toelichting": "Oorspronkelijk 'ordening-sieraad', in NT vier lagen: (1) universum-schepping (ho kosmos = 'de wereld', Joh 1:10), (2) aa",
+      "voorkomens_ca": 187
+    },
+    {
+      "strong": "G32",
+      "grieks": "ἄγγελος",
+      "translit": "angelos",
+      "woordsoort": "zn",
+      "en_concordant": "messenger",
+      "grondvorm": "bode-engel",
+      "stamfamilie": [],
+      "toelichting": "Letterlijk 'bode-boodschapper'. In NT twee lagen: (1) menselijke bode-bode (Luk 7:24, Jak 2:25), (2) bovennatuurlijk-wez",
+      "voorkomens_ca": 186
+    },
+    {
+      "strong": "G2531",
+      "grieks": "καθώς",
+      "translit": "kathōs",
+      "woordsoort": "vgw",
+      "en_concordant": "just-as-kathos",
+      "grondvorm": "zoals-evenals-naarmate",
+      "stamfamilie": [
+        "G2596"
+      ],
+      "toelichting": "Samenstelling kata + hōs 'zo-als/naar-dat-wat': vergelijkend 'zoals' (kathōs gegraptai = 'zoals geschreven staat' — stan",
+      "voorkomens_ca": 182
+    },
+    {
+      "strong": "G5495",
+      "grieks": "χείρ",
+      "translit": "cheir",
+      "woordsoort": "zn",
+      "en_concordant": "hand",
+      "grondvorm": "hand",
+      "stamfamilie": [],
+      "toelichting": "Hand — letterlijk lichaamsdeel (epeballon tas cheiras = 'zij legden de handen op'), en metaforisch: (1) macht-gezag (en ",
+      "voorkomens_ca": 179
+    },
+    {
+      "strong": "G4771",
+      "grieks": "σύ",
+      "translit": "su",
+      "woordsoort": "vnw",
+      "en_concordant": "you-2sg-nom",
+      "grondvorm": "jij-u-nominatief",
+      "stamfamilie": [],
+      "toelichting": "Tweede-persoon-enkelvoud-nominatief 'jij/u'. Expliciet alleen bij nadruk-of-contrast — anders in werkwoordvervoeging ver",
+      "voorkomens_ca": 178
+    },
+    {
+      "strong": "G2248",
+      "grieks": "ἡμᾶς",
+      "translit": "hēmas",
+      "woordsoort": "vnw",
+      "en_concordant": "us-accusative",
+      "grondvorm": "ons-accusatief",
+      "stamfamilie": [
+        "G1473"
+      ],
+      "toelichting": "Accusatief meervoud van G1473 egō 'ik': 'ons' als lijdend voorwerp (ho agapēsas hēmas = 'die ons liefheeft'). Onderschei",
+      "voorkomens_ca": 178
+    },
+    {
+      "strong": "G2147",
+      "grieks": "εὑρίσκω",
+      "translit": "heuriskō",
+      "woordsoort": "ww",
+      "en_concordant": "find-heurisko",
+      "grondvorm": "vinden-aantreffen",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van vinden-ontdekken: (1) zoeken-en-vinden (ho zētōn heuriskei = 'wie zoekt vindt', Matt 7:8), (2) bij-toeval-",
+      "voorkomens_ca": 177
+    },
+    {
+      "strong": "G2254",
+      "grieks": "ἡμῖν",
+      "translit": "hēmin",
+      "woordsoort": "vnw",
+      "en_concordant": "us-dative",
+      "grondvorm": "ons-aan-datief",
+      "stamfamilie": [
+        "G1473"
+      ],
+      "toelichting": "Datief meervoud van G1473 egō 'ik': 'aan-ons' als meewerkend voorwerp (edōken hēmin = 'hij gaf aan-ons'). Onderscheiden ",
+      "voorkomens_ca": 177
+    },
+    {
+      "strong": "G2041",
+      "grieks": "ἔργον",
+      "translit": "ergon",
+      "woordsoort": "zn",
+      "en_concordant": "werk-daad",
+      "grondvorm": "werk-daad",
+      "stamfamilie": [],
+      "toelichting": "Werk-daad-handeling: (1) arbeid-activiteit (ta erga tou patros mou = 'de werken van mijn Vader'), (2) resultaat-product ",
+      "voorkomens_ca": 176
+    },
+    {
+      "strong": "G3793",
+      "grieks": "ὄχλος",
+      "translit": "ochlos",
+      "woordsoort": "zn",
+      "en_concordant": "menigte-schare",
+      "grondvorm": "menigte-schare",
+      "stamfamilie": [],
+      "toelichting": "Menigte-schare-volksmassa: grote ongedefinieerde groep mensen (polus ochlos = 'grote menigte' vaak rond Jezus in evangel",
+      "voorkomens_ca": 175
+    },
+    {
+      "strong": "G266",
+      "grieks": "ἁμαρτία",
+      "translit": "hamartia",
+      "woordsoort": "zn",
+      "en_concordant": "missing-mark",
+      "grondvorm": "zonde-missen-doel",
+      "stamfamilie": [],
+      "toelichting": "Letterlijk 'doel-missen' (stamfamilie G264 hamartanō 'missen/falen'): (1) concrete daad-van-zonde (aphesis tōn hamartiōn",
+      "voorkomens_ca": 174
+    },
+    {
+      "strong": "G1391",
+      "grieks": "δόξα",
+      "translit": "doxa",
+      "woordsoort": "zn",
+      "en_concordant": "heerlijkheid-glorie-honor",
+      "grondvorm": "heerlijkheid-glorie-eer",
+      "stamfamilie": [],
+      "toelichting": "Klassiek-Grieks 'mening/reputatie', in NT (via LXX voor Hebreeuws kavod) geëvolueerd tot: (1) goddelijke heerlijkheid-zi",
+      "voorkomens_ca": 168
+    },
+    {
+      "strong": "G4172",
+      "grieks": "πόλις",
+      "translit": "polis",
+      "woordsoort": "zn",
+      "en_concordant": "city-polis",
+      "grondvorm": "stad",
+      "stamfamilie": [],
+      "toelichting": "Stad als bestuurlijke-omsloten-nederzetting (hē polis Dauid = 'de stad van David' = Betlehem of Jeruzalem). In NT meer d",
+      "voorkomens_ca": 164
+    },
+    {
+      "strong": "G1484",
+      "grieks": "ἔθνος",
+      "translit": "ethnos",
+      "woordsoort": "zn",
+      "en_concordant": "people-nation-heidenen",
+      "grondvorm": "volk-natie-heidenen",
+      "stamfamilie": [],
+      "toelichting": "Volk-natie: (1) enkelvoud neutraal 'volk-etnische-groep' (pan ethnos = 'elk volk'), (2) meervoud ta ethnē vaak technisch",
+      "voorkomens_ca": 164
+    },
+    {
+      "strong": "G3972",
+      "grieks": "Παῦλος",
+      "translit": "paulos",
+      "woordsoort": "zn",
+      "en_concordant": "Paulus-eigennaam",
+      "grondvorm": "Paulus-eigennaam",
+      "stamfamilie": [],
+      "toelichting": "Eigennaam Paulus — Romeins cognomen-naam betekenend 'klein/gering' (Latijn paulus). Hebreeuwse naam Saulos (Saul) pre-be",
+      "voorkomens_ca": 164
+    },
+    {
+      "strong": "G932",
+      "grieks": "βασιλεία",
+      "translit": "basileia",
+      "woordsoort": "zn",
+      "en_concordant": "kingdom-basileia",
+      "grondvorm": "koninkrijk-koningschap",
+      "stamfamilie": [],
+      "toelichting": "Betekenisspectrum: (1) koningschap-heerschappij-abstract (hē basileia tou theou = 'het koningschap van God' — het heerse",
+      "voorkomens_ca": 162
+    },
+    {
+      "strong": "G4074",
+      "grieks": "Πέτρος",
+      "translit": "petros",
+      "woordsoort": "zn",
+      "en_concordant": "Petrus-eigennaam",
+      "grondvorm": "Petrus-eigennaam",
+      "stamfamilie": [],
+      "toelichting": "Eigennaam Petrus — Grieks 'rotsstuk' (petros = losse steen, petra = rotsmassief), Jezus' nieuwnaam voor Simon (Iōannēs/B",
+      "voorkomens_ca": 162
+    },
+    {
+      "strong": "G1526",
+      "grieks": "εἰσίν",
+      "translit": "eisin",
+      "woordsoort": "ww",
+      "en_concordant": "be-zij-be",
+      "grondvorm": "zijn-zij-zijn",
+      "stamfamilie": [
+        "G1510"
+      ],
+      "toelichting": "Derde-persoon-meervoud praesens van G1510 eimi 'zijn': 'zij-zijn/er-zijn'. Koppelwerkwoord (anthrōpoi eisin = 'het zijn ",
+      "voorkomens_ca": 161
+    },
+    {
+      "strong": "G243",
+      "grieks": "ἄλλος",
+      "translit": "allos",
+      "woordsoort": "bijvoeglijk-naamwoord",
+      "en_concordant": "ander-een-andere",
+      "grondvorm": "ander-een-andere",
+      "stamfamilie": [],
+      "toelichting": "Ander-andere: numeriek-andere-van-dezelfde-soort (allos apostolos = 'een andere apostel van-dezelfde-soort'). Onderschei",
+      "voorkomens_ca": 160
+    },
+    {
+      "strong": "G2588",
+      "grieks": "καρδία",
+      "translit": "kardia",
+      "woordsoort": "zn",
+      "en_concordant": "heart",
+      "grondvorm": "hart",
+      "stamfamilie": [],
+      "toelichting": "Hart — niet louter emotioneel-centrum maar in Semitisch denken persoon-binnenste: (1) denken-verstand (dielogizonto en t",
+      "voorkomens_ca": 160
+    },
+    {
+      "strong": "G5228",
+      "grieks": "ὑπέρ",
+      "translit": "huper",
+      "woordsoort": "vz",
+      "en_concordant": "over-on-behalf",
+      "grondvorm": "ten-behoeve-van-boven",
+      "stamfamilie": [],
+      "toelichting": "Tweekleurig voorzetsel: met genitief 'ten-behoeve-van/voor/over' (huper hēmōn = 'voor/ten-gunste-van ons' — plaatsvervan",
+      "voorkomens_ca": 160
+    },
+    {
+      "strong": "G5607",
+      "grieks": "ὤν",
+      "translit": "ōn",
+      "woordsoort": "ww",
+      "en_concordant": "zijnd-participium",
+      "grondvorm": "zijnd-participium",
+      "stamfamilie": [
+        "G1510"
+      ],
+      "toelichting": "Participium praesens van G1510 eimi: 'zijnd/wezend'. Vormen ōn/ousa/on. Beschrijvend-toestandend (theos ōn = 'daar-hij-G",
+      "voorkomens_ca": 159
+    },
+    {
+      "strong": "G5119",
+      "grieks": "τότε",
+      "translit": "tote",
+      "woordsoort": "bw",
+      "en_concordant": "dan-toen",
+      "grondvorm": "dan-toen",
+      "stamfamilie": [],
+      "toelichting": "Bijwoord van tijd: (1) temporeel-verleden 'toen' (tote eipen = 'toen zei hij' — narratief verbindings-woord, typisch Mat",
+      "voorkomens_ca": 159
+    },
+    {
+      "strong": "G2476",
+      "grieks": "ἵστημι",
+      "translit": "histēmi",
+      "woordsoort": "ww",
+      "en_concordant": "stand-2",
+      "grondvorm": "staan-stellen",
+      "stamfamilie": [],
+      "toelichting": "Dubbelzinnig werkwoord: (1) transitief praesens/futurum/aorist-sigmatisch 'stellen-plaatsen' (histēmi auton = 'ik plaats",
+      "voorkomens_ca": 155
+    },
+    {
+      "strong": "G5485",
+      "grieks": "χάρις",
+      "translit": "charis",
+      "woordsoort": "zn",
+      "en_concordant": "grace-charis",
+      "grondvorm": "genade-gunst-dank",
+      "stamfamilie": [],
+      "toelichting": "Drievoudig basisbegrip: (1) gunst-welwillendheid-van-gever (charis tou theou = 'gunst van God'), (2) onverdiende-gift-al",
+      "voorkomens_ca": 155
+    },
+    {
+      "strong": "G4198",
+      "grieks": "πορεύομαι",
+      "translit": "poreuomai",
+      "woordsoort": "ww",
+      "en_concordant": "gon-reizen-pull",
+      "grondvorm": "gaan-reizen-trekken",
+      "stamfamilie": [],
+      "toelichting": "Deponent werkwoord van reizen-gaan: (1) fysiek voortgaan (poreuthēte = 'gaat gij heen', Matt 28:19), (2) levenswandel me",
+      "voorkomens_ca": 154
+    },
+    {
+      "strong": "G1510",
+      "grieks": "εἰμί",
+      "translit": "eimi",
+      "woordsoort": "ww",
+      "en_concordant": "I-am",
+      "grondvorm": "zijn-existentieel",
+      "stamfamilie": [],
+      "toelichting": "Basisst-werkwoord 'zijn' — eerste-persoon-enkelvoud-praesens stamvorm. Drie functies: (1) koppelwerkwoord (egō eimi ho p",
+      "voorkomens_ca": 154
+    },
+    {
+      "strong": "G281",
+      "grieks": "ἀμήν",
+      "translit": "amēn",
+      "woordsoort": "tussenwerpsel",
+      "en_concordant": "amen-beforewaar-zo-zij-het",
+      "grondvorm": "amen-voorwaar-zo-zij-het",
+      "stamfamilie": [],
+      "toelichting": "Hebraïsme uit Hebreeuws 'amen (vaststaand-waar-betrouwbaar). Twee functies in NT: (1) afsluitend-bevestigend 'amen/zo-zi",
+      "voorkomens_ca": 151
+    },
+    {
+      "strong": "G4561",
+      "grieks": "σάρξ",
+      "translit": "sarx",
+      "woordsoort": "zn",
+      "en_concordant": "flesh",
+      "grondvorm": "vlees",
+      "stamfamilie": [],
+      "toelichting": "Vlees op vijf lagen: (1) letterlijk-lichamelijk weefsel (sarx kai haima = 'vlees en bloed'), (2) mensheid-in-lichamelijk",
+      "voorkomens_ca": 151
+    },
+    {
+      "strong": "G4396",
+      "grieks": "προφήτης",
+      "translit": "prophētēs",
+      "woordsoort": "zn",
+      "en_concordant": "prophet-spreker-before",
+      "grondvorm": "profeet-spreker-voor",
+      "stamfamilie": [],
+      "toelichting": "Profeet — letterlijk pro + phēmi 'vooruit-spreken/voor-iemand-spreken' (niet primair toekomst-voorspellen maar namens-Go",
+      "voorkomens_ca": 149
+    },
+    {
+      "strong": "G2193",
+      "grieks": "ἕως",
+      "translit": "heōs",
+      "woordsoort": "vgw",
+      "en_concordant": "until-heos",
+      "grondvorm": "totdat-tot",
+      "stamfamilie": [],
+      "toelichting": "Tijdsvoegwoord/voorzetsel: (1) voegwoord 'totdat' (heōs elthēi = 'totdat hij komt'), (2) voorzetsel met genitief 'tot aa",
+      "voorkomens_ca": 148
+    },
+    {
+      "strong": "G2564",
+      "grieks": "καλέω",
+      "translit": "kaleō",
+      "woordsoort": "ww",
+      "en_concordant": "call-noemen",
+      "grondvorm": "roepen-noemen",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord met drie lagen: (1) mondeling-roepen-aanroepen (ekalesen autous = 'hij riep hen'), (2) uitnodigen-aanroepen-to",
+      "voorkomens_ca": 146
+    },
+    {
+      "strong": "G863",
+      "grieks": "ἀφίημι",
+      "translit": "aphiēmi",
+      "woordsoort": "ww",
+      "en_concordant": "let-go-forgive",
+      "grondvorm": "verlaten-vergeven-toelaten",
+      "stamfamilie": [],
+      "toelichting": "Samenstelling apo + hiēmi 'weg-zenden': drie lagen: (1) verlaten-achterlaten (apheis ta diktua = 'zij lieten de netten a",
+      "voorkomens_ca": 146
+    },
+    {
+      "strong": "G4983",
+      "grieks": "σῶμα",
+      "translit": "sōma",
+      "woordsoort": "zn",
+      "en_concordant": "body",
+      "grondvorm": "lichaam",
+      "stamfamilie": [],
+      "toelichting": "Lichaam — drie lagen: (1) menselijk-lichaam levend of dood (to sōma mou = 'mijn lichaam', paradosetai to sōma = 'het lic",
+      "voorkomens_ca": 146
+    },
+    {
+      "strong": "G2992",
+      "grieks": "λαός",
+      "translit": "laos",
+      "woordsoort": "zn",
+      "en_concordant": "people-Volk-van-God",
+      "grondvorm": "volk-Volk-van-God",
+      "stamfamilie": [],
+      "toelichting": "Volk — technisch-theologisch gebruik: (1) Israël als Gods-verkoren-volk (ho laos tou theou = 'het volk van God', laos mo",
+      "voorkomens_ca": 143
+    },
+    {
+      "strong": "G3748",
+      "grieks": "ὅστις",
+      "translit": "hostis",
+      "woordsoort": "betrekkelijk-voornaamwoord",
+      "en_concordant": "wie-welke-onbepaald",
+      "grondvorm": "wie-welke-onbepaald",
+      "stamfamilie": [
+        "G3739",
+        "G5100"
+      ],
+      "toelichting": "Samengesteld relatief + indefiniet G3739 hos + G5100 tis: 'wie-ook/ieder-die/welke-maar' (generaliserend) of 'een-die' (",
+      "voorkomens_ca": 143
+    },
+    {
+      "strong": "G3568",
+      "grieks": "νῦν",
+      "translit": "nun",
+      "woordsoort": "bw",
+      "en_concordant": "now-nun",
+      "grondvorm": "nu-thans",
+      "stamfamilie": [],
+      "toelichting": "Tijdsbijwoord 'nu/thans/heden': (1) huidig moment (nun legō = 'nu zeg ik'), (2) tegenwoordige eon (nun kairos = 'nu is d",
+      "voorkomens_ca": 143
+    },
+    {
+      "strong": "G2198",
+      "grieks": "ζάω",
+      "translit": "zaō",
+      "woordsoort": "ww",
+      "en_concordant": "live-zao",
+      "grondvorm": "leven",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van leven-in-leven-zijn: (1) biologisch-leven (ho zōn = 'de levende'), (2) leven-herstellen-uit-dood (nekros ē",
+      "voorkomens_ca": 142
+    },
+    {
+      "strong": "G3825",
+      "grieks": "πάλιν",
+      "translit": "palin",
+      "woordsoort": "bw",
+      "en_concordant": "weer-upnieuw-anderzijds",
+      "grondvorm": "weer-opnieuw-anderzijds",
+      "stamfamilie": [],
+      "toelichting": "Bijwoord: (1) herhaling 'weer/opnieuw' (palin elthōn = 'opnieuw komend'), (2) terugkeer-plaatsmerk 'terug' (palin anasta",
+      "voorkomens_ca": 142
+    },
+    {
+      "strong": "G25",
+      "grieks": "ἀγαπάω",
+      "translit": "agapaō",
+      "woordsoort": "ww",
+      "en_concordant": "liefhebben-hoogachten",
+      "grondvorm": "liefhebben-hoogachten",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van beminnen-liefhebben: in NT het dominante liefde-werkwoord, nuance 'willende-beminnen' of 'bewust-hoogachte",
+      "voorkomens_ca": 142
+    },
+    {
+      "strong": "G1453",
+      "grieks": "ἐγείρω",
+      "translit": "egeirō",
+      "woordsoort": "ww",
+      "en_concordant": "rouse-egeiro",
+      "grondvorm": "wekken-opwekken",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van wakker-maken en opwekken: (1) uit-slaap-wekken (ēgerthē apo tou hupnou = 'hij werd gewekt uit de slaap'), ",
+      "voorkomens_ca": 141
+    },
+    {
+      "strong": "G5456",
+      "grieks": "φωνή",
+      "translit": "phōnē",
+      "woordsoort": "zn",
+      "en_concordant": "voice-noise",
+      "grondvorm": "stem-geluid",
+      "stamfamilie": [],
+      "toelichting": "Stem-geluid-klank: (1) menselijke stem (phōnē boōntos = 'stem van een roepende', Jes 40:3-citaat), (2) dierlijk geluid (",
+      "voorkomens_ca": 141
+    },
+    {
+      "strong": "G3761",
+      "grieks": "οὐδέ",
+      "translit": "oude",
+      "woordsoort": "vgw",
+      "en_concordant": "ook-niet-noch",
+      "grondvorm": "ook-niet-noch",
+      "stamfamilie": [
+        "G3756",
+        "G1161"
+      ],
+      "toelichting": "Samenstelling ou + de: 'en-niet/ook-niet/noch'. Objectieve ontkenning in ketting (oute-oude = 'noch-noch' in reeks, al d",
+      "voorkomens_ca": 137
+    },
+    {
+      "strong": "G1417",
+      "grieks": "δύο",
+      "translit": "duo",
+      "woordsoort": "tw",
+      "en_concordant": "twee",
+      "grondvorm": "twee",
+      "stamfamilie": [],
+      "toelichting": "Telwoord 'twee' — onverbogen of zwak-verbogen in Hellenistisch Grieks. Apesteilen dU0 duo = 'hij zond hen twee-aan-twee'",
+      "voorkomens_ca": 135
+    },
+    {
+      "strong": "G991",
+      "grieks": "βλέπω",
+      "translit": "blepō",
+      "woordsoort": "ww",
+      "en_concordant": "look-blepo",
+      "grondvorm": "zien-kijken",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van visueel-zien: (1) zintuiglijk zien (blepō anthrōpous = 'ik zie mensen', Mark 8:24), (2) toezien-opletten-a",
+      "voorkomens_ca": 135
+    },
+    {
+      "strong": "G2222",
+      "grieks": "ζωή",
+      "translit": "zōē",
+      "woordsoort": "zn",
+      "en_concordant": "life-zoe",
+      "grondvorm": "leven",
+      "stamfamilie": [
+        "G2198"
+      ],
+      "toelichting": "Leven als substantief, stamfamilie G2198 zaō. Drie lagen: (1) biologisch-levensduur (hē zōē humōn = 'uw leven'), (2) gee",
+      "voorkomens_ca": 134
+    },
+    {
+      "strong": "G649",
+      "grieks": "ἀποστέλλω",
+      "translit": "apostellō",
+      "woordsoort": "ww",
+      "en_concordant": "send-out-apostello",
+      "grondvorm": "uitzenden-zenden",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van uitzenden met opdracht-of-gezag: (1) fysiek-uitzenden (apesteilen autous duō duō = 'hij zond hen uit twee-",
+      "voorkomens_ca": 133
+    },
+    {
+      "strong": "G2491",
+      "grieks": "Ἰωάννης",
+      "translit": "iōannēs",
+      "woordsoort": "zn",
+      "en_concordant": "Johannes-eigennaam",
+      "grondvorm": "Johannes-eigennaam",
+      "stamfamilie": [],
+      "toelichting": "Eigennaam Johannes — Griekse weergave van Hebreeuws Yochanan ('JHWH is genadig'). In NT vier dragers: (1) Johannes de Do",
+      "voorkomens_ca": 133
+    },
+    {
+      "strong": "G3498",
+      "grieks": "νεκρός",
+      "translit": "nekros",
+      "woordsoort": "bijvoeglijk-naamwoord",
+      "en_concordant": "dead-nekros",
+      "grondvorm": "dood-dode",
+      "stamfamilie": [],
+      "toelichting": "Dood-dode-levenloos: (1) letterlijk dood-lichaam (anastēsei tous nekrous = 'Hij zal de doden opwekken'), (2) substantief",
+      "voorkomens_ca": 132
+    },
+    {
+      "strong": "G165",
+      "grieks": "αἰών",
+      "translit": "aiōn",
+      "woordsoort": "zn",
+      "en_concordant": "eon-age",
+      "grondvorm": "eeuw-aeon-tijdperk",
+      "stamfamilie": [],
+      "toelichting": "Kernwoord met discussie-lading: niet primair 'eeuwigheid-abstract' maar 'tijdperk-eon': (1) tijdsperiode onbepaalde-duur",
+      "voorkomens_ca": 128
+    },
+    {
+      "strong": "G1401",
+      "grieks": "δοῦλος",
+      "translit": "doulos",
+      "woordsoort": "zn",
+      "en_concordant": "slave-doulos",
+      "grondvorm": "slaaf-dienstknecht",
+      "stamfamilie": [],
+      "toelichting": "Slaaf-gebonden-dienstknecht (niet vrijwillig-werknemer): (1) letterlijk-slaaf-bezit-van-eigenaar (doulos anthrōpōn = 'sl",
+      "voorkomens_ca": 127
+    },
+    {
+      "strong": "G2249",
+      "grieks": "ἡμεῖς",
+      "translit": "hēmeis",
+      "woordsoort": "vnw",
+      "en_concordant": "we-1pl-nom",
+      "grondvorm": "wij-nominatief",
+      "stamfamilie": [
+        "G1473"
+      ],
+      "toelichting": "Nominatief meervoud van G1473 egō: 'wij' als onderwerp. Expliciet uitgesproken alleen bij nadruk-of-contrast (hēmeis de ",
+      "voorkomens_ca": 126
+    },
+    {
+      "strong": "G1511",
+      "grieks": "εἶναι",
+      "translit": "einai",
+      "woordsoort": "ww",
+      "en_concordant": "be-infinitief",
+      "grondvorm": "zijn-infinitief",
+      "stamfamilie": [
+        "G1510"
+      ],
+      "toelichting": "Infinitief praesens van G1510 eimi: 'zijn'. In NT vaak in accusativus-cum-infinitivo (nomizō auton einai = 'ik denk dat ",
+      "voorkomens_ca": 126
+    },
+    {
+      "strong": "G906",
+      "grieks": "βάλλω",
+      "translit": "ballō",
+      "woordsoort": "ww",
+      "en_concordant": "werpen-gooien-leggen",
+      "grondvorm": "werpen-gooien-leggen",
+      "stamfamilie": [],
+      "toelichting": "Basaal werkwoord van werpen-leggen: (1) actief-werpen (balōn lithon = 'een steen werpend'), (2) plaatsen-leggen-met-mind",
+      "voorkomens_ca": 125
+    },
+    {
+      "strong": "G4862",
+      "grieks": "σύν",
+      "translit": "sun",
+      "woordsoort": "vz",
+      "en_concordant": "with-sun",
+      "grondvorm": "met-samen-met",
+      "stamfamilie": [],
+      "toelichting": "Voorzetsel met datief: 'met/samen-met' — benadrukt gemeenschappelijk-handelen of vergezellen (sun autōi = 'met hem samen",
+      "voorkomens_ca": 125
+    },
+    {
+      "strong": "G749",
+      "grieks": "ἀρχιερεύς",
+      "translit": "archiereus",
+      "woordsoort": "zn",
+      "en_concordant": "hogepriester-uppriester",
+      "grondvorm": "hogepriester-oppriester",
+      "stamfamilie": [
+        "G746",
+        "G2409"
+      ],
+      "toelichting": "Samenstelling archi + hiereus 'eerste/hoofd-priester': (1) OT-technisch-hogepriester (LXX-term voor kohen gadol — ambt v",
+      "voorkomens_ca": 123
+    },
+    {
+      "strong": "G3752",
+      "grieks": "ὅταν",
+      "translit": "hotan",
+      "woordsoort": "vgw",
+      "en_concordant": "wanneer-telkens-als",
+      "grondvorm": "wanneer-telkens-als",
+      "stamfamilie": [
+        "G3753",
+        "G302"
+      ],
+      "toelichting": "Samenstelling hote + an: 'wanneer-ook/telkens-als' (generaliserend of herhalend met subjunctief). Onderscheiden van G375",
+      "voorkomens_ca": 122
+    },
+    {
+      "strong": "G3860",
+      "grieks": "παραδίδωμι",
+      "translit": "paradidōmi",
+      "woordsoort": "ww",
+      "en_concordant": "overleveren-overdragen",
+      "grondvorm": "overleveren-overdragen",
+      "stamfamilie": [
+        "G3844",
+        "G1325"
+      ],
+      "toelichting": "Samenstelling para + didōmi 'naast-geven/over-geven': (1) overleveren-in-handen-van (paredōken auton tōi Pilatōi = 'hij ",
+      "voorkomens_ca": 121
+    },
+    {
+      "strong": "G565",
+      "grieks": "ἀπέρχομαι",
+      "translit": "aperchomai",
+      "woordsoort": "ww",
+      "en_concordant": "awaygon-heengon",
+      "grondvorm": "weggaan-heengaan",
+      "stamfamilie": [
+        "G575",
+        "G2064"
+      ],
+      "toelichting": "Samenstelling apo + erchomai 'weg-gaan': (1) ruimtelijk-weggaan (apelthōn anechōrēsen = 'heengaande trok hij zich terug'",
+      "voorkomens_ca": 120
+    },
+    {
+      "strong": "G1411",
+      "grieks": "δύναμις",
+      "translit": "dunamis",
+      "woordsoort": "zn",
+      "en_concordant": "power-dunamis",
+      "grondvorm": "kracht-vermogen-wonder",
+      "stamfamilie": [
+        "G1410"
+      ],
+      "toelichting": "Kracht-vermogen-macht, stamfamilie G1410 dunamai: (1) innerlijk vermogen-capaciteit (dunamis theou = 'kracht Gods', Rom ",
+      "voorkomens_ca": 120
+    },
+    {
+      "strong": "G3306",
+      "grieks": "μένω",
+      "translit": "menō",
+      "woordsoort": "ww",
+      "en_concordant": "remain-wonen-verblijven",
+      "grondvorm": "blijven-wonen-verblijven",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van duurzaam-blijven-verblijven: (1) ruimtelijk-verblijven (emeinan par autōi = 'zij bleven bij hem', Joh 1:39",
+      "voorkomens_ca": 120
+    },
+    {
+      "strong": "G2212",
+      "grieks": "ζητέω",
+      "translit": "zēteō",
+      "woordsoort": "ww",
+      "en_concordant": "seek-nastreven",
+      "grondvorm": "zoeken-nastreven",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van zoeken-nastreven: (1) zintuiglijk zoeken (ezētoun auton = 'zij zochten Hem'), (2) verlangen-trachten-naar ",
+      "voorkomens_ca": 119
+    },
+    {
+      "strong": "G2288",
+      "grieks": "θάνατος",
+      "translit": "thanatos",
+      "woordsoort": "zn",
+      "en_concordant": "death-thanatos",
+      "grondvorm": "dood",
+      "stamfamilie": [],
+      "toelichting": "Dood op drie lagen: (1) biologisch-einde-van-leven (ek thanatou eis zōēn = 'uit de dood tot het leven', Joh 5:24), (2) g",
+      "voorkomens_ca": 119
+    },
+    {
+      "strong": "G935",
+      "grieks": "βασιλεύς",
+      "translit": "basileus",
+      "woordsoort": "zn",
+      "en_concordant": "king",
+      "grondvorm": "koning",
+      "stamfamilie": [
+        "G932"
+      ],
+      "toelichting": "Koning — stamfamilie G932 basileia (koninkrijk/koningschap): (1) aardse koning (Hērōdēs ho basileus = 'koning Herodes'),",
+      "voorkomens_ca": 118
+    },
+    {
+      "strong": "G1577",
+      "grieks": "ἐκκλησία",
+      "translit": "ekklēsia",
+      "woordsoort": "zn",
+      "en_concordant": "called-out-assembly",
+      "grondvorm": "uitgeroepenen-gemeente",
+      "stamfamilie": [],
+      "toelichting": "Letterlijk 'uit-geroepenen' (ek + kaleō — vergadering bijeengeroepen), Hellenistisch-klassiek reeds term voor burgerlijk",
+      "voorkomens_ca": 118
+    },
+    {
+      "strong": "G26",
+      "grieks": "ἀγάπη",
+      "translit": "agapē",
+      "woordsoort": "zn",
+      "en_concordant": "love-agape",
+      "grondvorm": "liefde",
+      "stamfamilie": [
+        "G25"
+      ],
+      "toelichting": "Liefde als substantief, stamfamilie G25 agapaō. Dominante liefde-term in NT voor: (1) Gods liefde (agapē tou theou — obj",
+      "voorkomens_ca": 116
+    },
+    {
+      "strong": "G3745",
+      "grieks": "ὅσος",
+      "translit": "hosos",
+      "woordsoort": "betrekkelijk-voornaamwoord",
+      "en_concordant": "zoveel-als-alles-wat",
+      "grondvorm": "zoveel-als-alles-wat",
+      "stamfamilie": [],
+      "toelichting": "Kwantitatief relatief 'zoveel-als/al-wat': (1) kwantiteit (hosoi = 'zovelen als/al-wie' — Joh 1:12 hosoi de elabon auton",
+      "voorkomens_ca": 115
+    },
+    {
+      "strong": "G2919",
+      "grieks": "κρίνω",
+      "translit": "krinō",
+      "woordsoort": "ww",
+      "en_concordant": "oordelen-beslissen",
+      "grondvorm": "oordelen-beslissen",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van oordelen-onderscheiden: (1) beslissen-voornemen (ekrina touto = 'ik besloot dit'), (2) rechterlijk-oordele",
+      "voorkomens_ca": 114
+    },
+    {
+      "strong": "G3624",
+      "grieks": "οἶκος",
+      "translit": "oikos",
+      "woordsoort": "zn",
+      "en_concordant": "house-oikos",
+      "grondvorm": "huis-huishouden",
+      "stamfamilie": [],
+      "toelichting": "Huis in drie lagen: (1) gebouw-als-dwelling (ho oikos mou = 'mijn huis'), (2) huishouden-familie-personen (holos ho oiko",
+      "voorkomens_ca": 114
+    },
+    {
+      "strong": "G1700",
+      "grieks": "ἐμοῦ",
+      "translit": "emou",
+      "woordsoort": "vnw",
+      "en_concordant": "mij-van-emfatisch-genitief",
+      "grondvorm": "mij-van-emfatisch-genitief",
+      "stamfamilie": [
+        "G1473"
+      ],
+      "toelichting": "Emfatische genitief enkelvoud van G1473 egō 'ik': 'van-mij/mij' met nadruk. Tegenhanger van enclitische G3450 mou (onbek",
+      "voorkomens_ca": 113
+    },
+    {
+      "strong": "G2398",
+      "grieks": "ἴδιος",
+      "translit": "idios",
+      "woordsoort": "bijvoeglijk-naamwoord",
+      "en_concordant": "own",
+      "grondvorm": "eigen",
+      "stamfamilie": [],
+      "toelichting": "Bezitsrelativerend bijvoeglijk-naamwoord 'eigen/persoonlijk': (1) bezits-eigen (hē idia oikia = 'zijn eigen huis'), (2) ",
+      "voorkomens_ca": 113
+    },
+    {
+      "strong": "G3650",
+      "grieks": "ὅλος",
+      "translit": "holos",
+      "woordsoort": "bijvoeglijk-naamwoord",
+      "en_concordant": "whole-entire",
+      "grondvorm": "heel-geheel-totaal",
+      "stamfamilie": [],
+      "toelichting": "Totaliteit-kwantor 'heel/geheel/totaal': (1) volledig uitgestrekt-alles (holēn tēn gēn = 'de hele aarde'), (2) ongedeeld",
+      "voorkomens_ca": 112
+    },
+    {
+      "strong": "G450",
+      "grieks": "ἀνίστημι",
+      "translit": "anistēmi",
+      "woordsoort": "ww",
+      "en_concordant": "rise-anistemi-2",
+      "grondvorm": "opstaan-doen-opstaan",
+      "stamfamilie": [
+        "G303",
+        "G2476"
+      ],
+      "toelichting": "Samenstelling ana + histēmi 'omhoog-stellen/omhoog-staan': transitief 'doen-opstaan' (anastēsei auton = 'Hij zal hem doe",
+      "voorkomens_ca": 112
+    },
+    {
+      "strong": "G599",
+      "grieks": "ἀποθνῄσκω",
+      "translit": "apothnēiskō",
+      "woordsoort": "ww",
+      "en_concordant": "die-apothnesko-2",
+      "grondvorm": "sterven-doodgaan",
+      "stamfamilie": [
+        "G575"
+      ],
+      "toelichting": "Samenstelling apo + thnēiskō 'weg-sterven/afsterven': (1) fysiek-sterven (apethanen epi tou staurou = 'hij stierf aan he",
+      "voorkomens_ca": 111
+    },
+    {
+      "strong": "G4982",
+      "grieks": "σῴζω",
+      "translit": "sōizō",
+      "woordsoort": "ww",
+      "en_concordant": "save-sozo",
+      "grondvorm": "redden-bewaren-genezen",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van redden-behouden: (1) fysiek-bewaren-uit-gevaar (sōson hēmas = 'red ons', Matt 8:25), (2) genezen-gezond-ma",
+      "voorkomens_ca": 110
+    },
+    {
+      "strong": "G3195",
+      "grieks": "μέλλω",
+      "translit": "mellō",
+      "woordsoort": "ww",
+      "en_concordant": "up-punt-ston-beforenemen",
+      "grondvorm": "op-punt-staan-voornemen",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van aanstaand-zijn-op-punt-staan: (1) onmiddellijke-nabije-toekomst (ēmellen apothnēiskein = 'hij stond op het",
+      "voorkomens_ca": 110
+    },
+    {
+      "strong": "G225",
+      "grieks": "ἀλήθεια",
+      "translit": "alētheia",
+      "woordsoort": "zn",
+      "en_concordant": "truth-aletheia",
+      "grondvorm": "waarheid-onverborgenheid",
+      "stamfamilie": [],
+      "toelichting": "Etymologisch a-lētheia 'on-verborgenheid' (niet-verhuld). In NT drie lagen: (1) feitelijke-waarheid tegenover leugen (le",
+      "voorkomens_ca": 110
+    },
+    {
+      "strong": "G3870",
+      "grieks": "παρακαλέω",
+      "translit": "parakaleō",
+      "woordsoort": "ww",
+      "en_concordant": "call-alongside",
+      "grondvorm": "aansporen-troosten-roepen",
+      "stamfamilie": [
+        "G3844",
+        "G2564"
+      ],
+      "toelichting": "Samenstelling para + kaleō 'naast-roepen/tot-zich-roepen': breed-betekenis-spectrum: (1) uitnodigen-erbij-roepen (pareka",
+      "voorkomens_ca": 108
+    },
+    {
+      "strong": "G5610",
+      "grieks": "ὥρα",
+      "translit": "hōra",
+      "woordsoort": "zn",
+      "en_concordant": "hour-tijdstip",
+      "grondvorm": "uur-tijdstip",
+      "stamfamilie": [],
+      "toelichting": "Tijdseenheid-uur op drie schalen: (1) twaalfdeel-van-dag (hōra tritē = 'derde uur' = 9:00), (2) gelegenheid-moment (hōra",
+      "voorkomens_ca": 108
+    },
+    {
+      "strong": "G3753",
+      "grieks": "ὅτε",
+      "translit": "hote",
+      "woordsoort": "vgw",
+      "en_concordant": "when-hote",
+      "grondvorm": "toen-wanneer-definiet",
+      "stamfamilie": [],
+      "toelichting": "Tijdsvoegwoord met indicatief: 'toen' (narratief-verleden, hote egeneto = 'toen het geschiedde'), 'wanneer' (definiet-ge",
+      "voorkomens_ca": 106
+    },
+    {
+      "strong": "G4413",
+      "grieks": "πρῶτος",
+      "translit": "prōtos",
+      "woordsoort": "bijvoeglijk-naamwoord",
+      "en_concordant": "eerste",
+      "grondvorm": "eerste",
+      "stamfamilie": [],
+      "toelichting": "Ordinaal telwoord 'eerste': (1) volgorde-eerste-in-reeks (prōtos kai eschatos = 'eerste en laatste' — Christus-zelfaandu",
+      "voorkomens_ca": 106
+    },
+    {
+      "strong": "G5590",
+      "grieks": "ψυχή",
+      "translit": "psuchē",
+      "woordsoort": "zn",
+      "en_concordant": "soul-life",
+      "grondvorm": "ziel-leven-persoon",
+      "stamfamilie": [],
+      "toelichting": "Drievoudig basisbegrip uit LXX-Hebreeuws nefesh-parallel: (1) leven-als-vitaliteit (tēn psuchēn autou edōken = 'Hij gaf ",
+      "voorkomens_ca": 105
+    },
+    {
+      "strong": "G4459",
+      "grieks": "πῶς",
+      "translit": "pōs",
+      "woordsoort": "bw",
+      "en_concordant": "how-pos",
+      "grondvorm": "hoe-op-welke-wijze",
+      "stamfamilie": [],
+      "toelichting": "Interrogatief bijwoord 'hoe?/op-welke-wijze?': directe vraag (pōs dunatai = 'hoe kan het?') of indirecte vraag (akousate",
+      "voorkomens_ca": 105
+    },
+    {
+      "strong": "G1163",
+      "grieks": "δεῖ",
+      "translit": "dei",
+      "woordsoort": "ww",
+      "en_concordant": "must-binding",
+      "grondvorm": "moet-is-nodig-onpersoonlijk",
+      "stamfamilie": [],
+      "toelichting": "Onpersoonlijk werkwoord 'het moet/het is nodig' — in NT met accusativus-cum-infinitivo-construct (dei auton apelthein = ",
+      "voorkomens_ca": 105
+    },
+    {
+      "strong": "G1849",
+      "grieks": "ἐξουσία",
+      "translit": "exousia",
+      "woordsoort": "zn",
+      "en_concordant": "authority",
+      "grondvorm": "macht-gezag-bevoegdheid",
+      "stamfamilie": [],
+      "toelichting": "Bevoegdheid-volmacht-gezag — meer juridisch-relationeel dan G1411 dunamis (krachts-vermogen): (1) gezag-recht-om-te-doen",
+      "voorkomens_ca": 103
+    },
+    {
+      "strong": "G3598",
+      "grieks": "ὁδός",
+      "translit": "hodos",
+      "woordsoort": "zn",
+      "en_concordant": "away-reis-wijze",
+      "grondvorm": "weg-reis-wijze",
+      "stamfamilie": [],
+      "toelichting": "Weg in letterlijke en metaforische zin: (1) gebaande-route (para tēn hodon = 'langs de weg', Matt 13:4 zaaiergelijkenis)",
+      "voorkomens_ca": 102
+    },
+    {
+      "strong": "G142",
+      "grieks": "αἴρω",
+      "translit": "airō",
+      "woordsoort": "ww",
+      "en_concordant": "upnemen-awaynemen-bear",
+      "grondvorm": "opnemen-wegnemen-dragen",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van opheffen-optillen-wegdragen: (1) fysiek-optillen (ēren tous ophthalmous = 'Hij hief de ogen op'), (2) wegn",
+      "voorkomens_ca": 102
+    },
+    {
+      "strong": "G3788",
+      "grieks": "ὀφθαλμός",
+      "translit": "ophthalmos",
+      "woordsoort": "zn",
+      "en_concordant": "eye",
+      "grondvorm": "oog",
+      "stamfamilie": [],
+      "toelichting": "Oog — letterlijk (epērken tous ophthalmous autou = 'hij sloeg zijn ogen op'), en metaforisch: (1) geestelijk-waarnemings",
+      "voorkomens_ca": 102
+    },
+    {
+      "strong": "G18",
+      "grieks": "ἀγαθός",
+      "translit": "agathos",
+      "woordsoort": "bijvoeglijk-naamwoord",
+      "en_concordant": "good-deugdelijk",
+      "grondvorm": "goed-deugdelijk",
+      "stamfamilie": [],
+      "toelichting": "Goed in inwendig-ethische zin: (1) moreel-goed (agathos anthrōpos = 'goed mens', Luk 23:50), (2) nuttig-gunstig-dienstba",
+      "voorkomens_ca": 102
+    },
+    {
+      "strong": "G2570",
+      "grieks": "καλός",
+      "translit": "kalos",
+      "woordsoort": "bijvoeglijk-naamwoord",
+      "en_concordant": "schoon-good",
+      "grondvorm": "schoon-goed",
+      "stamfamilie": [],
+      "toelichting": "Goed in de zin van 'schoon/mooi/passend': (1) esthetisch-schoon (ta erga sou kala = 'uw werken zijn schoon'), (2) uitmun",
+      "voorkomens_ca": 101
+    },
+    {
+      "strong": "G2089",
+      "grieks": "ἔτι",
+      "translit": "eti",
+      "woordsoort": "bw",
+      "en_concordant": "yet-still",
+      "grondvorm": "nog-bovendien",
+      "stamfamilie": [],
+      "toelichting": "Bijwoord: (1) temporeel-nog-steeds (eti zōn = 'nog levend'), (2) additief-bovendien-nog (eti de kai = 'en bovendien ook'",
+      "voorkomens_ca": 101
+    },
+    {
+      "strong": "G5330",
+      "grieks": "Φαρισαῖος",
+      "translit": "pharisaios",
+      "woordsoort": "zn",
+      "en_concordant": "Farizeeër",
+      "grondvorm": "Farizeeër",
+      "stamfamilie": [],
+      "toelichting": "Partij-lid binnen 2e-Tempel-Judaïsme — etymologisch van Hebreeuws parash 'afgezonderde/gescheidene'. Kenmerken: Wets-ijv",
+      "voorkomens_ca": 100
+    },
+    {
+      "strong": "G240",
+      "grieks": "ἀλλήλων",
+      "translit": "allēlōn",
+      "woordsoort": "vnw",
+      "en_concordant": "elkaar-wederkerig",
+      "grondvorm": "elkaar-wederkerig",
+      "stamfamilie": [
+        "G243"
+      ],
+      "toelichting": "Reciproceel voornaamwoord 'elkaar/onderling' — stamfamilie G243 allos 'ander' (verdubbeld allos-allos = 'ander-ander'). ",
+      "voorkomens_ca": 100
+    },
+    {
+      "strong": "G5043",
+      "grieks": "τέκνον",
+      "translit": "teknon",
+      "woordsoort": "zn",
+      "en_concordant": "child-teknon",
+      "grondvorm": "kind-afkomeling",
+      "stamfamilie": [],
+      "toelichting": "Kind — stamfamilie G5088 tiktō 'baren': (1) biologisch-kind-van-ouders (tekna autou = 'zijn kinderen'), (2) geestelijk-k",
+      "voorkomens_ca": 99
+    },
+    {
+      "strong": "G740",
+      "grieks": "ἄρτος",
+      "translit": "artos",
+      "woordsoort": "zn",
+      "en_concordant": "bread",
+      "grondvorm": "brood",
+      "stamfamilie": [],
+      "toelichting": "Brood in letterlijke en sacramentele zin: (1) voedsel-brood (ton arton hēmōn = 'ons brood', Matt 6:11), (2) algemeen-maa",
+      "voorkomens_ca": 99
+    },
+    {
+      "strong": "G2087",
+      "grieks": "ἕτερος",
+      "translit": "heteros",
+      "woordsoort": "bijvoeglijk-naamwoord",
+      "en_concordant": "ander-andersoortig",
+      "grondvorm": "ander-andersoortig",
+      "stamfamilie": [],
+      "toelichting": "Ander-van-andere-soort-kwalitatief-verschillend: onderscheiden van G243 allos (ander-van-zelfde-soort-numeriek). Heteros",
+      "voorkomens_ca": 99
+    },
+    {
+      "strong": "G129",
+      "grieks": "αἷμα",
+      "translit": "haima",
+      "woordsoort": "zn",
+      "en_concordant": "blood",
+      "grondvorm": "bloed",
+      "stamfamilie": [],
+      "toelichting": "Bloed op drie lagen: (1) letterlijk-bloed-van-lichaam (haima kai hudōr = 'bloed en water', Joh 19:34), (2) levensbeginse",
+      "voorkomens_ca": 99
+    },
+    {
+      "strong": "G1563",
+      "grieks": "ἐκεῖ",
+      "translit": "ekei",
+      "woordsoort": "bw",
+      "en_concordant": "daar-aldaar-veraf",
+      "grondvorm": "daar-aldaar-veraf",
+      "stamfamilie": [
+        "G1565"
+      ],
+      "toelichting": "Plaatsaanwijzend bijwoord 'daar/aldaar' — stamfamilie G1565 ekeinos. Tegenhanger van G5602 hōde 'hier'. Verwijst naar-va",
+      "voorkomens_ca": 98
+    },
+    {
+      "strong": "G1698",
+      "grieks": "ἐμοί",
+      "translit": "emoi",
+      "woordsoort": "vnw",
+      "en_concordant": "on-mij-emfatisch-datief",
+      "grondvorm": "aan-mij-emfatisch-datief",
+      "stamfamilie": [
+        "G1473"
+      ],
+      "toelichting": "Emfatische datief enkelvoud van G1473 egō 'ik': 'aan-mij/mij' met nadruk. Tegenhanger van enclitische G3427 moi (onbekle",
+      "voorkomens_ca": 98
+    },
+    {
+      "strong": "G1080",
+      "grieks": "γεννάω",
+      "translit": "gennaō",
+      "woordsoort": "ww",
+      "en_concordant": "verwekken-baren",
+      "grondvorm": "verwekken-baren",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van voortbrengen-verwekken: (1) vaderlijk-verwekken (Abraam egennēsen ton Isaak = 'Abraham verwekte Izaäk' — M",
+      "voorkomens_ca": 97
+    },
+    {
+      "strong": "G1321",
+      "grieks": "διδάσκω",
+      "translit": "didaskō",
+      "woordsoort": "ww",
+      "en_concordant": "underwijzen-learn",
+      "grondvorm": "onderwijzen-leren",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van onderrichten-leren-leraren: (1) formeel-onderwijzen (edidasken en tēi sunagōgēi = 'Hij leerde in de synago",
+      "voorkomens_ca": 97
+    },
+    {
+      "strong": "G5315",
+      "grieks": "φάγω",
+      "translit": "phagō",
+      "woordsoort": "ww",
+      "en_concordant": "eat-aorist",
+      "grondvorm": "eten-aorist",
+      "stamfamilie": [
+        "G2068"
+      ],
+      "toelichting": "Aorist-stam 'at/eten' — suppletief paradigma met G2068 esthiō (praesens) en G5160 trophē (voeding-substantief). Aorist e",
+      "voorkomens_ca": 97
+    },
+    {
+      "strong": "G1799",
+      "grieks": "ἐνώπιον",
+      "translit": "enōpion",
+      "woordsoort": "vz",
+      "en_concordant": "before-in-antiwoordigheid-van",
+      "grondvorm": "voor-in-tegenwoordigheid-van",
+      "stamfamilie": [
+        "G1722",
+        "G3700"
+      ],
+      "toelichting": "Samenstelling en + ōps (oog): 'voor-de-ogen-van/in-tegenwoordigheid-van'. Voorzetsel met genitief. Vooral relationeel-ge",
+      "voorkomens_ca": 97
+    },
+    {
+      "strong": "G4043",
+      "grieks": "περιπατέω",
+      "translit": "peripateō",
+      "woordsoort": "ww",
+      "en_concordant": "rondwandelen-wandelen",
+      "grondvorm": "rondwandelen-wandelen",
+      "stamfamilie": [
+        "G4012"
+      ],
+      "toelichting": "Samenstelling peri + pateō 'rondom-stappen': (1) letterlijk wandelen-lopen (periepatoun en tōi hierōi = 'zij wandelden i",
+      "voorkomens_ca": 96
+    },
+    {
+      "strong": "G5087",
+      "grieks": "τίθημι",
+      "translit": "tithēmi",
+      "woordsoort": "ww",
+      "en_concordant": "plaatsen-stellen-leggen",
+      "grondvorm": "plaatsen-stellen-leggen",
+      "stamfamilie": [],
+      "toelichting": "Basaal werkwoord van plaatsen-zetten: (1) letterlijk-neerzetten (etheto en mnēmeiōi = 'hij legde in een graf'), (2) aans",
+      "voorkomens_ca": 96
+    },
+    {
+      "strong": "G3614",
+      "grieks": "οἰκία",
+      "translit": "oikia",
+      "woordsoort": "zn",
+      "en_concordant": "house-oikia-2",
+      "grondvorm": "huis-huishouden",
+      "stamfamilie": [
+        "G3624"
+      ],
+      "toelichting": "Parallel aan G3624 oikos met gebouwelijke-nadruk: (1) gebouw-dwelling (hē oikia sou = 'uw huis'), (2) huishouden-familie",
+      "voorkomens_ca": 95
+    },
+    {
+      "strong": "G5399",
+      "grieks": "φοβέω",
+      "translit": "phobeō",
+      "woordsoort": "ww",
+      "en_concordant": "fear-bang-be",
+      "grondvorm": "vrezen-bang-zijn",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van vrezen — in NT bijna uitsluitend medium-passief phobeomai 'vrees-hebben/bang-worden': (1) menselijke angst",
+      "voorkomens_ca": 93
+    },
+    {
+      "strong": "G4228",
+      "grieks": "πούς",
+      "translit": "pous",
+      "woordsoort": "zn",
+      "en_concordant": "foot",
+      "grondvorm": "voet",
+      "stamfamilie": [],
+      "toelichting": "Voet — letterlijk (hoi podes mou = 'mijn voeten'), en metaforisch: (1) onderwerping (hupokatō tōn podōn = 'onder de voet",
+      "voorkomens_ca": 93
+    },
+    {
+      "strong": "G3777",
+      "grieks": "οὔτε",
+      "translit": "oute",
+      "woordsoort": "vgw",
+      "en_concordant": "noch-objectief",
+      "grondvorm": "noch-objectief",
+      "stamfamilie": [
+        "G3756",
+        "G5037"
+      ],
+      "toelichting": "Samenstelling ou + te: 'en-niet-ook/noch'. Objectieve-ontkenning in reeks (oute-oute = 'noch-noch' — meerdere negatieve ",
+      "voorkomens_ca": 93
+    },
+    {
+      "strong": "G1488",
+      "grieks": "εἶ",
+      "translit": "ei",
+      "woordsoort": "ww",
+      "en_concordant": "you-art",
+      "grondvorm": "jij-bent",
+      "stamfamilie": [
+        "G1510"
+      ],
+      "toelichting": "Tweede-persoon-enkelvoud praesens van G1510 eimi 'zijn': 'gij zijt/jij bent'. Niet te verwarren met homograaf G1487 ei (",
+      "voorkomens_ca": 92
+    },
+    {
+      "strong": "G622",
+      "grieks": "ἀπόλλυμι",
+      "translit": "apollumi",
+      "woordsoort": "ww",
+      "en_concordant": "lose-verloren-gon-vernietigen",
+      "grondvorm": "verliezen-verloren-gaan-vernietigen",
+      "stamfamilie": [
+        "G575"
+      ],
+      "toelichting": "Samenstelling apo + ollumi 'weg-vernietigen': (1) actief-vernietigen (apolesai tēn sophian = 'de wijsheid vernietigen'),",
+      "voorkomens_ca": 92
+    },
+    {
+      "strong": "G1343",
+      "grieks": "δικαιοσύνη",
+      "translit": "dikaiosunē",
+      "woordsoort": "zn",
+      "en_concordant": "rightness",
+      "grondvorm": "gerechtigheid-rechtvaardigheid",
+      "stamfamilie": [],
+      "toelichting": "Gerechtigheid — stamfamilie G1342 dikaios (rechtvaardig): (1) ethisch-juist-handelen (poiein dikaiosunēn = 'gerechtighei",
+      "voorkomens_ca": 92
+    },
+    {
+      "strong": "G2281",
+      "grieks": "θάλασσα",
+      "translit": "thalassa",
+      "woordsoort": "zn",
+      "en_concordant": "sea-thalassa",
+      "grondvorm": "zee",
+      "stamfamilie": [],
+      "toelichting": "Zee — in NT drie referenties: (1) Middellandse-Zee (peri tēs thalassēs = 'betreffende de zee', Hand 10:6 ruimtelijk), (2",
+      "voorkomens_ca": 92
+    },
+    {
+      "strong": "G2075",
+      "grieks": "ἐστέ",
+      "translit": "este",
+      "woordsoort": "ww",
+      "en_concordant": "you-pl-are",
+      "grondvorm": "jullie-zijn",
+      "stamfamilie": [
+        "G1510"
+      ],
+      "toelichting": "Tweede-persoon-meervoud praesens van G1510 eimi 'zijn': 'gijlieden zijt/jullie zijn'. Identificerend (humeis este to hal",
+      "voorkomens_ca": 92
+    },
+    {
+      "strong": "G1515",
+      "grieks": "εἰρήνη",
+      "translit": "eirēnē",
+      "woordsoort": "zn",
+      "en_concordant": "peace",
+      "grondvorm": "vrede",
+      "stamfamilie": [],
+      "toelichting": "Vrede — in NT-gebruik vooral Hebreeuws shalom-parallel (niet louter afwezigheid-van-oorlog): (1) welzijn-heelheid (poreu",
+      "voorkomens_ca": 92
+    },
+    {
+      "strong": "G5117",
+      "grieks": "τόπος",
+      "translit": "topos",
+      "woordsoort": "zn",
+      "en_concordant": "plaats-gelegenheid",
+      "grondvorm": "plaats-gelegenheid",
+      "stamfamilie": [],
+      "toelichting": "Plaats: (1) geografische-plek (topos erēmos = 'eenzame plaats'), (2) ruimtelijke-positie (en topōi = 'ter plekke'), (3) ",
+      "voorkomens_ca": 92
+    },
+    {
+      "strong": "G190",
+      "grieks": "ἀκολουθέω",
+      "translit": "akoloutheō",
+      "woordsoort": "ww",
+      "en_concordant": "follow-navolgen",
+      "grondvorm": "volgen-navolgen",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van volgen-na-gaan: (1) letterlijk-achter-iemand-gaan (ēkolouthei autōi ho ochlos = 'de menigte volgde Hem'), ",
+      "voorkomens_ca": 91
+    },
+    {
+      "strong": "G3367",
+      "grieks": "μηδείς",
+      "translit": "mēdeis",
+      "woordsoort": "vnw",
+      "en_concordant": "none-medeis",
+      "grondvorm": "niemand-geen-subjectief",
+      "stamfamilie": [
+        "G3361",
+        "G1520"
+      ],
+      "toelichting": "Samenstelling mēde + heis: 'ook-niet-één/niemand/geen'. Subjectieve ontkenning met G3361 mē-stam, in subjunctief/imperat",
+      "voorkomens_ca": 91
+    },
+    {
+      "strong": "G4137",
+      "grieks": "πληρόω",
+      "translit": "plēroō",
+      "woordsoort": "ww",
+      "en_concordant": "fill-pleroo",
+      "grondvorm": "vervullen-vol-maken",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van vol-maken-completeren: (1) letterlijk-vullen (eplērōsan ta ploia = 'zij vulden de schepen'), (2) completer",
+      "voorkomens_ca": 90
+    },
+    {
+      "strong": "G4098",
+      "grieks": "πίπτω",
+      "translit": "piptō",
+      "woordsoort": "ww",
+      "en_concordant": "fall-neervallen",
+      "grondvorm": "vallen-neervallen",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van vallen: (1) fysiek-neervallen (epesen epi tēn gēn = 'hij viel op de grond'), (2) aanbiddend-neervallen (ep",
+      "voorkomens_ca": 90
+    },
+    {
+      "strong": "G2521",
+      "grieks": "κάθημαι",
+      "translit": "kathēmai",
+      "woordsoort": "ww",
+      "en_concordant": "sit-gezeten-be",
+      "grondvorm": "zitten-gezeten-zijn",
+      "stamfamilie": [],
+      "toelichting": "Deponent werkwoord 'zitten/gezeten-zijn': (1) fysiek-zitten (ekathēto epi to telōnion = 'hij zat bij het tolhuis', Matt ",
+      "voorkomens_ca": 89
+    },
+    {
+      "strong": "G5129",
+      "grieks": "τούτῳ",
+      "translit": "toutōi",
+      "woordsoort": "aanwijzend-voornaamwoord",
+      "en_concordant": "on-dit-datief",
+      "grondvorm": "aan-dit-datief",
+      "stamfamilie": [
+        "G3778"
+      ],
+      "toelichting": "Datief enkelvoud mannelijk/onzijdig van G3778 houtos: 'aan/bij/in-deze/dit'. En toutōi = 'hierin/hieraan' (frequent in 1",
+      "voorkomens_ca": 89
+    },
+    {
+      "strong": "G1691",
+      "grieks": "ἐμέ",
+      "translit": "eme",
+      "woordsoort": "vnw",
+      "en_concordant": "mij-emfatisch-accusatief",
+      "grondvorm": "mij-emfatisch-accusatief",
+      "stamfamilie": [
+        "G1473"
+      ],
+      "toelichting": "Emfatische accusatief enkelvoud van G1473 egō: 'mij' met nadruk. Tegenhanger van enclitische G3165 me. Gebruikt bij nadr",
+      "voorkomens_ca": 88
+    },
+    {
+      "strong": "G4336",
+      "grieks": "προσεύχομαι",
+      "translit": "proseuchomai",
+      "woordsoort": "ww",
+      "en_concordant": "pray",
+      "grondvorm": "bidden",
+      "stamfamilie": [
+        "G4314"
+      ],
+      "toelichting": "Samenstelling pros + euchomai 'tot-iemand-wensen-bidden'. Deponent. NT-dominante bid-werkwoord: (1) persoonlijk-gebed (p",
+      "voorkomens_ca": 87
+    },
+    {
+      "strong": "G2033",
+      "grieks": "ἑπτά",
+      "translit": "hepta",
+      "woordsoort": "tw",
+      "en_concordant": "zeven",
+      "grondvorm": "zeven",
+      "stamfamilie": [],
+      "toelichting": "Telwoord 'zeven' — onverbogen. Symbolisch-volledigheidsgetal in Semitisch denken (volkomenheid, vervulling, cycli): (1) ",
+      "voorkomens_ca": 87
+    },
+    {
+      "strong": "G4334",
+      "grieks": "προσέρχομαι",
+      "translit": "proserchomai",
+      "woordsoort": "ww",
+      "en_concordant": "naderen-toekomen",
+      "grondvorm": "naderen-toekomen",
+      "stamfamilie": [
+        "G4314",
+        "G2064"
+      ],
+      "toelichting": "Samenstelling pros + erchomai 'naar-iemand-toe-komen/naderen': (1) fysiek-naderen (prosēlthen autōi = 'hij naderde Hem' ",
+      "voorkomens_ca": 86
+    },
+    {
+      "strong": "G2540",
+      "grieks": "καιρός",
+      "translit": "kairos",
+      "woordsoort": "zn",
+      "en_concordant": "time-geschikt-moment",
+      "grondvorm": "tijd-geschikt-moment",
+      "stamfamilie": [],
+      "toelichting": "Tijd-als-kwalitatief-moment tegenover G5550 chronos (chronologisch-verloop). Kairos = 'het-goede-moment-opportuniteit-be",
+      "voorkomens_ca": 86
+    },
+    {
+      "strong": "G3384",
+      "grieks": "μήτηρ",
+      "translit": "mētēr",
+      "woordsoort": "zn",
+      "en_concordant": "mother-meter",
+      "grondvorm": "moeder",
+      "stamfamilie": [],
+      "toelichting": "Moeder: (1) biologisch (hē mētēr autou = 'zijn moeder' — Maria dominant), (2) metaforisch-geestelijk (mētēr humōn hē anō",
+      "voorkomens_ca": 85
+    },
+    {
+      "strong": "G756",
+      "grieks": "ἄρχομαι",
+      "translit": "archomai",
+      "woordsoort": "ww",
+      "en_concordant": "beginnen-onvangen",
+      "grondvorm": "beginnen-aanvangen",
+      "stamfamilie": [
+        "G746"
+      ],
+      "toelichting": "Medium-stem van G757 archō (regeren/heersen) met afgeleide-betekenis 'beginnen' (begin-een-handeling-zelf). In NT bijna ",
+      "voorkomens_ca": 84
+    },
+    {
+      "strong": "G3123",
+      "grieks": "μᾶλλον",
+      "translit": "mallon",
+      "woordsoort": "bw",
+      "en_concordant": "lake-liever",
+      "grondvorm": "meer-liever",
+      "stamfamilie": [],
+      "toelichting": "Comparatief-bijwoord 'meer/liever/eerder': (1) graduerend-meer (mallon ē = 'meer dan'), (2) voorkeur-liever (mallon apok",
+      "voorkomens_ca": 83
+    },
+    {
+      "strong": "G5620",
+      "grieks": "ὥστε",
+      "translit": "hōste",
+      "woordsoort": "vgw",
+      "en_concordant": "zodat-dientengevolge",
+      "grondvorm": "zodat-dientengevolge",
+      "stamfamilie": [
+        "G5613",
+        "G5037"
+      ],
+      "toelichting": "Samenstelling hōs + te: gevolg-trekkend voegwoord 'zodat/zodanig-dat/dientengevolge': (1) met indicatief werkelijk-gevol",
+      "voorkomens_ca": 83
+    },
+    {
+      "strong": "G1538",
+      "grieks": "ἕκαστος",
+      "translit": "hekastos",
+      "woordsoort": "bijvoeglijk-naamwoord",
+      "en_concordant": "ieder-elk-afzunderlijk",
+      "grondvorm": "ieder-elk-afzonderlijk",
+      "stamfamilie": [],
+      "toelichting": "Distributief-individualiserend 'ieder-van-hen-afzonderlijk' (één-voor-één-gesplitst): nadruk op individuele-verantwoorde",
+      "voorkomens_ca": 83
+    },
+    {
+      "strong": "G2419",
+      "grieks": "Ἰερουσαλήμ",
+      "translit": "ierousalēm",
+      "woordsoort": "zn",
+      "en_concordant": "Jerusalem-pn",
+      "grondvorm": "Jeruzalem-eigennaam",
+      "stamfamilie": [],
+      "toelichting": "Eigennaam Jeruzalem — onverbogen Semitische vorm (naast verbogen Grieks Hierosoluma G2414). Ierousalēm-vorm vaker in Luk",
+      "voorkomens_ca": 83
+    },
+    {
+      "strong": "G3699",
+      "grieks": "ὅπου",
+      "translit": "hopou",
+      "woordsoort": "bw",
+      "en_concordant": "where-hopou",
+      "grondvorm": "waar-plaats-waar",
+      "stamfamilie": [],
+      "toelichting": "Plaatsaanwijzend relatief-bijwoord 'waar/op-de-plaats-waar': hopou ēn = 'waar Hij was', hopou ouk eisin = 'waar zij niet",
+      "voorkomens_ca": 82
+    },
+    {
+      "strong": "G1544",
+      "grieks": "ἐκβάλλω",
+      "translit": "ekballō",
+      "woordsoort": "ww",
+      "en_concordant": "outwerpen-outdrijven",
+      "grondvorm": "uitwerpen-uitdrijven",
+      "stamfamilie": [
+        "G1537",
+        "G906"
+      ],
+      "toelichting": "Samenstelling ek + ballō 'uit-werpen': (1) fysiek-uitdrijven (ekbalōn exō = 'hem naar buiten werpend'), (2) demonen-uitd",
+      "voorkomens_ca": 82
+    },
+    {
+      "strong": "G1342",
+      "grieks": "δίκαιος",
+      "translit": "dikaios",
+      "woordsoort": "bijvoeglijk-naamwoord",
+      "en_concordant": "just-righteous",
+      "grondvorm": "rechtvaardig",
+      "stamfamilie": [
+        "G1343"
+      ],
+      "toelichting": "Rechtvaardig — stamfamilie G1343 dikaiosunē. Drie lagen: (1) forensisch-gerechtvaardigd-in-Gods-oordeel (dikaios enōpion",
+      "voorkomens_ca": 81
+    },
+    {
+      "strong": "G3992",
+      "grieks": "πέμπω",
+      "translit": "pempō",
+      "woordsoort": "ww",
+      "en_concordant": "send-pempo",
+      "grondvorm": "zenden",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van zenden — parallel aan G649 apostellō maar nuance-verschil: pempō benadrukt zenden-zelf (handeling), aposte",
+      "voorkomens_ca": 81
+    },
+    {
+      "strong": "G305",
+      "grieks": "ἀναβαίνω",
+      "translit": "anabainō",
+      "woordsoort": "ww",
+      "en_concordant": "upgon-upstijgen",
+      "grondvorm": "opgaan-opstijgen",
+      "stamfamilie": [
+        "G303"
+      ],
+      "toelichting": "Samenstelling ana + bainō 'omhoog-gaan': (1) naar-boven-klimmen (anabainon eis to oros = 'opgaand naar de berg'), (2) op",
+      "voorkomens_ca": 81
+    },
+    {
+      "strong": "G5217",
+      "grieks": "ὑπάγω",
+      "translit": "hupagō",
+      "woordsoort": "ww",
+      "en_concordant": "heengon-awaygon",
+      "grondvorm": "heengaan-weggaan",
+      "stamfamilie": [
+        "G5259"
+      ],
+      "toelichting": "Samenstelling hupo + agō 'onder-weg-brengen' — betekenis gedrift naar 'zelf-heengaan-weggaan'. Johanneïsch typisch voor ",
+      "voorkomens_ca": 81
+    },
+    {
+      "strong": "G652",
+      "grieks": "ἀπόστολος",
+      "translit": "apostolos",
+      "woordsoort": "zn",
+      "en_concordant": "apostle",
+      "grondvorm": "afgezant-apostel",
+      "stamfamilie": [
+        "G649"
+      ],
+      "toelichting": "Afgezant-met-volmacht — stamfamilie G649 apostellō (uitzenden): (1) eng-technisch de Twaalf (hoi dōdeka apostoloi = 'de ",
+      "voorkomens_ca": 81
+    },
+    {
+      "strong": "G907",
+      "grieks": "βαπτίζω",
+      "translit": "baptizō",
+      "woordsoort": "ww",
+      "en_concordant": "dupen-underdompelen",
+      "grondvorm": "dopen-onderdompelen",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van onderdompelen-indopen: (1) klassiek-Grieks letterlijk 'onderdompelen/te-gronde-doen', (2) Joods-ritueel re",
+      "voorkomens_ca": 80
+    },
+    {
+      "strong": "G2597",
+      "grieks": "καταβαίνω",
+      "translit": "katabainō",
+      "woordsoort": "ww",
+      "en_concordant": "neerdalen-afdalen",
+      "grondvorm": "neerdalen-afdalen",
+      "stamfamilie": [
+        "G2596"
+      ],
+      "toelichting": "Samenstelling kata + bainō 'omlaag-gaan': (1) fysiek-neerdalen (katabēthi apo tou staurou = 'daal af van het kruis'), (2",
+      "voorkomens_ca": 80
+    },
+    {
+      "strong": "G2112",
+      "grieks": "εὐθέως",
+      "translit": "eutheōs",
+      "woordsoort": "bw",
+      "en_concordant": "terstond-onmiddellijk",
+      "grondvorm": "terstond-onmiddellijk",
+      "stamfamilie": [],
+      "toelichting": "Bijwoord 'terstond/onmiddellijk/dadelijk' — stamfamilie G2117 euthus (recht-onverdraaid, ook adverbialiseerd tot 'onmidd",
+      "voorkomens_ca": 80
+    },
+    {
+      "strong": "G3475",
+      "grieks": "Μωϋσῆς",
+      "translit": "mōusēs",
+      "woordsoort": "zn",
+      "en_concordant": "Mosix-eigennaam",
+      "grondvorm": "Mozes-eigennaam",
+      "stamfamilie": [],
+      "toelichting": "Eigennaam Mozes — Grieks weergave van Hebreeuws Mosheh. In NT spreken verschillende registers: (1) Wet-gever (ho nomos M",
+      "voorkomens_ca": 80
+    },
+    {
+      "strong": "G5204",
+      "grieks": "ὕδωρ",
+      "translit": "hudōr",
+      "woordsoort": "zn",
+      "en_concordant": "water",
+      "grondvorm": "water",
+      "stamfamilie": [],
+      "toelichting": "Water — letterlijk en Johanneïsch-symbolisch: (1) fysiek-water (en hudati baptizein = 'in water dopen'), (2) doop-water-",
+      "voorkomens_ca": 79
+    },
+    {
+      "strong": "G4750",
+      "grieks": "στόμα",
+      "translit": "stoma",
+      "woordsoort": "zn",
+      "en_concordant": "mouth-upening",
+      "grondvorm": "mond-opening",
+      "stamfamilie": [],
+      "toelichting": "Mond in letterlijke en metaforische zin: (1) menselijk-mond-spraak-orgaan (ek tou stomatos autou = 'uit zijn mond'), (2)",
+      "voorkomens_ca": 79
+    },
+    {
+      "strong": "G3140",
+      "grieks": "μαρτυρέω",
+      "translit": "martureō",
+      "woordsoort": "ww",
+      "en_concordant": "witness-martureo",
+      "grondvorm": "getuigen-getuigenis-geven",
+      "stamfamilie": [],
+      "toelichting": "Werkwoord van getuigenis-afleggen: (1) juridisch-bevestigend-getuigen (martureō peri = 'getuig over'), (2) Johanneïsch-t",
+      "voorkomens_ca": 79
+    },
+    {
+      "strong": "G4383",
+      "grieks": "πρόσωπον",
+      "translit": "prosōpon",
+      "woordsoort": "zn",
+      "en_concordant": "ongezicht-gelaat",
+      "grondvorm": "aangezicht-gelaat",
+      "stamfamilie": [
+        "G4314"
+      ],
+      "toelichting": "Samenstelling pros + ōps 'naar-gelaat/gezicht-tegenover': (1) letterlijk aangezicht-gezicht (to prosōpon autou = 'zijn a",
+      "voorkomens_ca": 78
+    },
+    {
+      "strong": "G455",
+      "grieks": "ἀνοίγω",
+      "translit": "anoigō",
+      "woordsoort": "ww",
+      "en_concordant": "open-anoigo",
+      "grondvorm": "openen-ontsluiten",
+      "stamfamilie": [
+        "G303"
+      ],
+      "toelichting": "Samenstelling ana + oigō 'op-openen/omhoog-openen': (1) letterlijk fysiek-openen (ēnoigēsan hoi ouranoi = 'de hemelen we",
+      "voorkomens_ca": 77
+    },
+    {
+      "strong": "G2098",
+      "grieks": "εὐαγγέλιον",
+      "translit": "euangelion",
+      "woordsoort": "zn",
+      "en_concordant": "good-news-evangel",
+      "grondvorm": "evangelie-goede-boodschap",
+      "stamfamilie": [],
+      "toelichting": "Letterlijk 'goede-boodschap' (eu + angelion): Hellenistisch-origineel politiek-term voor keizers-triomf-bericht, in NT-t",
+      "voorkomens_ca": 77
+    }
+  ]
+}

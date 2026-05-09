@@ -1,0 +1,9 @@
+# Local-only blocklist for publish.ps1
+# Copy this file to .publish-blocklist (without .example) and edit before publishing.
+# Lines starting with # are comments. One forbidden term per line.
+# The publish.ps1 script reads this file and aborts the push if any term is found.
+
+# Example terms (edit/remove as needed):
+# my-internal-name
+# private-project-codename
+# old-organization-acronym

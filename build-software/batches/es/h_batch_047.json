@@ -1,0 +1,3026 @@
+{
+  "batch_id": "h_batch_047",
+  "script": "heb",
+  "datum": "2026-05-02",
+  "entries": [
+    {
+      "strong": "H7838",
+      "hebreeuws": "שָׁחֹר",
+      "translit": "shachor",
+      "woordsoort": "adjetivo",
+      "es_concordant": "negro-shachor",
+      "grondvorm": "black",
+      "stamfamilie": [
+        "H7835"
+      ],
+      "toelichting": "Color negro Cant 1:5.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H7839",
+      "hebreeuws": "שַׁחֲרוּת",
+      "translit": "shchruth",
+      "woordsoort": "sustantivo",
+      "es_concordant": "alborada-juventud",
+      "grondvorm": "dawn-youth",
+      "stamfamilie": [
+        "H7839",
+        "H7837"
+      ],
+      "toelichting": "Aurora de juventud Ec 11:10.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7840",
+      "hebreeuws": "שְׁחַרְחֹרֶת",
+      "translit": "shecharchoret",
+      "woordsoort": "adjetivo",
+      "es_concordant": "morenuelo",
+      "grondvorm": "blackish",
+      "stamfamilie": [],
+      "toelichting": "Negruzco Cant 1:6.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7841",
+      "hebreeuws": "שְׁחַרְיָה",
+      "translit": "shecharyah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sejarias-pn",
+      "grondvorm": "Shehariah",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Jeroham 1Cr 8:26.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7842",
+      "hebreeuws": "שַׁחֲרַיִם",
+      "translit": "shacharaim-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Saharaim-pn",
+      "grondvorm": "Shaharaim",
+      "stamfamilie": [],
+      "toelichting": "Benjamita 1Cr 8:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7843",
+      "hebreeuws": "שחת",
+      "translit": "shachat",
+      "woordsoort": "verbo",
+      "es_concordant": "corromper-shachat",
+      "grondvorm": "corrupt-destroy",
+      "stamfamilie": [
+        "H7843"
+      ],
+      "toelichting": "Destruir Gn 6:11.",
+      "voorkomens": 146
+    },
+    {
+      "strong": "H7844",
+      "hebreeuws": "שְׁחַת",
+      "translit": "shechath-Aram-verderven",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "corromper-arameo-shechath",
+      "grondvorm": "corrupt-aramaic-shechath",
+      "stamfamilie": [
+        "H7843"
+      ],
+      "toelichting": "Aramaico Dn 2:9.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7845",
+      "hebreeuws": "שַׁחַת",
+      "translit": "shachat",
+      "woordsoort": "sustantivo",
+      "es_concordant": "fosa-shachat",
+      "grondvorm": "pit-shachat",
+      "stamfamilie": [
+        "H7843"
+      ],
+      "toelichting": "Hoyo Sal 7:15.",
+      "voorkomens": 23
+    },
+    {
+      "strong": "H7846",
+      "hebreeuws": "שֵׂט",
+      "translit": "set",
+      "woordsoort": "adjetivo",
+      "es_concordant": "apostatar-set",
+      "grondvorm": "apostate-leaning",
+      "stamfamilie": [],
+      "toelichting": "Inclinado a apartarse Sal 40:4.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7847",
+      "hebreeuws": "שָׂטָה",
+      "translit": "satah",
+      "woordsoort": "verbo",
+      "es_concordant": "apartarse-satah",
+      "grondvorm": "turn-aside-satah",
+      "stamfamilie": [],
+      "toelichting": "Desviarse Nm 5:12.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H7848",
+      "hebreeuws": "שִׁטָּה",
+      "translit": "shittah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "acacia-shittah",
+      "grondvorm": "acacia",
+      "stamfamilie": [],
+      "toelichting": "Arbol acacia Ex 25:5.",
+      "voorkomens": 28
+    },
+    {
+      "strong": "H7849",
+      "hebreeuws": "שָׁטַח",
+      "translit": "shatach",
+      "woordsoort": "verbo",
+      "es_concordant": "extender-shatach",
+      "grondvorm": "spread-out-shatach",
+      "stamfamilie": [],
+      "toelichting": "Tender Nm 11:32.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H7850",
+      "hebreeuws": "שׁוֹטֵט",
+      "translit": "shotet-zweep",
+      "woordsoort": "sustantivo",
+      "es_concordant": "azote-shotet",
+      "grondvorm": "lash-shotet",
+      "stamfamilie": [
+        "H7752"
+      ],
+      "toelichting": "Latigo Jos 23:13.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7851",
+      "hebreeuws": "שִׁטִּים",
+      "translit": "Shittim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sitim-pn",
+      "grondvorm": "Shittim",
+      "stamfamilie": [],
+      "toelichting": "Estacion Israel Nm 25:1.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H7852",
+      "hebreeuws": "שָׂטַם",
+      "translit": "satam",
+      "woordsoort": "verbo",
+      "es_concordant": "guardar-rencor-satam",
+      "grondvorm": "hold-grudge-satam",
+      "stamfamilie": [],
+      "toelichting": "Guardar resentimiento Gn 27:41.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H7853",
+      "hebreeuws": "שָׂטַן",
+      "translit": "satan-ww",
+      "woordsoort": "verbo",
+      "es_concordant": "oponerse-satan",
+      "grondvorm": "oppose",
+      "stamfamilie": [
+        "H7854"
+      ],
+      "toelichting": "Hostilizar Sal 71:13.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H7854",
+      "hebreeuws": "שָׂטָן",
+      "translit": "satan",
+      "woordsoort": "sustantivo",
+      "es_concordant": "adversario-satan",
+      "grondvorm": "adversary-accuser",
+      "stamfamilie": [
+        "H7853"
+      ],
+      "toelichting": "Acusador Job 1:6.",
+      "voorkomens": 28
+    },
+    {
+      "strong": "H7855",
+      "hebreeuws": "שִׂטְנָה",
+      "translit": "shtne",
+      "woordsoort": "sustantivo",
+      "es_concordant": "acusacion-shtne",
+      "grondvorm": "accusation",
+      "stamfamilie": [
+        "H7855",
+        "H7853"
+      ],
+      "toelichting": "Acusacion Esd 4:6.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7856",
+      "hebreeuws": "שִׂטְנָה",
+      "translit": "sitnah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sitna-pn",
+      "grondvorm": "Sitnah",
+      "stamfamilie": [
+        "H7853",
+        "H7854"
+      ],
+      "toelichting": "Pozo Gn 26:21.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7857",
+      "hebreeuws": "שָׁטַף",
+      "translit": "shataf",
+      "woordsoort": "verbo",
+      "es_concordant": "inundar-shataf",
+      "grondvorm": "overflow",
+      "stamfamilie": [],
+      "toelichting": "Desbordarse Is 28:17.",
+      "voorkomens": 31
+    },
+    {
+      "strong": "H7858",
+      "hebreeuws": "שֶׁטֶף",
+      "translit": "shetef",
+      "woordsoort": "sustantivo",
+      "es_concordant": "diluvio-shetef",
+      "grondvorm": "overflowing-flood",
+      "stamfamilie": [
+        "H7857"
+      ],
+      "toelichting": "Inundacion Job 38:25.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H7859",
+      "hebreeuws": "שְׂטַר-Aram",
+      "translit": "sitar-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "lado-arameo-sitar",
+      "grondvorm": "side-aramaic-sitar",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Dn 7:5.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7860",
+      "hebreeuws": "שֹׁטֵר",
+      "translit": "shoter",
+      "woordsoort": "sustantivo",
+      "es_concordant": "oficial-shoter",
+      "grondvorm": "officer",
+      "stamfamilie": [],
+      "toelichting": "Oficial Ex 5:6.",
+      "voorkomens": 25
+    },
+    {
+      "strong": "H7861",
+      "hebreeuws": "שִׁטְרַי",
+      "translit": "Sjitrai",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sitrai-pn",
+      "grondvorm": "Shitrai",
+      "stamfamilie": [],
+      "toelichting": "Saronita 1Cr 27:29.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7862",
+      "hebreeuws": "שַׁי",
+      "translit": "shai",
+      "woordsoort": "sustantivo",
+      "es_concordant": "regalo-tributo",
+      "grondvorm": "gift-tribute",
+      "stamfamilie": [],
+      "toelichting": "Don tributario Sal 68:30.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7863",
+      "hebreeuws": "שִׂיא",
+      "translit": "si",
+      "woordsoort": "sustantivo",
+      "es_concordant": "majestad-si",
+      "grondvorm": "majesty-si",
+      "stamfamilie": [],
+      "toelichting": "Altura Job 20:6.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7864",
+      "hebreeuws": "שֵׁיָא",
+      "translit": "sheya-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Seya-pn",
+      "grondvorm": "Sheya",
+      "stamfamilie": [],
+      "toelichting": "Persa Esd 4:17.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7865",
+      "hebreeuws": "שִׂיאֹן",
+      "translit": "sion-hermon-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sion-Hermon-pn",
+      "grondvorm": "Sion",
+      "stamfamilie": [],
+      "toelichting": "Pico del Hermon Dt 4:48.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7866",
+      "hebreeuws": "שִׁיאֹן",
+      "translit": "shion-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Shion-pn",
+      "grondvorm": "Shion",
+      "stamfamilie": [],
+      "toelichting": "Pueblo de Isacar Jos 19:19.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7867",
+      "hebreeuws": "שִׂיב",
+      "translit": "sib-vergrijzen",
+      "woordsoort": "verbo",
+      "es_concordant": "encanecer-sib",
+      "grondvorm": "grow-aged",
+      "stamfamilie": [
+        "H7872"
+      ],
+      "toelichting": "Envejecer 1Sm 12:2.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7868",
+      "hebreeuws": "שִׂיב",
+      "translit": "siv-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "anciano-arameo-siv",
+      "grondvorm": "elder-aramaic",
+      "stamfamilie": [
+        "H7867"
+      ],
+      "toelichting": "Aramaico Esd 5:5.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H7869",
+      "hebreeuws": "שֵׂיב",
+      "translit": "seyb",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ceguera-vejez",
+      "grondvorm": "aged-blindness",
+      "stamfamilie": [],
+      "toelichting": "Senilidad Gn 27:1.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7870",
+      "hebreeuws": "שִׁיבָה",
+      "translit": "shivah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "regreso-cautivos",
+      "grondvorm": "return-of-captives",
+      "stamfamilie": [],
+      "toelichting": "Restauracion Sal 126:1.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7872",
+      "hebreeuws": "שֵׂיבָה",
+      "translit": "seivah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "canas-vejez",
+      "grondvorm": "gray-old-age",
+      "stamfamilie": [],
+      "toelichting": "Cabello blanco Gn 25:8.",
+      "voorkomens": 19
+    },
+    {
+      "strong": "H7873",
+      "hebreeuws": "שִׂיג",
+      "translit": "sig",
+      "woordsoort": "sustantivo",
+      "es_concordant": "negocio-privado",
+      "grondvorm": "private-business",
+      "stamfamilie": [],
+      "toelichting": "Asunto privado 1Re 18:27.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7874",
+      "hebreeuws": "שִׂיד",
+      "translit": "sid-bepleisteren",
+      "woordsoort": "verbo",
+      "es_concordant": "enyesar-sid",
+      "grondvorm": "plaster-sid-verb",
+      "stamfamilie": [
+        "H7875"
+      ],
+      "toelichting": "Encalar Dt 27:2.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7875",
+      "hebreeuws": "שִׂיד",
+      "translit": "sid",
+      "woordsoort": "sustantivo",
+      "es_concordant": "yeso-cal",
+      "grondvorm": "plaster-sid-noun",
+      "stamfamilie": [],
+      "toelichting": "Yeso Is 33:12.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H7876",
+      "hebreeuws": "שָׁיָה",
+      "translit": "shayah",
+      "woordsoort": "verbo",
+      "es_concordant": "olvidarse-de-si",
+      "grondvorm": "forget-self",
+      "stamfamilie": [],
+      "toelichting": "Olvidarse Dt 32:18.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7877",
+      "hebreeuws": "שִׁיזָא",
+      "translit": "shiza-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Siza-pn",
+      "grondvorm": "Shiza",
+      "stamfamilie": [],
+      "toelichting": "Padre de Adina 1Cr 11:42.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7878",
+      "hebreeuws": "שִׂיחַ",
+      "translit": "siach-ww",
+      "woordsoort": "verbo",
+      "es_concordant": "meditar-siach-ww",
+      "grondvorm": "muse",
+      "stamfamilie": [
+        "H7879",
+        "H7881"
+      ],
+      "toelichting": "Reflexionar Sal 105:2.",
+      "voorkomens": 20
+    },
+    {
+      "strong": "H7879",
+      "hebreeuws": "שִׂיחַ-I",
+      "translit": "siach-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "meditacion-siach-I",
+      "grondvorm": "musing",
+      "stamfamilie": [
+        "H7878"
+      ],
+      "toelichting": "Meditacion 1Re 18:27.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H7880",
+      "hebreeuws": "שִׂיחַ",
+      "translit": "siach-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "queja-siach-II",
+      "grondvorm": "lament-siach",
+      "stamfamilie": [
+        "H7878"
+      ],
+      "toelichting": "Queja Job 7:13.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H7881",
+      "hebreeuws": "שִׂיחָה",
+      "translit": "sichah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "queja-meditacion",
+      "grondvorm": "lament-musing",
+      "stamfamilie": [],
+      "toelichting": "Queja-musitar Sal 119:97.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7882",
+      "hebreeuws": "שִׂיחָה",
+      "translit": "sichah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "meditacion-sichah",
+      "grondvorm": "meditation",
+      "stamfamilie": [
+        "H7878"
+      ],
+      "toelichting": "Reflexion Sal 119:97.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7883",
+      "hebreeuws": "שִׁיחוֹר",
+      "translit": "Shichor",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sihor-pn",
+      "grondvorm": "Shihor",
+      "stamfamilie": [],
+      "toelichting": "Rio de Egipto Jos 13:3.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H7884",
+      "hebreeuws": "שִׁיחוֹר לִבְנָת",
+      "translit": "shichor-livnat-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sihor-Libnat-pn",
+      "grondvorm": "Shihor-Libnath",
+      "stamfamilie": [],
+      "toelichting": "Rio fronterizo Jos 19:26.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7884+",
+      "hebreeuws": "שִׁיחוֹר לִבְנָת",
+      "translit": "shichor-livnat-eign-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sihor-Libnat-compuesto-pn",
+      "grondvorm": "Shihor-Libnath-compound",
+      "stamfamilie": [
+        "H7884"
+      ],
+      "toelichting": "Variante.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7885",
+      "hebreeuws": "שַׁיִט",
+      "translit": "shayit-roeiriem",
+      "woordsoort": "sustantivo",
+      "es_concordant": "remo-shayit",
+      "grondvorm": "oar",
+      "stamfamilie": [
+        "H7751"
+      ],
+      "toelichting": "Remo Is 33:21.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7886",
+      "hebreeuws": "שִׁילֹה",
+      "translit": "Shiloh-messiaans",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Silo-mesianico-pn",
+      "grondvorm": "Shiloh-substantive",
+      "stamfamilie": [],
+      "toelichting": "Silo profetico Gn 49:10.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7887",
+      "hebreeuws": "שִׁילֹה",
+      "translit": "shiloh",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Silo-pn",
+      "grondvorm": "Shiloh",
+      "stamfamilie": [],
+      "toelichting": "Pueblo Jos 18:1.",
+      "voorkomens": 32
+    },
+    {
+      "strong": "H7888",
+      "hebreeuws": "שִׁילֹנִי",
+      "translit": "Shiloni",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Silonita-pn",
+      "grondvorm": "Shilonite",
+      "stamfamilie": [],
+      "toelichting": "Habitante Silo 1Re 11:29.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H7889",
+      "hebreeuws": "שִׁימוֹן",
+      "translit": "shimon-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Simon-pn",
+      "grondvorm": "Shimon",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Sasac 1Cr 4:20.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7890",
+      "hebreeuws": "שֵׁן",
+      "translit": "sheni-II-tandsgrind",
+      "woordsoort": "sustantivo",
+      "es_concordant": "rechinar-dientes-sheni",
+      "grondvorm": "teeth-grinding",
+      "stamfamilie": [
+        "H8127"
+      ],
+      "toelichting": "Crujir dientes Job 16:9.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7891",
+      "hebreeuws": "שיר",
+      "translit": "shir",
+      "woordsoort": "verbo",
+      "es_concordant": "cantar-shir",
+      "grondvorm": "sing",
+      "stamfamilie": [
+        "H7891"
+      ],
+      "toelichting": "Entonar Ex 15:1.",
+      "voorkomens": 83
+    },
+    {
+      "strong": "H7892a",
+      "hebreeuws": "שִׁיר",
+      "translit": "shir",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cancion-shir",
+      "grondvorm": "song",
+      "stamfamilie": [
+        "H7892b"
+      ],
+      "toelichting": "Cancion Sal 137:3 H7892a.",
+      "voorkomens": 79
+    },
+    {
+      "strong": "H7892b",
+      "hebreeuws": "שִׁירָה",
+      "translit": "shirah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "canto-shirah",
+      "grondvorm": "chant",
+      "stamfamilie": [
+        "H7891",
+        "H7892a"
+      ],
+      "toelichting": "Cancion Ex 15:1 H7892b.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H7893",
+      "hebreeuws": "שַׁיִשׁ",
+      "translit": "shish",
+      "woordsoort": "sustantivo",
+      "es_concordant": "marmol-shish",
+      "grondvorm": "marble",
+      "stamfamilie": [
+        "H7893",
+        "H8336"
+      ],
+      "toelichting": "Marmol Est 1:6.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7894",
+      "hebreeuws": "שִׁישָׁא",
+      "translit": "shisha",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sisa-pn",
+      "grondvorm": "Shisha",
+      "stamfamilie": [
+        "H7894"
+      ],
+      "toelichting": "Padre de Elihoref 1Re 4:3.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7895",
+      "hebreeuws": "שִׁישַׁק",
+      "translit": "Shishaq",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sisac-pn",
+      "grondvorm": "Shishak",
+      "stamfamilie": [],
+      "toelichting": "Faraon egipcio 1Re 11:40.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H7896",
+      "hebreeuws": "שית",
+      "translit": "shit",
+      "woordsoort": "verbo",
+      "es_concordant": "establecer-shit",
+      "grondvorm": "set-shit",
+      "stamfamilie": [
+        "H7896",
+        "H7760a"
+      ],
+      "toelichting": "Poner Gn 3:15.",
+      "voorkomens": 86
+    },
+    {
+      "strong": "H7897",
+      "hebreeuws": "שִׁית",
+      "translit": "shit-kleed",
+      "woordsoort": "sustantivo",
+      "es_concordant": "vestido-shit",
+      "grondvorm": "garment-shit",
+      "stamfamilie": [],
+      "toelichting": "Vestidura Sal 73:6.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7898",
+      "hebreeuws": "שַׁיִת",
+      "translit": "shayith",
+      "woordsoort": "sustantivo",
+      "es_concordant": "matorral-espinos",
+      "grondvorm": "thicket",
+      "stamfamilie": [
+        "H8068"
+      ],
+      "toelichting": "Espinal Is 5:6.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H7899",
+      "hebreeuws": "שֵׂךְ",
+      "translit": "sek-stekel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "espinas-sek",
+      "grondvorm": "thorns-sek",
+      "stamfamilie": [],
+      "toelichting": "Espinas Nm 33:55.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7900",
+      "hebreeuws": "שֹׂךְ",
+      "translit": "soch",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tabernaculo-soch",
+      "grondvorm": "booth-soch",
+      "stamfamilie": [],
+      "toelichting": "Cabaña Sal 27:5.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7901",
+      "hebreeuws": "שכב",
+      "translit": "shakav",
+      "woordsoort": "verbo",
+      "es_concordant": "acostarse-shakav",
+      "grondvorm": "lie-down",
+      "stamfamilie": [
+        "H7901"
+      ],
+      "toelichting": "Tenderse Gn 28:11.",
+      "voorkomens": 213
+    },
+    {
+      "strong": "H7902",
+      "hebreeuws": "שִׁכְבָה",
+      "translit": "shichvah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "emision-seminal",
+      "grondvorm": "seminal-discharge",
+      "stamfamilie": [],
+      "toelichting": "Derrame Lv 15:16.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H7903",
+      "hebreeuws": "שְׁכֹבֶת",
+      "translit": "shekhoveth",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cohabitacion",
+      "grondvorm": "cohabitation",
+      "stamfamilie": [
+        "H7901"
+      ],
+      "toelichting": "Acto sexual Lv 18:23.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H7904",
+      "hebreeuws": "שָׁכָה",
+      "translit": "shachah-paard",
+      "woordsoort": "verbo",
+      "es_concordant": "estar-despierto",
+      "grondvorm": "be-roused",
+      "stamfamilie": [],
+      "toelichting": "Caballo arrullado Jr 5:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7905",
+      "hebreeuws": "שֻׂכָּה",
+      "translit": "sukkah-speer",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lanza-armada",
+      "grondvorm": "spear-armed",
+      "stamfamilie": [],
+      "toelichting": "Arpon de pesca Job 41:7.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7906",
+      "hebreeuws": "שֶׂכוּ",
+      "translit": "seku-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Secu-pn",
+      "grondvorm": "Sechu",
+      "stamfamilie": [],
+      "toelichting": "Pueblo cercano a Rama 1Sm 19:22.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7907",
+      "hebreeuws": "שֶׂכְוִי",
+      "translit": "sechvi",
+      "woordsoort": "sustantivo",
+      "es_concordant": "percepcion-interna",
+      "grondvorm": "inner-perception",
+      "stamfamilie": [],
+      "toelichting": "Conciencia interior Job 38:36.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7908",
+      "hebreeuws": "שְׁכוֹל",
+      "translit": "shekhol",
+      "woordsoort": "sustantivo",
+      "es_concordant": "carencia-hijos",
+      "grondvorm": "childlessness",
+      "stamfamilie": [
+        "H7921"
+      ],
+      "toelichting": "Sin hijos Is 47:8.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7909",
+      "hebreeuws": "שַׁכּוּל",
+      "translit": "shakkul",
+      "woordsoort": "adjetivo",
+      "es_concordant": "privado-de-hijos",
+      "grondvorm": "bereaved",
+      "stamfamilie": [
+        "H7921"
+      ],
+      "toelichting": "Sin progenie Jr 18:21.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H7910",
+      "hebreeuws": "שִׁכּוֹר",
+      "translit": "shikkor",
+      "woordsoort": "adjetivo",
+      "es_concordant": "ebrio-shikkor",
+      "grondvorm": "drunken",
+      "stamfamilie": [
+        "H7937"
+      ],
+      "toelichting": "Borracho 1Sm 1:13.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H7911",
+      "hebreeuws": "שכח",
+      "translit": "shakach",
+      "woordsoort": "verbo",
+      "es_concordant": "olvidar-shakach",
+      "grondvorm": "forget",
+      "stamfamilie": [
+        "H7911"
+      ],
+      "toelichting": "Olvidar Gn 41:30.",
+      "voorkomens": 101
+    },
+    {
+      "strong": "H7912",
+      "hebreeuws": "שְׁכַח-Aram",
+      "translit": "shechach-Aram",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "encontrar-arameo",
+      "grondvorm": "find-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Dn 6:5.",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H7913",
+      "hebreeuws": "שָׁכֵחַ",
+      "translit": "shakeach",
+      "woordsoort": "adjetivo",
+      "es_concordant": "olvidadizo-de-El",
+      "grondvorm": "forgetful-of-El",
+      "stamfamilie": [
+        "H7911"
+      ],
+      "toelichting": "Que olvida a Dios Sal 9:17.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7914",
+      "hebreeuws": "שְׂכִיָּה",
+      "translit": "sechiyyah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "objeto-deseable",
+      "grondvorm": "coveted-thing",
+      "stamfamilie": [],
+      "toelichting": "Cosa deseable Nm 33:52.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7915",
+      "hebreeuws": "שַׂכִּין",
+      "translit": "sakkin",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cuchillo-sakkin",
+      "grondvorm": "knife",
+      "stamfamilie": [],
+      "toelichting": "Cuchillo Pr 23:2.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7916",
+      "hebreeuws": "שָׂכִיר",
+      "translit": "sachir",
+      "woordsoort": "sustantivo",
+      "es_concordant": "jornalero-sachir",
+      "grondvorm": "hireling",
+      "stamfamilie": [
+        "H7936",
+        "H7939"
+      ],
+      "toelichting": "Asalariado Ex 12:45.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H7917",
+      "hebreeuws": "שְׂכִירָה",
+      "translit": "sechirah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "alquiler-sechirah",
+      "grondvorm": "hire-sechirah",
+      "stamfamilie": [],
+      "toelichting": "Alquiler Is 7:20.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7918",
+      "hebreeuws": "שָׁכַךְ",
+      "translit": "shakhakh",
+      "woordsoort": "verbo",
+      "es_concordant": "amainar-shakhakh",
+      "grondvorm": "subside",
+      "stamfamilie": [],
+      "toelichting": "Disminuir Gn 8:1.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H7919a",
+      "hebreeuws": "שָׂכַל",
+      "translit": "sakal-I",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-prudente-sakal-I",
+      "grondvorm": "be-prudent",
+      "stamfamilie": [
+        "H7922"
+      ],
+      "toelichting": "Tener entendimiento Gn 3:6 H7919a.",
+      "voorkomens": 61
+    },
+    {
+      "strong": "H7919b",
+      "hebreeuws": "שָׂכַל",
+      "translit": "sakal-II",
+      "woordsoort": "verbo",
+      "es_concordant": "cruzar-manos",
+      "grondvorm": "cross-hands",
+      "stamfamilie": [
+        "H7919a"
+      ],
+      "toelichting": "Cruzar las manos Gn 48:14 H7919b.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7920",
+      "hebreeuws": "שְׂכַל-Aram",
+      "translit": "sechal-Aram",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "considerar-arameo",
+      "grondvorm": "look-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Dn 7:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7921a",
+      "hebreeuws": "אֶשְׁכּוֹל",
+      "translit": "eshkol",
+      "woordsoort": "sustantivo",
+      "es_concordant": "racimo-eshkol",
+      "grondvorm": "cluster",
+      "stamfamilie": [],
+      "toelichting": "Racimo de uvas Nm 13:23 H7921a.",
+      "voorkomens": 21
+    },
+    {
+      "strong": "H7921b",
+      "hebreeuws": "שָׁכוּל",
+      "translit": "shachul-II",
+      "woordsoort": "adjetivo",
+      "es_concordant": "sin-hijos-shachul",
+      "grondvorm": "childless-shachul",
+      "stamfamilie": [
+        "H7921a"
+      ],
+      "toelichting": "Sin descendencia Os 9:12 H7921b.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7921c",
+      "hebreeuws": "מְשַׁכֶּלֶת",
+      "translit": "meshakkalet-onvruchtbaar",
+      "woordsoort": "verbo",
+      "es_concordant": "abortar-meshakkalet",
+      "grondvorm": "miscarry",
+      "stamfamilie": [
+        "H7921"
+      ],
+      "toelichting": "Que aborta Os 9:14 H7921c.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7922",
+      "hebreeuws": "שֶׂכֶל",
+      "translit": "sechel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "inteligencia-sechel",
+      "grondvorm": "intelligence",
+      "stamfamilie": [
+        "H7919"
+      ],
+      "toelichting": "Entendimiento Pr 12:8.",
+      "voorkomens": 16
+    },
+    {
+      "strong": "H7923",
+      "hebreeuws": "שִׁכֻּלִים",
+      "translit": "shikkulim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "esterilidad-shikkulim",
+      "grondvorm": "childlessness-shikkulim",
+      "stamfamilie": [],
+      "toelichting": "Carencia de hijos Is 49:20.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7924",
+      "hebreeuws": "שָׂכְלְתָנוּ",
+      "translit": "sakhlethanu-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "inteligencia-arameo",
+      "grondvorm": "intelligence-aramaic",
+      "stamfamilie": [
+        "H7919"
+      ],
+      "toelichting": "Aramaico Dn 5:11.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7925",
+      "hebreeuws": "שָׁכַם",
+      "translit": "shakam",
+      "woordsoort": "verbo",
+      "es_concordant": "madrugar-shakam",
+      "grondvorm": "rise-early",
+      "stamfamilie": [
+        "H7926"
+      ],
+      "toelichting": "Levantarse temprano Gn 19:2.",
+      "voorkomens": 65
+    },
+    {
+      "strong": "H7926",
+      "hebreeuws": "שְׁכֶם",
+      "translit": "shechem-zn",
+      "woordsoort": "sustantivo",
+      "es_concordant": "hombro-shechem",
+      "grondvorm": "shoulder-shechem",
+      "stamfamilie": [],
+      "toelichting": "Espalda Gn 9:23.",
+      "voorkomens": 21
+    },
+    {
+      "strong": "H7927",
+      "hebreeuws": "שְׁכֶם",
+      "translit": "shechem",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Siquem-pn",
+      "grondvorm": "Shechem",
+      "stamfamilie": [
+        "H7926"
+      ],
+      "toelichting": "Ciudad Gn 12:6.",
+      "voorkomens": 63
+    },
+    {
+      "strong": "H7928",
+      "hebreeuws": "שֶׁכֶם",
+      "translit": "Shekhem-pers",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Siquem-persona-pn",
+      "grondvorm": "Shechem-person",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Hamor Gn 33:19.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7929",
+      "hebreeuws": "שִׁכְמָה",
+      "translit": "shkme",
+      "woordsoort": "sustantivo",
+      "es_concordant": "omoplato",
+      "grondvorm": "shoulder-blade",
+      "stamfamilie": [
+        "H7929",
+        "H7926"
+      ],
+      "toelichting": "Hombro Job 31:22.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7930",
+      "hebreeuws": "שִׁכְמִי",
+      "translit": "shichmi-eign-clan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Siquemita-pn",
+      "grondvorm": "Shechemite",
+      "stamfamilie": [],
+      "toelichting": "Familia de Siquem Nm 26:31.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7931",
+      "hebreeuws": "שכן",
+      "translit": "shakan",
+      "woordsoort": "verbo",
+      "es_concordant": "habitar-shakan",
+      "grondvorm": "dwell",
+      "stamfamilie": [
+        "H7931",
+        "H4908"
+      ],
+      "toelichting": "Morar Gn 9:27.",
+      "voorkomens": 130
+    },
+    {
+      "strong": "H7932",
+      "hebreeuws": "שְׁכַן",
+      "translit": "shekan-Aram",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "morar-arameo-shekan",
+      "grondvorm": "dwell-aramaic-shekan",
+      "stamfamilie": [
+        "H7931"
+      ],
+      "toelichting": "Aramaico Dn 4:21.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7933",
+      "hebreeuws": "שֶׁכֶן",
+      "translit": "sheken",
+      "woordsoort": "sustantivo",
+      "es_concordant": "morada-sheken",
+      "grondvorm": "dwelling-place",
+      "stamfamilie": [],
+      "toelichting": "Habitacion Dt 12:5.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7934",
+      "hebreeuws": "שָׁכֵן",
+      "translit": "shachen",
+      "woordsoort": "adjetivo",
+      "es_concordant": "vecino-shachen",
+      "grondvorm": "neighbor-adj",
+      "stamfamilie": [
+        "H7931",
+        "H7933"
+      ],
+      "toelichting": "Que habita cerca Jos 9:16.",
+      "voorkomens": 21
+    },
+    {
+      "strong": "H7935",
+      "hebreeuws": "שְׁכַנְיָה",
+      "translit": "Shekhanyah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Secanias-pn",
+      "grondvorm": "Shecaniah",
+      "stamfamilie": [],
+      "toelichting": "Sacerdote 1Cr 24:11.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H7936a",
+      "hebreeuws": "שָׂכַר",
+      "translit": "shkr",
+      "woordsoort": "verbo",
+      "es_concordant": "alquilar-shkr",
+      "grondvorm": "hire-variant",
+      "stamfamilie": [
+        "H7936a",
+        "H7936b",
+        "H7937"
+      ],
+      "toelichting": "Contratar Gn 30:16 H7936a.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7936b",
+      "hebreeuws": "שָׂכַר",
+      "translit": "sachar",
+      "woordsoort": "verbo",
+      "es_concordant": "contratar-sachar",
+      "grondvorm": "hire",
+      "stamfamilie": [
+        "H7939"
+      ],
+      "toelichting": "Asalariar Dt 23:4 H7936b.",
+      "voorkomens": 20
+    },
+    {
+      "strong": "H7937",
+      "hebreeuws": "שָׁכַר",
+      "translit": "shachar-II",
+      "woordsoort": "verbo",
+      "es_concordant": "embriagarse-shachar",
+      "grondvorm": "be-drunk",
+      "stamfamilie": [
+        "H7941",
+        "H7943"
+      ],
+      "toelichting": "Estar borracho Gn 9:21.",
+      "voorkomens": 19
+    },
+    {
+      "strong": "H7938",
+      "hebreeuws": "שֶׂכֶר",
+      "translit": "sekher-loon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "salario-sekher",
+      "grondvorm": "wages-sekher",
+      "stamfamilie": [
+        "H7939"
+      ],
+      "toelichting": "Recompensa Gn 30:18.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7939",
+      "hebreeuws": "שָׂכָר",
+      "translit": "sachar",
+      "woordsoort": "sustantivo",
+      "es_concordant": "salario-sachar",
+      "grondvorm": "hire-wages",
+      "stamfamilie": [
+        "H7936",
+        "H7938"
+      ],
+      "toelichting": "Jornal Gn 15:1.",
+      "voorkomens": 27
+    },
+    {
+      "strong": "H7940",
+      "hebreeuws": "שָׂכָר",
+      "translit": "Sakar",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sacar-pn",
+      "grondvorm": "Sacar",
+      "stamfamilie": [
+        "H7939"
+      ],
+      "toelichting": "Padre de Ahiam 1Cr 11:35.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7941",
+      "hebreeuws": "שֵׁכָר",
+      "translit": "shechar",
+      "woordsoort": "sustantivo",
+      "es_concordant": "bebida-fuerte",
+      "grondvorm": "strong-drink",
+      "stamfamilie": [
+        "H7937"
+      ],
+      "toelichting": "Sidra-licor Lv 10:9.",
+      "voorkomens": 23
+    },
+    {
+      "strong": "H7942",
+      "hebreeuws": "שִׁכְּרוֹן",
+      "translit": "shikkeron-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sicron-pn",
+      "grondvorm": "Shicron",
+      "stamfamilie": [],
+      "toelichting": "Pueblo de Juda Jos 15:11.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7943",
+      "hebreeuws": "שִׁכָּרוֹן",
+      "translit": "shikkaron",
+      "woordsoort": "sustantivo",
+      "es_concordant": "borrachera-shikkaron",
+      "grondvorm": "drunkenness",
+      "stamfamilie": [
+        "H7937"
+      ],
+      "toelichting": "Embriaguez Jr 13:13.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7944",
+      "hebreeuws": "שַׁל",
+      "translit": "shal",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tropiezo-shal",
+      "grondvorm": "mistake",
+      "stamfamilie": [],
+      "toelichting": "Yerro 2Sm 6:7.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7945",
+      "hebreeuws": "שֶׁל",
+      "translit": "shel-omdat",
+      "woordsoort": "particula",
+      "es_concordant": "porque-shel",
+      "grondvorm": "because-rel",
+      "stamfamilie": [
+        "H834"
+      ],
+      "toelichting": "Por causa de Cant 1:7.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7946",
+      "hebreeuws": "שַׁלְאֲנָן",
+      "translit": "shlann",
+      "woordsoort": "adjetivo",
+      "es_concordant": "tranquilo-shlann",
+      "grondvorm": "untroubled",
+      "stamfamilie": [
+        "H7946",
+        "H7600"
+      ],
+      "toelichting": "Sosegado Job 21:23.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7947",
+      "hebreeuws": "שָׁלַב",
+      "translit": "shalav",
+      "woordsoort": "verbo",
+      "es_concordant": "ensamblar-shalav",
+      "grondvorm": "insert",
+      "stamfamilie": [],
+      "toelichting": "Encajar Ex 26:17.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7948",
+      "hebreeuws": "שָׁלָב",
+      "translit": "shillav",
+      "woordsoort": "sustantivo",
+      "es_concordant": "espiga-mortaja",
+      "grondvorm": "mortise",
+      "stamfamilie": [],
+      "toelichting": "Espiga ensambladora 1Re 7:28.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7949",
+      "hebreeuws": "שָׁלַג",
+      "translit": "shalag",
+      "woordsoort": "verbo",
+      "es_concordant": "blanquear-nieve",
+      "grondvorm": "snow-white",
+      "stamfamilie": [],
+      "toelichting": "Volverse blanco Sal 68:14.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7950",
+      "hebreeuws": "שֶׁלֶג",
+      "translit": "sheleg",
+      "woordsoort": "sustantivo",
+      "es_concordant": "nieve-sheleg",
+      "grondvorm": "snow",
+      "stamfamilie": [],
+      "toelichting": "Nieve 2Sm 23:20.",
+      "voorkomens": 20
+    },
+    {
+      "strong": "H7951",
+      "hebreeuws": "שָׁלָה",
+      "translit": "shalah",
+      "woordsoort": "verbo",
+      "es_concordant": "estar-tranquilo-shalah",
+      "grondvorm": "be-tranquil",
+      "stamfamilie": [
+        "H7961",
+        "H7962"
+      ],
+      "toelichting": "Estar quieto Lm 1:5.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H7952",
+      "hebreeuws": "שָׁלָה",
+      "translit": "shalah-II-misleiden",
+      "woordsoort": "verbo",
+      "es_concordant": "engañar-shalah",
+      "grondvorm": "mislead",
+      "stamfamilie": [],
+      "toelichting": "Defraudar 2Re 4:28.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7953",
+      "hebreeuws": "שָׁלָה",
+      "translit": "shalah",
+      "woordsoort": "verbo",
+      "es_concordant": "extraer-shalah",
+      "grondvorm": "draw-out-shalah",
+      "stamfamilie": [],
+      "toelichting": "Sacar Job 27:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7954",
+      "hebreeuws": "שְׁלֵה",
+      "translit": "shele-Aram",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "descansar-arameo",
+      "grondvorm": "rest-aramaic-shele",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Dn 4:1.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7955",
+      "hebreeuws": "שָׁלָה",
+      "translit": "shalah-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "error-arameo",
+      "grondvorm": "error-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Dn 6:5.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7956",
+      "hebreeuws": "שֵׁלָה",
+      "translit": "Shelah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sela-pn",
+      "grondvorm": "Shelah-shelah",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Juda Gn 38:5.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H7957",
+      "hebreeuws": "שַׁלְהֶבֶת",
+      "translit": "shalhevet",
+      "woordsoort": "sustantivo",
+      "es_concordant": "llama-shalhevet",
+      "grondvorm": "flame",
+      "stamfamilie": [
+        "H3851"
+      ],
+      "toelichting": "Lengua de fuego Cant 8:6.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7958",
+      "hebreeuws": "שְׂלָו",
+      "translit": "selav",
+      "woordsoort": "sustantivo",
+      "es_concordant": "codorniz-selav",
+      "grondvorm": "quail",
+      "stamfamilie": [],
+      "toelichting": "Ave codorniz Ex 16:13.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H7959",
+      "hebreeuws": "שֶׁלֶו",
+      "translit": "shelev",
+      "woordsoort": "sustantivo",
+      "es_concordant": "prosperidad-shelev",
+      "grondvorm": "prosperity-state",
+      "stamfamilie": [],
+      "toelichting": "Estado prospero Job 20:20.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7960",
+      "hebreeuws": "שָׁלוּ",
+      "translit": "shalu-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "negligencia-arameo",
+      "grondvorm": "negligence-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Dn 3:29.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H7961",
+      "hebreeuws": "שָׁלֵו",
+      "translit": "shalev",
+      "woordsoort": "adjetivo",
+      "es_concordant": "tranquilo-shalev",
+      "grondvorm": "at-ease-shalev",
+      "stamfamilie": [
+        "H7962"
+      ],
+      "toelichting": "Sosegado Job 16:12.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H7962",
+      "hebreeuws": "שַׁלְוָה",
+      "translit": "shalvah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tranquilidad-shalvah",
+      "grondvorm": "tranquillity",
+      "stamfamilie": [
+        "H7965"
+      ],
+      "toelichting": "Quietud Sal 122:7.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H7963",
+      "hebreeuws": "שְׁלֵוָה",
+      "translit": "shelevah-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "prosperidad-arameo",
+      "grondvorm": "prosperity-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Dn 4:24.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7964",
+      "hebreeuws": "שִׁלּוּחַ",
+      "translit": "shilluach",
+      "woordsoort": "sustantivo",
+      "es_concordant": "regalo-despedida",
+      "grondvorm": "parting-gift",
+      "stamfamilie": [
+        "H7971"
+      ],
+      "toelichting": "Don de despedida 1Re 9:16.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7965",
+      "hebreeuws": "שלום",
+      "translit": "shalom",
+      "woordsoort": "sustantivo",
+      "es_concordant": "paz-shalom",
+      "grondvorm": "peace",
+      "stamfamilie": [
+        "H7965",
+        "H8010"
+      ],
+      "toelichting": "Paz-bienestar Gn 15:15.",
+      "voorkomens": 235
+    },
+    {
+      "strong": "H7966",
+      "hebreeuws": "שִׁלּוּם",
+      "translit": "shillum",
+      "woordsoort": "sustantivo",
+      "es_concordant": "retribucion-shillum",
+      "grondvorm": "repayment",
+      "stamfamilie": [
+        "H7999"
+      ],
+      "toelichting": "Recompensa Mi 7:3.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7967",
+      "hebreeuws": "שַׁלּוּם",
+      "translit": "shallum",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Salum-pn",
+      "grondvorm": "Shallum",
+      "stamfamilie": [],
+      "toelichting": "Rey de Israel 2Re 15:10.",
+      "voorkomens": 27
+    },
+    {
+      "strong": "H7968",
+      "hebreeuws": "שַׁלּוּן",
+      "translit": "shlun",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Salun-pn",
+      "grondvorm": "Shallun",
+      "stamfamilie": [
+        "H7968"
+      ],
+      "toelichting": "Padre de Coloze Neh 3:15.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7969",
+      "hebreeuws": "שלש",
+      "translit": "shalosh",
+      "woordsoort": "numeral",
+      "es_concordant": "tres-shalosh",
+      "grondvorm": "three",
+      "stamfamilie": [
+        "H7969",
+        "H7992"
+      ],
+      "toelichting": "Tres Gn 6:10.",
+      "voorkomens": 429
+    },
+    {
+      "strong": "H7970",
+      "hebreeuws": "שלשים",
+      "translit": "shloshim",
+      "woordsoort": "numeral",
+      "es_concordant": "treinta-shloshim",
+      "grondvorm": "thirty",
+      "stamfamilie": [
+        "H7970",
+        "H7969"
+      ],
+      "toelichting": "Treinta Gn 5:3.",
+      "voorkomens": 174
+    },
+    {
+      "strong": "H7971",
+      "hebreeuws": "שלח",
+      "translit": "shalach",
+      "woordsoort": "verbo",
+      "es_concordant": "enviar-shalach",
+      "grondvorm": "send",
+      "stamfamilie": [
+        "H7971"
+      ],
+      "toelichting": "Enviar Gn 8:7.",
+      "voorkomens": 843
+    },
+    {
+      "strong": "H7972",
+      "hebreeuws": "שְׁלַח",
+      "translit": "shelach-Aram",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "enviar-arameo",
+      "grondvorm": "send-aramaic",
+      "stamfamilie": [
+        "H7971"
+      ],
+      "toelichting": "Aramaico Esd 4:11.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H7973",
+      "hebreeuws": "שֶׁלַח",
+      "translit": "shelach",
+      "woordsoort": "sustantivo",
+      "es_concordant": "arma-arrojadiza",
+      "grondvorm": "weapon",
+      "stamfamilie": [
+        "H7971"
+      ],
+      "toelichting": "Proyectil 2Cr 23:10.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H7974",
+      "hebreeuws": "שֶׁלַח",
+      "translit": "Shelach",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sela-Heber-pn",
+      "grondvorm": "Shelah",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Arfaxad Gn 10:24.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H7975a",
+      "hebreeuws": "שִׁלֹחַ",
+      "translit": "shlch",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Siloah-agua-pn",
+      "grondvorm": "Shiloah",
+      "stamfamilie": [
+        "H7975a",
+        "H7975b"
+      ],
+      "toelichting": "Estanque Neh 3:15 H7975a.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7975b",
+      "hebreeuws": "שִׁלֹחַ",
+      "translit": "shiloach-II-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Siloah-variante-pn",
+      "grondvorm": "Shiloah-sense-b",
+      "stamfamilie": [
+        "H7975a"
+      ],
+      "toelichting": "Variante Siloah.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7976",
+      "hebreeuws": "שְׁלֻחָה",
+      "translit": "shelichah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "vastagos-vid",
+      "grondvorm": "vine-shoots",
+      "stamfamilie": [],
+      "toelichting": "Sarmientos Is 16:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7977",
+      "hebreeuws": "שִׁלְחִי",
+      "translit": "Shilchi-vader-Azuba",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Silhi-pn",
+      "grondvorm": "Shilhi",
+      "stamfamilie": [],
+      "toelichting": "Padre de Azuba 1Re 22:42.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7978",
+      "hebreeuws": "שִׁלְחִים",
+      "translit": "shilchim-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Silhim-pn",
+      "grondvorm": "Shilhim",
+      "stamfamilie": [],
+      "toelichting": "Pueblo de Juda Jos 15:32.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7979",
+      "hebreeuws": "שֻׁלְחָן",
+      "translit": "shulchan",
+      "woordsoort": "sustantivo",
+      "es_concordant": "mesa-shulchan",
+      "grondvorm": "table",
+      "stamfamilie": [],
+      "toelichting": "Mesa Ex 25:23.",
+      "voorkomens": 71
+    },
+    {
+      "strong": "H7980",
+      "hebreeuws": "שְׁלֵט",
+      "translit": "shalat-Aram",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "tener-poder-arameo",
+      "grondvorm": "have-power-aramaic",
+      "stamfamilie": [
+        "H7981"
+      ],
+      "toelichting": "Aramaico Dn 2:48.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H7981",
+      "hebreeuws": "שְׁלֵט",
+      "translit": "shelet-Aram",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "regir-arameo",
+      "grondvorm": "rule-aramaic",
+      "stamfamilie": [
+        "H7990"
+      ],
+      "toelichting": "Aramaico Dn 6:24.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H7982",
+      "hebreeuws": "שֶׁלֶט",
+      "translit": "shelet",
+      "woordsoort": "sustantivo",
+      "es_concordant": "escudo-honor",
+      "grondvorm": "shield-of-honor",
+      "stamfamilie": [
+        "H6793c",
+        "H4043"
+      ],
+      "toelichting": "Escudo ceremonial 2Sm 8:7.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H7983",
+      "hebreeuws": "שִׁלְטוֹן",
+      "translit": "shltun",
+      "woordsoort": "sustantivo",
+      "es_concordant": "dominio-shltun",
+      "grondvorm": "dominion",
+      "stamfamilie": [
+        "H7980",
+        "H7989",
+        "H7983"
+      ],
+      "toelichting": "Senorio Ec 8:4.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7984",
+      "hebreeuws": "שִׁלְטוֹן",
+      "translit": "shilton-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "regente-arameo-shilton",
+      "grondvorm": "ruler-aramaic-shilton",
+      "stamfamilie": [
+        "H7980"
+      ],
+      "toelichting": "Aramaico Dn 3:2.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7985",
+      "hebreeuws": "שָׁלְטָן-Aram",
+      "translit": "shaltan-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "dominio-arameo-shaltan",
+      "grondvorm": "dominion-aramaic",
+      "stamfamilie": [
+        "H7990"
+      ],
+      "toelichting": "Aramaico Dn 3:33.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H7986",
+      "hebreeuws": "שַׁלֶּטֶת",
+      "translit": "shalletet",
+      "woordsoort": "adjetivo",
+      "es_concordant": "imperiosa-shalletet",
+      "grondvorm": "domineering",
+      "stamfamilie": [],
+      "toelichting": "Dominante Ez 16:30.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7987",
+      "hebreeuws": "שֶׁלִי",
+      "translit": "sheli-stilte",
+      "woordsoort": "sustantivo",
+      "es_concordant": "quietud-sheli",
+      "grondvorm": "quietness",
+      "stamfamilie": [],
+      "toelichting": "Silencio 2Re 4:24.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7988",
+      "hebreeuws": "שִׁלְיָה",
+      "translit": "shilyah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "placenta-shilyah",
+      "grondvorm": "afterbirth",
+      "stamfamilie": [],
+      "toelichting": "Secundinas Dt 28:57.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7989",
+      "hebreeuws": "שַׁלִּיט",
+      "translit": "shallit",
+      "woordsoort": "sustantivo",
+      "es_concordant": "regente-shallit",
+      "grondvorm": "ruler",
+      "stamfamilie": [
+        "H7990"
+      ],
+      "toelichting": "Soberano Gn 42:6.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H7990",
+      "hebreeuws": "שַׁלִּיט",
+      "translit": "shallit-Aram",
+      "woordsoort": "adjetivo-arameo",
+      "es_concordant": "regente-arameo",
+      "grondvorm": "ruler-aramaic",
+      "stamfamilie": [
+        "H7989"
+      ],
+      "toelichting": "Aramaico Dn 2:10.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H7991a",
+      "hebreeuws": "שָׁלִישׁ",
+      "translit": "shalish-derde-officier",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tercer-oficial",
+      "grondvorm": "officer-third",
+      "stamfamilie": [
+        "H7991b"
+      ],
+      "toelichting": "Tercero en mando Ex 14:7 H7991a.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7991b",
+      "hebreeuws": "שָׁלִישׁ",
+      "translit": "shalish-muziek",
+      "woordsoort": "sustantivo",
+      "es_concordant": "instrumento-tres-cuerdas",
+      "grondvorm": "triple-string",
+      "stamfamilie": [],
+      "toelichting": "Instrumento musical 1Sm 18:6 H7991b.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7991c",
+      "hebreeuws": "שָׁלִישׁ-III",
+      "translit": "shalish-III",
+      "woordsoort": "sustantivo",
+      "es_concordant": "oficial-carro",
+      "grondvorm": "chariot-officer",
+      "stamfamilie": [
+        "H7969"
+      ],
+      "toelichting": "Capitan de carro 2Re 7:2 H7991c.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H7992",
+      "hebreeuws": "שלישי",
+      "translit": "shlishi",
+      "woordsoort": "adjetivo",
+      "es_concordant": "tercero-shlishi",
+      "grondvorm": "third",
+      "stamfamilie": [
+        "H7992",
+        "H7969"
+      ],
+      "toelichting": "Tercer en orden Gn 1:13.",
+      "voorkomens": 108
+    },
+    {
+      "strong": "H7993",
+      "hebreeuws": "שלך",
+      "translit": "shalak",
+      "woordsoort": "verbo",
+      "es_concordant": "lanzar-shalak",
+      "grondvorm": "throw",
+      "stamfamilie": [
+        "H7993"
+      ],
+      "toelichting": "Arrojar Gn 21:15.",
+      "voorkomens": 125
+    },
+    {
+      "strong": "H7994",
+      "hebreeuws": "שָׁלָךְ",
+      "translit": "shalakh-aalscholver",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cormoran-shalakh",
+      "grondvorm": "cormorant",
+      "stamfamilie": [
+        "H7993"
+      ],
+      "toelichting": "Ave inmunda Lv 11:17.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7995",
+      "hebreeuws": "שַׁלֶּכֶת",
+      "translit": "shaleket-boom",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tala-arboles",
+      "grondvorm": "felling",
+      "stamfamilie": [],
+      "toelichting": "Tala de arbol Is 6:13.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7996",
+      "hebreeuws": "שַׁלֶּכֶת",
+      "translit": "shaleket-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Saleket-pn",
+      "grondvorm": "Shalleketh-gate",
+      "stamfamilie": [],
+      "toelichting": "Puerta del templo 1Cr 26:16.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7997a",
+      "hebreeuws": "שָׁלַל",
+      "translit": "shol-laten-liggen",
+      "woordsoort": "verbo",
+      "es_concordant": "saquear-shol",
+      "grondvorm": "strip-fall",
+      "stamfamilie": [],
+      "toelichting": "Tomar despojo Is 10:6 H7997a.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7997b",
+      "hebreeuws": "שָׁלַל-II",
+      "translit": "shalal-II",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-saqueado-shalal-II",
+      "grondvorm": "be-spoiled",
+      "stamfamilie": [],
+      "toelichting": "Ser despojado Sal 76:5 H7997b.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H7998",
+      "hebreeuws": "שָׁלָל",
+      "translit": "shalal",
+      "woordsoort": "sustantivo",
+      "es_concordant": "botin-shalal",
+      "grondvorm": "spoil",
+      "stamfamilie": [
+        "H7997a"
+      ],
+      "toelichting": "Despojo Gn 49:27.",
+      "voorkomens": 74
+    },
+    {
+      "strong": "H7999a",
+      "hebreeuws": "שלם",
+      "translit": "shalam",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-completo",
+      "grondvorm": "be-complete",
+      "stamfamilie": [
+        "H7999a",
+        "H7965",
+        "H8002"
+      ],
+      "toelichting": "Estar pleno Job 22:21 H7999a.",
+      "voorkomens": 102
+    },
+    {
+      "strong": "H7999b",
+      "hebreeuws": "שָׁלֵם-II",
+      "translit": "shalem-II",
+      "woordsoort": "verbo",
+      "es_concordant": "retribuir-shalem",
+      "grondvorm": "repay",
+      "stamfamilie": [
+        "H7965",
+        "H7999a"
+      ],
+      "toelichting": "Pagar Lv 5:16 H7999b.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H8000",
+      "hebreeuws": "שְׁלִם",
+      "translit": "shelim-Aram",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "concluir-arameo",
+      "grondvorm": "finish-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Esd 5:16.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H8001",
+      "hebreeuws": "שְׁלָמָא",
+      "translit": "shelam-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "paz-arameo",
+      "grondvorm": "peace-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Dn 4:1.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H8002",
+      "hebreeuws": "שלם",
+      "translit": "shelem",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ofrenda-paz",
+      "grondvorm": "peace-offering",
+      "stamfamilie": [
+        "H8002",
+        "H7965",
+        "H7999a"
+      ],
+      "toelichting": "Sacrificio de paz Lv 3:1.",
+      "voorkomens": 87
+    },
+    {
+      "strong": "H8003",
+      "hebreeuws": "שָׁלֵם",
+      "translit": "shalem",
+      "woordsoort": "adjetivo",
+      "es_concordant": "intacto-shalem",
+      "grondvorm": "whole",
+      "stamfamilie": [
+        "H7999",
+        "H7965"
+      ],
+      "toelichting": "Completo Dt 25:15.",
+      "voorkomens": 28
+    },
+    {
+      "strong": "H8004",
+      "hebreeuws": "שָׁלֵם",
+      "translit": "Salem",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Salem-pn",
+      "grondvorm": "Salem",
+      "stamfamilie": [
+        "H8002"
+      ],
+      "toelichting": "Antigua Jerusalen Gn 14:18.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H8005",
+      "hebreeuws": "שִׁלֵּם",
+      "translit": "shillem",
+      "woordsoort": "sustantivo",
+      "es_concordant": "premio-shillem",
+      "grondvorm": "reward",
+      "stamfamilie": [],
+      "toelichting": "Recompensa Dt 32:35.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8006",
+      "hebreeuws": "שִׁלֵּם",
+      "translit": "Shillem",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Silem-pn",
+      "grondvorm": "Shillem",
+      "stamfamilie": [
+        "H7999"
+      ],
+      "toelichting": "Hijo de Neftali Gn 46:24.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H8007",
+      "hebreeuws": "שַׂלְמָא",
+      "translit": "Salma",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Salma-pn",
+      "grondvorm": "Salma",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Caleb 1Cr 2:11.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H8008",
+      "hebreeuws": "שַׂלְמָה",
+      "translit": "salmah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "manto-salmah",
+      "grondvorm": "outer-cloak",
+      "stamfamilie": [],
+      "toelichting": "Vestidura Mi 2:8.",
+      "voorkomens": 16
+    },
+    {
+      "strong": "H8009",
+      "hebreeuws": "שַׂלְמָה",
+      "translit": "salma-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Salmah-pn",
+      "grondvorm": "Salmah",
+      "stamfamilie": [],
+      "toelichting": "Variante Salma.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8010",
+      "hebreeuws": "שלמה",
+      "translit": "Shlomoh",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Salomon-pn",
+      "grondvorm": "Solomon",
+      "stamfamilie": [
+        "H8010",
+        "H7965"
+      ],
+      "toelichting": "Hijo de David 2Sm 12:24.",
+      "voorkomens": 284
+    },
+    {
+      "strong": "H8011",
+      "hebreeuws": "שִׁלֻּמָה",
+      "translit": "shillumah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "recompensa-shillumah",
+      "grondvorm": "reward-shillumah",
+      "stamfamilie": [],
+      "toelichting": "Premio Sal 91:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8012",
+      "hebreeuws": "שַׂלְמוֹן",
+      "translit": "salmon-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Salmon-pn",
+      "grondvorm": "Salmon",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Naason Rt 4:21.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8013",
+      "hebreeuws": "שְׁלֹמוֹת",
+      "translit": "Shelomoth",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Selomot-pn",
+      "grondvorm": "Shelomoth",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Sisi 1Cr 23:9.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H8014",
+      "hebreeuws": "שַׁלְמַי",
+      "translit": "Salmai",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Salmai-pn",
+      "grondvorm": "Salmai",
+      "stamfamilie": [],
+      "toelichting": "Familia Esd 2:46.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H8015",
+      "hebreeuws": "שְׁלֹמִי",
+      "translit": "shelomi-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Selomi-pn",
+      "grondvorm": "Shelomi",
+      "stamfamilie": [],
+      "toelichting": "Padre de Ahihud Nm 34:27.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8016",
+      "hebreeuws": "שִׁלֵּמִי",
+      "translit": "shillemi-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Silemita-pn",
+      "grondvorm": "Shillemite",
+      "stamfamilie": [],
+      "toelichting": "Familia de Silem Nm 26:49.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8017",
+      "hebreeuws": "שְׁלֻמִיאֵל",
+      "translit": "Shelumi'el",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Selumiel-pn",
+      "grondvorm": "Shelumiel",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Surisaday Nm 1:6.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H8018",
+      "hebreeuws": "שֶׁלֶמְיָה",
+      "translit": "Shelemja",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Selemias-pn",
+      "grondvorm": "Shelemiah",
+      "stamfamilie": [],
+      "toelichting": "Levita 1Cr 26:14.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H8019a",
+      "hebreeuws": "שְׁלֹמִית",
+      "translit": "Shelomith-I",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Selomit-I-pn",
+      "grondvorm": "Shelomith",
+      "stamfamilie": [],
+      "toelichting": "Hija de Dibri Lv 24:11 H8019a.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H8019b",
+      "hebreeuws": "שְׁלֹמִית",
+      "translit": "Shelomith-Dan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Selomit-Dan-pn",
+      "grondvorm": "Shelomith-Dan",
+      "stamfamilie": [
+        "H7965"
+      ],
+      "toelichting": "Levita 1Cr 23:18 H8019b.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H8020",
+      "hebreeuws": "שַׁלְמַן",
+      "translit": "shalman-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Salman-pn",
+      "grondvorm": "Shalman",
+      "stamfamilie": [],
+      "toelichting": "Conquistador Os 10:14.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8021",
+      "hebreeuws": "שַׁלְמֹנִים",
+      "translit": "shalmonim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "soborno-regalos",
+      "grondvorm": "bribe-gifts",
+      "stamfamilie": [],
+      "toelichting": "Cohecho Is 1:23.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8022",
+      "hebreeuws": "שַׁלְמַנְאֶסֶר",
+      "translit": "Shalmanaser",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Salmanasar-pn",
+      "grondvorm": "Shalmaneser",
+      "stamfamilie": [],
+      "toelichting": "Rey asirio 2Re 17:3.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H8023",
+      "hebreeuws": "שִׁילֹנִי",
+      "translit": "shiloni-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Silonita-clan-pn",
+      "grondvorm": "Shilonite-person",
+      "stamfamilie": [],
+      "toelichting": "Familia de Sela Neh 11:5.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8024",
+      "hebreeuws": "שֵׁלָנִי",
+      "translit": "shelani-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Selanita-pn",
+      "grondvorm": "Shelanite",
+      "stamfamilie": [],
+      "toelichting": "Familia de Sela Nm 26:20.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8025",
+      "hebreeuws": "שָׁלַף",
+      "translit": "shalaf",
+      "woordsoort": "verbo",
+      "es_concordant": "desenvainar-shalaf",
+      "grondvorm": "draw-out",
+      "stamfamilie": [],
+      "toelichting": "Sacar espada Jos 5:13.",
+      "voorkomens": 25
+    },
+    {
+      "strong": "H8026",
+      "hebreeuws": "שֶׁלֶף",
+      "translit": "Sheleph",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Selef-pn",
+      "grondvorm": "Sheleph",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Joctan Gn 10:26.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H8027",
+      "hebreeuws": "שָׁלַשׁ",
+      "translit": "shalash",
+      "woordsoort": "verbo",
+      "es_concordant": "triplicar-shalash",
+      "grondvorm": "threefold",
+      "stamfamilie": [
+        "H7969"
+      ],
+      "toelichting": "Hacer triple Ec 4:12.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H8028",
+      "hebreeuws": "שֵׁלֶשׁ",
+      "translit": "shelesh-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Seles-pn",
+      "grondvorm": "Shelesh",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Helem 1Cr 7:35.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8029",
+      "hebreeuws": "שִׁלֵּשׁ",
+      "translit": "shillesh",
+      "woordsoort": "adjetivo",
+      "es_concordant": "tercera-generacion",
+      "grondvorm": "three-generation",
+      "stamfamilie": [
+        "H7992"
+      ],
+      "toelichting": "Bisnieto Gn 50:23.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H8030",
+      "hebreeuws": "שִׁלְשָׁה",
+      "translit": "shilshah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Silsah-pn",
+      "grondvorm": "Shilshah",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Zofa 1Cr 7:37.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8031",
+      "hebreeuws": "שָׁלִשָׁה",
+      "translit": "shalishah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Salisa-pn",
+      "grondvorm": "Shalisha",
+      "stamfamilie": [],
+      "toelichting": "Region 1Sm 9:4.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8032",
+      "hebreeuws": "שִׁלְשׁוֹם",
+      "translit": "shilshom",
+      "woordsoort": "adverbio",
+      "es_concordant": "anteayer-shilshom",
+      "grondvorm": "day-before-yesterday",
+      "stamfamilie": [
+        "H7992"
+      ],
+      "toelichting": "Anteayer Ex 4:10.",
+      "voorkomens": 25
+    },
+    {
+      "strong": "H8033",
+      "hebreeuws": "שם",
+      "translit": "sham",
+      "woordsoort": "adverbio",
+      "es_concordant": "alli-sham",
+      "grondvorm": "there",
+      "stamfamilie": [
+        "H8033"
+      ],
+      "toelichting": "Alla Gn 2:8.",
+      "voorkomens": 834
+    },
+    {
+      "strong": "H8034",
+      "hebreeuws": "שם",
+      "translit": "shem",
+      "woordsoort": "sustantivo",
+      "es_concordant": "nombre-shem",
+      "grondvorm": "name",
+      "stamfamilie": [
+        "H8034"
+      ],
+      "toelichting": "Nombre Gn 2:11.",
+      "voorkomens": 859
+    },
+    {
+      "strong": "H8035",
+      "hebreeuws": "שֵׁם",
+      "translit": "shem-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sem-pn",
+      "grondvorm": "Shem",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Noe Gn 5:32.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H8036",
+      "hebreeuws": "שֻׁם",
+      "translit": "shum-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "nombre-arameo",
+      "grondvorm": "name-aramaic",
+      "stamfamilie": [
+        "H8034"
+      ],
+      "toelichting": "Aramaico Dn 2:20.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H8037",
+      "hebreeuws": "שַׁמָּא",
+      "translit": "Shamma-persoon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sama-Aguee-pn",
+      "grondvorm": "Shamma",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Aguee 2Sm 23:11.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H8038",
+      "hebreeuws": "שֶׁמְאֵבֶר",
+      "translit": "shemeber-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Semeber-pn",
+      "grondvorm": "Shemeber",
+      "stamfamilie": [],
+      "toelichting": "Rey de Zeboim Gn 14:2.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8039",
+      "hebreeuws": "שִׁמְאָה",
+      "translit": "shimah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Simea-pn",
+      "grondvorm": "Shimah",
+      "stamfamilie": [],
+      "toelichting": "Benjaminita 1Cr 8:32.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8040",
+      "hebreeuws": "שְׂמֹאל",
+      "translit": "semol",
+      "woordsoort": "sustantivo",
+      "es_concordant": "izquierda-semol",
+      "grondvorm": "left-side",
+      "stamfamilie": [
+        "H8041"
+      ],
+      "toelichting": "Lado izquierdo Gn 13:9.",
+      "voorkomens": 54
+    },
+    {
+      "strong": "H8041",
+      "hebreeuws": "שָׂמַאל",
+      "translit": "sama'al",
+      "woordsoort": "verbo",
+      "es_concordant": "ir-a-izquierda",
+      "grondvorm": "go-left",
+      "stamfamilie": [
+        "H8040"
+      ],
+      "toelichting": "Volver a la izquierda Is 30:21.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H8042",
+      "hebreeuws": "שְׂמָאלִי",
+      "translit": "semali",
+      "woordsoort": "adjetivo",
+      "es_concordant": "izquierdo-semali",
+      "grondvorm": "left-located",
+      "stamfamilie": [
+        "H8040"
+      ],
+      "toelichting": "De la izquierda Ex 29:20.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H8043",
+      "hebreeuws": "שִׁמְאָם",
+      "translit": "shimam-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Simam-pn",
+      "grondvorm": "Shimam",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Saharaim 1Cr 8:12.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8044",
+      "hebreeuws": "שַׁמְגַּר",
+      "translit": "Shamgar",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Samgar-pn",
+      "grondvorm": "Shamgar",
+      "stamfamilie": [],
+      "toelichting": "Juez Jue 3:31.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H8045",
+      "hebreeuws": "שמד",
+      "translit": "shamad",
+      "woordsoort": "verbo",
+      "es_concordant": "exterminar-shamad",
+      "grondvorm": "exterminate",
+      "stamfamilie": [
+        "H8045"
+      ],
+      "toelichting": "Aniquilar Dt 4:3.",
+      "voorkomens": 90
+    },
+    {
+      "strong": "H8046",
+      "hebreeuws": "שְׁמַד-Aram",
+      "translit": "shemad-Aram",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "exterminar-arameo",
+      "grondvorm": "exterminate-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Dn 7:26.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8047",
+      "hebreeuws": "שַׁמָּה",
+      "translit": "shammah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "horror-shammah",
+      "grondvorm": "horror",
+      "stamfamilie": [
+        "H8074"
+      ],
+      "toelichting": "Espanto Jr 25:9.",
+      "voorkomens": 40
+    },
+    {
+      "strong": "H8048",
+      "hebreeuws": "שַׁמָּה",
+      "translit": "shammah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sama-pn-otro",
+      "grondvorm": "Shammah",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Isai 1Sm 16:9.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H8049",
+      "hebreeuws": "שַׁמְהוּת",
+      "translit": "shamhut-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Samhut-pn",
+      "grondvorm": "Shamhuth",
+      "stamfamilie": [],
+      "toelichting": "Capitan 1Cr 27:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8050",
+      "hebreeuws": "שמואל",
+      "translit": "Shmuel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Samuel-pn",
+      "grondvorm": "Samuel",
+      "stamfamilie": [
+        "H8050"
+      ],
+      "toelichting": "Profeta 1Sm 1:20.",
+      "voorkomens": 140
+    },
+    {
+      "strong": "H8051",
+      "hebreeuws": "שַׁמּוּעַ",
+      "translit": "shammua-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Samua-pn",
+      "grondvorm": "Shammua",
+      "stamfamilie": [],
+      "toelichting": "Espia Nm 13:4.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H8052",
+      "hebreeuws": "שְׁמוּעָה",
+      "translit": "shemuah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "noticia-shemuah",
+      "grondvorm": "report",
+      "stamfamilie": [
+        "H8085"
+      ],
+      "toelichting": "Reporte Gn 29:13.",
+      "voorkomens": 27
+    },
+    {
+      "strong": "H8053",
+      "hebreeuws": "שָׁמוּר",
+      "translit": "shamur-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Samur-pn",
+      "grondvorm": "Shamur",
+      "stamfamilie": [],
+      "toelichting": "Familia 1Cr 7:34.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8054",
+      "hebreeuws": "שַׁמּוֹת",
+      "translit": "shammot-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Samot-pn",
+      "grondvorm": "Shammoth",
+      "stamfamilie": [],
+      "toelichting": "Heroe de David 1Cr 11:27.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8055",
+      "hebreeuws": "שמח",
+      "translit": "samach",
+      "woordsoort": "verbo",
+      "es_concordant": "alegrarse-samach",
+      "grondvorm": "rejoice",
+      "stamfamilie": [
+        "H8055",
+        "H8057"
+      ],
+      "toelichting": "Regocijarse Dt 12:7.",
+      "voorkomens": 155
+    },
+    {
+      "strong": "H8056",
+      "hebreeuws": "שָׂמֵחַ",
+      "translit": "sameach-bn",
+      "woordsoort": "adjetivo",
+      "es_concordant": "gozoso-sameach",
+      "grondvorm": "joyful",
+      "stamfamilie": [
+        "H8055",
+        "H8057"
+      ],
+      "toelichting": "Alegre Dt 16:15.",
+      "voorkomens": 22
+    },
+    {
+      "strong": "H8057",
+      "hebreeuws": "שמחה",
+      "translit": "simchah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "alegria-simchah",
+      "grondvorm": "joy",
+      "stamfamilie": [
+        "H8057",
+        "H8055"
+      ],
+      "toelichting": "Gozo Dt 28:47.",
+      "voorkomens": 94
+    },
+    {
+      "strong": "H8058",
+      "hebreeuws": "שָׁמַט",
+      "translit": "shamat",
+      "woordsoort": "verbo",
+      "es_concordant": "soltar-shamat",
+      "grondvorm": "release",
+      "stamfamilie": [],
+      "toelichting": "Liberar Dt 15:2.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H8059",
+      "hebreeuws": "שְׁמִטָּה",
+      "translit": "shemittah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "remision-shemittah",
+      "grondvorm": "release-jubilee",
+      "stamfamilie": [
+        "H8058"
+      ],
+      "toelichting": "Año de remision Dt 15:1.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H8060",
+      "hebreeuws": "שַׁמַּי",
+      "translit": "Shammai",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Samai-pn",
+      "grondvorm": "Shammai",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Onam 1Cr 2:28.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H8061",
+      "hebreeuws": "שְׁמִידָע",
+      "translit": "Shemida",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Semida-pn",
+      "grondvorm": "Shemida",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Galaad Nm 26:32.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H8062",
+      "hebreeuws": "שְׁמִידָעִי",
+      "translit": "shemidai-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Semidaita-pn",
+      "grondvorm": "Shemidaite",
+      "stamfamilie": [],
+      "toelichting": "Familia de Semida Nm 26:32.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8063",
+      "hebreeuws": "שְׂמִיכָה",
+      "translit": "semichah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "manta-semichah",
+      "grondvorm": "blanket",
+      "stamfamilie": [],
+      "toelichting": "Cobija Jue 4:18.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8064",
+      "hebreeuws": "שמים",
+      "translit": "shamayim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cielos-shamayim",
+      "grondvorm": "heavens",
+      "stamfamilie": [
+        "H8064"
+      ],
+      "toelichting": "Cielo Gn 1:1.",
+      "voorkomens": 419
+    },
+    {
+      "strong": "H8065",
+      "hebreeuws": "שְׁמַיָּא",
+      "translit": "shemaya-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "cielos-arameo",
+      "grondvorm": "heavens-aramaic",
+      "stamfamilie": [
+        "H8064"
+      ],
+      "toelichting": "Aramaico Dn 2:18.",
+      "voorkomens": 38
+    },
+    {
+      "strong": "H8066",
+      "hebreeuws": "שְׁמִינִי",
+      "translit": "shemini",
+      "woordsoort": "ordinal",
+      "es_concordant": "octavo-shemini",
+      "grondvorm": "eighth",
+      "stamfamilie": [
+        "H8083"
+      ],
+      "toelichting": "Octavo Gn 17:12.",
+      "voorkomens": 29
+    },
+    {
+      "strong": "H8067",
+      "hebreeuws": "שְׁמִינִית",
+      "translit": "sheminit",
+      "woordsoort": "sustantivo",
+      "es_concordant": "instrumento-ocho-cuerdas",
+      "grondvorm": "eight-stringed",
+      "stamfamilie": [],
+      "toelichting": "Bajo de ocho cuerdas Sal 6:1.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H8068",
+      "hebreeuws": "שָׁמִיר",
+      "translit": "shamir",
+      "woordsoort": "sustantivo",
+      "es_concordant": "espina-pedernal",
+      "grondvorm": "thorn-flint",
+      "stamfamilie": [],
+      "toelichting": "Diamante-pedernal Jr 17:1.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H8069",
+      "hebreeuws": "שָׁמִיר",
+      "translit": "Shamir-II",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Samir-pn",
+      "grondvorm": "Shamir",
+      "stamfamilie": [],
+      "toelichting": "Pueblo de Juda Jos 15:48.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H8070",
+      "hebreeuws": "שְׁמִירָמוֹת",
+      "translit": "Shemiramoth",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Semiramot-pn",
+      "grondvorm": "Shemiramoth",
+      "stamfamilie": [],
+      "toelichting": "Levita 1Cr 15:18.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H8071",
+      "hebreeuws": "שִׂמְלָה",
+      "translit": "simlah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "manto-simlah",
+      "grondvorm": "mantle",
+      "stamfamilie": [],
+      "toelichting": "Capa Ex 12:34.",
+      "voorkomens": 31
+    },
+    {
+      "strong": "H8072",
+      "hebreeuws": "שַׂמְלָה",
+      "translit": "Samlah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Samla-pn",
+      "grondvorm": "Samlah",
+      "stamfamilie": [],
+      "toelichting": "Rey edomita Gn 36:36.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H8073",
+      "hebreeuws": "שַׁמְלַי",
+      "translit": "shamlay-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Samlai-pn",
+      "grondvorm": "Shamlai",
+      "stamfamilie": [],
+      "toelichting": "Familia Esd 2:46.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8074",
+      "hebreeuws": "שמם",
+      "translit": "shamem",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-desolado-shamem",
+      "grondvorm": "be-desolate",
+      "stamfamilie": [
+        "H8074"
+      ],
+      "toelichting": "Quedar asolado Lv 26:32.",
+      "voorkomens": 86
+    },
+    {
+      "strong": "H8075",
+      "hebreeuws": "שְׁמַם",
+      "translit": "shemam-Aram",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "asombrarse-arameo",
+      "grondvorm": "be-amazed-aramaic-shemam",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Dn 4:19.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H8076",
+      "hebreeuws": "שָׁמֵם",
+      "translit": "shamem-II",
+      "woordsoort": "adjetivo",
+      "es_concordant": "atonito-shamem",
+      "grondvorm": "astonied",
+      "stamfamilie": [
+        "H8074"
+      ],
+      "toelichting": "Asombrado Sal 40:15.",
+      "voorkomens": 6
+    }
+  ]
+}

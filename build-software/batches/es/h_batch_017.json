@@ -1,0 +1,1195 @@
+{
+  "batch_id": "h_batch_017",
+  "script": "heb",
+  "datum": "2026-05-01",
+  "entries": [
+    {
+      "strong": "H3506",
+      "hebreeuws": "יִתְרָן",
+      "translit": "yithran",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yitran-pn",
+      "grondvorm": "Yitran-pn",
+      "stamfamilie": [],
+      "toelichting": "Gn-hijos-Disón-Hemdán-Eshbán-Yitran-Cherán y 1Cr-paralelo (Gn 36:26; 1Cr 1:41). Edomita-genealogía.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3507",
+      "hebreeuws": "יִתְרְעָם",
+      "translit": "yitream",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yitream-pn-David",
+      "grondvorm": "Yitream-pn-David",
+      "stamfamilie": [],
+      "toelichting": "2Sa-sexto-Yitream-de-Egla-mujer-de-David y 1Cr-sexto-Yitream-de-su-mujer-Egla (2Sa 3:5; 1Cr 3:3). Sexto-hijo-David.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3508",
+      "hebreeuws": "יֹתֶרֶת",
+      "translit": "yoteret",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lobulo-higado",
+      "grondvorm": "lobulo-higado",
+      "stamfamilie": [],
+      "toelichting": "De yatar (sobrar, H3498); apéndice/lóbulo-hígado item-anatómico-sacrificio (Ex 29:13,22; Lv 3:4,10,15; 4:9; 7:4; 8:16,25; 9:10,19).",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H3509",
+      "hebreeuws": "יֵתֶת",
+      "translit": "yethet",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yetet-pn",
+      "grondvorm": "Yetet-pn",
+      "stamfamilie": [],
+      "toelichting": "Caudillo-edomita; Gn 36:40.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3510",
+      "hebreeuws": "כָּאַב",
+      "translit": "kaav",
+      "woordsoort": "verbo",
+      "es_concordant": "doler",
+      "grondvorm": "doler",
+      "stamfamilie": [
+        "H3511"
+      ],
+      "toelichting": "Sufrir dolor físico o interno (Gn 34:25; Job 5:18; 14:22; Sal 69:30; Pr 14:13; Ec 2:23; Is 17:11).",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H3511",
+      "hebreeuws": "כְּאֵב",
+      "translit": "keev",
+      "woordsoort": "sustantivo",
+      "es_concordant": "dolor-pena",
+      "grondvorm": "dolor-pena",
+      "stamfamilie": [
+        "H3510"
+      ],
+      "toelichting": "Dolor-de-cuerpo o alma (Job 2:13; 16:6; Sal 39:3; Is 17:11; 65:14; Jer 15:18; 30:15).",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H3512a",
+      "hebreeuws": "כָּאָה-I",
+      "translit": "kaa-I",
+      "woordsoort": "verbo",
+      "es_concordant": "abatirse-entristecerse",
+      "grondvorm": "abatirse-entristecerse",
+      "stamfamilie": [],
+      "toelichting": "Sal-corazón-abatido y Ez-no-entristecer-corazón-justo y Dn-rostro-abatido (Sal 109:16; Ez 13:22; Dn 11:30).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3512b",
+      "hebreeuws": "כָּאָה-II",
+      "translit": "kaah-II",
+      "woordsoort": "verbo",
+      "es_concordant": "caer-abatido-kaah-II",
+      "grondvorm": "caer-abatido-kaah-II",
+      "stamfamilie": [
+        "H3512a"
+      ],
+      "toelichting": "Segundo kaah; afligidos-caen-bajo-impío; Sal 10:10.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3513",
+      "hebreeuws": "כָּבֵד",
+      "translit": "kaved",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-pesado-honrar",
+      "grondvorm": "ser-pesado-honrar",
+      "stamfamilie": [
+        "H3514",
+        "H3515",
+        "H3519"
+      ],
+      "toelichting": "Raíz kbd. Ser-pesado, ganar-honor, endurecer. 'Ser-pesado' preserva el núcleo.",
+      "voorkomens": 114
+    },
+    {
+      "strong": "H3514",
+      "hebreeuws": "כֹּבֶד",
+      "translit": "kovedh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "peso-multitud",
+      "grondvorm": "peso-multitud",
+      "stamfamilie": [
+        "H3513"
+      ],
+      "toelichting": "Peso-pesado de carros y multitud-pueblo (Is 21:15; 22:24; 30:27; Pr 27:3; Nah 3:3,15).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H3515",
+      "hebreeuws": "כָּבֵד",
+      "translit": "kaved-adj",
+      "woordsoort": "adjetivo",
+      "es_concordant": "pesado",
+      "grondvorm": "pesado",
+      "stamfamilie": [
+        "H3513"
+      ],
+      "toelichting": "Adjetivo de kaved: importante, oneroso, intenso; concordante 'pesado'.",
+      "voorkomens": 40
+    },
+    {
+      "strong": "H3516",
+      "hebreeuws": "כָּבֵד",
+      "translit": "kabed-noun",
+      "woordsoort": "sustantivo",
+      "es_concordant": "higado",
+      "grondvorm": "higado",
+      "stamfamilie": [
+        "H3513"
+      ],
+      "toelichting": "Víscera-más-pesada, sede-mística-emociones; distinto de kaved verbo y kaved adj.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H3517",
+      "hebreeuws": "כְּבֵדוּת",
+      "translit": "kevedut",
+      "woordsoort": "sustantivo",
+      "es_concordant": "pesadez-dificultad",
+      "grondvorm": "pesadez-dificultad",
+      "stamfamilie": [
+        "H3513"
+      ],
+      "toelichting": "Carros-Egipto tiraron-con-dificultad; Ex 14:25.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3518",
+      "hebreeuws": "כָּבָה",
+      "translit": "kavah",
+      "woordsoort": "verbo",
+      "es_concordant": "extinguir",
+      "grondvorm": "extinguir",
+      "stamfamilie": [],
+      "toelichting": "Qal: hacer-apagar fuego/luz; concordante.",
+      "voorkomens": 24
+    },
+    {
+      "strong": "H3519",
+      "hebreeuws": "כָּבוֹד",
+      "translit": "kavod",
+      "woordsoort": "sustantivo",
+      "es_concordant": "gloria",
+      "grondvorm": "gloria",
+      "stamfamilie": [
+        "H3513"
+      ],
+      "toelichting": "Raíz kbd (ser-pesado, H3513). Peso, honor, esplendor-de-presencia. 'Gloria' preserva esplendor-honor.",
+      "voorkomens": 200
+    },
+    {
+      "strong": "H3520a",
+      "hebreeuws": "כְּבוּדָּה-I",
+      "translit": "kevudah-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "preciosidad-peso",
+      "grondvorm": "preciosidad-peso",
+      "stamfamilie": [
+        "H3513"
+      ],
+      "toelichting": "Preciosidad-esplendor — Sal 45:14 'toda gloriosa es la hija del rey en su interior'.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3520b",
+      "hebreeuws": "כְּבֻדָּה-II",
+      "translit": "kebudah-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "posesion-preciosa",
+      "grondvorm": "posesion-preciosa",
+      "stamfamilie": [
+        "H3520a"
+      ],
+      "toelichting": "Segundo kebudah; bagaje-pesado-frente Dan-marcha; Jue 18:21.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3521",
+      "hebreeuws": "כָּבוּל",
+      "translit": "kavul",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cabul-pn",
+      "grondvorm": "Cabul-pn",
+      "stamfamilie": [],
+      "toelichting": "Frontera-Aser ciudades-Tiro-Salomón (Jos 19:27; 1Re 9:13).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3522",
+      "hebreeuws": "כַּבּוֹן",
+      "translit": "kabbon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Kabbon-pn-lugar",
+      "grondvorm": "Kabbon-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-Judá-llanura; Jos 15:40.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3523",
+      "hebreeuws": "כְּבִיר",
+      "translit": "kebir-net",
+      "woordsoort": "sustantivo",
+      "es_concordant": "trenza-pelo-cabra",
+      "grondvorm": "trenza-pelo-cabra",
+      "stamfamilie": [],
+      "toelichting": "1Sa-y-Mical-tomó-imagen-y-puso-en-cama-y-trenza-pelo-cabra-en-cabecera y 1Sa-trenza-pelo-cabra (1Sa 19:13,16). Cabezal-imitación.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3524",
+      "hebreeuws": "כַּבִּיר",
+      "translit": "kabbir",
+      "woordsoort": "adjetivo",
+      "es_concordant": "robusto-poderoso",
+      "grondvorm": "robusto-poderoso",
+      "stamfamilie": [],
+      "toelichting": "Raíz kbr (abundante/multiplicar); poético-adjetivo para fuerza-extensa distinto de gadol.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H3525",
+      "hebreeuws": "כֶּבֶל",
+      "translit": "kevel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "grillete-pie",
+      "grondvorm": "grillete-pie",
+      "stamfamilie": [],
+      "toelichting": "Grillete-hierro para preso — Sal 105:18 'apretaron sus pies con grillos'; Job 33:11.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3526",
+      "hebreeuws": "כָּבַס",
+      "translit": "kavas",
+      "woordsoort": "verbo",
+      "es_concordant": "lavar-pisando",
+      "grondvorm": "lavar-pisando",
+      "stamfamilie": [],
+      "toelichting": "Piel: lavar-tela pisándola/golpeándola; distinto de rachats (lavar-con-agua).",
+      "voorkomens": 51
+    },
+    {
+      "strong": "H3527",
+      "hebreeuws": "כָּבַר",
+      "translit": "kavar",
+      "woordsoort": "verbo",
+      "es_concordant": "multiplicar-palabras",
+      "grondvorm": "multiplicar-palabras",
+      "stamfamilie": [],
+      "toelichting": "Hifil; Job multiplica-palabras-sin-conocimiento; Job 35:16.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3528",
+      "hebreeuws": "כְּבָר",
+      "translit": "kbr",
+      "woordsoort": "adverbio",
+      "es_concordant": "ya-kebar",
+      "grondvorm": "ya-kebar",
+      "stamfamilie": [],
+      "toelichting": "Adverbio-temporal 'ya-hace-tiempo'; exclusivo Eclesiastés (Ec 1:10; 2:12,16; 3:15; 4:2; 6:10; 9:6,7).",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H3529",
+      "hebreeuws": "כְּבָר",
+      "translit": "kevar",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Kebar-pn",
+      "grondvorm": "Kebar-pn",
+      "stamfamilie": [],
+      "toelichting": "Río-canal en Caldea donde Ezequiel tuvo visiones (Ez 1:1,3; 3:15,23; 10:15,20,22; 43:3).",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H3530",
+      "hebreeuws": "כִּבְרָה",
+      "translit": "kivrath",
+      "woordsoort": "sustantivo",
+      "es_concordant": "trecho-distancia",
+      "grondvorm": "trecho-distancia",
+      "stamfamilie": [],
+      "toelichting": "Gn-Raquel-dio-luz-a-Benjamín cuando-todavía-trecho-de-camino-de-Efrata y Gn-Raquel-murió en-camino-trecho-Efrata y 2Re-trecho-camino (Gn 35:16; 48:7; 2Re 5:19).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3531",
+      "hebreeuws": "כְּבָרָה",
+      "translit": "kevarah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "criba-grano",
+      "grondvorm": "criba-grano",
+      "stamfamilie": [],
+      "toelichting": "Dios-zarandeará-Israel como-en-criba; Am 9:9.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3532",
+      "hebreeuws": "כֶּבֶשׂ",
+      "translit": "keves",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cordero",
+      "grondvorm": "cordero",
+      "stamfamilie": [],
+      "toelichting": "Lexema-único. Oveja-joven, cordero. 'Cordero' general.",
+      "voorkomens": 107
+    },
+    {
+      "strong": "H3533",
+      "hebreeuws": "כָּבַשׁ",
+      "translit": "kavash",
+      "woordsoort": "verbo",
+      "es_concordant": "subyugar",
+      "grondvorm": "subyugar",
+      "stamfamilie": [
+        "H3534"
+      ],
+      "toelichting": "Qal: someter, llevar-bajo (tierra Gn 1:28, naciones).",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H3534",
+      "hebreeuws": "כֶּבֶשׁ",
+      "translit": "kevesh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "estrado-pies-kevesh",
+      "grondvorm": "estrado-pies-kevesh",
+      "stamfamilie": [
+        "H3533"
+      ],
+      "toelichting": "Estrado-pies de oro trono-Salomón; 2Cr 9:18.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3535",
+      "hebreeuws": "כִּבְשָׂה",
+      "translit": "kivsah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cordera",
+      "grondvorm": "cordera",
+      "stamfamilie": [
+        "H3532"
+      ],
+      "toelichting": "Hembra-joven oveja (Gn 21:28,29,30; Lv 14:10; Nm 6:14; 2Sa 12:3,4,6).",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H3536",
+      "hebreeuws": "כִּבְשָׁן",
+      "translit": "kivshan",
+      "woordsoort": "sustantivo",
+      "es_concordant": "horno-fundicion",
+      "grondvorm": "horno-fundicion",
+      "stamfamilie": [],
+      "toelichting": "Humo-emanante de horno como imagen-de-juicio (Gn 19:28; Ex 9:8,10; 19:18).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H3537",
+      "hebreeuws": "כַּד",
+      "translit": "kad",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cantaro",
+      "grondvorm": "cantaro",
+      "stamfamilie": [],
+      "toelichting": "Cántaro-de-barro para agua (Rebeca al pozo, Gedeón); concordante.",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H3538",
+      "hebreeuws": "כִּדְבָה",
+      "translit": "kidvah-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "mentira-arameo",
+      "grondvorm": "mentira-arameo",
+      "stamfamilie": [],
+      "toelichting": "Arameo mentira-falsedad (Dn 2:9 palabra-mentira-preparar); cognado Hebr H3577 kazav.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3539",
+      "hebreeuws": "כַּדְכֹּד",
+      "translit": "kadkod",
+      "woordsoort": "sustantivo",
+      "es_concordant": "rubi-piedra-roja",
+      "grondvorm": "rubi-piedra-roja",
+      "stamfamilie": [],
+      "toelichting": "Piedra-roja-preciosa (rubí o carbúnculo) — Is 54:12 'pondré tus ventanas de rubíes'; Ez 27:16.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3540",
+      "hebreeuws": "כְּדָרְלָעֹמֶר",
+      "translit": "kedar-laomer",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Kedor-Laomer-pn",
+      "grondvorm": "Kedor-Laomer-pn",
+      "stamfamilie": [],
+      "toelichting": "Rey-elamita que venció a la liga-cinco-ciudades (Gn 14:1,4,5,9,17).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H3541",
+      "hebreeuws": "כֹּה",
+      "translit": "koh",
+      "woordsoort": "adverbio",
+      "es_concordant": "asi-koh",
+      "grondvorm": "asi-koh",
+      "stamfamilie": [],
+      "toelichting": "Adverbio-demostrativo-modo; precede cita ('así dijo...'). Introducción-formal de discurso-directo.",
+      "voorkomens": 580
+    },
+    {
+      "strong": "H3542",
+      "hebreeuws": "כָּה",
+      "translit": "kah-Aram",
+      "woordsoort": "preposición",
+      "es_concordant": "hasta-aqui-arameo",
+      "grondvorm": "hasta-aqui-arameo",
+      "stamfamilie": [],
+      "toelichting": "Arameo 'hasta-aquí' fin-de-asunto; Dn 7:28.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3543a",
+      "hebreeuws": "כָּהָה-I",
+      "translit": "kahah-I",
+      "woordsoort": "verbo",
+      "es_concordant": "debilitarse-ojos",
+      "grondvorm": "debilitarse-ojos",
+      "stamfamilie": [
+        "H3544"
+      ],
+      "toelichting": "Ojos o luz que se vuelven mate; corazón que desfallece (Gn 27:1; Lv 13:6,21,26,28,39,56; Dt 34:7; Job 17:7; Is 42:4).",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H3543b",
+      "hebreeuws": "כָּהָה-II",
+      "translit": "kahah-II",
+      "woordsoort": "verbo",
+      "es_concordant": "reprender-severamente",
+      "grondvorm": "reprender-severamente",
+      "stamfamilie": [
+        "H3543a"
+      ],
+      "toelichting": "Piel; Elí no-reprende-suficientemente a sus hijos; 1Sa 3:13.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3544",
+      "hebreeuws": "כֵּהֶה",
+      "translit": "keheh",
+      "woordsoort": "adjetivo",
+      "es_concordant": "tenue-mortecino",
+      "grondvorm": "tenue-mortecino",
+      "stamfamilie": [
+        "H3543a"
+      ],
+      "toelichting": "Adjetivo 'tenue/dim' para luz-extinguiendo o-ojo-moribundo distinto de chashak (oscurecerse, H2821).",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H3545",
+      "hebreeuws": "כֵּהָה",
+      "translit": "kehah-relief",
+      "woordsoort": "sustantivo",
+      "es_concordant": "alivio-herida",
+      "grondvorm": "alivio-herida",
+      "stamfamilie": [
+        "H3543a"
+      ],
+      "toelichting": "Sin-alivio para herida-Nínive; Nah 3:19.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3546",
+      "hebreeuws": "כְּהַל",
+      "translit": "kehal-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "poder-arameo-kehal",
+      "grondvorm": "poder-arameo-kehal",
+      "stamfamilie": [],
+      "toelichting": "Dn-arameo-no-poder-explicar-sueño y Dn-arameo-no-en-poder-leer-escrito y Dn-arameo-poder-ver (Dn 2:26; 4:15; 5:8,15,16; 6:21).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H3547",
+      "hebreeuws": "כָּהַן",
+      "translit": "kahan",
+      "woordsoort": "verbo",
+      "es_concordant": "oficiar-sacerdocio",
+      "grondvorm": "oficiar-sacerdocio",
+      "stamfamilie": [
+        "H3548"
+      ],
+      "toelichting": "Piel: actuar-como-sacerdote, servir-cúlticamente.",
+      "voorkomens": 23
+    },
+    {
+      "strong": "H3548",
+      "hebreeuws": "כֹּהֵן",
+      "translit": "kohen",
+      "woordsoort": "sustantivo",
+      "es_concordant": "sacerdote",
+      "grondvorm": "sacerdote",
+      "stamfamilie": [
+        "H3547"
+      ],
+      "toelichting": "Raíz khn (oficiar-sacerdote, H3547). Mediador-religioso. 'Sacerdote' equivalente-estándar.",
+      "voorkomens": 750
+    },
+    {
+      "strong": "H3549",
+      "hebreeuws": "כָּהֵן",
+      "translit": "kahen-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "sacerdote-arameo",
+      "grondvorm": "sacerdote-arameo",
+      "stamfamilie": [
+        "H3548"
+      ],
+      "toelichting": "Arameo cognado de H3548; en Esdras-Daniel (Esd 5:2; 6:9,16,18,20; 7:12,13,16,21,24).",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H3550",
+      "hebreeuws": "כְּהֻנָּה",
+      "translit": "kehunnah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "sacerdocio",
+      "grondvorm": "sacerdocio",
+      "stamfamilie": [
+        "H3548"
+      ],
+      "toelichting": "De kahan (servir-como-sacerdote); oficio y servicio-sacerdotal.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H3551",
+      "hebreeuws": "כַּו",
+      "translit": "kav-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ventana-arameo",
+      "grondvorm": "ventana-arameo",
+      "stamfamilie": [],
+      "toelichting": "Arameo ventana cámara-superior-Daniel hacia-Jerusalén; Dn 6:10.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3552",
+      "hebreeuws": "כּוּב",
+      "translit": "kuv",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Kub-pn-pueblo",
+      "grondvorm": "Kub-pn-pueblo",
+      "stamfamilie": [],
+      "toelichting": "Pueblo-aliado-Egipto; Ez 30:5.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3553",
+      "hebreeuws": "כּוֹבַע",
+      "translit": "kova",
+      "woordsoort": "sustantivo",
+      "es_concordant": "casco-guerra",
+      "grondvorm": "casco-guerra",
+      "stamfamilie": [],
+      "toelichting": "Casco-bronce-protector para guerrero (1Sa 17:5,38; 2Cr 26:14; Is 59:17; Jer 46:4; Ez 23:24; 27:10; 38:5).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H3554",
+      "hebreeuws": "כָּוָה",
+      "translit": "kavah",
+      "woordsoort": "verbo",
+      "es_concordant": "quemar-marca",
+      "grondvorm": "quemar-marca",
+      "stamfamilie": [
+        "H3555"
+      ],
+      "toelichting": "Quemar o cauterizar con hierro-candente — Pr 6:28 '¿podrá uno andar sobre brasas sin quemarse los pies?'.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3555",
+      "hebreeuws": "כְּוִיָּה",
+      "translit": "keviyah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "quemadura-marca",
+      "grondvorm": "quemadura-marca",
+      "stamfamilie": [
+        "H3554"
+      ],
+      "toelichting": "Ex-ojo-por-ojo-diente-por-diente-mano-por-mano-quemadura-por-quemadura y Is-no-te-quemarás-fuego (Ex 21:25; Is 43:2).",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3556",
+      "hebreeuws": "כּוֹכָב",
+      "translit": "kochav",
+      "woordsoort": "sustantivo",
+      "es_concordant": "estrella",
+      "grondvorm": "estrella",
+      "stamfamilie": [],
+      "toelichting": "Cuerpo-celeste; metafórico para descendientes y gobernantes.",
+      "voorkomens": 37
+    },
+    {
+      "strong": "H3557",
+      "hebreeuws": "כּוּל",
+      "translit": "kul",
+      "woordsoort": "verbo",
+      "es_concordant": "contener-sustentar",
+      "grondvorm": "contener-sustentar",
+      "stamfamilie": [],
+      "toelichting": "Pilpel/Hifil: sostener, mantener-vivo, alojar.",
+      "voorkomens": 35
+    },
+    {
+      "strong": "H3558",
+      "hebreeuws": "כּוּמָז",
+      "translit": "kumaz",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ajorca-brazalete",
+      "grondvorm": "ajorca-brazalete",
+      "stamfamilie": [],
+      "toelichting": "Ex-hombres-y-mujeres-trajeron-zarcillos-pendientes-y-brazaletes y Nm-brazaletes-que-encontramos-trajimos-ofrenda (Ex 35:22; Nm 31:50).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3559a",
+      "hebreeuws": "כּוּן",
+      "translit": "kun-I",
+      "woordsoort": "verbo",
+      "es_concordant": "estar-firme",
+      "grondvorm": "estar-firme",
+      "stamfamilie": [
+        "H3559b"
+      ],
+      "toelichting": "Raíz kwn. Estable, firme; causativo establecer.",
+      "voorkomens": 219
+    },
+    {
+      "strong": "H3559b",
+      "hebreeuws": "נָכוֹן",
+      "translit": "nakon",
+      "woordsoort": "adjetivo",
+      "es_concordant": "firmemente-establecido",
+      "grondvorm": "firmemente-establecido",
+      "stamfamilie": [
+        "H3559a"
+      ],
+      "toelichting": "Aquel-que-está-firme sobre sus-pies; Job 12:5.",
+      "voorkomens": 24
+    },
+    {
+      "strong": "H3560",
+      "hebreeuws": "כּוּן",
+      "translit": "kun-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Kun-pn-ciudad",
+      "grondvorm": "Kun-pn-ciudad",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-aramea donde David tomó bronce; 1Cr 18:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3561",
+      "hebreeuws": "כַּוָּן",
+      "translit": "kavvan",
+      "woordsoort": "sustantivo",
+      "es_concordant": "torta-sagrada",
+      "grondvorm": "torta-sagrada",
+      "stamfamilie": [],
+      "toelichting": "Torta-ritual para reina-cielo — Jer 7:18 'mujeres amasan masa para hacer tortas a la Reina-del-Cielo'; 44:19.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3562",
+      "hebreeuws": "כּוֹנַנְיָהוּ",
+      "translit": "konanyahu",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Konanyahu-pn",
+      "grondvorm": "Konanyahu-pn",
+      "stamfamilie": [],
+      "toelichting": "Levita-supervisor bajo Ezequías y Josías (1Cr 15:22; 2Cr 31:12,13; 35:9). 'YHWH-ha-establecido'.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3563a",
+      "hebreeuws": "כּוֹס",
+      "translit": "kos",
+      "woordsoort": "sustantivo",
+      "es_concordant": "copa",
+      "grondvorm": "copa",
+      "stamfamilie": [],
+      "toelichting": "Vasija-bebida; frecuentemente metafórico para destino o juicio.",
+      "voorkomens": 34
+    },
+    {
+      "strong": "H3563b",
+      "hebreeuws": "כּוֹס-II",
+      "translit": "kos-owl",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lechuza-pequena",
+      "grondvorm": "lechuza-pequena",
+      "stamfamilie": [
+        "H3563a"
+      ],
+      "toelichting": "Lechuzas-impuras en lista-aves y lechuza-soledad-salmo (Lv 11:17; Dt 14:16; Sal 102:7).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3564",
+      "hebreeuws": "כּוּר",
+      "translit": "kur",
+      "woordsoort": "sustantivo",
+      "es_concordant": "horno-crisol",
+      "grondvorm": "horno-crisol",
+      "stamfamilie": [],
+      "toelichting": "Horno-fundición para refinación-metal distinto de mits'raf (H4715) y tannur (H8574).",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H3565",
+      "hebreeuws": "בּוֹר עָשָׁן",
+      "translit": "bor-ashan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Bor-Ashan-pn-lugar",
+      "grondvorm": "Bor-Ashan-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "'Pozo-humeante' ciudad-Judá; 1Sa 30:30.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3565+",
+      "hebreeuws": "בּוֹר עָשָׁן",
+      "translit": "bor-ashan-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Bor-Ashan-pn-plus",
+      "grondvorm": "Bor-Ashan-pn-plus",
+      "stamfamilie": [
+        "H3565"
+      ],
+      "toelichting": "Variante-+ H3565.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3566",
+      "hebreeuws": "כּוֹרֶשׁ",
+      "translit": "koresh",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ciro-pn",
+      "grondvorm": "Ciro-pn",
+      "stamfamilie": [],
+      "toelichting": "Ciro-el-Grande, emperador-persa que conquistó Babilonia 539 a.C. y dio permiso de retorno y reconstrucción-templo (Esd 1:1,2,7,8; 3:7; 4:3,5; 5:13,14,17; 6:3,14; Is 44:28; 45:1; Dn 1:21; 6:28; 10:1).",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H3567",
+      "hebreeuws": "כּוֹרֶשׁ",
+      "translit": "koresh-Aram",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cores-Aram-pn",
+      "grondvorm": "Cores-Aram-pn",
+      "stamfamilie": [
+        "H3566"
+      ],
+      "toelichting": "Variante-aramea del nombre-Ciro-Kores (Esd 4:3,5; 5:13,14,17; 6:3,14; Dn 1:21; 6:29; 10:1).",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H3568a",
+      "hebreeuws": "כּוּשׁ",
+      "translit": "kush",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cus-pn",
+      "grondvorm": "Cus-pn",
+      "stamfamilie": [],
+      "toelichting": "País al sur de Egipto.",
+      "voorkomens": 29
+    },
+    {
+      "strong": "H3568b",
+      "hebreeuws": "כּוּשׁ-II",
+      "translit": "kush-II",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Kush-pn-2",
+      "grondvorm": "Kush-pn-2",
+      "stamfamilie": [
+        "H3568a"
+      ],
+      "toelichting": "Salmo-título Sal 7:1 Kush-Benjaminita; sub-sentido H3568a.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3569",
+      "hebreeuws": "כּוּשִׁי",
+      "translit": "kushi",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cusita-pn",
+      "grondvorm": "Cusita-pn",
+      "stamfamilie": [
+        "H3568a"
+      ],
+      "toelichting": "Pueblo de Cus (Etiopía).",
+      "voorkomens": 29
+    },
+    {
+      "strong": "H3570",
+      "hebreeuws": "כּוּשִׁי",
+      "translit": "kushi-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cusi-pn-padre-Sofonias",
+      "grondvorm": "Cusi-pn-padre-Sofonias",
+      "stamfamilie": [
+        "H3569"
+      ],
+      "toelichting": "Cusi padre del profeta Sofonías — Jer 36:14 'Cusi'; Sof 1:1.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3571",
+      "hebreeuws": "כֻּשִׁית",
+      "translit": "kushith",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cusita-mujer-pn",
+      "grondvorm": "Cusita-mujer-pn",
+      "stamfamilie": [
+        "H3568a"
+      ],
+      "toelichting": "Nm-Miriam-y-Aarón-hablaron-contra-Moisés-por-mujer-cusita-que-tomó (Nm 12:1 dos-veces).",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3572",
+      "hebreeuws": "כּוּשָׁן",
+      "translit": "kushan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cushan-pn-Madian",
+      "grondvorm": "Cushan-pn-Madian",
+      "stamfamilie": [],
+      "toelichting": "Tiendas-Madián sacudidas; Hab 3:7.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3573",
+      "hebreeuws": "כּוּשַׁן רִשְׁעָתַיִם",
+      "translit": "kushan-rishatayim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cusan-Risataim-pn",
+      "grondvorm": "Cusan-Risataim-pn",
+      "stamfamilie": [],
+      "toelichting": "Opresor-arameo-mesopotámico tiempo-Jueces (Jue 3:8,10 dos-veces). 'Cusita-doble-impiedad'.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3573+",
+      "hebreeuws": "כּוּשַׁן רִשְׁעָתַיִם",
+      "translit": "kushan-rishatayim-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Kushan-Rishatayim-pn-rey",
+      "grondvorm": "Kushan-Rishatayim-pn-rey",
+      "stamfamilie": [
+        "H3573"
+      ],
+      "toelichting": "'Doble-impío-Cushan' primer-opresor-jueces; variante-+.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3574",
+      "hebreeuws": "כּוֹשָׁרָה",
+      "translit": "kosharah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "prosperidad-estado",
+      "grondvorm": "prosperidad-estado",
+      "stamfamilie": [],
+      "toelichting": "Dios-saca-solitarios a-prosperidad; Sal 68:6.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3575",
+      "hebreeuws": "כּוּתָה",
+      "translit": "cutha",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cuta-pn-Babilonia",
+      "grondvorm": "Cuta-pn-Babilonia",
+      "stamfamilie": [],
+      "toelichting": "2Re-y-rey-de-Asiria-trajo-pueblo-de-Babel-y-de-Cuta y 2Re-hombres-de-Cut-hicieron-Nergal (2Re 17:24,30).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3576",
+      "hebreeuws": "כָּזַב",
+      "translit": "kazav",
+      "woordsoort": "verbo",
+      "es_concordant": "mentir-kazav",
+      "grondvorm": "mentir-kazav",
+      "stamfamilie": [
+        "H3577"
+      ],
+      "toelichting": "Piel: decir-mentiras; distinto de shaqar 'engañar'.",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H3577",
+      "hebreeuws": "כָּזָב",
+      "translit": "kazav-noun",
+      "woordsoort": "sustantivo",
+      "es_concordant": "mentira",
+      "grondvorm": "mentira",
+      "stamfamilie": [
+        "H3576"
+      ],
+      "toelichting": "De kazav (mentir); declaración-falsa, palabras-engañosas.",
+      "voorkomens": 31
+    },
+    {
+      "strong": "H3578",
+      "hebreeuws": "כּוֹזֵבָא",
+      "translit": "kozeva",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Kozeva-pn-ciudad",
+      "grondvorm": "Kozeva-pn-ciudad",
+      "stamfamilie": [],
+      "toelichting": "Ciudad habitantes Sela-rama-Judá; 1Cr 4:22.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3579",
+      "hebreeuws": "כָּזְבִּי",
+      "translit": "kozbi",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cozbi-pn-madianita",
+      "grondvorm": "Cozbi-pn-madianita",
+      "stamfamilie": [],
+      "toelichting": "Nm-nombre-mujer-madianita-muerta-Cozbi-hija-Zur-jefe-Madián y Nm-Moisés-mata-madianitas-porque-Cozbi (Nm 25:15,18). Princesa-madianita-Zimri.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3580",
+      "hebreeuws": "כְּזִיב",
+      "translit": "keziv",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Keziv-pn",
+      "grondvorm": "Keziv-pn",
+      "stamfamilie": [],
+      "toelichting": "Lugar donde Sela nació; Gn 38:5.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3581a",
+      "hebreeuws": "כֹּחַ",
+      "translit": "koach-lizard",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lagarto-koach",
+      "grondvorm": "lagarto-koach",
+      "stamfamilie": [],
+      "toelichting": "Reptil-impuro (no H3581 fuerza); Lv 11:30.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3581b",
+      "hebreeuws": "כֹּחַ",
+      "translit": "koach",
+      "woordsoort": "sustantivo",
+      "es_concordant": "fuerza",
+      "grondvorm": "fuerza",
+      "stamfamilie": [],
+      "toelichting": "Lexema-único. Fuerza-física, capacidad. 'Fuerza' estándar.",
+      "voorkomens": 126
+    },
+    {
+      "strong": "H3582",
+      "hebreeuws": "כָּחַד",
+      "translit": "kachad",
+      "woordsoort": "verbo",
+      "es_concordant": "ocultar-ocultarse",
+      "grondvorm": "ocultar-ocultarse",
+      "stamfamilie": [],
+      "toelichting": "Nifal: quedar-escondido; Piel/Hifil: retener, borrar; concordante.",
+      "voorkomens": 32
+    },
+    {
+      "strong": "H3583",
+      "hebreeuws": "כָּחַל",
+      "translit": "kachal",
+      "woordsoort": "verbo",
+      "es_concordant": "pintar-ojos",
+      "grondvorm": "pintar-ojos",
+      "stamfamilie": [],
+      "toelichting": "Qal-pasivo; ojos-maquillados con polvo-negro; Ez 23:40.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3584",
+      "hebreeuws": "כָּחַשׁ",
+      "translit": "kachash",
+      "woordsoort": "verbo",
+      "es_concordant": "negar-ser-falso",
+      "grondvorm": "negar-ser-falso",
+      "stamfamilie": [
+        "H3585",
+        "H3586"
+      ],
+      "toelichting": "Piel: negar, mentir, fingir.",
+      "voorkomens": 22
+    },
+    {
+      "strong": "H3585",
+      "hebreeuws": "כַּחַשׁ",
+      "translit": "kachash-noun",
+      "woordsoort": "sustantivo",
+      "es_concordant": "decaimiento-engano",
+      "grondvorm": "decaimiento-engano",
+      "stamfamilie": [
+        "H3584"
+      ],
+      "toelichting": "Decadencia-flacura o falsedad-vacua de cuerpo y palabra (Job 16:8; Sal 59:13; Os 7:3; 10:13; 11:12; Nah 3:1).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H3586",
+      "hebreeuws": "כֶּחָשׁ",
+      "translit": "kechash",
+      "woordsoort": "adjetivo",
+      "es_concordant": "mentiroso-kechash",
+      "grondvorm": "mentiroso-kechash",
+      "stamfamilie": [
+        "H3584"
+      ],
+      "toelichting": "Pueblo-mentiroso hijos-no-escuchan-YHWH; Is 30:9.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3587",
+      "hebreeuws": "כִּי",
+      "translit": "ki-burn",
+      "woordsoort": "sustantivo",
+      "es_concordant": "marca-de-fuego",
+      "grondvorm": "marca-de-fuego",
+      "stamfamilie": [],
+      "toelichting": "Marca-quemadura en lugar de belleza; Is 3:24.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3588a",
+      "hebreeuws": "כִּי",
+      "translit": "ki-because",
+      "woordsoort": "conjunción",
+      "es_concordant": "porque-ki",
+      "grondvorm": "porque-ki",
+      "stamfamilie": [
+        "H3588b",
+        "H3588c"
+      ],
+      "toelichting": "Raíz ky. Función-causal/declarativa primaria. 'Porque' cubre uso-causal.",
+      "voorkomens": 4475
+    },
+    {
+      "strong": "H3588b",
+      "hebreeuws": "כִּי",
+      "translit": "ki-truly",
+      "woordsoort": "conjunción",
+      "es_concordant": "ciertamente-ki",
+      "grondvorm": "ciertamente-ki",
+      "stamfamilie": [
+        "H3588a"
+      ],
+      "toelichting": "Variantes-adversativas de ki (H3588a). 'Ciertamente' uso-asertivo.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3588c",
+      "hebreeuws": "כִּי-III",
+      "translit": "ki-although",
+      "woordsoort": "conjunción",
+      "es_concordant": "aunque-ki",
+      "grondvorm": "aunque-ki",
+      "stamfamilie": [
+        "H3588a"
+      ],
+      "toelichting": "Uso-concesivo de ki 'aunque' (Jos 17:18; Sal 23:4; 49:19; Jer 4:30; 49:16; 51:53; Mi 7:8; Nah 1:10).",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3589",
+      "hebreeuws": "כִּיד",
+      "translit": "kid",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ruina-kid",
+      "grondvorm": "ruina-kid",
+      "stamfamilie": [],
+      "toelichting": "Hapax Job 21:20 ver-propia-ruina; raíz incierta, posible √kud perdición.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3590",
+      "hebreeuws": "כִּידוֹד",
+      "translit": "kidod",
+      "woordsoort": "sustantivo",
+      "es_concordant": "chispas-fuego",
+      "grondvorm": "chispas-fuego",
+      "stamfamilie": [],
+      "toelichting": "De boca-Leviatán salen-chispas; Job 41:19.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3591",
+      "hebreeuws": "כִּידוֹן",
+      "translit": "kidon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "jabalina",
+      "grondvorm": "jabalina",
+      "stamfamilie": [],
+      "toelichting": "Lanza-arrojadiza-ligera distinto de chanit (H2595) y romach (H7420) por aspecto-distancia (Jos 8:18,26; 1Sa 17:6,45; Jer 6:23; 50:42; Job 39:23; 41:29).",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H3592",
+      "hebreeuws": "כִּידֹן",
+      "translit": "kidon-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Kidon-pn-era",
+      "grondvorm": "Kidon-pn-era",
+      "stamfamilie": [],
+      "toelichting": "Era donde Uza tocó arca; 1Cr 13:9.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3593",
+      "hebreeuws": "כִּידוֹר",
+      "translit": "kidor",
+      "woordsoort": "sustantivo",
+      "es_concordant": "embate-kidor",
+      "grondvorm": "embate-kidor",
+      "stamfamilie": [],
+      "toelichting": "Impíos-asaltados por día-de-asalto-Dios; Job 15:24.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3594",
+      "hebreeuws": "כִּיּוּן",
+      "translit": "kiyyun",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Kiyyun-pn-deidad",
+      "grondvorm": "Kiyyun-pn-deidad",
+      "stamfamilie": [],
+      "toelichting": "Deidad-babilónica Kewan-Saturno; Am 5:26.",
+      "voorkomens": 1
+    }
+  ]
+}

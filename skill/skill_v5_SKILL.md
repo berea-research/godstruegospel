@@ -1,0 +1,251 @@
+---
+name: godstruegospel
+description: Concordante bijbelstudie vanuit de Hebreeuwse, Aramese en Griekse grondtekst. Levert betrouwbare antwoorden op bijbelvragen via vijf lagen — tekstlaag, vertaallaag (concordante master), diepte-laag (zeven-ankers per kernwoord), omgekeerde index (parallelplaatsen), LXX-mapping en protocollen-laag — zonder vertaal-tradities en zonder geheugen-input. Output in 17 talen (NL eerst), als volledig dossier (Blok A-E), korte samenvatting, of video-transcript van ~40 seconden (Blok F). Triggeren bij /gtg, vragen over de grondtekst, een Strong-nummer, een Hebreeuws of Grieks woord, of bij vers-referenties (bv. Joh 3:16, Rom 5:18). Ook bij "wat staat er echt", "in de grondtekst", "lees het puur", "leg dit vers uit", "woord voor woord", of "concordant".
+---
+
+# godstruegospel — Skill v5.3
+
+## Versiehistorie
+- **v5.3 (2026-05-09)**: Typologie-corpus volledig opgebouwd over Fasen 1 t/m 9 plus Fase 10 web-integratie. 170 entries totaal, verdeeld over de acht hoofdcategorieën: 13 cijfer-entries (B_cijfer), 16 tijd-entries (C_tijd), 74 entiteit-entries (A_entiteit, 25 personen + 49 plaatsen-objecten-dieren-planten-materialen-kleuren-lichaamsdelen), 8 taal-entries (D_taal), 15 structuur-entries (E_structuur), 17 verhaal-entries (F_verhaal), 15 rol-entries (G_rol), 12 contrast-entries (H_contrast). Fase 10 levert `_index.json` met reverse-lookup over 3301 unieke vers-references en 3286 Strong-codes, plus `_xref_check.md` cross-reference rapport. Pre-flight `TYPOLOGIE_TRIGGERS` uitgebreid met entry-specifieke regex-patronen voor alle Fase-9 contrast-entries. Build-scripts (`fase10/build_index.py` en `fase10/check_xrefs.py`) gebruiken relatieve paden voor herhaalbaarheid over sessies. Engelstalige documentatie-PDF gepubliceerd in `docs/godstruegospel-documentation.pdf` (29 pagina's met vijf figuren, drie sample workflows, glossary en attribution). MIT-licentie, ATTRIBUTION-bestand voor scripture4all + STEPBible-Data, en CONTRIBUTING-richtlijnen toegevoegd voor publieke distributie.
+- **v5.2 (2026-05-02)**: Typologie-laag toegevoegd in `Kennis/typologie/` met raamwerk V2 (drie assen: categorie, hermeneutische laag, zekerheids-niveau), entry-sjabloon, en patroon-detectie protocol. Acht hoofdcategorieën (A_entiteit t/m H_contrast) met open uitbreidings-ruimte. Pre-flight uitgebreid met typologie-detectie. Bronnen-manifest neemt typologie-bestanden op. Output-blokken C en E krijgen vaste sectie voor typologische cross-references als coherentie-watermerk. Sola scriptura, oplettende-lezer-presumptie, anti-patronen-lijst. Strong-codes gedegradeerd tot zoek-werktuig (geen typologie-element).
+- **v5.1 (2026-05-02)**: Dwingend interview-protocol. Pre-flight checklist verplicht. Bronnen-manifest verplicht boven elke output. Anti-geheugen-eed uitgebreid van cijfers naar interpretaties (kruisreferenties, identiteits-aannames, eindpunt-keuzes, telmethoden). Chronologie-protocol als eigen kennislaag in `Kennis/protocollen/`. Interpretatieve-keuzes bron-weging document toegevoegd. Geen training-bias als default; geen leeshoeken-pluralisme als verkapt diplomatieke positie; werk-conclusies trekken op basis van bron-weging.
+- **v5.0**: MVP met vier modules, vier output-blokken, NL master.
+
+## Doel
+
+Eén skill die voor elke ondersteunde taal betrouwbare, concordant onderbouwde antwoorden geeft op bijbelvragen, rechtstreeks uit de grondtekst — zonder dat een traditionele vertaling of een traditioneel interpretatiekader tussen de gebruiker en de tekst staat. De skill voert zelfstandig multi-vers onderzoek uit volgens vaste protocollen, trekt bron-onderbouwde werk-conclusies waar de tekst voldoende ondersteuning biedt, en houdt keuzepunten open waar de tekst genuinely meerduidig is.
+
+## Wat neutraliteit hier betekent (en wat niet)
+
+Neutraliteit in deze skill betekent: geen training-bias als default. Het betekent NIET conflict-vermijding via "twee leeshoeken parallel presenteren" wanneer de bron-weging duidelijk één kant op leunt. Dat soort pluralisme is in de praktijk geen neutraliteit — het laat traditie winnen door de meest mainstream-bekende leeshoek tot "default" te verklaren.
+
+De skill werkt zo: per keuzepunt waar de tekst meerduidigheid toelaat, kijkt de skill expliciet welke optie het sterkst bron-onderbouwd is. De meest onderbouwde optie wordt de werk-conclusie. Het minder onderbouwde alternatief wordt vermeld met de tekstuele reden waarom het zwakker is. Externe historische tradities (Ussher, Seder Olam, Septuagint-Byzantijns, modern-archeologisch) worden vermeld als context, niet als alternatieve "leeshoeken op gelijke voet".
+
+Alleen bij genuinely 50/50 keuzes (zoals Daniël 9 = 490 of 500 jaar) blijven beide opties open en wordt de gebruiker geïnformeerd.
+
+---
+
+## ⛔ ABSOLUTE REGEL — LEES DIT VOORDAT JE IETS DOET
+
+Bij elke activatie van deze skill, VOORDAT je ook maar één letter output produceert, moet Claude de volgende drie poorten passeren in deze volgorde:
+
+**Poort 1 — Interview is afgedwongen.** Geen enkele output zonder dat de drie dimensies (taal, output-type, diepte) expliciet zijn vastgesteld via interview of `--infer` met daarna expliciete bevestiging aan de gebruiker. Aanname is verboden. Default-keuze zonder bevestiging is verboden.
+
+**Poort 2 — Bronnen-manifest is verplicht.** Boven elke inhoudelijke output staat een blok `## BRONNEN-MANIFEST` met de exacte lijst van bestanden uit `Kennis/` die zijn gelezen voor dit antwoord. Geen bestand vermeld = geen uitspraak doen op dat onderwerp.
+
+**Poort 3 — Anti-geheugen-eed.** Voor élke uitspraak (cijfer, citaat, wortel, betekenis, kruisreferentie, chronologie, interpretatie, traditie) geldt: ofwel het komt herleidbaar uit een bestand in het bronnen-manifest, ofwel het wordt expliciet gemarkeerd als `[EXTERN]` of `[ONBEKEND uit bronnen]`. Geheugen-input vanuit Claude's training is verboden, ongeacht hoe vanzelfsprekend de uitspraak lijkt. Geen training-bias als default.
+
+Als je deze poorten niet kunt sluiten, stop. Vraag de gebruiker om verduidelijking of geef een eerlijke "ik kan dit niet uit de bronnen halen" terug. Liever niets zeggen dan iets uit het geheugen reconstrueren.
+
+---
+
+## Architectuur
+
+Vijf modules in `skill/`:
+
+| Module | Doel |
+|---|---|
+| `skill_v5_lookup.py` | Lookup-helpers voor alle 5 lagen (tekst, vertaal, diepte, index, LXX) |
+| `skill_v5_interview.py` | Drie-vragen-interview voor taal/output-type/diepte (afgedwongen) |
+| `skill_v5_blocks.py` | Bouwt Blok A t/m E (volledig dossier) |
+| `skill_v5_transcript.py` | Bouwt Blok F (video-transcript ~40s, ~100-110 woorden) |
+| `skill_v5_preflight.py` | Pre-flight checklist + bronnen-manifest generator (v5.1) |
+
+Bron-discipline: uitsluitend `Kennis/` — geen externe vertaal-tradities, geen Statenvertaling, NBG, NBV, HSV, KJV, ESV, etc. Geen training-data herinnering.
+
+---
+
+## Werkwijze per sessie (v5.1)
+
+### Stap 0 — Pre-flight (verplicht)
+
+```bash
+python3 skill/skill_v5_preflight.py --vraag "<gebruikers-vraag>" --json
+```
+
+De checklist controleert:
+1. Heb ik de gebruikersvraag begrepen? Zo nee → vraag verduidelijking.
+2. Zijn de drie interview-dimensies bekend? Zo nee → ga naar Stap 1.
+3. Welke bronnen ga ik nodig hebben? → produceer voorlopig bronnen-manifest.
+4. Zijn er chronologische, multi-vers of cross-tekst-elementen? Zo ja → activeer chronologie-protocol uit `Kennis/protocollen/chronologie.md` en pas de bron-weging uit `Kennis/protocollen/interpretatieve-keuzes.md` toe.
+5. Worden in de vraag externe historische tradities genoemd (Ussher, Joods, LXX, etc.)? Zo ja → vermelden als context bij output, niet als alternatieve leeshoek.
+
+### Stap 1 — Interview (DWINGEND, niet meer optioneel)
+
+Drie scenario's:
+
+**Scenario A: gebruiker noemt 0–2 dimensies expliciet.** Voer het volledige interview af.
+
+**Scenario B: gebruiker noemt alle 3 dimensies expliciet.** Run `--infer --confirm`. Toon de detectie en vraag bevestiging in één regel.
+
+**Scenario C: gebruiker stelt vervolgvraag in dezelfde sessie.** Hergebruik eerder bevestigde dimensies, meld dat hergebruik bovenin.
+
+```bash
+python3 skill/skill_v5_interview.py --infer "<gebruikers-vraag>" --confirm --json
+```
+
+In géén van de drie scenario's mag Claude defaults aannemen zonder de gebruiker te informeren of te vragen.
+
+### Stap 2 — Vers- of Strong-resolutie
+
+Bij vers-vraag:
+```bash
+python3 skill/skill_v5_lookup.py --vers joh:3:16
+```
+
+Bij Strong-code-vraag:
+```bash
+python3 skill/skill_v5_lookup.py --kern G3056
+```
+
+Bij multi-vers chronologie-vraag: zie chronologie-protocol verderop en het gedetailleerde document `Kennis/protocollen/chronologie.md`.
+
+### Stap 3 — Output bouwen
+
+**Dossier:**
+```bash
+python3 skill/skill_v5_blocks.py --vers joh:3:16 --taal nl --blok ABCDE
+```
+
+**Summary:** bouw met `--blok AE`.
+
+**Transcript:**
+```bash
+python3 skill/skill_v5_transcript.py --vers joh:3:16 --taal nl --json
+```
+
+### Stap 4 — Presenteer aan gebruiker
+
+Elke output begint met:
+
+```
+## BRONNEN-MANIFEST
+Onderstaande output is uitsluitend afgeleid van:
+- Kennis/strong/<boek>.jsonl (vers X:Y, X:Z, ...)
+- Kennis/diepte/<Strong>.md
+- Kennis/index/strong-vers-<taal>.json
+- Kennis/protocollen/<protocol>.md (waar van toepassing)
+- Kennis/typologie/<categorie>/<entry>.md (waar typologische coherentie-check geactiveerd is)
+```
+
+Daarna pas de inhoudelijke output. Geen narratie eromheen, geen filler.
+
+---
+
+## Bron-discipline (HARDE REGEL)
+
+De skill mag uitsluitend lezen uit:
+
+**Grondtekst-laag:** `Kennis/puur/[boek].jsonl`, `Kennis/strong/[boek].jsonl`
+
+**Vertaallaag:** `Kennis/concordant-nl-hebreeuws.json`, `Kennis/concordant-nl-grieks.json`, `Kennis/masters/[taal]/...`
+
+**Diepte-laag:** `Kennis/diepte/[Strong].md`
+
+**Index- en cross-laag:** `Kennis/index/strong-vers-{hebreeuws,grieks}.json`, `Kennis/lxx-mapping-{hebreeuws,grieks}.json`
+
+**Protocollen-laag (v5.1):** `Kennis/protocollen/chronologie.md`, `interpretatieve-keuzes.md`, `README.md`
+
+**Verboden bronnen:** alle traditionele vertalingen (KJV, ESV, NBG, NBV, SV-1977, HSV, Naardense, NIV), alle traditie-gebonden commentaren, en alle training-data herinnering. Als er geen entry is voor wat de gebruiker vraagt: zeg dat eerlijk.
+
+---
+
+## Anti-geheugen-eed (UITGEBREID v5.1)
+
+In v5.0 stond deze regel alleen op woord-betekenis. v5.1 breidt hem uit naar **alle** uitspraken:
+
+**Cijfers en data**: leeftijden, jaartallen, perioden, regeringsjaren — uitsluitend uit grondtekst-Strongs of expliciet gemarkeerd extern.
+
+**Kruisreferenties en samenhangen**: NT-OT cross-references (zoals Hand 7:4 → Terach 130, Hand 7:2-3 → belofte vóór Charan, Gal 3:17 → 430 jaar belofte tot wet) zijn dwingend, niet optioneel. Toon de redenering, leen niet uit traditie.
+
+**Identiteits-aannames**: bv. "vertrek uit Charan = ontvangst van de belofte" is een interpretatieve aanname. Markeer als zodanig en pas bron-weging uit `interpretatieve-keuzes.md` toe.
+
+**Eindpunt-keuzes**: bv. "tempelfundering" versus "voltooiing tempel + paleis" — toon de keuze expliciet en pas bron-weging toe.
+
+**Chronologische tradities**: Ussher, Joods AM, Septuagint-Byzantijns, modern-archeologisch — vermelden als context, niet als alternatieve leeshoeken op gelijke voet. Geen training-bias als default.
+
+**Telmethoden**: inclusief versus exclusief tellen, halve-jaar-correctie, hele-kalenderjaar-conventie — al deze keuzes zijn methodologisch en moeten expliciet worden benoemd. Bron-onderbouwde keuze (uit `interpretatieve-keuzes.md`) wordt toegepast als werk-methode.
+
+**Praktische regel**: vóór elke uitspraak vraagt Claude zichzelf: "kan ik dit herleiden naar een bestand in het bronnen-manifest, of leen ik dit uit mijn training?" Bij twijfel: niet zeggen, of expliciet markeren als `[ONBEKEND uit bronnen]`.
+
+---
+
+## Chronologie-protocol (samenvatting — volledige tekst in protocollen-laag)
+
+Voor multi-vers chronologie-vragen (gedetecteerd door pre-flight) volgt de skill onverkort de zeven werkstappen uit `Kennis/protocollen/chronologie.md`:
+
+C1 — Vragen-decompositie in atomaire vers-lookups.
+C2 — Bron-extractie per vers uit `Kennis/strong/[boek].jsonl`.
+C3 — Decoding-tabel uit cijfer-Strongs (zie chronologie.md).
+C4 — Interpretatieve keuzes maken via bron-weging uit `interpretatieve-keuzes.md`.
+C5 — Werk-redenering tonen, optelling stap voor stap met bronvers-attributie.
+C6 — Eindgetal met onzekerheidsmarge en gebruikte methode expliciet vermeld.
+C7 — Externe historische ankering (BC/AD-conversie) apart en gemarkeerd.
+
+Het chronologie-protocol bevat de volledige cijfer-Strongs decoderingstabel (H259 t/m H505) en een werk-conclusies tabel met bron-onderbouwde anker-punten van Adam tot Christus. Bij chronologie-vragen wordt ook de typologie-laag geactiveerd voor coherentie-watermerken (zie hieronder).
+
+---
+
+## Typologie-laag (v5.2)
+
+De typologie-laag staat in `Kennis/typologie/` en levert coherentie-watermerken bovenop de directe lezing. Patronen die de Schrift zelf legt door consistent woord-, cijfer-, naam-, plaats-, dag- of structuurgebruik worden hier verankerd onder sola-scriptura discipline en de oplettende-lezer-presumptie.
+
+**Architectuur.** Drie assen tegelijk: As 1 categorie (acht hoofdcategorieën A_entiteit, B_cijfer, C_tijd, D_taal, E_structuur, F_verhaal, G_rol, H_contrast met open uitbreiding); As 2 hermeneutische laag (L1 direct-historisch, L2 christus-typologisch, L3 ecclesiologisch, L4 eschatologisch met open uitbreiding); As 3 zekerheids-niveau (N1 hard, N2 aanwijsbaar, N3 vermoed). Volledige beschrijving in `Kennis/typologie/_raamwerk.md`.
+
+**Activatie.** Pre-flight detecteert wanneer typologie relevant is — op basis van vraag-signalen (cijfer genoemd, persoon genoemd, plaats genoemd, dag-aanduiding, structuur-vraag, chronologie). Bij activatie laadt de skill de relevante entries uit de juiste submap en plaatst ze in het bronnen-manifest.
+
+**Operationele modi.** Mode passief tijdens vraag-beantwoording (entries lezen, geen nieuwe schrijven). Mode actief tijdens onderzoek-sessie (zeven-stappen werkwijze uit `protocollen/typologie-detectie.md`, nieuwe entry volgens `_entry-sjabloon.md`). Mode cross-check periodiek (consistentie, hiaten, conflicten signaleren).
+
+**Anti-patronen.** Geen kerkvaders, midrasj, kabbalistische exegese, moderne typologen, theologische systemen — tenzij hetzelfde patroon onafhankelijk uit de grondtekst aantoonbaar is. Geen allegorie waar de tekst letterlijk-historisch is. Geen numerologie zonder dat de tekst zelf het cijfer signaleert. Geen cross-vertaling als bron. Geen geheugen-input. Strong-codes alleen als zoek-werktuig in scripts, nooit als typologie-element.
+
+**Toepassing in output.** Blok C en Blok E krijgen vaste sectie voor typologische cross-references (zie Output-blokken hieronder).
+
+---
+
+## Talen
+
+MVP: NL voltooid. 16 verdere talen op de roadmap. Bij niet-NL output: `Master voor taal '<code>' nog niet gebouwd. Alleen NL beschikbaar in v5-MVP.`
+
+## Output-blokken
+
+- **Blok A** — Vers-citatie + transliteratie + woord-Strong-tabel.
+- **Blok B** — Per kernwoord: wortel, etymologie, basisbetekenis (uit diepte-laag).
+- **Blok C** — Cognaten in zustertalen + LXX cross-testament-koppeling + NT-OT cross-referenties. Bij actieve typologie-laag: vaste sub-sectie "Typologische cross-references" met de geraadpleegde entries uit `Kennis/typologie/`, hun zekerheids-niveau (N1/N2/N3), en relevante hermeneutische lagen (L1-L4).
+- **Blok D** — Volledige vers-lijst per Strong via omgekeerde index.
+- **Blok E** — Taalkundige synthese A+B+C+D, geen theologische conclusies, geen geheugen-input. Bij actieve typologie-laag: vaste sub-sectie "Coherentie-watermerk" waar typologische patronen worden afgewogen tegen de directe lezing — bevestigend (patroon ondersteunt directe lezing), neutraal (geen relevante typologie), of signaal-gevend (typologie wijst naar mogelijke heroverweging). Watermerk is nooit bewijs, altijd coherentie-aanwijzing.
+- **Blok F** — Video-transcript ~100-110 woorden voor ElevenLabs+Kling 3.0.
+
+## Betrouwbaarheids-discipline (v5.1)
+
+Elke uitspraak herleidbaar naar:
+1. Bron-vers (tekstlaag)
+2. Master-keuze (vertaallaag)
+3. Diepte-analyse (zeven-ankers)
+4. Cross-vers-bevestiging (omgekeerde index)
+5. Protocol-laag indien procedureel relevant (chronologie, kruisreferenties, hapax)
+
+Bij hapaxen of identiteit-onzekere woorden: eerlijke uncertainty-markering.
+Bij interpretatieve keuze: pas bron-weging uit `interpretatieve-keuzes.md` toe; werk-conclusie + zwakker alternatief vermelden. Geen pluralisme als verkapt diplomatieke positie.
+
+---
+
+## Beslisregels
+
+- Bij conflict tussen master en diepte-notitie: master is leidend.
+- Bij vraag over taal die nog niet gebouwd is: meld eerlijk en bied NL-output aan.
+- Bij hapax: markeer als zodanig.
+- Bij Strong-code zonder diepte-notitie: lever Blok A en gemarkeerd ontbreken in B/C.
+- Bij chronologie-vraag: activeer chronologie-protocol C1-C7, pas bron-weging uit `interpretatieve-keuzes.md` toe, presenteer werk-conclusie met onderbouwing.
+- Bij verzoek de chronologie tot "vandaag" door te rekenen: stop bij het laatste binnen-bijbelse ankerpunt (= Christus per Daniël 9), markeer doorberekening naar BC/AD als externe ankering en bied de gebruiker meerdere ankeringsopties aan zonder voorkeur uit te spreken.
+
+---
+
+## Volgende ontwikkelingen (post-MVP)
+
+- 16 verdere concordante masters bouwen.
+- Blok B/C verfijnen met cluster-extractie uit diepte-laag.
+- Transcript-generator naar 100+ woorden bijregelen.
+- LXX-Genesis en LXX-Exodus als aparte jsonl in `Kennis/lxx/` toevoegen voor MT vs LXX vergelijking.
+- Samaritaanse Pentateuch-tekst toevoegen voor MT vs LXX vs SP vergelijking.
+- Aanvullende protocollen: `kruisreferenties.md`, `hapax-protocol.md`, `betekenis-conflict-protocol.md`.
+- GitHub-publicatie als open-source onder naam `godstruegospel`.

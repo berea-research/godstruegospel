@@ -1,0 +1,3574 @@
+{
+  "batch_id": "eg_batch_007",
+  "script": "gr",
+  "datum": "2026-05-02",
+  "entries": [
+    {
+      "strong": "G862",
+      "grieks": "ἄφθαρτος",
+      "translit": "aphthartos",
+      "woordsoort": "bn",
+      "en_concordant": "on-vergankelijk",
+      "grondvorm": "on-vergankelijk",
+      "stamfamilie": [
+        "G862",
+        "G861 aphtharsia",
+        "G5356 phthora (a-privans)"
+      ],
+      "toelichting": "Onvergankelijk, onverderfelijk. A-privans + phthartos. Concordant: 'on-vergankelijk'. Rom 1:23 'tou aphthartou theou'. 1",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G819",
+      "grieks": "ἀτιμία",
+      "translit": "atimia",
+      "woordsoort": "zn",
+      "en_concordant": "on-honor",
+      "grondvorm": "on-eer",
+      "stamfamilie": [
+        "G819",
+        "G820 atimos",
+        "G5092 timē"
+      ],
+      "toelichting": "Oneer, schande, vernedering. A-privans + timē. Concordant: 'on-eer'. Rom 1:26 'paredōken autous ho theos eis pathē atimi",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G2052",
+      "grieks": "ἐριθεία",
+      "translit": "eritheia",
+      "woordsoort": "zn",
+      "en_concordant": "quarrel-zucht",
+      "grondvorm": "twist-zucht",
+      "stamfamilie": [
+        "G2052"
+      ],
+      "toelichting": "Twiststok-zucht, eigenbelang-zoeken, partijzucht. Etymologisch verbonden met erithos (huurling-handarbeider) — handelen-",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G3847",
+      "grieks": "παράβασις",
+      "translit": "parabasis",
+      "woordsoort": "zn",
+      "en_concordant": "overtreding",
+      "grondvorm": "overtreding",
+      "stamfamilie": [
+        "G3847",
+        "G3848 parabatēs",
+        "G3844 para",
+        "G939 basis"
+      ],
+      "toelichting": "Samenstelling para (langs, naast) + basis (gaan): naast-de-grens-gaan, overtreding. Concordant: 'overtreding'. Rom 2:23 ",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G1382",
+      "grieks": "δοκιμή",
+      "translit": "dokimē",
+      "woordsoort": "zn",
+      "en_concordant": "bewezen-deugd",
+      "grondvorm": "bewezen-deugd",
+      "stamfamilie": [
+        "G1382",
+        "G1381 dokimazō",
+        "G1384 dokimos"
+      ],
+      "toelichting": "Bewijs, beproefdheid, bewezen-karakter-na-toetsing. Zelfstandig naamwoord-afgeleide van dokimazō. Concordant: 'bewezen-d",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G442",
+      "grieks": "ἀνθρώπινος",
+      "translit": "anthrōpinos",
+      "woordsoort": "bn",
+      "en_concordant": "menselijk",
+      "grondvorm": "menselijk",
+      "stamfamilie": [
+        "G442",
+        "G444 anthrōpos"
+      ],
+      "toelichting": "Menselijk, mensen-aard. Bijvoeglijk afgeleide van anthrōpos. Concordant: 'menselijk'. Rom 6:19 'anthrōpinon legō'. 1 Kor",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G874",
+      "grieks": "ἀφορμή",
+      "translit": "aphormē",
+      "woordsoort": "zn",
+      "en_concordant": "on-leiding",
+      "grondvorm": "aan-leiding",
+      "stamfamilie": [
+        "G874",
+        "G3729 hormē",
+        "G575 apo"
+      ],
+      "toelichting": "Aanleiding, gelegenheid, uitgangspunt. Stam horm- = aanzet / impuls. Concordant: 'aan-leiding'. Rom 7:8 'aphormēn de lab",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G553",
+      "grieks": "ἀπεκδέχομαι",
+      "translit": "apekdechomai",
+      "woordsoort": "ww",
+      "en_concordant": "out-vandon-verwachten",
+      "grondvorm": "uit-vandaan-verwachten",
+      "stamfamilie": [
+        "G553",
+        "G1551 ekdechomai",
+        "G575 apo"
+      ],
+      "toelichting": "Samenstelling apo (vanaf) + ekdechomai (uit-wachten): nadrukkelijk-vanuit-verwachten, intensief-uit-zien-naar. Concordan",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G1764",
+      "grieks": "ἐνίστημι",
+      "translit": "enistēmi",
+      "woordsoort": "ww",
+      "en_concordant": "in-gesteld-ston",
+      "grondvorm": "in-gesteld-staan",
+      "stamfamilie": [
+        "G1764",
+        "G2476 histēmi",
+        "G1722 en"
+      ],
+      "toelichting": "Samenstelling en (in) + histēmi (stellen): in-staan, tegenwoordig-zijn, voorhanden-zijn. Concordant: 'in-gesteld-staan'.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G543",
+      "grieks": "ἀπείθεια",
+      "translit": "apeitheia",
+      "woordsoort": "zn",
+      "en_concordant": "on-gehoorzaamheid",
+      "grondvorm": "on-gehoorzaamheid",
+      "stamfamilie": [
+        "G543",
+        "G544 apeitheō",
+        "G3982 peithō (a-privans)"
+      ],
+      "toelichting": "Ongehoorzaamheid, weigering-tot-toestemmen. Zelfstandig naamwoord-afgeleide van apeitheō. Concordant: 'on-gehoorzaamheid",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G1384",
+      "grieks": "δόκιμος",
+      "translit": "dokimos",
+      "woordsoort": "bn",
+      "en_concordant": "beproefd",
+      "grondvorm": "beproefd",
+      "stamfamilie": [
+        "G1384",
+        "G1381 dokimazō",
+        "G96 adokimos"
+      ],
+      "toelichting": "Beproefd, na-toetsing-goedgekeurd, bewezen. Concordant: 'beproefd'. Tegenpool G96 adokimos. Rom 14:18 'euarestos tōi the",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G2003",
+      "grieks": "ἐπιταγή",
+      "translit": "epitagē",
+      "woordsoort": "zn",
+      "en_concordant": "vel",
+      "grondvorm": "be-vel",
+      "stamfamilie": [
+        "G2003",
+        "G2004 epitassō"
+      ],
+      "toelichting": "Bevel, opdracht. Zelfstandig naamwoord-afgeleide van epitassō. Concordant: 'be-vel'. Rom 16:26 'kat' epitagēn tou aiōnio",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G1213",
+      "grieks": "δηλόω",
+      "translit": "dēloō",
+      "woordsoort": "ww",
+      "en_concordant": "duidelijk-make",
+      "grondvorm": "duidelijk-maken",
+      "stamfamilie": [
+        "G1213",
+        "G1212 dēlos"
+      ],
+      "toelichting": "Duidelijk-maken, openbaar-maken, te-kennen-geven. Concordant: 'duidelijk-maken'. 1 Kor 1:11 'edēlōthē gar moi peri humōn",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G5448",
+      "grieks": "φυσιόω",
+      "translit": "phusioō",
+      "woordsoort": "ww",
+      "en_concordant": "up-blazen",
+      "grondvorm": "op-blazen",
+      "stamfamilie": [
+        "G5448",
+        "G5449 phusis (verwante stam phu-)"
+      ],
+      "toelichting": "Opblazen, doen-zwellen, opgeblazen-zijn-van-trots. Concordant: 'op-blazen'. Vrijwel uitsluitend in 1 Kor: 1 Kor 4:6, 4:1",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G3402",
+      "grieks": "μιμητής",
+      "translit": "mimētēs",
+      "woordsoort": "zn",
+      "en_concordant": "na-volger",
+      "grondvorm": "na-volger",
+      "stamfamilie": [
+        "G3402",
+        "G3401 mimeomai"
+      ],
+      "toelichting": "Navolger, imitator. Concordant: 'na-volger'. 1 Kor 4:16 'mimētai mou ginesthe'; 1 Kor 11:1 'mimētai mou ginesthe, kathōs",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G548",
+      "grieks": "ἄπειμι",
+      "translit": "apeimi",
+      "woordsoort": "ww",
+      "en_concordant": "afwezig-be",
+      "grondvorm": "afwezig-zijn",
+      "stamfamilie": [
+        "G548",
+        "G1510 eimi",
+        "G575 apo"
+      ],
+      "toelichting": "Samenstelling apo (vanaf) + eimi (zijn): af-zijn, afwezig-zijn. Concordant: 'afwezig-zijn'. 1 Kor 5:3 'apōn tōi sōmati p",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G1496",
+      "grieks": "εἰδωλολάτρης",
+      "translit": "eidōlolatrēs",
+      "woordsoort": "zn",
+      "en_concordant": "afgods-dienaar",
+      "grondvorm": "afgods-dienaar",
+      "stamfamilie": [
+        "G1496",
+        "G1497 eidōlon",
+        "G3000 latreuō",
+        "G1495 eidōlolatreia"
+      ],
+      "toelichting": "Samenstelling eidōlon + latreuō (cultisch-dienen): afgodsbeeld-dienaar. Concordant: 'afgods-dienaar'. 1 Kor 5:10-11 'eid",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G4747",
+      "grieks": "στοιχεῖον",
+      "translit": "stoicheion",
+      "woordsoort": "zn",
+      "en_concordant": "leding",
+      "grondvorm": "ge-leding",
+      "stamfamilie": [
+        "G4747",
+        "G4748 stoicheō"
+      ],
+      "toelichting": "Element, basisbeginsel, gelid (rij van soldaten). Concordant: 'ge-leding'. Drie lagen: (1) basis-elementen / kosmische e",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G299",
+      "grieks": "ἄμωμος",
+      "translit": "amōmos",
+      "woordsoort": "bn",
+      "en_concordant": "smettel-loos",
+      "grondvorm": "smettel-loos",
+      "stamfamilie": [
+        "G299",
+        "G3470 mōmos (a-privans)"
+      ],
+      "toelichting": "Smetteloos, vlekkeloos, zonder-blaam. A-privans + mōmos (smet). Concordant: 'smettel-loos'. Septuaginta-equivalent voor ",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G5603",
+      "grieks": "ᾠδή",
+      "translit": "ōidē",
+      "woordsoort": "zn",
+      "en_concordant": "lied",
+      "grondvorm": "lied",
+      "stamfamilie": [
+        "G5603",
+        "G103 aidō"
+      ],
+      "toelichting": "Lied, zang. Concordant: 'lied'. Ef 5:19 / Kol 3:16 'psalmois kai humnois kai ōidais pneumatikais' (driedeling: psalmen, ",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G4170",
+      "grieks": "πολεμέω",
+      "translit": "polemeō",
+      "woordsoort": "ww",
+      "en_concordant": "oorlogen",
+      "grondvorm": "oorlogen",
+      "stamfamilie": [
+        "G4170",
+        "G4171 polemos"
+      ],
+      "toelichting": "Oorlogen, strijden. Werkwoord-afgeleide van polemos. Concordant: 'oorlogen'. Jak 4:1-2 'machai en humin... epithumeite..",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G3677",
+      "grieks": "ὄναρ",
+      "translit": "onar",
+      "woordsoort": "zn",
+      "en_concordant": "droom",
+      "grondvorm": "droom",
+      "stamfamilie": [
+        "G3677"
+      ],
+      "toelichting": "Droom (in onverbogen vorm). Concordant: 'droom'. Vrijwel uitsluitend Mat 1-2 (vier maal Jozef-dromen) en Mat 27:19 (Pila",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5258",
+      "grieks": "ὕπνος",
+      "translit": "hupnos",
+      "woordsoort": "zn",
+      "en_concordant": "slaap",
+      "grondvorm": "slaap",
+      "stamfamilie": [
+        "G5258"
+      ],
+      "toelichting": "Slaap. Concordant: 'slaap'. Mat 1:24 'diegertheis Iōsēph apo tou hupnou'. Lukas 9:32 (verheerlijking 'bebarēmenoi hupnōi",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3097",
+      "grieks": "μάγος",
+      "translit": "magos",
+      "woordsoort": "zn",
+      "en_concordant": "ma-giër",
+      "grondvorm": "ma-giër",
+      "stamfamilie": [
+        "G3097",
+        "G3096 mageuō"
+      ],
+      "toelichting": "Magiër, wijze, sterren-wichelaar. Persisch leenwoord. Concordant: 'ma-giër'. Mat 2:1-16 (de magiërs uit het oosten — vie",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2574",
+      "grieks": "κάμηλος",
+      "translit": "kamēlos",
+      "woordsoort": "zn",
+      "en_concordant": "camel",
+      "grondvorm": "kameel",
+      "stamfamilie": [
+        "G2574"
+      ],
+      "toelichting": "Kameel. Hebreeuws-leenwoord (gamal). Concordant: 'kameel'. Mat 3:4 / Mar 1:6 (Johannes Doper kleed van kameelharen); Mat",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5263",
+      "grieks": "ὑποδείκνυμι",
+      "translit": "hupodeiknumi",
+      "woordsoort": "ww",
+      "en_concordant": "on-tonen",
+      "grondvorm": "aan-tonen",
+      "stamfamilie": [
+        "G5263",
+        "G1166 deiknumi",
+        "G5259 hupo"
+      ],
+      "toelichting": "Samenstelling hupo (onder, langs) + deiknumi (tonen): aanwijzen, aantonen, te-kennen-geven. Concordant: 'aan-tonen'. Mat",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G596",
+      "grieks": "ἀποθήκη",
+      "translit": "apothēkē",
+      "woordsoort": "zn",
+      "en_concordant": "beforeraad-schuur",
+      "grondvorm": "voorraad-schuur",
+      "stamfamilie": [
+        "G596",
+        "G659 apotithēmi (verwante stam)"
+      ],
+      "toelichting": "Voorraadschuur, korenschuur. Concordant: 'voorraad-schuur'. Mat 3:12 'sunaxei ton siton autou eis tēn apothēkēn' (Joh.Do",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4013",
+      "grieks": "περιάγω",
+      "translit": "periagō",
+      "woordsoort": "ww",
+      "en_concordant": "rond-lead",
+      "grondvorm": "rond-leiden",
+      "stamfamilie": [
+        "G4013",
+        "G71 agō",
+        "G4012 peri"
+      ],
+      "toelichting": "Samenstelling peri (rondom) + agō (leiden): rondtrekken, rondgaan. Concordant: 'rond-leiden'. Mat 4:23, 9:35, 23:15 (Far",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3755",
+      "grieks": "ὅτου",
+      "translit": "hotou",
+      "woordsoort": "betrekkelijk voornaamwoord",
+      "en_concordant": "totdat",
+      "grondvorm": "totdat",
+      "stamfamilie": [
+        "G3755"
+      ],
+      "toelichting": "Genitief van hostis als bijwoord 'totdat' / 'zolang als'. Concordant: 'totdat'. Mat 5:25 'ison esthi tōi antidikōi sou t",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3429",
+      "grieks": "μοιχάομαι",
+      "translit": "moichaō",
+      "woordsoort": "ww",
+      "en_concordant": "true-break-moichao",
+      "grondvorm": "echt-breken",
+      "stamfamilie": [
+        "G3429",
+        "G3430 moicheia",
+        "G3431 moicheuō"
+      ],
+      "toelichting": "Overspel-doen. Variant-vorm van moicheuō. Concordant: 'echt-breken'. Mat 5:32, 19:9 'hos an apolusē tēn gunaika autou...",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2672",
+      "grieks": "καταράομαι",
+      "translit": "kataraomai",
+      "woordsoort": "ww",
+      "en_concordant": "curse-kataraomai",
+      "grondvorm": "ver-vloeken",
+      "stamfamilie": [
+        "G2672",
+        "G2671 katara"
+      ],
+      "toelichting": "Vervloeken. Werkwoord-afgeleide van katara (vloek). Concordant: 'ver-vloeken'. Tegenpool G2127 eulogeō. Mat 5:44 (varian",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3770",
+      "grieks": "οὐράνιος",
+      "translit": "ouranios",
+      "woordsoort": "bn",
+      "en_concordant": "hemels-ouranios",
+      "grondvorm": "hemels",
+      "stamfamilie": [
+        "G3770",
+        "G3772 ouranos"
+      ],
+      "toelichting": "Hemels. Bijvoeglijk afgeleide van ouranos. Concordant: 'hemels'. Onderscheid van G2032 epouranios (op-de-hemel-gevestigd",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2595",
+      "grieks": "κάρφος",
+      "translit": "karphos",
+      "woordsoort": "zn",
+      "en_concordant": "splinter",
+      "grondvorm": "splinter",
+      "stamfamilie": [
+        "G2595"
+      ],
+      "toelichting": "Splinter, droog-twijgje. Concordant: 'splinter'. Vrijwel uitsluitend in 'splinter-en-balk' formule: Mat 7:3-5 / Lukas 6:",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1385",
+      "grieks": "δοκός",
+      "translit": "dokos",
+      "woordsoort": "zn",
+      "en_concordant": "balk",
+      "grondvorm": "balk",
+      "stamfamilie": [
+        "G1385"
+      ],
+      "toelichting": "Balk, drager-balk. Concordant: 'balk'. Vrijwel uitsluitend in 'splinter-en-balk' formule (zie G2595): Mat 7:3-5 / Lukas ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3074",
+      "grieks": "λύκος",
+      "translit": "lukos",
+      "woordsoort": "zn",
+      "en_concordant": "wolf",
+      "grondvorm": "wolf",
+      "stamfamilie": [
+        "G3074"
+      ],
+      "toelichting": "Wolf. Concordant: 'wolf'. Mat 7:15 'pseudoprophētai... esōthen de eisin lukoi harpages' (binnen-zijn-zij-roof-zuchtige-w",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2311",
+      "grieks": "θεμελιόω",
+      "translit": "themelioō",
+      "woordsoort": "ww",
+      "en_concordant": "fundament-leggen",
+      "grondvorm": "fundament-leggen",
+      "stamfamilie": [
+        "G2311",
+        "G2310 themelion"
+      ],
+      "toelichting": "Fundament-leggen, gronden, vast-stellen. Werkwoord-afgeleide van themelion. Concordant: 'fundament-leggen'. Mat 7:25 'te",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3994",
+      "grieks": "πενθερά",
+      "translit": "penthera",
+      "woordsoort": "zn",
+      "en_concordant": "schoon-mother",
+      "grondvorm": "schoon-moeder",
+      "stamfamilie": [
+        "G3994",
+        "G3995 pentheros"
+      ],
+      "toelichting": "Schoonmoeder. Concordant: 'schoon-moeder'. Mat 8:14-15 / Mar 1:30 / Lukas 4:38 (Petrus' schoonmoeder genezen). Mat 10:35",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4446",
+      "grieks": "πυρετός",
+      "translit": "puretos",
+      "woordsoort": "zn",
+      "en_concordant": "koorts",
+      "grondvorm": "koorts",
+      "stamfamilie": [
+        "G4446",
+        "G4442 pur"
+      ],
+      "toelichting": "Koorts. Stam-verwant met pur (vuur). Concordant: 'koorts'. Mat 8:15 / Mar 1:31 / Lukas 4:38-39 (Petrus' schoonmoeder 'pu",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1276",
+      "grieks": "διαπεράω",
+      "translit": "diaperaō",
+      "woordsoort": "ww",
+      "en_concordant": "osteken",
+      "grondvorm": "over-steken",
+      "stamfamilie": [
+        "G1276",
+        "G4008 peran",
+        "G1223 dia"
+      ],
+      "toelichting": "Samenstelling dia (door) + peraō (overgaan): doorheen-oversteken. Concordant: 'over-steken'. Mat 9:1, 14:34 'diaperasant",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1590",
+      "grieks": "ἐκλύω",
+      "translit": "ekluō",
+      "woordsoort": "ww",
+      "en_concordant": "out-loose",
+      "grondvorm": "uit-losmaken",
+      "stamfamilie": [
+        "G1590",
+        "G3089 luō",
+        "G1537 ek"
+      ],
+      "toelichting": "Samenstelling ek (uit) + luō (los-maken): ontkrachten, bezwijken. Concordant: 'uit-losmaken'. Mat 15:32 / Mar 8:3 'mēpot",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4082",
+      "grieks": "πήρα",
+      "translit": "pēra",
+      "woordsoort": "zn",
+      "en_concordant": "reis-tas",
+      "grondvorm": "reis-tas",
+      "stamfamilie": [
+        "G4082"
+      ],
+      "toelichting": "Reistas, knapzak. Concordant: 'reis-tas'. Mat 10:10 / Mar 6:8 / Lukas 9:3, 10:4, 22:35-36 'mē airete pēran' (zending-uit",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G414",
+      "grieks": "ἀνεκτότερον",
+      "translit": "anektoteron",
+      "woordsoort": "bn",
+      "en_concordant": "draag-lijker",
+      "grondvorm": "draag-lijker",
+      "stamfamilie": [
+        "G414",
+        "G430 anechomai"
+      ],
+      "toelichting": "Draaglijker, beter-uit-te-houden. Vergelijkende vorm. Concordant: 'draag-lijker'. Mat 10:15 'anektoteron estai gēi Sodom",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5409",
+      "grieks": "φορέω",
+      "translit": "phoreō",
+      "woordsoort": "ww",
+      "en_concordant": "bear-als-garment",
+      "grondvorm": "dragen-als-kleed",
+      "stamfamilie": [
+        "G5409",
+        "G5342 pherō"
+      ],
+      "toelichting": "Dragen (als kleed of vast-attribuut). Iteratieve / continuatieve vorm van pherō. Concordant: 'dragen-als-kleed'. Mat 11:",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3819",
+      "grieks": "πάλαι",
+      "translit": "palai",
+      "woordsoort": "bw",
+      "en_concordant": "vroeger",
+      "grondvorm": "vroeger",
+      "stamfamilie": [
+        "G3819",
+        "G3820 palaios"
+      ],
+      "toelichting": "Vroeger, lang-geleden. Concordant: 'vroeger'. Mat 11:21 / Lukas 10:13 'palai an en sakkōi kai spodōi metenoēsan'. 2 Kor ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G613",
+      "grieks": "ἀποκρύπτω",
+      "translit": "apokruptō",
+      "woordsoort": "ww",
+      "en_concordant": "away-hide",
+      "grondvorm": "weg-verbergen",
+      "stamfamilie": [
+        "G613",
+        "G2928 kruptō",
+        "G614 apokruphos",
+        "G575 apo"
+      ],
+      "toelichting": "Samenstelling apo (vanaf) + kruptō (verbergen): wegbergen, verborgen-houden. Concordant: 'weg-verbergen'. Mat 11:25 / Lu",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2218",
+      "grieks": "ζυγός",
+      "translit": "zugos",
+      "woordsoort": "zn",
+      "en_concordant": "juk",
+      "grondvorm": "juk",
+      "stamfamilie": [
+        "G2218"
+      ],
+      "toelichting": "Juk, weeg-schaal-balans. Concordant: 'juk'. Mat 11:29-30 'arate ton zugon mou... ho gar zugos mou chrēstos'. Hand 15:10 ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G123",
+      "grieks": "αἰγιαλός",
+      "translit": "aigialos",
+      "woordsoort": "zn",
+      "en_concordant": "strand",
+      "grondvorm": "strand",
+      "stamfamilie": [
+        "G123"
+      ],
+      "toelichting": "Strand, oever. Concordant: 'strand'. Mat 13:2-48 'ho ochlos epi ton aigialon eistēkei... epi ton aigialon ebalon'. Joh 2",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G378",
+      "grieks": "ἀναπληρόω",
+      "translit": "anaplēroō",
+      "woordsoort": "ww",
+      "en_concordant": "full-vullen",
+      "grondvorm": "vol-vullen",
+      "stamfamilie": [
+        "G378",
+        "G4137 plēroō",
+        "G303 ana"
+      ],
+      "toelichting": "Samenstelling ana (op) + plēroō (vervullen): aanvullen, vol-maken. Concordant: 'vol-vullen'. Mat 13:14 'anaplēroutai aut",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1211",
+      "grieks": "δή",
+      "translit": "dē",
+      "woordsoort": "partikel",
+      "en_concordant": "dan-toch-de",
+      "grondvorm": "dan-toch",
+      "stamfamilie": [
+        "G1211"
+      ],
+      "toelichting": "Versterkings-partikel: dan-toch, juist, immers. Concordant: 'dan-toch'. Mat 13:23 'ho dē karpophorei'. Lukas 2:15 'dielt",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4930",
+      "grieks": "συντέλεια",
+      "translit": "sunteleia",
+      "woordsoort": "zn",
+      "en_concordant": "full-einding",
+      "grondvorm": "vol-einding",
+      "stamfamilie": [
+        "G4930",
+        "G4931 sunteleō"
+      ],
+      "toelichting": "Voleinding, einde-van-een-tijdperk. Zelfstandig naamwoord-afgeleide van sunteleō. Concordant: 'vol-einding'. Mat 13:39-4",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2266",
+      "grieks": "Ἡρωδιάς",
+      "translit": "hērōidias",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Herodias-pn",
+      "grondvorm": "Herodias",
+      "stamfamilie": [
+        "G2266"
+      ],
+      "toelichting": "Herodias. Vrouw van Herodes Antipas (eerder vrouw van zijn broer Filippus). Mat 14:3-6 / Mar 6:17-22 / Lukas 3:19 (eist ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2894",
+      "grieks": "κόφινος",
+      "translit": "kophinos",
+      "woordsoort": "zn",
+      "en_concordant": "rieten-hamper",
+      "grondvorm": "rieten-mand",
+      "stamfamilie": [
+        "G2894"
+      ],
+      "toelichting": "Mand, draagmand. Concordant: 'rieten-mand' om onderscheid met G4711 spuris (grotere voorraadmand) te bewaren. Bij wonder",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4000",
+      "grieks": "πεντακισχίλιοι",
+      "translit": "pentakischilioi",
+      "woordsoort": "tw",
+      "en_concordant": "five-duizend",
+      "grondvorm": "vijf-duizend",
+      "stamfamilie": [
+        "G4000",
+        "G4002 pente",
+        "G5507 chilioi"
+      ],
+      "toelichting": "Vijfduizend. Concordant: 'vijf-duizend'. Vrijwel uitsluitend bij wonderbare-spijziging-5000: Mat 14:21, 16:9; Mar 6:44, ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4357",
+      "grieks": "προσμένω",
+      "translit": "prosmenō",
+      "woordsoort": "ww",
+      "en_concordant": "bij-remain",
+      "grondvorm": "bij-blijven",
+      "stamfamilie": [
+        "G4357",
+        "G3306 menō",
+        "G4314 pros"
+      ],
+      "toelichting": "Samenstelling pros (naar) + menō (blijven): erbij-blijven, blijven-bij. Concordant: 'bij-blijven'. Mat 15:32 / Mar 8:2 '",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5494",
+      "grieks": "χειμών",
+      "translit": "cheimōn",
+      "woordsoort": "zn",
+      "en_concordant": "winter-tempest",
+      "grondvorm": "winter-storm",
+      "stamfamilie": [
+        "G5494"
+      ],
+      "toelichting": "Winter, storm-weer. Concordant: 'winter-storm'. Mat 16:3 'kai prōi sēmeron cheimōn' (storm). Mat 24:20 / Mar 13:18 'mē g",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2807",
+      "grieks": "κλείς",
+      "translit": "kleis",
+      "woordsoort": "zn",
+      "en_concordant": "key-kleis",
+      "grondvorm": "sleutel",
+      "stamfamilie": [
+        "G2807",
+        "G2808 kleiō"
+      ],
+      "toelichting": "Sleutel. Concordant: 'sleutel'. Mat 16:19 'dōsō soi tas kleidas tēs basileias tōn ouranōn'. Lukas 11:52 'ērate tēn kleid",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2210",
+      "grieks": "ζημιόω",
+      "translit": "zēmioō",
+      "woordsoort": "ww",
+      "en_concordant": "schade-suffer",
+      "grondvorm": "schade-lijden",
+      "stamfamilie": [
+        "G2210",
+        "G2209 zēmia"
+      ],
+      "toelichting": "Schade-lijden, verlies-lijden, beboet-worden. Concordant: 'schade-lijden'. Mat 16:26 / Mar 8:36 / Lukas 9:25 'ti gar ōph",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4234",
+      "grieks": "πρᾶξις",
+      "translit": "praxis",
+      "woordsoort": "zn",
+      "en_concordant": "drijving",
+      "grondvorm": "be-drijving",
+      "stamfamilie": [
+        "G4234",
+        "G4238 prassō"
+      ],
+      "toelichting": "Daad, handelwijze, praktijk. Zelfstandig naamwoord-afgeleide van prassō. Concordant: 'be-drijving'. Mat 16:27 'apodōsei ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4814",
+      "grieks": "συλλαλέω",
+      "translit": "sullaleō",
+      "woordsoort": "ww",
+      "en_concordant": "togetre-speak",
+      "grondvorm": "samen-spreken",
+      "stamfamilie": [
+        "G4814",
+        "G2980 laleō",
+        "G4862 sun"
+      ],
+      "toelichting": "Samenstelling sun (samen) + laleō (spreken): samen-spreken, met-elkander-spreken. Concordant: 'samen-spreken'. Mat 17:3 ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4856",
+      "grieks": "συμφωνέω",
+      "translit": "sumphōneō",
+      "woordsoort": "ww",
+      "en_concordant": "togetre-stemmen",
+      "grondvorm": "samen-stemmen",
+      "stamfamilie": [
+        "G4856",
+        "G5456 phōnē",
+        "G4862 sun",
+        "G4858 sumphōnia"
+      ],
+      "toelichting": "Samenstelling sun (samen) + phōneō (stem-geven): mede-stem-zijn, overeen-stemmen, akkoord-zijn. Concordant: 'samen-stemm",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5576",
+      "grieks": "ψευδομαρτυρέω",
+      "translit": "pseudomartureō",
+      "woordsoort": "ww",
+      "en_concordant": "vals-getuigen",
+      "grondvorm": "vals-getuigen",
+      "stamfamilie": [
+        "G5576",
+        "G5571 pseudēs",
+        "G3140 martureō"
+      ],
+      "toelichting": "Samenstelling pseudēs (vals) + martureō (getuigen): vals-getuigen, leugenachtig-verklaren. Concordant: 'vals-getuigen'. ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G922",
+      "grieks": "βάρος",
+      "translit": "baros",
+      "woordsoort": "zn",
+      "en_concordant": "last",
+      "grondvorm": "last",
+      "stamfamilie": [
+        "G922",
+        "G916 bareō",
+        "G926 barus"
+      ],
+      "toelichting": "Last, gewicht, druk. Concordant: 'last'. Mat 20:12 'tois bastasasin to baros tēs hēmeras kai ton kausōna'. Hand 15:28 'm",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G561",
+      "grieks": "ἀπέναντι",
+      "translit": "apenanti",
+      "woordsoort": "prepositie",
+      "en_concordant": "oagainst",
+      "grondvorm": "tegen-over",
+      "stamfamilie": [
+        "G561"
+      ],
+      "toelichting": "Tegenover, recht-tegenover, vóór. Concordant: 'tegen-over'. Mat 21:2 'tēn kōmēn tēn apenanti humōn'. Mat 27:24 'apenanti",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3688",
+      "grieks": "ὄνος",
+      "translit": "onos",
+      "woordsoort": "zn",
+      "en_concordant": "donkey",
+      "grondvorm": "ezel",
+      "stamfamilie": [
+        "G3688",
+        "G3678 onarion"
+      ],
+      "toelichting": "Ezel. Concordant: 'ezel'. Mat 21:2-7 / Joh 12:14-15 OT-citaat Zach 9 (intocht-Jeruzalem op ezel). Lukas 13:15, 14:5; 2 P",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1910",
+      "grieks": "ἐπιβαίνω",
+      "translit": "epibainō",
+      "woordsoort": "ww",
+      "en_concordant": "up-stappen",
+      "grondvorm": "op-stappen",
+      "stamfamilie": [
+        "G1910",
+        "G939 basis",
+        "G1909 epi"
+      ],
+      "toelichting": "Samenstelling epi (op) + bainō (gaan): op-stappen, op-iets-gaan-staan. Concordant: 'op-stappen'. Mat 21:5 'epibebēkōs ep",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5614",
+      "grieks": "ὡσαννά",
+      "translit": "hōsanna",
+      "woordsoort": "tussenwerpsel",
+      "en_concordant": "Hosanna",
+      "grondvorm": "Hosanna",
+      "stamfamilie": [
+        "G5614"
+      ],
+      "toelichting": "Hosanna. Hebreeuws / Aramees leenwoord (hoshia-na = red-toch). Oorspronkelijk smeekbede 'red toch!' (Ps 118:25), maar in",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4693",
+      "grieks": "σπήλαιον",
+      "translit": "spēlaion",
+      "woordsoort": "zn",
+      "en_concordant": "rock-spelonk",
+      "grondvorm": "rots-spelonk",
+      "stamfamilie": [
+        "G4693"
+      ],
+      "toelichting": "Spelonk, rotsholte, schuilplaats. Concordant: 'rots-spelonk'. Mat 21:13 / Mar 11:17 / Lukas 19:46 OT-citaat Jer 7 'humei",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2337",
+      "grieks": "θηλάζω",
+      "translit": "thēlazō",
+      "woordsoort": "ww",
+      "en_concordant": "zogen",
+      "grondvorm": "zogen",
+      "stamfamilie": [
+        "G2337",
+        "G2338 thēlu"
+      ],
+      "toelichting": "Zogen, borst-geven, zuigen. Concordant: 'zogen'. Mat 21:16 OT-citaat Ps 8 'ek stomatos nēpiōn kai thēlazontōn'; Mat 24:1",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5444",
+      "grieks": "φύλλον",
+      "translit": "phullon",
+      "woordsoort": "zn",
+      "en_concordant": "leaf",
+      "grondvorm": "blad",
+      "stamfamilie": [
+        "G5444"
+      ],
+      "toelichting": "Blad (van plant). Concordant: 'blad'. Mat 21:19 / Mar 11:13 (verdorde vijgenboom 'phulla monon'). Mar 13:28 / Mat 24:32 ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3338",
+      "grieks": "μεταμέλομαι",
+      "translit": "metamelomai",
+      "woordsoort": "ww",
+      "en_concordant": "rouw-have",
+      "grondvorm": "be-rouw-hebben",
+      "stamfamilie": [
+        "G3338",
+        "G3326 meta",
+        "G3199 melei",
+        "G3340 metanoeō"
+      ],
+      "toelichting": "Berouw-hebben, spijt-hebben (emotioneel). Samenstelling meta (na) + melō (zorg-hebben). Concordant: 'be-rouw-hebben'. On",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G589",
+      "grieks": "ἀποδημέω",
+      "translit": "apodēmeō",
+      "woordsoort": "ww",
+      "en_concordant": "away-reizen",
+      "grondvorm": "weg-reizen",
+      "stamfamilie": [
+        "G589",
+        "G590 apodēmos",
+        "G575 apo",
+        "G1218 dēmos"
+      ],
+      "toelichting": "Samenstelling apo (vanaf) + dēmos (volk / land): land-uitreizen, op-reis-gaan-naar-vreemd-land. Concordant: 'weg-reizen'",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G926",
+      "grieks": "βαρύς",
+      "translit": "barus",
+      "woordsoort": "bn",
+      "en_concordant": "heavy",
+      "grondvorm": "zwaar",
+      "stamfamilie": [
+        "G926",
+        "G916 bareō",
+        "G922 baros"
+      ],
+      "toelichting": "Zwaar. Concordant: 'zwaar'. Mat 23:4 'phortia barea kai dusbastakta'; Mat 23:23 'ta barutera tou nomou'. Hand 20:29 'luk",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5272",
+      "grieks": "ὑπόκρισις",
+      "translit": "hupokrisis",
+      "woordsoort": "zn",
+      "en_concordant": "veinzerij",
+      "grondvorm": "veinzerij",
+      "stamfamilie": [
+        "G5272",
+        "G5271 hupokrinomai",
+        "G5273 hupokritēs"
+      ],
+      "toelichting": "Veinzerij, huichelarij, toneelspel-onder-masker. Concordant: 'veinzerij'. Mat 23:28 'esōthen mestoi este hupokriseōs'; M",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G946",
+      "grieks": "βδέλυγμα",
+      "translit": "bdelugma",
+      "woordsoort": "zn",
+      "en_concordant": "gruwel",
+      "grondvorm": "gruwel",
+      "stamfamilie": [
+        "G946",
+        "G948 bdelussomai"
+      ],
+      "toelichting": "Gruwel, walgelijk-iets, afschuwelijk-ding. Concordant: 'gruwel'. Mat 24:15 / Mar 13:14 'to bdelugma tēs erēmōseōs' (gruw",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G206",
+      "grieks": "ἄκρον",
+      "translit": "akron",
+      "woordsoort": "zn",
+      "en_concordant": "outerste",
+      "grondvorm": "uiterste",
+      "stamfamilie": [
+        "G206"
+      ],
+      "toelichting": "Uiterste, top, eind-punt. Concordant: 'uiterste'. Mat 24:31 / Mar 13:27 'episunaxousin tous eklektous autou ek tōn tessa",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5176",
+      "grieks": "τρώγω",
+      "translit": "trōgō",
+      "woordsoort": "ww",
+      "en_concordant": "kauwen",
+      "grondvorm": "kauwen",
+      "stamfamilie": [
+        "G5176"
+      ],
+      "toelichting": "Kauwen, eten (zichtbaar / nadrukkelijk). Concordant: 'kauwen'. Onderscheid van G2068 esthiō (eten generiek) — trōgō legt",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2787",
+      "grieks": "κιβωτός",
+      "translit": "kibōtos",
+      "woordsoort": "zn",
+      "en_concordant": "ark",
+      "grondvorm": "ark",
+      "stamfamilie": [
+        "G2787"
+      ],
+      "toelichting": "Ark, kist. Concordant: 'ark'. Mat 24:38 / Lukas 17:27 (Noachs-ark 'eis tēn kibōton'); Heb 11:7 'kateskeuasen kibōton'; 1",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2906",
+      "grieks": "κραυγή",
+      "translit": "kraugē",
+      "woordsoort": "zn",
+      "en_concordant": "roep",
+      "grondvorm": "ge-roep",
+      "stamfamilie": [
+        "G2906",
+        "G2896 krazō",
+        "G2905 kraugazō"
+      ],
+      "toelichting": "Geroep, geschreeuw, weeklacht. Zelfstandig naamwoord-afgeleide van krazō-stam. Concordant: 'ge-roep'. Mat 25:6 'mesēs de",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2095",
+      "grieks": "εὖ",
+      "translit": "eu",
+      "woordsoort": "bw",
+      "en_concordant": "wel-good",
+      "grondvorm": "wel-goed",
+      "stamfamilie": [
+        "G2095"
+      ],
+      "toelichting": "Wel, goed, voorspoedig. Concordant: 'wel-goed'. Stand-alone bijwoord en kern-voorvoegsel in eu-samenstellingen (eulogeō,",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4642",
+      "grieks": "σκληρός",
+      "translit": "sklēros",
+      "woordsoort": "bn",
+      "en_concordant": "hard",
+      "grondvorm": "hard",
+      "stamfamilie": [
+        "G4642",
+        "G4644 sklērotrachēlos",
+        "G4645 sklērunō"
+      ],
+      "toelichting": "Hard, hardvochtig, ruw, streng. Concordant: 'hard'. Mat 25:24 'sklēros ei anthrōpos'. Joh 6:60 'sklēros estin ho logos h",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G916",
+      "grieks": "βαρέω",
+      "translit": "bareō",
+      "woordsoort": "ww",
+      "en_concordant": "zwaren",
+      "grondvorm": "be-zwaren",
+      "stamfamilie": [
+        "G916",
+        "G922 baros",
+        "G926 barus"
+      ],
+      "toelichting": "Bezwaren, drukken, neer-drukken. Concordant: 'be-zwaren'. Mat 26:43 / Mar 14:40 (Gethsemane discipelen 'oi ophthalmoi be",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2705",
+      "grieks": "καταφιλέω",
+      "translit": "kataphileō",
+      "woordsoort": "ww",
+      "en_concordant": "in-nig-kiss",
+      "grondvorm": "in-nig-kussen",
+      "stamfamilie": [
+        "G2705",
+        "G5368 phileō",
+        "G2596 kata"
+      ],
+      "toelichting": "Samenstelling kata (vol-uit) + phileō (kussen / liefhebben): hartelijk / herhaaldelijk-kussen. Concordant: 'in-nig-kusse",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2516",
+      "grieks": "καθέζομαι",
+      "translit": "kathezomai",
+      "woordsoort": "ww",
+      "en_concordant": "down-sit",
+      "grondvorm": "neder-zitten",
+      "stamfamilie": [
+        "G2516",
+        "G2596 kata",
+        "G1476 hedraios"
+      ],
+      "toelichting": "Samenstelling kata (neer) + hezomai (zitten): neder-zitten. Concordant: 'neder-zitten'. Mat 26:55 'kath' hēmeran en tōi ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1716",
+      "grieks": "ἐμπτύω",
+      "translit": "emptuō",
+      "woordsoort": "ww",
+      "en_concordant": "spuwen",
+      "grondvorm": "be-spuwen",
+      "stamfamilie": [
+        "G1716",
+        "G4429 ptuō",
+        "G1722 en"
+      ],
+      "toelichting": "Samenstelling en (in) + ptuō (spuwen): in-iemands-gezicht-spuwen, bespuwen. Concordant: 'be-spuwen'. Mat 26:67, 27:30 / ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4057",
+      "grieks": "περισσῶς",
+      "translit": "perissōs",
+      "woordsoort": "bw",
+      "en_concordant": "overvloedig",
+      "grondvorm": "overvloedig",
+      "stamfamilie": [
+        "G4057",
+        "G4053 perissos"
+      ],
+      "toelichting": "Overvloedig, des-te-meer, in-zeer-grote-mate. Bijwoord-afgeleide van perissos. Concordant: 'overvloedig'. Mat 27:23 / Ma",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2847",
+      "grieks": "κόκκινος",
+      "translit": "kokkinos",
+      "woordsoort": "bn",
+      "en_concordant": "scharlaken",
+      "grondvorm": "scharlaken",
+      "stamfamilie": [
+        "G2847",
+        "G2848 kokkos"
+      ],
+      "toelichting": "Scharlaken-rood. Stam-verwant met kokkos (de scharlaken-vrucht waarvan kleurstof werd gemaakt). Concordant: 'scharlaken'",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2956",
+      "grieks": "Κυρηναῖος",
+      "translit": "kurēnaios",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Cyreneer-pn",
+      "grondvorm": "Cyreneeër",
+      "stamfamilie": [
+        "G2956"
+      ],
+      "toelichting": "Cyreneeër, uit-Cyrene (Noord-Afrika). Concordant: 'Cyreneeër'. Mat 27:32 / Mar 15:21 / Lukas 23:26 (Simon de Cyreneeër '",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2441",
+      "grieks": "ἱματισμός",
+      "translit": "himatismos",
+      "woordsoort": "zn",
+      "en_concordant": "kledij-himatismos",
+      "grondvorm": "kledij",
+      "stamfamilie": [
+        "G2441",
+        "G2440 himation"
+      ],
+      "toelichting": "Kledij, kledings-stuk-collectief. Zelfstandig naamwoord-afgeleide van himation. Concordant: 'kledij'. Mat 27:35 / Joh 19",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2665",
+      "grieks": "καταπέτασμα",
+      "translit": "katapetasma",
+      "woordsoort": "zn",
+      "en_concordant": "before-hangsel",
+      "grondvorm": "voor-hangsel",
+      "stamfamilie": [
+        "G2665",
+        "G4072 petomai (verwante stam)",
+        "G2596 kata"
+      ],
+      "toelichting": "Voorhangsel, gordijn-tussen-heilige-en-allerheiligste. Concordant: 'voor-hangsel'. Mat 27:51 / Mar 15:38 / Lukas 23:45 '",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4616",
+      "grieks": "σινδών",
+      "translit": "sindōn",
+      "woordsoort": "zn",
+      "en_concordant": "linen-cloth",
+      "grondvorm": "linnen-doek",
+      "stamfamilie": [
+        "G4616"
+      ],
+      "toelichting": "Linnen-doek, fijn linnen. Concordant: 'linnen-doek'. Mat 27:59 / Mar 15:46 / Lukas 23:53 'enetulixen auto sindoni' (Jezu",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3904",
+      "grieks": "παρασκευή",
+      "translit": "paraskeuē",
+      "woordsoort": "zn",
+      "en_concordant": "before-bereiding",
+      "grondvorm": "voor-bereiding",
+      "stamfamilie": [
+        "G3904",
+        "G2680 kataskeuazō",
+        "G3844 para"
+      ],
+      "toelichting": "Voorbereiding (technisch: vrijdag = voorbereidings-dag voor sabbat). Concordant: 'voor-bereiding'. Mat 27:62 'tēi de epa",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1733",
+      "grieks": "ἕνδεκα",
+      "translit": "hendeka",
+      "woordsoort": "tw",
+      "en_concordant": "elf",
+      "grondvorm": "elf",
+      "stamfamilie": [
+        "G1733",
+        "G1734 hendekatos"
+      ],
+      "toelichting": "Elf. Concordant: 'elf'. Vrijwel uitsluitend voor 'de elf apostelen' (na Judas' dood, voor Matthias' verkiezing): Mat 28:",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3906",
+      "grieks": "παρατηρέω",
+      "translit": "paratēreō",
+      "woordsoort": "ww",
+      "en_concordant": "beside-waarnemen",
+      "grondvorm": "naast-waarnemen",
+      "stamfamilie": [
+        "G3906",
+        "G5083 tēreō",
+        "G3844 para"
+      ],
+      "toelichting": "Samenstelling para (naast, langs) + tēreō (bewaken / waarnemen): nauwkeurig-bespieden, observeren-met-vijandige-bedoelin",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4142",
+      "grieks": "πλοιάριον",
+      "translit": "ploiarion",
+      "woordsoort": "zn",
+      "en_concordant": "boat-je",
+      "grondvorm": "boot-je",
+      "stamfamilie": [
+        "G4142",
+        "G4143 ploion"
+      ],
+      "toelichting": "Bootje, kleine-boot. Verkleinvorm van ploion. Concordant: 'boot-je'. Mar 3:9, 4:36 (variant); Joh 6:22-24 'alla ploiaria",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3148",
+      "grieks": "μάστιξ",
+      "translit": "mastix",
+      "woordsoort": "zn",
+      "en_concordant": "gee-sel",
+      "grondvorm": "gee-sel",
+      "stamfamilie": [
+        "G3148",
+        "G3146 mastigoō"
+      ],
+      "toelichting": "Geesel, gesel-slag, plaag. Concordant: 'gee-sel'. Mar 3:10, 5:29-34, Lukas 7:21 'mastigōn ponērōn' (kwellingen / kwalen ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4993",
+      "grieks": "σωφρονέω",
+      "translit": "sōphroneō",
+      "woordsoort": "ww",
+      "en_concordant": "zonnen-be",
+      "grondvorm": "be-zonnen-zijn",
+      "stamfamilie": [
+        "G4993",
+        "G4995 sōphronismos",
+        "G4998 sōphrōn",
+        "G4997 sōphrosunē"
+      ],
+      "toelichting": "Bezonnen-zijn, gezond-verstand-hebben, zelfbeheerst-denken. Etymologisch: sōs (gezond) + phrēn (verstand) = met-gezond-v",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1824",
+      "grieks": "ἐξαυτῆς",
+      "translit": "exautēs",
+      "woordsoort": "bw",
+      "en_concordant": "ter-stond",
+      "grondvorm": "ter-stond",
+      "stamfamilie": [
+        "G1824",
+        "G1537 ek",
+        "G846 autos"
+      ],
+      "toelichting": "Terstond, op-staande-voet, dadelijk. Etymologisch: ex autēs (hōrās) — uit dezelfde uur. Concordant: 'ter-stond'. Mar 6:2",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G657",
+      "grieks": "ἀποτάσσω",
+      "translit": "apotassomai",
+      "woordsoort": "ww",
+      "en_concordant": "af-say",
+      "grondvorm": "af-zeggen",
+      "stamfamilie": [
+        "G657",
+        "G5021 tassō",
+        "G575 apo"
+      ],
+      "toelichting": "Samenstelling apo (vanaf) + tassomai (zich-rangschikken) mediaal: zich-afmelden, vaarwel-zeggen, zich-losmaken-van. Conc",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2990",
+      "grieks": "λανθάνω",
+      "translit": "lanthanō",
+      "woordsoort": "ww",
+      "en_concordant": "verborgen-remain",
+      "grondvorm": "verborgen-blijven",
+      "stamfamilie": [
+        "G2990",
+        "G1950 epilanthanomai"
+      ],
+      "toelichting": "Verborgen-blijven, ontgaan, onopgemerkt-blijven. Concordant: 'verborgen-blijven'. Mar 7:24 'ouk ēdunēthē lathein'. Lukas",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4727",
+      "grieks": "στενάζω",
+      "translit": "stenazō",
+      "woordsoort": "ww",
+      "en_concordant": "zuchten",
+      "grondvorm": "zuchten",
+      "stamfamilie": [
+        "G4727",
+        "G4730 stenochōria",
+        "G4928 sustenazō"
+      ],
+      "toelichting": "Zuchten, kreunen. Concordant: 'zuchten'. Mar 7:34 (Jezus 'estenaxen' bij doofstomme). Rom 8:23 'kai autoi en heautois st",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G609",
+      "grieks": "ἀποκόπτω",
+      "translit": "apokoptō",
+      "woordsoort": "ww",
+      "en_concordant": "af-houwen",
+      "grondvorm": "af-houwen",
+      "stamfamilie": [
+        "G609",
+        "G2875 koptō",
+        "G575 apo"
+      ],
+      "toelichting": "Samenstelling apo (vanaf) + koptō (slaan): af-hakken, afsnijden. Concordant: 'af-houwen'. Mar 9:43-45 'apokopson autēn' ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G650",
+      "grieks": "ἀποστερέω",
+      "translit": "apostereō",
+      "woordsoort": "ww",
+      "en_concordant": "roven",
+      "grondvorm": "be-roven",
+      "stamfamilie": [
+        "G650"
+      ],
+      "toelichting": "Beroven, verkort-houden, onthouden. Concordant: 'be-roven'. Mar 10:19 'mē aposterēsēs' (variant aan tien-geboden). 1 Kor",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G363",
+      "grieks": "ἀναμιμνῄσκω",
+      "translit": "anamimnēskō",
+      "woordsoort": "ww",
+      "en_concordant": "in-herinnering-bring-anamimnesko",
+      "grondvorm": "in-herinnering-brengen",
+      "stamfamilie": [
+        "G363",
+        "G3415 mimnēskomai",
+        "G303 ana"
+      ],
+      "toelichting": "Samenstelling ana (op) + mimnēskō (herinneren): weer-in-herinnering-brengen, opnieuw-doen-gedenken. Concordant: 'in-heri",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1364",
+      "grieks": "δίς",
+      "translit": "dis",
+      "woordsoort": "bw",
+      "en_concordant": "tweemaal",
+      "grondvorm": "tweemaal",
+      "stamfamilie": [
+        "G1364",
+        "G1417 duo"
+      ],
+      "toelichting": "Tweemaal. Concordant: 'tweemaal'. Mar 14:30, 14:72 'prin alektora dis phōnēsai' (haan tweemaal kraait — Petrus' verlooch",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2328",
+      "grieks": "θερμαίνομαι",
+      "translit": "thermainomai",
+      "woordsoort": "ww",
+      "en_concordant": "zich-warmen",
+      "grondvorm": "zich-warmen",
+      "stamfamilie": [
+        "G2328",
+        "G2329 thermē"
+      ],
+      "toelichting": "Zich warmen. Concordant: 'zich-warmen'. Vrijwel uitsluitend Petrus' verloochenings-context: Mar 14:54-67, Joh 18:18-25 '",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5499",
+      "grieks": "χειροποίητος",
+      "translit": "cheiropoiētos",
+      "woordsoort": "bn",
+      "en_concordant": "met-handen-gemaakt",
+      "grondvorm": "met-handen-gemaakt",
+      "stamfamilie": [
+        "G5499",
+        "G5495 cheir",
+        "G4160 poieō"
+      ],
+      "toelichting": "Samenstelling cheir (hand) + poiētos (gemaakt): met-handen-gemaakt. Concordant: 'met-handen-gemaakt'. Mar 14:58 'katalus",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G223",
+      "grieks": "Ἀλέξανδρος",
+      "translit": "alexandros",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Alexander-pn",
+      "grondvorm": "Alexander",
+      "stamfamilie": [
+        "G223"
+      ],
+      "toelichting": "Alexander. Letterlijk 'mannen-afweerder'. NT kent meerdere: Mar 15:21 (zoon van Simon de Cyreneeër); Hand 4:6 (lid hogep",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4225",
+      "grieks": "πού",
+      "translit": "pou",
+      "woordsoort": "bw",
+      "en_concordant": "somewhere-pou",
+      "grondvorm": "ergens",
+      "stamfamilie": [
+        "G4225",
+        "G4226 pou-vraag"
+      ],
+      "toelichting": "Ergens, op-een-zekere-plaats (onbeklemtoonde-vorm — onderscheid van vraagvorm G4226 pou). Concordant: 'ergens'. Hand 27:",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2368",
+      "grieks": "θυμίαμα",
+      "translit": "thumiama",
+      "woordsoort": "zn",
+      "en_concordant": "reuk-werk",
+      "grondvorm": "reuk-werk",
+      "stamfamilie": [
+        "G2368",
+        "G2370 thumiaō",
+        "G2369 thumiastērion"
+      ],
+      "toelichting": "Reukwerk, wierook-aanbieding. Concordant: 'reuk-werk'. Lukas 1:10-11 'tēi hōrai tou thumiamatos... estē... epi tou thusi",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G545",
+      "grieks": "ἀπειθής",
+      "translit": "apeithēs",
+      "woordsoort": "bn",
+      "en_concordant": "on-gehoorzaam",
+      "grondvorm": "on-gehoorzaam",
+      "stamfamilie": [
+        "G545",
+        "G544 apeitheō",
+        "G3982 peithō"
+      ],
+      "toelichting": "Ongehoorzaam, niet-overtuigd. Bijvoeglijk afgeleide. Concordant: 'on-gehoorzaam'. Lukas 1:17 'apeitheis en phronēsei dik",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3009",
+      "grieks": "λειτουργία",
+      "translit": "leitourgia",
+      "woordsoort": "zn",
+      "en_concordant": "volks-dienst",
+      "grondvorm": "volks-dienst",
+      "stamfamilie": [
+        "G3009",
+        "G3008 leitourgeō",
+        "G3011 leitourgos",
+        "G2992 laos",
+        "G2041 ergon"
+      ],
+      "toelichting": "Samenstelling laos (volk) + ergon (werk): volks-dienst, gemeenschaps-dienst, eredienst. Concordant: 'volks-dienst'. Luka",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5311",
+      "grieks": "ὕψος",
+      "translit": "hupsos",
+      "woordsoort": "zn",
+      "en_concordant": "high-te",
+      "grondvorm": "hoog-te",
+      "stamfamilie": [
+        "G5311",
+        "G5312 hupsoō",
+        "G5310 hupsistos"
+      ],
+      "toelichting": "Hoogte. Concordant: 'hoog-te'. Lukas 1:78 'anatolē ex hupsous' (opgang-uit-de-hoogte — messiaans). Lukas 24:49 'enduēsth",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4692",
+      "grieks": "σπεύδω",
+      "translit": "speudō",
+      "woordsoort": "ww",
+      "en_concordant": "zich-haasten",
+      "grondvorm": "zich-haasten",
+      "stamfamilie": [
+        "G4692"
+      ],
+      "toelichting": "Zich haasten, spoeden, vurig-streven-naar. Concordant: 'zich-haasten'. Lukas 2:16 (herders 'speusantes ēlthon kai aneura",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4820",
+      "grieks": "συμβάλλω",
+      "translit": "sumballō",
+      "woordsoort": "ww",
+      "en_concordant": "togetre-werpen",
+      "grondvorm": "samen-werpen",
+      "stamfamilie": [
+        "G4820",
+        "G906 ballō",
+        "G4862 sun"
+      ],
+      "toelichting": "Samenstelling sun (samen) + ballō (werpen): samen-werpen, ontmoeten, beraadslagen, overdenken. Concordant: 'samen-werpen",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4826",
+      "grieks": "Συμεών",
+      "translit": "sumeōn",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Simeon-pn",
+      "grondvorm": "Simeon",
+      "stamfamilie": [
+        "G4826",
+        "G4613 Simōn"
+      ],
+      "toelichting": "Simeon. Hebreeuwse vorm (H8095 Shimon = horende). Onderscheid van Griekse vorm G4613 Simōn (Simon — NT-personen). NT-Sum",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4298",
+      "grieks": "προκόπτω",
+      "translit": "prokoptō",
+      "woordsoort": "ww",
+      "en_concordant": "before-out-houwen",
+      "grondvorm": "voor-uit-houwen",
+      "stamfamilie": [
+        "G4298",
+        "G2875 koptō",
+        "G4253 pro",
+        "G4297 prokopē"
+      ],
+      "toelichting": "Samenstelling pro (voor) + koptō (slaan / houwen): voor-uit-houwen (pad banend), voortgaan, vorderen. Concordant: 'voor-",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3353",
+      "grieks": "μέτοχος",
+      "translit": "metochos",
+      "woordsoort": "bijvoeglijk naamwoord/znw",
+      "en_concordant": "deel-genoot-metochos",
+      "grondvorm": "deel-genoot",
+      "stamfamilie": [
+        "G3353",
+        "G3348 metechō"
+      ],
+      "toelichting": "Deelgenoot, mede-deelhebber. Bijvoeglijk afgeleide van metechō. Concordant: 'deel-genoot'. Lukas 5:7 'tois metochois en ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2859",
+      "grieks": "κόλπος",
+      "translit": "kolpos",
+      "woordsoort": "zn",
+      "en_concordant": "boe-zem",
+      "grondvorm": "boe-zem",
+      "stamfamilie": [
+        "G2859"
+      ],
+      "toelichting": "Boezem, schoot, baai. Concordant: 'boe-zem'. Lukas 6:38 'metron kalon... eis ton kolpon humōn' (gevulde-maat in uw schoo",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G588",
+      "grieks": "ἀποδέχομαι",
+      "translit": "apodechomai",
+      "woordsoort": "ww",
+      "en_concordant": "af-onnemen",
+      "grondvorm": "af-aannemen",
+      "stamfamilie": [
+        "G588",
+        "G1209 dechomai",
+        "G575 apo"
+      ],
+      "toelichting": "Samenstelling apo (vanaf) + dechomai (ontvangen): aannemen-met-instemming, gunstig-ontvangen. Concordant: 'af-aannemen'.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4876",
+      "grieks": "συναντάω",
+      "translit": "sunantaō",
+      "woordsoort": "ww",
+      "en_concordant": "togetre-anti-come",
+      "grondvorm": "samen-tegen-komen",
+      "stamfamilie": [
+        "G4876",
+        "G528 apantaō",
+        "G4862 sun"
+      ],
+      "toelichting": "Samenstelling sun (samen) + antaō (tegenkomen): samen-ontmoeten. Concordant: 'samen-tegen-komen'. Lukas 9:18, 9:37, 22:1",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4648",
+      "grieks": "σκοπέω",
+      "translit": "skopeō",
+      "woordsoort": "ww",
+      "en_concordant": "letten-up",
+      "grondvorm": "letten-op",
+      "stamfamilie": [
+        "G4648",
+        "G4649 skopos",
+        "G1985 episkopos"
+      ],
+      "toelichting": "Letten-op, doel-zetten, achten. Concordant: 'letten-op'. Lukas 11:35 'skopei oun mē to phōs to en soi skotos estin'. Rom",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4909",
+      "grieks": "συνευδοκέω",
+      "translit": "suneudokeō",
+      "woordsoort": "ww",
+      "en_concordant": "co-instemmen",
+      "grondvorm": "mede-instemmen",
+      "stamfamilie": [
+        "G4909",
+        "G2106 eudokeō",
+        "G4862 sun"
+      ],
+      "toelichting": "Samenstelling sun (samen) + eudokeō (welbehagen-hebben): mede-welbehagen, instemmen-met. Concordant: 'mede-instemmen'. L",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1311",
+      "grieks": "διαφθείρω",
+      "translit": "diaphtheirō",
+      "woordsoort": "ww",
+      "en_concordant": "through-verderven",
+      "grondvorm": "door-verderven",
+      "stamfamilie": [
+        "G1311",
+        "G5351 phtheirō",
+        "G1223 dia"
+      ],
+      "toelichting": "Samenstelling dia (door, vol-uit) + phtheirō (bederven): vol-verderven, vernietigen. Concordant: 'door-verderven'. Lukas",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2039",
+      "grieks": "ἐργασία",
+      "translit": "ergasia",
+      "woordsoort": "zn",
+      "en_concordant": "werk-bedrijf",
+      "grondvorm": "werk-bedrijf",
+      "stamfamilie": [
+        "G2039",
+        "G2038 ergazomai",
+        "G2041 ergon"
+      ],
+      "toelichting": "Werk, bedrijf, winstgevende-handeling. Zelfstandig naamwoord-afgeleide van ergazomai. Concordant: 'werk-bedrijf'. Lukas ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G152",
+      "grieks": "αἰσχύνη",
+      "translit": "aischunē",
+      "woordsoort": "zn",
+      "en_concordant": "shame",
+      "grondvorm": "schaamte",
+      "stamfamilie": [
+        "G152",
+        "G153 aischunō",
+        "G2617 kataischunō",
+        "G1870 epaischunomai"
+      ],
+      "toelichting": "Schaamte, schande. Concordant: 'schaamte'. Lukas 14:9 'tote arxēi meta aischunēs ton eschaton topon katechein'. 2 Kor 4:",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3448",
+      "grieks": "μόσχος",
+      "translit": "moschos",
+      "woordsoort": "zn",
+      "en_concordant": "calf",
+      "grondvorm": "kalf",
+      "stamfamilie": [
+        "G3448"
+      ],
+      "toelichting": "Kalf, jong-rund. Concordant: 'kalf'. Lukas 15:23-30 'thusate ton moschon ton siteuton' (verloren-zoon — gemeste kalf). H",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1867",
+      "grieks": "ἐπαινέω",
+      "translit": "epaineō",
+      "woordsoort": "ww",
+      "en_concordant": "praise-prijzen",
+      "grondvorm": "lof-prijzen",
+      "stamfamilie": [
+        "G1867",
+        "G1868 epainos",
+        "G134 aineō"
+      ],
+      "toelichting": "Loven, prijzen. Samenstelling epi + aineō. Concordant: 'lof-prijzen'. Lukas 16:8 'epēnesen ho kurios ton oikonomon tēs a",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1573",
+      "grieks": "ἐκκακέω",
+      "translit": "ekkakeō",
+      "woordsoort": "ww",
+      "en_concordant": "moedeloos-become",
+      "grondvorm": "moedeloos-worden",
+      "stamfamilie": [
+        "G1573",
+        "G2556 kakos",
+        "G1537 ek"
+      ],
+      "toelichting": "Samenstelling ek (uit) + kakeō (kwaad-worden / verzwakken): moedeloos-worden, ophouden-uit-vermoeidheid. Concordant: 'mo",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1556",
+      "grieks": "ἐκδικέω",
+      "translit": "ekdikeō",
+      "woordsoort": "ww",
+      "en_concordant": "out-recht-do",
+      "grondvorm": "uit-recht-doen",
+      "stamfamilie": [
+        "G1556",
+        "G1557 ekdikēsis",
+        "G1342 dikaios"
+      ],
+      "toelichting": "Samenstelling ek (uit) + dikeō-stam: recht-uit-onrecht-halen, vergelden, wreken. Concordant: 'uit-recht-doen'. Lukas 18:",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3007",
+      "grieks": "λείπω",
+      "translit": "leipō",
+      "woordsoort": "ww",
+      "en_concordant": "un-break",
+      "grondvorm": "ont-breken",
+      "stamfamilie": [
+        "G3007",
+        "G3062 loipos",
+        "G2641 kataleipō",
+        "G1459 enkataleipō"
+      ],
+      "toelichting": "Ontbreken, ontbreken-aan, achter-laten. Concordant: 'ont-breken'. Lukas 18:22 'eti hen soi leipei' (één ding ontbreekt u",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4455",
+      "grieks": "πώποτε",
+      "translit": "pōpote",
+      "woordsoort": "bw",
+      "en_concordant": "ooit",
+      "grondvorm": "ooit",
+      "stamfamilie": [
+        "G4455"
+      ],
+      "toelichting": "Ooit, op-enig-moment. Concordant: 'ooit'. Vrijwel altijd in negatieve constructies: 'oudeis pōpote' = nooit-iemand-ooit.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G818",
+      "grieks": "ἀτιμάζω",
+      "translit": "atimazō",
+      "woordsoort": "ww",
+      "en_concordant": "un-eren",
+      "grondvorm": "ont-eren",
+      "stamfamilie": [
+        "G818",
+        "G819 atimia",
+        "G820 atimos"
+      ],
+      "toelichting": "Onteren, beschamen, smadelijk-behandelen. Werkwoord-afgeleide van atimia. Concordant: 'ont-eren'. Lukas 20:11 (boze wijn",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2189",
+      "grieks": "ἔχθρα",
+      "translit": "echthra",
+      "woordsoort": "zn",
+      "en_concordant": "enemy-schap",
+      "grondvorm": "vijand-schap",
+      "stamfamilie": [
+        "G2189",
+        "G2190 echthros"
+      ],
+      "toelichting": "Vijandschap. Zelfstandig naamwoord-afgeleide van echthros. Concordant: 'vijand-schap'. Lukas 23:12 'sun gar te ousēs ech",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1719",
+      "grieks": "ἔμφοβος",
+      "translit": "emphobos",
+      "woordsoort": "bn",
+      "en_concordant": "vreesd",
+      "grondvorm": "be-vreesd",
+      "stamfamilie": [
+        "G1719",
+        "G5401 phobos",
+        "G1722 en"
+      ],
+      "toelichting": "Bevreesd, met-vrees-vervuld. Samenstelling en (in) + phobos (vrees). Concordant: 'be-vreesd'. Lukas 24:5 'emphobōn de ge",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4712",
+      "grieks": "στάδιον",
+      "translit": "stadion",
+      "woordsoort": "zn",
+      "en_concordant": "stadie",
+      "grondvorm": "stadie",
+      "stamfamilie": [
+        "G4712"
+      ],
+      "toelichting": "Stadie (afstandsmaat ~185 m), renbaan. Concordant: 'stadie'. Lukas 24:13 (Emmaüs 'stadious hexēkonta' — 60 stadiën = ~11",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G453",
+      "grieks": "ἀνόητος",
+      "translit": "anoētos",
+      "woordsoort": "bn",
+      "en_concordant": "on-prudent",
+      "grondvorm": "on-verstandig",
+      "stamfamilie": [
+        "G453",
+        "G3539 noeō (a-privans)",
+        "G3563 nous"
+      ],
+      "toelichting": "Onverstandig, dwaas, niet-denkend. A-privans + noeō. Concordant: 'on-verstandig'. Lukas 24:25 'ō anoētoi kai bradeis tēi",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1329",
+      "grieks": "διερμηνεύω",
+      "translit": "diermēneuō",
+      "woordsoort": "ww",
+      "en_concordant": "through-vertolken",
+      "grondvorm": "door-vertolken",
+      "stamfamilie": [
+        "G1329",
+        "G2059 hermēneuō",
+        "G1223 dia"
+      ],
+      "toelichting": "Samenstelling dia (door, vol-uit) + hermēneuō (vertolken): door-tolken, uitleggen-bij-vertaling. Concordant: 'door-verto",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1834",
+      "grieks": "ἐξηγέομαι",
+      "translit": "exēgeomai",
+      "woordsoort": "ww",
+      "en_concordant": "out-lead-exegeomai",
+      "grondvorm": "uit-leiden",
+      "stamfamilie": [
+        "G1834",
+        "G2233 hēgeomai",
+        "G1537 ek"
+      ],
+      "toelichting": "Samenstelling ek (uit) + hēgeomai (leiden / vertellen): uit-leggen, vertellen, uitleg-geven. Concordant: 'uit-leiden'. L",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2786",
+      "grieks": "Κηφᾶς",
+      "translit": "kēphas",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Kefas-pn",
+      "grondvorm": "Kefas",
+      "stamfamilie": [
+        "G2786",
+        "G4074 Petros"
+      ],
+      "toelichting": "Kefas. Aramees leenwoord (kepha = rots). Concordant: 'Kefas' om Aramees-origineel te bewaren. Joh 1:42 'sebleōsthēsei Kē",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3482",
+      "grieks": "Ναθαναήλ",
+      "translit": "nathanaēl",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Nathanal-pn",
+      "grondvorm": "Nathanaël",
+      "stamfamilie": [
+        "G3482"
+      ],
+      "toelichting": "Nathanaël. Hebreeuws (Nethanel = God-heeft-gegeven). Discipel van Jezus, mogelijk identiek met Bartolomeüs. Joh 1:45-49 ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2214",
+      "grieks": "ζήτησις",
+      "translit": "zētēsis",
+      "woordsoort": "zn",
+      "en_concordant": "quarrel-vraag",
+      "grondvorm": "twist-vraag",
+      "stamfamilie": [
+        "G2214",
+        "G2212 zēteō"
+      ],
+      "toelichting": "Onderzoek, dispuut, twistvraag. Zelfstandig naamwoord-afgeleide van zēteō. Concordant: 'twist-vraag'. Joh 3:25 'egeneto ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1447",
+      "grieks": "Ἑβραϊστί",
+      "translit": "hebraisti",
+      "woordsoort": "bw",
+      "en_concordant": "in-Hebreeuws",
+      "grondvorm": "in-Hebreeuws",
+      "stamfamilie": [
+        "G1447",
+        "G1446 Hebrais"
+      ],
+      "toelichting": "In-Hebreeuws / in-Aramees (NT-tijd onderscheid niet altijd scherp). Concordant: 'in-Hebreeuws'. Joh 5:2 'epi tēi probati",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2045",
+      "grieks": "ἐρευνάω",
+      "translit": "ereunaō",
+      "woordsoort": "ww",
+      "en_concordant": "under-seek-ereunao",
+      "grondvorm": "onder-zoeken",
+      "stamfamilie": [
+        "G2045"
+      ],
+      "toelichting": "Onderzoeken, navorsen, doorzoeken. Concordant: 'onder-zoeken'. Joh 5:39 'ereunate tas graphas, hoti humeis dokeite en au",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4081",
+      "grieks": "πηλός",
+      "translit": "pēlos",
+      "woordsoort": "zn",
+      "en_concordant": "leem",
+      "grondvorm": "leem",
+      "stamfamilie": [
+        "G4081"
+      ],
+      "toelichting": "Leem, modder. Concordant: 'leem'. Joh 9:6-15 (zes maal — Jezus maakt 'pēlon ek tou ptusmatos' om blindgeborene te geneze",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3744",
+      "grieks": "ὀσμή",
+      "translit": "osmē",
+      "woordsoort": "zn",
+      "en_concordant": "geur",
+      "grondvorm": "geur",
+      "stamfamilie": [
+        "G3744",
+        "G3750 osphrēsis"
+      ],
+      "toelichting": "Geur, reuk. Concordant: 'geur'. Joh 12:3 'hē oikia eplērōthē ek tēs osmēs tou murou' (Maria's nardus-zalving). 2 Kor 2:1",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4591",
+      "grieks": "σημαίνω",
+      "translit": "sēmainō",
+      "woordsoort": "ww",
+      "en_concordant": "tekenen",
+      "grondvorm": "be-tekenen",
+      "stamfamilie": [
+        "G4591",
+        "G4592 sēmeion"
+      ],
+      "toelichting": "Aanduiden, betekenen, te-kennen-geven. Werkwoord-afgeleide van sēmeion. Concordant: 'be-tekenen'. Joh 12:33, 18:32, 21:1",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3068",
+      "grieks": "λούω",
+      "translit": "louō",
+      "woordsoort": "ww",
+      "en_concordant": "baden",
+      "grondvorm": "baden",
+      "stamfamilie": [
+        "G3068",
+        "G3067 loutron",
+        "G628 apolouō"
+      ],
+      "toelichting": "Baden, geheel-wassen. Concordant: 'baden'. Onderscheid van G3538 niptō (gedeelte-wassen — handen / voeten / gezicht) en ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5262",
+      "grieks": "ὑπόδειγμα",
+      "translit": "hupodeigma",
+      "woordsoort": "zn",
+      "en_concordant": "before-beeld",
+      "grondvorm": "voor-beeld",
+      "stamfamilie": [
+        "G5262",
+        "G5263 hupodeiknumi"
+      ],
+      "toelichting": "Voorbeeld, model, type. Zelfstandig naamwoord-afgeleide van hupodeiknumi. Concordant: 'voor-beeld'. Onderscheid van G517",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3696",
+      "grieks": "ὅπλον",
+      "translit": "hoplon",
+      "woordsoort": "zn",
+      "en_concordant": "wapen",
+      "grondvorm": "wapen",
+      "stamfamilie": [
+        "G3696",
+        "G3833 panoplia"
+      ],
+      "toelichting": "Wapen. Concordant: 'wapen'. Joh 18:3 'meta phanōn kai lampadōn kai hoplōn'. Rom 6:13 'mēde paristanete ta melē humōn hop",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1258",
+      "grieks": "διάλεκτος",
+      "translit": "dialektos",
+      "woordsoort": "zn",
+      "en_concordant": "spreek-wijze",
+      "grondvorm": "spreek-wijze",
+      "stamfamilie": [
+        "G1258",
+        "G1256 dialegomai"
+      ],
+      "toelichting": "Dialect, taal-spreekwijze. Zelfstandig naamwoord-afgeleide van dialegomai. Concordant: 'spreek-wijze'. Vrijwel uitsluite",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1312",
+      "grieks": "διαφθορά",
+      "translit": "diaphthora",
+      "woordsoort": "zn",
+      "en_concordant": "through-bederf",
+      "grondvorm": "door-bederf",
+      "stamfamilie": [
+        "G1312",
+        "G1311 diaphtheirō",
+        "G5356 phthora"
+      ],
+      "toelichting": "Bederf, vergankelijkheid, ontbinding-na-dood. Zelfstandig naamwoord-afgeleide van diaphtheirō. Concordant: 'door-bederf'",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3335",
+      "grieks": "μεταλαμβάνω",
+      "translit": "metalambanō",
+      "woordsoort": "ww",
+      "en_concordant": "deel-take",
+      "grondvorm": "deel-nemen",
+      "stamfamilie": [
+        "G3335",
+        "G2983 lambanō",
+        "G3326 meta"
+      ],
+      "toelichting": "Samenstelling meta (mede) + lambanō (nemen): mede-deelhebben, deel-nemen-aan. Concordant: 'deel-nemen'. Hand 2:46 'metel",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4309",
+      "grieks": "προορίζω",
+      "translit": "proorizō",
+      "woordsoort": "ww",
+      "en_concordant": "before-bestemmen",
+      "grondvorm": "voor-bestemmen",
+      "stamfamilie": [
+        "G4309",
+        "G3724 horizō",
+        "G4253 pro"
+      ],
+      "toelichting": "Samenstelling pro (voor) + horizō (begrenzen / bestemmen): vooraf-bepalen, voorbestemmen. Concordant: 'voor-bestemmen'. ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G236",
+      "grieks": "ἀλλάσσω",
+      "translit": "allassō",
+      "woordsoort": "ww",
+      "en_concordant": "anderen",
+      "grondvorm": "ver-anderen",
+      "stamfamilie": [
+        "G236",
+        "G243 allos",
+        "G244 allotrios"
+      ],
+      "toelichting": "Veranderen, verwisselen, ruilen. Werkwoord-afgeleide van allos-stam (anders). Concordant: 'ver-anderen'. Hand 6:14 'alla",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2559",
+      "grieks": "κακόω",
+      "translit": "kakoō",
+      "woordsoort": "ww",
+      "en_concordant": "kwellen-kakoo",
+      "grondvorm": "kwellen",
+      "stamfamilie": [
+        "G2559",
+        "G2556 kakos"
+      ],
+      "toelichting": "Kwellen, mishandelen, kwaad-aandoen. Werkwoord-afgeleide van kakos. Concordant: 'kwellen'. Hand 7:6, 7:19 (Egyptische ve",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3346",
+      "grieks": "μετατίθημι",
+      "translit": "metatithēmi",
+      "woordsoort": "ww",
+      "en_concordant": "ozetten",
+      "grondvorm": "over-zetten",
+      "stamfamilie": [
+        "G3346",
+        "G5087 tithēmi",
+        "G3326 meta"
+      ],
+      "toelichting": "Samenstelling meta (van-plaats-naar-plaats) + tithēmi (zetten): over-zetten, verplaatsen, veranderen. Concordant: 'over-",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G683",
+      "grieks": "ἀπωθέομαι",
+      "translit": "apōtheomai",
+      "woordsoort": "ww",
+      "en_concordant": "away-stoten",
+      "grondvorm": "weg-stoten",
+      "stamfamilie": [
+        "G683",
+        "G575 apo"
+      ],
+      "toelichting": "Wegstoten, afstoten, verwerpen. Concordant: 'weg-stoten'. Hand 7:27, 7:39 (Israël Mozes 'apōsanto'); 13:46 'apōtheisthe ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4822",
+      "grieks": "συμβιβάζω",
+      "translit": "sumbibazō",
+      "woordsoort": "ww",
+      "en_concordant": "togetre-do-stappen",
+      "grondvorm": "samen-doen-stappen",
+      "stamfamilie": [
+        "G4822",
+        "G939 basis",
+        "G4862 sun"
+      ],
+      "toelichting": "Samenstelling sun (samen) + bibazō (stappen / brengen): samenvoegen, beredeneren, instrueren. Concordant: 'samen-doen-st",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2430",
+      "grieks": "Ἰκόνιον",
+      "translit": "ikonion",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Ikonium-pn",
+      "grondvorm": "Ikonium",
+      "stamfamilie": [
+        "G2430"
+      ],
+      "toelichting": "Ikonium, stadje in centraal-Klein-Azië (huidige Konya). Concordant: 'Ikonium'. Hand 13:51, 14:1-21, 16:2 (Paulus' eerste",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3082",
+      "grieks": "Λύστρα",
+      "translit": "lustra",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Lystra-pn",
+      "grondvorm": "Lystra",
+      "stamfamilie": [
+        "G3082"
+      ],
+      "toelichting": "Lystra, stadje in Lycaonië. Concordant: 'Lystra'. Hand 14:6-21 (Paulus daar gestenigd, voor halfdood gehouden); 16:1-2 (",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3152",
+      "grieks": "μάταιος",
+      "translit": "mataios",
+      "woordsoort": "bn",
+      "en_concordant": "ijdel",
+      "grondvorm": "ijdel",
+      "stamfamilie": [
+        "G3152",
+        "G3153 mataiotēs",
+        "G3154 mataioō"
+      ],
+      "toelichting": "Ijdel, vergeefs, nutteloos. Concordant: 'ijdel'. Hand 14:15 'apo toutōn tōn mataiōn epistrephein epi theon zōnta' (van d",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5205",
+      "grieks": "ὑετός",
+      "translit": "huetos",
+      "woordsoort": "zn",
+      "en_concordant": "rain",
+      "grondvorm": "regen",
+      "stamfamilie": [
+        "G5205",
+        "G5197 hubristēs (verschillende stam)",
+        "G1026 brechō (verwante semantiek)"
+      ],
+      "toelichting": "Regen. Concordant: 'regen'. Hand 14:17 'huetous didous'; 28:2 (Maltesers 'hueton ton ephestōta'). Heb 6:7 'gē... pousa t",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3433",
+      "grieks": "μόλις",
+      "translit": "molis",
+      "woordsoort": "bw",
+      "en_concordant": "nauwelijks",
+      "grondvorm": "nauwelijks",
+      "stamfamilie": [
+        "G3433"
+      ],
+      "toelichting": "Nauwelijks, met-moeite. Concordant: 'nauwelijks'. Hand 14:18 'tauta legontes molis katepausan tous ochlous'; 27:7-16 'mo",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G567",
+      "grieks": "ἀπέχομαι",
+      "translit": "apechomai",
+      "woordsoort": "ww",
+      "en_concordant": "zich-af-hold",
+      "grondvorm": "zich-af-houden",
+      "stamfamilie": [
+        "G567",
+        "G568 apechō",
+        "G575 apo"
+      ],
+      "toelichting": "Zich onthouden, zich verre houden van. Mediaal van apechō. Concordant: 'zich-af-houden'. Hand 15:20-29 (apostolisch decr",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5174",
+      "grieks": "Τρῳάς",
+      "translit": "trōas",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Troas-pn",
+      "grondvorm": "Troas",
+      "stamfamilie": [
+        "G5174"
+      ],
+      "toelichting": "Troas. Havenstad noordwest-Klein-Azië. Concordant: 'Troas'. Hand 16:8-11 (Paulus krijgt Macedonisch visioen te Troas); 2",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5375",
+      "grieks": "Φίλιπποι",
+      "translit": "philippoi",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Filippi-pn",
+      "grondvorm": "Filippi",
+      "stamfamilie": [
+        "G5375"
+      ],
+      "toelichting": "Filippi. Romeinse koloniestad in Macedonië. Concordant: 'Filippi'. Hand 16:12, 20:6 (Paulus' eerste-bediening in Europa)",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G116",
+      "grieks": "Ἀθῆναι",
+      "translit": "athēnai",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Athene-pn",
+      "grondvorm": "Athene",
+      "stamfamilie": [
+        "G116",
+        "G117 Athēnaios"
+      ],
+      "toelichting": "Athene. Concordant: 'Athene'. Hand 17:15-16, 18:1; 1 Tess 3:1 'eudokēsamen kataleiphthēnai en Athēnais monoi'.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4163",
+      "grieks": "ποιητής",
+      "translit": "poiētēs",
+      "woordsoort": "zn",
+      "en_concordant": "doe-ner",
+      "grondvorm": "doe-ner",
+      "stamfamilie": [
+        "G4163",
+        "G4160 poieō"
+      ],
+      "toelichting": "Doener, dader. Stam-verwant met poieō. Concordant: 'doe-ner'. Hand 17:28 'hōs kai tines tōn kath' humas poiētōn eirēkasi",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G207",
+      "grieks": "Ἀκύλας",
+      "translit": "akulas",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Aquila-pn",
+      "grondvorm": "Aquila",
+      "stamfamilie": [
+        "G207"
+      ],
+      "toelichting": "Aquila (= adelaar). Latijn leenwoord. Joods-christelijke tentenmaker, echtgenoot van Priscilla. Hand 18:2-26; Rom 16:3 '",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4645",
+      "grieks": "σκληρύνω",
+      "translit": "sklērunō",
+      "woordsoort": "ww",
+      "en_concordant": "verharden",
+      "grondvorm": "verharden",
+      "stamfamilie": [
+        "G4645",
+        "G4642 sklēros"
+      ],
+      "toelichting": "Verharden. Werkwoord-afgeleide van sklēros. Concordant: 'verharden'. Hand 19:9 'tines esklērunonto kai ēpeithoun'. Rom 9",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2331",
+      "grieks": "Θεσσαλονικεύς",
+      "translit": "thessalonikeus",
+      "woordsoort": "zn",
+      "en_concordant": "Tessaloniceër",
+      "grondvorm": "Tessaloniceër",
+      "stamfamilie": [
+        "G2331"
+      ],
+      "toelichting": "Tessaloniceër, uit-Tessalonica (hoofdstad Macedonië). Concordant: 'Tessaloniceër'. Hand 20:4 'Aristarchos... Thessalonik",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G331",
+      "grieks": "ἀνάθεμα",
+      "translit": "anathema",
+      "woordsoort": "zn",
+      "en_concordant": "ban-curse",
+      "grondvorm": "ban-vloek",
+      "stamfamilie": [
+        "G331",
+        "G332 anathematizō",
+        "G334 anathēma"
+      ],
+      "toelichting": "Ban-vloek, vervloekt-iets. Etymologisch ana + tithēmi (omhoog-stellen) — apart-gezet, hetzij voor vloek hetzij voor wijd",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G915",
+      "grieks": "βάρβαρος",
+      "translit": "barbaros",
+      "woordsoort": "bijvoeglijk naamwoord/znw",
+      "en_concordant": "bar-baar",
+      "grondvorm": "bar-baar",
+      "stamfamilie": [
+        "G915"
+      ],
+      "toelichting": "Barbaar, niet-Grieks-sprekende. Etymologisch onomatopee bar-bar (onbegrijpelijke-geluiden). Concordant: 'bar-baar'. Hand",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G763",
+      "grieks": "ἀσέβεια",
+      "translit": "asebeia",
+      "woordsoort": "zn",
+      "en_concordant": "god-deloosheid",
+      "grondvorm": "god-deloosheid",
+      "stamfamilie": [
+        "G763",
+        "G765 asebēs",
+        "G2150 eusebeia"
+      ],
+      "toelichting": "Goddeloosheid, oneerbiedigheid. Tegenpool eusebeia. Concordant: 'god-deloosheid'. Rom 1:18 'orgē theou ap' ouranou epi p",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3667",
+      "grieks": "ὁμοίωμα",
+      "translit": "homoiōma",
+      "woordsoort": "zn",
+      "en_concordant": "lijkenis",
+      "grondvorm": "ge-lijkenis",
+      "stamfamilie": [
+        "G3667",
+        "G3664 homoios",
+        "G3666 homoioō"
+      ],
+      "toelichting": "Gelijkenis, gelijk-vorm, lijkend-beeld. Zelfstandig naamwoord-afgeleide van homoios. Concordant: 'ge-lijkenis'. Rom 1:23",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5349",
+      "grieks": "φθαρτός",
+      "translit": "phthartos",
+      "woordsoort": "bn",
+      "en_concordant": "gankelijk",
+      "grondvorm": "ver-gankelijk",
+      "stamfamilie": [
+        "G5349",
+        "G5351 phtheirō",
+        "G862 aphthartos"
+      ],
+      "toelichting": "Vergankelijk, aan-bederf-onderhevig. Tegenpool G862 aphthartos. Concordant: 'ver-gankelijk'. Rom 1:23 'tou aphthartou th",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2644",
+      "grieks": "καταλλάσσω",
+      "translit": "katallassō",
+      "woordsoort": "ww",
+      "en_concordant": "down-reconcile",
+      "grondvorm": "neder-verzoenen",
+      "stamfamilie": [
+        "G2644",
+        "G236 allassō",
+        "G2596 kata",
+        "G2643 katallagē"
+      ],
+      "toelichting": "Samenstelling kata (vol-uit) + allassō (veranderen): grondig-omkeren, verzoenen. Concordant: 'neder-verzoenen'. KERNWOOR",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2349",
+      "grieks": "θνητός",
+      "translit": "thnētos",
+      "woordsoort": "bn",
+      "en_concordant": "sterf-elijk",
+      "grondvorm": "sterf-elijk",
+      "stamfamilie": [
+        "G2349",
+        "G2348 thnēskō"
+      ],
+      "toelichting": "Sterfelijk. Bijvoeglijk afgeleide van thnēskō. Concordant: 'sterf-elijk'. Rom 6:12 'mē oun basileuetō hē hamartia en tōi",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1512",
+      "grieks": "εἴπερ",
+      "translit": "eiper",
+      "woordsoort": "vgw",
+      "en_concordant": "zo-althans",
+      "grondvorm": "zo-althans",
+      "stamfamilie": [
+        "G1512",
+        "G1487 ei",
+        "G4007 per"
+      ],
+      "toelichting": "Zo althans, indien-werkelijk. Samenstelling ei + per (versterker). Concordant: 'zo-althans'. Rom 8:9 'eiper pneuma theou",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4348",
+      "grieks": "πρόσκομμα",
+      "translit": "proskomma",
+      "woordsoort": "zn",
+      "en_concordant": "struikel-blok",
+      "grondvorm": "struikel-blok",
+      "stamfamilie": [
+        "G4348",
+        "G4350 proskoptō"
+      ],
+      "toelichting": "Struikelblok, aanstoot. Zelfstandig naamwoord-afgeleide van proskoptō. Concordant: 'struikel-blok'. Rom 9:32-33 OT-citaa",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1461",
+      "grieks": "ἐγκεντρίζω",
+      "translit": "enkentrizō",
+      "woordsoort": "ww",
+      "en_concordant": "in-enten",
+      "grondvorm": "in-enten",
+      "stamfamilie": [
+        "G1461",
+        "G1722 en",
+        "G2759 kentron"
+      ],
+      "toelichting": "Inenten, takken-op-onderstam-zetten. Samenstelling en (in) + kentrizō (steken / inenten). Concordant: 'in-enten'. Vrijwe",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G505",
+      "grieks": "ἀνυπόκριτος",
+      "translit": "anupokritos",
+      "woordsoort": "bn",
+      "en_concordant": "on-gehuicheld",
+      "grondvorm": "on-gehuicheld",
+      "stamfamilie": [
+        "G505",
+        "G5272 hupokrisis (a-privans)"
+      ],
+      "toelichting": "Ongeveinsd, niet-huichelend, oprecht. A-privans + hupokrinomai-stam. Concordant: 'on-gehuicheld'. Rom 12:9 'hē agapē anu",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5360",
+      "grieks": "φιλαδελφία",
+      "translit": "philadelphia",
+      "woordsoort": "zn",
+      "en_concordant": "broeder-love",
+      "grondvorm": "broeder-liefde",
+      "stamfamilie": [
+        "G5360",
+        "G5368 phileō",
+        "G80 adelphos"
+      ],
+      "toelichting": "Samenstelling phileō (vriendschappelijk-liefhebben) + adelphos (broeder): broederliefde. Concordant: 'broeder-liefde'. R",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G516",
+      "grieks": "ἀξίως",
+      "translit": "axiōs",
+      "woordsoort": "bw",
+      "en_concordant": "waardig-axios",
+      "grondvorm": "waardig",
+      "stamfamilie": [
+        "G516",
+        "G514 axios",
+        "G515 axioō"
+      ],
+      "toelichting": "Waardig, op-waardige-wijze. Bijwoord-afgeleide van axios. Concordant: 'waardig'. Rom 16:2 'hina autēn prosdexēsthe en ku",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5591",
+      "grieks": "ψυχικός",
+      "translit": "psuchikos",
+      "woordsoort": "bn",
+      "en_concordant": "zielig",
+      "grondvorm": "zielig",
+      "stamfamilie": [
+        "G5591",
+        "G5590 psuchē",
+        "G4152 pneumatikos"
+      ],
+      "toelichting": "Zielig, ziel-betreffend, natuurlijk. Bijvoeglijk afgeleide van psuchē. Concordant: 'zielig' om stam-getrouw onderscheid ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4448",
+      "grieks": "πυρόω",
+      "translit": "puroō",
+      "woordsoort": "ww",
+      "en_concordant": "in-fire-zetten",
+      "grondvorm": "in-vuur-zetten",
+      "stamfamilie": [
+        "G4448",
+        "G4442 pur"
+      ],
+      "toelichting": "In-vuur-zetten, ontvlammen, gloeien-laten. Werkwoord-afgeleide van pur. Concordant: 'in-vuur-zetten'. 1 Kor 7:9 'kreitto",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4006",
+      "grieks": "πεποίθησις",
+      "translit": "pepoithēsis",
+      "woordsoort": "zn",
+      "en_concordant": "trouwen",
+      "grondvorm": "ver-trouwen",
+      "stamfamilie": [
+        "G4006",
+        "G3982 peithō"
+      ],
+      "toelichting": "Vertrouwen, zekerheid-uit-overtuiging. Zelfstandig naamwoord-afgeleide van perfect-stam pepoith- (peithō). Concordant: '",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3540",
+      "grieks": "νόημα",
+      "translit": "noēma",
+      "woordsoort": "zn",
+      "en_concordant": "dachte",
+      "grondvorm": "ge-dachte",
+      "stamfamilie": [
+        "G3540",
+        "G3539 noeō",
+        "G3563 nous"
+      ],
+      "toelichting": "Gedachte, denk-product, voornemen. Zelfstandig naamwoord-afgeleide van noeō. Concordant: 'ge-dachte'. 2 Kor 2:11 'ou gar",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2292",
+      "grieks": "θαρρέω",
+      "translit": "tharreō",
+      "woordsoort": "ww",
+      "en_concordant": "moed-hold",
+      "grondvorm": "moed-houden",
+      "stamfamilie": [
+        "G2292",
+        "G2293 tharseō"
+      ],
+      "toelichting": "Goede-moed-hebben, vertrouwen, durven. Variant van tharseō. Concordant: 'moed-houden'. 2 Kor 5:6, 5:8 (twee maal 'tharro",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3671",
+      "grieks": "ὁμολογία",
+      "translit": "homologia",
+      "woordsoort": "zn",
+      "en_concordant": "lijdenis",
+      "grondvorm": "be-lijdenis",
+      "stamfamilie": [
+        "G3671",
+        "G3670 homologeō"
+      ],
+      "toelichting": "Belijdenis, instemmende-uitspraak. Zelfstandig naamwoord-afgeleide van homologeō. Concordant: 'be-lijdenis'. 2 Kor 9:13 ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2671",
+      "grieks": "κατάρα",
+      "translit": "katara",
+      "woordsoort": "zn",
+      "en_concordant": "curse-kataran",
+      "grondvorm": "ver-vloeking",
+      "stamfamilie": [
+        "G2671",
+        "G2672 kataraomai"
+      ],
+      "toelichting": "Vloek, vervloeking. Zelfstandig naamwoord-afgeleide van kataraomai. Concordant: 'ver-vloeking'. Tegenpool eulogia. Gal 3",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3316",
+      "grieks": "μεσίτης",
+      "translit": "mesitēs",
+      "woordsoort": "zn",
+      "en_concordant": "middelaar",
+      "grondvorm": "middelaar",
+      "stamfamilie": [
+        "G3316",
+        "G3319 mesos"
+      ],
+      "toelichting": "Middelaar, tussen-persoon, scheidsrechter. Concordant: 'middelaar'. Gal 3:19-20 (twee maal — 'diatageis di' angelōn en c",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3809",
+      "grieks": "παιδεία",
+      "translit": "paideia",
+      "woordsoort": "zn",
+      "en_concordant": "up-voeding",
+      "grondvorm": "op-voeding",
+      "stamfamilie": [
+        "G3809",
+        "G3811 paideuō",
+        "G3816 pais"
+      ],
+      "toelichting": "Opvoeding, tucht, kinderlijke-onderwijzing. Zelfstandig naamwoord-afgeleide van paideuō. Concordant: 'op-voeding'. Ef 6:",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G73",
+      "grieks": "ἀγών",
+      "translit": "agōn",
+      "woordsoort": "zn",
+      "en_concordant": "wed-strife",
+      "grondvorm": "wed-strijd",
+      "stamfamilie": [
+        "G73",
+        "G75 agōnizomai",
+        "G74 agōnia"
+      ],
+      "toelichting": "Wedstrijd, kamp, strijd-in-arena. Concordant: 'wed-strijd'. Fil 1:30 'ton auton agōna echontes hoion eidete en emoi'. Ko",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2539",
+      "grieks": "καίπερ",
+      "translit": "kaiper",
+      "woordsoort": "vgw",
+      "en_concordant": "hoewel",
+      "grondvorm": "hoewel",
+      "stamfamilie": [
+        "G2539",
+        "G2532 kai",
+        "G4007 per"
+      ],
+      "toelichting": "Hoewel, ofschoon. Samenstelling kai + per. Concordant: 'hoewel'. Fil 3:4 'kaiper egō echōn pepoithēsin'. Heb 5:8 'kaiper",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2993",
+      "grieks": "Λαοδίκεια",
+      "translit": "laodikeia",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Laodicea-pn",
+      "grondvorm": "Laodicea",
+      "stamfamilie": [
+        "G2993"
+      ],
+      "toelichting": "Laodicea. Stadje in Frygië (Klein-Azië). Concordant: 'Laodicea'. Kol 2:1, 4:13-16 'tēn ek Laodikeias [epistolē]' (Laodic",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3525",
+      "grieks": "νήφω",
+      "translit": "nēphō",
+      "woordsoort": "ww",
+      "en_concordant": "nuchter-be",
+      "grondvorm": "nuchter-zijn",
+      "stamfamilie": [
+        "G3525",
+        "G3524 nēphalios"
+      ],
+      "toelichting": "Nuchter-zijn, niet-bedwelmd-zijn, waakzaam-zijn-met-helder-hoofd. Concordant: 'nuchter-zijn'. 1 Tess 5:6-8 (twee maal — ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2015",
+      "grieks": "ἐπιφάνεια",
+      "translit": "epiphaneia",
+      "woordsoort": "zn",
+      "en_concordant": "schijning",
+      "grondvorm": "ver-schijning",
+      "stamfamilie": [
+        "G2015",
+        "G2014 epiphainō"
+      ],
+      "toelichting": "Verschijning, openbare-verschijning. Zelfstandig naamwoord-afgeleide van epiphainō (op-schijnen / verschijnen). Concorda",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G620",
+      "grieks": "ἀπολείπω",
+      "translit": "apoleipō",
+      "woordsoort": "ww",
+      "en_concordant": "achter-laten-apoleipo",
+      "grondvorm": "achter-laten",
+      "stamfamilie": [
+        "G620",
+        "G3007 leipō",
+        "G575 apo"
+      ],
+      "toelichting": "Samenstelling apo (vanaf) + leipō (laten): achter-laten, verlaten, over-blijven. Concordant: 'achter-laten'. 2 Tim 4:13 ",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G929",
+      "grieks": "βασανισμός",
+      "translit": "basanismos",
+      "woordsoort": "zn",
+      "en_concordant": "kwelling",
+      "grondvorm": "kwelling",
+      "stamfamilie": [
+        "G929",
+        "G928 basanizō",
+        "G931 basanos"
+      ],
+      "toelichting": "Kwelling, marteling, pijniging. Zelfstandig naamwoord-afgeleide van basanizō. Concordant: 'kwelling'. Op 9:5 'ho basanis",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2421",
+      "grieks": "Ἰεσσαί",
+      "translit": "iessai",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Isa-pn",
+      "grondvorm": "Isaï",
+      "stamfamilie": [
+        "G2421"
+      ],
+      "toelichting": "Isaï. Hebreeuws (H3448 Yishai). Vader van koning David. Mat 1:5-6 'Boes egennēsen ton Iōbēd... Iesai, Iesai de egennēsen",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G1180",
+      "grieks": "δεκατέσσαρες",
+      "translit": "dekatessares",
+      "woordsoort": "tw",
+      "en_concordant": "veertien",
+      "grondvorm": "veertien",
+      "stamfamilie": [
+        "G1180",
+        "G1176 deka",
+        "G5064 tessares"
+      ],
+      "toelichting": "Veertien (samenstelling deka + tessares). Concordant: 'veertien'. Mat 1:17 (drie maal — 'genealogiai pasai apo Abraam he",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2468",
+      "grieks": "ἴσθι",
+      "translit": "isthi",
+      "woordsoort": "ww",
+      "en_concordant": "wees",
+      "grondvorm": "wees",
+      "stamfamilie": [
+        "G2468",
+        "G1510 eimi"
+      ],
+      "toelichting": "Imperatief 2e persoon enkelvoud van eimi: wees!. Concordant: 'wees'. Mat 2:13 'isthi ekei heōs an eipō soi'; Mat 5:25 'i",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2191",
+      "grieks": "ἔχιδνα",
+      "translit": "echidna",
+      "woordsoort": "zn",
+      "en_concordant": "adder",
+      "grondvorm": "adder",
+      "stamfamilie": [
+        "G2191"
+      ],
+      "toelichting": "Adder, giftige slang. Concordant: 'adder'. Mat 3:7, 12:34, 23:33 / Lukas 3:7 'gennēmata echidnōn' (adders-gebroed — Joh.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G231",
+      "grieks": "ἁλιεύς",
+      "translit": "halieus",
+      "woordsoort": "zn",
+      "en_concordant": "fisher",
+      "grondvorm": "visser",
+      "stamfamilie": [
+        "G231"
+      ],
+      "toelichting": "Visser. Concordant: 'visser'. Mat 4:18-19 / Mar 1:16-17 'ēsan gar halieis... poiēsō humas halieis anthrōpōn' (vissers-va",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G4260",
+      "grieks": "προβαίνω",
+      "translit": "probainō",
+      "woordsoort": "ww",
+      "en_concordant": "before-out-stappen",
+      "grondvorm": "voor-uit-stappen",
+      "stamfamilie": [
+        "G4260",
+        "G939 basis",
+        "G4253 pro"
+      ],
+      "toelichting": "Samenstelling pro (voor) + bainō (gaan): voor-uit-stappen, vorderen-in-jaren. Concordant: 'voor-uit-stappen'. Mat 4:21 /",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2662",
+      "grieks": "καταπατέω",
+      "translit": "katapateō",
+      "woordsoort": "ww",
+      "en_concordant": "vertreden",
+      "grondvorm": "vertreden",
+      "stamfamilie": [
+        "G2662",
+        "G3961 pateō",
+        "G2596 kata"
+      ],
+      "toelichting": "Samenstelling kata (neer) + pateō (treden): neer-treden, vertreden, vertrappen. Concordant: 'vertreden'. Mat 5:13 'eis o",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G476",
+      "grieks": "ἀντίδικος",
+      "translit": "antidikos",
+      "woordsoort": "zn",
+      "en_concordant": "anti-partij",
+      "grondvorm": "tegen-partij",
+      "stamfamilie": [
+        "G476",
+        "G473 anti",
+        "G1349 dikē"
+      ],
+      "toelichting": "Samenstelling anti (tegen) + dikē (rechtsproces): tegenpartij-in-rechtszaak. Concordant: 'tegen-partij'. Mat 5:25 'isthi",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G1522",
+      "grieks": "εἰσακούω",
+      "translit": "eisakouō",
+      "woordsoort": "ww",
+      "en_concordant": "in-hear",
+      "grondvorm": "in-horen",
+      "stamfamilie": [
+        "G1522",
+        "G191 akouō",
+        "G1519 eis"
+      ],
+      "toelichting": "Samenstelling eis (in) + akouō (horen): in-horen, gunstig-aanhoren-en-verhoren. Concordant: 'in-horen'. Mat 6:7 (heidene",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G853",
+      "grieks": "ἀφανίζω",
+      "translit": "aphanizō",
+      "woordsoort": "ww",
+      "en_concordant": "do-dwijnen",
+      "grondvorm": "doen-ver-dwijnen",
+      "stamfamilie": [
+        "G853",
+        "G5316 phainō (a-privans)",
+        "G575 apo"
+      ],
+      "toelichting": "Doen-verdwijnen, doen-vervagen, vernietigen. A-privans + phainō (verschijnen). Concordant: 'doen-ver-dwijnen'. Mat 6:16 ",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G5460",
+      "grieks": "φωτεινός",
+      "translit": "phōteinos",
+      "woordsoort": "bn",
+      "en_concordant": "stralend",
+      "grondvorm": "stralend",
+      "stamfamilie": [
+        "G5460",
+        "G5457 phōs"
+      ],
+      "toelichting": "Stralend, vol-licht. Bijvoeglijk afgeleide van phōs. Concordant: 'stralend'. Mat 6:22 / Lukas 11:34-36 'estai holon to s",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G3640",
+      "grieks": "ὀλιγόπιστος",
+      "translit": "oligopistos",
+      "woordsoort": "bn",
+      "en_concordant": "small-vertrouwend",
+      "grondvorm": "klein-vertrouwend",
+      "stamfamilie": [
+        "G3640",
+        "G3641 oligos",
+        "G4102 pistis"
+      ],
+      "toelichting": "Samenstelling oligos (weinig) + pistis (vertrouwen): klein-vertrouwend, klein-gelovig. Concordant: 'klein-vertrouwend'. ",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G5535",
+      "grieks": "χρῄζω",
+      "translit": "chrēizō",
+      "woordsoort": "ww",
+      "en_concordant": "hoeven",
+      "grondvorm": "be-hoeven",
+      "stamfamilie": [
+        "G5535",
+        "G5532 chreia"
+      ],
+      "toelichting": "Behoeven, nodig-hebben. Werkwoord-stam-verwant met chreia. Concordant: 'be-hoeven'. Mat 6:32 / Lukas 12:30 'oiden gar ho",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2965",
+      "grieks": "κύων",
+      "translit": "kuōn",
+      "woordsoort": "zn",
+      "en_concordant": "dog",
+      "grondvorm": "hond",
+      "stamfamilie": [
+        "G2965"
+      ],
+      "toelichting": "Hond. Concordant: 'hond'. Mat 7:6 'mē dōte to hagion tois kusin' (heilige niet aan honden); Lukas 16:21 (Lazarus 'hoi ku",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G727",
+      "grieks": "ἅρπαξ",
+      "translit": "harpax",
+      "woordsoort": "bijvoeglijk naamwoord/znw",
+      "en_concordant": "rover-harpax",
+      "grondvorm": "rover",
+      "stamfamilie": [
+        "G727",
+        "G726 harpazō"
+      ],
+      "toelichting": "Rover, roofzuchtige, hebzuchtige. Concordant: 'rover'. Mat 7:15 'lukoi harpages'. Lukas 18:11 (Farizeeër 'ouk eimi hōspe",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G285",
+      "grieks": "ἄμμος",
+      "translit": "ammos",
+      "woordsoort": "zn",
+      "en_concordant": "sand",
+      "grondvorm": "zand",
+      "stamfamilie": [
+        "G285"
+      ],
+      "toelichting": "Zand. Concordant: 'zand'. Mat 7:26 (huis op 'tēn ammon'). Rom 9:27 OT-citaat Jes 10 'hōs hē ammos tēs thalassēs' (zoals ",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G1424",
+      "grieks": "δυσμή",
+      "translit": "dusmē",
+      "woordsoort": "zn",
+      "en_concordant": "westen",
+      "grondvorm": "westen",
+      "stamfamilie": [
+        "G1424"
+      ],
+      "toelichting": "Westen, zonsondergang. Stam dus- = onderduiken. Concordant: 'westen'. Mat 8:11, 24:27 'hē astrapē apo anatolōn kai phain",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2949",
+      "grieks": "κῦμα",
+      "translit": "kuma",
+      "woordsoort": "zn",
+      "en_concordant": "golf",
+      "grondvorm": "golf",
+      "stamfamilie": [
+        "G2949"
+      ],
+      "toelichting": "Golf, baar. Concordant: 'golf'. Mat 8:24, 14:24 / Mar 4:37 'ta kumata epeballen eis to ploion'. Hand 27:41. Jud 1:13 'ku",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G5221",
+      "grieks": "ὑπαντάω",
+      "translit": "hupantaō",
+      "woordsoort": "ww",
+      "en_concordant": "anti-come-under",
+      "grondvorm": "tegen-komen-onder",
+      "stamfamilie": [
+        "G5221",
+        "G5223 huparxis (verschillende stam)",
+        "G528 apantaō (verwante stam)",
+        "G5259 hupo"
+      ],
+      "toelichting": "Samenstelling hupo (onder) + antaō (tegenkomen): tegemoet-gaan, ontmoeten. Concordant: 'tegen-komen-onder'. Mat 8:28 (Ge",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G1142",
+      "grieks": "δαίμων",
+      "translit": "daimōn",
+      "woordsoort": "zn",
+      "en_concordant": "daimon",
+      "grondvorm": "demon",
+      "stamfamilie": [
+        "G1142",
+        "G1140 daimonion"
+      ],
+      "toelichting": "Demon, geest-wezen (in NT-betekenis: kwade-geest). Concordant: 'demon'. Onderscheid van G1140 daimonion (verkleinvorm — ",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G3729",
+      "grieks": "ὁρμάω",
+      "translit": "hormaō",
+      "woordsoort": "ww",
+      "en_concordant": "loose-stormen",
+      "grondvorm": "los-stormen",
+      "stamfamilie": [
+        "G3729",
+        "G3730 hormē",
+        "G874 aphormē"
+      ],
+      "toelichting": "Los-stormen, zich-storten, in-volle-vaart-gaan. Concordant: 'los-stormen'. Mat 8:32 / Mar 5:13 / Lukas 8:33 'hōrmēsen hē",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G3156",
+      "grieks": "Ματθαῖος",
+      "translit": "matthaios",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Matthes-pn",
+      "grondvorm": "Mattheüs",
+      "stamfamilie": [
+        "G3156"
+      ],
+      "toelichting": "Mattheüs. Hebreeuws (Mattityahu = gave-van-Yahweh). Tollenaar uit Kapernaüm, apostel, traditioneel auteur eerste evangel",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2899",
+      "grieks": "κράσπεδον",
+      "translit": "kraspedon",
+      "woordsoort": "zn",
+      "en_concordant": "kwast",
+      "grondvorm": "kwast",
+      "stamfamilie": [
+        "G2899"
+      ],
+      "toelichting": "Kwast, zoom-kwastje (tsitsiet — Joods kledings-attribuut, Num 15:38-39 / Deut 22:12). Concordant: 'kwast'. Mat 9:20, 14:",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G1690",
+      "grieks": "ἐμβριμάομαι",
+      "translit": "embrimaomai",
+      "woordsoort": "ww",
+      "en_concordant": "in-snauwen",
+      "grondvorm": "in-snauwen",
+      "stamfamilie": [
+        "G1690",
+        "G1722 en"
+      ],
+      "toelichting": "In-snauwen, streng-bevelen, innerlijk-bewogen-zijn. Onomatopee (brim — gesnauw). Concordant: 'in-snauwen'. Mat 9:30 / Ma",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G256",
+      "grieks": "Ἁλφαῖος",
+      "translit": "halphaios",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Alfes-pn",
+      "grondvorm": "Alfeüs",
+      "stamfamilie": [
+        "G256"
+      ],
+      "toelichting": "Alfeüs. Aramees leenwoord. NT kent twee Alfeüssen: (1) vader van Mattheüs / Levi (Mar 2:14), (2) vader van Jakobus de jo",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G696",
+      "grieks": "ἄργυρος",
+      "translit": "arguros",
+      "woordsoort": "zn",
+      "en_concordant": "silver",
+      "grondvorm": "zilver",
+      "stamfamilie": [
+        "G696",
+        "G694 argurion",
+        "G695 argurokopos"
+      ],
+      "toelichting": "Zilver (als materiaal). Concordant: 'zilver'. Onderscheid van G694 argurion (zilvergeld als ruilmiddel). Arguros = zilve",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G5475",
+      "grieks": "χαλκός",
+      "translit": "chalkos",
+      "woordsoort": "zn",
+      "en_concordant": "ko-per",
+      "grondvorm": "ko-per",
+      "stamfamilie": [
+        "G5475",
+        "G5470 chalkeos"
+      ],
+      "toelichting": "Koper, brons. Concordant: 'ko-per'. Mat 10:9 'mē ktēsēsthe... chalkon eis tas zōnas humōn'. Mar 6:8, 12:41. 1 Kor 13:1 '",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2868",
+      "grieks": "κονιορτός",
+      "translit": "koniortos",
+      "woordsoort": "zn",
+      "en_concordant": "dust",
+      "grondvorm": "stof",
+      "stamfamilie": [
+        "G2868"
+      ],
+      "toelichting": "Stof, opgewaaid-stof. Concordant: 'stof'. Mat 10:14 / Lukas 9:5, 10:11 'ektinaxate ton koniorton' (afschudt het stof — s",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G1116",
+      "grieks": "Γόμορρα",
+      "translit": "gomorra",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Gomorra-pn",
+      "grondvorm": "Gomorra",
+      "stamfamilie": [
+        "G1116"
+      ],
+      "toelichting": "Gomorra. Hebreeuws-leenwoord. Vrijwel altijd gepaard met Sodom (G4670). Mat 10:15 / Mar 6:11 (variant) / Lukas 10:12 (va",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G372",
+      "grieks": "ἀνάπαυσις",
+      "translit": "anapausis",
+      "woordsoort": "zn",
+      "en_concordant": "repose-anapausis",
+      "grondvorm": "rust",
+      "stamfamilie": [
+        "G372",
+        "G373 anapauō",
+        "G3973 pauō"
+      ],
+      "toelichting": "Rust, verkwikking, ophouden. Zelfstandig naamwoord-afgeleide van anapauō. Concordant: 'rust'. Mat 11:29 'heurēsete anapa",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G5413",
+      "grieks": "φορτίον",
+      "translit": "phortion",
+      "woordsoort": "zn",
+      "en_concordant": "last-pak",
+      "grondvorm": "last-pak",
+      "stamfamilie": [
+        "G5413",
+        "G5409 phoreō"
+      ],
+      "toelichting": "Last-pak, vracht, draagbare-last. Verkleinvorm-stam van phoreō. Concordant: 'last-pak'. Mat 11:30 'to gar zugos mou chrē",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G4719",
+      "grieks": "στάχυς",
+      "translit": "stachus",
+      "woordsoort": "zn",
+      "en_concordant": "korenaar",
+      "grondvorm": "korenaar",
+      "stamfamilie": [
+        "G4719"
+      ],
+      "toelichting": "Korenaar, graanaar. Concordant: 'koren-aar'. Mat 12:1 / Mar 2:23 / Lukas 6:1 'tillontes tous stachuas' (discipelen plukk",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2613",
+      "grieks": "καταδικάζω",
+      "translit": "katadikazō",
+      "woordsoort": "ww",
+      "en_concordant": "oordelen-katadikazo",
+      "grondvorm": "ver-oordelen",
+      "stamfamilie": [
+        "G2613",
+        "G1349 dikē",
+        "G2596 kata"
+      ],
+      "toelichting": "Samenstelling kata (tegen) + dikazō (oordelen): tegen-vonnissen, veroordelen. Concordant: 'ver-oordelen'. Synoniem met G",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2049",
+      "grieks": "ἐρημόω",
+      "translit": "erēmoō",
+      "woordsoort": "ww",
+      "en_concordant": "woesten",
+      "grondvorm": "ver-woesten",
+      "stamfamilie": [
+        "G2049",
+        "G2048 erēmos",
+        "G2050 erēmōsis"
+      ],
+      "toelichting": "Verwoesten, woest-maken, doen-leeg-staan. Werkwoord-afgeleide van erēmos. Concordant: 'ver-woesten'. Mat 12:25 / Lukas 1",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G4650",
+      "grieks": "σκορπίζω",
+      "translit": "skorpizō",
+      "woordsoort": "ww",
+      "en_concordant": "strooien",
+      "grondvorm": "ver-strooien",
+      "stamfamilie": [
+        "G4650",
+        "G1287 diaskorpizō"
+      ],
+      "toelichting": "Verstrooien, uiteen-jagen. Concordant: 'ver-strooien'. Mat 12:30 / Lukas 11:23 'ho mē sunagōn met' emou skorpizei' (wie ",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G4051",
+      "grieks": "περίσσευμα",
+      "translit": "perisseuma",
+      "woordsoort": "zn",
+      "en_concordant": "ovloed",
+      "grondvorm": "over-vloed",
+      "stamfamilie": [
+        "G4051",
+        "G4052 perisseuō"
+      ],
+      "toelichting": "Overvloed, overschot. Zelfstandig naamwoord-afgeleide van perisseuō. Concordant: 'over-vloed'. Mat 12:34 / Lukas 6:45 'e",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G4846",
+      "grieks": "συμπνίγω",
+      "translit": "sumpnigō",
+      "woordsoort": "ww",
+      "en_concordant": "togetre-verstikken",
+      "grondvorm": "samen-verstikken",
+      "stamfamilie": [
+        "G4846",
+        "G4155 pnigō",
+        "G4862 sun"
+      ],
+      "toelichting": "Samenstelling sun (samen) + pnigō (verstikken): samen-verstikken. Concordant: 'samen-verstikken'. Mat 13:22 / Mar 4:7-19",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G4615",
+      "grieks": "σίναπι",
+      "translit": "sinapi",
+      "woordsoort": "zn",
+      "en_concordant": "mosterd",
+      "grondvorm": "mosterd",
+      "stamfamilie": [
+        "G4615"
+      ],
+      "toelichting": "Mosterd, mosterdzaad. Concordant: 'mosterd'. Vrijwel uitsluitend in mosterdzaad-gelijkenis: Mat 13:31, 17:20 'pistin hōs",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G1713",
+      "grieks": "ἔμπορος",
+      "translit": "emporos",
+      "woordsoort": "zn",
+      "en_concordant": "koup-man",
+      "grondvorm": "koop-man",
+      "stamfamilie": [
+        "G1713",
+        "G1722 en",
+        "G4198 poreuomai"
+      ],
+      "toelichting": "Koopman, handelaar. Etymologisch: en (in) + poros (weg / reis) — reizende-handelaar. Concordant: 'koop-man'. Mat 13:45 '",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G4094",
+      "grieks": "πίναξ",
+      "translit": "pinax",
+      "woordsoort": "zn",
+      "en_concordant": "schaal-pinax",
+      "grondvorm": "schaal",
+      "stamfamilie": [
+        "G4094"
+      ],
+      "toelichting": "Schaal, platte-schotel, plank. Concordant: 'schaal'. Mat 14:8-11 / Mar 6:25-28 'epi pinaki' (Johannes Doper's hoofd op s",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G732",
+      "grieks": "ἄρρωστος",
+      "translit": "arrhōstos",
+      "woordsoort": "bn",
+      "en_concordant": "krachte-loos",
+      "grondvorm": "krachte-loos",
+      "stamfamilie": [
+        "G732",
+        "G4517 rhōnnumi (a-privans)"
+      ],
+      "toelichting": "Krachteloos, ziek-zwak. A-privans + rhōnnumi (sterk-zijn). Concordant: 'krachte-loos'. Mat 14:14 / Mar 6:5-13 'cheiras e",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G3595",
+      "grieks": "ὁδηγός",
+      "translit": "hodēgos",
+      "woordsoort": "zn",
+      "en_concordant": "away-leider",
+      "grondvorm": "weg-leider",
+      "stamfamilie": [
+        "G3595",
+        "G3598 hodos",
+        "G71 agō"
+      ],
+      "toelichting": "Wegleider, leidsman, gids. Samenstelling hodos (weg) + agō (leiden). Concordant: 'weg-leider'. Mat 15:14, 23:16-24 (drie",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G3594",
+      "grieks": "ὁδηγέω",
+      "translit": "hodēgeō",
+      "woordsoort": "ww",
+      "en_concordant": "away-lead-hodegeo",
+      "grondvorm": "weg-leiden",
+      "stamfamilie": [
+        "G3594",
+        "G3595 hodēgos"
+      ],
+      "toelichting": "Wegleiden, leiden-langs-de-weg. Werkwoord-afgeleide van hodēgos. Concordant: 'weg-leiden'. Mat 15:14 / Lukas 6:39 'tuphl",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G801",
+      "grieks": "ἀσύνετος",
+      "translit": "asunetos",
+      "woordsoort": "bn",
+      "en_concordant": "on-prudent-asunetos",
+      "grondvorm": "on-verstandig",
+      "stamfamilie": [
+        "G801",
+        "G4907 sunesis (a-privans)",
+        "G4920 suniēmi"
+      ],
+      "toelichting": "A-privans + sunetos: zonder-inzicht, onverstandig. Concordant: 'on-verstandig'. Mat 15:16 / Mar 7:18 'akmēn kai humeis a",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G4711",
+      "grieks": "σπυρίς",
+      "translit": "spuris",
+      "woordsoort": "zn",
+      "en_concordant": "beforeraad-hamper",
+      "grondvorm": "voorraad-mand",
+      "stamfamilie": [
+        "G4711",
+        "G2894 kophinos"
+      ],
+      "toelichting": "Grote voorraadmand. Concordant: 'voorraad-mand' om onderscheid met G2894 kophinos (rieten-draagmand) te bewaren. Bij spi",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G5070",
+      "grieks": "τετρακισχίλιοι",
+      "translit": "tetrakischilioi",
+      "woordsoort": "tw",
+      "en_concordant": "four-duizend",
+      "grondvorm": "vier-duizend",
+      "stamfamilie": [
+        "G5070",
+        "G5064 tessares",
+        "G5507 chilioi"
+      ],
+      "toelichting": "Vierduizend. Concordant: 'vier-duizend'. Vrijwel uitsluitend bij wonderbare-spijziging-4000: Mat 15:38, 16:10; Mar 8:9, ",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G1982",
+      "grieks": "ἐπισκιάζω",
+      "translit": "episkiazō",
+      "woordsoort": "ww",
+      "en_concordant": "oschaduwen",
+      "grondvorm": "over-schaduwen",
+      "stamfamilie": [
+        "G1982",
+        "G4639 skia",
+        "G1909 epi"
+      ],
+      "toelichting": "Samenstelling epi (op) + skiazō (schaduw-werpen): over-schaduwen, omhullen-met-schaduw. Concordant: 'over-schaduwen'. Ma",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2338",
+      "grieks": "θῆλυς",
+      "translit": "thēlu",
+      "woordsoort": "bn",
+      "en_concordant": "vrouw-elijk",
+      "grondvorm": "vrouw-elijk",
+      "stamfamilie": [
+        "G2338",
+        "G2337 thēlazō"
+      ],
+      "toelichting": "Vrouwelijk. Concordant: 'vrouw-elijk'. Tegenpool G730 arsen (mannelijk). Mat 19:4 / Mar 10:6 OT-citaat Gen 1:27 'arsen k",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G3503",
+      "grieks": "νεότης",
+      "translit": "neotēs",
+      "woordsoort": "zn",
+      "en_concordant": "jeugd",
+      "grondvorm": "jeugd",
+      "stamfamilie": [
+        "G3503",
+        "G3501 neos"
+      ],
+      "toelichting": "Jeugd, jongelings-leeftijd. Zelfstandig naamwoord-afgeleide van neos. Concordant: 'jeugd'. Mat 19:20 / Mar 10:20 / Lukas",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G4579",
+      "grieks": "σείω",
+      "translit": "seiō",
+      "woordsoort": "ww",
+      "en_concordant": "schudden-seio",
+      "grondvorm": "schudden",
+      "stamfamilie": [
+        "G4579",
+        "G4578 seismos"
+      ],
+      "toelichting": "Schudden. Concordant: 'schudden'. Mat 21:10 'eseisthē pasa hē polis' (Jeruzalem 'in beroering-geschud' bij intocht); Mat",
+      "voorkomens_ca": 5
+    }
+  ]
+}

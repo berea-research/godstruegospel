@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs and tmp
+*.log
+*.tmp
+.cache/
+
+# Local backups (not for publication)
+*.bak
+*.backup
+*.orig
+
+# Personal session notes (project-internal, not to be published)
+_archief/
+_dagnotulen-*.md
+_prompt-*.md
+_hervat-*.md
+CLAUDE.md
+
+# Local-only blocklist for the publish script
+.publish-blocklist
+
+# Files truncated to 0 bytes during cleanup (mount-restricted, cannot rm)
+build-software/test_persist.txt
+skill/fasen/gtg-fase*.md
+Kennis/masters/en/*.bak
+docs/godstruegospel-architectuur-uitleg*.pdf

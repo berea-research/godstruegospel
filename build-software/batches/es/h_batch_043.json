@@ -1,0 +1,3013 @@
+{
+  "batch_id": "h_batch_043",
+  "script": "heb",
+  "datum": "2026-05-02",
+  "entries": [
+    {
+      "strong": "H6936",
+      "hebreeuws": "קָדְקֹד",
+      "translit": "qodqod",
+      "woordsoort": "sustantivo",
+      "es_concordant": "coronilla-cabeza",
+      "grondvorm": "crown-of-head",
+      "stamfamilie": [],
+      "toelichting": "Mollera Gn 49:26.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H6937",
+      "hebreeuws": "קָדַר",
+      "translit": "qadar",
+      "woordsoort": "verbo",
+      "es_concordant": "oscurecer-qadar",
+      "grondvorm": "darken",
+      "stamfamilie": [],
+      "toelichting": "Ennegrecerse Jr 4:28.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H6938",
+      "hebreeuws": "קֵדָר",
+      "translit": "qedar",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cedar-pn",
+      "grondvorm": "Kedar",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Ismael Gn 25:13.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H6939",
+      "hebreeuws": "קִדְרוֹן",
+      "translit": "Kidron",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cedron-pn",
+      "grondvorm": "Kidron",
+      "stamfamilie": [],
+      "toelichting": "Arroyo cerca Jerusalen 2Sm 15:23.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H6940",
+      "hebreeuws": "קַדְרוּת",
+      "translit": "qadrut",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tinieblas-qadrut",
+      "grondvorm": "darkness-qadrut",
+      "stamfamilie": [],
+      "toelichting": "Oscuridad Is 50:3.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6941",
+      "hebreeuws": "קְדֹרַנִּית",
+      "translit": "qedoranit",
+      "woordsoort": "adverbio",
+      "es_concordant": "en-luto",
+      "grondvorm": "in-mourning",
+      "stamfamilie": [],
+      "toelichting": "Caminar en luto Sal 35:14.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6942",
+      "hebreeuws": "קדש",
+      "translit": "qadash",
+      "woordsoort": "verbo",
+      "es_concordant": "santificar-qadash",
+      "grondvorm": "sanctify",
+      "stamfamilie": [
+        "H6942",
+        "H6944",
+        "H6918"
+      ],
+      "toelichting": "Consagrar Ex 13:2.",
+      "voorkomens": 173
+    },
+    {
+      "strong": "H6943",
+      "hebreeuws": "קֶדֶשׁ",
+      "translit": "Qedesh",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quedes-pn",
+      "grondvorm": "Kedesh",
+      "stamfamilie": [
+        "H6942"
+      ],
+      "toelichting": "Pueblo levitico Jos 12:22.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H6944",
+      "hebreeuws": "קדש",
+      "translit": "qodesh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "santidad-qodesh",
+      "grondvorm": "holiness",
+      "stamfamilie": [
+        "H6944",
+        "H6942",
+        "H6918"
+      ],
+      "toelichting": "Estado sagrado Ex 3:5.",
+      "voorkomens": 466
+    },
+    {
+      "strong": "H6945",
+      "hebreeuws": "קָדֵשׁ",
+      "translit": "qadesh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "prostituto-cultico",
+      "grondvorm": "cult-male-prostitute",
+      "stamfamilie": [
+        "H6942"
+      ],
+      "toelichting": "Prostituto sagrado Dt 23:17.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H6946",
+      "hebreeuws": "קָדֵשׁ",
+      "translit": "qadesh",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cades-pn",
+      "grondvorm": "Kadesh",
+      "stamfamilie": [],
+      "toelichting": "Lugar en el desierto Nm 13:26.",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H6947",
+      "hebreeuws": "קָדֵשׁ־בַּרְנֵעַ",
+      "translit": "Kadesh-Barnea",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cades-Barnea-pn",
+      "grondvorm": "Kadesh-Barnea",
+      "stamfamilie": [],
+      "toelichting": "Estacion Israel Nm 32:8.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H6947+",
+      "hebreeuws": "קָדֵשׁ בַּרְנֵעַ",
+      "translit": "qadesh-barnea-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cades-Barnea-compuesto-pn",
+      "grondvorm": "Kadesh-Barnea-compound",
+      "stamfamilie": [],
+      "toelichting": "Variante Cades-Barnea.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H6948",
+      "hebreeuws": "קְדֵשָׁה",
+      "translit": "qedeshah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "prostituta-cultica",
+      "grondvorm": "cult-female-prostitute",
+      "stamfamilie": [
+        "H6945"
+      ],
+      "toelichting": "Prostituta sagrada Gn 38:21.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H6949",
+      "hebreeuws": "קָהָה",
+      "translit": "qahah",
+      "woordsoort": "verbo",
+      "es_concordant": "embotarse-qahah",
+      "grondvorm": "be-blunted",
+      "stamfamilie": [],
+      "toelichting": "Volver romo Ec 10:10.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6950",
+      "hebreeuws": "קָהַל",
+      "translit": "qahal",
+      "woordsoort": "verbo",
+      "es_concordant": "congregar-qahal",
+      "grondvorm": "assemble",
+      "stamfamilie": [
+        "H6951"
+      ],
+      "toelichting": "Reunir Ex 32:1.",
+      "voorkomens": 39
+    },
+    {
+      "strong": "H6951",
+      "hebreeuws": "קהל",
+      "translit": "qahal",
+      "woordsoort": "sustantivo",
+      "es_concordant": "congregacion-qahal",
+      "grondvorm": "congregation",
+      "stamfamilie": [
+        "H6951",
+        "H6950"
+      ],
+      "toelichting": "Asamblea Gn 28:3.",
+      "voorkomens": 123
+    },
+    {
+      "strong": "H6952",
+      "hebreeuws": "קְהִלָּה",
+      "translit": "qehilah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "asamblea-qehilah",
+      "grondvorm": "assembly-throng",
+      "stamfamilie": [],
+      "toelichting": "Multitud Dt 33:4.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6953",
+      "hebreeuws": "קֹהֶלֶת",
+      "translit": "qelth",
+      "woordsoort": "sustantivo",
+      "es_concordant": "predicador-qoheleth",
+      "grondvorm": "assembler",
+      "stamfamilie": [
+        "H6950",
+        "H6951",
+        "H6953"
+      ],
+      "toelichting": "Convocador Ec 1:1.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H6954",
+      "hebreeuws": "קְהֵלָתָה",
+      "translit": "Qehelathah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quehelata-pn",
+      "grondvorm": "Kehelathah",
+      "stamfamilie": [
+        "H6951"
+      ],
+      "toelichting": "Estacion Israel Nm 33:22.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6955",
+      "hebreeuws": "קְהָת",
+      "translit": "qehat",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Coat-pn",
+      "grondvorm": "Kohath",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Levi Gn 46:11.",
+      "voorkomens": 33
+    },
+    {
+      "strong": "H6956",
+      "hebreeuws": "קְהָת",
+      "translit": "qehathi",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Coatita-pn",
+      "grondvorm": "Kohathite",
+      "stamfamilie": [],
+      "toelichting": "Familia de Coat Nm 3:27.",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H6957a",
+      "hebreeuws": "קַו",
+      "translit": "qav-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cordel-medida",
+      "grondvorm": "measuring-cord",
+      "stamfamilie": [
+        "H2256a",
+        "H4340"
+      ],
+      "toelichting": "Cuerda de medir 1Re 7:23 H6957a.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H6957b",
+      "hebreeuws": "קָו",
+      "translit": "qav",
+      "woordsoort": "sustantivo",
+      "es_concordant": "linea-medir-qav",
+      "grondvorm": "measuring-line",
+      "stamfamilie": [],
+      "toelichting": "Linea de medir Is 28:10 H6957b.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H6958",
+      "hebreeuws": "קִיא",
+      "translit": "qi",
+      "woordsoort": "verbo",
+      "es_concordant": "vomitar-qi",
+      "grondvorm": "vomit",
+      "stamfamilie": [
+        "H6892"
+      ],
+      "toelichting": "Devolver Lv 18:25.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H6959",
+      "hebreeuws": "קוֹבַע",
+      "translit": "qova-helm",
+      "woordsoort": "sustantivo",
+      "es_concordant": "casco-qova",
+      "grondvorm": "helmet-qova",
+      "stamfamilie": [],
+      "toelichting": "Yelmo 1Sm 17:38.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6960a",
+      "hebreeuws": "קָוָה",
+      "translit": "qavah",
+      "woordsoort": "verbo",
+      "es_concordant": "esperar-qavah",
+      "grondvorm": "wait-expectantly",
+      "stamfamilie": [
+        "H8615"
+      ],
+      "toelichting": "Aguardar con expectativa Sal 27:14 H6960a.",
+      "voorkomens": 44
+    },
+    {
+      "strong": "H6960b",
+      "hebreeuws": "קָוָה",
+      "translit": "qawah-II",
+      "woordsoort": "verbo",
+      "es_concordant": "fluir-juntos",
+      "grondvorm": "flow-together-qawah",
+      "stamfamilie": [],
+      "toelichting": "Confluir Gn 1:9 H6960b.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6961",
+      "hebreeuws": "קָוֶה",
+      "translit": "qaveh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cuerda-medir-qaveh",
+      "grondvorm": "measuring-line-qaveh",
+      "stamfamilie": [
+        "H6960a"
+      ],
+      "toelichting": "Cordel medidor Is 18:2.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6962",
+      "hebreeuws": "קוּט",
+      "translit": "qut",
+      "woordsoort": "verbo",
+      "es_concordant": "aborrecerse",
+      "grondvorm": "loathe-self",
+      "stamfamilie": [],
+      "toelichting": "Despreciarse Job 8:14.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H6963a",
+      "hebreeuws": "קול",
+      "translit": "qol",
+      "woordsoort": "sustantivo",
+      "es_concordant": "voz-qol",
+      "grondvorm": "voice",
+      "stamfamilie": [
+        "H6963a"
+      ],
+      "toelichting": "Voz Gn 3:8 H6963a.",
+      "voorkomens": 496
+    },
+    {
+      "strong": "H6963b",
+      "hebreeuws": "קֹל",
+      "translit": "qol-II-licht",
+      "woordsoort": "adjetivo",
+      "es_concordant": "ligero-qol",
+      "grondvorm": "frivolous",
+      "stamfamilie": [
+        "H6963a"
+      ],
+      "toelichting": "Frivolo Jr 3:9 H6963b.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6964",
+      "hebreeuws": "קוֹלָיָה",
+      "translit": "Kolaja",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Colaias-pn",
+      "grondvorm": "Kolaiah",
+      "stamfamilie": [],
+      "toelichting": "Benjaminita Neh 11:7.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6965a",
+      "hebreeuws": "קָמַי",
+      "translit": "qamay-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Camay-pn",
+      "grondvorm": "Qamai",
+      "stamfamilie": [],
+      "toelichting": "Region Jr 51:1 H6965a.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6965b",
+      "hebreeuws": "קום",
+      "translit": "qum",
+      "woordsoort": "verbo",
+      "es_concordant": "levantarse-qum",
+      "grondvorm": "rise",
+      "stamfamilie": [
+        "H6965b",
+        "H4725",
+        "H6967"
+      ],
+      "toelichting": "Ponerse en pie Gn 4:8 H6965b.",
+      "voorkomens": 624
+    },
+    {
+      "strong": "H6966",
+      "hebreeuws": "קוּם-Aram",
+      "translit": "qum-Aram",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "levantarse-arameo",
+      "grondvorm": "rise-aramaic",
+      "stamfamilie": [
+        "H6965a"
+      ],
+      "toelichting": "Aramaico Dn 2:31.",
+      "voorkomens": 36
+    },
+    {
+      "strong": "H6967",
+      "hebreeuws": "קוֹמָה",
+      "translit": "qomah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "estatura-qomah",
+      "grondvorm": "stature",
+      "stamfamilie": [
+        "H6965a"
+      ],
+      "toelichting": "Talla Cant 7:7.",
+      "voorkomens": 46
+    },
+    {
+      "strong": "H6968",
+      "hebreeuws": "קוֹמְמִיּוּת",
+      "translit": "qomemiyut",
+      "woordsoort": "adverbio",
+      "es_concordant": "erguidamente",
+      "grondvorm": "upright-walking",
+      "stamfamilie": [],
+      "toelichting": "Andar erguido Lv 26:13.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6969",
+      "hebreeuws": "קוּן",
+      "translit": "qun",
+      "woordsoort": "verbo",
+      "es_concordant": "entonar-elegia",
+      "grondvorm": "chant-dirge",
+      "stamfamilie": [
+        "H7015"
+      ],
+      "toelichting": "Cantar lamento 2Sm 1:17.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H6970",
+      "hebreeuws": "קוֹעַ",
+      "translit": "qoa-eign-volk",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Coa-pn",
+      "grondvorm": "Koa",
+      "stamfamilie": [],
+      "toelichting": "Pueblo babilonico Ez 23:23.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6971",
+      "hebreeuws": "קוֹף",
+      "translit": "qof-aap",
+      "woordsoort": "sustantivo",
+      "es_concordant": "mono-qof",
+      "grondvorm": "ape",
+      "stamfamilie": [],
+      "toelichting": "Simio 1Re 10:22.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6972",
+      "hebreeuws": "קוּץ",
+      "translit": "quts-zomer",
+      "woordsoort": "verbo",
+      "es_concordant": "veranear",
+      "grondvorm": "summer-stay",
+      "stamfamilie": [],
+      "toelichting": "Pasar el verano Is 18:6.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6973",
+      "hebreeuws": "קוּץ-II",
+      "translit": "quts-II",
+      "woordsoort": "verbo",
+      "es_concordant": "aborrecer-quts-II",
+      "grondvorm": "loathe",
+      "stamfamilie": [],
+      "toelichting": "Detestar Gn 27:46.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H6974",
+      "hebreeuws": "קוּץ-II",
+      "translit": "quts-II",
+      "woordsoort": "verbo",
+      "es_concordant": "despertar-quts",
+      "grondvorm": "awaken",
+      "stamfamilie": [
+        "H3364"
+      ],
+      "toelichting": "Despertarse Sal 3:5.",
+      "voorkomens": 23
+    },
+    {
+      "strong": "H6975",
+      "hebreeuws": "קוֹץ",
+      "translit": "qots-zn",
+      "woordsoort": "sustantivo",
+      "es_concordant": "espino-qots",
+      "grondvorm": "thorn-bush",
+      "stamfamilie": [],
+      "toelichting": "Espinas Gn 3:18.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H6976",
+      "hebreeuws": "קוֹץ",
+      "translit": "Qots",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cos-pn",
+      "grondvorm": "Koz",
+      "stamfamilie": [],
+      "toelichting": "Sacerdote 1Cr 24:10.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H6977",
+      "hebreeuws": "קְוֻצָּה",
+      "translit": "qevutsah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "rizos-cabello",
+      "grondvorm": "curl-of-hair",
+      "stamfamilie": [],
+      "toelichting": "Mechones Cant 5:11.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6978",
+      "hebreeuws": "קַו־קָו",
+      "translit": "qav-qav",
+      "woordsoort": "sustantivo",
+      "es_concordant": "linea-confusion",
+      "grondvorm": "measuring-line-qav",
+      "stamfamilie": [
+        "H6957"
+      ],
+      "toelichting": "Cordel medida Is 18:2.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6978+",
+      "hebreeuws": "קַו קַו",
+      "translit": "qav-qav-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Qav-Qav-pn",
+      "grondvorm": "Qav-Qav",
+      "stamfamilie": [],
+      "toelichting": "Pueblo Is 18:2.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6979a",
+      "hebreeuws": "קַרְתִּי",
+      "translit": "Karthi",
+      "woordsoort": "verbo",
+      "es_concordant": "cavar-fortificar",
+      "grondvorm": "dig-fortify",
+      "stamfamilie": [
+        "H6979"
+      ],
+      "toelichting": "Excavar Is 37:25 H6979a.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6979b",
+      "hebreeuws": "קוּר",
+      "translit": "qur-II",
+      "woordsoort": "verbo",
+      "es_concordant": "mantener-fresco-qur",
+      "grondvorm": "keep-fresh",
+      "stamfamilie": [
+        "H6979a"
+      ],
+      "toelichting": "Conservar fresco Jr 6:7 H6979b.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6979c",
+      "hebreeuws": "קָרַר",
+      "translit": "qarar-afbreken",
+      "woordsoort": "verbo",
+      "es_concordant": "demoler-qarar",
+      "grondvorm": "break-down-qarar",
+      "stamfamilie": [],
+      "toelichting": "Derribar 2Re 19:24 H6979c.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6980",
+      "hebreeuws": "קוּר",
+      "translit": "qur",
+      "woordsoort": "verbo",
+      "es_concordant": "tejer-tela-arana",
+      "grondvorm": "weave-spider",
+      "stamfamilie": [],
+      "toelichting": "Hilar Is 59:5.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6981",
+      "hebreeuws": "קוֹרֵא",
+      "translit": "Qore-naam",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Core-pn",
+      "grondvorm": "Kore",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Imna 2Cr 31:14.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6982",
+      "hebreeuws": "קוֹרָה",
+      "translit": "qorah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "viga-techo",
+      "grondvorm": "roof-beam",
+      "stamfamilie": [
+        "H7136a"
+      ],
+      "toelichting": "Vigueta Gn 19:8.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H6983",
+      "hebreeuws": "יָקֹשׁ",
+      "translit": "yaqosh",
+      "woordsoort": "verbo",
+      "es_concordant": "atrapar-pajaro",
+      "grondvorm": "snare-bird",
+      "stamfamilie": [],
+      "toelichting": "Tender lazo Sal 124:7.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6984",
+      "hebreeuws": "קוּשָׁיָהוּ",
+      "translit": "qushieu",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cusayas-pn",
+      "grondvorm": "Kushaiah",
+      "stamfamilie": [
+        "H6984"
+      ],
+      "toelichting": "Levita 1Cr 15:17.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6985",
+      "hebreeuws": "קָט",
+      "translit": "qat",
+      "woordsoort": "preposicion",
+      "es_concordant": "poco-tiempo",
+      "grondvorm": "short-time",
+      "stamfamilie": [],
+      "toelichting": "Tiempo breve Ez 16:47.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6986",
+      "hebreeuws": "קֶטֶב",
+      "translit": "qetev",
+      "woordsoort": "sustantivo",
+      "es_concordant": "plaga-pestilencia",
+      "grondvorm": "plague-pestilence",
+      "stamfamilie": [],
+      "toelichting": "Destruccion Os 13:14.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6987",
+      "hebreeuws": "קֹטֶב",
+      "translit": "qotev",
+      "woordsoort": "sustantivo",
+      "es_concordant": "destruccion-qotev",
+      "grondvorm": "destruction",
+      "stamfamilie": [],
+      "toelichting": "Pestilencia Sal 91:6.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6988",
+      "hebreeuws": "קְטוֹרָה",
+      "translit": "qetorah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "incienso-qetorah",
+      "grondvorm": "incense-qetorah",
+      "stamfamilie": [],
+      "toelichting": "Polvo aromatico Dt 33:10.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6989",
+      "hebreeuws": "קְטוּרָה",
+      "translit": "Qeturah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quetura-pn",
+      "grondvorm": "Keturah",
+      "stamfamilie": [
+        "H6999"
+      ],
+      "toelichting": "Esposa de Abraham Gn 25:1.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6990",
+      "hebreeuws": "קוּט",
+      "translit": "qut",
+      "woordsoort": "verbo",
+      "es_concordant": "cortar-hilo",
+      "grondvorm": "cut-off-thread",
+      "stamfamilie": [],
+      "toelichting": "Cortar hilo de verano Job 8:14.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6991",
+      "hebreeuws": "קָטַל",
+      "translit": "qatal",
+      "woordsoort": "verbo",
+      "es_concordant": "matar-qatal",
+      "grondvorm": "slay-qatal",
+      "stamfamilie": [],
+      "toelichting": "Asesinar Sal 139:19.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6992",
+      "hebreeuws": "קְטַל",
+      "translit": "qetal-Aram",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "matar-arameo",
+      "grondvorm": "kill-aramaic",
+      "stamfamilie": [
+        "H6991"
+      ],
+      "toelichting": "Aramaico Dn 2:13.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H6993",
+      "hebreeuws": "קֶטֶל",
+      "translit": "qetel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "matanza-qetel",
+      "grondvorm": "killing",
+      "stamfamilie": [],
+      "toelichting": "Homicidio Abd 9.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6994",
+      "hebreeuws": "קָטֹן",
+      "translit": "qaton",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-pequeno-qaton",
+      "grondvorm": "be-small",
+      "stamfamilie": [
+        "H6996a",
+        "H6996b"
+      ],
+      "toelichting": "Disminuir Gn 32:10.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6995",
+      "hebreeuws": "קָטֹן",
+      "translit": "qoten-pink",
+      "woordsoort": "sustantivo",
+      "es_concordant": "dedo-meñique",
+      "grondvorm": "little-finger",
+      "stamfamilie": [
+        "H6996a"
+      ],
+      "toelichting": "Dedo pequeno 1Re 12:10.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6996a",
+      "hebreeuws": "קָטָן",
+      "translit": "qatan",
+      "woordsoort": "adjetivo",
+      "es_concordant": "pequeno-qatan-II",
+      "grondvorm": "small-II",
+      "stamfamilie": [
+        "H6996b",
+        "H6810"
+      ],
+      "toelichting": "Pequeno Gn 9:24 H6996a.",
+      "voorkomens": 46
+    },
+    {
+      "strong": "H6996b",
+      "hebreeuws": "קָטֹן",
+      "translit": "qaton",
+      "woordsoort": "adjetivo",
+      "es_concordant": "pequeno-qaton",
+      "grondvorm": "small",
+      "stamfamilie": [
+        "H6810"
+      ],
+      "toelichting": "Pequeno Gn 1:16 H6996b.",
+      "voorkomens": 55
+    },
+    {
+      "strong": "H6997",
+      "hebreeuws": "קָטָן",
+      "translit": "qatan-eign-Adoniqam",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Hacatan-pn",
+      "grondvorm": "Hakkatan",
+      "stamfamilie": [],
+      "toelichting": "Padre de Johanan Esd 8:12.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6998",
+      "hebreeuws": "קָטַף",
+      "translit": "qataf",
+      "woordsoort": "verbo",
+      "es_concordant": "arrancar-qataf",
+      "grondvorm": "pluck-off",
+      "stamfamilie": [],
+      "toelichting": "Coger fruto Dt 23:25.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H6999a",
+      "hebreeuws": "קטר",
+      "translit": "qatar",
+      "woordsoort": "verbo",
+      "es_concordant": "quemar-incienso",
+      "grondvorm": "burn-incense",
+      "stamfamilie": [
+        "H6999a",
+        "H7004"
+      ],
+      "toelichting": "Ofrecer incienso 1Sm 2:16 H6999a.",
+      "voorkomens": 114
+    },
+    {
+      "strong": "H6999b",
+      "hebreeuws": "קָטַר-rookoffer",
+      "translit": "qatar-II-passief",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-quemado-incienso",
+      "grondvorm": "be-burnt-incense",
+      "stamfamilie": [
+        "H6999c"
+      ],
+      "toelichting": "Ser quemado como incienso H6999b.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6999c",
+      "hebreeuws": "קָטַר",
+      "translit": "qatar-III",
+      "woordsoort": "verbo",
+      "es_concordant": "hacer-incienso",
+      "grondvorm": "cause-incense",
+      "stamfamilie": [],
+      "toelichting": "Hacer ofrenda H6999c.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7000",
+      "hebreeuws": "קָטַר-hoek",
+      "translit": "qatar-hoek",
+      "woordsoort": "verbo",
+      "es_concordant": "cuadrar-esquina",
+      "grondvorm": "square-corner",
+      "stamfamilie": [],
+      "toelichting": "Hacer en angulo recto Ez 46:22.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7001",
+      "hebreeuws": "קְטַר",
+      "translit": "qetar-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "nudo-arameo",
+      "grondvorm": "knot-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Dn 5:6.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7002",
+      "hebreeuws": "קִטֵּר",
+      "translit": "qitter",
+      "woordsoort": "sustantivo",
+      "es_concordant": "incienso-acto",
+      "grondvorm": "incense-act",
+      "stamfamilie": [],
+      "toelichting": "Acto de incensar Jr 44:21.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7003",
+      "hebreeuws": "קִטְרוֹן",
+      "translit": "qitron-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quitron-pn",
+      "grondvorm": "Kitron",
+      "stamfamilie": [],
+      "toelichting": "Pueblo de Zabulon Jue 1:30.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7004",
+      "hebreeuws": "קְטֹרֶת",
+      "translit": "qetoret",
+      "woordsoort": "sustantivo",
+      "es_concordant": "incienso-qetoret",
+      "grondvorm": "incense",
+      "stamfamilie": [
+        "H6999a"
+      ],
+      "toelichting": "Perfume sagrado Ex 25:6.",
+      "voorkomens": 60
+    },
+    {
+      "strong": "H7005",
+      "hebreeuws": "קַטָּת",
+      "translit": "qattat-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Catat-pn",
+      "grondvorm": "Kattath",
+      "stamfamilie": [],
+      "toelichting": "Pueblo de Zabulon Jos 19:15.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7006",
+      "hebreeuws": "קָיָה",
+      "translit": "qie",
+      "woordsoort": "verbo",
+      "es_concordant": "vomitar-qie",
+      "grondvorm": "vomit-qie",
+      "stamfamilie": [
+        "H7006"
+      ],
+      "toelichting": "Vomitar Jr 25:27.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7007",
+      "hebreeuws": "קַיִט",
+      "translit": "qit",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "verano-arameo",
+      "grondvorm": "summer-aramaic",
+      "stamfamilie": [
+        "H7007",
+        "H7019"
+      ],
+      "toelichting": "Aramaico Dn 2:35.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7008",
+      "hebreeuws": "קִיטוֹר",
+      "translit": "qitor",
+      "woordsoort": "sustantivo",
+      "es_concordant": "humo-qitor",
+      "grondvorm": "smoke-qitor",
+      "stamfamilie": [
+        "H6999"
+      ],
+      "toelichting": "Humo-vapor Gn 19:28.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H7009",
+      "hebreeuws": "קִים",
+      "translit": "qim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "adversario-qim",
+      "grondvorm": "foe",
+      "stamfamilie": [],
+      "toelichting": "Enemigo Job 22:20.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7010",
+      "hebreeuws": "קְיָם",
+      "translit": "qeyam-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "decreto-arameo-qeyam",
+      "grondvorm": "decree-aramaic-qeyam",
+      "stamfamilie": [
+        "H7011"
+      ],
+      "toelichting": "Aramaico Dn 6:7.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7011",
+      "hebreeuws": "קַיָּם",
+      "translit": "qayyam-Aram",
+      "woordsoort": "adjetivo-arameo",
+      "es_concordant": "perdurable-arameo",
+      "grondvorm": "enduring-aramaic",
+      "stamfamilie": [
+        "H6966"
+      ],
+      "toelichting": "Aramaico Dn 6:26.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7012",
+      "hebreeuws": "קִימָה",
+      "translit": "qimah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "levantarse-qimah",
+      "grondvorm": "rising",
+      "stamfamilie": [],
+      "toelichting": "Acto de levantarse Lm 3:63.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7013",
+      "hebreeuws": "קַיִן",
+      "translit": "qin",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lanza-qin",
+      "grondvorm": "spear-qin",
+      "stamfamilie": [
+        "H7013"
+      ],
+      "toelichting": "Lanza 2Sm 21:16.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7014a",
+      "hebreeuws": "קַיִן",
+      "translit": "Qayin-stam",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cain-tribu-pn",
+      "grondvorm": "Kain-tribe",
+      "stamfamilie": [],
+      "toelichting": "Pueblo qenita Nm 24:22 H7014a.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7014b",
+      "hebreeuws": "קַיִן",
+      "translit": "qayin-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cain-pn",
+      "grondvorm": "Cain",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Adan Gn 4:1 H7014b.",
+      "voorkomens": 16
+    },
+    {
+      "strong": "H7015",
+      "hebreeuws": "קִינָה",
+      "translit": "qinah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lamento-qinah",
+      "grondvorm": "lament",
+      "stamfamilie": [
+        "H6969"
+      ],
+      "toelichting": "Endecha Jr 7:29.",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H7016",
+      "hebreeuws": "קִינָה",
+      "translit": "qinah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quina-pn",
+      "grondvorm": "Kinah",
+      "stamfamilie": [],
+      "toelichting": "Pueblo de Juda Jos 15:22.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7017",
+      "hebreeuws": "קֵינִי",
+      "translit": "qeni",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ceneo",
+      "grondvorm": "Kenite",
+      "stamfamilie": [],
+      "toelichting": "Pueblo qenita Nm 24:21.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H7018",
+      "hebreeuws": "קֵינָן",
+      "translit": "Qeynan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cainan-pn",
+      "grondvorm": "Kenan",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Enos Gn 5:9.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H7019",
+      "hebreeuws": "קַיִץ",
+      "translit": "qayits",
+      "woordsoort": "sustantivo",
+      "es_concordant": "verano-qayits",
+      "grondvorm": "summer",
+      "stamfamilie": [
+        "H6972",
+        "H6974"
+      ],
+      "toelichting": "Estacion calida Gn 8:22.",
+      "voorkomens": 20
+    },
+    {
+      "strong": "H7020",
+      "hebreeuws": "קִיצוֹן",
+      "translit": "qitson",
+      "woordsoort": "adjetivo",
+      "es_concordant": "extremo-qitson",
+      "grondvorm": "outermost",
+      "stamfamilie": [
+        "H7097"
+      ],
+      "toelichting": "Mas exterior Ex 26:4.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H7021",
+      "hebreeuws": "קִיקָיוֹן",
+      "translit": "qiqayon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ricino-qiqayon",
+      "grondvorm": "castor-plant",
+      "stamfamilie": [],
+      "toelichting": "Planta de ricino Jon 4:6.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H7022",
+      "hebreeuws": "קִיקָלוֹן",
+      "translit": "qiqlon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "verguenza-qiqlon",
+      "grondvorm": "shame-spit",
+      "stamfamilie": [],
+      "toelichting": "Oprobio Hab 2:16.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7023",
+      "hebreeuws": "קִיר",
+      "translit": "qir",
+      "woordsoort": "sustantivo",
+      "es_concordant": "muro-qir",
+      "grondvorm": "wall-qir",
+      "stamfamilie": [
+        "H7791",
+        "H2346"
+      ],
+      "toelichting": "Pared 1Sm 18:11.",
+      "voorkomens": 73
+    },
+    {
+      "strong": "H7024a",
+      "hebreeuws": "קִיר־מוֹאָב",
+      "translit": "qir-moav-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quir-Moab-pn",
+      "grondvorm": "Kir-Moab",
+      "stamfamilie": [],
+      "toelichting": "Pueblo moabita Is 15:1 H7024a.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7024b",
+      "hebreeuws": "קִיר",
+      "translit": "Qir-II",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quir-pn",
+      "grondvorm": "Kir",
+      "stamfamilie": [],
+      "toelichting": "Region Am 1:5 H7024b.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H7025",
+      "hebreeuws": "קִיר חֶרֶשׂ",
+      "translit": "Qir-Chareseth",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quir-Hareset-pn",
+      "grondvorm": "Kir-Hareseth",
+      "stamfamilie": [],
+      "toelichting": "Capital de Moab 2Re 3:25.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H7025+",
+      "hebreeuws": "קִיר חֲרָשֶׂת",
+      "translit": "qir-charaset-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quir-Hareset-compuesto-pn",
+      "grondvorm": "Kir-Hareseth-compound",
+      "stamfamilie": [],
+      "toelichting": "Variante Quir Hareset.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H7026",
+      "hebreeuws": "קֵרֹס",
+      "translit": "Keros",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Queros-pn",
+      "grondvorm": "Keros",
+      "stamfamilie": [],
+      "toelichting": "Familia Esd 2:44.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7027",
+      "hebreeuws": "קִישׁ",
+      "translit": "qish",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cis-pn",
+      "grondvorm": "Kish",
+      "stamfamilie": [],
+      "toelichting": "Padre de Saul 1Sm 9:1.",
+      "voorkomens": 21
+    },
+    {
+      "strong": "H7028",
+      "hebreeuws": "קִישׁוֹן",
+      "translit": "Qishon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cison-pn",
+      "grondvorm": "Kishon",
+      "stamfamilie": [],
+      "toelichting": "Rio Jue 4:7.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H7029",
+      "hebreeuws": "קִישִׁי",
+      "translit": "qishi-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quisi-pn",
+      "grondvorm": "Kishi",
+      "stamfamilie": [],
+      "toelichting": "Levita 1Cr 6:44.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7030",
+      "hebreeuws": "קִיתָרוֹס",
+      "translit": "qithros-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "citara-arameo",
+      "grondvorm": "zither-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Dn 3:5.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H7031",
+      "hebreeuws": "קַל",
+      "translit": "qal",
+      "woordsoort": "adjetivo",
+      "es_concordant": "rapido-qal",
+      "grondvorm": "swift",
+      "stamfamilie": [
+        "H7043"
+      ],
+      "toelichting": "Veloz Is 18:2.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H7032",
+      "hebreeuws": "קׇל",
+      "translit": "qal-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "voz-arameo",
+      "grondvorm": "voice-aramaic",
+      "stamfamilie": [
+        "H6963"
+      ],
+      "toelichting": "Aramaico Dn 3:5.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H7033",
+      "hebreeuws": "קָלָה",
+      "translit": "qalah-II",
+      "woordsoort": "verbo",
+      "es_concordant": "tostar-qalah-I",
+      "grondvorm": "roast",
+      "stamfamilie": [],
+      "toelichting": "Asar grano Lv 2:14.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H7034",
+      "hebreeuws": "קָלָה",
+      "translit": "qalah-II",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-deshonrado",
+      "grondvorm": "be-dishonored",
+      "stamfamilie": [
+        "H7036"
+      ],
+      "toelichting": "Caer en desgracia Is 16:14.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H7035",
+      "hebreeuws": "קָלָה",
+      "translit": "qalah-samen",
+      "woordsoort": "verbo",
+      "es_concordant": "afluir-juntos",
+      "grondvorm": "rush-together",
+      "stamfamilie": [],
+      "toelichting": "Acudir corriendo 1Sm 17:16.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7036",
+      "hebreeuws": "קָלוֹן",
+      "translit": "qalon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "deshonra-qalon",
+      "grondvorm": "dishonor",
+      "stamfamilie": [
+        "H7034"
+      ],
+      "toelichting": "Verguenza Pr 11:2.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H7037",
+      "hebreeuws": "קַלַּחַת",
+      "translit": "qallachath",
+      "woordsoort": "sustantivo",
+      "es_concordant": "caldera-qallachath",
+      "grondvorm": "cauldron",
+      "stamfamilie": [],
+      "toelichting": "Caldera 1Sm 2:14.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7038",
+      "hebreeuws": "קָלַט",
+      "translit": "qalat",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-acortado",
+      "grondvorm": "be-shortened",
+      "stamfamilie": [],
+      "toelichting": "Estar mutilado Lv 22:23.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7039",
+      "hebreeuws": "קָלִי",
+      "translit": "qali",
+      "woordsoort": "sustantivo",
+      "es_concordant": "grano-tostado",
+      "grondvorm": "parched-grain",
+      "stamfamilie": [
+        "H7033"
+      ],
+      "toelichting": "Espigas tostadas Lv 23:14.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H7040",
+      "hebreeuws": "קַלָּי",
+      "translit": "qallay-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Calai-pn",
+      "grondvorm": "Kallai",
+      "stamfamilie": [],
+      "toelichting": "Sacerdote Neh 12:20.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7041",
+      "hebreeuws": "קֵלָיָה",
+      "translit": "qelayah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quelaias-pn",
+      "grondvorm": "Kelaiah-qelayah",
+      "stamfamilie": [],
+      "toelichting": "Levita Esd 10:23.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7042",
+      "hebreeuws": "קְלִיטָא",
+      "translit": "Qelita",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quelita-pn",
+      "grondvorm": "Kelita",
+      "stamfamilie": [],
+      "toelichting": "Levita Neh 8:7.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7043",
+      "hebreeuws": "קָלַל",
+      "translit": "qalal",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-ligero-maldecir",
+      "grondvorm": "be-light-curse",
+      "stamfamilie": [
+        "H7034",
+        "H7036"
+      ],
+      "toelichting": "Aligerar-maldecir Gn 8:11.",
+      "voorkomens": 83
+    },
+    {
+      "strong": "H7044",
+      "hebreeuws": "קָלָל",
+      "translit": "qalal-glanzend",
+      "woordsoort": "adjetivo",
+      "es_concordant": "metal-pulido",
+      "grondvorm": "polished-metal",
+      "stamfamilie": [
+        "H7043"
+      ],
+      "toelichting": "Bronce bruñido Ez 1:7.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7045",
+      "hebreeuws": "קְלָלָה",
+      "translit": "qelalah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "maldicion-qelalah",
+      "grondvorm": "curse-qelalah",
+      "stamfamilie": [
+        "H7043"
+      ],
+      "toelichting": "Imprecacion Gn 27:12.",
+      "voorkomens": 33
+    },
+    {
+      "strong": "H7046",
+      "hebreeuws": "קָלַס",
+      "translit": "qalas",
+      "woordsoort": "verbo",
+      "es_concordant": "burlarse-qalas",
+      "grondvorm": "mock",
+      "stamfamilie": [
+        "H7048"
+      ],
+      "toelichting": "Mofarse 2Re 2:23.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H7047",
+      "hebreeuws": "קֶלֶס",
+      "translit": "qeles",
+      "woordsoort": "sustantivo",
+      "es_concordant": "burla-qeles",
+      "grondvorm": "mocking-song",
+      "stamfamilie": [
+        "H7046"
+      ],
+      "toelichting": "Cancion de mofa Sal 44:14.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7048",
+      "hebreeuws": "קַלָּסָה",
+      "translit": "qallasah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "escarnio-qallasah",
+      "grondvorm": "mocking-qallasah",
+      "stamfamilie": [],
+      "toelichting": "Burla Ez 22:4.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7049a",
+      "hebreeuws": "קָלַע",
+      "translit": "qala-I",
+      "woordsoort": "verbo",
+      "es_concordant": "lanzar-honda",
+      "grondvorm": "sling-fling",
+      "stamfamilie": [
+        "H7050"
+      ],
+      "toelichting": "Tirar con honda 1Sm 17:49 H7049a.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H7049b",
+      "hebreeuws": "קָלַע",
+      "translit": "qala-snijwerk",
+      "woordsoort": "verbo",
+      "es_concordant": "esculpir-qala",
+      "grondvorm": "engrave-carve",
+      "stamfamilie": [
+        "H4734"
+      ],
+      "toelichting": "Tallar 1Re 6:29 H7049b.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7050a",
+      "hebreeuws": "קֶלַע",
+      "translit": "qela-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "honda-qela-I",
+      "grondvorm": "sling",
+      "stamfamilie": [],
+      "toelichting": "Honda 1Sm 17:40 H7050a.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H7050b",
+      "hebreeuws": "קֶלַע-II",
+      "translit": "qela-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cortina-qela-II",
+      "grondvorm": "hanging-curtain",
+      "stamfamilie": [],
+      "toelichting": "Telon Ex 27:9 H7050b.",
+      "voorkomens": 16
+    },
+    {
+      "strong": "H7051",
+      "hebreeuws": "קַלָּעִים",
+      "translit": "qallaim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "hondero-qallaim",
+      "grondvorm": "slinger",
+      "stamfamilie": [],
+      "toelichting": "Lanzador con honda 2Re 3:25.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7052",
+      "hebreeuws": "קְלֹקֵל",
+      "translit": "qeloqel",
+      "woordsoort": "adjetivo",
+      "es_concordant": "pan-miserable",
+      "grondvorm": "miserable-bread",
+      "stamfamilie": [],
+      "toelichting": "Pan despreciable Nm 21:5.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7053",
+      "hebreeuws": "קִלְּשׁוֹן",
+      "translit": "qillshon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tridente-qillshon",
+      "grondvorm": "three-prong",
+      "stamfamilie": [],
+      "toelichting": "Trinche 1Sm 13:21.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7054",
+      "hebreeuws": "קָמָה",
+      "translit": "qamah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "mies-qamah",
+      "grondvorm": "standing-grain",
+      "stamfamilie": [],
+      "toelichting": "Mies en pie Ex 22:6.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H7055",
+      "hebreeuws": "קְמוּאֵל",
+      "translit": "Kemuel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Camuel-pn",
+      "grondvorm": "Kemuel",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Nacor Gn 22:21.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7056",
+      "hebreeuws": "קָמוֹן",
+      "translit": "qamon-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Camon-pn",
+      "grondvorm": "Kamon",
+      "stamfamilie": [],
+      "toelichting": "Lugar Jue 10:5.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7057",
+      "hebreeuws": "קִמּוֹשׂ",
+      "translit": "qimmos",
+      "woordsoort": "sustantivo",
+      "es_concordant": "espino-qimmos",
+      "grondvorm": "thorn-weed",
+      "stamfamilie": [],
+      "toelichting": "Cardo Is 34:13.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7058",
+      "hebreeuws": "קֶמַח",
+      "translit": "qemach",
+      "woordsoort": "sustantivo",
+      "es_concordant": "harina-qemach",
+      "grondvorm": "flour",
+      "stamfamilie": [],
+      "toelichting": "Harina Gn 18:6.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H7059",
+      "hebreeuws": "קָמַט",
+      "translit": "qamat",
+      "woordsoort": "verbo",
+      "es_concordant": "agarrar-atormentar",
+      "grondvorm": "seize-torment",
+      "stamfamilie": [],
+      "toelichting": "Apretar Job 16:8.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7060",
+      "hebreeuws": "קָמַל",
+      "translit": "qamal-verwelken",
+      "woordsoort": "verbo",
+      "es_concordant": "marchitar-qamal",
+      "grondvorm": "wither-qamal",
+      "stamfamilie": [],
+      "toelichting": "Secarse Is 19:6.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7061",
+      "hebreeuws": "קָמַץ",
+      "translit": "qamats",
+      "woordsoort": "verbo",
+      "es_concordant": "asir-puñado",
+      "grondvorm": "grasp-by-hand",
+      "stamfamilie": [],
+      "toelichting": "Tomar puñado Lv 2:2.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7062",
+      "hebreeuws": "קֶמֶץ",
+      "translit": "qomets",
+      "woordsoort": "sustantivo",
+      "es_concordant": "puñado-qomets",
+      "grondvorm": "handful",
+      "stamfamilie": [],
+      "toelichting": "Lo que cabe en la mano Lv 2:2.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H7063",
+      "hebreeuws": "קִמְּשׂוֹן",
+      "translit": "qimmeson",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ortigas-qimmeson",
+      "grondvorm": "nettles",
+      "stamfamilie": [],
+      "toelichting": "Espinas Pr 24:31.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7064",
+      "hebreeuws": "קֵן",
+      "translit": "qen",
+      "woordsoort": "sustantivo",
+      "es_concordant": "nido-qen",
+      "grondvorm": "nest",
+      "stamfamilie": [],
+      "toelichting": "Nido de ave Dt 22:6.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H7065",
+      "hebreeuws": "קָנָא",
+      "translit": "qana",
+      "woordsoort": "verbo",
+      "es_concordant": "celar-qana",
+      "grondvorm": "be-jealous-zealous",
+      "stamfamilie": [
+        "H7068"
+      ],
+      "toelichting": "Tener celo Nm 25:11.",
+      "voorkomens": 33
+    },
+    {
+      "strong": "H7066",
+      "hebreeuws": "קְנָא",
+      "translit": "qena-Aram",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "comprar-arameo-qena",
+      "grondvorm": "buy-aramaic-qena",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Esd 7:17.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7067",
+      "hebreeuws": "קַנָּא",
+      "translit": "qanna",
+      "woordsoort": "adjetivo",
+      "es_concordant": "celoso-El",
+      "grondvorm": "jealous-El",
+      "stamfamilie": [
+        "H7065",
+        "H7068"
+      ],
+      "toelichting": "Celoso de Dios Ex 20:5.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H7068",
+      "hebreeuws": "קִנְאָה",
+      "translit": "qinah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "celo-qinah",
+      "grondvorm": "zeal-jealousy",
+      "stamfamilie": [
+        "H7065"
+      ],
+      "toelichting": "Celo divino Sal 69:9.",
+      "voorkomens": 42
+    },
+    {
+      "strong": "H7069",
+      "hebreeuws": "קנה",
+      "translit": "qanah",
+      "woordsoort": "verbo",
+      "es_concordant": "adquirir-qanah",
+      "grondvorm": "acquire",
+      "stamfamilie": [
+        "H7069"
+      ],
+      "toelichting": "Comprar Gn 4:1.",
+      "voorkomens": 86
+    },
+    {
+      "strong": "H7070",
+      "hebreeuws": "קָנֶה",
+      "translit": "qaneh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "caña-qaneh",
+      "grondvorm": "reed",
+      "stamfamilie": [
+        "H7071"
+      ],
+      "toelichting": "Caña Gn 41:5.",
+      "voorkomens": 62
+    },
+    {
+      "strong": "H7071",
+      "hebreeuws": "קָנָה",
+      "translit": "Qanah-rivier",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cana-rio-pn",
+      "grondvorm": "Kanah",
+      "stamfamilie": [],
+      "toelichting": "Rio Jos 16:8.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7072",
+      "hebreeuws": "קַנּוֹא",
+      "translit": "Qanno",
+      "woordsoort": "sustantivo",
+      "es_concordant": "celoso-qanno",
+      "grondvorm": "zealous-El",
+      "stamfamilie": [
+        "H7067"
+      ],
+      "toelichting": "Dios celoso Jos 24:19.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7073",
+      "hebreeuws": "קְנַז",
+      "translit": "Qenaz",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cenaz-pn",
+      "grondvorm": "Kenaz",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Elifaz Gn 36:11.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H7074",
+      "hebreeuws": "קְנִזִּי",
+      "translit": "Qenizzi",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cenezeo-pn",
+      "grondvorm": "Kenizzite",
+      "stamfamilie": [
+        "H7073"
+      ],
+      "toelichting": "Pueblo Gn 15:19.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H7075",
+      "hebreeuws": "קִנְיָן",
+      "translit": "qinyan",
+      "woordsoort": "sustantivo",
+      "es_concordant": "posesion-qinyan",
+      "grondvorm": "possession-qinyan",
+      "stamfamilie": [
+        "H7069"
+      ],
+      "toelichting": "Riqueza adquirida Gn 36:6.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H7076",
+      "hebreeuws": "קִנָּמוֹן",
+      "translit": "qinnamon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "canela-qinnamon",
+      "grondvorm": "cinnamon",
+      "stamfamilie": [],
+      "toelichting": "Canela aromatica Ex 30:23.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7077",
+      "hebreeuws": "קָנַן",
+      "translit": "qanan",
+      "woordsoort": "verbo",
+      "es_concordant": "anidar-qanan",
+      "grondvorm": "build-nest",
+      "stamfamilie": [
+        "H7064"
+      ],
+      "toelichting": "Hacer nido Sal 104:17.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H7078",
+      "hebreeuws": "קֵנֶץ",
+      "translit": "qenets",
+      "woordsoort": "sustantivo",
+      "es_concordant": "fin-palabras",
+      "grondvorm": "end-of-words",
+      "stamfamilie": [],
+      "toelichting": "Fin del discurso Job 18:2.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7079",
+      "hebreeuws": "קְנָת",
+      "translit": "qenath",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cenat-pn",
+      "grondvorm": "Kenath",
+      "stamfamilie": [
+        "H7069"
+      ],
+      "toelichting": "Pueblo Nm 32:42.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7080",
+      "hebreeuws": "קָסַם",
+      "translit": "qasam",
+      "woordsoort": "verbo",
+      "es_concordant": "adivinar-qasam",
+      "grondvorm": "divine-by-lot",
+      "stamfamilie": [
+        "H7081"
+      ],
+      "toelichting": "Practicar adivinacion Dt 18:10.",
+      "voorkomens": 23
+    },
+    {
+      "strong": "H7081",
+      "hebreeuws": "קֶסֶם",
+      "translit": "qesem",
+      "woordsoort": "sustantivo",
+      "es_concordant": "adivinacion-qesem",
+      "grondvorm": "divination",
+      "stamfamilie": [
+        "H7080"
+      ],
+      "toelichting": "Augurio Nm 22:7.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H7082",
+      "hebreeuws": "קָסַס",
+      "translit": "qasas",
+      "woordsoort": "verbo",
+      "es_concordant": "cortar-vid",
+      "grondvorm": "cut-off-vine",
+      "stamfamilie": [],
+      "toelichting": "Mochar vid Ez 17:9.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7083",
+      "hebreeuws": "קֶסֶת",
+      "translit": "qeset",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tintero-escriba",
+      "grondvorm": "writer-quiver",
+      "stamfamilie": [],
+      "toelichting": "Estuche de escriba Ez 9:2.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7084",
+      "hebreeuws": "קְעִילָה",
+      "translit": "qeilah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Queila-pn",
+      "grondvorm": "Keilah",
+      "stamfamilie": [],
+      "toelichting": "Pueblo de Juda Jos 15:44.",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H7085",
+      "hebreeuws": "קַעֲקַע",
+      "translit": "qaaqa",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tatuaje-qaaqa",
+      "grondvorm": "imprinted-mark",
+      "stamfamilie": [],
+      "toelichting": "Marca grabada Lv 19:28.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7086",
+      "hebreeuws": "קְעָרָה",
+      "translit": "qearah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "fuente-plato",
+      "grondvorm": "dish",
+      "stamfamilie": [],
+      "toelichting": "Plato Ex 25:29.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H7087a",
+      "hebreeuws": "קָפָא",
+      "translit": "qafa",
+      "woordsoort": "verbo",
+      "es_concordant": "coagular-qafa-I",
+      "grondvorm": "congeal-stiffen",
+      "stamfamilie": [],
+      "toelichting": "Cuajarse Ex 15:8 H7087a.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7087b",
+      "hebreeuws": "קָפָא",
+      "translit": "qapha-II",
+      "woordsoort": "verbo",
+      "es_concordant": "extinguirse-qapha-II",
+      "grondvorm": "go-out",
+      "stamfamilie": [
+        "H7087a"
+      ],
+      "toelichting": "Apagarse Sof 1:12 H7087b.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7088",
+      "hebreeuws": "קָפַד",
+      "translit": "qafad",
+      "woordsoort": "verbo",
+      "es_concordant": "enrollar-qafad",
+      "grondvorm": "roll-up-qafad",
+      "stamfamilie": [],
+      "toelichting": "Devanar Is 38:12.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7089",
+      "hebreeuws": "קְפָדָה",
+      "translit": "qefadah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "horror-qefadah",
+      "grondvorm": "horror-qefadah",
+      "stamfamilie": [],
+      "toelichting": "Estado de espanto Ez 7:25.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7090",
+      "hebreeuws": "קִפֹּד",
+      "translit": "qippod",
+      "woordsoort": "sustantivo",
+      "es_concordant": "erizo-qippod",
+      "grondvorm": "hedgehog",
+      "stamfamilie": [],
+      "toelichting": "Animal Is 14:23.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7091",
+      "hebreeuws": "קִפּוֹז",
+      "translit": "qippoz",
+      "woordsoort": "sustantivo",
+      "es_concordant": "serpiente-flecha",
+      "grondvorm": "arrow-snake",
+      "stamfamilie": [],
+      "toelichting": "Serpiente de flecha Is 34:15.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7092",
+      "hebreeuws": "קָפַץ",
+      "translit": "qafats",
+      "woordsoort": "verbo",
+      "es_concordant": "cerrar-qafats",
+      "grondvorm": "shut-up",
+      "stamfamilie": [],
+      "toelichting": "Cerrar boca Job 5:16.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H7093",
+      "hebreeuws": "קֵץ",
+      "translit": "qets",
+      "woordsoort": "sustantivo",
+      "es_concordant": "fin-qets",
+      "grondvorm": "end-qets",
+      "stamfamilie": [
+        "H7097"
+      ],
+      "toelichting": "Termino Gn 6:13.",
+      "voorkomens": 66
+    },
+    {
+      "strong": "H7094",
+      "hebreeuws": "קָצַב",
+      "translit": "qatsav-kappen",
+      "woordsoort": "verbo",
+      "es_concordant": "cortar-qatsav",
+      "grondvorm": "cut-off-shape",
+      "stamfamilie": [
+        "H7095"
+      ],
+      "toelichting": "Cortar Cant 4:2.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7095",
+      "hebreeuws": "קֶצֶב",
+      "translit": "qetsev",
+      "woordsoort": "sustantivo",
+      "es_concordant": "medida-qetsev",
+      "grondvorm": "measure-form",
+      "stamfamilie": [
+        "H7094"
+      ],
+      "toelichting": "Forma 1Re 6:25.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7096",
+      "hebreeuws": "קָצָה",
+      "translit": "qatsah",
+      "woordsoort": "verbo",
+      "es_concordant": "acortar-qatsah",
+      "grondvorm": "cut-short",
+      "stamfamilie": [
+        "H7097"
+      ],
+      "toelichting": "Cercenar 2Re 10:32.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H7097a",
+      "hebreeuws": "קצה",
+      "translit": "qatseh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "extremo-qatseh-I",
+      "grondvorm": "end",
+      "stamfamilie": [
+        "H7097a"
+      ],
+      "toelichting": "Final Ex 25:18 H7097a.",
+      "voorkomens": 92
+    },
+    {
+      "strong": "H7097b",
+      "hebreeuws": "קֵצֶה",
+      "translit": "qatseh-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "limite-qatseh-II",
+      "grondvorm": "limit",
+      "stamfamilie": [
+        "H7096"
+      ],
+      "toelichting": "Limite Sal 65:5 H7097b.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H7098",
+      "hebreeuws": "קָצָה",
+      "translit": "qatsah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "extremidad-qatsah",
+      "grondvorm": "extremity",
+      "stamfamilie": [
+        "H7097"
+      ],
+      "toelichting": "Extremo Ex 26:4.",
+      "voorkomens": 35
+    },
+    {
+      "strong": "H7099",
+      "hebreeuws": "קָצֶו",
+      "translit": "qatsev",
+      "woordsoort": "sustantivo",
+      "es_concordant": "fin-tierra",
+      "grondvorm": "end-of-earth",
+      "stamfamilie": [],
+      "toelichting": "Confines Sal 48:10.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7100",
+      "hebreeuws": "קֶצַח",
+      "translit": "qetsach",
+      "woordsoort": "sustantivo",
+      "es_concordant": "comino-negro",
+      "grondvorm": "black-cumin",
+      "stamfamilie": [],
+      "toelichting": "Especia negra Is 28:25.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7101",
+      "hebreeuws": "קָצִין",
+      "translit": "qatsin",
+      "woordsoort": "sustantivo",
+      "es_concordant": "jefe-qatsin",
+      "grondvorm": "chief-qatsin",
+      "stamfamilie": [],
+      "toelichting": "Caudillo Jos 10:24.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H7102",
+      "hebreeuws": "קְצִיעָה",
+      "translit": "qetsiah-kruid",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cassia-especia",
+      "grondvorm": "cassia-spice",
+      "stamfamilie": [],
+      "toelichting": "Especia aromatica Sal 45:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7103",
+      "hebreeuws": "קְצִיעָה",
+      "translit": "qetsiah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quesia-pn",
+      "grondvorm": "Keziah",
+      "stamfamilie": [],
+      "toelichting": "Hija de Job Job 42:14.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7104",
+      "hebreeuws": "עֵמֶק קְצִיץ",
+      "translit": "emek-qetsits-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Emek-Quesits-pn",
+      "grondvorm": "Emek-Keziz",
+      "stamfamilie": [],
+      "toelichting": "Pueblo de Benjamin Jos 18:21.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7105a",
+      "hebreeuws": "קָצִיר",
+      "translit": "qatsir-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cosecha-qatsir-I",
+      "grondvorm": "harvest",
+      "stamfamilie": [
+        "H7114a"
+      ],
+      "toelichting": "Siega Gn 8:22 H7105a.",
+      "voorkomens": 49
+    },
+    {
+      "strong": "H7105b",
+      "hebreeuws": "קָצִיר",
+      "translit": "qatsir-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ramas-qatsir-II",
+      "grondvorm": "boughs",
+      "stamfamilie": [
+        "H7114b"
+      ],
+      "toelichting": "Renuevos Job 14:9 H7105b.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H7106a",
+      "hebreeuws": "קָצַע",
+      "translit": "qatsa-I",
+      "woordsoort": "verbo",
+      "es_concordant": "raer-paredes",
+      "grondvorm": "scrape-walls",
+      "stamfamilie": [],
+      "toelichting": "Raspar muros Lv 14:41 H7106a.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7106b",
+      "hebreeuws": "קָצַע",
+      "translit": "qatsa-II",
+      "woordsoort": "verbo",
+      "es_concordant": "cortar-esquinas",
+      "grondvorm": "cut-corners",
+      "stamfamilie": [
+        "H7106a"
+      ],
+      "toelichting": "Cortar angulos 1Re 7:5 H7106b.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7107",
+      "hebreeuws": "קָצַף",
+      "translit": "qatsaf",
+      "woordsoort": "verbo",
+      "es_concordant": "airarse-qatsaf",
+      "grondvorm": "be-wroth",
+      "stamfamilie": [
+        "H7110"
+      ],
+      "toelichting": "Encolerizarse Gn 41:10.",
+      "voorkomens": 34
+    },
+    {
+      "strong": "H7108",
+      "hebreeuws": "קְצַף",
+      "translit": "qtzph",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "airarse-arameo",
+      "grondvorm": "be-wroth-aramaic",
+      "stamfamilie": [
+        "H7108",
+        "H7107"
+      ],
+      "toelichting": "Aramaico Dn 2:12.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7109",
+      "hebreeuws": "קְצַף",
+      "translit": "qetsaf-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "ira-arameo",
+      "grondvorm": "wrath-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Esd 7:23.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7110a",
+      "hebreeuws": "קֶצֶף",
+      "translit": "qetsef",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ira-qetsef",
+      "grondvorm": "wrath",
+      "stamfamilie": [
+        "H7107"
+      ],
+      "toelichting": "Indignacion Nm 1:53 H7110a.",
+      "voorkomens": 27
+    },
+    {
+      "strong": "H7110b",
+      "hebreeuws": "קֶצֶף",
+      "translit": "qetsef-II-takje",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ramita-qetsef",
+      "grondvorm": "twig",
+      "stamfamilie": [
+        "H7110a"
+      ],
+      "toelichting": "Pequena rama Os 10:7 H7110b.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7111",
+      "hebreeuws": "קְצָפָה",
+      "translit": "qetsafah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "astillas-qetsafah",
+      "grondvorm": "splinters",
+      "stamfamilie": [],
+      "toelichting": "Esquirlas Jl 1:7.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7112",
+      "hebreeuws": "קָצַץ",
+      "translit": "qatsats",
+      "woordsoort": "verbo",
+      "es_concordant": "cortar-qatsats",
+      "grondvorm": "cut-off-qatsats",
+      "stamfamilie": [
+        "H7113"
+      ],
+      "toelichting": "Tronchar Dt 25:12.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H7113",
+      "hebreeuws": "קְצַץ-Aram",
+      "translit": "qetsats-Aram",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "cortar-arameo",
+      "grondvorm": "cut-off-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Dn 2:34.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7114a",
+      "hebreeuws": "קָצַר-I",
+      "translit": "qatsar-I",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-corto",
+      "grondvorm": "be-short",
+      "stamfamilie": [
+        "H7105"
+      ],
+      "toelichting": "Ser breve Nm 11:23 H7114a.",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H7114b",
+      "hebreeuws": "קָצַר",
+      "translit": "qatsar-II",
+      "woordsoort": "verbo",
+      "es_concordant": "segar-qatsar-II",
+      "grondvorm": "reap",
+      "stamfamilie": [
+        "H7105"
+      ],
+      "toelichting": "Cosechar Lv 19:9 H7114b.",
+      "voorkomens": 36
+    },
+    {
+      "strong": "H7115",
+      "hebreeuws": "קֹצֶר",
+      "translit": "qotser",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ahogo-qotser",
+      "grondvorm": "short-breath",
+      "stamfamilie": [],
+      "toelichting": "Anhelo Ex 6:9.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7116",
+      "hebreeuws": "קָצֵר",
+      "translit": "qatser-II",
+      "woordsoort": "adjetivo",
+      "es_concordant": "corto-qatser-II",
+      "grondvorm": "short",
+      "stamfamilie": [
+        "H7114a"
+      ],
+      "toelichting": "Breve Job 14:1.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H7117",
+      "hebreeuws": "קְצָת",
+      "translit": "qetsath",
+      "woordsoort": "sustantivo",
+      "es_concordant": "extremidad-qetsath",
+      "grondvorm": "end-extremity",
+      "stamfamilie": [
+        "H7093"
+      ],
+      "toelichting": "Extremo Ex 38:5.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H7118",
+      "hebreeuws": "קְצָת",
+      "translit": "qetsath-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "fin-arameo-qetsath",
+      "grondvorm": "end-aramaic-qetsath",
+      "stamfamilie": [
+        "H7117"
+      ],
+      "toelichting": "Aramaico Dn 4:34.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7119",
+      "hebreeuws": "קַר",
+      "translit": "qar",
+      "woordsoort": "adjetivo",
+      "es_concordant": "frio-qar",
+      "grondvorm": "cool",
+      "stamfamilie": [
+        "H7126"
+      ],
+      "toelichting": "Templado Pr 17:27.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7120",
+      "hebreeuws": "קֹר",
+      "translit": "qor",
+      "woordsoort": "sustantivo",
+      "es_concordant": "frio-qor",
+      "grondvorm": "cold",
+      "stamfamilie": [],
+      "toelichting": "Frialdad Gn 8:22.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7121",
+      "hebreeuws": "קרא",
+      "translit": "qara",
+      "woordsoort": "verbo",
+      "es_concordant": "llamar-qara",
+      "grondvorm": "call",
+      "stamfamilie": [
+        "H7121",
+        "H7123"
+      ],
+      "toelichting": "Convocar Gn 1:5.",
+      "voorkomens": 740
+    },
+    {
+      "strong": "H7122",
+      "hebreeuws": "קָרָא",
+      "translit": "qara-II",
+      "woordsoort": "verbo",
+      "es_concordant": "encontrar-qara-II",
+      "grondvorm": "encounter",
+      "stamfamilie": [
+        "H7125"
+      ],
+      "toelichting": "Topar Gn 49:1.",
+      "voorkomens": 37
+    },
+    {
+      "strong": "H7123",
+      "hebreeuws": "קְרָא",
+      "translit": "qera-Aram",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "llamar-arameo",
+      "grondvorm": "call-aramaic",
+      "stamfamilie": [
+        "H7121"
+      ],
+      "toelichting": "Aramaico Dn 2:2.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H7124",
+      "hebreeuws": "קוֹרֵא",
+      "translit": "qore-patrijs",
+      "woordsoort": "sustantivo",
+      "es_concordant": "perdiz-qore",
+      "grondvorm": "partridge",
+      "stamfamilie": [
+        "H7121"
+      ],
+      "toelichting": "Ave perdiz 1Sm 26:20.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7125",
+      "hebreeuws": "קראה",
+      "translit": "qirah",
+      "woordsoort": "verbo",
+      "es_concordant": "salir-al-encuentro",
+      "grondvorm": "come-to-meet",
+      "stamfamilie": [
+        "H7125",
+        "H7121"
+      ],
+      "toelichting": "Acudir a recibir Gn 14:17.",
+      "voorkomens": 100
+    },
+    {
+      "strong": "H7126",
+      "hebreeuws": "קרב",
+      "translit": "qarav",
+      "woordsoort": "verbo",
+      "es_concordant": "acercarse-qarav",
+      "grondvorm": "draw-near",
+      "stamfamilie": [
+        "H7126",
+        "H7130",
+        "H7133a"
+      ],
+      "toelichting": "Aproximarse Gn 12:11.",
+      "voorkomens": 284
+    },
+    {
+      "strong": "H7127",
+      "hebreeuws": "קְרֵב",
+      "translit": "qereb-Aram",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "aproximarse-arameo",
+      "grondvorm": "approach-aramaic",
+      "stamfamilie": [
+        "H7126"
+      ],
+      "toelichting": "Aramaico Dn 3:8.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H7128",
+      "hebreeuws": "קְרָב",
+      "translit": "qerav",
+      "woordsoort": "sustantivo",
+      "es_concordant": "batalla-qerav",
+      "grondvorm": "battle-qerav",
+      "stamfamilie": [
+        "H7129"
+      ],
+      "toelichting": "Combate Sal 55:18.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H7129",
+      "hebreeuws": "קְרָב-Aram",
+      "translit": "qerav-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "batalla-arameo",
+      "grondvorm": "battle-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Dn 7:21.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7130",
+      "hebreeuws": "קרב",
+      "translit": "qerev",
+      "woordsoort": "sustantivo",
+      "es_concordant": "interior-qerev",
+      "grondvorm": "midst-qerev",
+      "stamfamilie": [
+        "H7130",
+        "H7126"
+      ],
+      "toelichting": "Parte interna Gn 18:12.",
+      "voorkomens": 226
+    },
+    {
+      "strong": "H7131",
+      "hebreeuws": "קָרֵב",
+      "translit": "qarev",
+      "woordsoort": "adjetivo",
+      "es_concordant": "que-se-acerca",
+      "grondvorm": "approaching",
+      "stamfamilie": [
+        "H7126"
+      ],
+      "toelichting": "Aproximandose Nm 17:13.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H7132",
+      "hebreeuws": "קְרָבָה",
+      "translit": "qeravah-naderen",
+      "woordsoort": "sustantivo",
+      "es_concordant": "acercarse-qeravah",
+      "grondvorm": "drawing-near",
+      "stamfamilie": [
+        "H7126"
+      ],
+      "toelichting": "Acercamiento Sal 73:28.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7133a",
+      "hebreeuws": "קרבן",
+      "translit": "qorban",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ofrenda-cercana",
+      "grondvorm": "near-offering",
+      "stamfamilie": [
+        "H7133a",
+        "H7126"
+      ],
+      "toelichting": "Don de aproximacion Lv 1:2 H7133a.",
+      "voorkomens": 80
+    },
+    {
+      "strong": "H7133b",
+      "hebreeuws": "קָרְבָּן",
+      "translit": "qorban-II-offergave",
+      "woordsoort": "sustantivo",
+      "es_concordant": "corban-ofrenda",
+      "grondvorm": "Corban-offering",
+      "stamfamilie": [
+        "H7133"
+      ],
+      "toelichting": "Corban Mr 7:11 H7133b.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7134",
+      "hebreeuws": "קַרְדֹּם",
+      "translit": "qardom",
+      "woordsoort": "sustantivo",
+      "es_concordant": "hacha-qardom",
+      "grondvorm": "axe",
+      "stamfamilie": [],
+      "toelichting": "Hachuela Jue 9:48.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H7135",
+      "hebreeuws": "קָרָה",
+      "translit": "qarah-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "inspeccion-qarah",
+      "grondvorm": "inspection",
+      "stamfamilie": [],
+      "toelichting": "Examen Ez 39:11.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H7136a",
+      "hebreeuws": "קָרָה-I",
+      "translit": "qarah-I",
+      "woordsoort": "verbo",
+      "es_concordant": "acontecer-qarah-I",
+      "grondvorm": "befall",
+      "stamfamilie": [
+        "H4745"
+      ],
+      "toelichting": "Suceder Gn 24:12 H7136a.",
+      "voorkomens": 22
+    },
+    {
+      "strong": "H7136b",
+      "hebreeuws": "קָרָה",
+      "translit": "qarah-III",
+      "woordsoort": "verbo",
+      "es_concordant": "poner-vigas",
+      "grondvorm": "lay-beams",
+      "stamfamilie": [],
+      "toelichting": "Poner maderaje Sal 104:3 H7136b.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H7137",
+      "hebreeuws": "מִקְרֶה",
+      "translit": "miqreh-nacht",
+      "woordsoort": "sustantivo",
+      "es_concordant": "incidente-nocturno",
+      "grondvorm": "night-mishap",
+      "stamfamilie": [],
+      "toelichting": "Suceso de noche Dt 23:10.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7138",
+      "hebreeuws": "קָרוֹב",
+      "translit": "qarov",
+      "woordsoort": "adjetivo",
+      "es_concordant": "cercano-qarov",
+      "grondvorm": "near",
+      "stamfamilie": [
+        "H7126",
+        "H7132"
+      ],
+      "toelichting": "Proximo Dt 4:7.",
+      "voorkomens": 77
+    },
+    {
+      "strong": "H7139",
+      "hebreeuws": "קָרַח",
+      "translit": "qarach",
+      "woordsoort": "verbo",
+      "es_concordant": "rasurar-qarach",
+      "grondvorm": "shave-bald",
+      "stamfamilie": [
+        "H7144"
+      ],
+      "toelichting": "Raparse Lv 21:5.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H7140",
+      "hebreeuws": "קֶרַח",
+      "translit": "qerach",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cristal-qerach",
+      "grondvorm": "crystal",
+      "stamfamilie": [],
+      "toelichting": "Hielo Gn 31:40.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H7141",
+      "hebreeuws": "קֹרַח",
+      "translit": "qorach",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Core-pn-Levita",
+      "grondvorm": "Korah",
+      "stamfamilie": [],
+      "toelichting": "Levita Ex 6:24.",
+      "voorkomens": 37
+    },
+    {
+      "strong": "H7142",
+      "hebreeuws": "קֵרֵחַ",
+      "translit": "qereach",
+      "woordsoort": "adjetivo",
+      "es_concordant": "calvo-qereach",
+      "grondvorm": "bald",
+      "stamfamilie": [
+        "H7139"
+      ],
+      "toelichting": "Pelado Lv 13:40.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7143",
+      "hebreeuws": "קָרֵחַ",
+      "translit": "qareach",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Carea-pn",
+      "grondvorm": "Kareah",
+      "stamfamilie": [],
+      "toelichting": "Padre de Johanan 2Re 25:23.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H7144",
+      "hebreeuws": "קָרְחָה",
+      "translit": "qorchah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "calvicie-qorchah",
+      "grondvorm": "bald-spot",
+      "stamfamilie": [],
+      "toelichting": "Pelar Lv 21:5.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H7145",
+      "hebreeuws": "קָרְחִי",
+      "translit": "Qarchi",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Coreita-pn",
+      "grondvorm": "Korahite",
+      "stamfamilie": [
+        "H7141"
+      ],
+      "toelichting": "Familia de Core Ex 6:24.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H7146",
+      "hebreeuws": "קָרַחַת",
+      "translit": "qarachath",
+      "woordsoort": "sustantivo",
+      "es_concordant": "calva-detras",
+      "grondvorm": "back-bald",
+      "stamfamilie": [
+        "H7139"
+      ],
+      "toelichting": "Calvicie posterior Lv 13:42.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H7147",
+      "hebreeuws": "קְרִי",
+      "translit": "qeri",
+      "woordsoort": "sustantivo",
+      "es_concordant": "oposicion-qeri",
+      "grondvorm": "opposition",
+      "stamfamilie": [],
+      "toelichting": "Resistencia Lv 26:21.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H7148",
+      "hebreeuws": "קָרִיא",
+      "translit": "qari",
+      "woordsoort": "adjetivo",
+      "es_concordant": "convocado",
+      "grondvorm": "summoned",
+      "stamfamilie": [
+        "H7121"
+      ],
+      "toelichting": "Llamado Nm 1:16.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H7149",
+      "hebreeuws": "קִרְיָה",
+      "translit": "qiryah-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "ciudad-arameo",
+      "grondvorm": "city-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Esd 4:10.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H7150",
+      "hebreeuws": "קְרִיאָה",
+      "translit": "qeriah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "proclamacion-qeriah",
+      "grondvorm": "proclamation",
+      "stamfamilie": [],
+      "toelichting": "Pregón Jon 3:2.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7151",
+      "hebreeuws": "קִרְיָה",
+      "translit": "qiryah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "barrio-qiryah",
+      "grondvorm": "city-quarter",
+      "stamfamilie": [
+        "H7176"
+      ],
+      "toelichting": "Barrio Pr 11:11.",
+      "voorkomens": 29
+    },
+    {
+      "strong": "H7152",
+      "hebreeuws": "קְרִיּוֹת",
+      "translit": "Qeriyoth",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Queriot-pn",
+      "grondvorm": "Kerioth",
+      "stamfamilie": [],
+      "toelichting": "Ciudad Jr 48:24.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H7153",
+      "hebreeuws": "קִרְיַת אַרְבַּע",
+      "translit": "Kiryat-Arba",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quiryat-Arba-pn",
+      "grondvorm": "Kiriath-Arba",
+      "stamfamilie": [],
+      "toelichting": "Antigua Hebron Gn 23:2.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H7153+",
+      "hebreeuws": "קִרְיַת אַרְבַּע",
+      "translit": "qiryat-arba-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quiryat-Arba-compuesto-pn",
+      "grondvorm": "Kirjath-Arba",
+      "stamfamilie": [],
+      "toelichting": "Variante Quiryat-Arba.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H7154",
+      "hebreeuws": "קִרְיַת־בַּעַל",
+      "translit": "Qiryath-Baal",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quiryat-Baal-pn",
+      "grondvorm": "Kirjath-Baal",
+      "stamfamilie": [
+        "H7151"
+      ],
+      "toelichting": "Pueblo Jos 15:60.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7154+",
+      "hebreeuws": "קִרְיַת־בַּעַל",
+      "translit": "qiryat-baal-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quiryat-Baal-compuesto-pn",
+      "grondvorm": "Kirjath-Baal-compound",
+      "stamfamilie": [],
+      "toelichting": "Variante.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H7155",
+      "hebreeuws": "קִרְיַת חֻצוֹת",
+      "translit": "kiryat-chutsot-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quiryat-Husot-pn",
+      "grondvorm": "Kirjath-Huzoth",
+      "stamfamilie": [],
+      "toelichting": "Pueblo Nm 22:39.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7155+",
+      "hebreeuws": "קִרְיַת חֻצוֹת",
+      "translit": "kiryat-chutsot-eign-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quiryat-Husot-compuesto-pn",
+      "grondvorm": "Kirjath-Huzoth-compound",
+      "stamfamilie": [
+        "H7155"
+      ],
+      "toelichting": "Variante.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H7156",
+      "hebreeuws": "קִרְיָתַיִם",
+      "translit": "Qiryatayim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Queriataim-pn",
+      "grondvorm": "Kiriathaim",
+      "stamfamilie": [
+        "H7151"
+      ],
+      "toelichting": "Pueblo Nm 32:37.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H7157",
+      "hebreeuws": "קִרְיַת",
+      "translit": "qiryat",
+      "woordsoort": "sustantivo",
+      "es_concordant": "Quiryat-Yearim-prefijo",
+      "grondvorm": "Kirjath-Jearim",
+      "stamfamilie": [
+        "H7151"
+      ],
+      "toelichting": "Quiryat compuesto.",
+      "voorkomens": 20
+    },
+    {
+      "strong": "H7157+",
+      "hebreeuws": "קִרְיַת יְעָרִים",
+      "translit": "qiryat-yearim-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quiryat-Yearim-pn",
+      "grondvorm": "Kirjath-Jearim-compound",
+      "stamfamilie": [],
+      "toelichting": "Pueblo Jos 9:17.",
+      "voorkomens": 19
+    }
+  ]
+}

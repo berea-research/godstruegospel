@@ -1,0 +1,2951 @@
+{
+  "batch_id": "h_batch_036",
+  "script": "heb",
+  "datum": "2026-05-01",
+  "entries": [
+    {
+      "strong": "H5395",
+      "hebreeuws": "נָשַׁם",
+      "translit": "nasham",
+      "woordsoort": "verbo",
+      "es_concordant": "jadear-respirar-fuerte",
+      "grondvorm": "jadear-respirar-fuerte",
+      "stamfamilie": [],
+      "toelichting": "Qal; Dios-jadea-y-exhala en juicio; Is 42:14.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5396",
+      "hebreeuws": "נִשְׁמָה-Aram",
+      "translit": "nishmah-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "aliento-vida-arameo",
+      "grondvorm": "aliento-vida-arameo",
+      "stamfamilie": [],
+      "toelichting": "Arameo paralelo a neshamah; Dios-en-cuya-mano tu-aliento; Dn 5:23.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5397",
+      "hebreeuws": "נְשָׁמָה",
+      "translit": "neshamah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "aliento-vital",
+      "grondvorm": "aliento-vital",
+      "stamfamilie": [
+        "H5396"
+      ],
+      "toelichting": "De nasham; soplo-vida insuflado por Dios.",
+      "voorkomens": 24
+    },
+    {
+      "strong": "H5398",
+      "hebreeuws": "נָשַׁף",
+      "translit": "nashaph",
+      "woordsoort": "verbo",
+      "es_concordant": "soplar-suspirar",
+      "grondvorm": "soplar-suspirar",
+      "stamfamilie": [],
+      "toelichting": "Ex-soplaste-con-tu-viento-mar-cubrió y Is-Él-sopla-sobre-ellos-se-secan (Ex 15:10; Is 40:24).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5399",
+      "hebreeuws": "נֶשֶׁף",
+      "translit": "neshef",
+      "woordsoort": "sustantivo",
+      "es_concordant": "crepusculo",
+      "grondvorm": "crepusculo",
+      "stamfamilie": [],
+      "toelichting": "Tiempo-luz-intermedia; crepúsculo-anochecer (2Re 7:5-7; Is 5:11; 59:10) y crepúsculo-amanecer (1Sa 30:17; Job 3:9; 7:4; 24:15; Pr 7:9; Jer 13:16).",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H5400",
+      "hebreeuws": "נָשַׂק",
+      "translit": "nasaq-ontbranden",
+      "woordsoort": "verbo",
+      "es_concordant": "encender-nasaq",
+      "grondvorm": "encender-nasaq",
+      "stamfamilie": [],
+      "toelichting": "Is-encender-fuego en ira y Sal-arder-contra-mí su-furor y Is-pueblo-borde como-encendido (Is 9:18; 33:11; Sal 78:21).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H5401a",
+      "hebreeuws": "נָשַׁק",
+      "translit": "nashaq",
+      "woordsoort": "verbo",
+      "es_concordant": "besar",
+      "grondvorm": "besar",
+      "stamfamilie": [],
+      "toelichting": "Qal: tocar-labios (saludo, amor, homenaje).",
+      "voorkomens": 32
+    },
+    {
+      "strong": "H5401b",
+      "hebreeuws": "נָשַׁק",
+      "translit": "nashaq-wapenen",
+      "woordsoort": "verbo",
+      "es_concordant": "armar-equipar",
+      "grondvorm": "armar-equipar",
+      "stamfamilie": [
+        "H5401a"
+      ],
+      "toelichting": "Sal-hijos-Efraín-armados-arqueros y 1Cr-armados-héroes-David y 2Cr-Uzías-armó-ejército (Sal 78:9; 1Cr 12:2; 2Cr 17:17).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H5402",
+      "hebreeuws": "נֶשֶׁק",
+      "translit": "nesheq",
+      "woordsoort": "sustantivo",
+      "es_concordant": "armadura-arsenal",
+      "grondvorm": "armadura-arsenal",
+      "stamfamilie": [],
+      "toelichting": "Concepto-colectivo para-todo-armamento distinto de kli-milchamah (utensilio-guerra).",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H5403",
+      "hebreeuws": "נְשַׁר",
+      "translit": "nesar-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "aguila-arameo",
+      "grondvorm": "aguila-arameo",
+      "stamfamilie": [
+        "H5404"
+      ],
+      "toelichting": "Arameo para águila o buitre — Dn 4:33; 7:4.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5404",
+      "hebreeuws": "נֶשֶׁר",
+      "translit": "nesher",
+      "woordsoort": "sustantivo",
+      "es_concordant": "aguila",
+      "grondvorm": "aguila",
+      "stamfamilie": [],
+      "toelichting": "Ave-rapaz-grande, símbolo de velocidad y renovación.",
+      "voorkomens": 26
+    },
+    {
+      "strong": "H5405",
+      "hebreeuws": "נָשַׁף",
+      "translit": "nashaf-uitblazen",
+      "woordsoort": "verbo",
+      "es_concordant": "marchitarse-secar",
+      "grondvorm": "marchitarse-secar",
+      "stamfamilie": [
+        "H5397"
+      ],
+      "toelichting": "Is-soplado-sobre-ellos y se-secan y Sal-Él-sopló y Ex-Espíritu-Dios-sopló (Is 40:24; Sal 147:18).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H5406",
+      "hebreeuws": "נִשְׁתְּוָן",
+      "translit": "nishtevan",
+      "woordsoort": "sustantivo",
+      "es_concordant": "carta-nishtevan",
+      "grondvorm": "carta-nishtevan",
+      "stamfamilie": [],
+      "toelichting": "Préstamo-persa para decreto-escrito; Esd 7:11.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5407",
+      "hebreeuws": "נִשְׁתְּוָן",
+      "translit": "nishtevana",
+      "woordsoort": "sustantivo",
+      "es_concordant": "documento-arameo",
+      "grondvorm": "documento-arameo",
+      "stamfamilie": [],
+      "toelichting": "Documento-oficial o rescripto del rey-persa — Esd 4:7,18,23; 5:5; 7:11.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H5408",
+      "hebreeuws": "נָתַח",
+      "translit": "natach",
+      "woordsoort": "verbo",
+      "es_concordant": "cortar-en-piezas",
+      "grondvorm": "cortar-en-piezas",
+      "stamfamilie": [
+        "H5409"
+      ],
+      "toelichting": "Cortar animal-sacrificio en partes; también militar-cuartear (Ex 29:17; Lv 1:6,12; 8:20; Jue 19:29; 20:6; 1Sa 11:7; 1Re 18:23,33).",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H5409",
+      "hebreeuws": "נֵתַח",
+      "translit": "netach",
+      "woordsoort": "sustantivo",
+      "es_concordant": "trozo-sacrificio",
+      "grondvorm": "trozo-sacrificio",
+      "stamfamilie": [
+        "H5408"
+      ],
+      "toelichting": "De natach (cortar-en-pedazos); porción-sacrificial (holocausto, bueyes-Saúl).",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H5410a",
+      "hebreeuws": "נָתִיב",
+      "translit": "nathiv",
+      "woordsoort": "sustantivo",
+      "es_concordant": "sendero-pisado",
+      "grondvorm": "sendero-pisado",
+      "stamfamilie": [
+        "H5410b"
+      ],
+      "toelichting": "Sendero-trillado o ruta-vida (Job 18:10; 28:7; 41:24; Is 43:16; Jer 18:15).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H5410b",
+      "hebreeuws": "נְתִיבָה",
+      "translit": "netivah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "vereda-netivah",
+      "grondvorm": "vereda-netivah",
+      "stamfamilie": [
+        "H5410"
+      ],
+      "toelichting": "Sendero-secundario, camino-llano. Distinto de derech y orach.",
+      "voorkomens": 20
+    },
+    {
+      "strong": "H5411",
+      "hebreeuws": "נָתִין",
+      "translit": "natin",
+      "woordsoort": "sustantivo",
+      "es_concordant": "siervo-templo",
+      "grondvorm": "siervo-templo",
+      "stamfamilie": [
+        "H5414"
+      ],
+      "toelichting": "De natan (dar); siervo-templo-otorgado (Esdras, Nehemías).",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H5412",
+      "hebreeuws": "נְתִין",
+      "translit": "netin-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "siervo-templo-arameo",
+      "grondvorm": "siervo-templo-arameo",
+      "stamfamilie": [],
+      "toelichting": "Arameo paralelo a Hebreo netinim; ayudantes-templo; Esd 7:24.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5413",
+      "hebreeuws": "נָתַךְ",
+      "translit": "natach",
+      "woordsoort": "verbo",
+      "es_concordant": "verter-natach",
+      "grondvorm": "verter-natach",
+      "stamfamilie": [],
+      "toelichting": "Qal/Nifal/Hifil: hacer-fluir (ira, metal-fundido); distinto de nasak.",
+      "voorkomens": 21
+    },
+    {
+      "strong": "H5414",
+      "hebreeuws": "נתן",
+      "translit": "natan",
+      "woordsoort": "verbo",
+      "es_concordant": "dar-natan",
+      "grondvorm": "dar-natan",
+      "stamfamilie": [
+        "H5414",
+        "H4976"
+      ],
+      "toelichting": "Raíz ntn. Verbo-dar inequívoco; cognado mattan (don, H4976).",
+      "voorkomens": 2009
+    },
+    {
+      "strong": "H5415",
+      "hebreeuws": "נְתַן",
+      "translit": "nethan-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "dar-arameo-nethan",
+      "grondvorm": "dar-arameo-nethan",
+      "stamfamilie": [
+        "H5414"
+      ],
+      "toelichting": "Decreto-arameo-de-donación para templo y pueblo (Esd 7:19,20; Dn 2:21,37,38,48).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H5416",
+      "hebreeuws": "נָתָן",
+      "translit": "natan-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Natan-pn",
+      "grondvorm": "Natan-pn",
+      "stamfamilie": [],
+      "toelichting": "(Él-dio); profeta bajo David y otros.",
+      "voorkomens": 41
+    },
+    {
+      "strong": "H5417",
+      "hebreeuws": "נְתַנְאֵל",
+      "translit": "netanel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Netanel-pn",
+      "grondvorm": "Netanel-pn",
+      "stamfamilie": [],
+      "toelichting": "(Dios-dio); príncipe Isacar en desierto, varios personajes.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H5418",
+      "hebreeuws": "נְתַנְיָה",
+      "translit": "netanyah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Netanya-pn",
+      "grondvorm": "Netanya-pn",
+      "stamfamilie": [],
+      "toelichting": "(YHWH-dio); varios personajes.",
+      "voorkomens": 20
+    },
+    {
+      "strong": "H5419",
+      "hebreeuws": "נְתַן־מֶלֶךְ",
+      "translit": "netan-melek-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Netan-Melek-pn",
+      "grondvorm": "Netan-Melek-pn",
+      "stamfamilie": [],
+      "toelichting": "'Dádiva-rey' contemporáneo Josías caballos-sol; 2Re 23:11.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5419+",
+      "hebreeuws": "נְתַן־מֶלֶךְ",
+      "translit": "netan-melek-eign-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Netan-Melek-pn-plus",
+      "grondvorm": "Netan-Melek-pn-plus",
+      "stamfamilie": [
+        "H5419"
+      ],
+      "toelichting": "Variante-+ H5419.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5420",
+      "hebreeuws": "נָתַס",
+      "translit": "nths",
+      "woordsoort": "verbo",
+      "es_concordant": "demoler-nths",
+      "grondvorm": "demoler-nths",
+      "stamfamilie": [
+        "H5420"
+      ],
+      "toelichting": "Hapax Job 30:13 sendero-mío-demoler; raíz nts.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5421",
+      "hebreeuws": "נָתַע",
+      "translit": "nata",
+      "woordsoort": "verbo",
+      "es_concordant": "sacar-dientes",
+      "grondvorm": "sacar-dientes",
+      "stamfamilie": [],
+      "toelichting": "Nifal; cachorros-leones dientes-arrancados; Job 4:10.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5422",
+      "hebreeuws": "נָתַץ",
+      "translit": "natats",
+      "woordsoort": "verbo",
+      "es_concordant": "derribar-natats",
+      "grondvorm": "derribar-natats",
+      "stamfamilie": [],
+      "toelichting": "Qal: demoler edificio, altar, puerta; específico 'echar-abajo'.",
+      "voorkomens": 42
+    },
+    {
+      "strong": "H5423",
+      "hebreeuws": "נָתַק",
+      "translit": "nataq",
+      "woordsoort": "verbo",
+      "es_concordant": "arrancar-romper",
+      "grondvorm": "arrancar-romper",
+      "stamfamilie": [
+        "H5424"
+      ],
+      "toelichting": "Qal: desgarrar, soltar-tirando.",
+      "voorkomens": 27
+    },
+    {
+      "strong": "H5424",
+      "hebreeuws": "נֶתֶק",
+      "translit": "neteq",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tina-eccema",
+      "grondvorm": "tina-eccema",
+      "stamfamilie": [
+        "H5423"
+      ],
+      "toelichting": "De nataq (arrancar); roña-tinosa cabeza/barba (Lv 13).",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H5425a",
+      "hebreeuws": "נָתַר",
+      "translit": "nathar-springen",
+      "woordsoort": "verbo",
+      "es_concordant": "saltar-brincar-natar",
+      "grondvorm": "saltar-brincar-natar",
+      "stamfamilie": [],
+      "toelichting": "Saltamontes-patas-saltadoras y Job-corazón-salta (Lv 11:21; Job 37:1; Hab 3:6).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H5425b",
+      "hebreeuws": "נָתַר",
+      "translit": "nathar-II",
+      "woordsoort": "verbo",
+      "es_concordant": "soltar-desatar",
+      "grondvorm": "soltar-desatar",
+      "stamfamilie": [],
+      "toelichting": "Soltar ataduras o cautivos-pecado (Job 6:9; 37:1; Hab 3:6; Is 58:6; Sal 105:20; 146:7).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H5426",
+      "hebreeuws": "נְתַר",
+      "translit": "netar-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "sacudir-arameo",
+      "grondvorm": "sacudir-arameo",
+      "stamfamilie": [],
+      "toelichting": "Arameo Pael; hojas-árbol-Nabucodonosor sacudir; Dn 4:14.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5427",
+      "hebreeuws": "נֶתֶר",
+      "translit": "neter-natron",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lejia-soda",
+      "grondvorm": "lejia-soda",
+      "stamfamilie": [],
+      "toelichting": "Natrón o lejía-espumante en reacción — Pr 25:20; Jer 2:22.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5428",
+      "hebreeuws": "נָתַשׁ",
+      "translit": "natash",
+      "woordsoort": "verbo",
+      "es_concordant": "desarraigar",
+      "grondvorm": "desarraigar",
+      "stamfamilie": [],
+      "toelichting": "Qal: erradicar, arrancar-de-tierra (frecuente paralelo natats).",
+      "voorkomens": 21
+    },
+    {
+      "strong": "H5429",
+      "hebreeuws": "סְאָה",
+      "translit": "se'ah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "seah-medida",
+      "grondvorm": "seah-medida",
+      "stamfamilie": [],
+      "toelichting": "Medida-seca de 7,3-litros; distinto de efa (H374) por escala.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H5430",
+      "hebreeuws": "סְאוֹן",
+      "translit": "seon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "bota-soldado",
+      "grondvorm": "bota-soldado",
+      "stamfamilie": [],
+      "toelichting": "Botas-guerreros estruendo; Is 9:5.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5431",
+      "hebreeuws": "סָאַן",
+      "translit": "saan",
+      "woordsoort": "verbo",
+      "es_concordant": "marchar-estruendo",
+      "grondvorm": "marchar-estruendo",
+      "stamfamilie": [],
+      "toelichting": "Qal-participio; guerreros-marchan con-estruendo; Is 9:5.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5432",
+      "hebreeuws": "סַאסְּאָה",
+      "translit": "sasseah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "medida-por-medida",
+      "grondvorm": "medida-por-medida",
+      "stamfamilie": [],
+      "toelichting": "Dios-contiende con Israel medida-por-medida; Is 27:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5433a",
+      "hebreeuws": "סָבָא",
+      "translit": "sava-zuipen-ww",
+      "woordsoort": "verbo",
+      "es_concordant": "embriagarse",
+      "grondvorm": "embriagarse",
+      "stamfamilie": [],
+      "toelichting": "Beber-en-exceso o embriagarse — Is 56:12 'venid, traeré vino'.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H5433b",
+      "hebreeuws": "סֹבֵא",
+      "translit": "sove-drinkelaar-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "borrachos",
+      "grondvorm": "borrachos",
+      "stamfamilie": [
+        "H5433a"
+      ],
+      "toelichting": "Borrachos sustantivamente — Nah 1:10.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5434",
+      "hebreeuws": "סְבָא",
+      "translit": "Seva",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Seba-pn",
+      "grondvorm": "Seba-pn",
+      "stamfamilie": [],
+      "toelichting": "Descendiente de Cus y pueblo-comerciante africano (Gn 10:7; 1Cr 1:9; Sal 72:10; Is 43:3).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H5435",
+      "hebreeuws": "סֹבֵא",
+      "translit": "sove",
+      "woordsoort": "sustantivo",
+      "es_concordant": "bebedor-vino",
+      "grondvorm": "bebedor-vino",
+      "stamfamilie": [
+        "H5433"
+      ],
+      "toelichting": "Bebedor-amigo de glotones (Dt 21:20; Pr 23:20,21; Is 56:12; Nah 1:10).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H5436",
+      "hebreeuws": "סְבָאִים",
+      "translit": "sevaim-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sevaitas-pn-pueblo",
+      "grondvorm": "Sevaitas-pn-pueblo",
+      "stamfamilie": [],
+      "toelichting": "Pueblo-cusita sometido a Israel; Is 45:14.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5437",
+      "hebreeuws": "סבב",
+      "translit": "savav",
+      "woordsoort": "verbo",
+      "es_concordant": "rodear-sabav",
+      "grondvorm": "rodear-sabav",
+      "stamfamilie": [
+        "H5437",
+        "H5439"
+      ],
+      "toelichting": "Raíz sbb. 'Rodear' preserva el-movimiento-circular; cognado saviv (alrededor, H5439).",
+      "voorkomens": 158
+    },
+    {
+      "strong": "H5438",
+      "hebreeuws": "סִבָּה",
+      "translit": "sibah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cambio-decretado",
+      "grondvorm": "cambio-decretado",
+      "stamfamilie": [],
+      "toelichting": "YHWH-vuelta-asunto Roboam-Jeroboam; 1Re 12:15.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5439",
+      "hebreeuws": "סביב",
+      "translit": "saviv",
+      "woordsoort": "adverbio",
+      "es_concordant": "alrededor",
+      "grondvorm": "alrededor",
+      "stamfamilie": [
+        "H5439",
+        "H5437"
+      ],
+      "toelichting": "Raíz sbb (rodear, H5437).",
+      "voorkomens": 337
+    },
+    {
+      "strong": "H5440",
+      "hebreeuws": "סָבַךְ",
+      "translit": "savakh",
+      "woordsoort": "verbo",
+      "es_concordant": "entrelazar-savakh",
+      "grondvorm": "entrelazar-savakh",
+      "stamfamilie": [],
+      "toelichting": "Entretejer raíces y espinas — Job 8:17; Nah 1:10.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5441",
+      "hebreeuws": "סֹבֶךְ",
+      "translit": "sovech",
+      "woordsoort": "sustantivo",
+      "es_concordant": "espesura-leon",
+      "grondvorm": "espesura-leon",
+      "stamfamilie": [],
+      "toelichting": "León-sale-de espesura-Babilonia; Jer 4:7.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5442",
+      "hebreeuws": "סְבָךְ",
+      "translit": "sevakh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "espesura-matorral",
+      "grondvorm": "espesura-matorral",
+      "stamfamilie": [
+        "H5440"
+      ],
+      "toelichting": "Matorral-denso-enredado (Gn 22:13; Is 9:17; 10:34; Jer 4:7).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H5443",
+      "hebreeuws": "סַבְּכָא",
+      "translit": "sabbekha-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "arpa-triangular-arameo",
+      "grondvorm": "arpa-triangular-arameo",
+      "stamfamilie": [],
+      "toelichting": "Instrumento-cuerdas-arameo en inauguración-estatua (Dn 3:5,7,10,15).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H5444",
+      "hebreeuws": "סִבְּכַי",
+      "translit": "Sibbekhai",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sibekai-pn",
+      "grondvorm": "Sibekai-pn",
+      "stamfamilie": [
+        "H5442"
+      ],
+      "toelichting": "Husatita-héroe-David que mató al gigante (2Sa 21:18; 1Cr 11:29; 20:4; 27:11).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H5445",
+      "hebreeuws": "סָבַל",
+      "translit": "saval",
+      "woordsoort": "verbo",
+      "es_concordant": "soportar-carga",
+      "grondvorm": "soportar-carga",
+      "stamfamilie": [
+        "H5447",
+        "H5448",
+        "H5449"
+      ],
+      "toelichting": "Llevar-pesado, ser-cargado-bajo-carga (Gn 49:15; Is 46:4,7; 53:4,11; Lm 5:7; Ec 12:5).",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H5446",
+      "hebreeuws": "סְבַל",
+      "translit": "seval-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "cargar-arameo-seval",
+      "grondvorm": "cargar-arameo-seval",
+      "stamfamilie": [],
+      "toelichting": "Arameo Pual-participio; muros estaban-soportados-(cargados); Esd 6:3.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5447",
+      "hebreeuws": "סֵבֶל",
+      "translit": "sevel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "carga-trabajo-forzado",
+      "grondvorm": "carga-trabajo-forzado",
+      "stamfamilie": [
+        "H5445"
+      ],
+      "toelichting": "1Re-Salomón-puso-sobre-toda-carga-casa-José y Sal-quité-su-hombro de carga (1Re 11:28; Sal 81:7).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H5448",
+      "hebreeuws": "סֹבֶל",
+      "translit": "sovel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "yugo-pesado",
+      "grondvorm": "yugo-pesado",
+      "stamfamilie": [
+        "H5447"
+      ],
+      "toelichting": "Is-yugo-carga removido y Is-vara-de-su-opresor quebrada y Is-su-yugo (Is 9:4; 10:27; 14:25).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H5449",
+      "hebreeuws": "סַבָּל",
+      "translit": "sabbal",
+      "woordsoort": "sustantivo",
+      "es_concordant": "porteador",
+      "grondvorm": "porteador",
+      "stamfamilie": [
+        "H5445"
+      ],
+      "toelichting": "Trabajador-forzado en construcción-Salomón (1Re 5:15; 2Cr 2:2,17; Neh 4:10).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H5450",
+      "hebreeuws": "סְבָלָה",
+      "translit": "sevalah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "trabajos-forzados",
+      "grondvorm": "trabajos-forzados",
+      "stamfamilie": [
+        "H5447",
+        "H5445"
+      ],
+      "toelichting": "Trabajo-pesado-forzado de pueblo-esclavo (Ex 1:11; 2:11; 5:4,5; 6:6,7).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H5451",
+      "hebreeuws": "סִבֹּלֶת",
+      "translit": "sibbolet",
+      "woordsoort": "sustantivo",
+      "es_concordant": "shibolet-pronunciacion",
+      "grondvorm": "shibolet-pronunciacion",
+      "stamfamilie": [
+        "H7641"
+      ],
+      "toelichting": "Pronunciación-efraimita-incorrecta de shibbolet en cruce-Jordán; Jue 12:6.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5452",
+      "hebreeuws": "סְבַר-Aram",
+      "translit": "sevar-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "intentar-arameo",
+      "grondvorm": "intentar-arameo",
+      "stamfamilie": [],
+      "toelichting": "Arameo Peal; intentar-cambiar tiempos-y-ley; Dn 7:25.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5453",
+      "hebreeuws": "סִבְרַיִם",
+      "translit": "sivrayim-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sivrayim-pn-lugar",
+      "grondvorm": "Sivrayim-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Punto-frontera-norte Israel; Ez 47:16.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5454",
+      "hebreeuws": "סַבְתָּה",
+      "translit": "Sabta",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sabta-pn",
+      "grondvorm": "Sabta-pn",
+      "stamfamilie": [],
+      "toelichting": "Gn-hijos-Cus-Seba-Havila-Sabta-Raama-Sabteca y 1Cr-paralelo (Gn 10:7; 1Cr 1:9).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5455",
+      "hebreeuws": "סַבְתְּכָא",
+      "translit": "Sabteka",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sabteca-pn",
+      "grondvorm": "Sabteca-pn",
+      "stamfamilie": [],
+      "toelichting": "Gn-hijos-Cus-Raama-y-Sabteca y 1Cr-paralelo (Gn 10:7; 1Cr 1:9).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5456",
+      "hebreeuws": "סָגַד",
+      "translit": "sagad",
+      "woordsoort": "verbo",
+      "es_concordant": "postrarse-sagad",
+      "grondvorm": "postrarse-sagad",
+      "stamfamilie": [],
+      "toelichting": "Postrarse-adorando ídolos (Is 44:15,17,19; 46:6).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H5457",
+      "hebreeuws": "סְגִד",
+      "translit": "segid-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "postrarse-arameo",
+      "grondvorm": "postrarse-arameo",
+      "stamfamilie": [],
+      "toelichting": "Verbo-arameo para postración-ceremonial-reverencia distinto de Hebreo shachah (Dn 2:46; 3:5,6,7,10,11,12,14,15,18,28).",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H5458",
+      "hebreeuws": "סְגוֹר",
+      "translit": "segor-fijngoud",
+      "woordsoort": "sustantivo",
+      "es_concordant": "oro-cerrado",
+      "grondvorm": "oro-cerrado",
+      "stamfamilie": [],
+      "toelichting": "Oro-fino-cerrado que no compra sabiduría — Job 28:15.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5459",
+      "hebreeuws": "סְגֻלָּה",
+      "translit": "segullah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tesoro-particular",
+      "grondvorm": "tesoro-particular",
+      "stamfamilie": [],
+      "toelichting": "Tesoro-personal o posesión-escogida (Ex 19:5; Dt 7:6; 14:2; 26:18; Sal 135:4; Ec 2:8).",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H5460",
+      "hebreeuws": "סְגַן",
+      "translit": "segan-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "gobernador-arameo",
+      "grondvorm": "gobernador-arameo",
+      "stamfamilie": [
+        "H5461"
+      ],
+      "toelichting": "Equivalente-arameo para cargo-administrativo-persa (Dn 2:48; 3:2,3,27; 6:8).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H5461",
+      "hebreeuws": "סְגָנִים",
+      "translit": "seganim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "gobernadores",
+      "grondvorm": "gobernadores",
+      "stamfamilie": [],
+      "toelichting": "Préstamo (acadio šaknu); funcionarios-provincia persa/babilonio.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H5462",
+      "hebreeuws": "סגר",
+      "translit": "sagar",
+      "woordsoort": "verbo",
+      "es_concordant": "cerrar-sagar",
+      "grondvorm": "cerrar-sagar",
+      "stamfamilie": [
+        "H5462"
+      ],
+      "toelichting": "Raíz sgr.",
+      "voorkomens": 91
+    },
+    {
+      "strong": "H5463",
+      "hebreeuws": "סְגַר-Aram",
+      "translit": "segar-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "cerrar-arameo-sagar",
+      "grondvorm": "cerrar-arameo-sagar",
+      "stamfamilie": [],
+      "toelichting": "Arameo Peal; Dios-cerró boca-leones para Daniel; Dn 6:22.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5464",
+      "hebreeuws": "סַגְרִיר",
+      "translit": "sagrir",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lluvia-continua",
+      "grondvorm": "lluvia-continua",
+      "stamfamilie": [],
+      "toelichting": "Mujer-rencillosa como lluvia-continua-goteando; Pr 27:15.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5465",
+      "hebreeuws": "סַד",
+      "translit": "sad-blok",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cepo-pies-sad",
+      "grondvorm": "cepo-pies-sad",
+      "stamfamilie": [],
+      "toelichting": "Cepo-madera donde Job siente sus pies sujetados — Job 13:27.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5466",
+      "hebreeuws": "סָדִין",
+      "translit": "sadin",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lino-fino",
+      "grondvorm": "lino-fino",
+      "stamfamilie": [],
+      "toelichting": "Lino-fino como precio o mercancía (Jue 14:12,13; Is 3:23; Pr 31:24).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H5467",
+      "hebreeuws": "סְדֹם",
+      "translit": "sedom",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sodoma-pn",
+      "grondvorm": "Sodoma-pn",
+      "stamfamilie": [],
+      "toelichting": "Ciudad destruida por fuego con Gomorra.",
+      "voorkomens": 39
+    },
+    {
+      "strong": "H5468",
+      "hebreeuws": "סְדָרִים",
+      "translit": "sedarim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ordenamientos",
+      "grondvorm": "ordenamientos",
+      "stamfamilie": [],
+      "toelichting": "Sheol sin-orden tierra-muerte; Job 10:22.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5469",
+      "hebreeuws": "סַהַר",
+      "translit": "sahar",
+      "woordsoort": "sustantivo",
+      "es_concordant": "luna-copa",
+      "grondvorm": "luna-copa",
+      "stamfamilie": [],
+      "toelichting": "Vientre-novia-copa luna-forma; Cnt 7:2.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5470",
+      "hebreeuws": "סֹהַר",
+      "translit": "sohar",
+      "woordsoort": "sustantivo",
+      "es_concordant": "carcel-redonda",
+      "grondvorm": "carcel-redonda",
+      "stamfamilie": [],
+      "toelichting": "Exclusivo ciclo-José: cárcel-real (Gn 39:20,21,22,23; 40:3,5).",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H5471",
+      "hebreeuws": "סוֹא",
+      "translit": "so-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "So-pn-Egipcio",
+      "grondvorm": "So-pn-Egipcio",
+      "stamfamilie": [],
+      "toelichting": "Faraón-egipcio aliado de Oseas; 2Re 17:4.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5472",
+      "hebreeuws": "סוּג",
+      "translit": "sug",
+      "woordsoort": "verbo",
+      "es_concordant": "retroceder",
+      "grondvorm": "retroceder",
+      "stamfamilie": [],
+      "toelichting": "Nifal: ser-empujado-atrás, apóstatas (apartarse-del-pacto).",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H5473",
+      "hebreeuws": "סוּגָה",
+      "translit": "sugah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "vallado-rosas",
+      "grondvorm": "vallado-rosas",
+      "stamfamilie": [],
+      "toelichting": "Vientre-novia como montón-trigo cercado-de-azucenas; Cnt 7:2.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5474",
+      "hebreeuws": "סוּגַר",
+      "translit": "sugar",
+      "woordsoort": "sustantivo",
+      "es_concordant": "jaula",
+      "grondvorm": "jaula",
+      "stamfamilie": [],
+      "toelichting": "León-joven en-jaula-cautivo por Babilonia; Ez 19:9.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5475",
+      "hebreeuws": "סוֹד",
+      "translit": "sod",
+      "woordsoort": "sustantivo",
+      "es_concordant": "consejo-secreto",
+      "grondvorm": "consejo-secreto",
+      "stamfamilie": [],
+      "toelichting": "Consejo-confidencial o círculo-cerrado.",
+      "voorkomens": 21
+    },
+    {
+      "strong": "H5476",
+      "hebreeuws": "סוֹדִי",
+      "translit": "sodi-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sodi-pn",
+      "grondvorm": "Sodi-pn",
+      "stamfamilie": [],
+      "toelichting": "Padre Gadiel; Nm 13:10.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5477",
+      "hebreeuws": "סוּחַ",
+      "translit": "such-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Such-pn",
+      "grondvorm": "Such-pn",
+      "stamfamilie": [],
+      "toelichting": "Jefe-Aser hijo Sjofach; 1Cr 7:36.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5478",
+      "hebreeuws": "כְּסוּחָה",
+      "translit": "kesuchah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "basura-polvo",
+      "grondvorm": "basura-polvo",
+      "stamfamilie": [],
+      "toelichting": "Cadáveres-pueblo como basura-polvo en calles; Is 5:25.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5479",
+      "hebreeuws": "סוֹטַי",
+      "translit": "Sotai",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sotai-pn",
+      "grondvorm": "Sotai-pn",
+      "stamfamilie": [],
+      "toelichting": "Cabeza-familia siervos-Salomón en lista-retorno — Esd 2:55; Neh 7:57.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5480",
+      "hebreeuws": "סוּךְ",
+      "translit": "sukh",
+      "woordsoort": "verbo",
+      "es_concordant": "ungir-untar",
+      "grondvorm": "ungir-untar",
+      "stamfamilie": [],
+      "toelichting": "Ungir-cuerpo con aceite para cuidado o fiesta (Dt 28:40; Rt 3:3; 2Sa 12:20; 14:2; Dn 10:3; Mi 6:15; 2Cr 28:15; Ez 16:9).",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H5481",
+      "hebreeuws": "סוּמְפֹּנְיָה",
+      "translit": "sumponyah-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "zampona-arameo",
+      "grondvorm": "zampona-arameo",
+      "stamfamilie": [],
+      "toelichting": "Instrumento-viento-arameo en orquesta (Dn 3:5,10,15).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H5482",
+      "hebreeuws": "סְוֵנֵה",
+      "translit": "sevene",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Siene-pn-Egipto",
+      "grondvorm": "Siene-pn-Egipto",
+      "stamfamilie": [],
+      "toelichting": "Sevene/Asuán, frontera-sur-Egipto — Ez 29:10; 30:6.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5483a",
+      "hebreeuws": "סוּס",
+      "translit": "sus-II-zwaluw",
+      "woordsoort": "sustantivo",
+      "es_concordant": "golondrina",
+      "grondvorm": "golondrina",
+      "stamfamilie": [],
+      "toelichting": "Is-como-golondrina-o-grulla así-piaba-yo y Jer-cigüeña-en-cielo-conoce-su-tiempo (Is 38:14; Jer 8:7).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H5483b",
+      "hebreeuws": "סוס",
+      "translit": "sus",
+      "woordsoort": "sustantivo",
+      "es_concordant": "caballo",
+      "grondvorm": "caballo",
+      "stamfamilie": [
+        "H5483b"
+      ],
+      "toelichting": "Lexema-único.",
+      "voorkomens": 138
+    },
+    {
+      "strong": "H5484",
+      "hebreeuws": "סוּסָה",
+      "translit": "susah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "yegua",
+      "grondvorm": "yegua",
+      "stamfamilie": [],
+      "toelichting": "Novio: 'a-yegua-carro-Faraón'; Cnt 1:9.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5485",
+      "hebreeuws": "סוּסִי",
+      "translit": "susi-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Susi-pn",
+      "grondvorm": "Susi-pn",
+      "stamfamilie": [],
+      "toelichting": "Padre Gadi-explorador; Nm 13:11.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5486",
+      "hebreeuws": "סוּף",
+      "translit": "suf-II",
+      "woordsoort": "verbo",
+      "es_concordant": "llegar-a-fin",
+      "grondvorm": "llegar-a-fin",
+      "stamfamilie": [
+        "H5490"
+      ],
+      "toelichting": "Cesar-de-existir, terminar (Est 9:28; Sal 73:19; Is 66:17; Jer 8:13; Am 3:15; Sof 1:2,3).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H5487",
+      "hebreeuws": "סוֹף-Aram",
+      "translit": "sof-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "concluir-arameo-sof",
+      "grondvorm": "concluir-arameo-sof",
+      "stamfamilie": [],
+      "toelichting": "Arameo Peal-pasivo; palabra-cumplida sobre rey; Dn 4:33.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5488",
+      "hebreeuws": "סוּף",
+      "translit": "suf-zn",
+      "woordsoort": "sustantivo",
+      "es_concordant": "junco",
+      "grondvorm": "junco",
+      "stamfamilie": [],
+      "toelichting": "Junco-orilla; parte-nombre Yam-Suf (Mar-Rojo).",
+      "voorkomens": 28
+    },
+    {
+      "strong": "H5489",
+      "hebreeuws": "סוּף",
+      "translit": "suf-eign-plaats",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Suf-pn-lugar",
+      "grondvorm": "Suf-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Lugar cerca de discurso-Moisés; Dt 1:1.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5490",
+      "hebreeuws": "סוֹף",
+      "translit": "sof-einde",
+      "woordsoort": "sustantivo",
+      "es_concordant": "fin-eternidad",
+      "grondvorm": "fin-eternidad",
+      "stamfamilie": [],
+      "toelichting": "Ec-puso-eternidad-en-su-corazón sin-que-hombre-pueda-encontrar-obra-Dios (Ec 3:11; 7:2; 12:13; Jl 2:20; 2Cr 20:16).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H5491",
+      "hebreeuws": "סוֹף",
+      "translit": "sof-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "fin-arameo-sof",
+      "grondvorm": "fin-arameo-sof",
+      "stamfamilie": [
+        "H5490"
+      ],
+      "toelichting": "Equivalente-arameo de plazo-final (Dn 4:8,19; 6:27; 7:26,28).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H5492a",
+      "hebreeuws": "סוּפָה-I",
+      "translit": "sufah-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "torbellino",
+      "grondvorm": "torbellino",
+      "stamfamilie": [
+        "H5486"
+      ],
+      "toelichting": "De suf (acabar); ráfaga-destructora, oleada-juicio.",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H5492b",
+      "hebreeuws": "סוּפָה",
+      "translit": "sufah-II",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sufah-pn-lugar",
+      "grondvorm": "Sufah-pn-lugar",
+      "stamfamilie": [
+        "H5492a"
+      ],
+      "toelichting": "Segundo sufah como topónimo; Nm 21:14.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5493",
+      "hebreeuws": "סור",
+      "translit": "sur",
+      "woordsoort": "verbo",
+      "es_concordant": "apartarse",
+      "grondvorm": "apartarse",
+      "stamfamilie": [
+        "H5493"
+      ],
+      "toelichting": "Raíz swr. Desviarse, hacerse-a-un-lado.",
+      "voorkomens": 300
+    },
+    {
+      "strong": "H5494",
+      "hebreeuws": "סוּר",
+      "translit": "sur",
+      "woordsoort": "adjetivo",
+      "es_concordant": "degenerado",
+      "grondvorm": "degenerado",
+      "stamfamilie": [
+        "H5494",
+        "H5493"
+      ],
+      "toelichting": "Hapax Jer 2:21 viña-degenerada-a-extraña; raíz sur.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5495",
+      "hebreeuws": "סוּר",
+      "translit": "sur-eign-poort",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sur-pn-puerta",
+      "grondvorm": "Sur-pn-puerta",
+      "stamfamilie": [],
+      "toelichting": "Puerta-templo donde guardias escondieron a Joás; 2Re 11:6.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5496",
+      "hebreeuws": "סוּת",
+      "translit": "sut",
+      "woordsoort": "verbo",
+      "es_concordant": "incitar",
+      "grondvorm": "incitar",
+      "stamfamilie": [],
+      "toelichting": "Hifil: instigar, persuadir (a-menudo a mal).",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H5497",
+      "hebreeuws": "סוּת",
+      "translit": "sut-kleed",
+      "woordsoort": "sustantivo",
+      "es_concordant": "manto-vestidura-sut",
+      "grondvorm": "manto-vestidura-sut",
+      "stamfamilie": [],
+      "toelichting": "Gn-ata-su-pollino-a-vid y lava-en-vino-su-vestidura y Gn-rojo-vino-uvas-su-vestido (Gn 49:11).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5498",
+      "hebreeuws": "סָחַב",
+      "translit": "sachav",
+      "woordsoort": "verbo",
+      "es_concordant": "arrastrar",
+      "grondvorm": "arrastrar",
+      "stamfamilie": [],
+      "toelichting": "Arrastrar-por-suelo cadáver o vestido (2Sa 17:13; Jer 15:3; 22:19; 49:20; 50:45).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H5499",
+      "hebreeuws": "סְחָבָה",
+      "translit": "sechavah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "trapos-arrastrar",
+      "grondvorm": "trapos-arrastrar",
+      "stamfamilie": [
+        "H5498"
+      ],
+      "toelichting": "Jer-trapos-viejos-y-andrajos y Jer-bajo-tus-brazos (Jer 38:11,12).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H5500",
+      "hebreeuws": "סָחָה",
+      "translit": "sachah",
+      "woordsoort": "verbo",
+      "es_concordant": "barrer-sachah",
+      "grondvorm": "barrer-sachah",
+      "stamfamilie": [],
+      "toelichting": "Piel-perfecto; polvo-Tiro será-barrido; Ez 26:4.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5501",
+      "hebreeuws": "סְחִי",
+      "translit": "sechi",
+      "woordsoort": "sustantivo",
+      "es_concordant": "barreduras",
+      "grondvorm": "barreduras",
+      "stamfamilie": [],
+      "toelichting": "Pueblo-a-barreduras y desperdicios entre-naciones; Lm 3:45.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5502",
+      "hebreeuws": "סָחַף",
+      "translit": "sachaf-wegvagen",
+      "woordsoort": "verbo",
+      "es_concordant": "barrer-arrastrar",
+      "grondvorm": "barrer-arrastrar",
+      "stamfamilie": [],
+      "toelichting": "Barrer o arrastrar por aluvión — Pr 28:3; Jer 46:15.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5503",
+      "hebreeuws": "סָחַר",
+      "translit": "sachar",
+      "woordsoort": "verbo",
+      "es_concordant": "circular-comerciar",
+      "grondvorm": "circular-comerciar",
+      "stamfamilie": [
+        "H5504",
+        "H5506"
+      ],
+      "toelichting": "Qal: viajar para comercio, vendedor-ambulante.",
+      "voorkomens": 21
+    },
+    {
+      "strong": "H5504",
+      "hebreeuws": "סַחַר",
+      "translit": "sachar-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ganancia-mercader",
+      "grondvorm": "ganancia-mercader",
+      "stamfamilie": [
+        "H5503"
+      ],
+      "toelichting": "Ganancia-comercio y beneficio-mercader (Is 23:3,18; 45:14; Pr 3:14).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H5505",
+      "hebreeuws": "סַחַר",
+      "translit": "sachar-handel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "comercio-trato",
+      "grondvorm": "comercio-trato",
+      "stamfamilie": [
+        "H5503"
+      ],
+      "toelichting": "Is-Tiro-ganancia-comercio y Pr-su-comercio-bueno y Is-ganancia-comercio (Is 23:3,18; 45:14; Pr 31:18).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H5506",
+      "hebreeuws": "סְחֹרָה",
+      "translit": "sechorah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "mercaderia-sechorah",
+      "grondvorm": "mercaderia-sechorah",
+      "stamfamilie": [],
+      "toelichting": "Muchos-islas-comercio con-Tiro; Ez 27:15.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5507",
+      "hebreeuws": "סֹחֵרָה",
+      "translit": "socherah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "escudo-redondo",
+      "grondvorm": "escudo-redondo",
+      "stamfamilie": [],
+      "toelichting": "Fidelidad-Dios es escudo-redondo; Sal 91:4.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5508",
+      "hebreeuws": "סֹחֶרֶת",
+      "translit": "socheret",
+      "woordsoort": "sustantivo",
+      "es_concordant": "marmol-negro",
+      "grondvorm": "marmol-negro",
+      "stamfamilie": [],
+      "toelichting": "Mármol-negro-circular-diseño piso-palacio-real; Est 1:6.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5509",
+      "hebreeuws": "סִיג",
+      "translit": "sig",
+      "woordsoort": "sustantivo",
+      "es_concordant": "escoria-metal",
+      "grondvorm": "escoria-metal",
+      "stamfamilie": [
+        "H5472"
+      ],
+      "toelichting": "Residuo de purificación de metal (Is 1:22,25; Ez 22:18,19; Pr 25:4; 26:23; Sal 119:119).",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H5510",
+      "hebreeuws": "סִיוָן",
+      "translit": "sivan-eign-maand",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sivan-pn-mes",
+      "grondvorm": "Sivan-pn-mes",
+      "stamfamilie": [],
+      "toelichting": "Tercer mes (mayo/junio) decreto-salvación-judíos; Est 8:9.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5511",
+      "hebreeuws": "סִיחוֹן",
+      "translit": "sichon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sehon-pn",
+      "grondvorm": "Sehon-pn",
+      "stamfamilie": [],
+      "toelichting": "Rey-amorrita derrotado por Israel.",
+      "voorkomens": 37
+    },
+    {
+      "strong": "H5512a",
+      "hebreeuws": "סִין",
+      "translit": "sin-stad",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sin-fortaleza-pn",
+      "grondvorm": "Sin-fortaleza-pn",
+      "stamfamilie": [
+        "H5512b"
+      ],
+      "toelichting": "Fortaleza-egipcia (probablemente Pelusio) — Ez 30:15,16.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5512b",
+      "hebreeuws": "סִין",
+      "translit": "Sin-II",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sin-desierto-pn",
+      "grondvorm": "Sin-desierto-pn",
+      "stamfamilie": [],
+      "toelichting": "Desierto entre Elim y Sinaí en éxodo (Ex 16:1; 17:1; Nm 33:11,12).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H5513",
+      "hebreeuws": "סִינִי",
+      "translit": "Sini",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sineo-pn",
+      "grondvorm": "Sineo-pn",
+      "stamfamilie": [],
+      "toelichting": "Gn-Canaán-engendró-Heveo-Arqueo-Sineo-Arvadeo y 1Cr-Sineo (Gn 10:17; 1Cr 1:15).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5514",
+      "hebreeuws": "סִינַי",
+      "translit": "sinai",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sinai-pn",
+      "grondvorm": "Sinai-pn",
+      "stamfamilie": [],
+      "toelichting": "Monte-de-promulgación-ley.",
+      "voorkomens": 35
+    },
+    {
+      "strong": "H5515",
+      "hebreeuws": "סִינִים",
+      "translit": "sinim-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sinim-pn-pueblo",
+      "grondvorm": "Sinim-pn-pueblo",
+      "stamfamilie": [],
+      "toelichting": "Pueblo-distante de donde retornados; Is 49:12.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5516",
+      "hebreeuws": "סִיסְרָא",
+      "translit": "sisera",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sisara-pn",
+      "grondvorm": "Sisara-pn",
+      "stamfamilie": [],
+      "toelichting": "Capitán-de-Jabín; también linaje-Netineos posterior.",
+      "voorkomens": 21
+    },
+    {
+      "strong": "H5517",
+      "hebreeuws": "סִיעֲהָא",
+      "translit": "siaha",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sia-pn",
+      "grondvorm": "Sia-pn",
+      "stamfamilie": [
+        "H5515"
+      ],
+      "toelichting": "Sia — cabeza-familia entre los Netineos retornados de exilio (Esd 2:44; Neh 7:47).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5518a",
+      "hebreeuws": "סִיר",
+      "translit": "sir",
+      "woordsoort": "sustantivo",
+      "es_concordant": "olla-cocer",
+      "grondvorm": "olla-cocer",
+      "stamfamilie": [],
+      "toelichting": "Olla-metal para cocción al fuego.",
+      "voorkomens": 29
+    },
+    {
+      "strong": "H5518b",
+      "hebreeuws": "סִיר",
+      "translit": "sir-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "espina-zarza",
+      "grondvorm": "espina-zarza",
+      "stamfamilie": [],
+      "toelichting": "Espinas como imagen-juicio y fuego-rápido (Is 34:13; Os 2:8; Am 4:2; Ec 7:6; Nah 1:10).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H5519",
+      "hebreeuws": "סָךְ",
+      "translit": "sak",
+      "woordsoort": "sustantivo",
+      "es_concordant": "multitud-procesion",
+      "grondvorm": "multitud-procesion",
+      "stamfamilie": [],
+      "toelichting": "Hijos-Coré recordaron: yo-iba en procesión a casa-Dios; Sal 42:4.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5520",
+      "hebreeuws": "סֹךְ",
+      "translit": "sokh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "guarida-seto",
+      "grondvorm": "guarida-seto",
+      "stamfamilie": [
+        "H5526"
+      ],
+      "toelichting": "Guarida-protección de león o Dios en santuario (Sal 10:9; 27:5; 76:3; Lm 2:6).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H5521",
+      "hebreeuws": "סֻכָּה",
+      "translit": "sukkah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cabaña",
+      "grondvorm": "cabaña",
+      "stamfamilie": [],
+      "toelichting": "Habitación-temporal-tejida (Fiesta-Cabañas, vigía-campo, imagen-protección-YHWH).",
+      "voorkomens": 31
+    },
+    {
+      "strong": "H5522",
+      "hebreeuws": "סִכּוּת",
+      "translit": "sikkut-eign-god",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sikut-pn-dios",
+      "grondvorm": "Sikut-pn-dios",
+      "stamfamilie": [],
+      "toelichting": "Deidad-babilónica Sakkut; Am 5:26.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5523",
+      "hebreeuws": "סֻכּוֹת",
+      "translit": "sukkot",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sucot-pn",
+      "grondvorm": "Sucot-pn",
+      "stamfamilie": [],
+      "toelichting": "('Cabañas'); topónimo en Transjordania y Canaán.",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H5524",
+      "hebreeuws": "סֻכּוֹת בְּנוֹת",
+      "translit": "succot-benot-eign-god",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sucot-Benot-pn-dios",
+      "grondvorm": "Sucot-Benot-pn-dios",
+      "stamfamilie": [],
+      "toelichting": "Deidad-babilónica ('cabañas-hijas'); 2Re 17:30.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5524+",
+      "hebreeuws": "סֻכּוֹת בְּנוֹת",
+      "translit": "succot-benot-eign-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sucot-Benot-pn-plus",
+      "grondvorm": "Sucot-Benot-pn-plus",
+      "stamfamilie": [
+        "H5524"
+      ],
+      "toelichting": "Variante-+ H5524.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5525",
+      "hebreeuws": "סֻכִּיִּים",
+      "translit": "sukkiyim-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Suquim-pn-pueblo",
+      "grondvorm": "Suquim-pn-pueblo",
+      "stamfamilie": [],
+      "toelichting": "Tropas-libias con Sisac ejército-egipcio; 2Cr 12:3.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5526a",
+      "hebreeuws": "סָכַךְ",
+      "translit": "sakhakh-bedekken",
+      "woordsoort": "verbo",
+      "es_concordant": "cubrir-protegiendo-sakak-a",
+      "grondvorm": "cubrir-protegiendo-sakak-a",
+      "stamfamilie": [
+        "H5526b"
+      ],
+      "toelichting": "El cubrir-protector con mano-Dios o querubines — Ex 33:22; 1Re 8:7; Sal 5:11; 91:4; 140:7; Job 3:23; 38:8; Lm 3:43,44.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5526b",
+      "hebreeuws": "סָכַךְ-II",
+      "translit": "sachach-II",
+      "woordsoort": "verbo",
+      "es_concordant": "cubrir-con-ala",
+      "grondvorm": "cubrir-con-ala",
+      "stamfamilie": [
+        "H5521",
+        "H5520"
+      ],
+      "toelichting": "Qal: con-ala/mano-cubrir-protectivo (querubines-arca).",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H5526c",
+      "hebreeuws": "סָכַךְ",
+      "translit": "sakak-III-weven",
+      "woordsoort": "verbo",
+      "es_concordant": "tejer-en-vientre",
+      "grondvorm": "tejer-en-vientre",
+      "stamfamilie": [
+        "H5526a",
+        "H5526f"
+      ],
+      "toelichting": "Tercer sakak; Dios-tejió-me en vientre-madre; Sal 139:13.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5526d",
+      "hebreeuws": "סָכַךְ",
+      "translit": "skk",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-paralizado",
+      "grondvorm": "ser-paralizado",
+      "stamfamilie": [
+        "H5526d",
+        "H5526a",
+        "H5526b",
+        "H5526c"
+      ],
+      "toelichting": "Hapax Nah 2:6 vigías-cubiertos-paralizados; sub-sentido.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5526e",
+      "hebreeuws": "סָכַךְ",
+      "translit": "sakak-V",
+      "woordsoort": "verbo",
+      "es_concordant": "cubrir-cobijar",
+      "grondvorm": "cubrir-cobijar",
+      "stamfamilie": [
+        "H5526a",
+        "H5526b"
+      ],
+      "toelichting": "Qal; Dios-cubre Moisés con-mano en hendidura-roca; Ex 33:22.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5526f",
+      "hebreeuws": "סָכַךְ",
+      "translit": "sakak-VI",
+      "woordsoort": "verbo",
+      "es_concordant": "tejer-como-tela",
+      "grondvorm": "tejer-como-tela",
+      "stamfamilie": [
+        "H5526a"
+      ],
+      "toelichting": "Sexto sakak; Dios-teje-hombre en vientre-madre; Job 10:11.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5527",
+      "hebreeuws": "סְכָכָה",
+      "translit": "sechachah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sechachah-pn-lugar",
+      "grondvorm": "Sechachah-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-Judá-desierto; Jos 15:61.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5528",
+      "hebreeuws": "סָכַל",
+      "translit": "sakal",
+      "woordsoort": "verbo",
+      "es_concordant": "obrar-neciamente-sakal",
+      "grondvorm": "obrar-neciamente-sakal",
+      "stamfamilie": [
+        "H5530",
+        "H5529"
+      ],
+      "toelichting": "Comportarse-neciamente o probarse-necio (1Sa 13:13; 26:21; 2Sa 15:31; 24:10; 1Cr 21:8; 2Cr 16:9; Is 44:25).",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H5529",
+      "hebreeuws": "סֶכֶל",
+      "translit": "skl",
+      "woordsoort": "sustantivo",
+      "es_concordant": "necedad-personificada",
+      "grondvorm": "necedad-personificada",
+      "stamfamilie": [
+        "H5529",
+        "H5528"
+      ],
+      "toelichting": "Hapax Ec 10:6 necedad-en-altos-puestos; de sakal.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5530",
+      "hebreeuws": "סָכָל",
+      "translit": "sakhal-dwaas",
+      "woordsoort": "sustantivo",
+      "es_concordant": "necio-persona",
+      "grondvorm": "necio-persona",
+      "stamfamilie": [
+        "H5528"
+      ],
+      "toelichting": "Persona-necia o sin-sentido — Jer 4:22; 5:21.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H5531a",
+      "hebreeuws": "שִׂכְלוּת",
+      "translit": "shkluth",
+      "woordsoort": "sustantivo",
+      "es_concordant": "necedad-abstracta",
+      "grondvorm": "necedad-abstracta",
+      "stamfamilie": [
+        "H5531a",
+        "H5531b",
+        "H5530"
+      ],
+      "toelichting": "Vocab-Eclesiastés necedad-abstracta (Ec 1:17); sub-sentido.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5531b",
+      "hebreeuws": "סִכְלוּת",
+      "translit": "skluth",
+      "woordsoort": "sustantivo",
+      "es_concordant": "la-necedad",
+      "grondvorm": "la-necedad",
+      "stamfamilie": [
+        "H5531b",
+        "H5531a",
+        "H5530"
+      ],
+      "toelichting": "Vocab-Eclesiastés necedad-femenina con-artículo (Ec 2-10).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H5532",
+      "hebreeuws": "סָכַן",
+      "translit": "sakan",
+      "woordsoort": "verbo",
+      "es_concordant": "aprovechar-sakan",
+      "grondvorm": "aprovechar-sakan",
+      "stamfamilie": [],
+      "toelichting": "Qal: ser-útil/dar-provecho (Job 22:2; 34:9; 35:3); Hifil: estar-acostumbrado, conocer-bien.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H5533a",
+      "hebreeuws": "סָכַן",
+      "translit": "skn",
+      "woordsoort": "verbo",
+      "es_concordant": "estar-en-peligro",
+      "grondvorm": "estar-en-peligro",
+      "stamfamilie": [
+        "H5533a",
+        "H5533b"
+      ],
+      "toelichting": "Hapax Ec 10:9 cantero-en-peligro; sub-sentido.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5533b",
+      "hebreeuws": "סָכַן",
+      "translit": "sachan-II-arm",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-pobre-sakan",
+      "grondvorm": "ser-pobre-sakan",
+      "stamfamilie": [
+        "H5533a"
+      ],
+      "toelichting": "Segundo sakan; pobre-tallador para ídolo; Is 40:20.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5534",
+      "hebreeuws": "סָכַר",
+      "translit": "sakhar-sluit",
+      "woordsoort": "verbo",
+      "es_concordant": "cerrar-detener",
+      "grondvorm": "cerrar-detener",
+      "stamfamilie": [],
+      "toelichting": "Cerrar-fuentes-diluvio y entregar (Gn 16:2; 20:18; Ec 8:8).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H5535",
+      "hebreeuws": "סָכַת",
+      "translit": "sakat",
+      "woordsoort": "verbo",
+      "es_concordant": "callar-sakat",
+      "grondvorm": "callar-sakat",
+      "stamfamilie": [],
+      "toelichting": "Hifil; pueblo-escuchar-y-callar Moisés; Dt 27:9.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5536",
+      "hebreeuws": "סַל",
+      "translit": "sal",
+      "woordsoort": "sustantivo",
+      "es_concordant": "canasto-juncos",
+      "grondvorm": "canasto-juncos",
+      "stamfamilie": [],
+      "toelichting": "Cesta-tejida-de-juncos (panes, frutos en ofrenda).",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H5537",
+      "hebreeuws": "סָלָא",
+      "translit": "sala",
+      "woordsoort": "verbo",
+      "es_concordant": "pesar-contra-oro",
+      "grondvorm": "pesar-contra-oro",
+      "stamfamilie": [],
+      "toelichting": "Pual-participio; hijos-nobles-Sión no-más-pesados-contra-oro; Lm 4:2.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5538",
+      "hebreeuws": "סִלָּא",
+      "translit": "silla-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sila-pn-lugar",
+      "grondvorm": "Sila-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Lugar donde Joás fue asesinado; 2Re 12:20.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5539",
+      "hebreeuws": "סָלַד",
+      "translit": "salad",
+      "woordsoort": "verbo",
+      "es_concordant": "saltar-de-gozo",
+      "grondvorm": "saltar-de-gozo",
+      "stamfamilie": [],
+      "toelichting": "Piel; Job saltaría en aflicción-implacable; Job 6:10.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5540",
+      "hebreeuws": "סֶלֶד",
+      "translit": "Seled",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Seled-pn-primero",
+      "grondvorm": "Seled-pn-primero",
+      "stamfamilie": [],
+      "toelichting": "1Cr-hijos-de-Nadab-Seled-y-Apaim y 1Cr-Seled-murió-sin-hijos (1Cr 2:30).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5541a",
+      "hebreeuws": "סָלָה",
+      "translit": "salah-I-verwerpen",
+      "woordsoort": "verbo",
+      "es_concordant": "rechazar-salah",
+      "grondvorm": "rechazar-salah",
+      "stamfamilie": [],
+      "toelichting": "Primer salah; Dios-rechazó Sión-fuertes; Lm 1:15.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5541b",
+      "hebreeuws": "סָלָה",
+      "translit": "salah-wegen",
+      "woordsoort": "verbo",
+      "es_concordant": "pesar-vs-oro",
+      "grondvorm": "pesar-vs-oro",
+      "stamfamilie": [
+        "H5540"
+      ],
+      "toelichting": "Pesar-comparar valor — Job 28:16,19; Lm 4:2.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5542",
+      "hebreeuws": "סֶלָה",
+      "translit": "selah",
+      "woordsoort": "partícula",
+      "es_concordant": "selah",
+      "grondvorm": "selah",
+      "stamfamilie": [],
+      "toelichting": "Marcador-salmos, probablemente musical/litúrgico; significado-incierto.",
+      "voorkomens": 73
+    },
+    {
+      "strong": "H5543a",
+      "hebreeuws": "סַלַּי",
+      "translit": "sallay-I-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sallay-pn-Benjamin",
+      "grondvorm": "Sallay-pn-Benjamin",
+      "stamfamilie": [],
+      "toelichting": "Benjaminita habitante-Jerusalén; Neh 11:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5543b",
+      "hebreeuws": "סַלּוּ",
+      "translit": "sallu-II-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sallu-pn-sacerdote",
+      "grondvorm": "Sallu-pn-sacerdote",
+      "stamfamilie": [
+        "H5543a"
+      ],
+      "toelichting": "Segundo Sallu como sacerdote retornado con Zorobabel; Neh 12:7.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5543c",
+      "hebreeuws": "סָלוּא",
+      "translit": "salu-eign-III",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Salu-pn-padre",
+      "grondvorm": "Salu-pn-padre",
+      "stamfamilie": [],
+      "toelichting": "Padre de Zimri; Nm 25:14.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5543d",
+      "hebreeuws": "סַלּוּא",
+      "translit": "Sallu-Benjamin",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sallu-pn-Benjamin-Mesullam",
+      "grondvorm": "Sallu-pn-Benjamin-Mesullam",
+      "stamfamilie": [],
+      "toelichting": "1Cr-Salu-hijo-Mesulam-hijo-Hodavias-hijo-Hassenuá y Neh-Salu (1Cr 9:7; Neh 11:7).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5543e",
+      "hebreeuws": "סַלַּי",
+      "translit": "sallay-V-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sallay-pn-sacerdote",
+      "grondvorm": "Sallay-pn-sacerdote",
+      "stamfamilie": [
+        "H5543a",
+        "H5543b"
+      ],
+      "toelichting": "Quinto Sallay como cabeza-sacerdotal Yojakim-tiempo; Neh 12:20.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5544",
+      "hebreeuws": "סִלּוֹן",
+      "translit": "sillon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "espina-aguijon",
+      "grondvorm": "espina-aguijon",
+      "stamfamilie": [],
+      "toelichting": "Espina o aguijón — Ez 2:6; 28:24.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5545",
+      "hebreeuws": "סָלַח",
+      "translit": "salach",
+      "woordsoort": "verbo",
+      "es_concordant": "perdonar",
+      "grondvorm": "perdonar",
+      "stamfamilie": [],
+      "toelichting": "Qal: cancelar-deuda (exclusivamente YHWH como sujeto).",
+      "voorkomens": 48
+    },
+    {
+      "strong": "H5546",
+      "hebreeuws": "סַלָּח",
+      "translit": "sallach",
+      "woordsoort": "adjetivo",
+      "es_concordant": "perdonador",
+      "grondvorm": "perdonador",
+      "stamfamilie": [],
+      "toelichting": "Adonay es bueno y perdonador; Sal 86:5.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5547",
+      "hebreeuws": "סְלִיחָה",
+      "translit": "selicha",
+      "woordsoort": "sustantivo",
+      "es_concordant": "perdones-plural",
+      "grondvorm": "perdones-plural",
+      "stamfamilie": [
+        "H5545"
+      ],
+      "toelichting": "Las múltiples perdones de Dios — Neh 9:17; Sal 130:4; Dn 9:9.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H5548",
+      "hebreeuws": "סַלְכָה",
+      "translit": "Salkhah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Salca-pn",
+      "grondvorm": "Salca-pn",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-noreste-frontera Basán (Dt 3:10; Jos 12:5; 13:11; 1Cr 5:11).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H5549",
+      "hebreeuws": "סָלַל",
+      "translit": "salal",
+      "woordsoort": "verbo",
+      "es_concordant": "amontonar-camino",
+      "grondvorm": "amontonar-camino",
+      "stamfamilie": [],
+      "toelichting": "Qal/Pilpel: apilar escombros/camino/rampa-asedio o exaltar (Ex 9:17; Pr 4:8; 15:19; Is 57:14; 62:10; Jer 18:15; 50:26; Job 19:12; 30:12).",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H5550",
+      "hebreeuws": "סֹלְלָה",
+      "translit": "solelah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "rampa-asedio",
+      "grondvorm": "rampa-asedio",
+      "stamfamilie": [
+        "H5549"
+      ],
+      "toelichting": "De salal (terraplenar, H5549); terraplén-asedio contra muralla (2Sa 20:15; 2Re 19:32; Is 37:33; Jer 6:6; 32:24; 33:4; Ez 4:2; 17:17; 21:22; 26:8; Dn 11:15).",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H5551",
+      "hebreeuws": "סֻלָּם",
+      "translit": "sullam",
+      "woordsoort": "sustantivo",
+      "es_concordant": "escalera",
+      "grondvorm": "escalera",
+      "stamfamilie": [],
+      "toelichting": "Peldaño-ascendente entre tierra y cielo; sueño-Jacob Gn 28:12.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5552",
+      "hebreeuws": "סַלְסִלָּה",
+      "translit": "salsillah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cestos-uvas",
+      "grondvorm": "cestos-uvas",
+      "stamfamilie": [],
+      "toelichting": "Mano-sobre ramos-uva como cestos; Jer 6:9.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5553",
+      "hebreeuws": "סֶלַע",
+      "translit": "sela",
+      "woordsoort": "sustantivo",
+      "es_concordant": "pena-roca",
+      "grondvorm": "pena-roca",
+      "stamfamilie": [],
+      "toelichting": "Peña-empinada, fortaleza-rocosa; distinto de tsur.",
+      "voorkomens": 59
+    },
+    {
+      "strong": "H5554",
+      "hebreeuws": "סֶלַע",
+      "translit": "sela-II-eigennaam",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sela-Edom-pn",
+      "grondvorm": "Sela-Edom-pn",
+      "stamfamilie": [
+        "H5553"
+      ],
+      "toelichting": "Sela, ciudad-rocosa edomita (luego Petra) — Is 16:1; 2Re 14:7; Abd 1:3.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H5555",
+      "hebreeuws": "סֶלַע הַמַּחְלְקוֹת",
+      "translit": "sela-hamachleqot-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sela-Hamachleqot-pn",
+      "grondvorm": "Sela-Hamachleqot-pn",
+      "stamfamilie": [],
+      "toelichting": "'Roca-de-divisiones' donde Saúl perdió a David; 1Sa 23:28.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5555+",
+      "hebreeuws": "סֶלַע הַמַּחְלְקוֹת",
+      "translit": "sela-hamachleqot-eign-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sela-Hamachleqot-pn-plus",
+      "grondvorm": "Sela-Hamachleqot-pn-plus",
+      "stamfamilie": [
+        "H5555"
+      ],
+      "toelichting": "Variante-+ H5555.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5556",
+      "hebreeuws": "סָלְעָם",
+      "translit": "salam",
+      "woordsoort": "sustantivo",
+      "es_concordant": "salam-langosta",
+      "grondvorm": "salam-langosta",
+      "stamfamilie": [],
+      "toelichting": "Especie-langosta-comestible; Lv 11:22.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5557",
+      "hebreeuws": "סָלַף",
+      "translit": "salaf",
+      "woordsoort": "verbo",
+      "es_concordant": "torcer-salaf",
+      "grondvorm": "torcer-salaf",
+      "stamfamilie": [],
+      "toelichting": "Torcer moral o juridicamente palabra o derecho (Ex 23:8; Dt 16:19; Job 12:19; Pr 13:6; 19:3; 21:12; 22:12).",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H5558",
+      "hebreeuws": "סֶלֶף",
+      "translit": "selef-verdraaiing",
+      "woordsoort": "sustantivo",
+      "es_concordant": "perversion",
+      "grondvorm": "perversion",
+      "stamfamilie": [
+        "H5557"
+      ],
+      "toelichting": "Perversión de palabra — Pr 11:3; 15:4.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5559",
+      "hebreeuws": "סְלִק",
+      "translit": "selaq-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "subir-arameo-selaq",
+      "grondvorm": "subir-arameo-selaq",
+      "stamfamilie": [
+        "H5557"
+      ],
+      "toelichting": "Dn-arameo-Daniel-subido-de-foso y Dn-arameo-cuatro-bestias-suben-de-mar y Dn-arameo-cuerno-pequeño-subir (Dn 6:23; 7:3,8,17,20).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H5560",
+      "hebreeuws": "סֹלֶת",
+      "translit": "solet",
+      "woordsoort": "sustantivo",
+      "es_concordant": "harina-fina",
+      "grondvorm": "harina-fina",
+      "stamfamilie": [],
+      "toelichting": "Mejor harina-tamizada para ofrendas. Distinto de qemach.",
+      "voorkomens": 52
+    },
+    {
+      "strong": "H5561",
+      "hebreeuws": "סַם",
+      "translit": "sam",
+      "woordsoort": "sustantivo",
+      "es_concordant": "especia-aromatica",
+      "grondvorm": "especia-aromatica",
+      "stamfamilie": [],
+      "toelichting": "Ingrediente-aromático del incienso-templo.",
+      "voorkomens": 16
+    },
+    {
+      "strong": "H5562",
+      "hebreeuws": "סַמְגַּר־נְבוּ",
+      "translit": "samgar-nevo-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Samgar-Nevo-pn",
+      "grondvorm": "Samgar-Nevo-pn",
+      "stamfamilie": [],
+      "toelichting": "Oficial-babilónico caída-Jerusalén; Jer 39:3.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5562+",
+      "hebreeuws": "סַמְגַּר־נְבוּ",
+      "translit": "samgar-nevo-eign-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Samgar-Nevo-pn-plus",
+      "grondvorm": "Samgar-Nevo-pn-plus",
+      "stamfamilie": [
+        "H5562"
+      ],
+      "toelichting": "Variante-+ H5562.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5563",
+      "hebreeuws": "סְמָדַר",
+      "translit": "semadar",
+      "woordsoort": "sustantivo",
+      "es_concordant": "uva-flor",
+      "grondvorm": "uva-flor",
+      "stamfamilie": [],
+      "toelichting": "Cnt-vides-en-flor y Cnt-flor-vid (Cnt 2:13,15; 7:13).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H5564",
+      "hebreeuws": "סָמַךְ",
+      "translit": "samach",
+      "woordsoort": "verbo",
+      "es_concordant": "apoyar-samach",
+      "grondvorm": "apoyar-samach",
+      "stamfamilie": [
+        "H5565"
+      ],
+      "toelichting": "Qal: apoyar con-mano/peso; también imposición-de-manos en sacrificio.",
+      "voorkomens": 49
+    },
+    {
+      "strong": "H5565",
+      "hebreeuws": "סְמַכְיָהוּ",
+      "translit": "semachyahu-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Semachyahu-pn",
+      "grondvorm": "Semachyahu-pn",
+      "stamfamilie": [],
+      "toelichting": "Levita-portero hijo Sjemaja; 1Cr 26:7.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5566",
+      "hebreeuws": "סֶמֶל",
+      "translit": "semel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "imagen-idolo-semel",
+      "grondvorm": "imagen-idolo-semel",
+      "stamfamilie": [],
+      "toelichting": "Imagen-ídolo-erigida en templo (Dt 4:16; 2Cr 33:7,15; Ez 8:3,5).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H5567",
+      "hebreeuws": "סָמַן",
+      "translit": "saman",
+      "woordsoort": "verbo",
+      "es_concordant": "marcar-sembrar",
+      "grondvorm": "marcar-sembrar",
+      "stamfamilie": [],
+      "toelichting": "Nifal-participio; cebada en lugar-marcado-sembrada; Is 28:25.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5568",
+      "hebreeuws": "סָמַר",
+      "translit": "samar",
+      "woordsoort": "verbo",
+      "es_concordant": "estremecerse-cabello",
+      "grondvorm": "estremecerse-cabello",
+      "stamfamilie": [],
+      "toelichting": "Erizársele-pelo de horror — Job 4:15; Sal 119:120.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5569",
+      "hebreeuws": "סָמָר",
+      "translit": "samar",
+      "woordsoort": "adjetivo",
+      "es_concordant": "erizado-caballos",
+      "grondvorm": "erizado-caballos",
+      "stamfamilie": [],
+      "toelichting": "Caballos-erizados contra-Babilonia avanzar; Jer 51:27.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5570",
+      "hebreeuws": "סְנָאָה",
+      "translit": "Senaah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Senaá-pn",
+      "grondvorm": "Senaá-pn",
+      "stamfamilie": [],
+      "toelichting": "Cabeza-familia retornados constructores-puerta-pescados (Esd 2:35; Neh 3:3; 7:38).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H5571",
+      "hebreeuws": "סַנְבַלַּט",
+      "translit": "Sanballat",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sanbalat-pn",
+      "grondvorm": "Sanbalat-pn",
+      "stamfamilie": [],
+      "toelichting": "Horonita-opositor de Nehemías (Neh 2:10,19; 3:33; 4:1; 6:1,2,5,12,14; 13:28).",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H5572",
+      "hebreeuws": "סְנֶה",
+      "translit": "seneh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "zarza-seneh",
+      "grondvorm": "zarza-seneh",
+      "stamfamilie": [],
+      "toelichting": "Zarza-ardiente donde Dios apareció a Moisés (Ex 3:2,3,4; Dt 33:16).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H5573",
+      "hebreeuws": "סֶנֶּה",
+      "translit": "senneh-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Senne-pn-roca",
+      "grondvorm": "Senne-pn-roca",
+      "stamfamilie": [],
+      "toelichting": "Roca-frente Botsets ('zarza'); 1Sa 14:4.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5574",
+      "hebreeuws": "סְנָאָה",
+      "translit": "Senaa",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Senaa-pn-clan",
+      "grondvorm": "Senaa-pn-clan",
+      "stamfamilie": [],
+      "toelichting": "Esd-hijos-de-Senaa-tres-mil-seiscientos-treinta y Neh-Puerta-Pescados-edificada-por-hijos-de-Senaa (Esd 2:35; Neh 3:3; 7:38).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5575",
+      "hebreeuws": "סַנְוֵרִים",
+      "translit": "sanwerim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ceguera",
+      "grondvorm": "ceguera",
+      "stamfamilie": [],
+      "toelichting": "Ceguera-divina sobre los de Sodoma y arameos (Gn 19:11; 2Re 6:18).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H5576",
+      "hebreeuws": "סַנְחֵרִיב",
+      "translit": "sancherib",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Senaquerib-pn",
+      "grondvorm": "Senaquerib-pn",
+      "stamfamilie": [],
+      "toelichting": "Rey-asirio que sitió Jerusalén y fue detenido por ángel-YHWH (2Re 18:13; 19:16,20,36; 2Cr 32:1,2,9,10,22; Is 36:1; 37:17,21,37).",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H5577",
+      "hebreeuws": "סַנְסִנִּים",
+      "translit": "sansinnim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ramas-palmera",
+      "grondvorm": "ramas-palmera",
+      "stamfamilie": [],
+      "toelichting": "Novio-agarra ramas-palmera comparación; Cnt 7:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5578",
+      "hebreeuws": "סַנְסַנָּה",
+      "translit": "sansannah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sansannah-pn-lugar",
+      "grondvorm": "Sansannah-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-Judá-sur; Jos 15:31.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5579",
+      "hebreeuws": "סְנַפִּיר",
+      "translit": "senappir",
+      "woordsoort": "sustantivo",
+      "es_concordant": "aleta-pez",
+      "grondvorm": "aleta-pez",
+      "stamfamilie": [],
+      "toelichting": "Aleta de pez-kosher como signo-pureza (Lv 11:9,10,12; Dt 14:9,10).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H5580",
+      "hebreeuws": "סָס",
+      "translit": "sas-mot",
+      "woordsoort": "sustantivo",
+      "es_concordant": "polilla-ropa",
+      "grondvorm": "polilla-ropa",
+      "stamfamilie": [],
+      "toelichting": "Polilla-consumirá enemigos como lana; Is 51:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5581",
+      "hebreeuws": "סִסְמַי",
+      "translit": "Sismai",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sismai-pn",
+      "grondvorm": "Sismai-pn",
+      "stamfamilie": [],
+      "toelichting": "1Cr-Eleasa-engendró-Sismai-y-Sismai-engendró-Salum (1Cr 2:40).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5582",
+      "hebreeuws": "סָעַד",
+      "translit": "saad",
+      "woordsoort": "verbo",
+      "es_concordant": "sostener-samakh",
+      "grondvorm": "sostener-samakh",
+      "stamfamilie": [],
+      "toelichting": "Qal: apoyar/fortalecer por alimento o cuidado (Gn 18:5; Jue 19:5,8; Sal 104:15; Is 9:7; Cnt 2:5).",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H5583",
+      "hebreeuws": "סְעַד",
+      "translit": "sead-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "sostener-arameo",
+      "grondvorm": "sostener-arameo",
+      "stamfamilie": [],
+      "toelichting": "Arameo Pael-participio; profetas apoyaron construcción; Esd 5:2.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5584",
+      "hebreeuws": "סָעָה",
+      "translit": "saah",
+      "woordsoort": "verbo",
+      "es_concordant": "tempestad-saah",
+      "grondvorm": "tempestad-saah",
+      "stamfamilie": [],
+      "toelichting": "Qal-participio; tormenta y huracán causa huida-David; Sal 55:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5585",
+      "hebreeuws": "סָעִיף",
+      "translit": "sa'if",
+      "woordsoort": "sustantivo",
+      "es_concordant": "hendidura-roca-saif",
+      "grondvorm": "hendidura-roca-saif",
+      "stamfamilie": [
+        "H5586"
+      ],
+      "toelichting": "Hendidura-refugio en peñasco o ramificación (Jue 15:8,11; Is 2:21; 17:6; 57:5; 27:10).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H5586",
+      "hebreeuws": "סָעַף",
+      "translit": "saaf",
+      "woordsoort": "verbo",
+      "es_concordant": "podar-ramas",
+      "grondvorm": "podar-ramas",
+      "stamfamilie": [],
+      "toelichting": "Piel-participio; YHWH poda ramas-asirias-poderosas; Is 10:33.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5587a",
+      "hebreeuws": "סְעִפִּים",
+      "translit": "seippim-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "dos-opiniones",
+      "grondvorm": "dos-opiniones",
+      "stamfamilie": [],
+      "toelichting": "Pueblo-cojea entre dos pensamientos Elías-Carmelo; 1Re 18:21.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5587b",
+      "hebreeuws": "שָׂעִף",
+      "translit": "saiph-overweging",
+      "woordsoort": "sustantivo",
+      "es_concordant": "pensamiento-dividido",
+      "grondvorm": "pensamiento-dividido",
+      "stamfamilie": [
+        "H5586"
+      ],
+      "toelichting": "Pensamientos-divididos en visiones-nocturnas — Job 4:13; 20:2.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5588",
+      "hebreeuws": "סֵעֵף",
+      "translit": "soph",
+      "woordsoort": "sustantivo",
+      "es_concordant": "vacilante",
+      "grondvorm": "vacilante",
+      "stamfamilie": [
+        "H5588",
+        "H5586"
+      ],
+      "toelichting": "Hapax Sal 119:113 vacilantes-aborrezco-ley-Yah-amo; de saaph.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5589",
+      "hebreeuws": "סַעֲפָה",
+      "translit": "saappah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ramas-laterales",
+      "grondvorm": "ramas-laterales",
+      "stamfamilie": [
+        "H5585"
+      ],
+      "toelichting": "Ramas o ramas-laterales — Ez 31:6,8.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5590",
+      "hebreeuws": "סָעַר",
+      "translit": "sa'ar",
+      "woordsoort": "verbo",
+      "es_concordant": "tempestuar",
+      "grondvorm": "tempestuar",
+      "stamfamilie": [
+        "H5591a"
+      ],
+      "toelichting": "Tormenta que ahuyenta o estira (2Re 6:11; Job 27:21; Sal 58:10; Dn 11:40; Os 13:3; Hab 3:14; Zac 7:14).",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H5591a",
+      "hebreeuws": "סַעַר",
+      "translit": "sa'ar-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tormenta-torbellino",
+      "grondvorm": "tormenta-torbellino",
+      "stamfamilie": [],
+      "toelichting": "Viento-tempestuoso-fuerte, frecuentemente teofánico (2Re 2:1,11; Job 38:1; 40:6; Sal 55:9; 107:25,29; 148:8).",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H5591b",
+      "hebreeuws": "סְעָרָה",
+      "translit": "searah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "torbellino-saar",
+      "grondvorm": "torbellino-saar",
+      "stamfamilie": [
+        "H5590"
+      ],
+      "toelichting": "De saar (tempestuar); viento-poderoso con-polvo y olas (Elías al cielo en torbellino).",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H5592a",
+      "hebreeuws": "סַף",
+      "translit": "saf-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "umbral-tazon",
+      "grondvorm": "umbral-tazon",
+      "stamfamilie": [],
+      "toelichting": "Travesaño-bajo de puerta o puerta-templo (Ex 12:22; Jue 19:27; 1Re 14:17; 2Re 12:9; 22:4; 23:4; 25:18; Sof 1:9; Ez 40:6,7; 41:16; 43:8).",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H5592b",
+      "hebreeuws": "סַף-II",
+      "translit": "saf-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "umbral",
+      "grondvorm": "umbral",
+      "stamfamilie": [],
+      "toelichting": "Travesaño-inferior de puerta; distinto de saf-I 'plato/tazón'.",
+      "voorkomens": 25
+    },
+    {
+      "strong": "H5593",
+      "hebreeuws": "סַף",
+      "translit": "saf-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Saf-pn",
+      "grondvorm": "Saf-pn",
+      "stamfamilie": [],
+      "toelichting": "Filisteo-gigante; 2Sa 21:18.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5594",
+      "hebreeuws": "סָפַד",
+      "translit": "safad",
+      "woordsoort": "verbo",
+      "es_concordant": "lamentar-pecho",
+      "grondvorm": "lamentar-pecho",
+      "stamfamilie": [
+        "H4553"
+      ],
+      "toelichting": "Qal: golpearse-pecho con luto, llorar-públicamente.",
+      "voorkomens": 32
+    },
+    {
+      "strong": "H5595",
+      "hebreeuws": "סָפָה",
+      "translit": "safah-I",
+      "woordsoort": "verbo",
+      "es_concordant": "barrer-safah",
+      "grondvorm": "barrer-safah",
+      "stamfamilie": [],
+      "toelichting": "Qal: arrastrar, exterminar. Distinto de safah-II (añadir).",
+      "voorkomens": 20
+    },
+    {
+      "strong": "H5596a",
+      "hebreeuws": "סָפַח",
+      "translit": "safach-I",
+      "woordsoort": "verbo",
+      "es_concordant": "anadir-juntar",
+      "grondvorm": "anadir-juntar",
+      "stamfamilie": [],
+      "toelichting": "Juntar o agregarse personas a grupo (1Sa 2:36; 26:19; Job 30:7; Is 14:1; Jer 12:14).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H5596b",
+      "hebreeuws": "סָפַח",
+      "translit": "safach-II-melaats",
+      "woordsoort": "verbo",
+      "es_concordant": "calva-pelar",
+      "grondvorm": "calva-pelar",
+      "stamfamilie": [
+        "H5596a"
+      ],
+      "toelichting": "Segundo safach; Dios golpea-calva hijas-Sión; Is 3:17.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5597",
+      "hebreeuws": "סַפַּחַת",
+      "translit": "sappachat",
+      "woordsoort": "sustantivo",
+      "es_concordant": "costra-piel",
+      "grondvorm": "costra-piel",
+      "stamfamilie": [
+        "H5596a"
+      ],
+      "toelichting": "Lv-si-hombre-en-piel-tiene-tumor-o-erupción-o-mancha y Lv-llaga-leprosa (Lv 13:2; 14:56).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5598",
+      "hebreeuws": "סִפַּי",
+      "translit": "sippay-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sippay-pn",
+      "grondvorm": "Sippay-pn",
+      "stamfamilie": [],
+      "toelichting": "Hijo-gigante-filisteo (variante Saf); 1Cr 20:4.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5599a",
+      "hebreeuws": "סָפִיחַ",
+      "translit": "safiach-I-overstrom",
+      "woordsoort": "sustantivo",
+      "es_concordant": "torrente-safiach",
+      "grondvorm": "torrente-safiach",
+      "stamfamilie": [],
+      "toelichting": "Primer safiach; agua-arrastra polvo símil-Dios-destruye; Job 14:19.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5599b",
+      "hebreeuws": "סָפִיחַ",
+      "translit": "saphiach",
+      "woordsoort": "sustantivo",
+      "es_concordant": "espontaneo-cosecha",
+      "grondvorm": "espontaneo-cosecha",
+      "stamfamilie": [
+        "H5595"
+      ],
+      "toelichting": "Grano-auto-sembrado año-sabático (Lv 25:5,11; 2Re 19:29; Is 37:30; Job 14:19).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H5600",
+      "hebreeuws": "סְפִינָה",
+      "translit": "sefinah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "camara-barco",
+      "grondvorm": "camara-barco",
+      "stamfamilie": [],
+      "toelichting": "Jonás-dormía en camara-interior-barco; Jon 1:5.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5601",
+      "hebreeuws": "סַפִּיר",
+      "translit": "sappir",
+      "woordsoort": "sustantivo",
+      "es_concordant": "zafiro",
+      "grondvorm": "zafiro",
+      "stamfamilie": [],
+      "toelichting": "Piedra-preciosa (lapislázuli o zafiro) (Ex 24:10; 28:18; 39:11; Job 28:6,16; Cnt 5:14; Is 54:11; Lm 4:7; Ez 1:26; 10:1; 28:13).",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H5602",
+      "hebreeuws": "סֵפֶל",
+      "translit": "sefel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tazon-precioso",
+      "grondvorm": "tazon-precioso",
+      "stamfamilie": [],
+      "toelichting": "Jue-puso-mantequilla-en-tazón-señorial y Jue-Gedeón-exprimió-vellón-y-tazón-lleno-rocío (Jue 5:25; 6:38).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H5603",
+      "hebreeuws": "סָפַן",
+      "translit": "safan",
+      "woordsoort": "verbo",
+      "es_concordant": "revestir-panel",
+      "grondvorm": "revestir-panel",
+      "stamfamilie": [
+        "H5604"
+      ],
+      "toelichting": "Cubrir-paneles-madera en pared o techo (Dt 33:21; 1Re 6:9,15; 7:3,7; Jer 22:14; Hag 1:4).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H5604",
+      "hebreeuws": "סִפֻּן",
+      "translit": "sippun",
+      "woordsoort": "sustantivo",
+      "es_concordant": "techo-cedro",
+      "grondvorm": "techo-cedro",
+      "stamfamilie": [],
+      "toelichting": "Cedro-techumbre santuario; 1Re 6:15.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5605",
+      "hebreeuws": "סָפַף",
+      "translit": "safaf",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-portero",
+      "grondvorm": "ser-portero",
+      "stamfamilie": [],
+      "toelichting": "Hithpolel; David prefiere umbral-casa-Dios; Sal 84:10.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5606a",
+      "hebreeuws": "סָפַק",
+      "translit": "safaq",
+      "woordsoort": "verbo",
+      "es_concordant": "palmotear",
+      "grondvorm": "palmotear",
+      "stamfamilie": [],
+      "toelichting": "Qal: dar-palmadas como sorpresa o desaprobación; distinto de macha (H4222).",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H5606b",
+      "hebreeuws": "סָפַק",
+      "translit": "safaq-II",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-suficiente",
+      "grondvorm": "ser-suficiente",
+      "stamfamilie": [
+        "H5606a"
+      ],
+      "toelichting": "Segundo safaq; polvo-Samaria suficiente para tropas-Aram; 1Re 20:10.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5607a",
+      "hebreeuws": "סָפֶק",
+      "translit": "safeq-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "inminencia",
+      "grondvorm": "inminencia",
+      "stamfamilie": [],
+      "toelichting": "Primer sefeq; iras-llevan-a-burla; Job 36:18.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5607b",
+      "hebreeuws": "שֶׂפֶק",
+      "translit": "sefeq-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "abundancia-sefeq",
+      "grondvorm": "abundancia-sefeq",
+      "stamfamilie": [],
+      "toelichting": "Segundo sefeq; impío-en-abundancia tiene-aflicción; Job 20:22.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5608a",
+      "hebreeuws": "ספר",
+      "translit": "safar",
+      "woordsoort": "verbo",
+      "es_concordant": "contar-relatar",
+      "grondvorm": "contar-relatar",
+      "stamfamilie": [
+        "H5608a",
+        "H5612a",
+        "H4557"
+      ],
+      "toelichting": "Raíz spr. 'Contar' núcleo; cognados sefer (H5612a), mispar (H4557), Piel 'narrar'.",
+      "voorkomens": 102
+    },
+    {
+      "strong": "H5608b",
+      "hebreeuws": "סֹפֵר",
+      "translit": "sofer",
+      "woordsoort": "sustantivo",
+      "es_concordant": "escriba",
+      "grondvorm": "escriba",
+      "stamfamilie": [
+        "H5608a"
+      ],
+      "toelichting": "De safar (contar/narrar); funcionario-letrado.",
+      "voorkomens": 53
+    },
+    {
+      "strong": "H5609",
+      "hebreeuws": "סִפְרַיָּא",
+      "translit": "sefar-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "libro-arameo",
+      "grondvorm": "libro-arameo",
+      "stamfamilie": [],
+      "toelichting": "Libros-crónicas-y-libros-cancillería-real (Esd 4:15; 6:1,2,18; Dn 7:10).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H5610",
+      "hebreeuws": "סְפָר",
+      "translit": "sefar",
+      "woordsoort": "sustantivo",
+      "es_concordant": "censo",
+      "grondvorm": "censo",
+      "stamfamilie": [],
+      "toelichting": "Censo-extranjeros Salomón Israel; 2Cr 2:17.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5611",
+      "hebreeuws": "סְפָר",
+      "translit": "sefar-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Sefar-pn",
+      "grondvorm": "Sefar-pn",
+      "stamfamilie": [],
+      "toelichting": "Frontera-monte-Arabia; Gn 10:30.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H5612a",
+      "hebreeuws": "ספר",
+      "translit": "sefer",
+      "woordsoort": "sustantivo",
+      "es_concordant": "rollo-libro",
+      "grondvorm": "rollo-libro",
+      "stamfamilie": [
+        "H5612a",
+        "H5608a"
+      ],
+      "toelichting": "Raíz spr (contar/escribir, H5608a). 'Rollo' preserva forma-antigua.",
+      "voorkomens": 187
+    }
+  ]
+}

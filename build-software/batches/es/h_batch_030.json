@@ -1,0 +1,1217 @@
+{
+  "batch_id": "h_batch_030",
+  "script": "heb",
+  "datum": "2026-05-01",
+  "entries": [
+    {
+      "strong": "H4711",
+      "hebreeuws": "מָצַץ",
+      "translit": "matsats",
+      "woordsoort": "verbo",
+      "es_concordant": "succionar-pecho",
+      "grondvorm": "succionar-pecho",
+      "stamfamilie": [],
+      "toelichting": "Qal; pechos-consuelo-Sión chupar-vacío; Is 66:11.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4712",
+      "hebreeuws": "מֵצַר",
+      "translit": "metsar",
+      "woordsoort": "sustantivo",
+      "es_concordant": "estrechez-meytsar",
+      "grondvorm": "estrechez-meytsar",
+      "stamfamilie": [
+        "H6887"
+      ],
+      "toelichting": "Sal-de-la-angustia-clamé-a-YHWH y Lm-mi-angustia-YHWH-mira y Jon-de-la-angustia-clamé (Sal 118:5; Lm 1:20; Jon 2:3).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4713",
+      "hebreeuws": "מִצְרִי",
+      "translit": "mitsri",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "egipcio-pn",
+      "grondvorm": "egipcio-pn",
+      "stamfamilie": [
+        "H4714"
+      ],
+      "toelichting": "Gentilicio de Mitsrayim.",
+      "voorkomens": 75
+    },
+    {
+      "strong": "H4714",
+      "hebreeuws": "מצרים",
+      "translit": "Mitsrayim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Egipto-pn",
+      "grondvorm": "Egipto-pn",
+      "stamfamilie": [
+        "H4714"
+      ],
+      "toelichting": "Convención-castellana Egipto (gr. Aigyptos). Forma-dual morfológica.",
+      "voorkomens": 636
+    },
+    {
+      "strong": "H4715",
+      "hebreeuws": "מַצְרֵף",
+      "translit": "matsref-smeltkroes",
+      "woordsoort": "sustantivo",
+      "es_concordant": "crisol-refinacion",
+      "grondvorm": "crisol-refinacion",
+      "stamfamilie": [],
+      "toelichting": "Crisol donde Dios prueba el corazón — Pr 17:3 'el crisol prueba la plata'.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4716",
+      "hebreeuws": "מַק",
+      "translit": "maq-rotting",
+      "woordsoort": "sustantivo",
+      "es_concordant": "putrefaccion-maq",
+      "grondvorm": "putrefaccion-maq",
+      "stamfamilie": [
+        "H4743"
+      ],
+      "toelichting": "Putrefacción o corrupción por enfermedad — Is 3:24 'hediondez en lugar de buen olor'; Is 5:24.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4717",
+      "hebreeuws": "מַקֶּבֶת",
+      "translit": "maqqevoth",
+      "woordsoort": "sustantivo",
+      "es_concordant": "martillo-mano",
+      "grondvorm": "martillo-mano",
+      "stamfamilie": [
+        "H5344"
+      ],
+      "toelichting": "Construcción-templo sin-ruido-martillo y ídolos-martillo-fijar y martillo-herrero (1Re 6:7; Is 44:12; Jer 10:4).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4718a",
+      "hebreeuws": "מַקֶּבֶת",
+      "translit": "maqqevet-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "martillo-maqqevet",
+      "grondvorm": "martillo-maqqevet",
+      "stamfamilie": [],
+      "toelichting": "Martillo-Yael para clavija-tienda; Jue 4:21.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4718b",
+      "hebreeuws": "מַקֶּבֶת",
+      "translit": "maqqevet-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cantera-foso",
+      "grondvorm": "cantera-foso",
+      "stamfamilie": [
+        "H4718a"
+      ],
+      "toelichting": "Segundo maqqevet; cantera-foso-tallado Abraham; Is 51:1.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4719",
+      "hebreeuws": "מַקֵּדָה",
+      "translit": "Maqqedah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Maqquedah-pn",
+      "grondvorm": "Maqquedah-pn",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-cananita en Sefelá Judá — escenario victoria-Josué sobre cinco-amorritas (Jos 10:10,16,17,21,28,29; 12:16; 15:41).",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H4720",
+      "hebreeuws": "מִקְדָּשׁ",
+      "translit": "miqdash",
+      "woordsoort": "sustantivo",
+      "es_concordant": "santuario",
+      "grondvorm": "santuario",
+      "stamfamilie": [
+        "H6942",
+        "H6944"
+      ],
+      "toelichting": "De qadash (ser-santo); lugar-forma = sitio-apartado/santo.",
+      "voorkomens": 74
+    },
+    {
+      "strong": "H4721",
+      "hebreeuws": "מַקְהֵל",
+      "translit": "maqhel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "asamblea-cantores",
+      "grondvorm": "asamblea-cantores",
+      "stamfamilie": [
+        "H6951"
+      ],
+      "toelichting": "Asamblea-grande comunidad culto-templo — Sal 26:12; 68:27.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4722",
+      "hebreeuws": "מַקְהֵלֹת",
+      "translit": "Maqhelot",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Maqhelot-pn-parada",
+      "grondvorm": "Maqhelot-pn-parada",
+      "stamfamilie": [
+        "H6950"
+      ],
+      "toelichting": "Nm-partieron-Charada-acamparon-Maqhelot y Nm-Maqhelot-acamparon-Tahat (Nm 33:25,26).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4723a",
+      "hebreeuws": "מִקְוֵה",
+      "translit": "miqveh-Egypte-linnen",
+      "woordsoort": "sustantivo",
+      "es_concordant": "Egipto-exportar-lino",
+      "grondvorm": "Egipto-exportar-lino",
+      "stamfamilie": [],
+      "toelichting": "1Re-procedencia-caballos-Salomón de-Egipto y 2Cr-importaron-caballos-Egipto-y-todas-tierras (1Re 10:28; 2Cr 1:16).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4723b",
+      "hebreeuws": "מִקְוֶה",
+      "translit": "miqweh-volksverzameling",
+      "woordsoort": "sustantivo",
+      "es_concordant": "esperanza-coleccion",
+      "grondvorm": "esperanza-coleccion",
+      "stamfamilie": [
+        "H6960"
+      ],
+      "toelichting": "1Cr-Dios-esperanza-Israel y 2Cr-Salomón-importa-caballos-Cué y Jer-esperanza-Israel-YHWH (1Cr 29:15; 2Cr 1:16; Jer 17:13; 50:7).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H4723c",
+      "hebreeuws": "מִקְוֵה",
+      "translit": "miqveh-water",
+      "woordsoort": "sustantivo",
+      "es_concordant": "estanque-aguas",
+      "grondvorm": "estanque-aguas",
+      "stamfamilie": [
+        "H6960b"
+      ],
+      "toelichting": "Lugar-recolección de aguas en creación y agua-ritual (Gn 1:10; Ex 7:19; Lv 11:36).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4724",
+      "hebreeuws": "מִקְוָה",
+      "translit": "miqvah-water",
+      "woordsoort": "sustantivo",
+      "es_concordant": "deposito-agua",
+      "grondvorm": "deposito-agua",
+      "stamfamilie": [],
+      "toelichting": "Estanque-entre-dos-muros Ezequías; Is 22:11.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4725",
+      "hebreeuws": "מקום",
+      "translit": "maqom",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lugar",
+      "grondvorm": "lugar",
+      "stamfamilie": [
+        "H4725",
+        "H6965b"
+      ],
+      "toelichting": "Raíz qwm (levantarse, H6965b). Maqom = lugar-de-estar.",
+      "voorkomens": 399
+    },
+    {
+      "strong": "H4726",
+      "hebreeuws": "מָקוֹר",
+      "translit": "maqor",
+      "woordsoort": "sustantivo",
+      "es_concordant": "fuente-maqor",
+      "grondvorm": "fuente-maqor",
+      "stamfamilie": [
+        "H6979"
+      ],
+      "toelichting": "De qur (excavar); manantial-emergente, metáfora-vida/conocimiento.",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H4727",
+      "hebreeuws": "מִקָּח",
+      "translit": "miqqach",
+      "woordsoort": "sustantivo",
+      "es_concordant": "soborno-aceptar",
+      "grondvorm": "soborno-aceptar",
+      "stamfamilie": [],
+      "toelichting": "No-aceptar-soborno en juicio; 2Cr 19:7.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4728",
+      "hebreeuws": "מַקָּחָה",
+      "translit": "maqqachah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "mercaderia-mercado",
+      "grondvorm": "mercaderia-mercado",
+      "stamfamilie": [],
+      "toelichting": "Sabat-comprar-y-vender prohibido Nehemías; Neh 10:31.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4729",
+      "hebreeuws": "מִקְטָר",
+      "translit": "miqtar",
+      "woordsoort": "sustantivo",
+      "es_concordant": "altar-incienso",
+      "grondvorm": "altar-incienso",
+      "stamfamilie": [
+        "H7004"
+      ],
+      "toelichting": "Lugar-quemar incienso; Ex 30:1.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4730",
+      "hebreeuws": "מִקְטֶרֶת",
+      "translit": "miqtereth",
+      "woordsoort": "sustantivo",
+      "es_concordant": "incensario",
+      "grondvorm": "incensario",
+      "stamfamilie": [
+        "H6999a"
+      ],
+      "toelichting": "Incensario sacerdotal — 2Cr 26:19; Ez 8:11.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4731",
+      "hebreeuws": "מַקֵּל",
+      "translit": "maqqel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cayado-maqqel",
+      "grondvorm": "cayado-maqqel",
+      "stamfamilie": [],
+      "toelichting": "Báculo-pastor, bastón. Distinto de matteh y shevet.",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H4732",
+      "hebreeuws": "מִקְלוֹת",
+      "translit": "Miqloth",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Mikloth-pn",
+      "grondvorm": "Mikloth-pn",
+      "stamfamilie": [
+        "H4731"
+      ],
+      "toelichting": "Patriarca-familia-Benjamín y comandante-David (1Cr 8:32; 9:37,38; 27:4). 'Varas-báculos'.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4733",
+      "hebreeuws": "מִקְלָט",
+      "translit": "miqlat",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ciudad-refugio",
+      "grondvorm": "ciudad-refugio",
+      "stamfamilie": [
+        "H7038"
+      ],
+      "toelichting": "De qalat (recibir); ciudad-refugio para homicidio-no-intencional.",
+      "voorkomens": 20
+    },
+    {
+      "strong": "H4734",
+      "hebreeuws": "מִקְלַעַת",
+      "translit": "miqla'ath",
+      "woordsoort": "sustantivo",
+      "es_concordant": "talla-relieve",
+      "grondvorm": "talla-relieve",
+      "stamfamilie": [
+        "H7049b"
+      ],
+      "toelichting": "Madera-tallada en puertas-templo y muros (1Re 6:18,29,32,35).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4735",
+      "hebreeuws": "מִקְנֶה",
+      "translit": "miqneh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ganado-bienes",
+      "grondvorm": "ganado-bienes",
+      "stamfamilie": [
+        "H7069",
+        "H4736"
+      ],
+      "toelichting": "De qanah (adquirir); posesión-en-ganado.",
+      "voorkomens": 76
+    },
+    {
+      "strong": "H4736",
+      "hebreeuws": "מִקְנָה",
+      "translit": "miqnah-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "compra-escritura",
+      "grondvorm": "compra-escritura",
+      "stamfamilie": [
+        "H7069"
+      ],
+      "toelichting": "De qanah (comprar); título-propiedad, compra-finca (campo Efrón, Jer 32).",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H4737",
+      "hebreeuws": "מִקְנֵיָהוּ",
+      "translit": "Mikneyahu",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Mikneyahu-pn",
+      "grondvorm": "Mikneyahu-pn",
+      "stamfamilie": [
+        "H7069"
+      ],
+      "toelichting": "1Cr-Eliflehu-Mikneyahu-Obed-Edom-Yeiel-porteros y 1Cr-mismo-listado (1Cr 15:18,21). Levita.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4738",
+      "hebreeuws": "מִכְסֶה",
+      "translit": "mikhseh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "adivinacion-vision",
+      "grondvorm": "adivinacion-vision",
+      "stamfamilie": [
+        "H2374"
+      ],
+      "toelichting": "Visión-falsos-videntes — Ez 12:24 'no más visión vana ni adivinación lisonjera'; Ez 13:7.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4739",
+      "hebreeuws": "מָקַץ",
+      "translit": "mqts",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Maqats-pn-lugar",
+      "grondvorm": "Maqats-pn-lugar",
+      "stamfamilie": [
+        "H4739"
+      ],
+      "toelichting": "Distrito-Salomón 1Re 4:9 con Saalbim, Bet-Semes; quizá frontera-ciudad.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4740",
+      "hebreeuws": "מִקְצֹעַ",
+      "translit": "miqtsoa",
+      "woordsoort": "sustantivo",
+      "es_concordant": "esquina-fundamento",
+      "grondvorm": "esquina-fundamento",
+      "stamfamilie": [
+        "H7106"
+      ],
+      "toelichting": "De qatsa (cortar). Esquina-pieza o entrada-esquina en tabernáculo y templo (Ex 26:24; 36:28; Ez 41:22; 46:21,22; Neh 3:19,24,25).",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H4741",
+      "hebreeuws": "מַקְצוּעָה",
+      "translit": "maqtsuah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cincel-tallar",
+      "grondvorm": "cincel-tallar",
+      "stamfamilie": [],
+      "toelichting": "Tallador-trabaja-con-cinceles; Is 44:13.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4742",
+      "hebreeuws": "מְקֻצָּע",
+      "translit": "mequtsa",
+      "woordsoort": "sustantivo",
+      "es_concordant": "esquina-tallada",
+      "grondvorm": "esquina-tallada",
+      "stamfamilie": [
+        "H7106"
+      ],
+      "toelichting": "Ex-pectoral-esquina-doble-esquinas-harás y Ex-hizo-esquinas-a-ambos-lados (Ex 26:24; 36:28).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4743",
+      "hebreeuws": "מָקַק",
+      "translit": "maqaq",
+      "woordsoort": "verbo",
+      "es_concordant": "consumirse-podrirse",
+      "grondvorm": "consumirse-podrirse",
+      "stamfamilie": [],
+      "toelichting": "Nifal/Hifil: marchitarse-por-culpa o enfermedad distinto de maas (H4549) y raqab.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H4744",
+      "hebreeuws": "מִקְרָא",
+      "translit": "miqra",
+      "woordsoort": "sustantivo",
+      "es_concordant": "convocacion-santa",
+      "grondvorm": "convocacion-santa",
+      "stamfamilie": [
+        "H7121"
+      ],
+      "toelichting": "De qara (llamar); reunión-oficial-convocada.",
+      "voorkomens": 23
+    },
+    {
+      "strong": "H4745",
+      "hebreeuws": "מִקְרֶה",
+      "translit": "miqreh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "casualidad-suceso",
+      "grondvorm": "casualidad-suceso",
+      "stamfamilie": [
+        "H7136b"
+      ],
+      "toelichting": "Rut-casualidad-campo-Booz y filisteos-accidente-arca y Saúl-impureza-accidental (Rt 2:3; 1Sa 6:9; 20:26).",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H4746",
+      "hebreeuws": "מְקָרֶה",
+      "translit": "mqre",
+      "woordsoort": "sustantivo",
+      "es_concordant": "techumbre-mqre",
+      "grondvorm": "techumbre-mqre",
+      "stamfamilie": [
+        "H4746",
+        "H7136"
+      ],
+      "toelichting": "Hapax Ec 10:18 pereza-techumbre-cae; cognado H7136-II qarah.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4747",
+      "hebreeuws": "מְקֵרָה",
+      "translit": "meqerah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "aposento-fresco",
+      "grondvorm": "aposento-fresco",
+      "stamfamilie": [
+        "H7119"
+      ],
+      "toelichting": "Jue-Eglón-en-aposento-fresco-de-verano-solo y Jue-vinieron-vieron-puertas-aposento-cerradas (Jue 3:20,24).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4748",
+      "hebreeuws": "מִקְשֶׁה",
+      "translit": "miqsheh-haar",
+      "woordsoort": "sustantivo",
+      "es_concordant": "trenza-cabello",
+      "grondvorm": "trenza-cabello",
+      "stamfamilie": [],
+      "toelichting": "En-lugar-de-trenza-cabello calvicie como castigo; Is 3:24.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4749",
+      "hebreeuws": "מִקְשָׁה",
+      "translit": "miqshah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "obra-batida",
+      "grondvorm": "obra-batida",
+      "stamfamilie": [],
+      "toelichting": "Trabajo-metal-batido-de-una-pieza distinto de nesek (fundido) y charosh (tallado) (Ex 25:18,31,36; Nm 8:4).",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H4750",
+      "hebreeuws": "מִקְשָׁה",
+      "translit": "miqshah-komkommer",
+      "woordsoort": "sustantivo",
+      "es_concordant": "campo-pepino",
+      "grondvorm": "campo-pepino",
+      "stamfamilie": [],
+      "toelichting": "Hija-Sión como cabaña-en-campo-pepino; Is 1:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4751",
+      "hebreeuws": "מַר",
+      "translit": "mar",
+      "woordsoort": "adjetivo",
+      "es_concordant": "amargo",
+      "grondvorm": "amargo",
+      "stamfamilie": [
+        "H4843",
+        "H4814"
+      ],
+      "toelichting": "Adjetivo: sabor-amargo, metafóricamente afligido.",
+      "voorkomens": 39
+    },
+    {
+      "strong": "H4752",
+      "hebreeuws": "מַר",
+      "translit": "mar-druppel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "gota-polvo",
+      "grondvorm": "gota-polvo",
+      "stamfamilie": [],
+      "toelichting": "Naciones como gota-polvo del-cubo; Is 40:15.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4753",
+      "hebreeuws": "מֹר",
+      "translit": "mor",
+      "woordsoort": "sustantivo",
+      "es_concordant": "mirra",
+      "grondvorm": "mirra",
+      "stamfamilie": [],
+      "toelichting": "Resina-aromática-Sur-Arabia (aceite-unción, jardín-bodas Cnt).",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H4754",
+      "hebreeuws": "מָרָא",
+      "translit": "mara-vliegen",
+      "woordsoort": "verbo",
+      "es_concordant": "alzar-vuelo-Job",
+      "grondvorm": "alzar-vuelo-Job",
+      "stamfamilie": [],
+      "toelichting": "Avestruz que se levanta o caballo que ríe del miedo — Job 39:18.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4755",
+      "hebreeuws": "מָרָא",
+      "translit": "mara-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Mara-pn-amargo",
+      "grondvorm": "Mara-pn-amargo",
+      "stamfamilie": [],
+      "toelichting": "Auto-nombre Noemí ('amarga'); Rt 1:20.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4756",
+      "hebreeuws": "מָרֵא",
+      "translit": "mare-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "senor-arameo",
+      "grondvorm": "senor-arameo",
+      "stamfamilie": [],
+      "toelichting": "Forma-vocativa-aramea para rey o Dios (Dn 2:47; 4:16,21,22; 5:23).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H4757",
+      "hebreeuws": "מְרֹדַךְ בַּלְאֲדָן",
+      "translit": "merodach-baladan-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Merodac-Baladan-pn",
+      "grondvorm": "Merodac-Baladan-pn",
+      "stamfamilie": [],
+      "toelichting": "Rey-babilónico embajador-Ezequías; Is 39:1.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4757+",
+      "hebreeuws": "מְרֹדַךְ בַּלְאֲדָן",
+      "translit": "merodach-baladan-eign-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Merodac-Baladan-pn-plus",
+      "grondvorm": "Merodac-Baladan-pn-plus",
+      "stamfamilie": [
+        "H4757"
+      ],
+      "toelichting": "Variante-+ H4757.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4758",
+      "hebreeuws": "מראה",
+      "translit": "mareh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "apariencia",
+      "grondvorm": "apariencia",
+      "stamfamilie": [
+        "H4758",
+        "H7200"
+      ],
+      "toelichting": "Raíz r'h (ver, H7200). 'Apariencia' preserva lo-visto-pasivo.",
+      "voorkomens": 104
+    },
+    {
+      "strong": "H4759a",
+      "hebreeuws": "מַרְאָה",
+      "translit": "mar'ah-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "vision-aspecto",
+      "grondvorm": "vision-aspecto",
+      "stamfamilie": [
+        "H7200"
+      ],
+      "toelichting": "Forma-femenina mar'eh; aspecto-específico-visión distinto de mar'eh masc (H4758).",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H4759b",
+      "hebreeuws": "מַרְאָה",
+      "translit": "marah-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "espejo",
+      "grondvorm": "espejo",
+      "stamfamilie": [],
+      "toelichting": "Segundo marah; espejos-bronce-mujeres; Ex 38:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4760",
+      "hebreeuws": "מֻרְאָה",
+      "translit": "muraah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "buche",
+      "grondvorm": "buche",
+      "stamfamilie": [],
+      "toelichting": "Buche-ave removido para ofrenda; Lv 1:16.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4761",
+      "hebreeuws": "מַרְאָשׁוֹת",
+      "translit": "marashot",
+      "woordsoort": "sustantivo",
+      "es_concordant": "diadema-cabeza",
+      "grondvorm": "diadema-cabeza",
+      "stamfamilie": [],
+      "toelichting": "Diademas-reinas caen-bajo; Jer 13:18.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4762",
+      "hebreeuws": "מָרֵאשָׁה",
+      "translit": "Mareshah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Maresa-pn",
+      "grondvorm": "Maresa-pn",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-fortificada en Judá (Jos 15:44; 2Cr 11:8; 14:8,9; 20:37; Mi 1:15; 1Cr 2:42; 4:21).",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H4763",
+      "hebreeuws": "מְרַאֲשֹׁת",
+      "translit": "meraashot",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cabecera",
+      "grondvorm": "cabecera",
+      "stamfamilie": [
+        "H7218a"
+      ],
+      "toelichting": "Mi-prefijo + rosh (cabeza, H7218a); lugar-junto-a-cabeza (Gn 28:11,18; 1Sa 19:13,16; 26:7-16; 1Re 19:6).",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H4764",
+      "hebreeuws": "מֵרַב",
+      "translit": "Merav",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Merab-pn",
+      "grondvorm": "Merab-pn",
+      "stamfamilie": [],
+      "toelichting": "Hija-mayor-Saúl dada a Adriel (1Sa 14:49; 18:17,19; 2Sa 21:8). 'Aumento'.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4765",
+      "hebreeuws": "מַרְבַדִּים",
+      "translit": "marbaddim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cubrecama-finos",
+      "grondvorm": "cubrecama-finos",
+      "stamfamilie": [],
+      "toelichting": "Coberturas-finas de la cama — Pr 7:16 'he adornado mi cama con cobertores'.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4766",
+      "hebreeuws": "מַרְבֶּה",
+      "translit": "marbeh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "abundancia-marbeh",
+      "grondvorm": "abundancia-marbeh",
+      "stamfamilie": [],
+      "toelichting": "Mucho-botín repartido aun-cojos; Is 33:23.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4767",
+      "hebreeuws": "מִרְבָּה",
+      "translit": "mirbah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "copa-rebose",
+      "grondvorm": "copa-rebose",
+      "stamfamilie": [],
+      "toelichting": "Copa-tan-llena-rebosa; Ez 23:32.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4768",
+      "hebreeuws": "מַרְבִּית",
+      "translit": "marbith",
+      "woordsoort": "sustantivo",
+      "es_concordant": "interes-aumento",
+      "grondvorm": "interes-aumento",
+      "stamfamilie": [
+        "H7235"
+      ],
+      "toelichting": "Aumento-cobrado al prestar alimento (Lv 25:37; 1Sa 2:33; 1Cr 12:30; 2Cr 9:6; 30:18).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H4769",
+      "hebreeuws": "מַרְבֵּץ",
+      "translit": "marbets",
+      "woordsoort": "sustantivo",
+      "es_concordant": "majada-rebano",
+      "grondvorm": "majada-rebano",
+      "stamfamilie": [
+        "H7257"
+      ],
+      "toelichting": "Majada o lugar-reposo de rebaños — Ez 25:5; Sof 2:6,15.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4770",
+      "hebreeuws": "מַרְבֵּק",
+      "translit": "marbeq",
+      "woordsoort": "sustantivo",
+      "es_concordant": "establo-engordadero",
+      "grondvorm": "establo-engordadero",
+      "stamfamilie": [],
+      "toelichting": "Becerro-engordado para banquete o juicio (1Sa 28:24; Jer 46:21; Am 6:4; Mal 4:2).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4771",
+      "hebreeuws": "מַרְגּוֹעַ",
+      "translit": "margoa",
+      "woordsoort": "sustantivo",
+      "es_concordant": "reposo-margoah",
+      "grondvorm": "reposo-margoah",
+      "stamfamilie": [],
+      "toelichting": "Pueblo-pregunta caminos-antiguos para reposo-estado; Jer 6:16.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4772",
+      "hebreeuws": "מַרְגְּלוֹת",
+      "translit": "margeloth",
+      "woordsoort": "sustantivo",
+      "es_concordant": "pies-lugar",
+      "grondvorm": "pies-lugar",
+      "stamfamilie": [
+        "H7272"
+      ],
+      "toelichting": "Extremidad-pies de cama o estera (Rt 3:4,7,8,14; Dn 10:6).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H4773",
+      "hebreeuws": "מַרְגֵּמָה",
+      "translit": "margemah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "piedra-honda",
+      "grondvorm": "piedra-honda",
+      "stamfamilie": [],
+      "toelichting": "Honra-a-necio-como piedra-en-honda; Pr 26:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4774",
+      "hebreeuws": "מַרְגֵּעָה",
+      "translit": "margeah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "reposo-margeah",
+      "grondvorm": "reposo-margeah",
+      "stamfamilie": [],
+      "toelichting": "Esto-es-el-reposo para fatigados; Is 28:12.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4775",
+      "hebreeuws": "מָרַד",
+      "translit": "marad",
+      "woordsoort": "verbo",
+      "es_concordant": "rebelarse",
+      "grondvorm": "rebelarse",
+      "stamfamilie": [
+        "H4777",
+        "H4779"
+      ],
+      "toelichting": "Qal: rebelarse contra autoridad o Dios.",
+      "voorkomens": 25
+    },
+    {
+      "strong": "H4776",
+      "hebreeuws": "מְרַד",
+      "translit": "mrd",
+      "woordsoort": "sustantivo",
+      "es_concordant": "rebelion-arameo",
+      "grondvorm": "rebelion-arameo",
+      "stamfamilie": [
+        "H4776",
+        "H4775"
+      ],
+      "toelichting": "Arameo rebelión-revuelta (Esd 4:19 Jerusalén-historia).",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4777",
+      "hebreeuws": "מֶרֶד",
+      "translit": "mered",
+      "woordsoort": "sustantivo",
+      "es_concordant": "rebeldia",
+      "grondvorm": "rebeldia",
+      "stamfamilie": [],
+      "toelichting": "Acusación-altar tribus-este-Jordán; Jos 22:22.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4778",
+      "hebreeuws": "מֶרֶד",
+      "translit": "Mered",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Mered-pn-Esdras",
+      "grondvorm": "Mered-pn-Esdras",
+      "stamfamilie": [],
+      "toelichting": "1Cr-hijos-de-Esdras-Yeter-Mered-Efer-Yalon y 1Cr-hijos-de-Bitia-hija-Faraón-que-Mered-tomó (1Cr 4:17,18).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4779",
+      "hebreeuws": "מְרָד",
+      "translit": "mrd",
+      "woordsoort": "adjetivo",
+      "es_concordant": "rebelde-arameo",
+      "grondvorm": "rebelde-arameo",
+      "stamfamilie": [
+        "H4779",
+        "H4776"
+      ],
+      "toelichting": "Arameo rebelde-acusación-ciudad (Esd 4:12,15); cognado de H4776.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4780",
+      "hebreeuws": "מַרְדּוּת",
+      "translit": "mardut",
+      "woordsoort": "sustantivo",
+      "es_concordant": "hijo-rebelde",
+      "grondvorm": "hijo-rebelde",
+      "stamfamilie": [],
+      "toelichting": "Saúl-llama-Jonatán 'hijo-de-rebelión'; 1Sa 20:30.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4781",
+      "hebreeuws": "מְרֹדָךְ",
+      "translit": "merodach-eign-god",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Merodac-pn-deidad",
+      "grondvorm": "Merodac-pn-deidad",
+      "stamfamilie": [],
+      "toelichting": "Deidad-babilónica Marduc humillada; Jer 50:2.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4782",
+      "hebreeuws": "מָרְדֳּכַי",
+      "translit": "mordechai",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Mardoqueo-pn",
+      "grondvorm": "Mardoqueo-pn",
+      "stamfamilie": [],
+      "toelichting": "Personaje-central de Ester; quizá relacionado-Marduc.",
+      "voorkomens": 60
+    },
+    {
+      "strong": "H4783",
+      "hebreeuws": "מֻרְדָּף",
+      "translit": "murdaf",
+      "woordsoort": "adjetivo",
+      "es_concordant": "perseguidor-sin",
+      "grondvorm": "perseguidor-sin",
+      "stamfamilie": [],
+      "toelichting": "Naciones-impías perseguidas sin-impedimento; Is 14:6.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4784",
+      "hebreeuws": "מָרָה",
+      "translit": "marah",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-rebelde-mara",
+      "grondvorm": "ser-rebelde-mara",
+      "stamfamilie": [
+        "H4805"
+      ],
+      "toelichting": "Qal: ser-recalcitrante, desobedecer; distinto de mara-II (ser-amargo).",
+      "voorkomens": 45
+    },
+    {
+      "strong": "H4785",
+      "hebreeuws": "מָרָה",
+      "translit": "Marah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Mara-pn-fuente",
+      "grondvorm": "Mara-pn-fuente",
+      "stamfamilie": [],
+      "toelichting": "Manantial-amargo primera-parada-tras-mar-Rojo (Ex 15:23; Nm 33:8,9). Familia H4751a.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H4786",
+      "hebreeuws": "מֹרָה",
+      "translit": "morah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "amargura-morah",
+      "grondvorm": "amargura-morah",
+      "stamfamilie": [
+        "H4751",
+        "H4843"
+      ],
+      "toelichting": "Espíritu-amargura de Isaac y Rebeca; Gn 26:35.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4787",
+      "hebreeuws": "מָרָה",
+      "translit": "mre",
+      "woordsoort": "sustantivo",
+      "es_concordant": "amargura-substantivo",
+      "grondvorm": "amargura-substantivo",
+      "stamfamilie": [
+        "H4787",
+        "H4843"
+      ],
+      "toelichting": "Hapax Pr 14:10 corazón-conoce-su-propia-amargura; de marar.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4788",
+      "hebreeuws": "מָרוּד",
+      "translit": "marud",
+      "woordsoort": "sustantivo",
+      "es_concordant": "vagabundeo",
+      "grondvorm": "vagabundeo",
+      "stamfamilie": [],
+      "toelichting": "Is-traer-a-pobres-vagabundos y Lm-recordad-mi-aflicción y vagabundeo y Lm-aflicción y hiel (Is 58:7; Lm 1:7; 3:19).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4789",
+      "hebreeuws": "מֵרוֹז",
+      "translit": "meroz-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Meroz-pn-lugar",
+      "grondvorm": "Meroz-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Lugar maldecido por neutralidad; Jue 5:23.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4790",
+      "hebreeuws": "מֵרוֹחַ",
+      "translit": "meroach",
+      "woordsoort": "adjetivo",
+      "es_concordant": "magullado-semilla",
+      "grondvorm": "magullado-semilla",
+      "stamfamilie": [],
+      "toelichting": "Testículos-magullados excluyen sacerdocio; Lv 21:20.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4791",
+      "hebreeuws": "מָרוֹם",
+      "translit": "marom",
+      "woordsoort": "sustantivo",
+      "es_concordant": "altura-marom",
+      "grondvorm": "altura-marom",
+      "stamfamilie": [
+        "H7311a"
+      ],
+      "toelichting": "De rum (alto); lugar-elevado (montaña, cielo).",
+      "voorkomens": 54
+    },
+    {
+      "strong": "H4792",
+      "hebreeuws": "מֵרוֹם",
+      "translit": "Merom-wateren",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Aguas-Merom-pn",
+      "grondvorm": "Aguas-Merom-pn",
+      "stamfamilie": [],
+      "toelichting": "Jos-acamparon en aguas-de-Merom para luchar contra-Israel y Jos-Josué-los-hirió en aguas-de-Merom (Jos 11:5,7).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4793",
+      "hebreeuws": "מֵרוֹץ",
+      "translit": "mrutz",
+      "woordsoort": "sustantivo",
+      "es_concordant": "carrera-merots",
+      "grondvorm": "carrera-merots",
+      "stamfamilie": [
+        "H4793",
+        "H7323"
+      ],
+      "toelichting": "Hapax Ec 9:11 carrera-no-de-veloces; de ruts.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4794",
+      "hebreeuws": "מְרוּצָה",
+      "translit": "merutsah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "correr-veloz",
+      "grondvorm": "correr-veloz",
+      "stamfamilie": [
+        "H7323"
+      ],
+      "toelichting": "Ahimaas-corre-como-Sadoc-hijo-reconocimiento y salmo-corre-como-caballo y impío-corre (2Sa 18:27; Jer 8:6; 23:10).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H4795",
+      "hebreeuws": "מָרוּק",
+      "translit": "maruq",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tratamiento-belleza",
+      "grondvorm": "tratamiento-belleza",
+      "stamfamilie": [],
+      "toelichting": "Tratamiento-cosmético-mujeres tiempo-Ester; Est 2:12.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4796",
+      "hebreeuws": "מָרוֹת",
+      "translit": "marot-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Marot-pn-lugar",
+      "grondvorm": "Marot-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "'Amarguras' lugar Mi-lamentación; Mi 1:12.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4797",
+      "hebreeuws": "מִרְזַח",
+      "translit": "mirzach",
+      "woordsoort": "sustantivo",
+      "es_concordant": "banquete-lujoso",
+      "grondvorm": "banquete-lujoso",
+      "stamfamilie": [],
+      "toelichting": "Banquete-lujoso de lujosos desaparecerá; Am 6:7.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4798",
+      "hebreeuws": "מַרְזֵחַ",
+      "translit": "marzeach",
+      "woordsoort": "sustantivo",
+      "es_concordant": "banquete-luto",
+      "grondvorm": "banquete-luto",
+      "stamfamilie": [],
+      "toelichting": "No-entrar a casa-de-banquete-luto; Jer 16:5.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4799",
+      "hebreeuws": "מָרַח",
+      "translit": "marach",
+      "woordsoort": "verbo",
+      "es_concordant": "untar-torta-higos",
+      "grondvorm": "untar-torta-higos",
+      "stamfamilie": [],
+      "toelichting": "Qal; torta-higos untar en úlcera-Ezequías; Is 38:21.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4800",
+      "hebreeuws": "מֶרְחָב",
+      "translit": "merchav",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lugar-amplio",
+      "grondvorm": "lugar-amplio",
+      "stamfamilie": [
+        "H7337"
+      ],
+      "toelichting": "Espacio-abierto-amplio de liberación (2Sa 22:20; Sal 18:20; 31:9; 118:5; Hab 1:6; Os 4:16).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H4801",
+      "hebreeuws": "מֶרְחָק",
+      "translit": "merchaq",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lejania",
+      "grondvorm": "lejania",
+      "stamfamilie": [
+        "H7368"
+      ],
+      "toelichting": "De rachaq (alejar); tierra-lejana, distancia.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H4802",
+      "hebreeuws": "מַרְחֶשֶׁת",
+      "translit": "marcheshet",
+      "woordsoort": "sustantivo",
+      "es_concordant": "sarten-cazo",
+      "grondvorm": "sarten-cazo",
+      "stamfamilie": [],
+      "toelichting": "Lv-si-tu-ofrenda-sartén-aceite-mezclado y Lv-toda-ofrenda-en-sartén-y-sacerdote-le-tomará (Lv 2:7; 7:9).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4803",
+      "hebreeuws": "מָרַט",
+      "translit": "marat",
+      "woordsoort": "verbo",
+      "es_concordant": "rapar-bruñir",
+      "grondvorm": "rapar-bruñir",
+      "stamfamilie": [],
+      "toelichting": "Qal/Pual: arrancar-cabellos hasta calvicie (Esd 9:3; Neh 13:25); pulir-espada (Ez 21:14-28).",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H4804",
+      "hebreeuws": "מְרַט-Aram",
+      "translit": "merat-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "arrancar-arameo",
+      "grondvorm": "arrancar-arameo",
+      "stamfamilie": [],
+      "toelichting": "Arameo Peil-pasivo; león-alas-arrancadas; Dn 7:4.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4805",
+      "hebreeuws": "מְרִי",
+      "translit": "meri",
+      "woordsoort": "sustantivo",
+      "es_concordant": "rebeldia-meri",
+      "grondvorm": "rebeldia-meri",
+      "stamfamilie": [
+        "H4784"
+      ],
+      "toelichting": "De marah (rebelarse); resistencia-tenaz contra autoridad.",
+      "voorkomens": 23
+    }
+  ]
+}

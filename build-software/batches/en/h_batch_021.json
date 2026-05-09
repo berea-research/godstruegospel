@@ -1,0 +1,3033 @@
+{
+  "batch_id": "h_batch_021",
+  "script": "heb",
+  "datum": "2026-04-29",
+  "doeltaal": "en",
+  "bron_master": "concordant-nl-hebreeuws.json v2.1",
+  "range": "H4335-H4569b (250 entries)",
+  "entries": [
+    {
+      "strong": "H4335",
+      "hebreeuws": "מֵישַׁךְ",
+      "translit": "mesach",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Meshach",
+      "grondvorm": "Meshach",
+      "stamfamilie": [],
+      "toelichting": "Babylonian-name of Mishael (Dan 1:7; 2:49; 3:12-30). English convention: Meshach.",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H4336",
+      "hebreeuws": "מֵישַׁךְ",
+      "translit": "meshach-Aram",
+      "woordsoort": "proper-noun-aramaic",
+      "en_concordant": "Meshach-aramaic",
+      "grondvorm": "Meshach-aramaic",
+      "stamfamilie": [
+        "H4335"
+      ],
+      "toelichting": "Aramaic; Dan 2:49; 3:12-30. Hyphenated.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H4337",
+      "hebreeuws": "מֵישָׁא",
+      "translit": "mesha-Caleb",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Mesha-Calebite",
+      "grondvorm": "Mesha-Calebite",
+      "stamfamilie": [],
+      "toelichting": "Calebite (1Chr 2:42). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4338",
+      "hebreeuws": "מֵישַׁע",
+      "translit": "mesha-Moab",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Mesha-Moab",
+      "grondvorm": "Mesha-Moab",
+      "stamfamilie": [],
+      "toelichting": "Moabite king (2Kgs 3:4). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4339",
+      "hebreeuws": "מֵישָׁרִים",
+      "translit": "mesharim",
+      "woordsoort": "noun",
+      "en_concordant": "uprightness-equity",
+      "grondvorm": "uprightness-equity",
+      "stamfamilie": [
+        "H3474"
+      ],
+      "toelichting": "Ps 9:8; 17:2; 58:1; 75:2; 96:10; 98:9; 99:4; Prov 1:3; 2:9; 8:6; 17:26; 23:16,31; Ecc 12:10; Song 1:4; 7:9; Isa 26:7; 33:15; Dan 11:6,17. Hyphenated.",
+      "voorkomens": 19
+    },
+    {
+      "strong": "H4340",
+      "hebreeuws": "מֵיתָר",
+      "translit": "meytar",
+      "woordsoort": "noun",
+      "en_concordant": "tent-cord",
+      "grondvorm": "tent-cord",
+      "stamfamilie": [],
+      "toelichting": "Ex 35:18; 39:40; Num 3:26,37; 4:26,32; Job 4:21; Isa 54:2; Jer 10:20. Hyphenated.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H4341",
+      "hebreeuws": "מַכְאֹב",
+      "translit": "machov",
+      "woordsoort": "noun",
+      "en_concordant": "sorrow-pain",
+      "grondvorm": "sorrow-pain",
+      "stamfamilie": [
+        "H3510"
+      ],
+      "toelichting": "Ex 3:7; 2Chr 6:29; Job 33:19; Ps 32:10; 38:17; 69:26; Ecc 1:18; 2:23; Isa 53:3,4; Jer 30:15; 45:3; 51:8; Lam 1:12,18. Hyphenated.",
+      "voorkomens": 16
+    },
+    {
+      "strong": "H4342",
+      "hebreeuws": "מַכְבִּיר",
+      "translit": "machbir",
+      "woordsoort": "adjective",
+      "en_concordant": "abundantly",
+      "grondvorm": "abundantly",
+      "stamfamilie": [],
+      "toelichting": "Job 35:16. Standard concordant.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4343",
+      "hebreeuws": "מַכְבֵּנָה",
+      "translit": "machbenah",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Machbenah",
+      "grondvorm": "Machbenah",
+      "stamfamilie": [],
+      "toelichting": "Calebite town (1Chr 2:49). English convention: Machbenah.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4345",
+      "hebreeuws": "מִכְבָּר",
+      "translit": "mikhbar",
+      "woordsoort": "noun",
+      "en_concordant": "bronze-grate",
+      "grondvorm": "bronze-grate",
+      "stamfamilie": [],
+      "toelichting": "Ex 27:4; 35:16; 38:4,5,30; 39:39. Hyphenated.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H4346",
+      "hebreeuws": "מַכְבֵּר",
+      "translit": "makbeyr",
+      "woordsoort": "noun",
+      "en_concordant": "thick-cloth",
+      "grondvorm": "thick-cloth",
+      "stamfamilie": [],
+      "toelichting": "2Kgs 8:15. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4347",
+      "hebreeuws": "מַכָּה",
+      "translit": "makkah",
+      "woordsoort": "noun",
+      "en_concordant": "blow-wound",
+      "grondvorm": "blow-wound",
+      "stamfamilie": [
+        "H5221"
+      ],
+      "toelichting": "Strike, plague, defeat (Lev 26:21; Num 11:33; Deut 7:19; 25:3; 28:59,61; 29:21; Josh 10:10,20; Judg 11:33; 15:8; 1Sam 4:8,10; 6:19; 14:14,30; 19:8; 23:5; 1Kgs 20:21,29; 22:35; Esth 9:5; Prov 20:30; 27:6; Isa 1:6; 10:26; 14:6; 27:7; 30:26; Jer 6:7; 10:19; 14:17; 15:18; 19:8; 30:14,17; 49:17; 50:13; Lam 2:13; Mic 1:9; Nah 3:19; Zech 13:6). Hyphenated.",
+      "voorkomens": 48
+    },
+    {
+      "strong": "H4348",
+      "hebreeuws": "מִכְוָה",
+      "translit": "mikhvah",
+      "woordsoort": "noun",
+      "en_concordant": "burn-wound",
+      "grondvorm": "burn-wound",
+      "stamfamilie": [
+        "H3554"
+      ],
+      "toelichting": "Lev 13:24,25,28. Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4349",
+      "hebreeuws": "מָכוֹן",
+      "translit": "makon",
+      "woordsoort": "noun",
+      "en_concordant": "fixed-place",
+      "grondvorm": "fixed-place",
+      "stamfamilie": [
+        "H3559a"
+      ],
+      "toelichting": "Ex 15:17; 1Kgs 8:13,39,43,49; 2Chr 6:2,30,33,39; Ezr 2:68; Ps 33:14; 89:14; 97:2; 104:5; Isa 4:5; 18:4; Dan 8:11. Hyphenated.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H4350",
+      "hebreeuws": "מְכוֹנָה",
+      "translit": "mechonah",
+      "woordsoort": "noun",
+      "en_concordant": "base-stand",
+      "grondvorm": "base-stand",
+      "stamfamilie": [
+        "H3559a"
+      ],
+      "toelichting": "1Kgs 7:27-43; 2Kgs 16:17; 25:13,16; 2Chr 4:14; Ezr 3:3; Jer 27:19; 52:17,20. Hyphenated.",
+      "voorkomens": 25
+    },
+    {
+      "strong": "H4351",
+      "hebreeuws": "מְכוּרָה",
+      "translit": "mekhorah",
+      "woordsoort": "noun",
+      "en_concordant": "origin-birthplace",
+      "grondvorm": "origin-birthplace",
+      "stamfamilie": [],
+      "toelichting": "Eze 16:3; 21:30; 29:14. Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4352",
+      "hebreeuws": "מָכִי",
+      "translit": "maki",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Machi",
+      "grondvorm": "Machi",
+      "stamfamilie": [],
+      "toelichting": "Father of Geuel (Num 13:15). English convention: Machi.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4353",
+      "hebreeuws": "מָכִיר",
+      "translit": "machir",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Machir",
+      "grondvorm": "Machir",
+      "stamfamilie": [],
+      "toelichting": "Son of Manasseh (Gen 50:23; Num 26:29; 27:1; 32:39,40; 36:1; Deut 3:15; Josh 13:31; 17:1,3; Judg 5:14; 2Sam 9:4,5; 17:27; 1Chr 2:21,23; 7:14-17). English convention: Machir.",
+      "voorkomens": 22
+    },
+    {
+      "strong": "H4354",
+      "hebreeuws": "מָכִירִי",
+      "translit": "makiri",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Machirite",
+      "grondvorm": "Machirite",
+      "stamfamilie": [
+        "H4353"
+      ],
+      "toelichting": "Gentilic (Num 26:29). English convention: Machirite.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4355",
+      "hebreeuws": "מָכַךְ",
+      "translit": "makak",
+      "woordsoort": "verb",
+      "en_concordant": "sink-fail",
+      "grondvorm": "sink-fail",
+      "stamfamilie": [],
+      "toelichting": "Qal/Ni/Hophal: be-low, be-humble (Job 24:24; Ps 106:43; Ecc 10:18). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4356",
+      "hebreeuws": "מִכְלָה",
+      "translit": "mikhla",
+      "woordsoort": "noun",
+      "en_concordant": "sheepfold",
+      "grondvorm": "sheepfold",
+      "stamfamilie": [],
+      "toelichting": "Hab 3:17; Ps 50:9; 78:70. Standard concordant.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4357",
+      "hebreeuws": "מִכְלֹת",
+      "translit": "michlot",
+      "woordsoort": "noun",
+      "en_concordant": "perfection",
+      "grondvorm": "perfection",
+      "stamfamilie": [
+        "H3634"
+      ],
+      "toelichting": "1Kgs 6:38. Standard concordant.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4358",
+      "hebreeuws": "מִכְלוֹל",
+      "translit": "miklol",
+      "woordsoort": "noun",
+      "en_concordant": "complete-splendor",
+      "grondvorm": "complete-splendor",
+      "stamfamilie": [
+        "H3634"
+      ],
+      "toelichting": "Eze 23:12; 38:4. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4359",
+      "hebreeuws": "מִכְלָל",
+      "translit": "michlal",
+      "woordsoort": "noun",
+      "en_concordant": "perfect-beauty",
+      "grondvorm": "perfect-beauty",
+      "stamfamilie": [
+        "H3634"
+      ],
+      "toelichting": "Ps 50:2. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4360",
+      "hebreeuws": "מַכְלֻל",
+      "translit": "machlul",
+      "woordsoort": "noun",
+      "en_concordant": "sumptuous-clothes",
+      "grondvorm": "sumptuous-clothes",
+      "stamfamilie": [],
+      "toelichting": "Eze 27:24. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4362",
+      "hebreeuws": "מִכְמָן",
+      "translit": "michman",
+      "woordsoort": "noun",
+      "en_concordant": "hidden-treasure",
+      "grondvorm": "hidden-treasure",
+      "stamfamilie": [],
+      "toelichting": "Dan 11:43. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4363",
+      "hebreeuws": "מִכְמָשׂ",
+      "translit": "michmas",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Michmash",
+      "grondvorm": "Michmash",
+      "stamfamilie": [],
+      "toelichting": "Town of Benjamin (1Sam 13:2,5,11,16,23; 14:5,31; Ezr 2:27; Neh 7:31; 11:31; Isa 10:28). English convention: Michmash.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H4364a",
+      "hebreeuws": "מִכְמָר-I",
+      "translit": "michmar-I",
+      "woordsoort": "noun",
+      "en_concordant": "hunting-net",
+      "grondvorm": "hunting-net",
+      "stamfamilie": [],
+      "toelichting": "Isa 51:20. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4364b",
+      "hebreeuws": "מַכְמֹר-II",
+      "translit": "machmor-II",
+      "woordsoort": "noun",
+      "en_concordant": "hunter-net",
+      "grondvorm": "hunter-net",
+      "stamfamilie": [
+        "H4364a"
+      ],
+      "toelichting": "Ps 141:10. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4365a",
+      "hebreeuws": "מִכְמֶרֶת-I",
+      "translit": "michmeret-I",
+      "woordsoort": "noun",
+      "en_concordant": "fishing-net",
+      "grondvorm": "fishing-net",
+      "stamfamilie": [],
+      "toelichting": "Hab 1:15,16. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4365b",
+      "hebreeuws": "מִכְמֹרֶת-II",
+      "translit": "michmoret-II",
+      "woordsoort": "noun",
+      "en_concordant": "fishing-net",
+      "grondvorm": "fishing-net",
+      "stamfamilie": [
+        "H4365a"
+      ],
+      "toelichting": "Isa 19:8. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4366",
+      "hebreeuws": "מִכְמְתָת",
+      "translit": "mikhmethath",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Michmethath",
+      "grondvorm": "Michmethath",
+      "stamfamilie": [],
+      "toelichting": "Ephraim border (Josh 16:6; 17:7). English convention: Michmethath.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4367",
+      "hebreeuws": "מַכְנַדְבַי",
+      "translit": "machnadbay",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Machnadebai",
+      "grondvorm": "Machnadebai",
+      "stamfamilie": [],
+      "toelichting": "Post-exilic returnee (Ezr 10:40). English convention: Machnadebai.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4368",
+      "hebreeuws": "מְכֹנָה",
+      "translit": "mechonah-pn",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Mekonah",
+      "grondvorm": "Mekonah",
+      "stamfamilie": [],
+      "toelichting": "Town of Judah (Neh 11:28). English convention: Mekonah.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4369",
+      "hebreeuws": "מְכוֹנָה",
+      "translit": "mekuneh",
+      "woordsoort": "noun",
+      "en_concordant": "pedestal",
+      "grondvorm": "pedestal",
+      "stamfamilie": [
+        "H3559a"
+      ],
+      "toelichting": "Variant. Standard concordant.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4370",
+      "hebreeuws": "מִכְנָס",
+      "translit": "mikhnas",
+      "woordsoort": "noun",
+      "en_concordant": "linen-breeches",
+      "grondvorm": "linen-breeches",
+      "stamfamilie": [],
+      "toelichting": "Ex 28:42; 39:28; Lev 6:10; 16:4; Eze 44:18. Hyphenated.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H4371",
+      "hebreeuws": "מֶכֶס",
+      "translit": "mekes",
+      "woordsoort": "noun",
+      "en_concordant": "tribute-tax",
+      "grondvorm": "tribute-tax",
+      "stamfamilie": [
+        "H4373"
+      ],
+      "toelichting": "Num 31:28,37,38,39,40,41. Hyphenated.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H4372",
+      "hebreeuws": "מִכְסֶה",
+      "translit": "mikseh",
+      "woordsoort": "noun",
+      "en_concordant": "covering",
+      "grondvorm": "covering",
+      "stamfamilie": [
+        "H3680"
+      ],
+      "toelichting": "Gen 8:13; Ex 26:14; 35:11; 36:19; 39:34; 40:19; Num 3:25; 4:8,10,11,12,25; Isa 23:18. Standard concordant.",
+      "voorkomens": 16
+    },
+    {
+      "strong": "H4373",
+      "hebreeuws": "מִכְסָה",
+      "translit": "mikhsah",
+      "woordsoort": "noun",
+      "en_concordant": "computation-portion",
+      "grondvorm": "computation-portion",
+      "stamfamilie": [
+        "H4371"
+      ],
+      "toelichting": "Ex 12:4; Lev 27:23. Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4374",
+      "hebreeuws": "מְכַסֶּה",
+      "translit": "mekhasseh",
+      "woordsoort": "noun",
+      "en_concordant": "covering-cloak",
+      "grondvorm": "covering-cloak",
+      "stamfamilie": [
+        "H3680"
+      ],
+      "toelichting": "Isa 14:11; 23:18. Hyphenated.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4375",
+      "hebreeuws": "מַכְפֵּלָה",
+      "translit": "makhpelah",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Machpelah",
+      "grondvorm": "Machpelah",
+      "stamfamilie": [],
+      "toelichting": "Cave at Hebron (Gen 23:9,17,19; 25:9; 49:30; 50:13). English convention: Machpelah.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H4376",
+      "hebreeuws": "מָכַר",
+      "translit": "makar",
+      "woordsoort": "verb",
+      "en_concordant": "sell",
+      "grondvorm": "sell",
+      "stamfamilie": [
+        "H4377",
+        "H4465"
+      ],
+      "toelichting": "Qal/Ni/Hithp: sell, hand-over (Gen 25:31,33; 31:15; 37:27,28,36; 45:4,5; 47:20,22; Ex 21:7,8,16,35,37; 22:1,2; Lev 25:14-50; 27:20,27,28; Deut 14:21; 15:12; 21:14; 24:7; 28:68; 32:30; Judg 2:14; 3:8; 4:2,9; 10:7; 1Sam 12:9; 1Kgs 21:20,25; 2Kgs 4:7; 17:17; Neh 5:8; 10:31; 13:15,16,20; Esth 7:4; Ps 44:12; 105:17; Prov 23:23; 31:24; Isa 50:1; 52:3; Jer 34:14; Eze 7:13; 30:12; 48:14; Joel 3:3,6,7,8; Amos 2:6; Nah 3:4; Zech 11:5). Standard concordant.",
+      "voorkomens": 81
+    },
+    {
+      "strong": "H4377",
+      "hebreeuws": "מֶכֶר",
+      "translit": "mekher",
+      "woordsoort": "noun",
+      "en_concordant": "merchandise-price",
+      "grondvorm": "merchandise-price",
+      "stamfamilie": [
+        "H4376"
+      ],
+      "toelichting": "Num 20:19; Neh 13:16; Prov 31:10; Eze 27:9,13,17,19,25,27,33,34. Hyphenated.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H4378",
+      "hebreeuws": "מַכָּר",
+      "translit": "makkar",
+      "woordsoort": "noun",
+      "en_concordant": "acquaintance",
+      "grondvorm": "acquaintance",
+      "stamfamilie": [
+        "H5234"
+      ],
+      "toelichting": "2Kgs 12:5,7,8. Standard concordant.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4379",
+      "hebreeuws": "מִכְרֶה",
+      "translit": "michreh",
+      "woordsoort": "noun",
+      "en_concordant": "salt-pit",
+      "grondvorm": "salt-pit",
+      "stamfamilie": [],
+      "toelichting": "Zeph 2:9. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4380",
+      "hebreeuws": "מְכֵרָה",
+      "translit": "mekerah",
+      "woordsoort": "noun",
+      "en_concordant": "weapon",
+      "grondvorm": "weapon",
+      "stamfamilie": [],
+      "toelichting": "Gen 49:5. Standard concordant.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4381",
+      "hebreeuws": "מִכְרִי",
+      "translit": "michri",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Michri",
+      "grondvorm": "Michri",
+      "stamfamilie": [],
+      "toelichting": "Benjamite (1Chr 9:8). English convention: Michri.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4382",
+      "hebreeuws": "מְכֵרָתִי",
+      "translit": "mecherati",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Mecherathite",
+      "grondvorm": "Mecherathite",
+      "stamfamilie": [],
+      "toelichting": "David's mighty man (1Chr 11:36). English convention: Mecherathite.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4383",
+      "hebreeuws": "מִכְשׁוֹל",
+      "translit": "mikshol",
+      "woordsoort": "noun",
+      "en_concordant": "stumbling-block",
+      "grondvorm": "stumbling-block",
+      "stamfamilie": [
+        "H3782"
+      ],
+      "toelichting": "Lev 19:14; 1Sam 25:31; Ps 119:165; Isa 8:14; 57:14; Jer 6:21; Eze 3:20; 7:19; 14:3,4,7; 18:30; 21:15; 44:12. Hyphenated.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H4384",
+      "hebreeuws": "מַכְשֵׁלָה",
+      "translit": "makshelah",
+      "woordsoort": "noun",
+      "en_concordant": "ruin-stumble",
+      "grondvorm": "ruin-stumble",
+      "stamfamilie": [
+        "H3782"
+      ],
+      "toelichting": "Isa 3:6; Zeph 1:3. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4385",
+      "hebreeuws": "מִכְתָּב",
+      "translit": "mikhtav",
+      "woordsoort": "noun",
+      "en_concordant": "writing-document",
+      "grondvorm": "writing-document",
+      "stamfamilie": [
+        "H3789"
+      ],
+      "toelichting": "Ex 32:16; 39:30; Deut 10:4; 2Chr 21:12; 35:4; 36:22; Ezr 1:1; Isa 38:9. Hyphenated.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H4386",
+      "hebreeuws": "מְכִתָּה",
+      "translit": "mechittah",
+      "woordsoort": "noun",
+      "en_concordant": "crushing",
+      "grondvorm": "crushing",
+      "stamfamilie": [],
+      "toelichting": "Isa 30:14. Standard concordant.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4387",
+      "hebreeuws": "מִכְתָּם",
+      "translit": "mikhtam",
+      "woordsoort": "noun",
+      "en_concordant": "miktam-poem",
+      "grondvorm": "miktam-poem",
+      "stamfamilie": [],
+      "toelichting": "Psalm-title (Ps 16:1; 56:1; 57:1; 58:1; 59:1; 60:1). Hyphenated.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H4388",
+      "hebreeuws": "מַכְתֵּשׁ",
+      "translit": "makhtesh",
+      "woordsoort": "noun",
+      "en_concordant": "mortar-hollow",
+      "grondvorm": "mortar-hollow",
+      "stamfamilie": [],
+      "toelichting": "Judg 15:19; Prov 27:22. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4389",
+      "hebreeuws": "הַמַּכְתֵּשׁ",
+      "translit": "makhtesh-pn",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Maktesh",
+      "grondvorm": "Maktesh",
+      "stamfamilie": [],
+      "toelichting": "District of Jerusalem (Zeph 1:11). English convention: Maktesh.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4390",
+      "hebreeuws": "מָלֵא",
+      "translit": "male",
+      "woordsoort": "verb",
+      "en_concordant": "fill",
+      "grondvorm": "fill",
+      "stamfamilie": [
+        "H4392",
+        "H4393"
+      ],
+      "toelichting": "Qal/Ni/Pi/Pu/Hithp: fill, be-full, accomplish (~252 occurrences spanning all OT). Standard concordant.",
+      "voorkomens": 252
+    },
+    {
+      "strong": "H4391",
+      "hebreeuws": "מְלָא",
+      "translit": "mela-Aram",
+      "woordsoort": "verb-aramaic",
+      "en_concordant": "fill-aramaic",
+      "grondvorm": "fill-aramaic",
+      "stamfamilie": [
+        "H4390"
+      ],
+      "toelichting": "Aramaic; Dan 2:35; 3:19. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4392",
+      "hebreeuws": "מָלֵא",
+      "translit": "male",
+      "woordsoort": "adjective",
+      "en_concordant": "full",
+      "grondvorm": "full",
+      "stamfamilie": [
+        "H4390",
+        "H4393"
+      ],
+      "toelichting": "Adjective from √male (fill); concordant 'full'. NL 'vol'.",
+      "voorkomens": 58
+    },
+    {
+      "strong": "H4393",
+      "hebreeuws": "מְלֹא",
+      "translit": "melo",
+      "woordsoort": "noun",
+      "en_concordant": "fullness",
+      "grondvorm": "fullness",
+      "stamfamilie": [
+        "H4390"
+      ],
+      "toelichting": "From √male (be-full); that-which-fills a space or measure. NL 'volheid'.",
+      "voorkomens": 38
+    },
+    {
+      "strong": "H4394",
+      "hebreeuws": "מִלֻּאִים",
+      "translit": "milluim",
+      "woordsoort": "noun",
+      "en_concordant": "consecration-offerings",
+      "grondvorm": "consecration-offerings",
+      "stamfamilie": [
+        "H4390"
+      ],
+      "toelichting": "From √male (fill); 'fillings of the hand', priest-installation offerings (Lev 8). Compound preserves the ceremonial 'fill-the-hand' kernel.",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H4395",
+      "hebreeuws": "מְלֵאָה",
+      "translit": "meleah",
+      "woordsoort": "noun",
+      "en_concordant": "full-yield",
+      "grondvorm": "full-yield",
+      "stamfamilie": [
+        "H4390"
+      ],
+      "toelichting": "From √male (be-full). Harvest-fullness / firstfruits-bond (Ex 22:29; Num 18:27; Deu 22:9; Jer 2:3). Hyphenated for the firstfruits-context.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H4396",
+      "hebreeuws": "מִלֻּאָה",
+      "translit": "milluah",
+      "woordsoort": "noun",
+      "en_concordant": "setting-of-stones",
+      "grondvorm": "setting-of-stones",
+      "stamfamilie": [
+        "H4390"
+      ],
+      "toelichting": "From √male (fill); jewel-setting in priestly garments (Ex 28:17,20; 39:13). Hyphenated for the technical compound.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4397",
+      "hebreeuws": "מלאך",
+      "translit": "malak",
+      "woordsoort": "noun",
+      "en_concordant": "messenger",
+      "grondvorm": "messenger",
+      "stamfamilie": [
+        "H4397"
+      ],
+      "toelichting": "Agent dispatched on a task; covers human envoys, prophets and the divine messenger ('angel'). KJV/ESV split into 'angel/messenger' contextually; the seven-anchor distribution shows one kernel of dispatch-function across all 212 occurrences. Greek angelos (LXX) preserves the same kernel.",
+      "voorkomens": 212
+    },
+    {
+      "strong": "H4398",
+      "hebreeuws": "מַלְאָךְ",
+      "translit": "malakh-Aram",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "messenger-aramaic",
+      "grondvorm": "messenger-aramaic",
+      "stamfamilie": [
+        "H4397"
+      ],
+      "toelichting": "Aramaic counterpart of H4397; Dan 3:28; 6:23. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4399",
+      "hebreeuws": "מלאכה",
+      "translit": "melakhah",
+      "woordsoort": "noun",
+      "en_concordant": "work",
+      "grondvorm": "work",
+      "stamfamilie": [
+        "H4399",
+        "H4397"
+      ],
+      "toelichting": "Substantive of malak-root; the activity-and-thing-made by the agent. Covers tabernacle workmanship (Ex 36), business (Gen 39:11), service. Concordant kernel 'work' across 166 occurrences.",
+      "voorkomens": 166
+    },
+    {
+      "strong": "H4400",
+      "hebreeuws": "מַלְאֲכוּת",
+      "translit": "malachut",
+      "woordsoort": "noun",
+      "en_concordant": "message-business",
+      "grondvorm": "message-business",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Hag 1:13). Abstract-noun from malak; the messenger-task. Hyphenated to bridge 'message' (the dispatched word) and 'business' (the work-aspect).",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4401",
+      "hebreeuws": "מַלְאָכִי",
+      "translit": "malachi-eign",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Malachi",
+      "grondvorm": "Malachi",
+      "stamfamilie": [],
+      "toelichting": "Proper-noun, prophet (Mal 1:1). Means 'my-messenger'. English convention: Malachi.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4402",
+      "hebreeuws": "מִלֵּאת",
+      "translit": "millet-zetting",
+      "woordsoort": "noun",
+      "en_concordant": "setting",
+      "grondvorm": "setting",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Song 5:14). From √male; jewel-setting, contextually narrower than H4396.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4403",
+      "hebreeuws": "מַלְבּוּשׁ",
+      "translit": "malbush",
+      "woordsoort": "noun",
+      "en_concordant": "garment-of-state",
+      "grondvorm": "garment-of-state",
+      "stamfamilie": [
+        "H3830"
+      ],
+      "toelichting": "From √labash (clothe); royal/festal apparel (1Ki 10:5; Zep 1:8; Eze 16:13). Hyphenated for the formal-occasion register; distinguished from beged H899 ('garment') and levush H3830 ('clothing').",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H4404",
+      "hebreeuws": "מַלְבֵּן",
+      "translit": "malben-steenvloer",
+      "woordsoort": "noun",
+      "en_concordant": "brick-pavement",
+      "grondvorm": "brick-pavement",
+      "stamfamilie": [
+        "H3835"
+      ],
+      "toelichting": "From √laban (be-white) / leven (brick); brick-floor (2Sa 12:31; Jer 43:9; Nah 3:14). Hyphenated for the technical compound.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4405",
+      "hebreeuws": "מִלָּה",
+      "translit": "millah",
+      "woordsoort": "noun",
+      "en_concordant": "word-II",
+      "grondvorm": "word-II",
+      "stamfamilie": [],
+      "toelichting": "Late-Hebrew noun, mainly Job. Distinguished from H1697 davar by post-exilic literary register. Suffix '-II' marks lexical homonymy with the davar-domain.",
+      "voorkomens": 38
+    },
+    {
+      "strong": "H4406",
+      "hebreeuws": "מִלָּה-Aram",
+      "translit": "millah-Aram",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "word-aramaic",
+      "grondvorm": "word-aramaic",
+      "stamfamilie": [
+        "H4405"
+      ],
+      "toelichting": "Aramaic counterpart; Dan/Ezra. Hyphenated.",
+      "voorkomens": 24
+    },
+    {
+      "strong": "H4407",
+      "hebreeuws": "מִלּוֹא",
+      "translit": "millo",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Millo",
+      "grondvorm": "Millo",
+      "stamfamilie": [
+        "H4390"
+      ],
+      "toelichting": "Place/structure-name, Jerusalem rampart (2Sa 5:9; 1Ki 9:15,24; 11:27; 2Ki 12:21; 2Chr 32:5). English convention: Millo.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H4408",
+      "hebreeuws": "מַלּוּחַ",
+      "translit": "malluach",
+      "woordsoort": "noun",
+      "en_concordant": "saltwort",
+      "grondvorm": "saltwort",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Job 30:4). Edible salt-plant. Standard botanical term.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4409a",
+      "hebreeuws": "מַלּוּךְ",
+      "translit": "Malluk",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Malluch",
+      "grondvorm": "Malluch",
+      "stamfamilie": [],
+      "toelichting": "Proper-noun, multiple persons. English convention: Malluch.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H4409b",
+      "hebreeuws": "מַלּוּכִי",
+      "translit": "malluchi",
+      "woordsoort": "noun",
+      "en_concordant": "Malluchi",
+      "grondvorm": "Malluchi",
+      "stamfamilie": [
+        "H4409"
+      ],
+      "toelichting": "Family-name (Neh 12:14). MT-variant of H4409a. English convention.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4410",
+      "hebreeuws": "מְלוּכָה",
+      "translit": "melucha",
+      "woordsoort": "noun",
+      "en_concordant": "kingship",
+      "grondvorm": "kingship",
+      "stamfamilie": [
+        "H4427",
+        "H4428",
+        "H4429"
+      ],
+      "toelichting": "Abstract-noun from malak (reign); the office and dignity of being-king. Distinguished from H4438 malkuth ('royalty', state) and H4467 mamlakah ('kingdom', realm). 24 occurrences.",
+      "voorkomens": 24
+    },
+    {
+      "strong": "H4411",
+      "hebreeuws": "מָלוֹן",
+      "translit": "malon",
+      "woordsoort": "noun",
+      "en_concordant": "lodging-place",
+      "grondvorm": "lodging-place",
+      "stamfamilie": [
+        "H3885"
+      ],
+      "toelichting": "From √lin (lodge); a place to spend the night (Gen 42:27; 43:21; Ex 4:24; Jos 4:3,8). Hyphenated for the place-noun sense.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H4412",
+      "hebreeuws": "מְלוּנָה",
+      "translit": "melunah-schuilhut",
+      "woordsoort": "noun",
+      "en_concordant": "shelter-hut",
+      "grondvorm": "shelter-hut",
+      "stamfamilie": [
+        "H3885a"
+      ],
+      "toelichting": "From √lin (lodge); makeshift watch-shelter (Isa 1:8; 24:20). Hyphenated to capture both shelter and watchpost senses.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4413",
+      "hebreeuws": "מַלּוֹתִי",
+      "translit": "Mallothi",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Mallothi",
+      "grondvorm": "Mallothi",
+      "stamfamilie": [],
+      "toelichting": "Proper-noun, son of Heman, 19th Levitical temple-singer division (1Chr 25:4,26). English convention: Mallothi.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4414a",
+      "hebreeuws": "מָלַח",
+      "translit": "malach-I",
+      "woordsoort": "verb",
+      "en_concordant": "vanish-as-smoke",
+      "grondvorm": "vanish-as-smoke",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Isa 51:6) — heavens vanish like smoke. Hyphenated for the simile-bound sense; distinguished from homonym H4414b.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4414b",
+      "hebreeuws": "מָלַח",
+      "translit": "malach-zouten",
+      "woordsoort": "verb",
+      "en_concordant": "salt-rub-season",
+      "grondvorm": "salt-rub-season",
+      "stamfamilie": [
+        "H4417"
+      ],
+      "toelichting": "Homonym of H4414a (same consonants, different root). Salt-rubbing of newborns (Eze 16:4); seasoning of offerings (Lev 2:13). Hyphenated chain.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4415",
+      "hebreeuws": "מְלַח",
+      "translit": "mlch",
+      "woordsoort": "verb-aramaic",
+      "en_concordant": "eat-salt-aramaic",
+      "grondvorm": "eat-salt-aramaic",
+      "stamfamilie": [
+        "H4415"
+      ],
+      "toelichting": "Aramaic idiom (Ezr 4:14): 'eat the salt of the palace' = be in the king's pay. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4416",
+      "hebreeuws": "מְלַח",
+      "translit": "melach-Aram-zout",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "salt-aramaic",
+      "grondvorm": "salt-aramaic",
+      "stamfamilie": [
+        "Aram-trouw-bond"
+      ],
+      "toelichting": "Aramaic counterpart; salt as covenant-bond (Ezr 4:14; 6:9; 7:22). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4417",
+      "hebreeuws": "מֶלַח",
+      "translit": "melach",
+      "woordsoort": "noun",
+      "en_concordant": "salt",
+      "grondvorm": "salt",
+      "stamfamilie": [],
+      "toelichting": "Standard. The mineral and its covenant-symbolism (Lev 2:13; Num 18:19; 2Chr 13:5; 2Ki 2:20-21). 28 occurrences.",
+      "voorkomens": 28
+    },
+    {
+      "strong": "H4418",
+      "hebreeuws": "מְלָח",
+      "translit": "melach-vod",
+      "woordsoort": "noun",
+      "en_concordant": "rags",
+      "grondvorm": "rags",
+      "stamfamilie": [],
+      "toelichting": "Hapax-cluster (Jer 38:11,12). Worn-out garments, plural-form.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4419",
+      "hebreeuws": "מַלָּח",
+      "translit": "mallach",
+      "woordsoort": "noun",
+      "en_concordant": "sailor",
+      "grondvorm": "sailor",
+      "stamfamilie": [
+        "H4414a"
+      ],
+      "toelichting": "From √melach (salt); 'salt-man', sailor (Eze 27:9,27,29; Jon 1:5). Standard occupational term.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4420",
+      "hebreeuws": "מְלֵחָה",
+      "translit": "melechah",
+      "woordsoort": "noun",
+      "en_concordant": "salt-land",
+      "grondvorm": "salt-land",
+      "stamfamilie": [
+        "H4417"
+      ],
+      "toelichting": "From √melach; barren saline waste (Job 39:6; Ps 107:34; Jer 17:6). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4421",
+      "hebreeuws": "מלחמה",
+      "translit": "milchamah",
+      "woordsoort": "noun",
+      "en_concordant": "battle",
+      "grondvorm": "battle",
+      "stamfamilie": [
+        "H4421",
+        "H3898a"
+      ],
+      "toelichting": "From √lacham (fight). Concordant 'battle' across 319 occurrences. KJV/ESV use 'battle/war' interchangeably; 'battle' is the engagement-kernel; 'war' (broader campaign) surfaces as render-context.",
+      "voorkomens": 319
+    },
+    {
+      "strong": "H4422",
+      "hebreeuws": "מלט",
+      "translit": "malat",
+      "woordsoort": "verb",
+      "en_concordant": "escape",
+      "grondvorm": "escape",
+      "stamfamilie": [
+        "H4422"
+      ],
+      "toelichting": "Verb of slipping-away (Ni/Pi/Hi). 94 occurrences. KJV uses 'deliver/escape' contextually; 'escape' captures the kernel; causative 'cause-to-escape / deliver' surfaces in render.",
+      "voorkomens": 94
+    },
+    {
+      "strong": "H4423",
+      "hebreeuws": "מֶלֶט",
+      "translit": "melet",
+      "woordsoort": "noun",
+      "en_concordant": "mortar",
+      "grondvorm": "mortar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jer 43:9). Lime-mortar binder for brick. Standard.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4424",
+      "hebreeuws": "מְלַטְיָה",
+      "translit": "mltie",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Melatiah",
+      "grondvorm": "Melatiah",
+      "stamfamilie": [
+        "H4424"
+      ],
+      "toelichting": "Proper-noun (Neh 3:7). Means 'YH delivers'. English convention.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4425",
+      "hebreeuws": "מְלִילָה",
+      "translit": "melilah",
+      "woordsoort": "noun",
+      "en_concordant": "head-of-grain",
+      "grondvorm": "head-of-grain",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Deu 23:25). Plucked grain-ear. Hyphenated compound.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4426",
+      "hebreeuws": "מְלִיצָה",
+      "translit": "melitsah",
+      "woordsoort": "noun",
+      "en_concordant": "satire-riddle",
+      "grondvorm": "satire-riddle",
+      "stamfamilie": [
+        "Sp-Hab-rede"
+      ],
+      "toelichting": "Used twice (Pro 1:6; Hab 2:6). Mocking-proverb / enigmatic-saying. Hyphenated to bridge 'satire' (Hab) and 'riddle' (Pro).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4427a",
+      "hebreeuws": "מלך",
+      "translit": "malak",
+      "woordsoort": "verb",
+      "en_concordant": "reign",
+      "grondvorm": "reign",
+      "stamfamilie": [
+        "H4427a",
+        "H4428"
+      ],
+      "toelichting": "Verb 'be-king/reign'. 350 occurrences. KJV/ESV use 'reign/be-king/make-king' (Hi); 'reign' captures the kernel. Distinguished from mashal (rule, H4910), which has a broader 'rule-over' sense including non-royal authority.",
+      "voorkomens": 350
+    },
+    {
+      "strong": "H4427b",
+      "hebreeuws": "מָלַךְ",
+      "translit": "mlk",
+      "woordsoort": "verb",
+      "en_concordant": "take-counsel",
+      "grondvorm": "take-counsel",
+      "stamfamilie": [
+        "H4427b",
+        "H4427a"
+      ],
+      "toelichting": "Homonym of H4427a (Neh 5:7). Reflexive 'take counsel with oneself'. Hyphenated to mark the deliberative homonym.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4428",
+      "hebreeuws": "מלך",
+      "translit": "melek",
+      "woordsoort": "noun",
+      "en_concordant": "king",
+      "grondvorm": "king",
+      "stamfamilie": [
+        "H4428",
+        "H4427",
+        "H4410",
+        "H4438"
+      ],
+      "toelichting": "Standard. 2519 occurrences — most-frequent royal noun in OT.",
+      "voorkomens": 2519
+    },
+    {
+      "strong": "H4429",
+      "hebreeuws": "מֶלֶךְ",
+      "translit": "Melekh",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Melech",
+      "grondvorm": "Melech",
+      "stamfamilie": [
+        "H4428"
+      ],
+      "toelichting": "Proper-noun (1Chr 8:35; 9:41). Means 'king'. English convention.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4430",
+      "hebreeuws": "מלך",
+      "translit": "melek-Aram",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "king-aramaic",
+      "grondvorm": "king-aramaic",
+      "stamfamilie": [
+        "H4430",
+        "H4428"
+      ],
+      "toelichting": "Aramaic counterpart of melek; Ezr/Dan. 182 occurrences. Hyphenated.",
+      "voorkomens": 182
+    },
+    {
+      "strong": "H4431",
+      "hebreeuws": "מִלְכָּא",
+      "translit": "milka-Aram",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "counsel-aramaic",
+      "grondvorm": "counsel-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Dan 4:24). Aramaic 'counsel'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4432",
+      "hebreeuws": "מֹלֶךְ",
+      "translit": "Molek",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Molech",
+      "grondvorm": "Molech",
+      "stamfamilie": [
+        "H4428"
+      ],
+      "toelichting": "Ammonite deity to whom child-sacrifice was offered (Lev 18:21; 20:2-5; 1Ki 11:7; 2Ki 23:10; Jer 32:35). English convention: Molech. Etymologically related to H4445b Milcom.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H4433",
+      "hebreeuws": "מַלְכְּתָא",
+      "translit": "malketa-Aram-koningin",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "queen-aramaic",
+      "grondvorm": "queen-aramaic",
+      "stamfamilie": [
+        "H4436"
+      ],
+      "toelichting": "Aramaic; queen-mother (Dan 5:10). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4434",
+      "hebreeuws": "מַלְכֹּדֶת",
+      "translit": "malkodet",
+      "woordsoort": "noun",
+      "en_concordant": "snare-trap",
+      "grondvorm": "snare-trap",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Job 18:10). Trap-noose. Hyphenated for the compound 'snare and trap'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4435",
+      "hebreeuws": "מִלְכָּה",
+      "translit": "Milkah",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Milcah",
+      "grondvorm": "Milcah",
+      "stamfamilie": [],
+      "toelichting": "Proper-noun: wife of Nahor (Gen 11:29) and daughter of Zelophehad (Num 26:33; 27:1; 36:11; Jos 17:3). English convention: Milcah.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H4436",
+      "hebreeuws": "מַלְכָּה",
+      "translit": "malkah",
+      "woordsoort": "noun",
+      "en_concordant": "queen",
+      "grondvorm": "queen",
+      "stamfamilie": [
+        "H4428"
+      ],
+      "toelichting": "Feminine of melek; queen-consort or sovereign (Esth, 1Ki 10:1-13). 35 occurrences. Standard concordant 'queen'. Distinguished from H1377 gevirah ('great-lady') and H7694 shegal ('royal-consort').",
+      "voorkomens": 35
+    },
+    {
+      "strong": "H4437",
+      "hebreeuws": "מַלְכוּ",
+      "translit": "malchu-Aram",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "kingdom-aramaic",
+      "grondvorm": "kingdom-aramaic",
+      "stamfamilie": [
+        "H4467"
+      ],
+      "toelichting": "Aramaic counterpart of mamlakah; Ezr/Dan. 54 occurrences. Hyphenated.",
+      "voorkomens": 54
+    },
+    {
+      "strong": "H4438",
+      "hebreeuws": "מלכות",
+      "translit": "malkhut",
+      "woordsoort": "noun",
+      "en_concordant": "royalty",
+      "grondvorm": "royalty",
+      "stamfamilie": [
+        "H4438",
+        "H4428",
+        "H4467"
+      ],
+      "toelichting": "From malak; abstract 'royal state / dignity / reign'. 91 occurrences (esp. Esther, Daniel). Concordant kernel 'royalty' captures the dignity-state; KJV uses 'kingdom/royal estate' depending on context, which loses the abstraction. Distinguished from H4410 melukhah (kingship-as-office) and H4467 mamlakah (kingdom-as-realm).",
+      "voorkomens": 91
+    },
+    {
+      "strong": "H4439",
+      "hebreeuws": "מַלְכִּיאֵל",
+      "translit": "Malki'el",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Malchiel",
+      "grondvorm": "Malchiel",
+      "stamfamilie": [],
+      "toelichting": "Proper-noun, grandson of Asher (Gen 46:17; Num 26:45; 1Chr 7:31). Means 'my-king-is-El'. English convention.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4440",
+      "hebreeuws": "מַלְכִּיאֵלִי",
+      "translit": "malkieli-eign",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Malchielite",
+      "grondvorm": "Malchielite",
+      "stamfamilie": [],
+      "toelichting": "Patronymic (Num 26:45). Standard suffix-form.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4441",
+      "hebreeuws": "מַלְכִּיָּה",
+      "translit": "malkiyyah",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Malchijah",
+      "grondvorm": "Malchijah",
+      "stamfamilie": [],
+      "toelichting": "Proper-noun, multiple persons. Means 'my-king-is-YH'. English convention.",
+      "voorkomens": 16
+    },
+    {
+      "strong": "H4442",
+      "hebreeuws": "מַלְכִּי־צֶדֶק",
+      "translit": "Malkitsedek",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Melchizedek",
+      "grondvorm": "Melchizedek",
+      "stamfamilie": [],
+      "toelichting": "King of Salem, priest of El-Elyon (Gen 14:18; Ps 110:4). English convention: Melchizedek.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4442+",
+      "hebreeuws": "מַלְכִּי־צֶדֶק",
+      "translit": "malki-tsedeq-eign",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Melchizedek",
+      "grondvorm": "Melchizedek",
+      "stamfamilie": [],
+      "toelichting": "Variant entry (compound 'my-king-is-righteousness'). Same referent as H4442; standard transliteration kept.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4443",
+      "hebreeuws": "מַלְכִּירָם",
+      "translit": "malkiram-eign",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Malchiram",
+      "grondvorm": "Malchiram",
+      "stamfamilie": [],
+      "toelichting": "Proper-noun, son of Jeconiah (1Chr 3:18). English convention.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4444",
+      "hebreeuws": "מַלְכִּי שׁוּעַ",
+      "translit": "Malki-Shua",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Malchi-shua",
+      "grondvorm": "Malchi-shua",
+      "stamfamilie": [],
+      "toelichting": "Son of Saul (1Sa 14:49; 31:2; 1Chr 8:33; 9:39; 10:2). Means 'my-king-is-help'. English convention with hyphen.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H4444+",
+      "hebreeuws": "מַלְכִּי־שׁוּעַ",
+      "translit": "malki-shua-eign",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Malchi-shua",
+      "grondvorm": "Malchi-shua",
+      "stamfamilie": [],
+      "toelichting": "Variant of H4444. Same referent.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H4445a",
+      "hebreeuws": "מַלְכָּם",
+      "translit": "malkam-I-eign",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Malcam",
+      "grondvorm": "Malcam",
+      "stamfamilie": [],
+      "toelichting": "Person (1Chr 8:9). English convention: Malcam.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4445b",
+      "hebreeuws": "מִלְכֹּם",
+      "translit": "Milkom",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Milcom",
+      "grondvorm": "Milcom",
+      "stamfamilie": [
+        "H4428"
+      ],
+      "toelichting": "Ammonite deity (1Ki 11:5,33; 2Ki 23:13; Jer 49:1,3; Zep 1:5). Distinguished from H4432 Molech though etymologically related; Milcom is the proper-noun form of the Ammonite chief deity.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4446",
+      "hebreeuws": "מֶלֶכֶת",
+      "translit": "melekheth",
+      "woordsoort": "noun",
+      "en_concordant": "queen-of-heaven",
+      "grondvorm": "queen-of-heaven",
+      "stamfamilie": [
+        "H4428"
+      ],
+      "toelichting": "Astral cult-figure (Jer 7:18; 44:17-25). Hyphenated compound preserves the title.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H4447",
+      "hebreeuws": "מֹלֶכֶת",
+      "translit": "moleket-eign",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Moleket",
+      "grondvorm": "Moleket",
+      "stamfamilie": [],
+      "toelichting": "Proper-noun, woman of Manasseh (1Chr 7:18). English convention.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4448a",
+      "hebreeuws": "מָלַל",
+      "translit": "malal-I",
+      "woordsoort": "verb",
+      "en_concordant": "speak-utter",
+      "grondvorm": "speak-utter",
+      "stamfamilie": [
+        "H4449"
+      ],
+      "toelichting": "Verb 'speak' (poetic register; Pro 6:13; Job 8:2; 33:3; Ps 106:2). Hyphenated to mark this as the rare/emphatic 'speak' distinct from dabar (H1696, the standard 'speak').",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4448b",
+      "hebreeuws": "מָלַל",
+      "translit": "malal-II-knipogen",
+      "woordsoort": "verb",
+      "en_concordant": "rub-fade",
+      "grondvorm": "rub-fade",
+      "stamfamilie": [
+        "H4448a"
+      ],
+      "toelichting": "Homonym of H4448a (Hapax, Job 14:2 — flower fades). Hyphenated for the wither-pole.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4449",
+      "hebreeuws": "מְלַל",
+      "translit": "melal-Aram",
+      "woordsoort": "verb-aramaic",
+      "en_concordant": "speak-aramaic",
+      "grondvorm": "speak-aramaic",
+      "stamfamilie": [
+        "H4448"
+      ],
+      "toelichting": "Aramaic; Dan 6:22; 7:11,20,25. Hyphenated.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H4450",
+      "hebreeuws": "מִלֲלַי",
+      "translit": "milalay-eign",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Milalai",
+      "grondvorm": "Milalai",
+      "stamfamilie": [],
+      "toelichting": "Proper-noun (Neh 12:36). English convention.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4451",
+      "hebreeuws": "מַלְמָד",
+      "translit": "malmad",
+      "woordsoort": "noun",
+      "en_concordant": "ox-goad",
+      "grondvorm": "ox-goad",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jdg 3:31). Pointed driving-stick for oxen. Hyphenated compound.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4452",
+      "hebreeuws": "מָלַץ",
+      "translit": "malats",
+      "woordsoort": "verb",
+      "en_concordant": "be-sweet",
+      "grondvorm": "be-sweet",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Ps 119:103). Hyphenated stative 'be-sweet'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4453",
+      "hebreeuws": "מֶלְצָר",
+      "translit": "meltsar",
+      "woordsoort": "noun",
+      "en_concordant": "steward-Persian",
+      "grondvorm": "steward-Persian",
+      "stamfamilie": [],
+      "toelichting": "Persian loanword (Dan 1:11,16). Court-attendant/steward. Hyphenated to mark the loanword origin.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4454",
+      "hebreeuws": "מָלַק",
+      "translit": "malaq",
+      "woordsoort": "verb",
+      "en_concordant": "wring-the-neck",
+      "grondvorm": "wring-the-neck",
+      "stamfamilie": [],
+      "toelichting": "Used twice (Lev 1:15; 5:8) for the priestly bird-sacrifice technique. Hyphenated for the technical-act.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4455a",
+      "hebreeuws": "מַלְקוֹחַ",
+      "translit": "malqoach",
+      "woordsoort": "noun",
+      "en_concordant": "spoil-prey",
+      "grondvorm": "spoil-prey",
+      "stamfamilie": [],
+      "toelichting": "From √laqach (take); seized booty (Num 31:11ff; Isa 49:24-25). Hyphenated.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H4455b",
+      "hebreeuws": "מַלְקוֹחַ",
+      "translit": "malqoach-II",
+      "woordsoort": "noun",
+      "en_concordant": "palate",
+      "grondvorm": "palate",
+      "stamfamilie": [
+        "H4455a"
+      ],
+      "toelichting": "Homonym (Ps 22:16 [15]). The 'taking-place' of the mouth = palate.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4456",
+      "hebreeuws": "מַלְקוֹשׁ",
+      "translit": "malqosh",
+      "woordsoort": "noun",
+      "en_concordant": "latter-rain",
+      "grondvorm": "latter-rain",
+      "stamfamilie": [
+        "H3138"
+      ],
+      "toelichting": "Late-spring rain (Deu 11:14; Job 29:23; Pro 16:15; Jer 3:3; 5:24; Hos 6:3; Joe 2:23; Zec 10:1). Hyphenated standard agricultural term.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H4457",
+      "hebreeuws": "מֶלְקָחַיִם",
+      "translit": "melqachayim",
+      "woordsoort": "noun",
+      "en_concordant": "tongs-snuffers",
+      "grondvorm": "tongs-snuffers",
+      "stamfamilie": [
+        "H3947"
+      ],
+      "toelichting": "Dual form; lamp-trimming snuffers (Ex 25:38; 37:23; Num 4:9; 1Ki 7:49; 2Chr 4:21; Isa 6:6). Hyphenated.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H4458",
+      "hebreeuws": "מֶלְתָּחָה",
+      "translit": "meltachah",
+      "woordsoort": "noun",
+      "en_concordant": "wardrobe",
+      "grondvorm": "wardrobe",
+      "stamfamilie": [],
+      "toelichting": "Hapax (2Ki 10:22). Vestry/wardrobe-room for cult-garments.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4459",
+      "hebreeuws": "מַלְתָּעוֹת",
+      "translit": "maltaot",
+      "woordsoort": "noun",
+      "en_concordant": "fang-teeth",
+      "grondvorm": "fang-teeth",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Job 29:17). The biting-teeth of the wicked. Hyphenated for compound.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4460",
+      "hebreeuws": "מַמְּגֻרָה",
+      "translit": "mammegurah",
+      "woordsoort": "noun",
+      "en_concordant": "garner-storehouse",
+      "grondvorm": "garner-storehouse",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Joe 1:17). From √agar (gather). Hyphenated for compound.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4461",
+      "hebreeuws": "מֵמַד",
+      "translit": "memad",
+      "woordsoort": "noun",
+      "en_concordant": "measure",
+      "grondvorm": "measure",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Job 38:5). From √madad (measure). Standard.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4462",
+      "hebreeuws": "מְמוּכָן",
+      "translit": "Memukhan",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Memucan",
+      "grondvorm": "Memucan",
+      "stamfamilie": [],
+      "toelichting": "Persian counselor of Ahasuerus (Esth 1:14,16,21). English convention.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4463",
+      "hebreeuws": "מָמוּת",
+      "translit": "memothim",
+      "woordsoort": "noun",
+      "en_concordant": "deaths-violent",
+      "grondvorm": "deaths-violent",
+      "stamfamilie": [
+        "H4191"
+      ],
+      "toelichting": "Plural-of-intensity from mavet (death); violent-deaths (Jer 16:4; Eze 28:8). Hyphenated to mark the plural-of-violence.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4464",
+      "hebreeuws": "מַמְזֵר",
+      "translit": "mamzer",
+      "woordsoort": "noun",
+      "en_concordant": "mamzer",
+      "grondvorm": "mamzer",
+      "stamfamilie": [],
+      "toelichting": "Used twice (Deu 23:3 [2]; Zec 9:6). Person of mixed/illegitimate descent. Transliteration retained because no English single-word covers the legal-cultic sense (KJV 'bastard' is too narrow / register-mismatched).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4465",
+      "hebreeuws": "מִמְכָּר",
+      "translit": "mimkar",
+      "woordsoort": "noun",
+      "en_concordant": "sale-merchandise",
+      "grondvorm": "sale-merchandise",
+      "stamfamilie": [
+        "H4376"
+      ],
+      "toelichting": "From √makar (sell); the act and object of sale (Lev 25:14,25-33,42,50; 1Ki 21:25; Neh 13:20; Eze 7:13). Hyphenated for the act-and-object compound.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H4466",
+      "hebreeuws": "מִמְכֶּרֶת",
+      "translit": "mimkeret",
+      "woordsoort": "noun",
+      "en_concordant": "slave-sale",
+      "grondvorm": "slave-sale",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Lev 25:42). Specific to the prohibited selling-into-slavery. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4467",
+      "hebreeuws": "ממלכה",
+      "translit": "mamlakhah",
+      "woordsoort": "noun",
+      "en_concordant": "kingdom",
+      "grondvorm": "kingdom",
+      "stamfamilie": [
+        "H4467",
+        "H4428",
+        "H4427a"
+      ],
+      "toelichting": "Concrete realm of a king. 116 occurrences. Concordant 'kingdom' for the territorial-political sense. Distinguished from H4438 malkuth (royalty/dignity), H4410 melukhah (kingship/office), H4468 mamlakhuth (royal-state, abstract).",
+      "voorkomens": 116
+    },
+    {
+      "strong": "H4468",
+      "hebreeuws": "מַמְלָכוּת",
+      "translit": "mamlakhut",
+      "woordsoort": "noun",
+      "en_concordant": "royal-state",
+      "grondvorm": "royal-state",
+      "stamfamilie": [
+        "H4467",
+        "H4410"
+      ],
+      "toelichting": "Variant of mamlakah, more abstract (Jos 13:12,21,27,30,31; 1Sa 15:28; 2Sa 16:3; Jer 26:1; Hos 1:4). Hyphenated to distinguish from mamlakah.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H4469",
+      "hebreeuws": "מִמְסָךְ",
+      "translit": "mimsakh-mengwijn",
+      "woordsoort": "noun",
+      "en_concordant": "mixed-wine",
+      "grondvorm": "mixed-wine",
+      "stamfamilie": [
+        "H4537"
+      ],
+      "toelichting": "Used twice (Pro 23:30; Isa 65:11). Spiced-wine mixture. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4470",
+      "hebreeuws": "מֶמֶר",
+      "translit": "memer",
+      "woordsoort": "noun",
+      "en_concordant": "bitterness",
+      "grondvorm": "bitterness",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Pro 17:25). From √marar (be-bitter).",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4471",
+      "hebreeuws": "מַמְרֵא",
+      "translit": "Mamre",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Mamre",
+      "grondvorm": "Mamre",
+      "stamfamilie": [],
+      "toelichting": "Place and person near Hebron (Gen 13:18; 14:13ff; 18:1; 23:17,19; 25:9; 35:27; 49:30; 50:13). English convention.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H4472",
+      "hebreeuws": "מַמְּרֹר",
+      "translit": "mamror",
+      "woordsoort": "noun",
+      "en_concordant": "full-bitterness",
+      "grondvorm": "full-bitterness",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Job 9:18). Intensification of marar; the cup-of-bitterness. Hyphenated for the saturation-sense.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4473",
+      "hebreeuws": "מִמְשַׁח",
+      "translit": "mimshach",
+      "woordsoort": "noun",
+      "en_concordant": "anointing-spread",
+      "grondvorm": "anointing-spread",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Eze 28:14). From √mashach (anoint); the anointed-spreading-cherub. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4474",
+      "hebreeuws": "מִמְשָׁל",
+      "translit": "mimshal",
+      "woordsoort": "noun",
+      "en_concordant": "dominion-realm",
+      "grondvorm": "dominion-realm",
+      "stamfamilie": [
+        "H4910"
+      ],
+      "toelichting": "From √mashal (rule); the area/extent of rule (Gen 1:16; 1Chr 26:6; Dan 11:3,5). Hyphenated for the rule-and-area compound.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H4475",
+      "hebreeuws": "מֶמְשָׁלָה",
+      "translit": "memshalah",
+      "woordsoort": "noun",
+      "en_concordant": "rule-dominion",
+      "grondvorm": "rule-dominion",
+      "stamfamilie": [
+        "H4910"
+      ],
+      "toelichting": "Abstract-noun from √mashal; the act and right of ruling (Gen 1:16; 2Ki 20:13; Isa 22:21; Jer 34:1; Mic 4:8; Ps 114:2; 136:8-9). Hyphenated to bridge act and extent.",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H4476",
+      "hebreeuws": "מִמְשָׁק",
+      "translit": "mimshaq",
+      "woordsoort": "noun",
+      "en_concordant": "weeds-overgrown",
+      "grondvorm": "weeds-overgrown",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Zep 2:9). 'Place of nettles'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4477",
+      "hebreeuws": "מַמְתַקִּים",
+      "translit": "mamtaqqim",
+      "woordsoort": "noun",
+      "en_concordant": "sweets",
+      "grondvorm": "sweets",
+      "stamfamilie": [
+        "H4966"
+      ],
+      "toelichting": "Used twice (Neh 8:10; Song 5:16). Plural-of-intensity for sweetness.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4478a",
+      "hebreeuws": "מָן",
+      "translit": "man",
+      "woordsoort": "noun",
+      "en_concordant": "manna",
+      "grondvorm": "manna",
+      "stamfamilie": [],
+      "toelichting": "The wilderness-bread (Ex 16; Num 11; Deu 8; Jos 5:12; Neh 9:20; Ps 78:24). Standard English convention.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H4478b",
+      "hebreeuws": "מָן",
+      "translit": "man-II",
+      "woordsoort": "noun",
+      "en_concordant": "manna",
+      "grondvorm": "manna",
+      "stamfamilie": [
+        "H4478a"
+      ],
+      "toelichting": "Variant of H4478a; same referent. Marked separately in MT.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4479",
+      "hebreeuws": "מַן",
+      "translit": "man-Aram",
+      "woordsoort": "pronoun-aramaic",
+      "en_concordant": "who-aramaic",
+      "grondvorm": "who-aramaic",
+      "stamfamilie": [
+        "H4100"
+      ],
+      "toelichting": "Aramaic interrogative pronoun; Dan/Ezra. Hyphenated.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H4480a",
+      "hebreeuws": "מן",
+      "translit": "min",
+      "woordsoort": "preposition",
+      "en_concordant": "from",
+      "grondvorm": "from",
+      "stamfamilie": [
+        "H4480a"
+      ],
+      "toelichting": "Full-form ablative preposition; source/separation marker. 1221 occurrences. KJV uses 'from/of/out-of/since' depending on context; 'from' is the kernel. Distinguished from prefixed Hm (mi-, the proclitic short-form).",
+      "voorkomens": 1221
+    },
+    {
+      "strong": "H4480b",
+      "hebreeuws": "מִנִּי",
+      "translit": "minni-II",
+      "woordsoort": "preposition",
+      "en_concordant": "from-Bashan",
+      "grondvorm": "from-Bashan",
+      "stamfamilie": [
+        "H4480a"
+      ],
+      "toelichting": "Variant entry (Ps 68:23 [22]). Same kernel as H4480a; the place-locked usage marked separately in MT.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4481",
+      "hebreeuws": "מן",
+      "translit": "min-Aram",
+      "woordsoort": "preposition-aramaic",
+      "en_concordant": "from-aramaic",
+      "grondvorm": "from-aramaic",
+      "stamfamilie": [
+        "H4481",
+        "H4480a"
+      ],
+      "toelichting": "Aramaic counterpart; 114 occurrences. Hyphenated.",
+      "voorkomens": 114
+    },
+    {
+      "strong": "H4482",
+      "hebreeuws": "מֵן",
+      "translit": "men-snaar",
+      "woordsoort": "noun",
+      "en_concordant": "string-instrument",
+      "grondvorm": "string-instrument",
+      "stamfamilie": [],
+      "toelichting": "From √manah (apportion); musical-string of stringed-instrument (Ps 45:9 [8]; 150:4). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4483",
+      "hebreeuws": "מְנָה",
+      "translit": "menah-Aram",
+      "woordsoort": "verb-aramaic",
+      "en_concordant": "appoint-number-aramaic",
+      "grondvorm": "appoint-number-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaic verb; appoint, number, ordain (Dan 2:24,49; 3:12; 5:25-26). Hyphenated to bridge 'appoint' and 'number'.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H4484",
+      "hebreeuws": "מְנֵא",
+      "translit": "mene-Aram",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "mina-aramaic",
+      "grondvorm": "mina-aramaic",
+      "stamfamilie": [
+        "H4483"
+      ],
+      "toelichting": "Aramaic weight-unit; Dan 5:25-26 (the writing on the wall: MENE MENE TEKEL UPHARSIN). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4485",
+      "hebreeuws": "מַנְגִּינָה",
+      "translit": "manginah",
+      "woordsoort": "noun",
+      "en_concordant": "mocking-song",
+      "grondvorm": "mocking-song",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Lam 3:63). From √nagan (play instrument); ironic song-of-mockery.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4486",
+      "hebreeuws": "מַנְדַּע",
+      "translit": "manda-Aram",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "knowledge-aramaic",
+      "grondvorm": "knowledge-aramaic",
+      "stamfamilie": [
+        "H4093"
+      ],
+      "toelichting": "Aramaic; understanding/knowledge (Dan 2:21; 4:33,34 [36]; 5:12). Hyphenated.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4487",
+      "hebreeuws": "מָנָה",
+      "translit": "manah-ww",
+      "woordsoort": "verb",
+      "en_concordant": "count-apportion",
+      "grondvorm": "count-apportion",
+      "stamfamilie": [
+        "H4490",
+        "H4557"
+      ],
+      "toelichting": "Verb of counting/numbering/appointing (Gen 13:16; Num 23:10; 2Sa 24; 1Ki 8:5; Ps 90:12; Isa 53:12; Jon 1:17; 2:1; 4:6-8). 28 occurrences. Hyphenated to bridge counting and assigning.",
+      "voorkomens": 28
+    },
+    {
+      "strong": "H4488",
+      "hebreeuws": "מָנֶה",
+      "translit": "maneh",
+      "woordsoort": "noun",
+      "en_concordant": "mina",
+      "grondvorm": "mina",
+      "stamfamilie": [
+        "H4487"
+      ],
+      "toelichting": "Weight-unit (1Ki 10:17; Ezr 2:69; Eze 45:12). Standard English convention.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H4489",
+      "hebreeuws": "מֹנֶה",
+      "translit": "moneh-wisseling",
+      "woordsoort": "noun",
+      "en_concordant": "time-instance",
+      "grondvorm": "time-instance",
+      "stamfamilie": [
+        "H4487"
+      ],
+      "toelichting": "Used twice (Gen 31:7,41). 'Times' as in 'ten times'. Hyphenated for the count-instance sense.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4490",
+      "hebreeuws": "מָנָה",
+      "translit": "manah-zn",
+      "woordsoort": "noun",
+      "en_concordant": "portion",
+      "grondvorm": "portion",
+      "stamfamilie": [
+        "H4487"
+      ],
+      "toelichting": "From √manah (apportion); allotted share (1Sa 1:4-5; Neh 8:10,12; Ps 11:6; 16:5; 63:11; Est 2:9; 9:19,22). 14 occurrences. Standard concordant.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H4491",
+      "hebreeuws": "מִנְהָג",
+      "translit": "minhag-mennen",
+      "woordsoort": "noun",
+      "en_concordant": "driving-style",
+      "grondvorm": "driving-style",
+      "stamfamilie": [
+        "H5090a"
+      ],
+      "toelichting": "Hapax (2Ki 9:20). The way of driving (Jehu's chariot). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4492",
+      "hebreeuws": "מִנְהָרָה",
+      "translit": "minharah",
+      "woordsoort": "noun",
+      "en_concordant": "mountain-cleft",
+      "grondvorm": "mountain-cleft",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jdg 6:2). Mountain-shelter/den. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4493",
+      "hebreeuws": "מָנוֹד",
+      "translit": "manod",
+      "woordsoort": "noun",
+      "en_concordant": "head-shaking",
+      "grondvorm": "head-shaking",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Ps 44:14). From √nud (shake/wander). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4494",
+      "hebreeuws": "מָנוֹחַ",
+      "translit": "manoach",
+      "woordsoort": "noun",
+      "en_concordant": "resting-place",
+      "grondvorm": "resting-place",
+      "stamfamilie": [
+        "H5117"
+      ],
+      "toelichting": "From √nuach (rest); place of rest (Gen 8:9; Deu 28:65; Isa 34:14; Lam 1:3; Mic 2:10; Ru 3:1; Ps 116:7). Hyphenated.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H4495",
+      "hebreeuws": "מָנוֹחַ",
+      "translit": "manoach-eign",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Manoah",
+      "grondvorm": "Manoah",
+      "stamfamilie": [
+        "H5117",
+        "H4494"
+      ],
+      "toelichting": "Father of Samson (Jdg 13). Means 'rest'. English convention.",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H4496",
+      "hebreeuws": "מְנוּחָה",
+      "translit": "menuchah",
+      "woordsoort": "noun",
+      "en_concordant": "rest-place",
+      "grondvorm": "rest-place",
+      "stamfamilie": [
+        "H5117",
+        "H4494"
+      ],
+      "toelichting": "Feminine of manoach; the rest-state and rest-location (Gen 49:15; Num 10:33; Deu 12:9; Jdg 20:43; 1Ki 8:56; Isa 11:10; Mic 2:10; Ps 23:2; 95:11; 132:8,14). 22 occurrences. Hyphenated to bridge state and place.",
+      "voorkomens": 22
+    },
+    {
+      "strong": "H4497",
+      "hebreeuws": "מָנוֹן",
+      "translit": "manon",
+      "woordsoort": "noun",
+      "en_concordant": "insolence",
+      "grondvorm": "insolence",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Pro 29:21). Disputed: heir / insolent / continuator. Concordant 'insolence' follows the disrespect-pole (TWOT).",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4498",
+      "hebreeuws": "מָנוֹס",
+      "translit": "manos",
+      "woordsoort": "noun",
+      "en_concordant": "refuge-flight",
+      "grondvorm": "refuge-flight",
+      "stamfamilie": [
+        "H5127"
+      ],
+      "toelichting": "From √nus (flee); place-of-flight, refuge (Job 11:20; Ps 142:5; Jer 16:19; 25:35; Am 2:14). Hyphenated.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H4499",
+      "hebreeuws": "מְנֻסָה",
+      "translit": "menusah",
+      "woordsoort": "noun",
+      "en_concordant": "fleeing",
+      "grondvorm": "fleeing",
+      "stamfamilie": [
+        "H5127"
+      ],
+      "toelichting": "Used twice (Lev 26:36; Isa 52:12). Act of flight.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4500",
+      "hebreeuws": "מָנוֹר",
+      "translit": "manor",
+      "woordsoort": "noun",
+      "en_concordant": "weaver-beam",
+      "grondvorm": "weaver-beam",
+      "stamfamilie": [],
+      "toelichting": "Large beam of the loom (Jdg 16:14; 1Sa 17:7; 2Sa 21:19; 1Chr 11:23; 20:5). Hyphenated.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4501",
+      "hebreeuws": "מְנוֹרָה",
+      "translit": "menorah",
+      "woordsoort": "noun",
+      "en_concordant": "lampstand",
+      "grondvorm": "lampstand",
+      "stamfamilie": [
+        "H5216"
+      ],
+      "toelichting": "From √nur/ner (lamp). Standard concordant 'lampstand' across 42 occurrences (tabernacle/temple).",
+      "voorkomens": 42
+    },
+    {
+      "strong": "H4502",
+      "hebreeuws": "מִנְּזָר",
+      "translit": "minzar",
+      "woordsoort": "noun",
+      "en_concordant": "chosen-warriors",
+      "grondvorm": "chosen-warriors",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Nah 3:17). 'Crowned/chosen ones'. Hyphenated to mark the elite-troops sense.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4503",
+      "hebreeuws": "מנחה",
+      "translit": "minchah",
+      "woordsoort": "noun",
+      "en_concordant": "grain-offering",
+      "grondvorm": "grain-offering",
+      "stamfamilie": [
+        "H4503"
+      ],
+      "toelichting": "Cereal/tribute offering. KJV 'meat-offering' (archaic 'meat'='food'); NIV/ESV 'grain-offering'. The kernel is the non-blood offering (Lev 2; 6:14-23). Hyphenated technical term. 211 occurrences.",
+      "voorkomens": 211
+    },
+    {
+      "strong": "H4504",
+      "hebreeuws": "מִנְחָה",
+      "translit": "minchah-Aram",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "grain-offering-aramaic",
+      "grondvorm": "grain-offering-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaic counterpart; Ezr 7:17; Dan 2:46. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4505",
+      "hebreeuws": "מְנַחֵם",
+      "translit": "Menachem",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Menahem",
+      "grondvorm": "Menahem",
+      "stamfamilie": [
+        "H5162"
+      ],
+      "toelichting": "King of Israel (2Ki 15:14-22). Means 'comforter'. English convention.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H4506a",
+      "hebreeuws": "מָנַחַת",
+      "translit": "manachat-I-eign-stad",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Manahath-place",
+      "grondvorm": "Manahath-place",
+      "stamfamilie": [
+        "H4506b"
+      ],
+      "toelichting": "Place (1Chr 8:6). Hyphenated disambiguator from H4506b.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4506b",
+      "hebreeuws": "מָנַחַת",
+      "translit": "manachat-eign",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Manahath",
+      "grondvorm": "Manahath",
+      "stamfamilie": [],
+      "toelichting": "Person (Gen 36:23; 1Chr 1:40). English convention.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4507",
+      "hebreeuws": "מְנִי",
+      "translit": "meni-eign-god",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Meni-deity",
+      "grondvorm": "Meni-deity",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Isa 65:11). Babylonian-Persian fortune-deity. Hyphenated disambiguator.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4508",
+      "hebreeuws": "מִנִּי-eign",
+      "translit": "minni-eign-rijk",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Minni",
+      "grondvorm": "Minni",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jer 51:27). Region near Ararat. English convention.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4509",
+      "hebreeuws": "מִנְיָמִין",
+      "translit": "Minyamin",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Mijamin",
+      "grondvorm": "Mijamin",
+      "stamfamilie": [],
+      "toelichting": "Multiple persons (1Chr 24:9; Ezr 10:25; Neh 10:7; 12:5,17,41). English convention.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4510",
+      "hebreeuws": "מִנְיָן",
+      "translit": "minyan-Aram",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "number-aramaic",
+      "grondvorm": "number-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Ezr 6:17). Aramaic 'number'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4511",
+      "hebreeuws": "מִנִּית",
+      "translit": "Minnith-stad",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Minnith",
+      "grondvorm": "Minnith",
+      "stamfamilie": [],
+      "toelichting": "Ammonite location (Jdg 11:33; Eze 27:17). English convention.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4512",
+      "hebreeuws": "מִנְלֶה",
+      "translit": "minleh",
+      "woordsoort": "noun",
+      "en_concordant": "treasure-store",
+      "grondvorm": "treasure-store",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Job 15:29). Acquired wealth. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4513",
+      "hebreeuws": "מָנַע",
+      "translit": "mana",
+      "woordsoort": "verb",
+      "en_concordant": "withhold",
+      "grondvorm": "withhold",
+      "stamfamilie": [],
+      "toelichting": "Verb of withholding/refusing (Gen 30:2; Num 24:11; Job 22:7; Ps 84:12; Pro 1:11; 3:27; 11:26; 23:13; 30:7; etc.). 29 occurrences. Standard concordant.",
+      "voorkomens": 29
+    },
+    {
+      "strong": "H4514",
+      "hebreeuws": "מַנְעוּל",
+      "translit": "manul",
+      "woordsoort": "noun",
+      "en_concordant": "lock-bolt",
+      "grondvorm": "lock-bolt",
+      "stamfamilie": [
+        "H5274"
+      ],
+      "toelichting": "From √naal (bolt); door-lock (Song 5:5; Neh 3:3,6,13-15). Hyphenated.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H4515",
+      "hebreeuws": "מִנְעָל",
+      "translit": "minal",
+      "woordsoort": "noun",
+      "en_concordant": "iron-shoe",
+      "grondvorm": "iron-shoe",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Deu 33:25). 'Your bolt iron and brass'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4516",
+      "hebreeuws": "מַנְעָם",
+      "translit": "manam",
+      "woordsoort": "noun",
+      "en_concordant": "delicacies",
+      "grondvorm": "delicacies",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Neh 8:10). Sweet foods.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4517",
+      "hebreeuws": "מְנַעַנְעִים",
+      "translit": "menaaneim",
+      "woordsoort": "noun",
+      "en_concordant": "rattles-sistra",
+      "grondvorm": "rattles-sistra",
+      "stamfamilie": [],
+      "toelichting": "Hapax (2Sa 6:5). Percussion-shaker. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4518",
+      "hebreeuws": "מְנַקִּיָּה",
+      "translit": "menaqqiyyah",
+      "woordsoort": "noun",
+      "en_concordant": "libation-bowl",
+      "grondvorm": "libation-bowl",
+      "stamfamilie": [
+        "H5352"
+      ],
+      "toelichting": "From √nakah (clean) — pure-bowl for drink-offerings (Ex 25:29; 37:16; Num 4:7; Jer 52:19). Hyphenated.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4519",
+      "hebreeuws": "מנשה",
+      "translit": "Menashsheh",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Manasseh",
+      "grondvorm": "Manasseh",
+      "stamfamilie": [
+        "H4519"
+      ],
+      "toelichting": "Son of Joseph; tribe; multiple kings (146 occurrences). English convention.",
+      "voorkomens": 146
+    },
+    {
+      "strong": "H4520",
+      "hebreeuws": "מְנַשִּׁי",
+      "translit": "Menashshi",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Manassite",
+      "grondvorm": "Manassite",
+      "stamfamilie": [
+        "H4519"
+      ],
+      "toelichting": "Patronymic (Deu 4:43; Jdg 12:4; 2Ki 10:33). Standard suffix-form.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4521",
+      "hebreeuws": "מְנָת",
+      "translit": "menath",
+      "woordsoort": "noun",
+      "en_concordant": "portion-share",
+      "grondvorm": "portion-share",
+      "stamfamilie": [
+        "H4490"
+      ],
+      "toelichting": "Variant of manah (H4490); allotted share (Neh 12:44,47; 13:10; Jer 13:25; Ps 11:6; 16:5; 63:11). Hyphenated.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H4522",
+      "hebreeuws": "מַס",
+      "translit": "mas",
+      "woordsoort": "noun",
+      "en_concordant": "forced-labor",
+      "grondvorm": "forced-labor",
+      "stamfamilie": [],
+      "toelichting": "Corvée/conscript-labor (Gen 49:15; Ex 1:11; Deu 20:11; Jos 16:10; Jdg 1:28-35; 1Ki 4:6; 5:13-14; 9:15,21; etc.). 22 occurrences. Hyphenated technical term.",
+      "voorkomens": 22
+    },
+    {
+      "strong": "H4523",
+      "hebreeuws": "מָס",
+      "translit": "mas-vriend",
+      "woordsoort": "noun",
+      "en_concordant": "despondent",
+      "grondvorm": "despondent",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Job 6:14). The melting-of-heart, despondent person. Distinguished from H4522 by stem and context.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4524",
+      "hebreeuws": "מֵסַב",
+      "translit": "mesav",
+      "woordsoort": "noun",
+      "en_concordant": "round-couch",
+      "grondvorm": "round-couch",
+      "stamfamilie": [
+        "H5437"
+      ],
+      "toelichting": "Used (Song 1:12; 1Sa 16:11; 2Ki 23:5). The reclining-couch around a table. Hyphenated.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H4525",
+      "hebreeuws": "מַסְגֵּר",
+      "translit": "masger",
+      "woordsoort": "noun",
+      "en_concordant": "smith-locksmith",
+      "grondvorm": "smith-locksmith",
+      "stamfamilie": [
+        "H5462"
+      ],
+      "toelichting": "From √sagar (close); the metal-worker who closes/locks (2Ki 24:14,16; Jer 24:1; 29:2; Ps 142:8). Hyphenated.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H4526",
+      "hebreeuws": "מִסְגֶּרֶת",
+      "translit": "misgeret",
+      "woordsoort": "noun",
+      "en_concordant": "border-rim",
+      "grondvorm": "border-rim",
+      "stamfamilie": [
+        "H5462"
+      ],
+      "toelichting": "Architectural border (Ex 25:25-27; 37:12-14; 1Ki 7:28-36; 2Ki 16:17). Hyphenated.",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H4527",
+      "hebreeuws": "מַסַּד",
+      "translit": "massad",
+      "woordsoort": "noun",
+      "en_concordant": "foundation-laying",
+      "grondvorm": "foundation-laying",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Ki 7:9). Foundation-stones. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4528",
+      "hebreeuws": "מִסְדְּרוֹן",
+      "translit": "misderon",
+      "woordsoort": "noun",
+      "en_concordant": "porch-corridor",
+      "grondvorm": "porch-corridor",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jdg 3:23). Vestibule-corridor. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4529",
+      "hebreeuws": "מָסָה",
+      "translit": "masah",
+      "woordsoort": "verb",
+      "en_concordant": "melt-dissolve",
+      "grondvorm": "melt-dissolve",
+      "stamfamilie": [],
+      "toelichting": "Verb of melting (Ps 6:7 [6]; 39:12 [11]; 147:18). Hyphenated to bridge physical and metaphorical melting.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4530",
+      "hebreeuws": "מִסַּת",
+      "translit": "missat",
+      "woordsoort": "noun",
+      "en_concordant": "measured-tribute",
+      "grondvorm": "measured-tribute",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Deu 16:10). Free-will offering measured by hand. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4531a",
+      "hebreeuws": "מַסָּה",
+      "translit": "massah-I",
+      "woordsoort": "noun",
+      "en_concordant": "trial-test",
+      "grondvorm": "trial-test",
+      "stamfamilie": [],
+      "toelichting": "From √nasah (test); the testing-event (Deu 4:34; 7:19; 29:3 [2]). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4531b",
+      "hebreeuws": "מַסָּה",
+      "translit": "massoth",
+      "woordsoort": "noun",
+      "en_concordant": "testing-trial",
+      "grondvorm": "testing-trial",
+      "stamfamilie": [
+        "H5254"
+      ],
+      "toelichting": "Variant; the act/state of being-tested (Deu 6:16; 9:22; 33:8; Ps 95:8; Job 9:23). Hyphenated.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4532",
+      "hebreeuws": "מַסָּה",
+      "translit": "massah",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Massah-place",
+      "grondvorm": "Massah-place",
+      "stamfamilie": [
+        "H5254"
+      ],
+      "toelichting": "Wilderness location (Ex 17:7; Deu 6:16; 9:22; 33:8). Means 'testing'. Hyphenated for the place-noun marker.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4533",
+      "hebreeuws": "מַסְוֶה",
+      "translit": "masveh",
+      "woordsoort": "noun",
+      "en_concordant": "veil",
+      "grondvorm": "veil",
+      "stamfamilie": [],
+      "toelichting": "Used (Ex 34:33,34,35). The face-veil of Moses. Standard.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4534",
+      "hebreeuws": "מְסוּכָה",
+      "translit": "mesukah",
+      "woordsoort": "noun",
+      "en_concordant": "thorn-hedge",
+      "grondvorm": "thorn-hedge",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Mic 7:4). From √suk (hedge). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4535",
+      "hebreeuws": "מַסָּח",
+      "translit": "massach",
+      "woordsoort": "noun",
+      "en_concordant": "outpost",
+      "grondvorm": "outpost",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Isa 22:8). Defensive shield/post.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4536",
+      "hebreeuws": "מִסְפָּר",
+      "translit": "mispar",
+      "woordsoort": "noun",
+      "en_concordant": "tally",
+      "grondvorm": "tally",
+      "stamfamilie": [
+        "H5608"
+      ],
+      "toelichting": "Hapax (Isa 5:7). Disputed; concordant 'tally/count' from sephar-sister-root.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4537",
+      "hebreeuws": "מָסַךְ",
+      "translit": "masakh-II",
+      "woordsoort": "verb",
+      "en_concordant": "mix-wine",
+      "grondvorm": "mix-wine",
+      "stamfamilie": [
+        "H4538"
+      ],
+      "toelichting": "Verb of mixing wine (Pro 9:2,5; Isa 5:22; 19:14; Ps 102:10 [9]). Hyphenated for the technical wine-mixing sense.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H4538",
+      "hebreeuws": "מֶסֶךְ",
+      "translit": "mesech",
+      "woordsoort": "noun",
+      "en_concordant": "mixture",
+      "grondvorm": "mixture",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Ps 75:9 [8]). From √masak. Standard.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4539",
+      "hebreeuws": "מָסָךְ",
+      "translit": "masach",
+      "woordsoort": "noun",
+      "en_concordant": "screen-curtain",
+      "grondvorm": "screen-curtain",
+      "stamfamilie": [
+        "H5526"
+      ],
+      "toelichting": "The curtain-screen of the tabernacle (Ex 26:36-37; 27:16; 35:12; 36:37; etc.). 25 occurrences. Hyphenated.",
+      "voorkomens": 25
+    },
+    {
+      "strong": "H4540",
+      "hebreeuws": "מְסֻכָּה",
+      "translit": "mesukkah-edel",
+      "woordsoort": "noun",
+      "en_concordant": "jewel-covering",
+      "grondvorm": "jewel-covering",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Eze 28:13). Setting/covering of jewels. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4541a",
+      "hebreeuws": "מַסֵּכָה",
+      "translit": "massechah",
+      "woordsoort": "noun",
+      "en_concordant": "molten-image",
+      "grondvorm": "molten-image",
+      "stamfamilie": [
+        "H5258b"
+      ],
+      "toelichting": "From √nasak (pour); cast-metal idol (Ex 32:4,8; 34:17; Lev 19:4; Deu 9:12; 27:15; etc.). 27 occurrences. Hyphenated.",
+      "voorkomens": 27
+    },
+    {
+      "strong": "H4541b",
+      "hebreeuws": "מַסֵּכָה",
+      "translit": "massekhah-II-sluier",
+      "woordsoort": "noun",
+      "en_concordant": "covering-veil",
+      "grondvorm": "covering-veil",
+      "stamfamilie": [
+        "H4541a"
+      ],
+      "toelichting": "Homonym (Isa 25:7; 28:20; 30:1,22). The covering-veil. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4542",
+      "hebreeuws": "מִסְכֵּן",
+      "translit": "mskn",
+      "woordsoort": "adjective",
+      "en_concordant": "poor-dependent",
+      "grondvorm": "poor-dependent",
+      "stamfamilie": [
+        "H4542"
+      ],
+      "toelichting": "Adjective; the social-class poor (Ecc 4:13; 9:15-16). Hyphenated to capture both poverty and clientship.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4543",
+      "hebreeuws": "מִסְכְּנוֹת",
+      "translit": "miskenoth",
+      "woordsoort": "noun",
+      "en_concordant": "store-cities",
+      "grondvorm": "store-cities",
+      "stamfamilie": [],
+      "toelichting": "Storage-city plural (Ex 1:11; 1Ki 9:19; 2Chr 8:4-6; 16:4; 17:12; 32:28). Hyphenated.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H4544",
+      "hebreeuws": "מִסְכֵּנֻת",
+      "translit": "miskenut",
+      "woordsoort": "noun",
+      "en_concordant": "scarcity-poverty",
+      "grondvorm": "scarcity-poverty",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Deu 8:9). Lack/scarcity. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4545",
+      "hebreeuws": "מַסֶּכֶת",
+      "translit": "masekheth",
+      "woordsoort": "noun",
+      "en_concordant": "loom-warp",
+      "grondvorm": "loom-warp",
+      "stamfamilie": [
+        "H5259"
+      ],
+      "toelichting": "Used twice (Jdg 16:13,14). The loom-frame and warp-threads. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4546",
+      "hebreeuws": "מְסִלָּה",
+      "translit": "mesillah",
+      "woordsoort": "noun",
+      "en_concordant": "highway",
+      "grondvorm": "highway",
+      "stamfamilie": [
+        "H5549"
+      ],
+      "toelichting": "Built-up road/causeway (Num 20:19; Jdg 20:31-32; 21:19; 1Sa 6:12; 2Ki 18:17; etc.). 27 occurrences. Standard.",
+      "voorkomens": 27
+    },
+    {
+      "strong": "H4547",
+      "hebreeuws": "מַסְלוּל",
+      "translit": "maslul",
+      "woordsoort": "noun",
+      "en_concordant": "highway",
+      "grondvorm": "highway",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Isa 35:8). Variant of mesillah; same English equivalent.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4548",
+      "hebreeuws": "מַסְמֵר",
+      "translit": "masmer",
+      "woordsoort": "noun",
+      "en_concordant": "nail",
+      "grondvorm": "nail",
+      "stamfamilie": [],
+      "toelichting": "Standard. Iron/wooden nail (1Chr 22:3; 2Chr 3:9; Isa 41:7; Jer 10:4; Ecc 12:11).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H4549",
+      "hebreeuws": "מָסַס",
+      "translit": "masas",
+      "woordsoort": "verb",
+      "en_concordant": "melt-away",
+      "grondvorm": "melt-away",
+      "stamfamilie": [
+        "H4127"
+      ],
+      "toelichting": "Verb of melting/weakening (Ex 16:21; Deu 1:28; 20:8; Jos 2:9-11; 5:1; 7:5; 14:8; etc.). 22 occurrences. Hyphenated to capture the away-aspect (cessation in fear).",
+      "voorkomens": 22
+    },
+    {
+      "strong": "H4550",
+      "hebreeuws": "מַסַּע",
+      "translit": "massa-zn",
+      "woordsoort": "noun",
+      "en_concordant": "journey-stage",
+      "grondvorm": "journey-stage",
+      "stamfamilie": [
+        "H5265"
+      ],
+      "toelichting": "From √nasa (pull-up tent-stakes); a single travel-stage (Gen 13:3; Ex 17:1; 40:36-38; Num 10:6,12,28; 33:1-2; Deu 10:11). 12 occurrences. Hyphenated.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H4551a",
+      "hebreeuws": "מַסָּע",
+      "translit": "massa-I-steen",
+      "woordsoort": "noun",
+      "en_concordant": "quarry-stone",
+      "grondvorm": "quarry-stone",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Ki 6:7). The quarry-cutting site. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4551b",
+      "hebreeuws": "מַסָּע",
+      "translit": "massa-II-werpen",
+      "woordsoort": "noun",
+      "en_concordant": "javelin",
+      "grondvorm": "javelin",
+      "stamfamilie": [
+        "H4551a"
+      ],
+      "toelichting": "Hapax (Job 41:18 [26]). Throwing-spear. Standard.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4552",
+      "hebreeuws": "מִסְעָד",
+      "translit": "misad",
+      "woordsoort": "noun",
+      "en_concordant": "balustrade",
+      "grondvorm": "balustrade",
+      "stamfamilie": [],
+      "toelichting": "Hapax (2Ki 18:16). Support/leaning-place. Standard.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4553",
+      "hebreeuws": "מִסְפֵּד",
+      "translit": "misped",
+      "woordsoort": "noun",
+      "en_concordant": "lamentation-wail",
+      "grondvorm": "lamentation-wail",
+      "stamfamilie": [
+        "H5594"
+      ],
+      "toelichting": "Funeral-wail (Gen 50:10; Deu 26:14; Isa 22:12; Jer 6:26; Eze 24:17; etc.). 14 occurrences. Hyphenated.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H4554",
+      "hebreeuws": "מִסְפּוֹא",
+      "translit": "mispo",
+      "woordsoort": "noun",
+      "en_concordant": "fodder-grain",
+      "grondvorm": "fodder-grain",
+      "stamfamilie": [],
+      "toelichting": "Animal-feed (Gen 24:25,32; 42:27; 43:24; Jdg 19:19). Hyphenated.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H4555",
+      "hebreeuws": "מִסְפָּחָה",
+      "translit": "mispachah",
+      "woordsoort": "noun",
+      "en_concordant": "veil-shawl",
+      "grondvorm": "veil-shawl",
+      "stamfamilie": [],
+      "toelichting": "Used twice (Eze 13:18,21). Magical wrap. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4556",
+      "hebreeuws": "מִסְפַּחַת",
+      "translit": "mispachath",
+      "woordsoort": "noun",
+      "en_concordant": "scab-eruption",
+      "grondvorm": "scab-eruption",
+      "stamfamilie": [
+        "H5596a"
+      ],
+      "toelichting": "Skin-eruption diagnosis (Lev 13:6-8; 14:56). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4557",
+      "hebreeuws": "מספר",
+      "translit": "mispar",
+      "woordsoort": "noun",
+      "en_concordant": "number",
+      "grondvorm": "number",
+      "stamfamilie": [
+        "H4557",
+        "H5608a"
+      ],
+      "toelichting": "Standard. From √safar (count). 133 occurrences.",
+      "voorkomens": 133
+    },
+    {
+      "strong": "H4558",
+      "hebreeuws": "מִסְפָּר",
+      "translit": "mispar-eign",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Mispar",
+      "grondvorm": "Mispar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Ezr 2:2). Person-name. English convention.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4559",
+      "hebreeuws": "מִסְפֶּרֶת",
+      "translit": "misperet-eign",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Mispereth",
+      "grondvorm": "Mispereth",
+      "stamfamilie": [],
+      "toelichting": "Variant of H4558 (Neh 7:7). English convention.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4560",
+      "hebreeuws": "מָסַר",
+      "translit": "masar",
+      "woordsoort": "verb",
+      "en_concordant": "hand-over",
+      "grondvorm": "hand-over",
+      "stamfamilie": [],
+      "toelichting": "Used twice (Num 31:5,16). Levy/deliver-up. Hyphenated for the deliver-action.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H4561",
+      "hebreeuws": "מֹסָר",
+      "translit": "mosar",
+      "woordsoort": "noun",
+      "en_concordant": "instruction-bond",
+      "grondvorm": "instruction-bond",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Job 33:16). Variant of musar; the disciplining-bond. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4562",
+      "hebreeuws": "מָסֹרֶת",
+      "translit": "masoret",
+      "woordsoort": "noun",
+      "en_concordant": "covenant-bond",
+      "grondvorm": "covenant-bond",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Eze 20:37). 'I will bring you into the bond of the covenant'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4563",
+      "hebreeuws": "מִסְתּוֹר",
+      "translit": "mistor",
+      "woordsoort": "noun",
+      "en_concordant": "shelter",
+      "grondvorm": "shelter",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Isa 4:6). Hiding-place. Standard.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4564",
+      "hebreeuws": "מַסְתֵּר",
+      "translit": "master",
+      "woordsoort": "noun",
+      "en_concordant": "face-hiding",
+      "grondvorm": "face-hiding",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Isa 53:3). 'As one from whom men hide their faces'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4565",
+      "hebreeuws": "מִסְתָּר",
+      "translit": "mistar",
+      "woordsoort": "noun",
+      "en_concordant": "secret-place",
+      "grondvorm": "secret-place",
+      "stamfamilie": [
+        "H5641"
+      ],
+      "toelichting": "From √sathar (hide); secret-corner (Ps 10:9; 17:12; 64:5 [4]; 81:8 [7]; Isa 45:3; Jer 13:17; 23:24; 49:10; Lam 3:10; Hab 3:14). Hyphenated.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H4566",
+      "hebreeuws": "מַעְבָּד",
+      "translit": "mabad",
+      "woordsoort": "noun",
+      "en_concordant": "evil-deeds",
+      "grondvorm": "evil-deeds",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Job 34:25). Plural of paal-noun; works-of-evil. Hyphenated to capture the negative-context.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4567",
+      "hebreeuws": "מַעֲבָד-Aram",
+      "translit": "mabad-Aram",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "wonder-works-aramaic",
+      "grondvorm": "wonder-works-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Dan 4:2 [3]). 'Signs and wonders' — the JHWH-works. Aramaic with hyphen.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4568",
+      "hebreeuws": "מַעֲבֵה",
+      "translit": "mabeh",
+      "woordsoort": "noun",
+      "en_concordant": "mire-foothold",
+      "grondvorm": "mire-foothold",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Ps 69:3 [2]). 'I sink in deep mire and there is no maamad'. The (lacking) standing-place in clay-bottom. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H4569a",
+      "hebreeuws": "מַעֲבָר",
+      "translit": "ma'avar",
+      "woordsoort": "noun",
+      "en_concordant": "ford-passage",
+      "grondvorm": "ford-passage",
+      "stamfamilie": [
+        "H5674a"
+      ],
+      "toelichting": "From √abar (pass); river-ford / mountain-pass (Gen 32:23 [22]; 1Sa 14:4). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H4569b",
+      "hebreeuws": "מַעְבָּר",
+      "translit": "ma'bar-II",
+      "woordsoort": "noun",
+      "en_concordant": "passage-place",
+      "grondvorm": "passage-place",
+      "stamfamilie": [
+        "H5674a"
+      ],
+      "toelichting": "Variant; broader passage-locations (Isa 30:32; Jdg 3:28; Jos 2:7; Isa 10:29; etc.). Hyphenated.",
+      "voorkomens": 8
+    }
+  ]
+}

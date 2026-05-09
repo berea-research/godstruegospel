@@ -1,0 +1,3047 @@
+{
+  "batch_id": "h_batch_014",
+  "script": "heb",
+  "datum": "2026-04-29",
+  "doeltaal": "en",
+  "bron_master": "concordant-nl-hebreeuws.json v2.1",
+  "range": "H2702+ to H2921 (250 entries)",
+  "entries": [
+    {
+      "strong": "H2702+",
+      "hebreeuws": "חֲצַר סוּסִים",
+      "translit": "chatsar-susim-plus",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hazar-susim-variant",
+      "grondvorm": "Hazar-susim-variant",
+      "stamfamilie": [
+        "H2702"
+      ],
+      "toelichting": "Variant orthographic reference. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2703",
+      "hebreeuws": "חֲצַר עֵינוֹן",
+      "translit": "chatsar-enon",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hazar-enon",
+      "grondvorm": "Hazar-enon",
+      "stamfamilie": [],
+      "toelichting": "Northeastern boundary site (Eze 47:17; 48:1). Hyphenated. English convention: Hazar-enon. 'Spring-village'.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2703+",
+      "hebreeuws": "חֲצַר עֵינוֹן",
+      "translit": "chatsar-enon-plus",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hazar-enon-variant",
+      "grondvorm": "Hazar-enon-variant",
+      "stamfamilie": [
+        "H2703"
+      ],
+      "toelichting": "Variant reference. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2704",
+      "hebreeuws": "חֲצַר עֵינָן",
+      "translit": "chatsar-enan",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hazar-enan",
+      "grondvorm": "Hazar-enan",
+      "stamfamilie": [
+        "H2703"
+      ],
+      "toelichting": "Same locale (Num 34:9,10). Hyphenated. English convention: Hazar-enan.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2704+",
+      "hebreeuws": "חֲצַר עֵינָן",
+      "translit": "chatsar-enan-plus",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hazar-enan-variant",
+      "grondvorm": "Hazar-enan-variant",
+      "stamfamilie": [
+        "H2704"
+      ],
+      "toelichting": "Variant reference. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2705",
+      "hebreeuws": "חֲצַר שׁוּעָל",
+      "translit": "chatsar-shual",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hazar-shual",
+      "grondvorm": "Hazar-shual",
+      "stamfamilie": [],
+      "toelichting": "Simeonite town (Josh 15:28; 19:3; 1Chr 4:28; Neh 11:27). Hyphenated. English convention: Hazar-shual. 'Fox-village'.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H2705+",
+      "hebreeuws": "חֲצַר שׁוּעָל",
+      "translit": "chatsar-shual-plus",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hazar-shual-variant",
+      "grondvorm": "Hazar-shual-variant",
+      "stamfamilie": [
+        "H2705"
+      ],
+      "toelichting": "Variant reference. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2706",
+      "hebreeuws": "חֹק",
+      "translit": "choq",
+      "woordsoort": "noun",
+      "en_concordant": "statute",
+      "grondvorm": "statute",
+      "stamfamilie": [
+        "H2710"
+      ],
+      "toelichting": "Engraved-decree, allotted-portion (Gen 47:22,26; Ex 5:14; 12:24; 15:25,26; 18:16,20; 29:28; 30:21; Lev 6:18,22; 7:34,36; 10:13,14,15; 24:9; Num 18:8,11,19; 30:16; Deut 4:1,5,6,8,14,40,45; 5:1,31; 6:1,17,20,24; 7:11; 11:32; 12:1; 16:12; 17:19; 26:16,17; 27:10; Josh 24:25; Judg 11:39; 1Sam 30:25; 2Sam 22:23; 1Kgs 3:3,14; 8:58,61; 9:4,6; 11:11,33,34,38; 1Chr 16:17; 22:13; 29:19; 2Chr 7:17; 19:10; 33:8; 34:31; Ezr 7:10,11; Job 14:5,13; 23:12,14; 26:10; 28:26; 38:10; Ps 2:7; 50:16; 81:4; 99:7; 105:10,45; 119:5,8,12,16,23,26,33,48,54,64,68,71,80,83,112,118,124,135,145,155,171; 147:19; 148:6; Prov 8:29; 30:8; 31:15; Isa 5:14; 24:5; Jer 5:22; 31:35,36; 33:25; Eze 11:12,20; 16:27; 18:9,17,19,21; 20:11,13,16,18-21,24,25; 36:27; 37:24; Mic 7:11; Zeph 2:2). Standard concordant 'statute'.",
+      "voorkomens": 129
+    },
+    {
+      "strong": "H2707",
+      "hebreeuws": "חָקָה",
+      "translit": "chaqah",
+      "woordsoort": "verb",
+      "en_concordant": "engrave-trace",
+      "grondvorm": "engrave-trace",
+      "stamfamilie": [
+        "H2710"
+      ],
+      "toelichting": "Pu/Hithp: be-engraved, traced (1Kgs 6:35; Eze 8:10; 23:14; Job 13:27). Hyphenated to mark cutting-into-surface; family with H2710.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H2708",
+      "hebreeuws": "חֻקָּה",
+      "translit": "chuqqah",
+      "woordsoort": "noun",
+      "en_concordant": "ordinance",
+      "grondvorm": "ordinance",
+      "stamfamilie": [
+        "H2706"
+      ],
+      "toelichting": "Cult-prescribed-rule (Ex 12:14,17,43; 13:10; 27:21; 28:43; 29:9; Lev 3:17; 7:36; 10:9; 16:29,31,34; 17:7; 18:3,4,5,26,30; 19:19,37; 20:8,22,23; 22:9; 23:14,21,31,41; 24:3; 25:18; 26:3,15,43,46; Num 9:3,12,14; 10:8; 15:15; 18:23; 19:2,10,21; 27:11; 31:21; 35:29; Deut 6:2; 8:11; 10:13; 11:1; 16:12; 17:19; 28:15,45; 30:10,16; Josh 24:25; Judg 11:39; 1Sam 30:25; 1Kgs 3:14; 6:12; 8:58,61; 9:4,6; 11:11,33,34,38; 2Kgs 17:8,13,15,19,34,37; 23:3; 1Chr 22:13; 29:19; 2Chr 7:17,19; 33:8; 34:31; Job 38:33; Ps 89:31; 119:16,33,48,54,64,68,71,80,83,112,118,124,135,145,155,171; Jer 10:3; 31:35; 33:25; 44:10,23; Eze 5:6,7; 11:20; 18:9,17,19,21; 20:11,13,16,18,19,21,24,25; 36:27; 37:24; 43:11,18; 44:5,24). Standard concordant 'ordinance'.",
+      "voorkomens": 104
+    },
+    {
+      "strong": "H2709",
+      "hebreeuws": "חֲקוּפָא",
+      "translit": "hakufa",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hakupha",
+      "grondvorm": "Hakupha",
+      "stamfamilie": [],
+      "toelichting": "Nethinim ancestor (Ezr 2:51; Neh 7:53). English convention: Hakupha.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2710",
+      "hebreeuws": "חָקַק",
+      "translit": "chaqaq",
+      "woordsoort": "verb",
+      "en_concordant": "engrave-decree",
+      "grondvorm": "engrave-decree",
+      "stamfamilie": [
+        "H2706",
+        "H2708",
+        "H2711"
+      ],
+      "toelichting": "Qal/Po/Pu/Hophal: cut-into, decree, ordain (Gen 49:10; Num 21:18; Deut 33:21; Judg 5:9,14; Job 19:23; Ps 60:7; 108:8; Prov 8:15,27,29; 31:5; Isa 10:1; 22:16; 30:8; 33:22; 49:16; Eze 4:1; 8:10; 23:14; Hos 5:11). Hyphenated to mark legislative-engraving.",
+      "voorkomens": 19
+    },
+    {
+      "strong": "H2711",
+      "hebreeuws": "חֵקֶק",
+      "translit": "cheqeq",
+      "woordsoort": "noun",
+      "en_concordant": "decree-resolve",
+      "grondvorm": "decree-resolve",
+      "stamfamilie": [
+        "H2710"
+      ],
+      "toelichting": "Judg 5:15 'great-resolves-of-heart'; Isa 10:1. Hyphenated to mark thought-out-or-engraved-decision.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2712a",
+      "hebreeuws": "חֻקֹּק",
+      "translit": "chuqoq-I",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hukok",
+      "grondvorm": "Hukok",
+      "stamfamilie": [],
+      "toelichting": "Naphtali border-place (Josh 19:34). English convention: Hukok.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2712b",
+      "hebreeuws": "חוּקֹק",
+      "translit": "chuqoq-II",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hukok-Asherite",
+      "grondvorm": "Hukok-Asherite",
+      "stamfamilie": [],
+      "toelichting": "Levitical-Asherite town (1Chr 6:75). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2713",
+      "hebreeuws": "חָקַר",
+      "translit": "chaqar",
+      "woordsoort": "verb",
+      "en_concordant": "search-out-investigate",
+      "grondvorm": "search-out-investigate",
+      "stamfamilie": [
+        "H2714"
+      ],
+      "toelichting": "Qal/Ni/Pi: explore-thoroughly, examine (Deut 13:14; Judg 18:2; 1Sam 20:12; 2Sam 10:3; 1Kgs 7:47; 1Chr 19:3; Job 5:9; 8:8; 9:10; 11:7; 13:9; 28:3,27; 29:16; 32:11; 36:26; Ps 44:21; 139:1,23; Prov 18:17; 23:30; 25:2,3,27; 28:11; Ecc 12:9; Jer 17:10; 31:37; 46:23; Lam 3:40; Eze 39:14). Hyphenated to mark thorough-investigation.",
+      "voorkomens": 27
+    },
+    {
+      "strong": "H2714",
+      "hebreeuws": "חֵקֶר",
+      "translit": "cheqer",
+      "woordsoort": "noun",
+      "en_concordant": "investigation",
+      "grondvorm": "investigation",
+      "stamfamilie": [
+        "H2713"
+      ],
+      "toelichting": "Searching, depth-of-inquiry (Judg 5:16; Job 5:9; 8:8; 9:10; 11:7; 34:24; 36:26; 38:16; Ps 145:3; Prov 25:3; Isa 40:28). Standard concordant 'investigation'.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H2715",
+      "hebreeuws": "חֹר",
+      "translit": "chor-noble",
+      "woordsoort": "noun",
+      "en_concordant": "freeborn-noble",
+      "grondvorm": "freeborn-noble",
+      "stamfamilie": [
+        "H2352"
+      ],
+      "toelichting": "Variant of H2352; Isa 34:12 'her-nobles'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2716",
+      "hebreeuws": "חֲרָאִים",
+      "translit": "charaim",
+      "woordsoort": "noun",
+      "en_concordant": "excrement",
+      "grondvorm": "excrement",
+      "stamfamilie": [],
+      "toelichting": "2Kgs 18:27 ketib; Isa 36:12 ketib. Hyphenated; pejorative.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2717a",
+      "hebreeuws": "חָרֵב-II",
+      "translit": "charav-II",
+      "woordsoort": "verb",
+      "en_concordant": "be-laid-waste",
+      "grondvorm": "be-laid-waste",
+      "stamfamilie": [
+        "H2720a",
+        "H2723"
+      ],
+      "toelichting": "Qal/Ni/Pu/Hi/Hophal: be-desolate (Judg 16:24; 2Kgs 19:17; Isa 19:6; 34:10; 37:18; 42:15; 50:2; 60:12; Jer 26:9; 50:21,27; Eze 6:6; 12:20; 19:7; 26:2,19; 29:12; 30:7; Hos 13:15; Amos 7:9; Nah 3:7; Zeph 3:6). Hyphenated to mark devastation-aspect.",
+      "voorkomens": 36
+    },
+    {
+      "strong": "H2717b",
+      "hebreeuws": "חָרֵב-II-dry",
+      "translit": "charav-II-dry",
+      "woordsoort": "verb",
+      "en_concordant": "be-dried-up",
+      "grondvorm": "be-dried-up",
+      "stamfamilie": [
+        "H2717a"
+      ],
+      "toelichting": "Qal: dried up of waters (Gen 8:13; Isa 19:5; Jer 51:36). Hyphenated to distinguish drought-aspect from H2717a desolation.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2717c",
+      "hebreeuws": "חָרֵב-III",
+      "translit": "charev-III",
+      "woordsoort": "adjective",
+      "en_concordant": "waste-dry-ruined",
+      "grondvorm": "waste-dry-ruined",
+      "stamfamilie": [
+        "H2717a"
+      ],
+      "toelichting": "Adjective combining drought and desolation (Lev 7:10; Ezra 9:9; Prov 17:1; Hag 1:4,9). Hyphenated to mark dual-aspect.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H2718",
+      "hebreeuws": "חֲרַב",
+      "translit": "charav-Aram",
+      "woordsoort": "verb-aramaic",
+      "en_concordant": "lay-waste-aramaic",
+      "grondvorm": "lay-waste-aramaic",
+      "stamfamilie": [
+        "H2717a"
+      ],
+      "toelichting": "Aramaic Hophal; Ezr 4:15 'this-city-was-laid-waste'. Hyphenated with -aramaic suffix.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2719",
+      "hebreeuws": "חֶרֶב",
+      "translit": "cherev",
+      "woordsoort": "noun",
+      "en_concordant": "sword",
+      "grondvorm": "sword",
+      "stamfamilie": [],
+      "toelichting": "Cutting-blade weapon (Gen 3:24; 27:40; 31:26; 34:25,26; 48:22; Ex 5:3,21; 15:9; 17:13; 18:4; 22:24; 32:27; Lev 26:6,7,8,25,33,36,37; Num 14:3,43; 19:16; 20:18; 21:24; 22:23,29,31; 31:8; Deut 13:15; 20:13; 28:22; 32:25,41,42; 33:29; Josh 5:13; 6:21; 8:24; 10:11,28-39; 11:10-14; 13:22; 19:47; 24:12; Judg 1:8,25; 3:16,21,22; 4:15,16; 7:14,18,20,22; 8:10,20; 9:54; 18:27; 20:2,15,17,25,35,37,46,48; 21:10; 1Sam 13:19,22; 14:20; 15:8,33; 17:39,45,47,50,51; 18:4; 21:8,9; 22:10,13,19; 25:13; 31:4,5; 2Sam 1:12,22; 2:16,26; 3:29; 11:25; 12:9,10; 15:14; 18:8; 20:8,10; 23:10; 24:9; 1Kgs 1:51; 2:8,32; 3:24; 19:1,10,14,17; 1Chr 5:18; 10:4,5; 21:5,12,16,27,30; 2Chr 20:9; 21:4; 23:21; 29:9; 32:21; 34:21; 35:5; 36:17,20; Ezr 9:7; Neh 4:13,14,16,17,18; 13:25; Esth 9:5; Job 1:15,17; 5:15,20; 15:22; 19:29; 27:14; 39:22; 40:19; 41:26; Ps 7:13; 17:13; 22:21; 37:14,15; 42:10; 44:3,6; 45:3; 55:21; 57:4; 59:7; 63:10; 64:3; 76:3; 78:62,64; 89:43; 144:10; 149:6; Prov 5:4; 12:18; 25:18; 30:14; Song 3:8; Isa 1:20; 2:4; 3:25; 13:15; 14:19; 21:15; 22:2; 27:1; 31:8; 34:5,6; 37:7,38; 41:2; 49:2; 51:19; 65:12; 66:16; Jer 2:30; 4:10; 5:12,17; 6:25; 9:16; 11:22; 12:12; 13:5; 14:12,13,15,16,18; 15:2,3,9; 16:4; 17:27; 18:21; 19:7; 20:4; 21:7,9; 24:10; 25:16,27,29,31,38; 26:23; 27:8,13; 29:17,18; 31:2; 32:24,36; 33:4; 34:4,17; 38:2; 39:18; 41:2; 42:16,17,22; 43:11; 44:12,13,17,27; 46:10,14,16; 48:2,10; 49:37; 50:16,35,36,37; 51:50; 52:27; Lam 1:20; 2:21; 4:9; 5:9; Eze 5:1,2,12,17; 6:3,8,11,12; 7:15; 11:8,10; 12:14,16; 14:17,21; 16:40; 17:21; 21:3-5,9-16,19,20,28; 23:10,25,47; 24:21; 25:13; 26:6,8,11; 28:7,23; 29:8; 30:4,5,11,17,21,22,24,25; 31:17,18; 32:10-32; 33:2,3,4,6,26,27; 35:5,8; 38:4,8,21; 39:23; Hos 1:7; 2:18; 7:16; 11:6; 13:16; 14:1; Joel 2:8; 3:10; Amos 1:11; 4:10; 7:9,11,17; 9:1,4,10; Mic 4:3; 5:6; 6:14; Nah 2:13; 3:3,15; Hab 1:17; Zeph 2:12; Hag 2:22; Zech 9:13; 11:17; 13:7; Mal 1:4). Standard concordant 'sword'.",
+      "voorkomens": 413
+    },
+    {
+      "strong": "H2720a",
+      "hebreeuws": "חָרֵב",
+      "translit": "charev",
+      "woordsoort": "adjective",
+      "en_concordant": "waste-desolate",
+      "grondvorm": "waste-desolate",
+      "stamfamilie": [
+        "H2717a"
+      ],
+      "toelichting": "Adjective: laid-waste, ruined (Neh 2:3,17; Jer 26:9; Eze 36:35,38; Zeph 3:6). Hyphenated.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H2720b",
+      "hebreeuws": "חָרֵב-II",
+      "translit": "chareb-II",
+      "woordsoort": "adjective",
+      "en_concordant": "deserted-dry",
+      "grondvorm": "deserted-dry",
+      "stamfamilie": [
+        "H2717b"
+      ],
+      "toelichting": "Adjective marking emptiness (Hag 1:4,9). Hyphenated to distinguish from H2720a.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2721a",
+      "hebreeuws": "חֹרֶב",
+      "translit": "chorev",
+      "woordsoort": "noun",
+      "en_concordant": "drought",
+      "grondvorm": "drought",
+      "stamfamilie": [
+        "H2717b"
+      ],
+      "toelichting": "Dry-heat (Gen 31:40; Deut 28:22; Job 30:30; Ps 32:4; Isa 4:6; 25:4,5; Jer 36:30; 50:38; Hag 1:11). Hyphenated.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H2721b",
+      "hebreeuws": "חֹרֶב-II",
+      "translit": "chorev-II",
+      "woordsoort": "noun",
+      "en_concordant": "sword-edge-destruction",
+      "grondvorm": "sword-edge-destruction",
+      "stamfamilie": [
+        "H2719"
+      ],
+      "toelichting": "Sword-sharpness, devastation (Isa 4:6; Jer 50:27). Hyphenated to mark slaughter-aspect.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2722",
+      "hebreeuws": "חוֹרֵב",
+      "translit": "chorev-pn",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Horeb",
+      "grondvorm": "Horeb",
+      "stamfamilie": [],
+      "toelichting": "Mountain of the law-giving, Sinai's other name (Ex 3:1; 17:6; 33:6; Deut 1:2,6,19; 4:10,15; 5:2; 9:8; 18:16; 28:69; 1Kgs 8:9; 19:8; 2Chr 5:10; Ps 106:19; Mal 4:4). English convention: Horeb. 'Desolate-place'.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H2723",
+      "hebreeuws": "חָרְבָּה",
+      "translit": "chorbah",
+      "woordsoort": "noun",
+      "en_concordant": "ruin-waste-place",
+      "grondvorm": "ruin-waste-place",
+      "stamfamilie": [
+        "H2717a"
+      ],
+      "toelichting": "Desolated-place (Lev 26:31,33; Ezr 9:9; Job 3:14; Ps 9:6; 109:10; Isa 5:17; 44:26; 48:21; 49:19; 51:3; 52:9; 58:12; 61:4; 64:11; Jer 7:34; 22:5; 25:9,11,18; 27:17; 44:2,6,22; 49:13; Eze 5:14; 13:4; 25:13; 26:20; 29:9,10; 33:24,27; 35:4; 36:4,10,33,35,38; 38:8,12; Dan 9:2; Mal 1:4). Hyphenated to mark devastated-site.",
+      "voorkomens": 42
+    },
+    {
+      "strong": "H2724",
+      "hebreeuws": "חָרָבָה",
+      "translit": "charavah",
+      "woordsoort": "noun",
+      "en_concordant": "dry-ground",
+      "grondvorm": "dry-ground",
+      "stamfamilie": [
+        "H2717b"
+      ],
+      "toelichting": "Dry-bed of sea or river (Gen 7:22; Ex 14:21; Josh 3:17; 4:18; 2Kgs 2:8; Eze 30:12; Hag 2:6). Hyphenated.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H2725",
+      "hebreeuws": "חֲרָבוֹן",
+      "translit": "charavon",
+      "woordsoort": "noun",
+      "en_concordant": "summer-drought",
+      "grondvorm": "summer-drought",
+      "stamfamilie": [
+        "H2721a"
+      ],
+      "toelichting": "Ps 32:4 'summer-drought'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2726",
+      "hebreeuws": "חַרְבוֹנָא",
+      "translit": "charvona",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Harbona",
+      "grondvorm": "Harbona",
+      "stamfamilie": [],
+      "toelichting": "Persian eunuch of Ahasuerus (Esth 1:10; 7:9). English convention: Harbona.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2727",
+      "hebreeuws": "חָרַג",
+      "translit": "charag",
+      "woordsoort": "verb",
+      "en_concordant": "come-trembling",
+      "grondvorm": "come-trembling",
+      "stamfamilie": [],
+      "toelichting": "Qal: come-out-quaking (Ps 18:45). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2728",
+      "hebreeuws": "חַרְגֹּל",
+      "translit": "chargol",
+      "woordsoort": "noun",
+      "en_concordant": "long-locust",
+      "grondvorm": "long-locust",
+      "stamfamilie": [],
+      "toelichting": "Edible locust species (Lev 11:22). Hyphenated to distinguish from H697 arbeh swarm-locust and H2284 chagav grasshopper.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2729",
+      "hebreeuws": "חָרַד",
+      "translit": "charad",
+      "woordsoort": "verb",
+      "en_concordant": "tremble",
+      "grondvorm": "tremble",
+      "stamfamilie": [
+        "H2730",
+        "H2731"
+      ],
+      "toelichting": "Qal/Hi: shake-with-fear, startle (Gen 27:33; 42:28; Ex 19:16,18; Lev 26:6; Deut 28:26; Ruth 3:8; 1Sam 13:7; 14:15; 16:4; 21:1; 28:5; 2Sam 17:2; 1Kgs 1:49; 2Kgs 4:13; Job 11:19; Isa 10:29; 17:2; 19:16; 32:11; 41:5; 66:2,5; Jer 7:33; 30:10; 46:27; Eze 26:16,18; 30:9; 32:10; 39:26; Hos 11:10,11; Amos 3:6; Mic 4:4; 7:17; Nah 2:11; Zech 1:21). Hyphenated to mark startled-quaking distinct from H2342a chul writhe.",
+      "voorkomens": 39
+    },
+    {
+      "strong": "H2730",
+      "hebreeuws": "חָרֵד",
+      "translit": "chared",
+      "woordsoort": "adjective",
+      "en_concordant": "trembling",
+      "grondvorm": "trembling",
+      "stamfamilie": [
+        "H2729"
+      ],
+      "toelichting": "Adjective: shaking-with-fear (Judg 7:3; 1Sam 4:13; Ezr 9:4; 10:3; Isa 66:2,5). Standard concordant 'trembling'.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H2731",
+      "hebreeuws": "חֲרָדָה",
+      "translit": "charadah",
+      "woordsoort": "noun",
+      "en_concordant": "trembling-fear",
+      "grondvorm": "trembling-fear",
+      "stamfamilie": [
+        "H2729"
+      ],
+      "toelichting": "Anxious-fear (Gen 27:33; 1Sam 14:15; Prov 29:25; Isa 21:4; Jer 30:5; Eze 26:16). Hyphenated.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H2732",
+      "hebreeuws": "חֲרָדָה",
+      "translit": "charadah-pn",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Haradah",
+      "grondvorm": "Haradah",
+      "stamfamilie": [
+        "H2731"
+      ],
+      "toelichting": "Wilderness camp-station (Num 33:24,25). English convention: Haradah.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2733",
+      "hebreeuws": "חֲרֹדִי",
+      "translit": "charodi",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Harodite",
+      "grondvorm": "Harodite",
+      "stamfamilie": [],
+      "toelichting": "Inhabitant of Harod (2Sam 23:25). English convention: Harodite.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2734",
+      "hebreeuws": "חָרָה",
+      "translit": "charah",
+      "woordsoort": "verb",
+      "en_concordant": "burn-with-anger",
+      "grondvorm": "burn-with-anger",
+      "stamfamilie": [
+        "H2740"
+      ],
+      "toelichting": "Qal/Ni/Hi/Hithp: kindle-with-anger (Gen 4:5,6; 18:30,32; 30:2; 31:35,36; 34:7; 39:19; 40:2; 44:18; 45:5; Ex 4:14; 11:8; 22:24; 32:10,11,19,22; Num 11:1,10,33; 12:9; 16:15; 22:22,27; 24:10; 25:3; 31:14; 32:10,13,14; Deut 6:15; 7:4; 11:17; 19:6; 29:27; 31:17; Josh 7:1,26; 23:16; Judg 2:14,20; 3:8; 6:39; 9:30; 10:7; 14:19; Ruth 2:16; 1Sam 11:6; 15:11; 17:28; 18:8; 20:7,30,34; 25:36; 2Sam 3:8; 6:7,8; 12:5; 13:21; 19:43; 22:8,9; 24:1; 1Kgs 11:9; 14:15; 16:2,7,13,33; 22:53; 2Kgs 13:3; 17:11,17; 21:6,15; 22:13,17; 23:19,26; 1Chr 13:10,11; 27:24; 2Chr 25:10,15; 28:9,25; 33:6; 34:21,25; Neh 3:20,33; 4:1,7; 5:6; Esth 1:12; Job 19:11; 32:2,3,5; 42:7; Ps 18:8; 39:4; 78:21,38,49,50,58,59,62,68; 79:5; 80:5; 85:6; 89:47; 95:11; 102:11; 106:18,23,29,32,40; 110:5; 124:3; 138:7; Prov 24:19; Isa 5:25; 9:18; 41:11; 42:25; 64:5,9; 66:15; Jer 4:8,26; 7:20; 12:13; 17:4; 21:5,12; 23:20; 25:37,38; 30:24; 32:31,37; 33:5; 36:7; 42:18; 44:6; 51:45; Lam 4:11; Eze 5:13; 7:8; 8:18; 13:13; 16:38; 20:8,21,33; 21:36; 22:20,21,22,31; 24:13; 25:14; 30:15; 36:5,6; 38:18,19; Hos 8:5; 11:9; 13:11; 14:5; Amos 1:11; Jonah 4:1,4,9; Nah 1:6; Hab 3:8,12; Zeph 2:2,3; 3:8; Zech 10:3). Hyphenated to mark anger-igniting distinct from H599 anaf nostril-anger and H2196 zaaf rage.",
+      "voorkomens": 92
+    },
+    {
+      "strong": "H2735",
+      "hebreeuws": "חֹר הַגִּדְגָּד",
+      "translit": "chor-haggidgad",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hor-Haggidgad",
+      "grondvorm": "Hor-Haggidgad",
+      "stamfamilie": [],
+      "toelichting": "Wilderness camp-station (Num 33:32,33). Hyphenated. English convention: Hor-Haggidgad. 'Cleft-of-the-trembling'.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2735+",
+      "hebreeuws": "חֹר הַגִּדְגָּד",
+      "translit": "chor-haggidgad-plus",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hor-Haggidgad-variant",
+      "grondvorm": "Hor-Haggidgad-variant",
+      "stamfamilie": [
+        "H2735"
+      ],
+      "toelichting": "Variant reference. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2736",
+      "hebreeuws": "חֲרֻמָף",
+      "translit": "charumaf",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Harumaph",
+      "grondvorm": "Harumaph",
+      "stamfamilie": [],
+      "toelichting": "Father of Jedaiah, wall-builder (Neh 3:10). English convention: Harumaph.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2737",
+      "hebreeuws": "חָרוּז",
+      "translit": "charuz",
+      "woordsoort": "noun",
+      "en_concordant": "strung-jewel",
+      "grondvorm": "strung-jewel",
+      "stamfamilie": [],
+      "toelichting": "Song 1:10 'chains-of-jewels'. Hyphenated to mark threaded-ornaments.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2738",
+      "hebreeuws": "חָרוּל",
+      "translit": "charul",
+      "woordsoort": "noun",
+      "en_concordant": "nettle-thistle",
+      "grondvorm": "nettle-thistle",
+      "stamfamilie": [],
+      "toelichting": "Stinging-weed (Job 30:7; Prov 24:31; Zeph 2:9). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2739",
+      "hebreeuws": "חֲרוּמַף",
+      "translit": "charumaf-pn",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Harumaph-variant",
+      "grondvorm": "Harumaph-variant",
+      "stamfamilie": [
+        "H2736"
+      ],
+      "toelichting": "Variant reference. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2740",
+      "hebreeuws": "חָרוֹן",
+      "translit": "charon",
+      "woordsoort": "noun",
+      "en_concordant": "burning-anger",
+      "grondvorm": "burning-anger",
+      "stamfamilie": [
+        "H2734"
+      ],
+      "toelichting": "Hot-wrath, glow-of-fury (Ex 15:7; 32:12; Num 25:4; 32:14; Deut 13:18; 29:27; Josh 7:26; 1Sam 28:18; 2Kgs 23:26; 2Chr 28:11,13; 29:10; 30:8; Ezr 10:14; Neh 13:18; Job 20:23; Ps 2:5; 78:49; 85:4; 88:17; Isa 13:9,13; Jer 4:8,26; 12:13; 25:37,38; 30:24; 49:37; 51:45; Lam 1:12; 4:11; Eze 7:12,14; Hos 11:9; Jonah 3:9; Nah 1:6; Zeph 2:2; 3:8). Hyphenated to mark fierce-fury distinct from H639 af nostril-anger.",
+      "voorkomens": 41
+    },
+    {
+      "strong": "H2741",
+      "hebreeuws": "חֲרִיפִי",
+      "translit": "charifi",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hariph-clan",
+      "grondvorm": "Hariph-clan",
+      "stamfamilie": [
+        "H2756"
+      ],
+      "toelichting": "Post-exilic family-head (Neh 7:24; 10:19). Hyphenated. English convention: Hariph.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2742a",
+      "hebreeuws": "חָרוּץ-I",
+      "translit": "charuts-I",
+      "woordsoort": "noun",
+      "en_concordant": "sharp-tool",
+      "grondvorm": "sharp-tool",
+      "stamfamilie": [
+        "H2782"
+      ],
+      "toelichting": "Threshing-sledge with sharp teeth (2Sam 12:31; Isa 28:27; 41:15; Amos 1:3; Job 41:30). Hyphenated.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H2742b",
+      "hebreeuws": "חָרוּץ-II",
+      "translit": "charuts-II",
+      "woordsoort": "noun",
+      "en_concordant": "decision",
+      "grondvorm": "decision",
+      "stamfamilie": [
+        "H2782"
+      ],
+      "toelichting": "Decisive-judgment (Joel 3:14 'valley-of-decision'). Hyphenated to mark decreed-judgment.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2742c",
+      "hebreeuws": "חָרוּץ-III",
+      "translit": "charuts-III",
+      "woordsoort": "noun",
+      "en_concordant": "trench-moat",
+      "grondvorm": "trench-moat",
+      "stamfamilie": [],
+      "toelichting": "Dan 9:25 'street-and-trench'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2742d",
+      "hebreeuws": "חָרוּץ-IV",
+      "translit": "charuts-IV",
+      "woordsoort": "noun",
+      "en_concordant": "fine-gold",
+      "grondvorm": "fine-gold",
+      "stamfamilie": [],
+      "toelichting": "Refined-gold poetic-term (Ps 68:13; Prov 3:14; 8:10,19; 16:16; Zech 9:3). Hyphenated to mark choice-gold distinct from H2091 zahav.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H2743",
+      "hebreeuws": "חָרוּץ",
+      "translit": "charuts-pn",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Haruz",
+      "grondvorm": "Haruz",
+      "stamfamilie": [],
+      "toelichting": "Father of Meshullemeth (2Kgs 21:19). English convention: Haruz.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2744",
+      "hebreeuws": "חַרְחוּר",
+      "translit": "charchur",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Harhur",
+      "grondvorm": "Harhur",
+      "stamfamilie": [],
+      "toelichting": "Nethinim ancestor (Ezr 2:51; Neh 7:53). English convention: Harhur.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2745",
+      "hebreeuws": "חַרְחַס",
+      "translit": "charchas",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Harhas",
+      "grondvorm": "Harhas",
+      "stamfamilie": [],
+      "toelichting": "Grandfather of Huldah's husband (2Kgs 22:14). English convention: Harhas.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2746",
+      "hebreeuws": "חַרְחֻר",
+      "translit": "charchur",
+      "woordsoort": "noun",
+      "en_concordant": "burning-fever",
+      "grondvorm": "burning-fever",
+      "stamfamilie": [
+        "H2787"
+      ],
+      "toelichting": "Deut 28:22 'with-fever-and-with-inflammation'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2747",
+      "hebreeuws": "חֶרֶט",
+      "translit": "cheret",
+      "woordsoort": "noun",
+      "en_concordant": "engraving-tool",
+      "grondvorm": "engraving-tool",
+      "stamfamilie": [
+        "H2801"
+      ],
+      "toelichting": "Stylus or graving-instrument (Ex 32:4; Isa 8:1). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2748",
+      "hebreeuws": "חַרְטֹם",
+      "translit": "chartom",
+      "woordsoort": "noun",
+      "en_concordant": "magician-scribe",
+      "grondvorm": "magician-scribe",
+      "stamfamilie": [
+        "H2749"
+      ],
+      "toelichting": "Egyptian/Babylonian sacred-scribe-magician (Gen 41:8,24; Ex 7:11,22; 8:7,18,19; 9:11; Dan 1:20; 2:2). Hyphenated to mark sacred-scholar-of-magic distinct from H3784 kashaf sorcerer.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H2749",
+      "hebreeuws": "חַרְטֹם",
+      "translit": "chartom-Aram",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "magician-scribe-aramaic",
+      "grondvorm": "magician-scribe-aramaic",
+      "stamfamilie": [
+        "H2748"
+      ],
+      "toelichting": "Aramaic; Dan 2:10,27; 4:7,9; 5:11. Hyphenated with -aramaic suffix.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H2750",
+      "hebreeuws": "חֳרִי-II",
+      "translit": "chori-II",
+      "woordsoort": "noun",
+      "en_concordant": "burning-of-anger",
+      "grondvorm": "burning-of-anger",
+      "stamfamilie": [
+        "H2734"
+      ],
+      "toelichting": "Heat-of-wrath (Ex 11:8; Deut 29:23; 1Sam 20:34; Lam 2:3). Hyphenated.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H2751",
+      "hebreeuws": "חֹרִי",
+      "translit": "chori-bread",
+      "woordsoort": "noun",
+      "en_concordant": "white-bread",
+      "grondvorm": "white-bread",
+      "stamfamilie": [],
+      "toelichting": "Gen 40:16 'three-baskets-of-white-bread'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2752",
+      "hebreeuws": "חֹרִי",
+      "translit": "chori-Horite",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Horite",
+      "grondvorm": "Horite",
+      "stamfamilie": [],
+      "toelichting": "Pre-Edomite cave-dwelling people (Gen 14:6; 36:20,21,29,30; Deut 2:12,22). English convention: Horite.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H2753",
+      "hebreeuws": "חֹרִי",
+      "translit": "chori-pn",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hori",
+      "grondvorm": "Hori",
+      "stamfamilie": [],
+      "toelichting": "Horite chieftain and Simeonite spy's father (Gen 36:22; Num 13:5). English convention: Hori.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2754",
+      "hebreeuws": "חָרִיט",
+      "translit": "charit",
+      "woordsoort": "noun",
+      "en_concordant": "money-bag",
+      "grondvorm": "money-bag",
+      "stamfamilie": [],
+      "toelichting": "2Kgs 5:23; Isa 3:22. Hyphenated to mark purse-pouch.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2755",
+      "hebreeuws": "חִירְיוֹנִים",
+      "translit": "chiryonim",
+      "woordsoort": "noun",
+      "en_concordant": "dove-dung",
+      "grondvorm": "dove-dung",
+      "stamfamilie": [],
+      "toelichting": "2Kgs 6:25 ketib (siege-famine-food). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2756",
+      "hebreeuws": "חָרִיף",
+      "translit": "charif",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hariph",
+      "grondvorm": "Hariph",
+      "stamfamilie": [
+        "H2741"
+      ],
+      "toelichting": "Post-exilic returnee (Neh 7:24; 10:19). English convention: Hariph.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2757",
+      "hebreeuws": "חָרִיץ",
+      "translit": "charits",
+      "woordsoort": "noun",
+      "en_concordant": "sharp-threshing-tool",
+      "grondvorm": "sharp-threshing-tool",
+      "stamfamilie": [
+        "H2782"
+      ],
+      "toelichting": "Cutting-implement, also slice-of-cheese (1Sam 17:18; 2Sam 12:31; 1Chr 20:3; Amos 1:3). Hyphenated.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H2758",
+      "hebreeuws": "חָרִישׁ",
+      "translit": "charish",
+      "woordsoort": "noun",
+      "en_concordant": "plowing-time",
+      "grondvorm": "plowing-time",
+      "stamfamilie": [
+        "H2790a"
+      ],
+      "toelichting": "Season-of-plowing (Gen 45:6; Ex 34:21; 1Sam 8:12). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2759",
+      "hebreeuws": "חֲרִישִׁית",
+      "translit": "charishit",
+      "woordsoort": "adjective",
+      "en_concordant": "sultry-still",
+      "grondvorm": "sultry-still",
+      "stamfamilie": [],
+      "toelichting": "Jonah 4:8 'vehement-sultry-east-wind'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2760",
+      "hebreeuws": "חָרַךְ",
+      "translit": "charach",
+      "woordsoort": "verb",
+      "en_concordant": "roast-prey",
+      "grondvorm": "roast-prey",
+      "stamfamilie": [],
+      "toelichting": "Qal: scorch hunted-prey (Prov 12:27). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2761",
+      "hebreeuws": "חֲרַךְ",
+      "translit": "charach-Aram",
+      "woordsoort": "verb-aramaic",
+      "en_concordant": "singe-aramaic",
+      "grondvorm": "singe-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaic; Dan 3:27 'their-hair-was-not-singed'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2762",
+      "hebreeuws": "חֲרַכִּים",
+      "translit": "charakim",
+      "woordsoort": "noun",
+      "en_concordant": "lattice-window",
+      "grondvorm": "lattice-window",
+      "stamfamilie": [],
+      "toelichting": "Song 2:9 'showing-himself-through-the-lattice'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2763a",
+      "hebreeuws": "חָרַם-I",
+      "translit": "charam-I",
+      "woordsoort": "verb",
+      "en_concordant": "put-under-ban",
+      "grondvorm": "put-under-ban",
+      "stamfamilie": [
+        "H2764a"
+      ],
+      "toelichting": "Hi/Hophal: devote-to-destruction (Num 21:2,3; Deut 2:34; 3:6; 7:2; 13:16,18; 20:17; Josh 2:10; 6:18,21; 7:1,11,12,15; 8:26; 10:1,28,35,37,39,40; 11:11,12,20,21; 22:20; Judg 1:17; 21:11; 1Sam 15:3,8,9,15,18,20; 1Kgs 9:21; 2Kgs 19:11; 1Chr 4:41; 2Chr 20:23; 32:14; Ezr 10:8; Isa 11:15; 34:2; 37:11; 43:28; Jer 25:9; 50:21,26; 51:3; Dan 11:44; Mic 4:13; Mal 4:6). Hyphenated to mark cultic-devotion-to-destruction distinct from H7843 shachat destroy.",
+      "voorkomens": 51
+    },
+    {
+      "strong": "H2763b",
+      "hebreeuws": "חָרַם-II",
+      "translit": "charam-II",
+      "woordsoort": "verb",
+      "en_concordant": "be-mutilated",
+      "grondvorm": "be-mutilated",
+      "stamfamilie": [],
+      "toelichting": "Qal: be-disfigured (Lev 22:22 'maimed-or-mutilated'). Hyphenated to mark physical-defect.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2764a",
+      "hebreeuws": "חֵרֶם",
+      "translit": "cherem",
+      "woordsoort": "noun",
+      "en_concordant": "ban-devoted-thing",
+      "grondvorm": "ban-devoted-thing",
+      "stamfamilie": [
+        "H2763a"
+      ],
+      "toelichting": "What-is-devoted-and-banned (Lev 27:21,28,29; Num 18:14; Deut 7:26; 13:17; Josh 6:17,18; 7:1,11,12,13,15; 22:20; 1Sam 15:21; 1Kgs 20:42; 1Chr 2:7; Isa 34:5; 43:28; Eze 44:29; Mic 4:13; Zech 14:11; Mal 3:24). Hyphenated to mark dedicated-cursed-thing distinct from H423 alah curse.",
+      "voorkomens": 29
+    },
+    {
+      "strong": "H2764b",
+      "hebreeuws": "חֵרֶם-II",
+      "translit": "cherem-II",
+      "woordsoort": "noun",
+      "en_concordant": "fishing-net",
+      "grondvorm": "fishing-net",
+      "stamfamilie": [],
+      "toelichting": "Hunting/fishing net (Ecc 7:26; Eze 26:5,14; 32:3; 47:10; Mic 7:2; Hab 1:15-17). Hyphenated to mark trap-net distinct from H7568 resheth net.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H2765",
+      "hebreeuws": "חֳרֵם",
+      "translit": "chorem",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Horem",
+      "grondvorm": "Horem",
+      "stamfamilie": [],
+      "toelichting": "Naphtali fortified-city (Josh 19:38). English convention: Horem.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2766",
+      "hebreeuws": "חָרִם",
+      "translit": "charim",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Harim",
+      "grondvorm": "Harim",
+      "stamfamilie": [],
+      "toelichting": "Priestly division-head and post-exilic ancestors (1Chr 24:8; Ezr 2:32,39; 10:21,31; Neh 3:11; 7:35,42; 10:5,27; 12:15). English convention: Harim.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H2767",
+      "hebreeuws": "חָרְמָה",
+      "translit": "chormah",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hormah",
+      "grondvorm": "Hormah",
+      "stamfamilie": [
+        "H2763a"
+      ],
+      "toelichting": "Negev city devoted to destruction (Num 14:45; 21:3; Deut 1:44; Josh 12:14; 15:30; 19:4; Judg 1:17; 1Sam 30:30; 1Chr 4:30). English convention: Hormah. 'Devoted-to-destruction'.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H2768",
+      "hebreeuws": "חֶרְמוֹן",
+      "translit": "chermon",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hermon",
+      "grondvorm": "Hermon",
+      "stamfamilie": [],
+      "toelichting": "Northern boundary-mountain (Deut 3:8,9; 4:48; Josh 11:3,17; 12:1,5; 13:5,11; 1Chr 5:23; Ps 42:6; 89:12; 133:3; Song 4:8). English convention: Hermon.",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H2769",
+      "hebreeuws": "חֶרְמוֹנִים",
+      "translit": "chermonim",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hermons",
+      "grondvorm": "Hermons",
+      "stamfamilie": [
+        "H2768"
+      ],
+      "toelichting": "Ps 42:6 'from-the-Hermons' — plural-form for the mountain-range. Standard concordant.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2770",
+      "hebreeuws": "חֶרְמֵשׁ",
+      "translit": "chermesh",
+      "woordsoort": "noun",
+      "en_concordant": "sickle",
+      "grondvorm": "sickle",
+      "stamfamilie": [],
+      "toelichting": "Harvest-blade (Deut 16:9; 23:25). Standard concordant 'sickle'.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2771a",
+      "hebreeuws": "חָרָן-I",
+      "translit": "charan-I",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Haran",
+      "grondvorm": "Haran",
+      "stamfamilie": [],
+      "toelichting": "Mesopotamian city of Abram's stay (Gen 11:31,32; 12:4,5; 27:43; 28:10; 29:4; 2Kgs 19:12; Isa 37:12; Eze 27:23; Acts 7:2,4). English convention: Haran.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H2771b",
+      "hebreeuws": "חָרָן-II",
+      "translit": "charan-II",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Haran-Calebite",
+      "grondvorm": "Haran-Calebite",
+      "stamfamilie": [],
+      "toelichting": "Son of Caleb by Ephah (1Chr 2:46). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2772",
+      "hebreeuws": "חֹרֹנִי",
+      "translit": "choroni",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Horonite",
+      "grondvorm": "Horonite",
+      "stamfamilie": [
+        "H2773"
+      ],
+      "toelichting": "Sanballat the Horonite (Neh 2:10,19; 13:28). English convention: Horonite.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2773",
+      "hebreeuws": "חֹרֹנַיִם",
+      "translit": "choronayim",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Horonaim",
+      "grondvorm": "Horonaim",
+      "stamfamilie": [],
+      "toelichting": "Moabite town (Isa 15:5; Jer 48:3,5,34). English convention: Horonaim.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H2774",
+      "hebreeuws": "חַרְנֶפֶר",
+      "translit": "charnefer",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Harnepher",
+      "grondvorm": "Harnepher",
+      "stamfamilie": [],
+      "toelichting": "Asherite (1Chr 7:36). English convention: Harnepher.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2775a",
+      "hebreeuws": "חֶרֶס-I",
+      "translit": "cheres-sun",
+      "woordsoort": "noun",
+      "en_concordant": "sun",
+      "grondvorm": "sun",
+      "stamfamilie": [],
+      "toelichting": "Poetic sun (Judg 8:13; 14:18; Job 9:7). Standard concordant 'sun'; distinct from H8121 shemesh by poetic register.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2775b",
+      "hebreeuws": "חֶרֶס-II",
+      "translit": "cheres-itch",
+      "woordsoort": "noun",
+      "en_concordant": "itch-scab",
+      "grondvorm": "itch-scab",
+      "stamfamilie": [],
+      "toelichting": "Skin-eruption (Deut 28:27). Hyphenated to mark scratching-disease.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2776",
+      "hebreeuws": "חֶרֶס",
+      "translit": "cheres-mount",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Mount-Heres",
+      "grondvorm": "Mount-Heres",
+      "stamfamilie": [],
+      "toelichting": "Amorite-held mountain (Judg 1:35). Hyphenated. English convention: Mount Heres.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2777",
+      "hebreeuws": "חַרְסוּת",
+      "translit": "charsuth",
+      "woordsoort": "noun",
+      "en_concordant": "potsherd-gate",
+      "grondvorm": "potsherd-gate",
+      "stamfamilie": [
+        "H2789"
+      ],
+      "toelichting": "Jer 19:2 'Potsherd-Gate'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2778a",
+      "hebreeuws": "חָרַף-I",
+      "translit": "charaf-I",
+      "woordsoort": "verb",
+      "en_concordant": "reproach-taunt",
+      "grondvorm": "reproach-taunt",
+      "stamfamilie": [
+        "H2781"
+      ],
+      "toelichting": "Qal/Pi: defy with words (Judg 5:18; 1Sam 17:10,25,26,36,45; 2Sam 21:21; 23:9; 2Kgs 19:4,16,22,23; 2Chr 32:17; Neh 6:13; Job 27:6; Ps 42:10; 44:16; 55:12; 57:3; 69:9; 74:10,18; 79:12; 89:51; 102:8; 119:42; Prov 14:31; 17:5; 27:11; Isa 37:4,17,23,24; 65:7; Zeph 2:8,10). Hyphenated to mark insulting-speech distinct from H1442 gadaf revile.",
+      "voorkomens": 35
+    },
+    {
+      "strong": "H2778b",
+      "hebreeuws": "חָרַף-IV",
+      "translit": "charaf-IV",
+      "woordsoort": "verb",
+      "en_concordant": "winter-pass",
+      "grondvorm": "winter-pass",
+      "stamfamilie": [
+        "H2779"
+      ],
+      "toelichting": "Qal: spend-winter (Isa 18:6). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2778c",
+      "hebreeuws": "חָרַף-III",
+      "translit": "charaf-III",
+      "woordsoort": "verb",
+      "en_concordant": "betroth",
+      "grondvorm": "betroth",
+      "stamfamilie": [],
+      "toelichting": "Ni: be-betrothed (Lev 19:20). Standard concordant.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2779",
+      "hebreeuws": "חֹרֶף",
+      "translit": "choref",
+      "woordsoort": "noun",
+      "en_concordant": "autumn-winter",
+      "grondvorm": "autumn-winter",
+      "stamfamilie": [
+        "H2778b"
+      ],
+      "toelichting": "Cool-rainy season (Gen 8:22; Job 29:4; Ps 74:17; Prov 20:4; Jer 36:22; Amos 3:15; Zech 14:8). Hyphenated.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H2780",
+      "hebreeuws": "חָרֵף",
+      "translit": "charef",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hareph",
+      "grondvorm": "Hareph",
+      "stamfamilie": [],
+      "toelichting": "Judahite (1Chr 2:51). English convention: Hareph.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2781",
+      "hebreeuws": "חֶרְפָּה",
+      "translit": "cherpah",
+      "woordsoort": "noun",
+      "en_concordant": "reproach",
+      "grondvorm": "reproach",
+      "stamfamilie": [
+        "H2778a"
+      ],
+      "toelichting": "Disgrace, scornful-taunt (Gen 30:23; 34:14; Josh 5:9; 1Sam 11:2; 17:26; 25:39; 2Sam 13:13; Neh 1:3; 2:17; 3:36; 4:4; 5:9; 6:13; Ps 15:3; 22:6; 31:11; 39:8; 44:13; 57:3; 69:7,9,10,19,20; 71:13; 74:22; 78:66; 79:4,12; 89:41,50; 109:25; 119:22,39; Prov 6:33; 18:3; 19:26; Isa 4:1; 25:8; 30:5; 47:3; 51:7; 54:4; Jer 6:10; 15:15; 20:8; 23:40; 24:9; 29:18; 31:19; 42:18; 44:8,12; 49:13; 51:51; Lam 3:30,61; 5:1; Eze 5:14,15; 16:57; 21:33; 22:4; 36:15,30; Dan 9:16; 11:18; 12:2; Hos 12:14; Joel 2:17,19; Mic 6:16; Zeph 2:8; 3:18). Standard concordant 'reproach'.",
+      "voorkomens": 73
+    },
+    {
+      "strong": "H2782",
+      "hebreeuws": "חָרַץ",
+      "translit": "charats",
+      "woordsoort": "verb",
+      "en_concordant": "cut-decide",
+      "grondvorm": "cut-decide",
+      "stamfamilie": [
+        "H2742a",
+        "H2742b",
+        "H2757"
+      ],
+      "toelichting": "Qal/Ni: cut, decree-decisively (Ex 11:7; Lev 22:22; Josh 10:21; 2Sam 5:24; 1Kgs 20:40; Job 14:5; Isa 10:23; 28:22; Dan 9:26,27; 11:36). Hyphenated to mark cutting-into-decision.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H2783",
+      "hebreeuws": "חַרְצֻבָּה",
+      "translit": "charts-Aram",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "loins-aramaic",
+      "grondvorm": "loins-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaic; Dan 5:6 'joints-of-his-loins-were-loosed'. Hyphenated with -aramaic suffix.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2784",
+      "hebreeuws": "חַרְצֻבּוֹת",
+      "translit": "chartsubot",
+      "woordsoort": "noun",
+      "en_concordant": "bonds-fetters",
+      "grondvorm": "bonds-fetters",
+      "stamfamilie": [],
+      "toelichting": "Ps 73:4; Isa 58:6. Hyphenated to mark binding-cords-of-injustice.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2785",
+      "hebreeuws": "חַרְצָן",
+      "translit": "chartsan",
+      "woordsoort": "noun",
+      "en_concordant": "grape-stone",
+      "grondvorm": "grape-stone",
+      "stamfamilie": [],
+      "toelichting": "Num 6:4 'kernel-or-husk' Nazirite-prohibition. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2786",
+      "hebreeuws": "חָרַק",
+      "translit": "charaq",
+      "woordsoort": "verb",
+      "en_concordant": "gnash-teeth",
+      "grondvorm": "gnash-teeth",
+      "stamfamilie": [],
+      "toelichting": "Qal: grind-teeth-in-rage (Job 16:9; Ps 35:16; 37:12; 112:10; Lam 2:16). Hyphenated.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H2787",
+      "hebreeuws": "חָרַר",
+      "translit": "charar",
+      "woordsoort": "verb",
+      "en_concordant": "scorch-burn",
+      "grondvorm": "scorch-burn",
+      "stamfamilie": [
+        "H2746",
+        "H2788"
+      ],
+      "toelichting": "Qal/Ni/Pilpel: be-scorched (Job 30:30; Ps 69:3; 102:3; Prov 6:28; Isa 24:6; Jer 6:29; 17:6; Eze 15:4,5; 24:11). Hyphenated.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H2788",
+      "hebreeuws": "חָרֵר",
+      "translit": "charer",
+      "woordsoort": "noun",
+      "en_concordant": "parched-place",
+      "grondvorm": "parched-place",
+      "stamfamilie": [
+        "H2787"
+      ],
+      "toelichting": "Jer 17:6 'in-parched-places-of-the-wilderness'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2789",
+      "hebreeuws": "חֶרֶשׂ",
+      "translit": "cheres",
+      "woordsoort": "noun",
+      "en_concordant": "potsherd",
+      "grondvorm": "potsherd",
+      "stamfamilie": [],
+      "toelichting": "Pottery-fragment (Lev 6:21; 11:33; 14:5,50; 15:12; Num 5:17; Ps 22:15; Prov 26:23; Isa 30:14; 45:9; Jer 19:1; 32:14; Lam 4:2; Eze 23:34). Standard concordant 'potsherd'.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H2790a",
+      "hebreeuws": "חָרַשׁ-I",
+      "translit": "charash-I",
+      "woordsoort": "verb",
+      "en_concordant": "plow-engrave",
+      "grondvorm": "plow-engrave",
+      "stamfamilie": [
+        "H2758"
+      ],
+      "toelichting": "Qal: plow-fields, also engrave (Deut 22:10; Judg 14:18; 1Sam 8:12; 14:14; 1Kgs 19:19; Job 1:14; 4:8; Ps 129:3; Prov 3:29; 6:14,18; 12:20; 14:22; 20:4; 21:4; Isa 28:24; 45:9; Jer 17:1; 26:18; Hos 10:11,13; Amos 6:12; 9:13; Mic 3:12). Hyphenated to mark dual sense of agricultural-and-craft-cutting.",
+      "voorkomens": 26
+    },
+    {
+      "strong": "H2790b",
+      "hebreeuws": "חָרַשׁ-II",
+      "translit": "charash-II",
+      "woordsoort": "verb",
+      "en_concordant": "be-silent",
+      "grondvorm": "be-silent",
+      "stamfamilie": [
+        "H2791a"
+      ],
+      "toelichting": "Qal/Hi/Hithp: keep-silent (Gen 24:21; 34:5; Ex 14:14; Num 13:30; 30:4,7,11,14,15; Judg 16:2; 18:19; 1Sam 7:8; 10:27; 2Sam 13:20; 19:11; 2Kgs 18:36; Esth 4:14; Job 6:24; 11:3; 13:5,13,19; 33:31,33; 41:12; Ps 28:1; 32:3; 35:22; 39:12; 50:3,21; 83:1; 109:1; Prov 11:12; 17:28; Isa 36:21; 41:1; 42:14; 57:11; 62:1,6; 64:11; 65:6; Jer 4:19; 38:27; Lam 2:10; 3:28; Hab 1:13; Zeph 3:17; Zech 1:11; Mal 3:16). Hyphenated to mark verbal-stillness distinct from H1826 damam silence.",
+      "voorkomens": 47
+    },
+    {
+      "strong": "H2791a",
+      "hebreeuws": "חֶרֶשׁ",
+      "translit": "cheresh",
+      "woordsoort": "adverb",
+      "en_concordant": "silently",
+      "grondvorm": "silently",
+      "stamfamilie": [
+        "H2790b"
+      ],
+      "toelichting": "Josh 2:1 'sent-secretly'. Standard concordant 'silently'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2791b",
+      "hebreeuws": "חֶרֶשׁ-III",
+      "translit": "charash-III",
+      "woordsoort": "noun",
+      "en_concordant": "craftsman-engraver",
+      "grondvorm": "craftsman-engraver",
+      "stamfamilie": [
+        "H2796"
+      ],
+      "toelichting": "Skilled-worker (Neh 11:35 'valley-of-craftsmen'). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2792",
+      "hebreeuws": "חֶרֶשׁ",
+      "translit": "cheresh-pn",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Heresh",
+      "grondvorm": "Heresh",
+      "stamfamilie": [],
+      "toelichting": "Levite (1Chr 9:15). English convention: Heresh.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2793",
+      "hebreeuws": "חֹרֶשׁ",
+      "translit": "choresh-wood",
+      "woordsoort": "noun",
+      "en_concordant": "wooded-thicket",
+      "grondvorm": "wooded-thicket",
+      "stamfamilie": [],
+      "toelichting": "Forest, thicket (1Sam 23:15,16,18,19; 2Chr 27:4; Isa 17:9; Eze 31:3). Hyphenated.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H2794",
+      "hebreeuws": "חֹרֵשׁ",
+      "translit": "choresh-craft",
+      "woordsoort": "noun",
+      "en_concordant": "engraver-craftsman",
+      "grondvorm": "engraver-craftsman",
+      "stamfamilie": [
+        "H2796"
+      ],
+      "toelichting": "Active-participle of charash; one who carves wood, stone, metal (Gen 4:22; Ex 28:11; 35:35; 38:23; Deut 27:15; 2Sam 5:11; 1Kgs 7:14; 2Kgs 12:11; 22:6; 24:14,16; 1Chr 14:1; 22:15; 29:5; 2Chr 24:12; 34:11; Isa 40:19,20; 41:7; 44:11,12,13; 45:16; Jer 10:3,9; 24:1; 29:2; Hos 8:6; 13:2; Zech 1:20). Hyphenated.",
+      "voorkomens": 33
+    },
+    {
+      "strong": "H2795",
+      "hebreeuws": "חֵרֵשׁ",
+      "translit": "cheresh-deaf",
+      "woordsoort": "adjective",
+      "en_concordant": "deaf",
+      "grondvorm": "deaf",
+      "stamfamilie": [
+        "H2790b"
+      ],
+      "toelichting": "Lev 19:14; Ps 38:13; 58:4; Isa 29:18; 35:5; 42:18,19; 43:8. Standard concordant 'deaf'.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H2796",
+      "hebreeuws": "חָרָשׁ",
+      "translit": "charash",
+      "woordsoort": "noun",
+      "en_concordant": "craftsman",
+      "grondvorm": "craftsman",
+      "stamfamilie": [
+        "H2790a"
+      ],
+      "toelichting": "Skilled-artisan (Ex 35:35; 38:23; Deut 27:15; 1Sam 13:19; 2Sam 5:11; 1Kgs 7:14; 2Kgs 12:12; 22:6; 24:14,16; 1Chr 4:14; 14:1; 22:15; 29:5; 2Chr 2:7,13,14; 24:12; 34:11; Ezr 3:7; Isa 40:19,20; 41:7; 44:11,12,13; 45:16; 54:16; Jer 10:3,9; 24:1; 29:2; Hos 8:6; 13:2; Zech 1:20). Standard concordant 'craftsman'.",
+      "voorkomens": 35
+    },
+    {
+      "strong": "H2797",
+      "hebreeuws": "חַרְשָׁא",
+      "translit": "charsha",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Harsha",
+      "grondvorm": "Harsha",
+      "stamfamilie": [],
+      "toelichting": "Nethinim ancestor (Ezr 2:52; Neh 7:54). English convention: Harsha.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2798",
+      "hebreeuws": "גֵּי-חֲרָשִׁים",
+      "translit": "ge-charashim",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Ge-Harashim",
+      "grondvorm": "Ge-Harashim",
+      "stamfamilie": [
+        "H2796"
+      ],
+      "toelichting": "'Valley-of-craftsmen' (1Chr 4:14; Neh 11:35). Hyphenated. English convention: Ge-Harashim.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2799",
+      "hebreeuws": "חֲרֹשֶׁת",
+      "translit": "charosheth",
+      "woordsoort": "noun",
+      "en_concordant": "carved-work",
+      "grondvorm": "carved-work",
+      "stamfamilie": [
+        "H2796"
+      ],
+      "toelichting": "Cut/engraved-craftsmanship (Ex 31:5; 35:33). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2800",
+      "hebreeuws": "חֲרֹשֶׁת",
+      "translit": "charoshet-pn",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Harosheth",
+      "grondvorm": "Harosheth",
+      "stamfamilie": [],
+      "toelichting": "Sisera's town 'Harosheth-of-the-gentiles' (Judg 4:2,13,16). English convention: Harosheth.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2801",
+      "hebreeuws": "חָרַת",
+      "translit": "charat",
+      "woordsoort": "verb",
+      "en_concordant": "engrave",
+      "grondvorm": "engrave",
+      "stamfamilie": [
+        "H2747"
+      ],
+      "toelichting": "Qal-passive: engraved (Ex 32:16). Standard concordant 'engrave'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2802",
+      "hebreeuws": "חֶרֶת",
+      "translit": "cheret",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hereth",
+      "grondvorm": "Hereth",
+      "stamfamilie": [],
+      "toelichting": "Forest where David hid (1Sam 22:5). English convention: Hereth.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2803",
+      "hebreeuws": "חָשַׁב",
+      "translit": "chashav",
+      "woordsoort": "verb",
+      "en_concordant": "reckon-account",
+      "grondvorm": "reckon-account",
+      "stamfamilie": [
+        "H2808",
+        "H2810"
+      ],
+      "toelichting": "Qal/Ni/Pi/Hithp: think, plan, impute, regard-as (Gen 15:6 'reckoned-it-to-him-as-righteousness'; 31:15; 38:15; 50:20; Ex 26:1,31; 28:6,8,15; 31:4; 35:32,35; 36:8,35; 38:23; 39:3,8; Lev 7:18; 17:4; 25:27,31,50,52; 27:18,23; Num 18:27,30; 23:9; Deut 2:11,20; Josh 13:3; 1Sam 1:13; 18:25; 2Sam 4:2; 14:13,14; 19:19; 1Kgs 10:21; 2Kgs 12:15; 22:7; 1Chr 28:2; 2Chr 2:14; 9:20; 26:15; Neh 6:2,6; 13:13; Esth 8:3; 9:24,25; Job 6:26; 13:24; 18:3; 19:11,15; 33:10; 35:2; 41:24,29,32; Ps 10:2; 21:11; 32:2; 35:4,20; 36:4; 40:17; 41:7; 44:22; 50:21; 52:2; 73:16; 88:4; 106:31; 119:59; 140:2,4; 144:3; Prov 16:9,30; 17:28; 24:8; Ecc 7:25,27,29; 9:1; Isa 2:22; 5:28; 10:7; 13:17; 29:16,17; 32:15; 33:8; 40:15,17; 53:3,4,12; Jer 11:19; 18:8,11,12,18; 23:27; 26:3; 29:11; 36:3; 49:20,30; 50:45; 51:29; Lam 2:8; 4:2; Eze 11:2; 38:10; Dan 11:24,25; Hos 7:15; 8:12; Amos 6:5; Mic 2:1,3; Nah 1:9,11; Zech 7:10; 8:17; Mal 3:16,17). Hyphenated to mark dual aspect of accounting and intellectual-regarding.",
+      "voorkomens": 124
+    },
+    {
+      "strong": "H2804",
+      "hebreeuws": "חֲשַׁב",
+      "translit": "chashav-Aram",
+      "woordsoort": "verb-aramaic",
+      "en_concordant": "esteem-aramaic",
+      "grondvorm": "esteem-aramaic",
+      "stamfamilie": [
+        "H2803"
+      ],
+      "toelichting": "Aramaic; Dan 4:35 'all-inhabitants-reckoned-as-nothing'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2805",
+      "hebreeuws": "חֵשֶׁב",
+      "translit": "chesheb",
+      "woordsoort": "noun",
+      "en_concordant": "woven-band",
+      "grondvorm": "woven-band",
+      "stamfamilie": [
+        "H2803"
+      ],
+      "toelichting": "Ephod's-belt of skilful-work (Ex 28:8,27,28; 29:5; 39:5,20,21; Lev 8:7). Hyphenated to mark crafted-girdle.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H2806",
+      "hebreeuws": "חַשְׁבַּדָּנָה",
+      "translit": "chashbaddanah",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hashbaddanah",
+      "grondvorm": "Hashbaddanah",
+      "stamfamilie": [],
+      "toelichting": "Stood with Ezra at law-reading (Neh 8:4). English convention: Hashbaddanah.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2807",
+      "hebreeuws": "חֲשֻׁבָה",
+      "translit": "chashuvah",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hashubah",
+      "grondvorm": "Hashubah",
+      "stamfamilie": [],
+      "toelichting": "Son of Zerubbabel (1Chr 3:20). English convention: Hashubah.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2808",
+      "hebreeuws": "חֶשְׁבּוֹן",
+      "translit": "cheshbon-noun",
+      "woordsoort": "noun",
+      "en_concordant": "calculation",
+      "grondvorm": "calculation",
+      "stamfamilie": [
+        "H2803"
+      ],
+      "toelichting": "Reckoning, account (Ecc 7:25,27; 9:10). Standard concordant.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2809",
+      "hebreeuws": "חֶשְׁבּוֹן",
+      "translit": "cheshbon-pn",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Heshbon",
+      "grondvorm": "Heshbon",
+      "stamfamilie": [],
+      "toelichting": "Amorite capital, then Reubenite-Gadite-Levitical city (Num 21:25-34; 32:3,37; Deut 1:4; 2:24,26,30; 3:2,6; 4:46; 29:7; Josh 9:10; 12:2,5; 13:10,17,21,26,27; 21:39; Judg 11:19,26; 1Chr 6:81; Neh 9:22; Song 7:4; Isa 15:4; 16:8,9; Jer 48:2,34,45; 49:3). English convention: Heshbon.",
+      "voorkomens": 38
+    },
+    {
+      "strong": "H2810",
+      "hebreeuws": "חִשָּׁבוֹן",
+      "translit": "chishshevon",
+      "woordsoort": "noun",
+      "en_concordant": "contrived-device",
+      "grondvorm": "contrived-device",
+      "stamfamilie": [
+        "H2803"
+      ],
+      "toelichting": "2Chr 26:15 'engines-invented-by-cunning-men'; Ecc 7:29. Hyphenated to mark designed-invention.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2811",
+      "hebreeuws": "חֲשַׁבְיָה",
+      "translit": "chashavyah",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hashabiah",
+      "grondvorm": "Hashabiah",
+      "stamfamilie": [],
+      "toelichting": "Multiple Levites and post-exilic figures (1Chr 6:45; 9:14; 25:3,19; 26:30; 27:17; 2Chr 35:9; Ezr 8:19,24; Neh 3:17; 10:11; 11:15,22; 12:21,24). English convention: Hashabiah. 'YHWH-has-reckoned'.",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H2812",
+      "hebreeuws": "חֲשַׁבְנָה",
+      "translit": "chashavnah",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hashabnah",
+      "grondvorm": "Hashabnah",
+      "stamfamilie": [],
+      "toelichting": "Covenant-signer (Neh 10:25). English convention: Hashabnah.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2813",
+      "hebreeuws": "חֲשַׁבְנְיָה",
+      "translit": "chashavneyah",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hashabneiah",
+      "grondvorm": "Hashabneiah",
+      "stamfamilie": [],
+      "toelichting": "Wall-builder and Levite (Neh 3:10; 9:5). English convention: Hashabneiah.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2814",
+      "hebreeuws": "חָשָׁה",
+      "translit": "chashah",
+      "woordsoort": "verb",
+      "en_concordant": "keep-silent",
+      "grondvorm": "keep-silent",
+      "stamfamilie": [
+        "H2790b"
+      ],
+      "toelichting": "Qal/Hi: hold-still (2Kgs 2:3,5; 7:9; Ps 28:1; 39:2; 50:3; 83:1; 107:29; Ecc 3:7; Isa 36:21; 42:14; 57:11; 62:1,6; 64:12; 65:6). Hyphenated.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H2815",
+      "hebreeuws": "חַשּׁוּב",
+      "translit": "chashshuv",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hasshub",
+      "grondvorm": "Hasshub",
+      "stamfamilie": [],
+      "toelichting": "Multiple persons including wall-builder (1Chr 9:14; Neh 3:11,23; 10:24; 11:15). English convention: Hasshub.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H2816",
+      "hebreeuws": "חֲשׁוֹךְ",
+      "translit": "chashok-Aram",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "darkness-aramaic",
+      "grondvorm": "darkness-aramaic",
+      "stamfamilie": [
+        "H2822"
+      ],
+      "toelichting": "Aramaic; Dan 2:22. Hyphenated with -aramaic suffix.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2817",
+      "hebreeuws": "חֲשׂוּפָא",
+      "translit": "chasufa",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hasupha",
+      "grondvorm": "Hasupha",
+      "stamfamilie": [],
+      "toelichting": "Nethinim ancestor (Ezr 2:43; Neh 7:46). English convention: Hasupha.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2818a",
+      "hebreeuws": "חֲשַׁח-I",
+      "translit": "chashach-I-Aram",
+      "woordsoort": "verb-aramaic",
+      "en_concordant": "be-needed-aramaic",
+      "grondvorm": "be-needed-aramaic",
+      "stamfamilie": [
+        "H2819"
+      ],
+      "toelichting": "Aramaic; Dan 3:16. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2818b",
+      "hebreeuws": "חֲשַׁח-II",
+      "translit": "chashach-II-Aram",
+      "woordsoort": "verb-aramaic",
+      "en_concordant": "have-need-aramaic",
+      "grondvorm": "have-need-aramaic",
+      "stamfamilie": [
+        "H2818a"
+      ],
+      "toelichting": "Aramaic; Ezr 6:9; 7:20. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2819",
+      "hebreeuws": "חַשְׁחוּת",
+      "translit": "chashchut-Aram",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "need-aramaic",
+      "grondvorm": "need-aramaic",
+      "stamfamilie": [
+        "H2818a"
+      ],
+      "toelichting": "Aramaic; Ezr 6:9. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2820",
+      "hebreeuws": "חָשַׂךְ",
+      "translit": "chasach",
+      "woordsoort": "verb",
+      "en_concordant": "spare-withhold",
+      "grondvorm": "spare-withhold",
+      "stamfamilie": [],
+      "toelichting": "Qal: withhold, refrain (Gen 20:6; 22:12,16; 39:9; 1Sam 25:39; 2Sam 18:16; Job 7:11; 16:5,6; 21:30; 30:10; 33:18; 38:23; Ps 19:13; 78:50; Prov 10:19; 11:24; 13:24; 17:27; 21:26; 24:11; Isa 14:6; 54:2; 58:1; Jer 14:10; Eze 30:18). Hyphenated to mark restraint-action distinct from H2347 chus pity.",
+      "voorkomens": 28
+    },
+    {
+      "strong": "H2821",
+      "hebreeuws": "חָשַׁךְ",
+      "translit": "chashach",
+      "woordsoort": "verb",
+      "en_concordant": "grow-dark",
+      "grondvorm": "grow-dark",
+      "stamfamilie": [
+        "H2822",
+        "H2825"
+      ],
+      "toelichting": "Qal/Hi/Hophal: be-dark, become-darkened (Ex 10:15; 1Kgs 18:45; Job 3:9; 18:6; Ps 69:23; 105:28; Ecc 12:2,3; Isa 5:30; 13:10; Eze 30:18; 32:7,8; Mic 3:6; Lam 4:8; 5:17). Hyphenated to mark darkness-falling.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H2822",
+      "hebreeuws": "חֹשֶׁךְ",
+      "translit": "choshek",
+      "woordsoort": "noun",
+      "en_concordant": "darkness",
+      "grondvorm": "darkness",
+      "stamfamilie": [
+        "H2821"
+      ],
+      "toelichting": "Absence-of-light (Gen 1:2,4,5,18; Ex 10:21,22; 14:20; 20:21; Deut 4:11; 5:23; Josh 24:7; 1Sam 2:9; 2Sam 22:12,29; 1Kgs 8:12; Job 3:4,5,6; 5:14; 10:21; 12:22,25; 15:22,23,30; 17:12,13; 18:18; 19:8; 20:26; 22:11; 23:17; 24:16; 26:10; 28:3; 29:3; 34:22; 37:19; 38:19; Ps 18:11,28; 35:6; 82:5; 88:13,18; 91:6; 97:2; 104:20; 105:28; 107:10,14; 112:4; 139:11,12; 143:3; Prov 2:13; 4:19; 20:20; Ecc 2:13,14; 5:17; 6:4; 11:8; Isa 5:20,30; 9:1; 29:18; 42:7; 45:3,7,19; 47:5; 49:9; 50:10; 58:10; 59:9; 60:2; Jer 13:16; 23:12; Lam 3:2,6; Eze 32:8; Dan 2:22; 12:3; Joel 2:2,31; Amos 5:18,20; Mic 7:8; Nah 1:8; Zeph 1:15). Standard concordant 'darkness'.",
+      "voorkomens": 80
+    },
+    {
+      "strong": "H2823",
+      "hebreeuws": "חָשֹׁךְ",
+      "translit": "chashok",
+      "woordsoort": "adjective",
+      "en_concordant": "obscure-low-rank",
+      "grondvorm": "obscure-low-rank",
+      "stamfamilie": [
+        "H2822"
+      ],
+      "toelichting": "Prov 22:29 'shall-not-stand-before-obscure-men'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2824",
+      "hebreeuws": "חֶשְׁכָה",
+      "translit": "cheshkah",
+      "woordsoort": "noun",
+      "en_concordant": "watery-darkness",
+      "grondvorm": "watery-darkness",
+      "stamfamilie": [
+        "H2822"
+      ],
+      "toelichting": "Ps 18:11 'darkness-of-waters'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2825",
+      "hebreeuws": "חֲשֵׁכָה",
+      "translit": "chashekhah",
+      "woordsoort": "noun",
+      "en_concordant": "thick-darkness",
+      "grondvorm": "thick-darkness",
+      "stamfamilie": [
+        "H2822"
+      ],
+      "toelichting": "Gen 15:12; Isa 8:22; 50:10; Mic 3:6; Ps 82:5; 139:12. Hyphenated to mark dense-dark distinct from H2822 general darkness.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H2826",
+      "hebreeuws": "חָשַׁל",
+      "translit": "chashal",
+      "woordsoort": "verb",
+      "en_concordant": "weakened-feeble",
+      "grondvorm": "weakened-feeble",
+      "stamfamilie": [],
+      "toelichting": "Ni: lag-behind, be-feeble (Deut 25:18 'enemies-attacked-the-feeble-stragglers'). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2827",
+      "hebreeuws": "חֲשַׁל",
+      "translit": "chashal-Aram",
+      "woordsoort": "verb-aramaic",
+      "en_concordant": "crush-aramaic",
+      "grondvorm": "crush-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaic; Dan 2:40 'iron-breaks-and-crushes-all'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2828",
+      "hebreeuws": "חָשֻׁם",
+      "translit": "chashum",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hashum",
+      "grondvorm": "Hashum",
+      "stamfamilie": [],
+      "toelichting": "Post-exilic family-head (Ezr 2:19; 10:33; Neh 7:22; 8:4; 10:18). English convention: Hashum.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H2829",
+      "hebreeuws": "חֶשְׁמוֹן",
+      "translit": "cheshmon",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Heshmon",
+      "grondvorm": "Heshmon",
+      "stamfamilie": [],
+      "toelichting": "Negev town of Judah (Josh 15:27). English convention: Heshmon.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2830",
+      "hebreeuws": "חַשְׁמַל",
+      "translit": "chashmal",
+      "woordsoort": "noun",
+      "en_concordant": "glowing-metal-electrum",
+      "grondvorm": "glowing-metal-electrum",
+      "stamfamilie": [],
+      "toelichting": "Eze 1:4,27; 8:2 — radiance of throne-vision. Hyphenated to preserve all candidate-glosses (electrum, glow-bronze, amber).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2831",
+      "hebreeuws": "חַשְׁמַנִּים",
+      "translit": "chashmannim",
+      "woordsoort": "noun",
+      "en_concordant": "bronze-envoys",
+      "grondvorm": "bronze-envoys",
+      "stamfamilie": [],
+      "toelichting": "Ps 68:31 'princes-shall-come-out-of-Egypt'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2832",
+      "hebreeuws": "חַשְׁמֹנָה",
+      "translit": "chashmonah",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hashmonah",
+      "grondvorm": "Hashmonah",
+      "stamfamilie": [],
+      "toelichting": "Wilderness camp-station (Num 33:29,30). English convention: Hashmonah.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2833",
+      "hebreeuws": "חֹשֶׁן",
+      "translit": "choshen",
+      "woordsoort": "noun",
+      "en_concordant": "breastplate-of-decision",
+      "grondvorm": "breastplate-of-decision",
+      "stamfamilie": [],
+      "toelichting": "High-priest's pectoral with twelve stones and Urim-Thummim (Ex 25:7; 28:4,15-30; 29:5; 35:9,27; 39:8-21; Lev 8:8). Hyphenated to mark cultic-judgment-pouch.",
+      "voorkomens": 25
+    },
+    {
+      "strong": "H2834",
+      "hebreeuws": "חָשַׂף",
+      "translit": "chasaf",
+      "woordsoort": "verb",
+      "en_concordant": "strip-bare",
+      "grondvorm": "strip-bare",
+      "stamfamilie": [],
+      "toelichting": "Qal: lay-bare, uncover (Ps 29:9; Isa 20:4; 30:14; 47:2; 52:10; Jer 13:26; 49:10; Eze 4:7; Joel 1:7; Hag 2:16). Hyphenated.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H2835",
+      "hebreeuws": "חָשִׂף",
+      "translit": "chasif",
+      "woordsoort": "noun",
+      "en_concordant": "small-flock",
+      "grondvorm": "small-flock",
+      "stamfamilie": [],
+      "toelichting": "1Kgs 20:27 'two-little-flocks-of-kids'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2836a",
+      "hebreeuws": "חָשַׁק-I",
+      "translit": "chashaq-I",
+      "woordsoort": "verb",
+      "en_concordant": "cling-with-love",
+      "grondvorm": "cling-with-love",
+      "stamfamilie": [
+        "H2837"
+      ],
+      "toelichting": "Qal/Pi: be-attached-in-affection (Gen 34:8; Deut 7:7; 10:15; 21:11; 1Kgs 9:19; 2Chr 8:6; Ps 91:14; Isa 38:17). Hyphenated to mark covenant-affection distinct from H157 ahav love.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H2836b",
+      "hebreeuws": "חָשַׁק-II",
+      "translit": "chashaq-II",
+      "woordsoort": "verb",
+      "en_concordant": "furnish-with-bands",
+      "grondvorm": "furnish-with-bands",
+      "stamfamilie": [
+        "H2838"
+      ],
+      "toelichting": "Pi/Pu: girt with silver fillets (Ex 27:17; 38:17,28). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2837",
+      "hebreeuws": "חֵשֶׁק",
+      "translit": "cheshek",
+      "woordsoort": "noun",
+      "en_concordant": "desire-delight",
+      "grondvorm": "desire-delight",
+      "stamfamilie": [
+        "H2836a"
+      ],
+      "toelichting": "Longing, treasured-thing (1Kgs 9:1,19; 2Chr 8:6; Isa 21:4). Hyphenated.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H2838",
+      "hebreeuws": "חָשׁוּק",
+      "translit": "chashuq",
+      "woordsoort": "noun",
+      "en_concordant": "silver-fillet",
+      "grondvorm": "silver-fillet",
+      "stamfamilie": [
+        "H2836b"
+      ],
+      "toelichting": "Tabernacle pillar-bands (Ex 27:10,11; 38:10-12,17,19). Hyphenated.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H2839",
+      "hebreeuws": "חִשּׁוּק",
+      "translit": "chishshuq",
+      "woordsoort": "noun",
+      "en_concordant": "wheel-spokes",
+      "grondvorm": "wheel-spokes",
+      "stamfamilie": [],
+      "toelichting": "1Kgs 7:33 'their-axletrees-and-naves-and-felloes-and-spokes'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2840",
+      "hebreeuws": "חִשֻּׁר",
+      "translit": "chishshur",
+      "woordsoort": "noun",
+      "en_concordant": "hub-of-wheel",
+      "grondvorm": "hub-of-wheel",
+      "stamfamilie": [],
+      "toelichting": "1Kgs 7:33. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2841",
+      "hebreeuws": "חַשְׁרָה",
+      "translit": "chashrah",
+      "woordsoort": "noun",
+      "en_concordant": "cloud-mass",
+      "grondvorm": "cloud-mass",
+      "stamfamilie": [],
+      "toelichting": "2Sam 22:12 'thick-clouds-of-the-skies'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2842",
+      "hebreeuws": "חָשַׁשׁ",
+      "translit": "chashash",
+      "woordsoort": "noun",
+      "en_concordant": "chaff-stubble",
+      "grondvorm": "chaff-stubble",
+      "stamfamilie": [],
+      "toelichting": "Isa 5:24; 33:11. Hyphenated to mark dry-grass-residue.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2843",
+      "hebreeuws": "חֻשָׁתִי",
+      "translit": "chushathi",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hushathite",
+      "grondvorm": "Hushathite",
+      "stamfamilie": [
+        "H2364"
+      ],
+      "toelichting": "Gentilic of Hushah (2Sam 21:18; 23:27; 1Chr 11:29; 20:4; 27:11). English convention: Hushathite.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H2844a",
+      "hebreeuws": "חַת",
+      "translit": "chat-terror",
+      "woordsoort": "noun",
+      "en_concordant": "terror-shattering",
+      "grondvorm": "terror-shattering",
+      "stamfamilie": [
+        "H2865"
+      ],
+      "toelichting": "Gen 9:2; Job 6:21; 41:33. Hyphenated.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H2844b",
+      "hebreeuws": "חִתִּים",
+      "translit": "chittim-terror",
+      "woordsoort": "noun",
+      "en_concordant": "terrors-shocks",
+      "grondvorm": "terrors-shocks",
+      "stamfamilie": [
+        "H2844a"
+      ],
+      "toelichting": "Plural-form of dread (Job 41:25). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2845",
+      "hebreeuws": "חֵת",
+      "translit": "chet",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Heth",
+      "grondvorm": "Heth",
+      "stamfamilie": [
+        "H2850"
+      ],
+      "toelichting": "Son of Canaan, ancestor of Hittites (Gen 10:15; 23:3,5,7,10,16,18,20; 25:10; 27:46; 49:32; 1Chr 1:13). English convention: Heth.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H2846",
+      "hebreeuws": "חָתָה",
+      "translit": "chathah",
+      "woordsoort": "verb",
+      "en_concordant": "snatch-up-coals",
+      "grondvorm": "snatch-up-coals",
+      "stamfamilie": [],
+      "toelichting": "Qal: take-up-fire-or-coals (Ps 52:5; Prov 6:27; 25:22; Isa 30:14). Hyphenated.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H2847",
+      "hebreeuws": "חִתָּה",
+      "translit": "chittah",
+      "woordsoort": "noun",
+      "en_concordant": "terror",
+      "grondvorm": "terror",
+      "stamfamilie": [
+        "H2865"
+      ],
+      "toelichting": "Gen 35:5 'the-terror-of-the-Mighty-One was-upon-the-cities'. Standard concordant 'terror'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2848",
+      "hebreeuws": "חִתּוּל",
+      "translit": "chittul",
+      "woordsoort": "noun",
+      "en_concordant": "bandage-cloth",
+      "grondvorm": "bandage-cloth",
+      "stamfamilie": [
+        "H2853"
+      ],
+      "toelichting": "Eze 30:21 'no-roller-to-bind-it-up'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2849",
+      "hebreeuws": "חַתְחַת",
+      "translit": "chathchath",
+      "woordsoort": "noun",
+      "en_concordant": "terrors-along-the-way",
+      "grondvorm": "terrors-along-the-way",
+      "stamfamilie": [
+        "H2865"
+      ],
+      "toelichting": "Ecc 12:5 'fears-on-the-way'. Hyphenated reduplicated form.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2850",
+      "hebreeuws": "חִתִּי",
+      "translit": "chitti",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hittite",
+      "grondvorm": "Hittite",
+      "stamfamilie": [
+        "H2845"
+      ],
+      "toelichting": "Pre-Israelite Anatolian-derived people (Gen 15:20; 23:10; 25:9,10; 26:34; 27:46; 36:2; 49:29,30,32; 50:13; Ex 3:8,17; 13:5; 23:23,28; 33:2; 34:11; Num 13:29; Deut 7:1; 20:17; Josh 1:4; 3:10; 9:1; 11:3; 12:8; 24:11; Judg 1:26; 3:5; 1Sam 26:6; 2Sam 11:3,6,17,21,24; 12:9,10; 23:39; 1Kgs 9:20; 10:29; 11:1; 15:5; 2Kgs 7:6; 1Chr 11:41; 2Chr 1:17; 8:7; Ezr 9:1; Neh 9:8; Eze 16:3,45). English convention: Hittite.",
+      "voorkomens": 48
+    },
+    {
+      "strong": "H2851",
+      "hebreeuws": "חִתִּית",
+      "translit": "chittith",
+      "woordsoort": "noun",
+      "en_concordant": "terror-fright",
+      "grondvorm": "terror-fright",
+      "stamfamilie": [
+        "H2865"
+      ],
+      "toelichting": "Eze 32:23-32 'their-terror-in-the-land-of-the-living'. Hyphenated.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H2852",
+      "hebreeuws": "חָתַךְ",
+      "translit": "chathak",
+      "woordsoort": "verb",
+      "en_concordant": "determine-decree",
+      "grondvorm": "determine-decree",
+      "stamfamilie": [],
+      "toelichting": "Ni: be-decreed (Dan 9:24 'seventy-weeks-are-determined'). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2853",
+      "hebreeuws": "חָתַל",
+      "translit": "chathal",
+      "woordsoort": "verb",
+      "en_concordant": "swathe-wrap",
+      "grondvorm": "swathe-wrap",
+      "stamfamilie": [
+        "H2848"
+      ],
+      "toelichting": "Pu/Hophal: be-swaddled (Eze 16:4 'thou-wast-not-swaddled-at-all'). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2854",
+      "hebreeuws": "חֲתֻלָּה",
+      "translit": "chatullah",
+      "woordsoort": "noun",
+      "en_concordant": "swaddling-band",
+      "grondvorm": "swaddling-band",
+      "stamfamilie": [
+        "H2853"
+      ],
+      "toelichting": "Job 38:9 'thick-darkness as-its-swaddling-band'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2855",
+      "hebreeuws": "חֶתְלֹן",
+      "translit": "chetlon",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hethlon",
+      "grondvorm": "Hethlon",
+      "stamfamilie": [],
+      "toelichting": "Northern boundary site (Eze 47:15; 48:1). English convention: Hethlon.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2856",
+      "hebreeuws": "חָתַם",
+      "translit": "chatam",
+      "woordsoort": "verb",
+      "en_concordant": "seal-up",
+      "grondvorm": "seal-up",
+      "stamfamilie": [
+        "H2368"
+      ],
+      "toelichting": "Qal/Ni/Pi/Hi: seal, close-up (Lev 15:3; Deut 32:34; 1Kgs 21:8; Esth 3:12; 8:8,10; Job 9:7; 14:17; 24:16; 33:16; 37:7; Song 4:12; Isa 8:16; 29:11; Jer 32:10,11,14,44; Eze 28:12; Dan 6:17; 8:26; 9:24; 12:4,9; Neh 9:38; 10:1). Hyphenated to mark sealing-action distinct from H5640 satam shut.",
+      "voorkomens": 27
+    },
+    {
+      "strong": "H2857",
+      "hebreeuws": "חֲתַם",
+      "translit": "chatam-Aram",
+      "woordsoort": "verb-aramaic",
+      "en_concordant": "seal-up-aramaic",
+      "grondvorm": "seal-up-aramaic",
+      "stamfamilie": [
+        "H2856"
+      ],
+      "toelichting": "Aramaic; Dan 6:17. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2858",
+      "hebreeuws": "חֹתֶמֶת",
+      "translit": "chotemet",
+      "woordsoort": "noun",
+      "en_concordant": "signet-ring",
+      "grondvorm": "signet-ring",
+      "stamfamilie": [
+        "H2368"
+      ],
+      "toelichting": "Gen 38:25 'whose-signet-and-bracelets-and-staff'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2859a",
+      "hebreeuws": "חָתַן-I",
+      "translit": "chatan-I",
+      "woordsoort": "verb",
+      "en_concordant": "contract-marriage",
+      "grondvorm": "contract-marriage",
+      "stamfamilie": [
+        "H2860"
+      ],
+      "toelichting": "Hithp: form-marriage-alliance (Gen 34:9; Deut 7:3; Josh 23:12; 1Sam 18:21-27; 1Kgs 3:1; 2Chr 18:1; Ezr 9:14). Hyphenated.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H2859b",
+      "hebreeuws": "חָתַן-II",
+      "translit": "chatan-II",
+      "woordsoort": "verb",
+      "en_concordant": "become-son-in-law",
+      "grondvorm": "become-son-in-law",
+      "stamfamilie": [
+        "H2859a"
+      ],
+      "toelichting": "Hithp variant: become-related-by-marriage (1Sam 18:22,23,26,27). Hyphenated to distinguish from H2859a alliance-action.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H2860",
+      "hebreeuws": "חָתָן",
+      "translit": "chatan",
+      "woordsoort": "noun",
+      "en_concordant": "bridegroom",
+      "grondvorm": "bridegroom",
+      "stamfamilie": [
+        "H2859a"
+      ],
+      "toelichting": "Ex 4:25,26; Judg 15:6; 19:5; 1Sam 18:18; 22:14; 2Kgs 8:27; Neh 6:18; 13:28; Ps 19:5; Isa 61:10; 62:5; Jer 7:34; 16:9; 25:10; 33:11; Joel 2:16. Standard concordant 'bridegroom'.",
+      "voorkomens": 20
+    },
+    {
+      "strong": "H2861",
+      "hebreeuws": "חֲתֻנָּה",
+      "translit": "chathunnah",
+      "woordsoort": "noun",
+      "en_concordant": "wedding-day",
+      "grondvorm": "wedding-day",
+      "stamfamilie": [
+        "H2860"
+      ],
+      "toelichting": "Song 3:11 'day-of-his-espousals'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2862",
+      "hebreeuws": "חָתַף",
+      "translit": "chataf",
+      "woordsoort": "verb",
+      "en_concordant": "snatch-away",
+      "grondvorm": "snatch-away",
+      "stamfamilie": [
+        "H2863"
+      ],
+      "toelichting": "Job 9:12 'who-can-hinder-him-from-snatching'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2863",
+      "hebreeuws": "חֶתֶף",
+      "translit": "cheteph",
+      "woordsoort": "noun",
+      "en_concordant": "robber",
+      "grondvorm": "robber",
+      "stamfamilie": [
+        "H2862"
+      ],
+      "toelichting": "Prov 23:28 'lies-in-wait-as-a-robber'. Standard concordant.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2864",
+      "hebreeuws": "חָתַר",
+      "translit": "chathar",
+      "woordsoort": "verb",
+      "en_concordant": "dig-through",
+      "grondvorm": "dig-through",
+      "stamfamilie": [],
+      "toelichting": "Qal: break-through wall (Job 24:16; Eze 8:8; 12:5,7,12; Jonah 1:13; Amos 9:2). Hyphenated.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H2865",
+      "hebreeuws": "חָתַת",
+      "translit": "chatat",
+      "woordsoort": "verb",
+      "en_concordant": "be-shattered-dismayed",
+      "grondvorm": "be-shattered-dismayed",
+      "stamfamilie": [
+        "H2844a",
+        "H2847",
+        "H2851",
+        "H2866"
+      ],
+      "toelichting": "Qal/Ni/Pi/Hi: be-broken-with-fear (Deut 1:21; 31:8; Josh 1:9; 8:1; 10:25; 1Sam 2:10; 17:11; 2Kgs 19:26; 1Chr 22:13; 28:20; 2Chr 20:15,17; 32:7; Job 21:13; 32:15; 39:22; Ps 89:34; Isa 7:8; 8:9; 20:5; 30:31; 31:4,9; 37:27; 51:6; Jer 1:17; 8:9; 10:2; 14:4; 17:18; 23:4; 30:10; 46:27; 48:1,20,39; 50:2,36; 51:56; Eze 2:6; 3:9; Obad 9; Mal 2:5). Hyphenated to mark double-aspect of physical-shattering and emotional-dismay.",
+      "voorkomens": 54
+    },
+    {
+      "strong": "H2866",
+      "hebreeuws": "חֲתַת",
+      "translit": "chathath",
+      "woordsoort": "noun",
+      "en_concordant": "dismay",
+      "grondvorm": "dismay",
+      "stamfamilie": [
+        "H2865"
+      ],
+      "toelichting": "Job 6:21 'you-see-my-dismay-and-fear'. Standard concordant.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2867",
+      "hebreeuws": "חֲתַת",
+      "translit": "chathath-pn",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Hathath",
+      "grondvorm": "Hathath",
+      "stamfamilie": [],
+      "toelichting": "Othniel's son (1Chr 4:13). English convention: Hathath.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2868",
+      "hebreeuws": "טְאֵב",
+      "translit": "teev-Aram",
+      "woordsoort": "verb-aramaic",
+      "en_concordant": "be-glad-aramaic",
+      "grondvorm": "be-glad-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaic; Dan 6:23 'the-king-was-exceedingly-glad'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2869",
+      "hebreeuws": "טָב",
+      "translit": "tav-Aram",
+      "woordsoort": "adjective-aramaic",
+      "en_concordant": "good-aramaic",
+      "grondvorm": "good-aramaic",
+      "stamfamilie": [
+        "H2896a"
+      ],
+      "toelichting": "Aramaic; Ezr 5:17; Dan 2:32; 6:23. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2870a",
+      "hebreeuws": "טָבְאֵל",
+      "translit": "tabeel-Aram",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Tabeel-aramaic",
+      "grondvorm": "Tabeel-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaic; Ezr 4:7. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2870b",
+      "hebreeuws": "טָבְאֵל-II",
+      "translit": "tabeel-II",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Tabeel-son",
+      "grondvorm": "Tabeel-son",
+      "stamfamilie": [],
+      "toelichting": "Father of Aram-Israel-coalition's puppet-king (Isa 7:6). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2871",
+      "hebreeuws": "טָבוּל",
+      "translit": "tavul",
+      "woordsoort": "adjective",
+      "en_concordant": "dyed-turbaned",
+      "grondvorm": "dyed-turbaned",
+      "stamfamilie": [
+        "H2881"
+      ],
+      "toelichting": "Eze 23:15 'with-dyed-attire-on-their-heads'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2872",
+      "hebreeuws": "טַבּוּר",
+      "translit": "tabbur",
+      "woordsoort": "noun",
+      "en_concordant": "navel-height",
+      "grondvorm": "navel-height",
+      "stamfamilie": [],
+      "toelichting": "Judg 9:37; Eze 38:12 'middle-of-the-earth'. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2873",
+      "hebreeuws": "טָבַח",
+      "translit": "tavach",
+      "woordsoort": "verb",
+      "en_concordant": "slaughter",
+      "grondvorm": "slaughter",
+      "stamfamilie": [
+        "H2874",
+        "H2876"
+      ],
+      "toelichting": "Qal: butcher-animal-or-people (Gen 43:16; Ex 21:37; 22:1; Deut 28:31; 1Sam 25:11; Ps 37:14; Prov 9:2; Isa 14:21; 22:13; 53:7; Jer 11:19; 12:3; 25:34; 51:40; Lam 2:21; Eze 21:10,15,28). Standard concordant 'slaughter'.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H2874",
+      "hebreeuws": "טֶבַח",
+      "translit": "tevach",
+      "woordsoort": "noun",
+      "en_concordant": "slaughter-meat",
+      "grondvorm": "slaughter-meat",
+      "stamfamilie": [
+        "H2873"
+      ],
+      "toelichting": "Slaughtering, butchered-meat (Gen 43:16; 1Sam 25:11; Prov 7:22; 9:2; Isa 34:2,6; 53:7; 65:12; Jer 12:3; 25:34; 48:15; 50:27; 51:40; Eze 21:15; Hos 5:2; Ps 44:22). Hyphenated.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H2875",
+      "hebreeuws": "טֶבַח",
+      "translit": "tevach-pn",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Tebah",
+      "grondvorm": "Tebah",
+      "stamfamilie": [],
+      "toelichting": "Aramean son of Nahor (Gen 22:24). English convention: Tebah.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2876",
+      "hebreeuws": "טַבָּח",
+      "translit": "tabbach",
+      "woordsoort": "noun",
+      "en_concordant": "bodyguard-slaughterer",
+      "grondvorm": "bodyguard-slaughterer",
+      "stamfamilie": [
+        "H2873"
+      ],
+      "toelichting": "Royal-executioner-and-cook (Gen 37:36; 39:1; 40:3,4; 41:10,12; 1Sam 9:23,24; 2Kgs 25:8-20; Jer 39:9-13; 40:1-5; 41:10; 43:6; 52:12-30; Lam 2:20). Hyphenated to preserve dual function.",
+      "voorkomens": 32
+    },
+    {
+      "strong": "H2877",
+      "hebreeuws": "טַבָּח",
+      "translit": "tabbach-Aram",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "executioner-aramaic",
+      "grondvorm": "executioner-aramaic",
+      "stamfamilie": [
+        "H2876"
+      ],
+      "toelichting": "Aramaic; Dan 2:14 'captain-of-the-king's-guard'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2878",
+      "hebreeuws": "טִבְחָת",
+      "translit": "tivchath",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Tibhath",
+      "grondvorm": "Tibhath",
+      "stamfamilie": [],
+      "toelichting": "Aramean city (1Chr 18:8). English convention: Tibhath.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2879",
+      "hebreeuws": "טַבָּחָה",
+      "translit": "tabbachah",
+      "woordsoort": "noun",
+      "en_concordant": "woman-cook",
+      "grondvorm": "woman-cook",
+      "stamfamilie": [
+        "H2876"
+      ],
+      "toelichting": "1Sam 8:13 'will-take-your-daughters-to-be-cooks'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2880",
+      "hebreeuws": "טִבְחַת",
+      "translit": "tivchat-pn",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Tibhath-city",
+      "grondvorm": "Tibhath-city",
+      "stamfamilie": [
+        "H2878"
+      ],
+      "toelichting": "Variant referent (2Sam 8:8 with parallel 1Chr 18:8). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2881",
+      "hebreeuws": "טָבַל",
+      "translit": "taval",
+      "woordsoort": "verb",
+      "en_concordant": "dip-in",
+      "grondvorm": "dip-in",
+      "stamfamilie": [],
+      "toelichting": "Qal/Ni: immerse, dip (Gen 37:31; Ex 12:22; Lev 4:6,17; 9:9; 14:6,16,51; Num 19:18; Deut 33:24; Josh 3:15; Ruth 2:14; 1Sam 14:27; 2Kgs 5:14; 8:15; Job 9:31; Eze 23:15). Hyphenated to mark immersion-action.",
+      "voorkomens": 16
+    },
+    {
+      "strong": "H2882",
+      "hebreeuws": "טְבַלְיָהוּ",
+      "translit": "tevalyahu",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Tebaliah",
+      "grondvorm": "Tebaliah",
+      "stamfamilie": [],
+      "toelichting": "Levitical gatekeeper (1Chr 26:11). English convention: Tebaliah.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2883",
+      "hebreeuws": "טָבַע",
+      "translit": "tava",
+      "woordsoort": "verb",
+      "en_concordant": "sink-fasten",
+      "grondvorm": "sink-fasten",
+      "stamfamilie": [
+        "H2884",
+        "H2885"
+      ],
+      "toelichting": "Qal/Pu/Hophal: be-sunk-or-fixed (Ex 15:4; 1Sam 17:49; Job 38:6; Ps 9:15; 69:2,14; Prov 8:25; Jer 38:6,22; Lam 2:9). Hyphenated to mark sinking-or-fixing-into.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H2884",
+      "hebreeuws": "טַבָּעוֹת",
+      "translit": "tabbaoth",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Tabbaoth",
+      "grondvorm": "Tabbaoth",
+      "stamfamilie": [],
+      "toelichting": "Nethinim ancestor (Ezr 2:43; Neh 7:46). English convention: Tabbaoth.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2885",
+      "hebreeuws": "טַבַּעַת",
+      "translit": "tabaat",
+      "woordsoort": "noun",
+      "en_concordant": "signet-ring",
+      "grondvorm": "signet-ring",
+      "stamfamilie": [
+        "H2883"
+      ],
+      "toelichting": "Sealing-ring or attachment-ring (Gen 41:42; Ex 25:12-27; 26:24,29; 27:4,7; 28:23-28; 29:5; 30:4; 35:22; 36:29,34; 37:3-27; 38:5,7; 39:16-21; Num 31:50; Esth 3:10,12; 8:2,8,10; Isa 3:21). Hyphenated.",
+      "voorkomens": 51
+    },
+    {
+      "strong": "H2886",
+      "hebreeuws": "טַבְרִמּוֹן",
+      "translit": "tabrimmon",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Tabrimmon",
+      "grondvorm": "Tabrimmon",
+      "stamfamilie": [],
+      "toelichting": "Aramean king-father (1Kgs 15:18). English convention: Tabrimmon. 'Good-Rimmon'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2887",
+      "hebreeuws": "טֵבֵת",
+      "translit": "tevet",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Tebeth-month",
+      "grondvorm": "Tebeth-month",
+      "stamfamilie": [],
+      "toelichting": "Tenth month of Hebrew calendar (Esth 2:16). Hyphenated. English convention: Tebeth.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2888",
+      "hebreeuws": "טַבָּת",
+      "translit": "tabbath",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Tabbath",
+      "grondvorm": "Tabbath",
+      "stamfamilie": [],
+      "toelichting": "Place to which Midianites fled (Judg 7:22). English convention: Tabbath.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2889",
+      "hebreeuws": "טָהוֹר",
+      "translit": "tahor",
+      "woordsoort": "adjective",
+      "en_concordant": "clean-pure",
+      "grondvorm": "clean-pure",
+      "stamfamilie": [
+        "H2891",
+        "H2893"
+      ],
+      "toelichting": "Cultically/morally clean (Gen 7:2,8; 8:20; Lev 4:12; 6:11; 7:19; 10:10,14; 11:32,36,37,47; 13:13,17,37,40,41; 14:4,7,8,9,11,20,53,57; 15:8,13,28; 16:30; 17:15; 22:4,7; Num 5:28; 9:13; 18:11,13; 19:9,18,19; 31:23,24; Deut 12:15,22; 14:11,20; 15:22; 23:11; 26:14; 1Sam 20:26; 2Chr 4:22; 13:11; 30:17,18; Ezr 6:20; Job 4:17; 14:4; 17:9; 28:19; Ps 12:6; 19:9; 24:4; 51:10; 73:1; 79:7; Prov 15:26; 22:11; 30:12; Ecc 9:2; Mal 1:11; Hab 1:13; Zeph 3:9; Zech 3:5). Hyphenated to mark cultic-and-moral-purity.",
+      "voorkomens": 94
+    },
+    {
+      "strong": "H2890",
+      "hebreeuws": "טְהוֹר",
+      "translit": "tehor",
+      "woordsoort": "adjective",
+      "en_concordant": "pure-clear",
+      "grondvorm": "pure-clear",
+      "stamfamilie": [
+        "H2889"
+      ],
+      "toelichting": "Variant; clean, of glass-pavement of YHWH (Ex 24:10). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2891",
+      "hebreeuws": "טָהֵר",
+      "translit": "taher",
+      "woordsoort": "verb",
+      "en_concordant": "be-clean-purify",
+      "grondvorm": "be-clean-purify",
+      "stamfamilie": [
+        "H2889"
+      ],
+      "toelichting": "Qal/Pi/Pu/Hithp: be-clean, cleanse (Gen 35:2; Lev 8:15; 11:32; 12:7,8; 13:6,13,17,23,28,34,35,37,58,59; 14:4,7,8,9,11,14,17,18,19,20,25,28,29,31,48,53; 15:13,28; 16:19,30; 17:15; 22:4,7; Num 8:6,7,15,21; 19:12,19; 31:23,24; Josh 22:17; 2Sam 11:4; 2Kgs 5:10,12,13,14; 2Chr 29:15-18; 30:17-20; 34:3,5,8; Ezr 6:20; Neh 12:30,45; 13:9,22,30; Job 4:17; 37:21; Ps 12:6; 19:9; 51:2,7,10; Prov 20:9; Ecc 9:2; Eze 22:24; 24:13; 36:25,33; 37:23; 39:12,14,16; Hag 2:13; Mal 3:3). Hyphenated.",
+      "voorkomens": 94
+    },
+    {
+      "strong": "H2892a",
+      "hebreeuws": "טֹהַר-I",
+      "translit": "tohar-I",
+      "woordsoort": "noun",
+      "en_concordant": "clearness-purity",
+      "grondvorm": "clearness-purity",
+      "stamfamilie": [
+        "H2891"
+      ],
+      "toelichting": "Ex 24:10; Ps 89:44. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2892b",
+      "hebreeuws": "טֹהַר-II",
+      "translit": "tohar-II",
+      "woordsoort": "noun",
+      "en_concordant": "splendor-glory",
+      "grondvorm": "splendor-glory",
+      "stamfamilie": [
+        "H2892a"
+      ],
+      "toelichting": "Sub-sense; Ps 89:44 'made-his-splendor-cease'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2893",
+      "hebreeuws": "טָהֳרָה",
+      "translit": "taharah",
+      "woordsoort": "noun",
+      "en_concordant": "purification-state",
+      "grondvorm": "purification-state",
+      "stamfamilie": [
+        "H2891"
+      ],
+      "toelichting": "Ritual-cleanness (Lev 12:4,5,6; 13:7,35; 14:23,32; 15:13; Num 6:9; 1Chr 23:28; Neh 12:45). Hyphenated.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H2894",
+      "hebreeuws": "טוּא",
+      "translit": "tu",
+      "woordsoort": "verb",
+      "en_concordant": "sweep-away",
+      "grondvorm": "sweep-away",
+      "stamfamilie": [],
+      "toelichting": "Pilpel: sweep-clean (Isa 14:23 'sweep-it-with-the-besom-of-destruction'). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2895",
+      "hebreeuws": "טוֹב-II",
+      "translit": "tov-II",
+      "woordsoort": "verb",
+      "en_concordant": "be-good",
+      "grondvorm": "be-good",
+      "stamfamilie": [
+        "H2896a",
+        "H2896b"
+      ],
+      "toelichting": "Qal: be-pleasant, well, fitting (Num 24:1; Judg 11:25; 1Sam 16:23; 2Sam 3:36; 1Kgs 12:7; 2Chr 10:7; Esth 1:21; 2:4,9; Ps 13:6; 49:18; 119:68; Prov 3:30; 30:29; Ecc 7:3,10; Jer 18:4). Standard concordant.",
+      "voorkomens": 21
+    },
+    {
+      "strong": "H2896a",
+      "hebreeuws": "טוֹב",
+      "translit": "tov-adj",
+      "woordsoort": "adjective",
+      "en_concordant": "good",
+      "grondvorm": "good",
+      "stamfamilie": [
+        "H2895",
+        "H2898"
+      ],
+      "toelichting": "Pleasing, beneficial, morally-right (Gen 1:4,10,12,18,21,25,31; 2:9,12,17,18; 3:5,6,22; 6:2; 7:2; 15:15; 18:7; 19:8; 24:16,50; 25:8; 26:7,29; 27:9; 28:19; 29:19; 30:20; 31:24,29; 39:6; 40:16; 41:5,22,24,26,35; 43:28; 44:4; 45:18,20,23; 46:30; 49:15; 50:20; Ex 2:2; 3:8; 18:9,17; 33:19; Lev 27:10,12,14,33; Num 10:29-32; 13:19,20; 14:7; 24:1,5,13; Deut 1:14,25,35,39; 3:25; 4:21,22; 6:10,18,24; 7:13,14; 8:7,10,12; 9:6,18,25; 10:13; 11:17; 12:28; 14:26; 15:16; 19:13; 22:7; 23:6,16,20; 26:11; 28:11,12,40,47,63; 30:9,15; 31:21; 32:13; Josh 23:13,15,16; 24:20; Judg 8:32,35; 9:2,11,16; 10:15; 11:25,38; 14:3,7; 15:2; 17:6,13; 18:9,19; 19:6,9,13,22; 21:14,25; Ruth 2:22; 3:1,7,10,13; 1Sam 1:8,18,23; 2:24,26; 3:18; 8:14,16; 9:2,10; 11:10; 12:23; 14:36,40; 15:9,22,28; 16:12,16,17,18,21,23; 18:5; 19:4; 20:7,12; 24:4,17,18,19; 25:3,8,15,21,30,36; 26:16,21; 27:1; 29:6,9; 30:24; 31:13; 2Sam 2:6; 3:13,19,36; 7:28; 10:12; 13:22,28; 14:17,32; 15:3,26; 17:7,14; 18:3,4,27; 19:6,18,28,38; 24:22; 1Kgs 1:6,42,52; 2:18,38,42; 3:9; 5:7,18; 8:18,36,56,66; 10:7; 12:7,13; 14:13,15; 18:24; 19:4; 20:3; 21:2,9,12; 22:8,13,15; 2Kgs 2:19; 3:19,25; 5:12; 8:9; 10:3,5; 18:25; 20:3,13,19; 25:28; 1Chr 4:40; 16:34; 17:26; 18:10; 19:13; 28:8; 29:3,28; 2Chr 3:5,8; 5:13; 6:8,27,41; 7:3,10; 9:6; 10:7; 12:12; 14:2; 18:7,12,14; 19:11; 30:18,22; 31:20; 35:26; 36:8; Ezr 3:11; 7:9,28; 8:18,22,27; 9:12; Neh 2:6,18; 5:9,19; 6:19; 9:13,20,25,35,36; 13:31; Esth 3:11; 5:9,14; 7:9; 8:5; 9:13,19,22,30; Job 2:10; 7:7; 9:25; 10:3; 13:9; 21:13,16,25; 22:18,21; 30:15; 34:4; 36:11; Ps 4:6; 14:1,3; 16:2; 21:3; 23:6; 25:7,8,13; 27:13; 31:19; 33:5; 34:8,10,12,14; 35:12; 36:3; 37:3,16,27; 38:20; 39:2; 45:1; 51:18; 52:3,9; 54:6; 65:4,11; 68:10; 69:16; 73:1,28; 84:10,11; 85:12; 86:5,17; 92:1; 100:5; 103:5; 104:28; 106:1,5; 107:1,9; 109:5,21; 111:10; 112:5; 118:1,8,9,29; 119:39,65,66,68,71,72,122; 122:9; 125:4; 128:2; 133:1,2; 135:3; 136:1; 143:10; 145:9; 147:1; Prov 2:9,20; 3:4,14,27; 4:2; 11:23,27; 12:2,9,14,25; 13:2,15,21,22; 14:14,19,22; 15:3,15,17,23,30; 16:8,16,19,20,29,32; 17:1,13,20,22,26; 18:5,22; 19:1,2,8,22; 20:23; 21:9,19; 22:1,9; 24:13,23,25; 25:7,24,25,27; 27:5,10,18; 28:6,10,21; 29:6; 31:12,18; Ecc 2:3,24,26; 3:12,13,22; 4:3,6,8,9,13; 5:5,11,18; 6:3,9,12; 7:1,2,3,5,8,10,11,14,18,20,26; 8:12,13,15; 9:2,4,7,16,18; 11:6,7; 12:14; Song 1:2,3; 4:10; 7:9; Isa 1:19; 3:10,24; 5:9,20; 7:15,16; 38:3; 39:2,8; 41:7; 52:7; 55:2; 56:5; 65:2; Jer 6:16,20; 8:15; 12:6; 13:23; 14:11,19; 17:6; 18:10,20; 21:10; 22:15,16; 24:2,3,5; 26:14; 29:10,32; 32:39,41,42; 33:9,11,14; 39:16; 40:4,9; 42:6; 44:17; 52:32; Lam 3:17,25,26,27,38; 4:1,9; Eze 17:8; 18:18; 20:25; 24:4; 31:16; 34:14,18; 36:31; Dan 1:4,15; 11:24; Hos 2:7; 3:5; 4:13; 8:3; 10:1,11; 14:2; Amos 5:14,15; 6:2; 9:4; Jonah 4:3,8; Mic 1:12; 3:2; 6:8; 7:4; Nah 3:4; Zech 1:13,17; 8:19; 9:17; 11:12; Mal 2:17). Standard concordant 'good'.",
+      "voorkomens": 495
+    },
+    {
+      "strong": "H2896b",
+      "hebreeuws": "טוֹב",
+      "translit": "tov-noun",
+      "woordsoort": "noun",
+      "en_concordant": "good-thing",
+      "grondvorm": "good-thing",
+      "stamfamilie": [
+        "H2896a"
+      ],
+      "toelichting": "Substantive use; the-good (Gen 24:50; 31:24; 50:20; Deut 1:14; 6:18; 12:28; Job 2:10; 7:7; 21:25; 30:26; Ps 4:6; 34:14; 37:27; Prov 2:14; Ecc 2:24; 3:12; 8:13; Mic 6:8). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2896c",
+      "hebreeuws": "טוֹב-III",
+      "translit": "tov-III",
+      "woordsoort": "noun",
+      "en_concordant": "welfare",
+      "grondvorm": "welfare",
+      "stamfamilie": [
+        "H2896a"
+      ],
+      "toelichting": "Sub-sense; Deut 23:6; 28:11; Job 22:21. Standard concordant.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2897",
+      "hebreeuws": "טוֹב",
+      "translit": "tov-pn",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Tob-land",
+      "grondvorm": "Tob-land",
+      "stamfamilie": [],
+      "toelichting": "Region east of Jordan (Judg 11:3,5; 2Sam 10:6,8). Hyphenated. English convention: Tob.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H2898",
+      "hebreeuws": "טוּב",
+      "translit": "tuv",
+      "woordsoort": "noun",
+      "en_concordant": "goodness",
+      "grondvorm": "goodness",
+      "stamfamilie": [
+        "H2896a"
+      ],
+      "toelichting": "Goodness, abundance (Gen 24:10; 45:18,20,23; Ex 33:19; Deut 6:11; 28:47; Judg 8:35; 9:11,16; 1Sam 25:30; 1Kgs 8:66; 2Chr 6:41; 7:10; Neh 9:25,35; Job 20:21; Ps 23:6; 25:7; 27:13; 31:19; 65:4,11; 86:5; 119:66; 128:5; 145:7; Prov 11:10; Ecc 4:8; 5:11,18; 6:3,6; 7:14; 9:18; Isa 63:7; 65:14; Jer 2:7; 31:12,14; 33:9; Lam 3:25; Hos 3:5; 10:11; Zech 9:17). Standard concordant 'goodness'.",
+      "voorkomens": 32
+    },
+    {
+      "strong": "H2899",
+      "hebreeuws": "טוֹב אֲדֹנִיָּה",
+      "translit": "tov-adoniyah",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Tob-adonijah",
+      "grondvorm": "Tob-adonijah",
+      "stamfamilie": [],
+      "toelichting": "Levite teacher (2Chr 17:8). Hyphenated. English convention: Tob-adonijah.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2899+",
+      "hebreeuws": "טוֹב אֲדֹנִיָּה",
+      "translit": "tov-adoniyah-plus",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Tob-adonijah-variant",
+      "grondvorm": "Tob-adonijah-variant",
+      "stamfamilie": [
+        "H2899"
+      ],
+      "toelichting": "Variant reference. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2900",
+      "hebreeuws": "טוֹבִיָּהוּ",
+      "translit": "toviyahu",
+      "woordsoort": "proper-noun",
+      "en_concordant": "Tobiah",
+      "grondvorm": "Tobiah",
+      "stamfamilie": [],
+      "toelichting": "Levite teacher and Ammonite-opponent of Nehemiah, post-exilic returnee (2Chr 17:8; Ezr 2:60; Neh 2:10,19; 4:3,7; 6:1,12,14,17,19; 7:62; 13:4,7,8; Zech 6:10,14). English convention: Tobiah. 'YHWH-is-good'.",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H2901",
+      "hebreeuws": "טָוָה",
+      "translit": "tavah",
+      "woordsoort": "verb",
+      "en_concordant": "spin-thread",
+      "grondvorm": "spin-thread",
+      "stamfamilie": [],
+      "toelichting": "Qal: spin (Ex 35:25,26). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2902a",
+      "hebreeuws": "טוּחַ-I",
+      "translit": "tuach-I",
+      "woordsoort": "verb",
+      "en_concordant": "plaster-overlay",
+      "grondvorm": "plaster-overlay",
+      "stamfamilie": [],
+      "toelichting": "Qal/Ni: smear-with-mortar (Lev 14:42,43,48; 1Chr 29:4; Eze 13:10,11,12,14,15; 22:28). Hyphenated.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H2902b",
+      "hebreeuws": "טוּחַ-II",
+      "translit": "tuach-II",
+      "woordsoort": "verb",
+      "en_concordant": "smear-eyes-blind",
+      "grondvorm": "smear-eyes-blind",
+      "stamfamilie": [
+        "H2902a"
+      ],
+      "toelichting": "Qal: blind-with-coating (Isa 44:18 'their-eyes-shall-not-see'). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2903",
+      "hebreeuws": "טוֹטָפֹת",
+      "translit": "totafot",
+      "woordsoort": "noun",
+      "en_concordant": "forehead-bands",
+      "grondvorm": "forehead-bands",
+      "stamfamilie": [],
+      "toelichting": "Frontlets, tefillin (Ex 13:16; Deut 6:8; 11:18). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2904",
+      "hebreeuws": "טוּל",
+      "translit": "tul",
+      "woordsoort": "verb",
+      "en_concordant": "hurl-cast",
+      "grondvorm": "hurl-cast",
+      "stamfamilie": [],
+      "toelichting": "Hi/Hophal/Pilpel: cast-out, hurl (1Sam 18:11; 20:33; Jer 16:13; 22:26,28; Jonah 1:4,5,12,15; Job 41:9 (Heb 41:1); Isa 22:17; Eze 32:4; Ps 37:24). Hyphenated.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H2905",
+      "hebreeuws": "טוּר",
+      "translit": "tur",
+      "woordsoort": "noun",
+      "en_concordant": "row-line",
+      "grondvorm": "row-line",
+      "stamfamilie": [],
+      "toelichting": "Architectural row, course-of-stones (Ex 28:17-20; 39:10-13; 1Kgs 6:36; 7:2,3,4,12,18,20,24,42; Eze 46:23). Hyphenated.",
+      "voorkomens": 26
+    },
+    {
+      "strong": "H2906",
+      "hebreeuws": "טוּר",
+      "translit": "tur-Aram",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "mountain-aramaic",
+      "grondvorm": "mountain-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaic; Dan 2:35,45. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2907",
+      "hebreeuws": "טוּשׂ",
+      "translit": "tus",
+      "woordsoort": "verb",
+      "en_concordant": "swoop-down",
+      "grondvorm": "swoop-down",
+      "stamfamilie": [],
+      "toelichting": "Qal: pounce (Job 9:26 'eagle-that-hastens-to-the-prey'). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2908",
+      "hebreeuws": "טְוָת",
+      "translit": "tevat-Aram",
+      "woordsoort": "adjective-aramaic",
+      "en_concordant": "fasting-aramaic",
+      "grondvorm": "fasting-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaic; Dan 6:18 'king-passed-the-night-fasting'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2909",
+      "hebreeuws": "טָחָה",
+      "translit": "tachah",
+      "woordsoort": "verb",
+      "en_concordant": "draw-bow",
+      "grondvorm": "draw-bow",
+      "stamfamilie": [],
+      "toelichting": "Pi: shoot-bow at distance (Gen 21:16). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2910",
+      "hebreeuws": "טֻחוֹת",
+      "translit": "tuchot",
+      "woordsoort": "noun",
+      "en_concordant": "inward-parts",
+      "grondvorm": "inward-parts",
+      "stamfamilie": [],
+      "toelichting": "Job 38:36; Ps 51:6. Hyphenated to mark inner-organs/inner-being.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2911",
+      "hebreeuws": "טְחוֹן",
+      "translit": "techon",
+      "woordsoort": "noun",
+      "en_concordant": "grinding-millstone",
+      "grondvorm": "grinding-millstone",
+      "stamfamilie": [
+        "H2912"
+      ],
+      "toelichting": "Lam 5:13 'they-took-young-men-to-grind'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2912",
+      "hebreeuws": "טָחַן",
+      "translit": "tachan",
+      "woordsoort": "verb",
+      "en_concordant": "grind",
+      "grondvorm": "grind",
+      "stamfamilie": [
+        "H2911"
+      ],
+      "toelichting": "Qal: grind grain or mill (Num 11:8; Deut 9:21; Judg 16:21; Job 31:10; Isa 3:15; 47:2; Lam 5:13; Ecc 12:3,4). Standard concordant 'grind'.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H2913",
+      "hebreeuws": "טַחֲנָה",
+      "translit": "tachanah",
+      "woordsoort": "noun",
+      "en_concordant": "grinding-mill",
+      "grondvorm": "grinding-mill",
+      "stamfamilie": [
+        "H2912"
+      ],
+      "toelichting": "Ecc 12:4 'sound-of-grinding-is-low'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2914",
+      "hebreeuws": "טְחֹר",
+      "translit": "techor",
+      "woordsoort": "noun",
+      "en_concordant": "hemorrhoid-tumor",
+      "grondvorm": "hemorrhoid-tumor",
+      "stamfamilie": [],
+      "toelichting": "Plague-affliction (Deut 28:27; 1Sam 5:6,9,12; 6:4,5,11,17). Hyphenated.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H2915",
+      "hebreeuws": "טִיחַ",
+      "translit": "tiach",
+      "woordsoort": "noun",
+      "en_concordant": "plaster-coating",
+      "grondvorm": "plaster-coating",
+      "stamfamilie": [
+        "H2902a"
+      ],
+      "toelichting": "Eze 13:12 'the-plastering-with-which-you-have-plastered-it'. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2916",
+      "hebreeuws": "טִיט",
+      "translit": "tit",
+      "woordsoort": "noun",
+      "en_concordant": "mire-mud",
+      "grondvorm": "mire-mud",
+      "stamfamilie": [],
+      "toelichting": "Wet-clay, miry-bog (2Sam 22:43; Ps 18:42; 40:2; 69:14; Isa 41:25; 57:20; Jer 38:6; Mic 7:10; Nah 3:14; Zech 9:3; 10:5). Hyphenated.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H2917",
+      "hebreeuws": "טִין",
+      "translit": "tin-Aram",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "clay-aramaic",
+      "grondvorm": "clay-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaic; Dan 2:41. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2918",
+      "hebreeuws": "טִירָה",
+      "translit": "tirah",
+      "woordsoort": "noun",
+      "en_concordant": "walled-camp",
+      "grondvorm": "walled-camp",
+      "stamfamilie": [],
+      "toelichting": "Fortified-encampment, dovecot (Gen 25:16; Num 31:10; 1Chr 6:54; Ps 69:25; Song 8:9; Eze 25:4). Hyphenated.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H2919",
+      "hebreeuws": "טַל",
+      "translit": "tal",
+      "woordsoort": "noun",
+      "en_concordant": "dew",
+      "grondvorm": "dew",
+      "stamfamilie": [],
+      "toelichting": "Morning-condensation (Gen 27:28,39; Ex 16:13,14; Num 11:9; Deut 32:2; 33:13,28; Judg 6:37,38,39,40; 2Sam 1:21; 17:12; 1Kgs 17:1; Job 29:19; 38:28; Ps 110:3; 133:3; Prov 3:20; 19:12; Song 5:2; Isa 18:4; 26:19; Hos 6:4; 13:3; 14:5; Mic 5:7; Hag 1:10; Zech 8:12). Standard concordant 'dew'.",
+      "voorkomens": 31
+    },
+    {
+      "strong": "H2920",
+      "hebreeuws": "טַל",
+      "translit": "tal-Aram",
+      "woordsoort": "noun-aramaic",
+      "en_concordant": "dew-aramaic",
+      "grondvorm": "dew-aramaic",
+      "stamfamilie": [
+        "H2919"
+      ],
+      "toelichting": "Aramaic; Dan 4:15,23,25,33; 5:21. Hyphenated.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H2921",
+      "hebreeuws": "טָלָא",
+      "translit": "tala",
+      "woordsoort": "verb",
+      "en_concordant": "be-spotted",
+      "grondvorm": "be-spotted",
+      "stamfamilie": [],
+      "toelichting": "Qal-passive: be-marked-with-patches (Gen 30:32-39; Eze 16:16). Hyphenated.",
+      "voorkomens": 2
+    }
+  ]
+}

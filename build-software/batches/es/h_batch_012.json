@@ -1,0 +1,3064 @@
+{
+  "batch_id": "h_batch_012",
+  "script": "heb",
+  "datum": "2026-05-01",
+  "entries": [
+    {
+      "strong": "H2617a",
+      "hebreeuws": "חֶסֶד",
+      "translit": "chesed",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lealtad-pactual",
+      "grondvorm": "lealtad-pactual",
+      "stamfamilie": [
+        "H2616a",
+        "H2623"
+      ],
+      "toelichting": "Lealtad fiel dentro del pacto. Concordante; distinto de H2580 chen 'favor' (ya asignado) y H7356 racham 'misericordia'. Anclas: raíz ch-s-d, familia con H2616a chasad mostrar-fidelidad-pactual y H2623 chasid leal-pactual.",
+      "voorkomens": 248
+    },
+    {
+      "strong": "H2617b",
+      "hebreeuws": "חֶסֶד-II",
+      "translit": "chesed-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "vergüenza-chesed-II",
+      "grondvorm": "vergüenza-chesed-II",
+      "stamfamilie": [
+        "H2616b"
+      ],
+      "toelichting": "Homónimo II en Lev 20:17 y Pr 14:34: acto vergonzoso. Disambiguado con sufijo para distinguir de H2617a lealtad-pactual.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2619",
+      "hebreeuws": "חֲסַדְיָה",
+      "translit": "chasadyah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chasadiah-pn",
+      "grondvorm": "Chasadiah-pn",
+      "stamfamilie": [
+        "H2617a"
+      ],
+      "toelichting": "Hijo de Zorobabel; 1Cr 3:20; transliterado concordante.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2620",
+      "hebreeuws": "חָסָה",
+      "translit": "chasah",
+      "woordsoort": "verbo",
+      "es_concordant": "refugiarse",
+      "grondvorm": "refugiarse",
+      "stamfamilie": [
+        "H2622"
+      ],
+      "toelichting": "Qal: buscar abrigo bajo Dios o roca; concordante 'refugiarse'.",
+      "voorkomens": 37
+    },
+    {
+      "strong": "H2621",
+      "hebreeuws": "חֹסָה",
+      "translit": "chosah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chosa-pn",
+      "grondvorm": "Chosa-pn",
+      "stamfamilie": [
+        "H2620"
+      ],
+      "toelichting": "Ciudad asérica frontera y portero levita; Jos 19:29; 1Cr 16:38; 26:10ss; transliterado.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H2622",
+      "hebreeuws": "חָסוּת",
+      "translit": "chasut",
+      "woordsoort": "sustantivo",
+      "es_concordant": "refugio-chasut",
+      "grondvorm": "refugio-chasut",
+      "stamfamilie": [
+        "H2620"
+      ],
+      "toelichting": "Confianza-refugio en sombra de Egipto avergonzado; Is 30:3; sufijo translit.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2623",
+      "hebreeuws": "חָסִיד",
+      "translit": "chasid",
+      "woordsoort": "adjetivo",
+      "es_concordant": "fiel-pactual",
+      "grondvorm": "fiel-pactual",
+      "stamfamilie": [
+        "H2617a"
+      ],
+      "toelichting": "Adjetivo de chesed: persona inmersa en lealtad pactual; concordante 'fiel-pactual' diferenciado de H539 aman.",
+      "voorkomens": 32
+    },
+    {
+      "strong": "H2624",
+      "hebreeuws": "חֲסִידָה",
+      "translit": "chasidah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cigüeña",
+      "grondvorm": "cigüeña",
+      "stamfamilie": [
+        "H2623"
+      ],
+      "toelichting": "Ave migratoria como imagen de fidelidad-devota (Lv 11:19; Dt 14:18; Jb 39:13; Sal 104:17; Jer 8:7; Zac 5:9). Familia con H2623.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H2625",
+      "hebreeuws": "חָסִיל",
+      "translit": "chasil",
+      "woordsoort": "sustantivo",
+      "es_concordant": "saltamontes-devorador",
+      "grondvorm": "saltamontes-devorador",
+      "stamfamilie": [],
+      "toelichting": "Tipo específico-dañino que devora cosechas (1Re 8:37; 2Cr 6:28; Sal 78:46; Is 33:4; Jl 1:4; 2:25). Familia con H2628 chasal.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H2626",
+      "hebreeuws": "חָסִין",
+      "translit": "chasin",
+      "woordsoort": "adjetivo",
+      "es_concordant": "potente-chasin",
+      "grondvorm": "potente-chasin",
+      "stamfamilie": [
+        "H2630"
+      ],
+      "toelichting": "'Quién-como-tú-potente-YHWH'; Sal 89:9; sufijo translit-hint.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2627",
+      "hebreeuws": "חַסִּיר",
+      "translit": "chassir-Aram",
+      "woordsoort": "adjetivo",
+      "es_concordant": "deficiente-arameo",
+      "grondvorm": "deficiente-arameo",
+      "stamfamilie": [
+        "H2637"
+      ],
+      "toelichting": "Arameo: 'pesado-en-balanza-y-hallado-deficiente' Belsasar; Dn 5:27.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2628",
+      "hebreeuws": "חָסַל",
+      "translit": "chasal",
+      "woordsoort": "verbo",
+      "es_concordant": "devorar-pelar",
+      "grondvorm": "devorar-pelar",
+      "stamfamilie": [],
+      "toelichting": "Qal: langostas consumen cosecha; Dt 28:38.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2629",
+      "hebreeuws": "חָסַם",
+      "translit": "chasam",
+      "woordsoort": "verbo",
+      "es_concordant": "embozar",
+      "grondvorm": "embozar",
+      "stamfamilie": [],
+      "toelichting": "Qal: poner bozal-cerrar-boca-impedir (Dt 25:4 buey-trillador; Ez 3:26 lengua-pegada). Distinto-de cerrar-boca general.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2630",
+      "hebreeuws": "חָסַן",
+      "translit": "chasan",
+      "woordsoort": "verbo",
+      "es_concordant": "almacenar-tesoro",
+      "grondvorm": "almacenar-tesoro",
+      "stamfamilie": [
+        "H2633"
+      ],
+      "toelichting": "Nifal: ganancia-de-Tiro-acumulada para Dios; Is 23:18.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2631",
+      "hebreeuws": "חֲסַן",
+      "translit": "chasan-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "poseer-arameo",
+      "grondvorm": "poseer-arameo",
+      "stamfamilie": [],
+      "toelichting": "Arameo: 'santos-poseerán-reino' Dn 7:18,22; cognado Hebr H2632 chesen.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2632",
+      "hebreeuws": "חֵסֶן",
+      "translit": "chesen-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "poder-bienes-arameo",
+      "grondvorm": "poder-bienes-arameo",
+      "stamfamilie": [
+        "H2631"
+      ],
+      "toelichting": "Arameo 'poder-mi-honor'; Dn 4:30.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2633",
+      "hebreeuws": "חֹסֶן",
+      "translit": "chosen",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tesoro-acumulado",
+      "grondvorm": "tesoro-acumulado",
+      "stamfamilie": [
+        "H2630"
+      ],
+      "toelichting": "Riquezas en cámaras-de-reserva (Pr 15:6; 27:24; Is 33:6; Jer 20:5; Ez 22:25). Distinto de H214 otsar y H2428 chayil.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H2634",
+      "hebreeuws": "חָסֹן",
+      "translit": "chason",
+      "woordsoort": "adjetivo",
+      "es_concordant": "robusto-chason",
+      "grondvorm": "robusto-chason",
+      "stamfamilie": [
+        "H2626"
+      ],
+      "toelichting": "Sinónimo poético de H2389 chazaq (Is 1:31; Am 2:9 'sólido-como-encinas'); sufijo translit.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2635",
+      "hebreeuws": "חֲסַף",
+      "translit": "chasaf-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "barro-arameo",
+      "grondvorm": "barro-arameo",
+      "stamfamilie": [
+        "H2563a"
+      ],
+      "toelichting": "Arameo: barro-de-pies en estatua de Daniel 2; cognado Hebr cheres.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H2636",
+      "hebreeuws": "חַסְפַּס",
+      "translit": "chaspas",
+      "woordsoort": "adjetivo",
+      "es_concordant": "escama-fina",
+      "grondvorm": "escama-fina",
+      "stamfamilie": [],
+      "toelichting": "Granular-fino como escarcha; forma-de-maná; Ex 16:14.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2637",
+      "hebreeuws": "חָסֵר",
+      "translit": "chaser-vb",
+      "woordsoort": "verbo",
+      "es_concordant": "carecer",
+      "grondvorm": "carecer",
+      "stamfamilie": [
+        "H2638",
+        "H2639",
+        "H2640",
+        "H2642"
+      ],
+      "toelichting": "Qal: faltar, quedar corto; concordante 'carecer'.",
+      "voorkomens": 24
+    },
+    {
+      "strong": "H2638",
+      "hebreeuws": "חָסֵר",
+      "translit": "chaser-adj",
+      "woordsoort": "adjetivo",
+      "es_concordant": "carente",
+      "grondvorm": "carente",
+      "stamfamilie": [
+        "H2637"
+      ],
+      "toelichting": "Adjetivo de raíz chaser: persona-falta-de (Pr 'falto-de-corazón' insensato); diferenciado del verbo.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H2639",
+      "hebreeuws": "חֶסֶר",
+      "translit": "cheser",
+      "woordsoort": "sustantivo",
+      "es_concordant": "indigencia-cheser",
+      "grondvorm": "indigencia-cheser",
+      "stamfamilie": [
+        "H2637"
+      ],
+      "toelichting": "Quien se apresura a riquezas no escapa indigencia; Pr 28:22; sufijo translit.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2640",
+      "hebreeuws": "חֹסֶר",
+      "translit": "choser",
+      "woordsoort": "sustantivo",
+      "es_concordant": "carencia-tekoor",
+      "grondvorm": "carencia-tekoor",
+      "stamfamilie": [
+        "H2637"
+      ],
+      "toelichting": "Carencia-de-todo en exilio (Dt 28:48,57; Am 4:6). Distinto de H4270 machsor 'necesidad' y H7389 resh 'pobreza'.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2641",
+      "hebreeuws": "חַסְרָה",
+      "translit": "chasrah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chasrah-pn",
+      "grondvorm": "Chasrah-pn",
+      "stamfamilie": [],
+      "toelichting": "Abuelo del guarda-vestiduras Sallum esposo Hulda; 2Cr 34:22; transliterado.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2642",
+      "hebreeuws": "חֶסְרוֹן",
+      "translit": "chesron",
+      "woordsoort": "sustantivo",
+      "es_concordant": "defecto-chesron",
+      "grondvorm": "defecto-chesron",
+      "stamfamilie": [
+        "H2637"
+      ],
+      "toelichting": "Hapax Ec 1:15 'lo-torcido no-puede-enderezarse'; sufijo translit.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2643",
+      "hebreeuws": "חַף",
+      "translit": "chaf",
+      "woordsoort": "adjetivo",
+      "es_concordant": "puro-chaf",
+      "grondvorm": "puro-chaf",
+      "stamfamilie": [],
+      "toelichting": "Auto-reclamación de Job: 'puro-sin-transgresión'; Job 33:9; sufijo translit-distinto-de H2889 tahor.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2644",
+      "hebreeuws": "חָפָא",
+      "translit": "chafa",
+      "woordsoort": "verbo",
+      "es_concordant": "actuar-furtivo",
+      "grondvorm": "actuar-furtivo",
+      "stamfamilie": [
+        "H2645"
+      ],
+      "toelichting": "Piel: Israel hacía-en-secreto cosas-no-rectas; 2Re 17:9.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2645",
+      "hebreeuws": "חָפָה-I",
+      "translit": "chafah-I",
+      "woordsoort": "verbo",
+      "es_concordant": "revestir-chafah",
+      "grondvorm": "revestir-chafah",
+      "stamfamilie": [
+        "H2646"
+      ],
+      "toelichting": "Qal/Nif/Piel: cubrir-con-revestimiento (David velado en duelo, oro-tallado en templo); diferenciado de kasah cubrir-general.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H2646",
+      "hebreeuws": "חֻפָּה",
+      "translit": "chuppah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tálamo-nupcial",
+      "grondvorm": "tálamo-nupcial",
+      "stamfamilie": [
+        "H2645"
+      ],
+      "toelichting": "Sol-como-novio sale de su tálamo (Sal 19:6; Is 4:5; Jl 2:16). Distinto de H2315 cheder 'cámara'; metáfora-matrimonio.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2647",
+      "hebreeuws": "חֻפָּה",
+      "translit": "chuppah-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chuppah-pn-sacerdote",
+      "grondvorm": "Chuppah-pn-sacerdote",
+      "stamfamilie": [],
+      "toelichting": "13ª suerte sacerdotal en tiempo de David; 1Cr 24:13; transliterado.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2648",
+      "hebreeuws": "חָפַז",
+      "translit": "chafaz",
+      "woordsoort": "verbo",
+      "es_concordant": "huir-aterrado",
+      "grondvorm": "huir-aterrado",
+      "stamfamilie": [
+        "H2649"
+      ],
+      "toelichting": "Qal/Nif: huir-en-pavor (Dt 20:3; 1Sa 23:26; 2Sa 4:4; 2Re 7:15; Sal 31:23; 48:6; 104:7; 116:11). Diferenciado de mahar prisa-neutral.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H2649",
+      "hebreeuws": "חִפָּזוֹן",
+      "translit": "chippazon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "prisa-pavor",
+      "grondvorm": "prisa-pavor",
+      "stamfamilie": [
+        "H2648"
+      ],
+      "toelichting": "Pascua-prisa en éxodo y huida-pavor (Ex 12:11; Dt 16:3; Is 52:12). Familia con H2648.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2650",
+      "hebreeuws": "חֻפִּים",
+      "translit": "chuppim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chuppim-pn",
+      "grondvorm": "Chuppim-pn",
+      "stamfamilie": [],
+      "toelichting": "Chuppim-hijo-Benjamín y Manasés-familia (Gn 46:21; Nm 26:39; 1Cr 7:12,15).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2651",
+      "hebreeuws": "חֹפֶן",
+      "translit": "chofen",
+      "woordsoort": "sustantivo",
+      "es_concordant": "puñado-mano",
+      "grondvorm": "puñado-mano",
+      "stamfamilie": [],
+      "toelichting": "Cantidad agarrada en mano-curva (Ex 9:8; Lv 16:12; Ec 4:6; Ez 10:2,7; Pr 30:4).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H2652",
+      "hebreeuws": "חָפְנִי",
+      "translit": "chofni",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ofni-pn",
+      "grondvorm": "Ofni-pn",
+      "stamfamilie": [
+        "H2651"
+      ],
+      "toelichting": "Hijo malvado de Elí el sacerdote (1Sa 1:3; 2:34; 4:4,11,17). 'Puño-lleno'.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H2653",
+      "hebreeuws": "חָפַף",
+      "translit": "chafaf",
+      "woordsoort": "verbo",
+      "es_concordant": "cubrir-protector",
+      "grondvorm": "cubrir-protector",
+      "stamfamilie": [],
+      "toelichting": "Qal-participio: YHWH cubre-protege a Benjamín entre hombros; Dt 33:12.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2654a",
+      "hebreeuws": "חָפֵץ-I",
+      "translit": "chafets-I",
+      "woordsoort": "verbo",
+      "es_concordant": "complacerse",
+      "grondvorm": "complacerse",
+      "stamfamilie": [
+        "H2655",
+        "H2656"
+      ],
+      "toelichting": "Qal: tener-deleite-en, desear; concordante.",
+      "voorkomens": 74
+    },
+    {
+      "strong": "H2654b",
+      "hebreeuws": "חָפֵץ-II",
+      "translit": "chafets-II",
+      "woordsoort": "verbo",
+      "es_concordant": "estirar-chafets-II",
+      "grondvorm": "estirar-chafets-II",
+      "stamfamilie": [
+        "H2654a"
+      ],
+      "toelichting": "Segunda raíz chafets; cola-de-Behemot se-estira; Job 40:17; sufijo distinto.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2655",
+      "hebreeuws": "חָפֵץ",
+      "translit": "chafets-adj",
+      "woordsoort": "adjetivo",
+      "es_concordant": "complaciente",
+      "grondvorm": "complaciente",
+      "stamfamilie": [
+        "H2654a"
+      ],
+      "toelichting": "Adj 'que-tiene-complacencia/deseando-en' (Dt 25:8; 1Re 10:9; Is 62:4 Chefziba-mi-complacer-en-ella).",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H2656",
+      "hebreeuws": "חֵפֶץ",
+      "translit": "chefets",
+      "woordsoort": "sustantivo",
+      "es_concordant": "deleite",
+      "grondvorm": "deleite",
+      "stamfamilie": [
+        "H2654a"
+      ],
+      "toelichting": "De raíz chafets; aquello-en-que-uno-se-complace, objeto-de-deseo.",
+      "voorkomens": 40
+    },
+    {
+      "strong": "H2657+",
+      "hebreeuws": "חֶפְצִי-בָהּ",
+      "translit": "cheftsi-vah-variant",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cheftsi-Vah-pn-mujer",
+      "grondvorm": "Cheftsi-Vah-pn-mujer",
+      "stamfamilie": [
+        "H2657"
+      ],
+      "toelichting": "Madre Manasés rey Judá; 2Re 21:1; transliterado-variante-+.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2657",
+      "hebreeuws": "חֶפְצִי-בָהּ",
+      "translit": "cheftsi-bah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cheftsi-bah-pn",
+      "grondvorm": "Cheftsi-bah-pn",
+      "stamfamilie": [
+        "H2656"
+      ],
+      "toelichting": "'Mi-deleite-en-ella' madre Manasés; 2Re 21:1; cf Is 62:4 nombre-simbólico-Sión.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2658",
+      "hebreeuws": "חָפַר-I",
+      "translit": "chafar-I",
+      "woordsoort": "verbo",
+      "es_concordant": "cavar",
+      "grondvorm": "cavar",
+      "stamfamilie": [
+        "H2660a",
+        "H2663"
+      ],
+      "toelichting": "Qal: excavar pozo o foso, explorar; diferenciado de chafar-II avergonzarse.",
+      "voorkomens": 23
+    },
+    {
+      "strong": "H2659",
+      "hebreeuws": "חָפֵר-II",
+      "translit": "chafer-II",
+      "woordsoort": "verbo",
+      "es_concordant": "avergonzarse-chafer",
+      "grondvorm": "avergonzarse-chafer",
+      "stamfamilie": [],
+      "toelichting": "Qal: sentir-vergüenza-pública; sufijo distinto de chafar-I cavar.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H2660a",
+      "hebreeuws": "חֵפֶר",
+      "translit": "chefer-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chefer-pn",
+      "grondvorm": "Chefer-pn",
+      "stamfamilie": [],
+      "toelichting": "Manasita-jefe, padre Zelofehad, y ciudad (Nm 26:32-33; 27:1; Jos 12:17; 17:2-3; 1Cr 4:6; 11:36).",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H2660b",
+      "hebreeuws": "חֵפֶר",
+      "translit": "chefer-place",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chefer-pn-ciudad",
+      "grondvorm": "Chefer-pn-ciudad",
+      "stamfamilie": [
+        "H2660a"
+      ],
+      "toelichting": "Segundo sentido Chefer como lugar; Jos 12:17.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2661",
+      "hebreeuws": "חֲפַרְפָּרָה",
+      "translit": "chafarparah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "topo",
+      "grondvorm": "topo",
+      "stamfamilie": [
+        "H2658"
+      ],
+      "toelichting": "Echar-ídolos-de-plata a topos; Is 2:20.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2662",
+      "hebreeuws": "חֶפְרִי",
+      "translit": "chefri",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chefrita-pn",
+      "grondvorm": "Chefrita-pn",
+      "stamfamilie": [
+        "H2660a"
+      ],
+      "toelichting": "Patronímico-clan hijo Manasés; Nm 26:32.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2663",
+      "hebreeuws": "חֲפָרַיִם",
+      "translit": "chafarayim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chafaraim-pn",
+      "grondvorm": "Chafaraim-pn",
+      "stamfamilie": [
+        "H2658"
+      ],
+      "toelichting": "Ciudad-Isacar; Jos 19:19.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2664",
+      "hebreeuws": "חָפַשׂ",
+      "translit": "chafas",
+      "woordsoort": "verbo",
+      "es_concordant": "rastrear",
+      "grondvorm": "rastrear",
+      "stamfamilie": [
+        "H2665"
+      ],
+      "toelichting": "Piel: investigar-a-fondo, escudriñar; concordante 'rastrear'.",
+      "voorkomens": 23
+    },
+    {
+      "strong": "H2665",
+      "hebreeuws": "חֵפֶשׂ",
+      "translit": "chefes",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ardid-chefes",
+      "grondvorm": "ardid-chefes",
+      "stamfamilie": [
+        "H2664"
+      ],
+      "toelichting": "Obreros-de-injusticia traman-ardid; Sal 64:6; sufijo translit.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2666",
+      "hebreeuws": "חָפַשׁ",
+      "translit": "chafash",
+      "woordsoort": "verbo",
+      "es_concordant": "liberar-chafash",
+      "grondvorm": "liberar-chafash",
+      "stamfamilie": [
+        "H2670"
+      ],
+      "toelichting": "Pual: esclava-aún-no-rescatada; Lv 19:20; sufijo translit.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2667",
+      "hebreeuws": "חֹפֶשׁ",
+      "translit": "chofesh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "manta-jinete",
+      "grondvorm": "manta-jinete",
+      "stamfamilie": [],
+      "toelichting": "Dedán-suplía mantas-de-jinete; Ez 27:20.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2668",
+      "hebreeuws": "חֻפְשָׁה",
+      "translit": "chufshah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "libertad-chufshah",
+      "grondvorm": "libertad-chufshah",
+      "stamfamilie": [
+        "H2666"
+      ],
+      "toelichting": "Estatus-de-liberación (no verbo H2666); Lv 19:20; sufijo translit.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2669",
+      "hebreeuws": "חָפְשִׁית",
+      "translit": "chafshith",
+      "woordsoort": "sustantivo",
+      "es_concordant": "casa-aislamiento",
+      "grondvorm": "casa-aislamiento",
+      "stamfamilie": [
+        "H2670"
+      ],
+      "toelichting": "Casa-de-aislamiento por lepra Uzías (2Re 15:5; 2Cr 26:21). Término-cuarentena-técnica.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2670",
+      "hebreeuws": "חָפְשִׁי",
+      "translit": "chofshi",
+      "woordsoort": "adjetivo",
+      "es_concordant": "manumitido",
+      "grondvorm": "manumitido",
+      "stamfamilie": [
+        "H2666"
+      ],
+      "toelichting": "De raíz chafash 'ser-libre'; liberado-de-esclavitud, manumisión-año-séptimo.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H2671",
+      "hebreeuws": "חֵץ",
+      "translit": "chets",
+      "woordsoort": "sustantivo",
+      "es_concordant": "flecha",
+      "grondvorm": "flecha",
+      "stamfamilie": [],
+      "toelichting": "Saeta-arrojadiza; diferenciado de qesheth (arco).",
+      "voorkomens": 54
+    },
+    {
+      "strong": "H2672",
+      "hebreeuws": "חָצַב",
+      "translit": "chatsav",
+      "woordsoort": "verbo",
+      "es_concordant": "tallar-roca",
+      "grondvorm": "tallar-roca",
+      "stamfamilie": [],
+      "toelichting": "Qal: cortar-piedra o cavar-pozo; concordante.",
+      "voorkomens": 24
+    },
+    {
+      "strong": "H2673",
+      "hebreeuws": "חָצָה",
+      "translit": "chatsah",
+      "woordsoort": "verbo",
+      "es_concordant": "partir-mitad",
+      "grondvorm": "partir-mitad",
+      "stamfamilie": [
+        "H2677"
+      ],
+      "toelichting": "Qal: dividir (ejército, aguas, multitud); técnica-bipartición.",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H2674",
+      "hebreeuws": "חָצוֹר",
+      "translit": "chatsor",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsor-pn",
+      "grondvorm": "Chatsor-pn",
+      "stamfamilie": [],
+      "toelichting": "Ciudad de Neftalí, antigua capital de Jabín; transliterado.",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H2675",
+      "hebreeuws": "חָצוֹר חֲדַתָּה",
+      "translit": "chatsor-chadattah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsor-Chadatta-pn",
+      "grondvorm": "Chatsor-Chadatta-pn",
+      "stamfamilie": [
+        "H2674"
+      ],
+      "toelichting": "'Nueva-Hatsor' ciudad-Judá; Jos 15:25.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2675+",
+      "hebreeuws": "חָצוֹר חֲדַתָּה",
+      "translit": "chatsor-chadattah-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsor-Chadatta",
+      "grondvorm": "Chatsor-Chadatta",
+      "stamfamilie": [
+        "H2675"
+      ],
+      "toelichting": "Variante-+ de H2675; Judá-sur.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2676",
+      "hebreeuws": "חֲצוֹת",
+      "translit": "chatsoth",
+      "woordsoort": "sustantivo",
+      "es_concordant": "medianoche",
+      "grondvorm": "medianoche",
+      "stamfamilie": [
+        "H2673"
+      ],
+      "toelichting": "'Cerca-de-medianoche-saldré-en-medio-Egipto' (Ex 11:4; Sal 119:62). Distinto de H2677 chatsi 'mitad'.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2677",
+      "hebreeuws": "חֲצִי",
+      "translit": "chatsi",
+      "woordsoort": "sustantivo",
+      "es_concordant": "mitad",
+      "grondvorm": "mitad",
+      "stamfamilie": [
+        "H2673"
+      ],
+      "toelichting": "Raíz hṣh (dividir). 'Mitad' estándar.",
+      "voorkomens": 124
+    },
+    {
+      "strong": "H2678",
+      "hebreeuws": "חִצִּי",
+      "translit": "chitstsi",
+      "woordsoort": "sustantivo",
+      "es_concordant": "saeta-aguda",
+      "grondvorm": "saeta-aguda",
+      "stamfamilie": [
+        "H2671"
+      ],
+      "toelichting": "Saeta-puntiaguda de arco, fig-rayo-de-Dios.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2679",
+      "hebreeuws": "מְנֻחוֹת",
+      "translit": "menuchot",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Menuchot-pn-clan",
+      "grondvorm": "Menuchot-pn-clan",
+      "stamfamilie": [],
+      "toelichting": "Patronímico-clan Quiriat-Yearim ('lugares-descanso'); 1Cr 2:52.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2679+",
+      "hebreeuws": "חֲצִי הַמְּנֻחוֹת",
+      "translit": "chatsi-hammenuchot",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsi-Hammenuchot-pn",
+      "grondvorm": "Chatsi-Hammenuchot-pn",
+      "stamfamilie": [
+        "H2679"
+      ],
+      "toelichting": "Mitad-Manuchot-Kiriat-Yearim; 1Cr 2:52.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2680",
+      "hebreeuws": "מְנַחְתִּי",
+      "translit": "manachti",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Manachtita-pn",
+      "grondvorm": "Manachtita-pn",
+      "stamfamilie": [],
+      "toelichting": "Patronímico-clan mitad-Manachatitas; 1Cr 2:54.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2680+",
+      "hebreeuws": "חֲצִי הַמְּנַחְתִּי",
+      "translit": "chatsi-hammanachti",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsi-Hammanachti-pn",
+      "grondvorm": "Chatsi-Hammanachti-pn",
+      "stamfamilie": [
+        "H2680"
+      ],
+      "toelichting": "Mitad-Manachatitas Caleb-Salma-rama; 1Cr 2:54.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2681",
+      "hebreeuws": "חָצִיר",
+      "translit": "chatsir-jackal",
+      "woordsoort": "sustantivo",
+      "es_concordant": "morada-chacal",
+      "grondvorm": "morada-chacal",
+      "stamfamilie": [],
+      "toelichting": "Edom-en-ruinas como guarida-chacales; Is 34:13.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2682a",
+      "hebreeuws": "חָצִיר-I",
+      "translit": "chatsir-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "hierba",
+      "grondvorm": "hierba",
+      "stamfamilie": [],
+      "toelichting": "Hierba-del-campo, heno; imagen de fugacidad.",
+      "voorkomens": 21
+    },
+    {
+      "strong": "H2682b",
+      "hebreeuws": "חָצִיר",
+      "translit": "chatsir-herb",
+      "woordsoort": "sustantivo",
+      "es_concordant": "puerro-hierba-II",
+      "grondvorm": "puerro-hierba-II",
+      "stamfamilie": [
+        "H2682a"
+      ],
+      "toelichting": "Nm 11:5 puerros-cebollas-ajos-Egipto; sufijo distinto.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2683",
+      "hebreeuws": "חֹצֶן",
+      "translit": "chotsen",
+      "woordsoort": "sustantivo",
+      "es_concordant": "rastrojo-pliegue",
+      "grondvorm": "rastrojo-pliegue",
+      "stamfamilie": [],
+      "toelichting": "Segador-no-llena su-brazo de pasto-cortado; Sal 129:7.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2684",
+      "hebreeuws": "חֹצֶן",
+      "translit": "chotsen-bosom",
+      "woordsoort": "sustantivo",
+      "es_concordant": "regazo-pliegue",
+      "grondvorm": "regazo-pliegue",
+      "stamfamilie": [
+        "H2683"
+      ],
+      "toelichting": "Pliegue-del-manto donde se lleva (Neh 5:13; Is 49:22). Familia chatsen.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2685",
+      "hebreeuws": "חֲצַף",
+      "translit": "chatsaf-Aram",
+      "woordsoort": "adjetivo",
+      "es_concordant": "urgente-arameo",
+      "grondvorm": "urgente-arameo",
+      "stamfamilie": [],
+      "toelichting": "Arameo Hofeel-participio; orden-real-urgente; Dn 3:22.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2686a",
+      "hebreeuws": "חָצַץ-I",
+      "translit": "chatsats-I",
+      "woordsoort": "verbo",
+      "es_concordant": "marchar-en-fila",
+      "grondvorm": "marchar-en-fila",
+      "stamfamilie": [],
+      "toelichting": "Qal: langostas-sin-rey en formación; Pr 30:27.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2686b",
+      "hebreeuws": "חָצַץ-II",
+      "translit": "chatsats-II",
+      "woordsoort": "verbo",
+      "es_concordant": "repartir-chatsats-II",
+      "grondvorm": "repartir-chatsats-II",
+      "stamfamilie": [
+        "H2686a"
+      ],
+      "toelichting": "Piel: distribuir-justicia en abrevaderos; Jue 5:11; sufijo translit.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2687",
+      "hebreeuws": "חָצָץ",
+      "translit": "chatsats",
+      "woordsoort": "sustantivo",
+      "es_concordant": "guijarro-grava",
+      "grondvorm": "guijarro-grava",
+      "stamfamilie": [],
+      "toelichting": "Guijarros-pan-engaño y triturado-con-grava (Pr 20:17; Lm 3:16; Job 38:27). Familia H2686.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2688",
+      "hebreeuws": "חַצְצוֹן תָּמָר",
+      "translit": "chatsetson-tamar",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsetson-Tamar-pn",
+      "grondvorm": "Chatsetson-Tamar-pn",
+      "stamfamilie": [],
+      "toelichting": "Amorreos-en-Chatsetson-Tamar y Moab-Amón-contra-Josafat (Gn 14:7; 2Cr 20:2). Oasis-Engadi-palmera.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2688+",
+      "hebreeuws": "חַצְצוֹן תָּמָר",
+      "translit": "chatsetson-tamar-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsetson-Tamar-pn-plus",
+      "grondvorm": "Chatsetson-Tamar-pn-plus",
+      "stamfamilie": [
+        "H2688"
+      ],
+      "toelichting": "Variante-+ de H2688; Engadi-equivalente.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2689",
+      "hebreeuws": "חֲצֹצְרָה",
+      "translit": "chatsotserah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "trompeta",
+      "grondvorm": "trompeta",
+      "stamfamilie": [
+        "H2690"
+      ],
+      "toelichting": "Cuerno-metal-señal-sacerdotes; diferenciado de shofar (cuerno-carnero).",
+      "voorkomens": 29
+    },
+    {
+      "strong": "H2690",
+      "hebreeuws": "חָצַר",
+      "translit": "chatsar",
+      "woordsoort": "verbo",
+      "es_concordant": "tocar-trompeta",
+      "grondvorm": "tocar-trompeta",
+      "stamfamilie": [
+        "H2689"
+      ],
+      "toelichting": "Piel-solo denominativo de chatsotserah (1Cr 15:24; 16:6; 2Cr 5:12-13; 7:6; 13:14; 29:28).",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H2691a",
+      "hebreeuws": "חָצֵר-I",
+      "translit": "chatser-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "atrio",
+      "grondvorm": "atrio",
+      "stamfamilie": [],
+      "toelichting": "Atrio cercado o explanada-palaciega; preserva la cerca cúltica/palacial.",
+      "voorkomens": 143
+    },
+    {
+      "strong": "H2691b",
+      "hebreeuws": "חָצֵר-II",
+      "translit": "chatser-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "atrio-chatser-II",
+      "grondvorm": "atrio-chatser-II",
+      "stamfamilie": [
+        "H2691a"
+      ],
+      "toelichting": "Espacio-cerrado abierto del tabernáculo/templo; sufijo distinto de chatser-I aldea.",
+      "voorkomens": 48
+    },
+    {
+      "strong": "H2692",
+      "hebreeuws": "חֲצַר אַדָּר",
+      "translit": "chatsar-addar",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsar-Addar-pn",
+      "grondvorm": "Chatsar-Addar-pn",
+      "stamfamilie": [],
+      "toelichting": "Lugar-frontera-Neguev; Nm 34:4.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2692+",
+      "hebreeuws": "חֲצַר אַדָּר",
+      "translit": "chatsar-addar-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsar-Addar-pn-plus",
+      "grondvorm": "Chatsar-Addar-pn-plus",
+      "stamfamilie": [
+        "H2692"
+      ],
+      "toelichting": "Variante-+ H2692; Neguev-frontera.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2693",
+      "hebreeuws": "חֲצַר גַּדָּה",
+      "translit": "chatsar-gaddah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsar-Gaddah-pn",
+      "grondvorm": "Chatsar-Gaddah-pn",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-sur-Judá; Jos 15:27.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2693+",
+      "hebreeuws": "חֲצַר גַּדָּה",
+      "translit": "chatsar-gaddah-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsar-Gaddah-pn-plus",
+      "grondvorm": "Chatsar-Gaddah-pn-plus",
+      "stamfamilie": [
+        "H2693"
+      ],
+      "toelichting": "Variante-+ H2693; Judá-sur.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2694",
+      "hebreeuws": "חֲצֵר הַתִּיכוֹן",
+      "translit": "chatser-hatticon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatser-Hatticon-pn",
+      "grondvorm": "Chatser-Hatticon-pn",
+      "stamfamilie": [],
+      "toelichting": "'Atrio-medio' frontera-norte; Ez 47:16.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2694+",
+      "hebreeuws": "חֲצֵר הַתִּיכוֹן",
+      "translit": "chatser-hatticon-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatser-Hatticon-pn-plus",
+      "grondvorm": "Chatser-Hatticon-pn-plus",
+      "stamfamilie": [
+        "H2694"
+      ],
+      "toelichting": "Variante-+ H2694; frontera-norte-medio-atrio.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2695",
+      "hebreeuws": "חֶצְרוֹ",
+      "translit": "chetsro",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chetsrai-pn",
+      "grondvorm": "Chetsrai-pn",
+      "stamfamilie": [],
+      "toelichting": "Carmelita-uno de los treinta de David (2Sa 23:35; 1Cr 11:37).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2696",
+      "hebreeuws": "חֶצְרֹן",
+      "translit": "chetsron",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chesron-pn",
+      "grondvorm": "Chesron-pn",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Pérez, ancestro-tribal; transliterado.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H2697",
+      "hebreeuws": "חֶצְרוֹנִי",
+      "translit": "chetsroni",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chetsronita-pn",
+      "grondvorm": "Chetsronita-pn",
+      "stamfamilie": [
+        "H2696"
+      ],
+      "toelichting": "Gentilicio-clan Rubén-Judá-Pérez (Nm 26:6,21).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2698",
+      "hebreeuws": "חֲצֵרוֹת",
+      "translit": "chatseroth",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chaseroth-pn",
+      "grondvorm": "Chaseroth-pn",
+      "stamfamilie": [],
+      "toelichting": "Parada de Israel en el desierto (Nm 11:35; 12:16; 33:17,18; Dt 1:1).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H2699",
+      "hebreeuws": "חֲצֵרִים",
+      "translit": "chatserim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "caseríos-abiertos",
+      "grondvorm": "caseríos-abiertos",
+      "stamfamilie": [
+        "H2691b"
+      ],
+      "toelichting": "Aldeas-no-amuralladas Avim; Dt 2:23.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2700",
+      "hebreeuws": "חֲצַרְמָוֶת",
+      "translit": "chatsarmaveth",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsarmaveth-pn",
+      "grondvorm": "Chatsarmaveth-pn",
+      "stamfamilie": [],
+      "toelichting": "Hijo Joctán = región Hadramaut Yemen-este (Gn 10:26; 1Cr 1:20).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2701",
+      "hebreeuws": "חֲצַר סוּסָה",
+      "translit": "chatsar-susah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsar-Susah-pn",
+      "grondvorm": "Chatsar-Susah-pn",
+      "stamfamilie": [],
+      "toelichting": "'Atrio-caballo' ciudad-Simeón; Jos 19:5.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2701+",
+      "hebreeuws": "חֲצַר סוּסָה",
+      "translit": "chatsar-susah-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsar-Susah-pn-plus",
+      "grondvorm": "Chatsar-Susah-pn-plus",
+      "stamfamilie": [
+        "H2701"
+      ],
+      "toelichting": "Variante-+ H2701; Simeón-atrio-caballo.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2702",
+      "hebreeuws": "חֲצַר סוּסִים",
+      "translit": "chatsar-susim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsar-Susim-pn",
+      "grondvorm": "Chatsar-Susim-pn",
+      "stamfamilie": [
+        "H2701"
+      ],
+      "toelichting": "'Atrio-caballos' ciudad-Simeón; 1Cr 4:31.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2702+",
+      "hebreeuws": "חֲצַר סוּסִים",
+      "translit": "chatsar-susim-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsar-Susim-pn-plus",
+      "grondvorm": "Chatsar-Susim-pn-plus",
+      "stamfamilie": [
+        "H2702"
+      ],
+      "toelichting": "Variante-+ H2702; Simeón-atrio-caballos.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2703",
+      "hebreeuws": "חֲצַר עֵינוֹן",
+      "translit": "chatsar-enon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsar-Enon-pn",
+      "grondvorm": "Chatsar-Enon-pn",
+      "stamfamilie": [],
+      "toelichting": "'Atrio-fuente' frontera-norte; Ez 47:17.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2703+",
+      "hebreeuws": "חֲצַר עֵינוֹן",
+      "translit": "chatsar-enon-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsar-Enon-pn-plus",
+      "grondvorm": "Chatsar-Enon-pn-plus",
+      "stamfamilie": [
+        "H2703"
+      ],
+      "toelichting": "Variante-+ H2703.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2704",
+      "hebreeuws": "חֲצַר עֵינָן",
+      "translit": "chatsar-enan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsar-Enan-pn",
+      "grondvorm": "Chatsar-Enan-pn",
+      "stamfamilie": [
+        "H2703"
+      ],
+      "toelichting": "Frontera-noreste Israel (Nm 34:9,10; Ez 47:17; 48:1). 'Atrio-de-fuentes'.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2704+",
+      "hebreeuws": "חֲצַר עֵינָן",
+      "translit": "chatsar-enan-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsar-Enan-pn-plus",
+      "grondvorm": "Chatsar-Enan-pn-plus",
+      "stamfamilie": [
+        "H2704"
+      ],
+      "toelichting": "Variante-+ H2704; Nm 34:9.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2705",
+      "hebreeuws": "חֲצַר שׁוּעָל",
+      "translit": "chatsar-shual",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsar-Shual-pn",
+      "grondvorm": "Chatsar-Shual-pn",
+      "stamfamilie": [],
+      "toelichting": "Aldea-Judá-Simeón en Néguev (Jos 15:28; 19:3; 1Cr 4:28; Neh 11:27). 'Atrio-zorro'.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H2705+",
+      "hebreeuws": "חֲצַר שׁוּעָל",
+      "translit": "chatsar-shual-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chatsar-Shual-pn-plus",
+      "grondvorm": "Chatsar-Shual-pn-plus",
+      "stamfamilie": [
+        "H2705"
+      ],
+      "toelichting": "Variante-+ H2705.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2706",
+      "hebreeuws": "חֹק",
+      "translit": "choq",
+      "woordsoort": "sustantivo",
+      "es_concordant": "estatuto-grabado",
+      "grondvorm": "estatuto-grabado",
+      "stamfamilie": [
+        "H2710"
+      ],
+      "toelichting": "Raíz hqq grabar; precepto-grabado. Distinto de H8451 torah 'instrucción' (ya asignado, si).",
+      "voorkomens": 129
+    },
+    {
+      "strong": "H2707",
+      "hebreeuws": "חָקָה",
+      "translit": "chaqah",
+      "woordsoort": "verbo",
+      "es_concordant": "entallar-grabar",
+      "grondvorm": "entallar-grabar",
+      "stamfamilie": [
+        "H2710"
+      ],
+      "toelichting": "Grabar-en-pared imágenes (1Re 6:35; Ez 8:10; 23:14; Job 13:27). Familia H2710 chaqaq.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H2708",
+      "hebreeuws": "חֻקָּה",
+      "translit": "chuqqah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ordenanza",
+      "grondvorm": "ordenanza",
+      "stamfamilie": [
+        "H2706"
+      ],
+      "toelichting": "Variante-femenina de choq (H2706). Preserva la dimensión-de-establecimiento.",
+      "voorkomens": 104
+    },
+    {
+      "strong": "H2709",
+      "hebreeuws": "חֲקוּפָא",
+      "translit": "hakufa",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chakufa-pn",
+      "grondvorm": "Chakufa-pn",
+      "stamfamilie": [],
+      "toelichting": "Cabeza de familia Netineos en lista-retorno (Esd 2:51; Neh 7:53).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2710",
+      "hebreeuws": "חָקַק",
+      "translit": "chaqaq",
+      "woordsoort": "verbo",
+      "es_concordant": "decretar-grabar",
+      "grondvorm": "decretar-grabar",
+      "stamfamilie": [
+        "H2706",
+        "H2708",
+        "H2711"
+      ],
+      "toelichting": "Qal: grabar-en-piedra, fijar-ley; ley = regla-grabada.",
+      "voorkomens": 19
+    },
+    {
+      "strong": "H2711",
+      "hebreeuws": "חֵקֶק",
+      "translit": "cheqeq",
+      "woordsoort": "sustantivo",
+      "es_concordant": "decisión-cheqeq",
+      "grondvorm": "decisión-cheqeq",
+      "stamfamilie": [
+        "H2710"
+      ],
+      "toelichting": "Jue-grandes-decisiones-corazón-Rubén e Is-decretos-injustos (Jue 5:15; Is 10:1). Familia H2710.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2712a",
+      "hebreeuws": "חֻקֹּק",
+      "translit": "chuqoq-I",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chuqoq-pn",
+      "grondvorm": "Chuqoq-pn",
+      "stamfamilie": [],
+      "toelichting": "Frontera-Neftalí; Jos 19:34.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2712b",
+      "hebreeuws": "חוּקֹק",
+      "translit": "chuqoq-II",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chuqoq-pn-Aser",
+      "grondvorm": "Chuqoq-pn-Aser",
+      "stamfamilie": [],
+      "toelichting": "Segundo-Chuqoq; ciudad-levítica de Aser; 1Cr 6:75.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2713",
+      "hebreeuws": "חָקַר",
+      "translit": "chaqar",
+      "woordsoort": "verbo",
+      "es_concordant": "indagar-fondo",
+      "grondvorm": "indagar-fondo",
+      "stamfamilie": [
+        "H2714"
+      ],
+      "toelichting": "Qal: investigar-a-fondo, agotar-investigación; diferenciado de H2664 chafas 'rastrear'.",
+      "voorkomens": 27
+    },
+    {
+      "strong": "H2714",
+      "hebreeuws": "חֵקֶר",
+      "translit": "cheqer",
+      "woordsoort": "sustantivo",
+      "es_concordant": "indagación",
+      "grondvorm": "indagación",
+      "stamfamilie": [
+        "H2713"
+      ],
+      "toelichting": "Actividad o resultado de investigación-profunda (Job 5:9; 9:10; 11:7; 34:24; Pr 25:3; Is 40:28 'sin-indagación').",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H2715",
+      "hebreeuws": "חֹר",
+      "translit": "chor-noble",
+      "woordsoort": "sustantivo",
+      "es_concordant": "libre-nacido-chor",
+      "grondvorm": "libre-nacido-chor",
+      "stamfamilie": [
+        "H2352"
+      ],
+      "toelichting": "Rango-libre-noble (1Re 21:8,11; Is 34:12; Jer 27:20; 39:6; Ec 10:17; Neh 2:16; 4:8; 5:7; 6:17; 7:5; 13:17). Distinto homónimo H2353 chor 'lino'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2716",
+      "hebreeuws": "חֲרָאִים",
+      "translit": "charaim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "excremento-charei",
+      "grondvorm": "excremento-charei",
+      "stamfamilie": [],
+      "toelichting": "Palabras-burla Rabsaces sobre comer-excrementos; Is 36:12.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2717a",
+      "hebreeuws": "חָרֵב-II",
+      "translit": "charav-II",
+      "woordsoort": "verbo",
+      "es_concordant": "asolarse",
+      "grondvorm": "asolarse",
+      "stamfamilie": [
+        "H2720a",
+        "H2723"
+      ],
+      "toelichting": "Qal: caer-en-ruina (ciudad, tierra); distinto de charav-II 'secarse' y -III 'atacar'.",
+      "voorkomens": 36
+    },
+    {
+      "strong": "H2717b",
+      "hebreeuws": "חָרֵב-II-dry",
+      "translit": "charav-II-dry",
+      "woordsoort": "verbo",
+      "es_concordant": "secarse-charav-II",
+      "grondvorm": "secarse-charav-II",
+      "stamfamilie": [
+        "H2717a"
+      ],
+      "toelichting": "Qal: aguas-secadas, tierra-seca; sufijo distinto de charav-I 'asolarse'.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2717c",
+      "hebreeuws": "חָרֵב-III",
+      "translit": "charev-III",
+      "woordsoort": "adjetivo",
+      "es_concordant": "asolado-seco-arruinado",
+      "grondvorm": "asolado-seco-arruinado",
+      "stamfamilie": [
+        "H2717a"
+      ],
+      "toelichting": "Estado-de-juicio (2Re 3:16; Jer 26:9; 33:10,12; Am 7:9). Distinto de homónimos verbales y H2723 chorbah.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H2718",
+      "hebreeuws": "חֲרַב",
+      "translit": "charav-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "destruirse-arameo",
+      "grondvorm": "destruirse-arameo",
+      "stamfamilie": [
+        "H2717a"
+      ],
+      "toelichting": "Arameo: ciudad-Jerusalén-destruida; Esd 4:15; cognado Hebr H2717.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2719",
+      "hebreeuws": "חֶרֶב",
+      "translit": "cherev",
+      "woordsoort": "sustantivo",
+      "es_concordant": "espada",
+      "grondvorm": "espada",
+      "stamfamilie": [],
+      "toelichting": "Raíz hrb (devastar). 'Espada' estándar.",
+      "voorkomens": 413
+    },
+    {
+      "strong": "H2720a",
+      "hebreeuws": "חָרֵב",
+      "translit": "charev",
+      "woordsoort": "adjetivo",
+      "es_concordant": "yermo-asolado",
+      "grondvorm": "yermo-asolado",
+      "stamfamilie": [
+        "H2717a"
+      ],
+      "toelichting": "Lv-ciudades-yermas y Ez-asoladas (Lv 26:31; Ez 5:14). Familia H2717.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H2720b",
+      "hebreeuws": "חָרֵב-II",
+      "translit": "chareb-II",
+      "woordsoort": "adjetivo",
+      "es_concordant": "abandonado-yermo",
+      "grondvorm": "abandonado-yermo",
+      "stamfamilie": [
+        "H2717b"
+      ],
+      "toelichting": "Abandonado-pelado por sequía o guerra (Jer 26:9; Ez 26:19; Neh 2:3,17; Sof 3:6). Sufijo distinto.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2721a",
+      "hebreeuws": "חֹרֶב",
+      "translit": "chorev",
+      "woordsoort": "sustantivo",
+      "es_concordant": "sequía",
+      "grondvorm": "sequía",
+      "stamfamilie": [
+        "H2717b"
+      ],
+      "toelichting": "De raíz charav (secar); calor-sequía (Gn 31:40; Dt 28:22; Job 30:30; Is 4:6; 25:4-5; Jer 36:30; 50:38; Os 13:15; Hag 1:11).",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H2721b",
+      "hebreeuws": "חֹרֶב-II",
+      "translit": "chorev-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "filo-de-espada-chorev-II",
+      "grondvorm": "filo-de-espada-chorev-II",
+      "stamfamilie": [
+        "H2719"
+      ],
+      "toelichting": "Imagen-espada-devastación en oráculos-juicio (Is 25:5; Dt 28:22; Is 4:6; Jer 50:38). Sufijo distinto de homónimo H2721a.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2722",
+      "hebreeuws": "חוֹרֵב",
+      "translit": "chorev-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Horeb-pn",
+      "grondvorm": "Horeb-pn",
+      "stamfamilie": [],
+      "toelichting": "Nombre-alternativo del monte-Sinaí; transliterado.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H2723",
+      "hebreeuws": "חָרְבָּה",
+      "translit": "chorbah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ruina-asolada",
+      "grondvorm": "ruina-asolada",
+      "stamfamilie": [
+        "H2717a"
+      ],
+      "toelichting": "De charav (devastar); zona-devastada, escombros.",
+      "voorkomens": 42
+    },
+    {
+      "strong": "H2724",
+      "hebreeuws": "חָרָבָה",
+      "translit": "charavah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tierra-seca",
+      "grondvorm": "tierra-seca",
+      "stamfamilie": [
+        "H2717b"
+      ],
+      "toelichting": "Forma-femenina de charav. Tierra-seca por separación-aguas o sequía (Gn 7:22; Ex 14:21; Jos 3:17; 4:18; 2Re 2:8; Hag 2:6; Sal 66:6; Ez 30:12). Distinto de H2721 chorev.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H2725",
+      "hebreeuws": "חֲרָבוֹן",
+      "translit": "charavon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ardor-estival",
+      "grondvorm": "ardor-estival",
+      "stamfamilie": [
+        "H2721a"
+      ],
+      "toelichting": "Hapax Sal 32:4 'mi-jugo-vuelto-en-sequía-de-verano'; de H2721.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2726",
+      "hebreeuws": "חַרְבוֹנָא",
+      "translit": "charvona",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Charbona-pn-eunuco",
+      "grondvorm": "Charbona-pn-eunuco",
+      "stamfamilie": [],
+      "toelichting": "Eunuco de Asuero (Est 1:10; 7:9 identificó la-horca de Amán).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2727",
+      "hebreeuws": "חָרַג",
+      "translit": "charag",
+      "woordsoort": "verbo",
+      "es_concordant": "salir-temblando",
+      "grondvorm": "salir-temblando",
+      "stamfamilie": [],
+      "toelichting": "Qal: extranjeros-salen-temblando de fortalezas; Sal 18:45.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2728",
+      "hebreeuws": "חַרְגֹּל",
+      "translit": "chargol",
+      "woordsoort": "sustantivo",
+      "es_concordant": "chargol-langosta",
+      "grondvorm": "chargol-langosta",
+      "stamfamilie": [],
+      "toelichting": "Especie-langosta-comestible; Lv 11:22; transliterado.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2729",
+      "hebreeuws": "חָרַד",
+      "translit": "charad",
+      "woordsoort": "verbo",
+      "es_concordant": "estremecerse-charad",
+      "grondvorm": "estremecerse-charad",
+      "stamfamilie": [
+        "H2730",
+        "H2731"
+      ],
+      "toelichting": "Qal: temblar-de-miedo o asombro; concordante.",
+      "voorkomens": 39
+    },
+    {
+      "strong": "H2730",
+      "hebreeuws": "חָרֵד",
+      "translit": "chared",
+      "woordsoort": "adjetivo",
+      "es_concordant": "temblando-reverente",
+      "grondvorm": "temblando-reverente",
+      "stamfamilie": [
+        "H2729"
+      ],
+      "toelichting": "Temblando-en-asombro o miedo (Jue 7:3; 1Sa 4:13; Esd 9:4; 10:3; Is 66:2,5). Familia H2729.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H2731",
+      "hebreeuws": "חֲרָדָה",
+      "translit": "charadah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "estremecimiento",
+      "grondvorm": "estremecimiento",
+      "stamfamilie": [
+        "H2729"
+      ],
+      "toelichting": "De charad; nominal de temblor-fuerte de miedo o asombro (Gn 27:33; 1Sa 14:15; Job 4:14; Is 21:4; Jer 30:5; Ez 26:16; 32:10; Dn 10:7; Am 3:6; Pr 29:25).",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H2732",
+      "hebreeuws": "חֲרָדָה",
+      "translit": "charadah-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Charadah-pn-parada",
+      "grondvorm": "Charadah-pn-parada",
+      "stamfamilie": [
+        "H2731"
+      ],
+      "toelichting": "Parada-desierto Nm 33:24,25; familia H2729 'lugar-de-temblor'.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2733",
+      "hebreeuws": "חֲרֹדִי",
+      "translit": "charodi",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Charodita-pn",
+      "grondvorm": "Charodita-pn",
+      "stamfamilie": [],
+      "toelichting": "Samma-Charodita y Elika-Charodita de los 30 de David (2Sa 23:25; cf 1Cr 11:27).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2734",
+      "hebreeuws": "חָרָה",
+      "translit": "charah",
+      "woordsoort": "verbo",
+      "es_concordant": "encenderse-ira",
+      "grondvorm": "encenderse-ira",
+      "stamfamilie": [
+        "H2740"
+      ],
+      "toelichting": "Raíz hrh: encenderse (de ira); preserva ignición-calor.",
+      "voorkomens": 92
+    },
+    {
+      "strong": "H2735",
+      "hebreeuws": "חֹר הַגִּדְגָּד",
+      "translit": "chor-haggidgad",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chor-ha-Gidgad-pn",
+      "grondvorm": "Chor-ha-Gidgad-pn",
+      "stamfamilie": [],
+      "toelichting": "Parada-desierto Nm 33:32-33. Familia H2356 chor-II hueco; 'cueva-de-Gidgad'.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2735+",
+      "hebreeuws": "חֹר הַגִּדְגָּד",
+      "translit": "chor-haggidgad-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chor-Haggidgad-pn",
+      "grondvorm": "Chor-Haggidgad-pn",
+      "stamfamilie": [
+        "H2735"
+      ],
+      "toelichting": "'Cueva-Gidgad' parada-desierto; Nm 33:32; variante-+.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2736",
+      "hebreeuws": "חֲרֻמָף",
+      "translit": "charumaf",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Charumaf-pn-orfebre",
+      "grondvorm": "Charumaf-pn-orfebre",
+      "stamfamilie": [],
+      "toelichting": "Padre de Jedaías constructor-de-muralla; Neh 3:10; quizá nombre-burla 'nariz-hendida'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2737",
+      "hebreeuws": "חָרוּז",
+      "translit": "charuz",
+      "woordsoort": "sustantivo",
+      "es_concordant": "perlas-collar",
+      "grondvorm": "perlas-collar",
+      "stamfamilie": [],
+      "toelichting": "Cuello-novia con collares-de-perlas; Cnt 1:10.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2738",
+      "hebreeuws": "חָרוּל",
+      "translit": "charul",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ortiga-cardo",
+      "grondvorm": "ortiga-cardo",
+      "stamfamilie": [],
+      "toelichting": "Job-bajo-ortigas y Pr-viña-perezoso-cardos y Sof-Moab-ortigas-saladar (Job 30:7; Pr 24:31; Sof 2:9). Distinto de H2336 choach 'espino-gancho' y H6975 qots 'espina'.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2739",
+      "hebreeuws": "חֲרוּמַף",
+      "translit": "charumaf-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Charumaf-pn",
+      "grondvorm": "Charumaf-pn",
+      "stamfamilie": [
+        "H2736"
+      ],
+      "toelichting": "Padre Jedaías muro-Neh 3:10; transliterado.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2740",
+      "hebreeuws": "חָרוֹן",
+      "translit": "charon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ira-ardiente",
+      "grondvorm": "ira-ardiente",
+      "stamfamilie": [
+        "H2734"
+      ],
+      "toelichting": "De charah (encender-ira); calor-intenso de cólera, casi-siempre de YHWH.",
+      "voorkomens": 41
+    },
+    {
+      "strong": "H2741",
+      "hebreeuws": "חֲרִיפִי",
+      "translit": "charifi",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Charifi-pn-clan",
+      "grondvorm": "Charifi-pn-clan",
+      "stamfamilie": [
+        "H2756"
+      ],
+      "toelichting": "112-personas clan-retornado (Neh 7:24; 10:19) firmantes-renovación-pacto Nehemías-10.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2742a",
+      "hebreeuws": "חָרוּץ-I",
+      "translit": "charuts-I",
+      "woordsoort": "adjetivo",
+      "es_concordant": "instrumento-afilado",
+      "grondvorm": "instrumento-afilado",
+      "stamfamilie": [
+        "H2782"
+      ],
+      "toelichting": "Participio-pasivo de charats 'incidir'. Trillo-con-dientes (Is 28:27; Am 1:3). Otros sentidos como sub-strongs.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H2742b",
+      "hebreeuws": "חָרוּץ-II",
+      "translit": "charuts-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "decisión-charuts",
+      "grondvorm": "decisión-charuts",
+      "stamfamilie": [
+        "H2782"
+      ],
+      "toelichting": "Segundo charuts; Joel 3:14 'valle-de-decisión'; sufijo distinto.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2742c",
+      "hebreeuws": "חָרוּץ-III",
+      "translit": "charuts-III",
+      "woordsoort": "sustantivo",
+      "es_concordant": "foso-fortaleza",
+      "grondvorm": "foso-fortaleza",
+      "stamfamilie": [],
+      "toelichting": "Hapax Dn 9:25 plaza-y-foso reconstruidos; subsentido.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2742d",
+      "hebreeuws": "חָרוּץ-IV",
+      "translit": "charuts-IV",
+      "woordsoort": "sustantivo",
+      "es_concordant": "oro-fino-charuts",
+      "grondvorm": "oro-fino-charuts",
+      "stamfamilie": [],
+      "toelichting": "Oro-purificado escogido (Sal 68:14; Pr 3:14; 8:10,19; 16:16; Zac 9:3). Distinto de H2091 zahav 'oro' general.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H2743",
+      "hebreeuws": "חָרוּץ",
+      "translit": "charuts-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Charuts-pn-persona",
+      "grondvorm": "Charuts-pn-persona",
+      "stamfamilie": [],
+      "toelichting": "Padre de Mesulemet; 2Re 21:19; transliterado.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2744",
+      "hebreeuws": "חַרְחוּר",
+      "translit": "charchur",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Charchur-pn",
+      "grondvorm": "Charchur-pn",
+      "stamfamilie": [],
+      "toelichting": "Cabeza familia-Netineos en lista-retorno (Esd 2:51; Neh 7:53).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2745",
+      "hebreeuws": "חַרְחַס",
+      "translit": "charchas",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Charchas-pn",
+      "grondvorm": "Charchas-pn",
+      "stamfamilie": [],
+      "toelichting": "Antepasado de Sallum guarda-vestiduras; 2Re 22:14.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2746",
+      "hebreeuws": "חַרְחֻר",
+      "translit": "charchur",
+      "woordsoort": "sustantivo",
+      "es_concordant": "fiebre-consumidora",
+      "grondvorm": "fiebre-consumidora",
+      "stamfamilie": [
+        "H2787"
+      ],
+      "toelichting": "Fiebre-ardiente que devora; Dt 28:22.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2747",
+      "hebreeuws": "חֶרֶט",
+      "translit": "cheret",
+      "woordsoort": "sustantivo",
+      "es_concordant": "buril-grabar",
+      "grondvorm": "buril-grabar",
+      "stamfamilie": [
+        "H2801"
+      ],
+      "toelichting": "Ex-Aarón-formó-becerro con buril y Is-escribir-con-buril-tabla (Ex 32:4; Is 8:1). Familia H2746.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2748",
+      "hebreeuws": "חַרְטֹם",
+      "translit": "chartom",
+      "woordsoort": "sustantivo",
+      "es_concordant": "mago-escriba",
+      "grondvorm": "mago-escriba",
+      "stamfamilie": [
+        "H2749"
+      ],
+      "toelichting": "Préstamo Egipcio/Acadio; clase-sacerdotal-escriba practicante de adivinación-ritual e interpretación-sueños (Gn 41:8,24; Ex 7:11,22; 8:7,18-19; 9:11; Dn 1:20; 2:2,10,27; 4:7,9; 5:11).",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H2749",
+      "hebreeuws": "חַרְטֹם",
+      "translit": "chartom-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "mago-escriba-arameo",
+      "grondvorm": "mago-escriba-arameo",
+      "stamfamilie": [
+        "H2748"
+      ],
+      "toelichting": "Mago-arameo-consejero en corte-real (Dn 4:7,9; 5:11; 2:10,27); cognado de H2748.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H2750",
+      "hebreeuws": "חֳרִי-II",
+      "translit": "chori-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ardor-de-ira",
+      "grondvorm": "ardor-de-ira",
+      "stamfamilie": [
+        "H2734"
+      ],
+      "toelichting": "Inflamación-ardiente de ira-divina (Ex 11:8; Dt 29:23; 1Sa 20:34; 2Cr 25:10; Lm 2:3). Familia H2734 charah.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H2751",
+      "hebreeuws": "חֹרִי",
+      "translit": "chori-bread",
+      "woordsoort": "sustantivo",
+      "es_concordant": "panes-blancos",
+      "grondvorm": "panes-blancos",
+      "stamfamilie": [],
+      "toelichting": "Pan-con-agujeros/pan-blanco; Gn 40:16.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2752",
+      "hebreeuws": "חֹרִי",
+      "translit": "chori-Horite",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chorita-pn",
+      "grondvorm": "Chorita-pn",
+      "stamfamilie": [],
+      "toelichting": "Pueblo prehistórico de Seír antes de Edom (Gn 14:6; 36:20-30; Dt 2:12,22).",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H2753",
+      "hebreeuws": "חֹרִי",
+      "translit": "chori-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chori-pn-persona",
+      "grondvorm": "Chori-pn-persona",
+      "stamfamilie": [],
+      "toelichting": "Horeo-hijo de Lotán (Gn 36:22; 1Cr 1:39; Nm 13:5). Distinto de H2752 Chorita 'pueblo-horeo'.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2754",
+      "hebreeuws": "חָרִיט",
+      "translit": "charit",
+      "woordsoort": "sustantivo",
+      "es_concordant": "bolsa-dinero",
+      "grondvorm": "bolsa-dinero",
+      "stamfamilie": [],
+      "toelichting": "Bolsos-lujo-mujeres; Is 3:22.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2755",
+      "hebreeuws": "חִירְיוֹנִים",
+      "translit": "chiryonim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "estiércol-paloma",
+      "grondvorm": "estiércol-paloma",
+      "stamfamilie": [],
+      "toelichting": "Asedio-Samaria-cuarto-cab-estiércol-paloma cinco-siclos (2Re 6:25; 18:27 Q). Hambre-extrema.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2756",
+      "hebreeuws": "חָרִיף",
+      "translit": "charif",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Charif-pn",
+      "grondvorm": "Charif-pn",
+      "stamfamilie": [
+        "H2741"
+      ],
+      "toelichting": "Cabeza de familia-retornados con Zorobabel (Neh 7:24; 10:19); en Esd 2:18 como Yorá; 'otoño' o 'agudo'.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2757",
+      "hebreeuws": "חָרִיץ",
+      "translit": "charits",
+      "woordsoort": "sustantivo",
+      "es_concordant": "trillo-cortante",
+      "grondvorm": "trillo-cortante",
+      "stamfamilie": [
+        "H2782"
+      ],
+      "toelichting": "2Sa-David-aserró-y-trilló-con-trillos-de-hierro y 1Cr-paralelo (2Sa 12:31; 1Cr 20:3). Familia H2782 charats. Castigo-Amón.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H2758",
+      "hebreeuws": "חָרִישׁ",
+      "translit": "charish",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tiempo-arar",
+      "grondvorm": "tiempo-arar",
+      "stamfamilie": [
+        "H2790a"
+      ],
+      "toelichting": "Tiempo-arar-siembra-legislación (Gn 45:6; Ex 34:21; 1Sa 8:12). Familia H2790a charash-I 'arar'.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2759",
+      "hebreeuws": "חֲרִישִׁית",
+      "translit": "charishit",
+      "woordsoort": "adjetivo",
+      "es_concordant": "abrasador-quieto",
+      "grondvorm": "abrasador-quieto",
+      "stamfamilie": [],
+      "toelichting": "Viento-este-abrasador contra Jonás; Jon 4:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2760",
+      "hebreeuws": "חָרַךְ",
+      "translit": "charach",
+      "woordsoort": "verbo",
+      "es_concordant": "asar-presa",
+      "grondvorm": "asar-presa",
+      "stamfamilie": [],
+      "toelichting": "Qal: perezoso-no-asa su-presa; Pr 12:27.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2761",
+      "hebreeuws": "חֲרַךְ",
+      "translit": "charach-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "chamuscar-arameo",
+      "grondvorm": "chamuscar-arameo",
+      "stamfamilie": [],
+      "toelichting": "Arameo Hithpaal; cabello-no-chamuscado en horno-fuego; Dn 3:27.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2762",
+      "hebreeuws": "חֲרַכִּים",
+      "translit": "charakim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "celosía-ventana",
+      "grondvorm": "celosía-ventana",
+      "stamfamilie": [],
+      "toelichting": "Cnt 2:9 ventana-celosía por la cual mira-amado; ventana-rejilla.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2763a",
+      "hebreeuws": "חָרַם-I",
+      "translit": "charam-I",
+      "woordsoort": "verbo",
+      "es_concordant": "anatemar",
+      "grondvorm": "anatemar",
+      "stamfamilie": [
+        "H2764a"
+      ],
+      "toelichting": "Hifil: dedicar-a-destrucción-total como prohibición-sagrada; cúltico-jurídico.",
+      "voorkomens": 51
+    },
+    {
+      "strong": "H2763b",
+      "hebreeuws": "חָרַם-II",
+      "translit": "charam-II",
+      "woordsoort": "verbo",
+      "es_concordant": "mutilarse",
+      "grondvorm": "mutilarse",
+      "stamfamilie": [],
+      "toelichting": "Qal-pasivo; defecto-corporal exclusión-sacerdote; Lv 21:18.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2764a",
+      "hebreeuws": "חֵרֶם",
+      "translit": "cherem",
+      "woordsoort": "sustantivo",
+      "es_concordant": "anatema",
+      "grondvorm": "anatema",
+      "stamfamilie": [
+        "H2763a"
+      ],
+      "toelichting": "Cosa o persona-irrevocablemente-dedicada/destruida a YHWH.",
+      "voorkomens": 29
+    },
+    {
+      "strong": "H2764b",
+      "hebreeuws": "חֵרֶם-II",
+      "translit": "cherem-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "red-pesca",
+      "grondvorm": "red-pesca",
+      "stamfamilie": [],
+      "toelichting": "Red-extendida para pesca (Ez 26:5,14; 32:3; 47:10; Hab 1:15-16; Ec 7:26; Mi 7:2). Distinto de homónimo H2764a 'anatema'.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H2765",
+      "hebreeuws": "חֳרֵם",
+      "translit": "chorem",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chorem-pn",
+      "grondvorm": "Chorem-pn",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-Neftalí; Jos 19:38.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2766",
+      "hebreeuws": "חָרִם",
+      "translit": "charim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Charim-pn",
+      "grondvorm": "Charim-pn",
+      "stamfamilie": [],
+      "toelichting": "Casa-sacerdotal-jefe de retornados (Esd 2:32 = Neh 7:35; Esd 2:39 = Neh 7:42; Esd 10:21,31; Neh 10:5,27; 12:15).",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H2767",
+      "hebreeuws": "חָרְמָה",
+      "translit": "chormah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chormah-pn",
+      "grondvorm": "Chormah-pn",
+      "stamfamilie": [
+        "H2763a"
+      ],
+      "toelichting": "Ciudad-cananita en sur-Judá originalmente Tsefat después-anatema-renombrada (Nm 14:45; 21:3; Dt 1:44; Jos 12:14; 15:30 = 19:4; Jue 1:17; 1Sa 30:30; 1Cr 4:30). De charam (anatemar, H2763) pero transliteración.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H2768",
+      "hebreeuws": "חֶרְמוֹן",
+      "translit": "chermon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Hermon-pn",
+      "grondvorm": "Hermon-pn",
+      "stamfamilie": [],
+      "toelichting": "Macizo-nevado en frontera-norte Israel; rocío-de-Hermón.",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H2769",
+      "hebreeuws": "חֶרְמוֹנִים",
+      "translit": "chermonim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chermones-pn-montes",
+      "grondvorm": "Chermones-pn-montes",
+      "stamfamilie": [
+        "H2768"
+      ],
+      "toelichting": "Hermón-montes contexto-Coré; Sal 42:6.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2770",
+      "hebreeuws": "חֶרְמֵשׁ",
+      "translit": "chermesh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "hoz",
+      "grondvorm": "hoz",
+      "stamfamilie": [],
+      "toelichting": "Dt-cuando-vienes-en-mies-de-tu-prójimo no-pongas-hoz en-su-mies (Dt 23:25 dos-veces). Pluck-mano-permitido pero hoz-prohibida.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2771a",
+      "hebreeuws": "חָרָן-I",
+      "translit": "charan-I",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Charan-pn",
+      "grondvorm": "Charan-pn",
+      "stamfamilie": [],
+      "toelichting": "Primer homónimo: ciudad en Padan-Aram donde murió Téraj (Gn 11:31-32; 12:4-5; 27:43; 28:10; 29:4; 2Re 19:12 = Is 37:12; Ez 27:23). Distinto de Charan-II.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H2771b",
+      "hebreeuws": "חָרָן-II",
+      "translit": "charan-II",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Charan-pn-Caleb",
+      "grondvorm": "Charan-pn-Caleb",
+      "stamfamilie": [],
+      "toelichting": "Hijo Caleb-Efá-concubina, padre Gazez (1Cr 2:46). Sufijo-distinto de H2771a Charan-ciudad.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2772",
+      "hebreeuws": "חֹרֹנִי",
+      "translit": "choroni",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Choronita-pn",
+      "grondvorm": "Choronita-pn",
+      "stamfamilie": [
+        "H2773"
+      ],
+      "toelichting": "Sanbalat-Choronita oponente Nehemías (Neh 2:10,19; 13:28). De Bet-Horon o Horonayim-Moab.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2773",
+      "hebreeuws": "חֹרֹנַיִם",
+      "translit": "choronayim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Choronaim-pn",
+      "grondvorm": "Choronaim-pn",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-moabita en oráculos-juicio (Is 15:5; Jer 48:3,5,34). 'Doble-Horon'.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H2774",
+      "hebreeuws": "חַרְנֶפֶר",
+      "translit": "charnefer",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Charnefer-pn",
+      "grondvorm": "Charnefer-pn",
+      "stamfamilie": [],
+      "toelichting": "Jefe-Aser hijo Tsofac; 1Cr 7:36.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2775a",
+      "hebreeuws": "חֶרֶס-I",
+      "translit": "cheres-sun",
+      "woordsoort": "sustantivo",
+      "es_concordant": "sol-cheres",
+      "grondvorm": "sol-cheres",
+      "stamfamilie": [],
+      "toelichting": "Gedeón-cumbre-solar y Sansón-acertijo-puesta-sol y Job-detiene-soles (Jue 1:35; 8:13; 14:18; Job 9:7). Sinónimo-poético de H8121 shemesh.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2775b",
+      "hebreeuws": "חֶרֶס-II",
+      "translit": "cheres-itch",
+      "woordsoort": "sustantivo",
+      "es_concordant": "sarna",
+      "grondvorm": "sarna",
+      "stamfamilie": [],
+      "toelichting": "Segundo-cheres; sarna-pruriginosa Dt 28:27.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2776",
+      "hebreeuws": "חֶרֶס",
+      "translit": "cheres-mount",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cheres-pn-monte",
+      "grondvorm": "Cheres-pn-monte",
+      "stamfamilie": [],
+      "toelichting": "Monte-tribu-Dan; Jue 1:35.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2777",
+      "hebreeuws": "חַרְסוּת",
+      "translit": "charsuth",
+      "woordsoort": "sustantivo",
+      "es_concordant": "puerta-tiesto",
+      "grondvorm": "puerta-tiesto",
+      "stamfamilie": [
+        "H2789"
+      ],
+      "toelichting": "Puerta-de-tiestos en Jerusalén-Tofet (Jer 19:2). Lugar-Jeremías-rompe-cántaro.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2778a",
+      "hebreeuws": "חָרַף-I",
+      "translit": "charaf-I",
+      "woordsoort": "verbo",
+      "es_concordant": "ultrajar",
+      "grondvorm": "ultrajar",
+      "stamfamilie": [
+        "H2781"
+      ],
+      "toelichting": "Piel: difamar, mofarse, insultar; concordante 'ultrajar'.",
+      "voorkomens": 35
+    },
+    {
+      "strong": "H2778b",
+      "hebreeuws": "חָרַף-IV",
+      "translit": "charaf-IV",
+      "woordsoort": "verbo",
+      "es_concordant": "invernar",
+      "grondvorm": "invernar",
+      "stamfamilie": [
+        "H2779"
+      ],
+      "toelichting": "Cuarto charaf; ramas-cortadas invernan-con-bestias; Is 18:6; sufijo distinto.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2778c",
+      "hebreeuws": "חָרַף-III",
+      "translit": "charaf-III",
+      "woordsoort": "verbo",
+      "es_concordant": "desposar-prometida",
+      "grondvorm": "desposar-prometida",
+      "stamfamilie": [],
+      "toelichting": "Nifal; esclava-ya-prometida; Lv 19:20.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2779",
+      "hebreeuws": "חֹרֶף",
+      "translit": "choref",
+      "woordsoort": "sustantivo",
+      "es_concordant": "otoño-invierno",
+      "grondvorm": "otoño-invierno",
+      "stamfamilie": [
+        "H2778b"
+      ],
+      "toelichting": "Estación-fría-lluviosa contra verano-seco (Gn 8:22; Job 29:4; Sal 74:17; Pr 20:4; Jer 36:22; Am 3:15; Zac 14:8). Bisección-hebraica.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H2780",
+      "hebreeuws": "חָרֵף",
+      "translit": "charef",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Charef-pn",
+      "grondvorm": "Charef-pn",
+      "stamfamilie": [],
+      "toelichting": "Hijo Hur-rama-Caleb padre Bet-Gader; 1Cr 2:51.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2781",
+      "hebreeuws": "חֶרְפָּה",
+      "translit": "cherpah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ultraje",
+      "grondvorm": "ultraje",
+      "stamfamilie": [
+        "H2778a"
+      ],
+      "toelichting": "De charaf; estado-de-ser-ultrajado o el-ultraje-mismo.",
+      "voorkomens": 73
+    },
+    {
+      "strong": "H2782",
+      "hebreeuws": "חָרַץ",
+      "translit": "charats",
+      "woordsoort": "verbo",
+      "es_concordant": "incidir-decidir",
+      "grondvorm": "incidir-decidir",
+      "stamfamilie": [
+        "H2742a",
+        "H2742b",
+        "H2757"
+      ],
+      "toelichting": "Qal: cortar-agudo (perro-aguza-lengua Ex 11:7; Jos 10:21; Lv 22:22; cortar-decisivamente 1Re 20:40; Is 10:22-23; 28:22; Dn 9:26-27; 11:36).",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H2783",
+      "hebreeuws": "חַרְצֻבָּה",
+      "translit": "charts-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lomos-arameo",
+      "grondvorm": "lomos-arameo",
+      "stamfamilie": [],
+      "toelichting": "Arameo paralelo; lomos-Belsasar relajados; Dn 5:6.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2784",
+      "hebreeuws": "חַרְצֻבּוֹת",
+      "translit": "chartsubot",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ligaduras-grilletes",
+      "grondvorm": "ligaduras-grilletes",
+      "stamfamilie": [],
+      "toelichting": "Ataduras y grilletes que sujetan-tenso (Sal 73:4; Is 58:6); solo plural.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2785",
+      "hebreeuws": "חַרְצָן",
+      "translit": "chartsan",
+      "woordsoort": "sustantivo",
+      "es_concordant": "pepita-uva",
+      "grondvorm": "pepita-uva",
+      "stamfamilie": [],
+      "toelichting": "Parte-pepita uva prohibición-Nazareo; Nm 6:4.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2786",
+      "hebreeuws": "חָרַק",
+      "translit": "charaq",
+      "woordsoort": "verbo",
+      "es_concordant": "rechinar-dientes",
+      "grondvorm": "rechinar-dientes",
+      "stamfamilie": [],
+      "toelichting": "Frotamiento-dientes-iracundo de amargura (Job 16:9; Sal 35:16; 37:12; 112:10; Lm 2:16).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H2787",
+      "hebreeuws": "חָרַר",
+      "translit": "charar",
+      "woordsoort": "verbo",
+      "es_concordant": "calcinar",
+      "grondvorm": "calcinar",
+      "stamfamilie": [
+        "H2746",
+        "H2788"
+      ],
+      "toelichting": "Qal/Nifal/Pilpel: secarse-por-calor distinto de saraph (quemar) y baar (arder) por aspecto-deshidratación-calor (Job 30:30; Sal 69:4; 102:4; Pr 26:21; Is 24:6; Jer 6:29; 17:6; 51:39; Ez 15:4-5; 24:11).",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H2788",
+      "hebreeuws": "חָרֵר",
+      "translit": "charer",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lugar-calcinado",
+      "grondvorm": "lugar-calcinado",
+      "stamfamilie": [
+        "H2787"
+      ],
+      "toelichting": "Hombre-confiado-en-hombre como bosque-suelo-calcinado; Jer 17:6.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2789",
+      "hebreeuws": "חֶרֶשׂ",
+      "translit": "cheres",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tiesto",
+      "grondvorm": "tiesto",
+      "stamfamilie": [],
+      "toelichting": "Cerámica-cocida, fragmento-de-vasija; distinto de cheresh 'magia' y cheresh 'bosque'.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H2790a",
+      "hebreeuws": "חָרַשׁ-I",
+      "translit": "charash-I",
+      "woordsoort": "verbo",
+      "es_concordant": "arar",
+      "grondvorm": "arar",
+      "stamfamilie": [
+        "H2758"
+      ],
+      "toelichting": "Qal: cultivar-campo, metafóricamente tramar-mal; distinto de charash-II 'callar'.",
+      "voorkomens": 26
+    },
+    {
+      "strong": "H2790b",
+      "hebreeuws": "חָרַשׁ-II",
+      "translit": "charash-II",
+      "woordsoort": "verbo",
+      "es_concordant": "callar-charash",
+      "grondvorm": "callar-charash",
+      "stamfamilie": [
+        "H2791a"
+      ],
+      "toelichting": "Hifil: estar-quieto; distinto de charash-I (grabar/arar).",
+      "voorkomens": 47
+    },
+    {
+      "strong": "H2791a",
+      "hebreeuws": "חֶרֶשׁ",
+      "translit": "cheresh",
+      "woordsoort": "adverbio",
+      "es_concordant": "sigilosamente-cheresh",
+      "grondvorm": "sigilosamente-cheresh",
+      "stamfamilie": [
+        "H2790b"
+      ],
+      "toelichting": "Adverbial; espías-enviados-en-secreto; Jos 2:1.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2791b",
+      "hebreeuws": "חֶרֶשׁ-III",
+      "translit": "charash-III",
+      "woordsoort": "sustantivo",
+      "es_concordant": "artesano-Ge-Charashim",
+      "grondvorm": "artesano-Ge-Charashim",
+      "stamfamilie": [
+        "H2796"
+      ],
+      "toelichting": "Artesano-carpintero en expresión Ge-Charashim ('valle-de-los-artesanos'); 1Cr 4:14; Neh 11:35; variante-toponímica de H2796.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2792",
+      "hebreeuws": "חֶרֶשׁ",
+      "translit": "cheresh-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cheresh-pn-persona",
+      "grondvorm": "Cheresh-pn-persona",
+      "stamfamilie": [],
+      "toelichting": "Jefe-Levita post-exilio; 1Cr 9:15.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2793",
+      "hebreeuws": "חֹרֶשׁ",
+      "translit": "choresh-wood",
+      "woordsoort": "sustantivo",
+      "es_concordant": "soto-bosque",
+      "grondvorm": "soto-bosque",
+      "stamfamilie": [],
+      "toelichting": "Bosque-denso o matorral; refugio-David (1Sa 23:15,16,18,19; 2Cr 27:4; Is 17:9; Ez 31:3). Distinto de H3293 ya'ar 'bosque'.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H2794",
+      "hebreeuws": "חֹרֵשׁ",
+      "translit": "choresh-craft",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tallador-herrero",
+      "grondvorm": "tallador-herrero",
+      "stamfamilie": [
+        "H2796"
+      ],
+      "toelichting": "Gn-Tubal-Caín-herrero-cobre-hierro y Is-tallador-forma-imagen y 1Sa-no-había-herrero (Gn 4:22; Is 44:12-13; 1Sa 13:19). Familia H2790. Participio-oficio.",
+      "voorkomens": 33
+    },
+    {
+      "strong": "H2795",
+      "hebreeuws": "חֵרֵשׁ",
+      "translit": "cheresh-deaf",
+      "woordsoort": "adjetivo",
+      "es_concordant": "sordo",
+      "grondvorm": "sordo",
+      "stamfamilie": [
+        "H2790b"
+      ],
+      "toelichting": "Adj 'sordo/no-oyente' distinto de charash 'callar'; limitación-auditiva-física (Ex 4:11; Lv 19:14; Sal 38:14; 58:5; Is 29:18; 35:5; 42:18-19; 43:8).",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H2796",
+      "hebreeuws": "חָרָשׁ",
+      "translit": "charash",
+      "woordsoort": "sustantivo",
+      "es_concordant": "artesano",
+      "grondvorm": "artesano",
+      "stamfamilie": [
+        "H2790a"
+      ],
+      "toelichting": "Artesano-en madera, piedra o metal; concordante.",
+      "voorkomens": 35
+    },
+    {
+      "strong": "H2797",
+      "hebreeuws": "חַרְשָׁא",
+      "translit": "charsha",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Charsha-pn",
+      "grondvorm": "Charsha-pn",
+      "stamfamilie": [],
+      "toelichting": "Cabeza-familia Netineos en lista-retorno (Esd 2:52; Neh 7:54).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2798",
+      "hebreeuws": "גֵּי-חֲרָשִׁים",
+      "translit": "ge-charashim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ge-Charashim-pn",
+      "grondvorm": "Ge-Charashim-pn",
+      "stamfamilie": [
+        "H2796"
+      ],
+      "toelichting": "'Valle-de-artesanos' ciudad fundada por Yoab-hijo-de-Seraja; 1Cr 4:14.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2799",
+      "hebreeuws": "חֲרֹשֶׁת",
+      "translit": "charosheth",
+      "woordsoort": "sustantivo",
+      "es_concordant": "labor-tallada",
+      "grondvorm": "labor-tallada",
+      "stamfamilie": [
+        "H2796"
+      ],
+      "toelichting": "Trabajo-artesanal-talla en piedra o madera (Ex 31:5; 35:33 dos-veces; 38:23). Familia H2790.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2800",
+      "hebreeuws": "חֲרֹשֶׁת",
+      "translit": "charoshet-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Charosheth-pn",
+      "grondvorm": "Charosheth-pn",
+      "stamfamilie": [],
+      "toelichting": "Charoshet-Hagoyim sede-Sísara general-Jabín; Jue 4:2,13,16; transliterado.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2801",
+      "hebreeuws": "חָרַת",
+      "translit": "charat",
+      "woordsoort": "verbo",
+      "es_concordant": "grabar-charat",
+      "grondvorm": "grabar-charat",
+      "stamfamilie": [
+        "H2747"
+      ],
+      "toelichting": "Qal-pasivo; diez-mandamientos en tablas-piedra; Ex 32:16; sufijo translit.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2802",
+      "hebreeuws": "חֶרֶת",
+      "translit": "cheret",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Cheret-pn-bosque",
+      "grondvorm": "Cheret-pn-bosque",
+      "stamfamilie": [],
+      "toelichting": "Bosque-donde David se refugió; 1Sa 22:5.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2803",
+      "hebreeuws": "חָשַׁב",
+      "translit": "chashav",
+      "woordsoort": "verbo",
+      "es_concordant": "considerar-imputar",
+      "grondvorm": "considerar-imputar",
+      "stamfamilie": [
+        "H2808",
+        "H2810"
+      ],
+      "toelichting": "Raíz hshb. Pensar, calcular, imputar. Cognitivo y jurídico.",
+      "voorkomens": 124
+    },
+    {
+      "strong": "H2804",
+      "hebreeuws": "חֲשַׁב",
+      "translit": "chashav-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "estimar-arameo",
+      "grondvorm": "estimar-arameo",
+      "stamfamilie": [
+        "H2803"
+      ],
+      "toelichting": "Arameo Peal-pasivo; habitantes-tierra contados-como-nada; Dn 4:35.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2805",
+      "hebreeuws": "חֵשֶׁב",
+      "translit": "chesheb",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ceñidor-tejido",
+      "grondvorm": "ceñidor-tejido",
+      "stamfamilie": [
+        "H2803"
+      ],
+      "toelichting": "Banda-tejida-sacerdotal del efod (Ex 28:8,27,28; 29:5; 39:5,20,21; Lv 8:7). Familia H2803.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H2806",
+      "hebreeuws": "חַשְׁבַּדָּנָה",
+      "translit": "chashbaddanah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chashbaddanah-pn",
+      "grondvorm": "Chashbaddanah-pn",
+      "stamfamilie": [],
+      "toelichting": "Estuvo a la derecha de Esdras en lectura-Ley; Neh 8:4.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2807",
+      "hebreeuws": "חֲשֻׁבָה",
+      "translit": "chashuvah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chashuvah-pn",
+      "grondvorm": "Chashuvah-pn",
+      "stamfamilie": [],
+      "toelichting": "Hijo Zorobabel; 1Cr 3:20.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2808",
+      "hebreeuws": "חֶשְׁבּוֹן",
+      "translit": "cheshbon-noun",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cómputo",
+      "grondvorm": "cómputo",
+      "stamfamilie": [
+        "H2803"
+      ],
+      "toelichting": "Raíz chshv (pensar, calcular); cálculo-intelectual Eclesiastés.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H2809",
+      "hebreeuws": "חֶשְׁבּוֹן",
+      "translit": "cheshbon-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chesbon-pn",
+      "grondvorm": "Chesbon-pn",
+      "stamfamilie": [],
+      "toelichting": "Capital-amorrea bajo Sehón; transliterado.",
+      "voorkomens": 38
+    },
+    {
+      "strong": "H2810",
+      "hebreeuws": "חִשָּׁבוֹן",
+      "translit": "chishshevon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ingenio-bélico",
+      "grondvorm": "ingenio-bélico",
+      "stamfamilie": [
+        "H2803"
+      ],
+      "toelichting": "Máquinas-bélicas-ingeniosas para murallas Uzías; 2Cr 26:15.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2811",
+      "hebreeuws": "חֲשַׁבְיָה",
+      "translit": "chashavyah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chasabja-pn",
+      "grondvorm": "Chasabja-pn",
+      "stamfamilie": [],
+      "toelichting": "'YHWH-ha-pensado-en-mí'; varios levitas y cabezas, bajo Esdras.",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H2812",
+      "hebreeuws": "חֲשַׁבְנָה",
+      "translit": "chashavnah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chashavnah-pn",
+      "grondvorm": "Chashavnah-pn",
+      "stamfamilie": [],
+      "toelichting": "Cabeza-pueblo firmante-pacto; Neh 10:25.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2813",
+      "hebreeuws": "חֲשַׁבְנְיָה",
+      "translit": "chashavneyah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chashavneya-pn",
+      "grondvorm": "Chashavneya-pn",
+      "stamfamilie": [],
+      "toelichting": "Levita-líder asamblea-arrepentimiento Esdras; Neh 9:5.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2814",
+      "hebreeuws": "חָשָׁה",
+      "translit": "chashah",
+      "woordsoort": "verbo",
+      "es_concordant": "guardar-silencio",
+      "grondvorm": "guardar-silencio",
+      "stamfamilie": [
+        "H2790b"
+      ],
+      "toelichting": "Qal/Hifil: estar-quieto, callado (Dios 'calla').",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H2815",
+      "hebreeuws": "חַשּׁוּב",
+      "translit": "chashshuv",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chassub-pn",
+      "grondvorm": "Chassub-pn",
+      "stamfamilie": [],
+      "toelichting": "Constructor-muralla Nehemías y Levita-firmante-pacto y Levita-grupo-templo (Neh 3:11,23; 10:24; 11:15). Familia H2803a.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H2816",
+      "hebreeuws": "חֲשׁוֹךְ",
+      "translit": "chashok-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tinieblas-arameo",
+      "grondvorm": "tinieblas-arameo",
+      "stamfamilie": [
+        "H2822"
+      ],
+      "toelichting": "Arameo tinieblas (Dn 2:22 'lo-que-está-en-tinieblas'); cognado Hebr H2822 choshek.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2817",
+      "hebreeuws": "חֲשׂוּפָא",
+      "translit": "chasufa",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chasufa-pn",
+      "grondvorm": "Chasufa-pn",
+      "stamfamilie": [],
+      "toelichting": "Cabeza-familia Netineos en lista-retorno (Esd 2:43; Neh 7:46).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2818a",
+      "hebreeuws": "חֲשַׁח-I",
+      "translit": "chashach-I-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "necesario-arameo",
+      "grondvorm": "necesario-arameo",
+      "stamfamilie": [
+        "H2819"
+      ],
+      "toelichting": "Primer chashach arameo; no-necesario-respuesta-rey; Dn 3:16.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2818b",
+      "hebreeuws": "חֲשַׁח-II",
+      "translit": "chashach-II-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "necesitar-arameo",
+      "grondvorm": "necesitar-arameo",
+      "stamfamilie": [
+        "H2818a"
+      ],
+      "toelichting": "Segundo chashach arameo; 'lo-que-necesitan'; Esd 6:9.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H2819",
+      "hebreeuws": "חַשְׁחוּת",
+      "translit": "chashchut-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "necesidad-arameo",
+      "grondvorm": "necesidad-arameo",
+      "stamfamilie": [
+        "H2818a"
+      ],
+      "toelichting": "Arameo necesidades-trabajo-templo; Esd 7:20.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2820",
+      "hebreeuws": "חָשַׂךְ",
+      "translit": "chasach",
+      "woordsoort": "verbo",
+      "es_concordant": "escatimar",
+      "grondvorm": "escatimar",
+      "stamfamilie": [],
+      "toelichting": "Qal: retener, evitar, no-dar; concordante.",
+      "voorkomens": 28
+    },
+    {
+      "strong": "H2821",
+      "hebreeuws": "חָשַׁךְ",
+      "translit": "chashach",
+      "woordsoort": "verbo",
+      "es_concordant": "oscurecerse",
+      "grondvorm": "oscurecerse",
+      "stamfamilie": [
+        "H2822",
+        "H2825"
+      ],
+      "toelichting": "Qal: hacerse-tinieblas (sol-eclipsado, ojos-empañados).",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H2822",
+      "hebreeuws": "חֹשֶׁךְ",
+      "translit": "choshek",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tinieblas",
+      "grondvorm": "tinieblas",
+      "stamfamilie": [
+        "H2821"
+      ],
+      "toelichting": "Ausencia-de-luz como estado-en-sí; concordante en todos los contextos.",
+      "voorkomens": 80
+    },
+    {
+      "strong": "H2823",
+      "hebreeuws": "חָשֹׁךְ",
+      "translit": "chashok",
+      "woordsoort": "adjetivo",
+      "es_concordant": "oscuro-rango",
+      "grondvorm": "oscuro-rango",
+      "stamfamilie": [
+        "H2822"
+      ],
+      "toelichting": "Artesano-no-está ante hombres-oscuros; Pr 22:29.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2824",
+      "hebreeuws": "חֶשְׁכָה",
+      "translit": "cheshkah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "agua-tenebrosa",
+      "grondvorm": "agua-tenebrosa",
+      "stamfamilie": [
+        "H2822"
+      ],
+      "toelichting": "Dios hace tinieblas-acuosas su tienda; Sal 18:11.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2825",
+      "hebreeuws": "חֲשֵׁכָה",
+      "translit": "chashekhah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "densa-oscuridad",
+      "grondvorm": "densa-oscuridad",
+      "stamfamilie": [
+        "H2822"
+      ],
+      "toelichting": "Noche-profunda-oscura o estado-sin-salida (Gn 15:12; Sal 18:28; 82:5; 139:12; Is 50:10). Distinto de H2822 choshek y H652 ofel.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H2826",
+      "hebreeuws": "חָשַׁל",
+      "translit": "chashal",
+      "woordsoort": "verbo",
+      "es_concordant": "rezagado-débil",
+      "grondvorm": "rezagado-débil",
+      "stamfamilie": [],
+      "toelichting": "Nifal-participio; los-cansados en retaguardia ataque-Amalec; Dt 25:18.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2827",
+      "hebreeuws": "חֲשַׁל",
+      "translit": "chashal-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "machacar-arameo",
+      "grondvorm": "machacar-arameo",
+      "stamfamilie": [],
+      "toelichting": "Arameo Pael; hierro-reino-machaca-todo; Dn 2:40.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2828",
+      "hebreeuws": "חָשֻׁם",
+      "translit": "chashum",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chashum-pn",
+      "grondvorm": "Chashum-pn",
+      "stamfamilie": [],
+      "toelichting": "Antepasado-Judá y sacerdote-contemporáneo-Esdras (Esd 2:19; 10:33; Neh 7:22; 8:4; 10:19). 'Nariz-poderosa'.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H2829",
+      "hebreeuws": "חֶשְׁמוֹן",
+      "translit": "cheshmon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Chesmon-pn",
+      "grondvorm": "Chesmon-pn",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-sur-Judá; Jos 15:27.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H2830",
+      "hebreeuws": "חַשְׁמַל",
+      "translit": "chashmal",
+      "woordsoort": "sustantivo",
+      "es_concordant": "electro-resplandeciente",
+      "grondvorm": "electro-resplandeciente",
+      "stamfamilie": [],
+      "toelichting": "Ez-como-electro-en-medio-fuego y Ez-desde-caderas-fuego-electro y Ez-aspecto-metal-resplandeciente (Ez 1:4,27; 8:2). Distinto de H2091 zahav 'oro' y H5178 nechosheth 'cobre'. Teofanía-Ezequiel.",
+      "voorkomens": 3
+    }
+  ]
+}

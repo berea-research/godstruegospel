@@ -1,0 +1,3574 @@
+{
+  "batch_id": "g_batch_007",
+  "script": "gr",
+  "datum": "2026-05-02",
+  "entries": [
+    {
+      "strong": "G862",
+      "grieks": "ἄφθαρτος",
+      "translit": "aphthartos",
+      "woordsoort": "bn",
+      "es_concordant": "incorruptible-aphthartos",
+      "grondvorm": "on-vergankelijk",
+      "stamfamilie": [
+        "G862",
+        "G861 aphtharsia",
+        "G5356 phthora (a-privans)"
+      ],
+      "toelichting": "Incorruptible.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G819",
+      "grieks": "ἀτιμία",
+      "translit": "atimia",
+      "woordsoort": "zn",
+      "es_concordant": "deshonra-atimia",
+      "grondvorm": "on-eer",
+      "stamfamilie": [
+        "G819",
+        "G820 atimos",
+        "G5092 timē"
+      ],
+      "toelichting": "Deshonra.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G2052",
+      "grieks": "ἐριθεία",
+      "translit": "eritheia",
+      "woordsoort": "zn",
+      "es_concordant": "contienda-eritheia",
+      "grondvorm": "twist-zucht",
+      "stamfamilie": [
+        "G2052"
+      ],
+      "toelichting": "Rivalidad.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G3847",
+      "grieks": "παράβασις",
+      "translit": "parabasis",
+      "woordsoort": "zn",
+      "es_concordant": "transgresion-parabasis",
+      "grondvorm": "overtreding",
+      "stamfamilie": [
+        "G3847",
+        "G3848 parabatēs",
+        "G3844 para",
+        "G939 basis"
+      ],
+      "toelichting": "Transgresion.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G1382",
+      "grieks": "δοκιμή",
+      "translit": "dokimē",
+      "woordsoort": "zn",
+      "es_concordant": "prueba-aprobada-dokime",
+      "grondvorm": "bewezen-deugd",
+      "stamfamilie": [
+        "G1382",
+        "G1381 dokimazō",
+        "G1384 dokimos"
+      ],
+      "toelichting": "Aprobacion probada.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G442",
+      "grieks": "ἀνθρώπινος",
+      "translit": "anthrōpinos",
+      "woordsoort": "bn",
+      "es_concordant": "humano-anthropinos",
+      "grondvorm": "menselijk",
+      "stamfamilie": [
+        "G442",
+        "G444 anthrōpos"
+      ],
+      "toelichting": "Humano.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G874",
+      "grieks": "ἀφορμή",
+      "translit": "aphormē",
+      "woordsoort": "zn",
+      "es_concordant": "ocasion-aphorme",
+      "grondvorm": "aan-leiding",
+      "stamfamilie": [
+        "G874",
+        "G3729 hormē",
+        "G575 apo"
+      ],
+      "toelichting": "Ocasion.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G553",
+      "grieks": "ἀπεκδέχομαι",
+      "translit": "apekdechomai",
+      "woordsoort": "ww",
+      "es_concordant": "esperar-de-fuera-apekdechomai",
+      "grondvorm": "uit-vandaan-verwachten",
+      "stamfamilie": [
+        "G553",
+        "G1551 ekdechomai",
+        "G575 apo"
+      ],
+      "toelichting": "Esperar fuera de.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G1764",
+      "grieks": "ἐνίστημι",
+      "translit": "enistēmi",
+      "woordsoort": "ww",
+      "es_concordant": "estar-presente-enistemi",
+      "grondvorm": "in-gesteld-staan",
+      "stamfamilie": [
+        "G1764",
+        "G2476 histēmi",
+        "G1722 en"
+      ],
+      "toelichting": "Estar presente.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G543",
+      "grieks": "ἀπείθεια",
+      "translit": "apeitheia",
+      "woordsoort": "zn",
+      "es_concordant": "desobediencia-apeitheia",
+      "grondvorm": "on-gehoorzaamheid",
+      "stamfamilie": [
+        "G543",
+        "G544 apeitheō",
+        "G3982 peithō (a-privans)"
+      ],
+      "toelichting": "Desobediencia.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G1384",
+      "grieks": "δόκιμος",
+      "translit": "dokimos",
+      "woordsoort": "bn",
+      "es_concordant": "aprobado-dokimos",
+      "grondvorm": "beproefd",
+      "stamfamilie": [
+        "G1384",
+        "G1381 dokimazō",
+        "G96 adokimos"
+      ],
+      "toelichting": "Aprobado.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G2003",
+      "grieks": "ἐπιταγή",
+      "translit": "epitagē",
+      "woordsoort": "zn",
+      "es_concordant": "ordenanza-epitage",
+      "grondvorm": "be-vel",
+      "stamfamilie": [
+        "G2003",
+        "G2004 epitassō"
+      ],
+      "toelichting": "Mandamiento autorizado.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G1213",
+      "grieks": "δηλόω",
+      "translit": "dēloō",
+      "woordsoort": "ww",
+      "es_concordant": "manifestar-deloo",
+      "grondvorm": "duidelijk-maken",
+      "stamfamilie": [
+        "G1213",
+        "G1212 dēlos"
+      ],
+      "toelichting": "Hacer claro.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G5448",
+      "grieks": "φυσιόω",
+      "translit": "phusioō",
+      "woordsoort": "ww",
+      "es_concordant": "envanecerse-fusioo",
+      "grondvorm": "op-blazen",
+      "stamfamilie": [
+        "G5448",
+        "G5449 phusis (verwante stam phu-)"
+      ],
+      "toelichting": "Inflarse.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G3402",
+      "grieks": "μιμητής",
+      "translit": "mimētēs",
+      "woordsoort": "zn",
+      "es_concordant": "imitador-mimetes",
+      "grondvorm": "na-volger",
+      "stamfamilie": [
+        "G3402",
+        "G3401 mimeomai"
+      ],
+      "toelichting": "Imitador.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G548",
+      "grieks": "ἄπειμι",
+      "translit": "apeimi",
+      "woordsoort": "ww",
+      "es_concordant": "estar-ausente-apeimi",
+      "grondvorm": "afwezig-zijn",
+      "stamfamilie": [
+        "G548",
+        "G1510 eimi",
+        "G575 apo"
+      ],
+      "toelichting": "Estar ausente.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G1496",
+      "grieks": "εἰδωλολάτρης",
+      "translit": "eidōlolatrēs",
+      "woordsoort": "zn",
+      "es_concordant": "idolatra-eidololatres",
+      "grondvorm": "afgods-dienaar",
+      "stamfamilie": [
+        "G1496",
+        "G1497 eidōlon",
+        "G3000 latreuō",
+        "G1495 eidōlolatreia"
+      ],
+      "toelichting": "Idolatra.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G4747",
+      "grieks": "στοιχεῖον",
+      "translit": "stoicheion",
+      "woordsoort": "zn",
+      "es_concordant": "elemento-stoicheion",
+      "grondvorm": "ge-leding",
+      "stamfamilie": [
+        "G4747",
+        "G4748 stoicheō"
+      ],
+      "toelichting": "Elemento basico.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G299",
+      "grieks": "ἄμωμος",
+      "translit": "amōmos",
+      "woordsoort": "bn",
+      "es_concordant": "sin-mancha-amomos",
+      "grondvorm": "smettel-loos",
+      "stamfamilie": [
+        "G299",
+        "G3470 mōmos (a-privans)"
+      ],
+      "toelichting": "Sin mancha.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G5603",
+      "grieks": "ᾠδή",
+      "translit": "ōidē",
+      "woordsoort": "zn",
+      "es_concordant": "canto-ode",
+      "grondvorm": "lied",
+      "stamfamilie": [
+        "G5603",
+        "G103 aidō"
+      ],
+      "toelichting": "Cancion.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G4170",
+      "grieks": "πολεμέω",
+      "translit": "polemeō",
+      "woordsoort": "ww",
+      "es_concordant": "guerrear-polemeo",
+      "grondvorm": "oorlogen",
+      "stamfamilie": [
+        "G4170",
+        "G4171 polemos"
+      ],
+      "toelichting": "Guerrear.",
+      "voorkomens_ca": 7
+    },
+    {
+      "strong": "G3677",
+      "grieks": "ὄναρ",
+      "translit": "onar",
+      "woordsoort": "zn",
+      "es_concordant": "sueno-onar",
+      "grondvorm": "droom",
+      "stamfamilie": [
+        "G3677"
+      ],
+      "toelichting": "Sueno.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5258",
+      "grieks": "ὕπνος",
+      "translit": "hupnos",
+      "woordsoort": "zn",
+      "es_concordant": "sueno-hupnos",
+      "grondvorm": "slaap",
+      "stamfamilie": [
+        "G5258"
+      ],
+      "toelichting": "Sueno fisiologico.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3097",
+      "grieks": "μάγος",
+      "translit": "magos",
+      "woordsoort": "zn",
+      "es_concordant": "mago-magos",
+      "grondvorm": "ma-giër",
+      "stamfamilie": [
+        "G3097",
+        "G3096 mageuō"
+      ],
+      "toelichting": "Mago.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2574",
+      "grieks": "κάμηλος",
+      "translit": "kamēlos",
+      "woordsoort": "zn",
+      "es_concordant": "camello-kamelos",
+      "grondvorm": "kameel",
+      "stamfamilie": [
+        "G2574"
+      ],
+      "toelichting": "Camello.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5263",
+      "grieks": "ὑποδείκνυμι",
+      "translit": "hupodeiknumi",
+      "woordsoort": "ww",
+      "es_concordant": "indicar-hupodeiknumi",
+      "grondvorm": "aan-tonen",
+      "stamfamilie": [
+        "G5263",
+        "G1166 deiknumi",
+        "G5259 hupo"
+      ],
+      "toelichting": "Mostrar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G596",
+      "grieks": "ἀποθήκη",
+      "translit": "apothēkē",
+      "woordsoort": "zn",
+      "es_concordant": "granero-apotheke",
+      "grondvorm": "voorraad-schuur",
+      "stamfamilie": [
+        "G596",
+        "G659 apotithēmi (verwante stam)"
+      ],
+      "toelichting": "Granero.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4013",
+      "grieks": "περιάγω",
+      "translit": "periagō",
+      "woordsoort": "ww",
+      "es_concordant": "andar-alrededor-periago",
+      "grondvorm": "rond-leiden",
+      "stamfamilie": [
+        "G4013",
+        "G71 agō",
+        "G4012 peri"
+      ],
+      "toelichting": "Andar alrededor.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3755",
+      "grieks": "ὅτου",
+      "translit": "hotou",
+      "woordsoort": "betrekkelijk-voornaamwoord",
+      "es_concordant": "hasta-que-hotou",
+      "grondvorm": "totdat",
+      "stamfamilie": [
+        "G3755"
+      ],
+      "toelichting": "Hasta que.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3429",
+      "grieks": "μοιχάομαι",
+      "translit": "moichaō",
+      "woordsoort": "ww",
+      "es_concordant": "cometer-adulterio-moichao",
+      "grondvorm": "echt-breken",
+      "stamfamilie": [
+        "G3429",
+        "G3430 moicheia",
+        "G3431 moicheuō"
+      ],
+      "toelichting": "Adulterar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2672",
+      "grieks": "καταράομαι",
+      "translit": "kataraomai",
+      "woordsoort": "ww",
+      "es_concordant": "maldecir-kataraomai",
+      "grondvorm": "ver-vloeken",
+      "stamfamilie": [
+        "G2672",
+        "G2671 katara"
+      ],
+      "toelichting": "Maldecir.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3770",
+      "grieks": "οὐράνιος",
+      "translit": "ouranios",
+      "woordsoort": "bn",
+      "es_concordant": "celestial-ouranios",
+      "grondvorm": "hemels",
+      "stamfamilie": [
+        "G3770",
+        "G3772 ouranos"
+      ],
+      "toelichting": "Celestial.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2595",
+      "grieks": "κάρφος",
+      "translit": "karphos",
+      "woordsoort": "zn",
+      "es_concordant": "mota-karphos",
+      "grondvorm": "splinter",
+      "stamfamilie": [
+        "G2595"
+      ],
+      "toelichting": "Mota.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1385",
+      "grieks": "δοκός",
+      "translit": "dokos",
+      "woordsoort": "zn",
+      "es_concordant": "viga-dokos",
+      "grondvorm": "balk",
+      "stamfamilie": [
+        "G1385"
+      ],
+      "toelichting": "Viga.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3074",
+      "grieks": "λύκος",
+      "translit": "lukos",
+      "woordsoort": "zn",
+      "es_concordant": "lobo-lukos",
+      "grondvorm": "wolf",
+      "stamfamilie": [
+        "G3074"
+      ],
+      "toelichting": "Lobo.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2311",
+      "grieks": "θεμελιόω",
+      "translit": "themelioō",
+      "woordsoort": "ww",
+      "es_concordant": "fundar-themelioo",
+      "grondvorm": "fundament-leggen",
+      "stamfamilie": [
+        "G2311",
+        "G2310 themelion"
+      ],
+      "toelichting": "Echar fundamento.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3994",
+      "grieks": "πενθερά",
+      "translit": "penthera",
+      "woordsoort": "zn",
+      "es_concordant": "suegra-penthera",
+      "grondvorm": "schoon-moeder",
+      "stamfamilie": [
+        "G3994",
+        "G3995 pentheros"
+      ],
+      "toelichting": "Suegra.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4446",
+      "grieks": "πυρετός",
+      "translit": "puretos",
+      "woordsoort": "zn",
+      "es_concordant": "fiebre-puretos",
+      "grondvorm": "koorts",
+      "stamfamilie": [
+        "G4446",
+        "G4442 pur"
+      ],
+      "toelichting": "Fiebre.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1276",
+      "grieks": "διαπεράω",
+      "translit": "diaperaō",
+      "woordsoort": "ww",
+      "es_concordant": "atravesar-diaperao",
+      "grondvorm": "over-steken",
+      "stamfamilie": [
+        "G1276",
+        "G4008 peran",
+        "G1223 dia"
+      ],
+      "toelichting": "Atravesar agua.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1590",
+      "grieks": "ἐκλύω",
+      "translit": "ekluō",
+      "woordsoort": "ww",
+      "es_concordant": "desfallecer-ekluo",
+      "grondvorm": "uit-losmaken",
+      "stamfamilie": [
+        "G1590",
+        "G3089 luō",
+        "G1537 ek"
+      ],
+      "toelichting": "Desfallecer.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4082",
+      "grieks": "πήρα",
+      "translit": "pēra",
+      "woordsoort": "zn",
+      "es_concordant": "alforja-pera",
+      "grondvorm": "reis-tas",
+      "stamfamilie": [
+        "G4082"
+      ],
+      "toelichting": "Alforja.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G414",
+      "grieks": "ἀνεκτότερον",
+      "translit": "anektoteron",
+      "woordsoort": "bn",
+      "es_concordant": "soportable-anektoteron",
+      "grondvorm": "draag-lijker",
+      "stamfamilie": [
+        "G414",
+        "G430 anechomai"
+      ],
+      "toelichting": "Tolerable.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5409",
+      "grieks": "φορέω",
+      "translit": "phoreō",
+      "woordsoort": "ww",
+      "es_concordant": "llevar-foreo",
+      "grondvorm": "dragen-als-kleed",
+      "stamfamilie": [
+        "G5409",
+        "G5342 pherō"
+      ],
+      "toelichting": "Llevar habitualmente.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3819",
+      "grieks": "πάλαι",
+      "translit": "palai",
+      "woordsoort": "bw",
+      "es_concordant": "antiguamente-palai",
+      "grondvorm": "vroeger",
+      "stamfamilie": [
+        "G3819",
+        "G3820 palaios"
+      ],
+      "toelichting": "Antano.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G613",
+      "grieks": "ἀποκρύπτω",
+      "translit": "apokruptō",
+      "woordsoort": "ww",
+      "es_concordant": "encubrir-apokrupto",
+      "grondvorm": "weg-verbergen",
+      "stamfamilie": [
+        "G613",
+        "G2928 kruptō",
+        "G614 apokruphos",
+        "G575 apo"
+      ],
+      "toelichting": "Esconder.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2218",
+      "grieks": "ζυγός",
+      "translit": "zugos",
+      "woordsoort": "zn",
+      "es_concordant": "yugo-zugos",
+      "grondvorm": "juk",
+      "stamfamilie": [
+        "G2218"
+      ],
+      "toelichting": "Yugo.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G123",
+      "grieks": "αἰγιαλός",
+      "translit": "aigialos",
+      "woordsoort": "zn",
+      "es_concordant": "playa-aigialos",
+      "grondvorm": "strand",
+      "stamfamilie": [
+        "G123"
+      ],
+      "toelichting": "Playa.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G378",
+      "grieks": "ἀναπληρόω",
+      "translit": "anaplēroō",
+      "woordsoort": "ww",
+      "es_concordant": "completar-anapleroo",
+      "grondvorm": "vol-vullen",
+      "stamfamilie": [
+        "G378",
+        "G4137 plēroō",
+        "G303 ana"
+      ],
+      "toelichting": "Completar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1211",
+      "grieks": "δή",
+      "translit": "dē",
+      "woordsoort": "partikel",
+      "es_concordant": "ciertamente-de",
+      "grondvorm": "dan-toch",
+      "stamfamilie": [
+        "G1211"
+      ],
+      "toelichting": "Ciertamente.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4930",
+      "grieks": "συντέλεια",
+      "translit": "sunteleia",
+      "woordsoort": "zn",
+      "es_concordant": "consumacion-sunteleia",
+      "grondvorm": "vol-einding",
+      "stamfamilie": [
+        "G4930",
+        "G4931 sunteleō"
+      ],
+      "toelichting": "Cumplimiento.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2266",
+      "grieks": "Ἡρωδιάς",
+      "translit": "hērōidias",
+      "woordsoort": "eigennaam",
+      "es_concordant": "Herodias-pn",
+      "grondvorm": "Herodias",
+      "stamfamilie": [
+        "G2266"
+      ],
+      "toelichting": "Herodias.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2894",
+      "grieks": "κόφινος",
+      "translit": "kophinos",
+      "woordsoort": "zn",
+      "es_concordant": "cesto-kofinos",
+      "grondvorm": "rieten-mand",
+      "stamfamilie": [
+        "G2894"
+      ],
+      "toelichting": "Cesta.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4000",
+      "grieks": "πεντακισχίλιοι",
+      "translit": "pentakischilioi",
+      "woordsoort": "tw",
+      "es_concordant": "cinco-mil-pentakischilioi",
+      "grondvorm": "vijf-duizend",
+      "stamfamilie": [
+        "G4000",
+        "G4002 pente",
+        "G5507 chilioi"
+      ],
+      "toelichting": "Cinco mil.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4357",
+      "grieks": "προσμένω",
+      "translit": "prosmenō",
+      "woordsoort": "ww",
+      "es_concordant": "permanecer-junto-prosmeno",
+      "grondvorm": "bij-blijven",
+      "stamfamilie": [
+        "G4357",
+        "G3306 menō",
+        "G4314 pros"
+      ],
+      "toelichting": "Permanecer junto.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5494",
+      "grieks": "χειμών",
+      "translit": "cheimōn",
+      "woordsoort": "zn",
+      "es_concordant": "tempestad-cheimon",
+      "grondvorm": "winter-storm",
+      "stamfamilie": [
+        "G5494"
+      ],
+      "toelichting": "Tormenta.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2807",
+      "grieks": "κλείς",
+      "translit": "kleis",
+      "woordsoort": "zn",
+      "es_concordant": "llave-kleis",
+      "grondvorm": "sleutel",
+      "stamfamilie": [
+        "G2807",
+        "G2808 kleiō"
+      ],
+      "toelichting": "Llave.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2210",
+      "grieks": "ζημιόω",
+      "translit": "zēmioō",
+      "woordsoort": "ww",
+      "es_concordant": "perder-zemioo",
+      "grondvorm": "schade-lijden",
+      "stamfamilie": [
+        "G2210",
+        "G2209 zēmia"
+      ],
+      "toelichting": "Sufrir perdida.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4234",
+      "grieks": "πρᾶξις",
+      "translit": "praxis",
+      "woordsoort": "zn",
+      "es_concordant": "obra-praxis",
+      "grondvorm": "be-drijving",
+      "stamfamilie": [
+        "G4234",
+        "G4238 prassō"
+      ],
+      "toelichting": "Practica.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4814",
+      "grieks": "συλλαλέω",
+      "translit": "sullaleō",
+      "woordsoort": "ww",
+      "es_concordant": "hablar-con-sullaleo",
+      "grondvorm": "samen-spreken",
+      "stamfamilie": [
+        "G4814",
+        "G2980 laleō",
+        "G4862 sun"
+      ],
+      "toelichting": "Conversar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4856",
+      "grieks": "συμφωνέω",
+      "translit": "sumphōneō",
+      "woordsoort": "ww",
+      "es_concordant": "concordar-sumfoneo",
+      "grondvorm": "samen-stemmen",
+      "stamfamilie": [
+        "G4856",
+        "G5456 phōnē",
+        "G4862 sun",
+        "G4858 sumphōnia"
+      ],
+      "toelichting": "Concordar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5576",
+      "grieks": "ψευδομαρτυρέω",
+      "translit": "pseudomartureō",
+      "woordsoort": "ww",
+      "es_concordant": "dar-falso-testimonio",
+      "grondvorm": "vals-getuigen",
+      "stamfamilie": [
+        "G5576",
+        "G5571 pseudēs",
+        "G3140 martureō"
+      ],
+      "toelichting": "Atestiguar falsamente.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G922",
+      "grieks": "βάρος",
+      "translit": "baros",
+      "woordsoort": "zn",
+      "es_concordant": "carga-baros",
+      "grondvorm": "last",
+      "stamfamilie": [
+        "G922",
+        "G916 bareō",
+        "G926 barus"
+      ],
+      "toelichting": "Peso.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G561",
+      "grieks": "ἀπέναντι",
+      "translit": "apenanti",
+      "woordsoort": "vz",
+      "es_concordant": "enfrente-apenanti",
+      "grondvorm": "tegen-over",
+      "stamfamilie": [
+        "G561"
+      ],
+      "toelichting": "Enfrente.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3688",
+      "grieks": "ὄνος",
+      "translit": "onos",
+      "woordsoort": "zn",
+      "es_concordant": "asno-onos",
+      "grondvorm": "ezel",
+      "stamfamilie": [
+        "G3688",
+        "G3678 onarion"
+      ],
+      "toelichting": "Asno.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1910",
+      "grieks": "ἐπιβαίνω",
+      "translit": "epibainō",
+      "woordsoort": "ww",
+      "es_concordant": "subir-epibaino",
+      "grondvorm": "op-stappen",
+      "stamfamilie": [
+        "G1910",
+        "G939 basis",
+        "G1909 epi"
+      ],
+      "toelichting": "Subir a.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5614",
+      "grieks": "ὡσαννά",
+      "translit": "hōsanna",
+      "woordsoort": "tussenwerpsel",
+      "es_concordant": "Hosanna",
+      "grondvorm": "Hosanna",
+      "stamfamilie": [
+        "G5614"
+      ],
+      "toelichting": "Hosanna transliteracion.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4693",
+      "grieks": "σπήλαιον",
+      "translit": "spēlaion",
+      "woordsoort": "zn",
+      "es_concordant": "cueva-spelaion",
+      "grondvorm": "rots-spelonk",
+      "stamfamilie": [
+        "G4693"
+      ],
+      "toelichting": "Cueva.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2337",
+      "grieks": "θηλάζω",
+      "translit": "thēlazō",
+      "woordsoort": "ww",
+      "es_concordant": "amamantar-thelazo",
+      "grondvorm": "zogen",
+      "stamfamilie": [
+        "G2337",
+        "G2338 thēlu"
+      ],
+      "toelichting": "Amamantar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5444",
+      "grieks": "φύλλον",
+      "translit": "phullon",
+      "woordsoort": "zn",
+      "es_concordant": "hoja-fullon",
+      "grondvorm": "blad",
+      "stamfamilie": [
+        "G5444"
+      ],
+      "toelichting": "Hoja.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3338",
+      "grieks": "μεταμέλομαι",
+      "translit": "metamelomai",
+      "woordsoort": "ww",
+      "es_concordant": "arrepentirse-emocionalmente",
+      "grondvorm": "be-rouw-hebben",
+      "stamfamilie": [
+        "G3338",
+        "G3326 meta",
+        "G3199 melei",
+        "G3340 metanoeō"
+      ],
+      "toelichting": "Lamentar-cambiar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G589",
+      "grieks": "ἀποδημέω",
+      "translit": "apodēmeō",
+      "woordsoort": "ww",
+      "es_concordant": "viajar-fuera-apodemeo",
+      "grondvorm": "weg-reizen",
+      "stamfamilie": [
+        "G589",
+        "G590 apodēmos",
+        "G575 apo",
+        "G1218 dēmos"
+      ],
+      "toelichting": "Viajar al extranjero.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G926",
+      "grieks": "βαρύς",
+      "translit": "barus",
+      "woordsoort": "bn",
+      "es_concordant": "pesado-barus",
+      "grondvorm": "zwaar",
+      "stamfamilie": [
+        "G926",
+        "G916 bareō",
+        "G922 baros"
+      ],
+      "toelichting": "Pesado.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5272",
+      "grieks": "ὑπόκρισις",
+      "translit": "hupokrisis",
+      "woordsoort": "zn",
+      "es_concordant": "hipocresia-hupokrisis",
+      "grondvorm": "veinzerij",
+      "stamfamilie": [
+        "G5272",
+        "G5271 hupokrinomai",
+        "G5273 hupokritēs"
+      ],
+      "toelichting": "Fingimiento.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G946",
+      "grieks": "βδέλυγμα",
+      "translit": "bdelugma",
+      "woordsoort": "zn",
+      "es_concordant": "abominacion-bdelugma",
+      "grondvorm": "gruwel",
+      "stamfamilie": [
+        "G946",
+        "G948 bdelussomai"
+      ],
+      "toelichting": "Abominacion.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G206",
+      "grieks": "ἄκρον",
+      "translit": "akron",
+      "woordsoort": "zn",
+      "es_concordant": "extremo-akron",
+      "grondvorm": "uiterste",
+      "stamfamilie": [
+        "G206"
+      ],
+      "toelichting": "Extremidad.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5176",
+      "grieks": "τρώγω",
+      "translit": "trōgō",
+      "woordsoort": "ww",
+      "es_concordant": "comer-mascar-trogo",
+      "grondvorm": "kauwen",
+      "stamfamilie": [
+        "G5176"
+      ],
+      "toelichting": "Mascar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2787",
+      "grieks": "κιβωτός",
+      "translit": "kibōtos",
+      "woordsoort": "zn",
+      "es_concordant": "arca-kibotos",
+      "grondvorm": "ark",
+      "stamfamilie": [
+        "G2787"
+      ],
+      "toelichting": "Arca caja.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2906",
+      "grieks": "κραυγή",
+      "translit": "kraugē",
+      "woordsoort": "zn",
+      "es_concordant": "clamor-krauge",
+      "grondvorm": "ge-roep",
+      "stamfamilie": [
+        "G2906",
+        "G2896 krazō",
+        "G2905 kraugazō"
+      ],
+      "toelichting": "Grito.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2095",
+      "grieks": "εὖ",
+      "translit": "eu",
+      "woordsoort": "bw",
+      "es_concordant": "bien-eu",
+      "grondvorm": "wel-goed",
+      "stamfamilie": [
+        "G2095"
+      ],
+      "toelichting": "Bien.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4642",
+      "grieks": "σκληρός",
+      "translit": "sklēros",
+      "woordsoort": "bn",
+      "es_concordant": "duro-skleros",
+      "grondvorm": "hard",
+      "stamfamilie": [
+        "G4642",
+        "G4644 sklērotrachēlos",
+        "G4645 sklērunō"
+      ],
+      "toelichting": "Duro.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G916",
+      "grieks": "βαρέω",
+      "translit": "bareō",
+      "woordsoort": "ww",
+      "es_concordant": "agobiar-bareo",
+      "grondvorm": "be-zwaren",
+      "stamfamilie": [
+        "G916",
+        "G922 baros",
+        "G926 barus"
+      ],
+      "toelichting": "Cargar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2705",
+      "grieks": "καταφιλέω",
+      "translit": "kataphileō",
+      "woordsoort": "ww",
+      "es_concordant": "besar-katafileo",
+      "grondvorm": "in-nig-kussen",
+      "stamfamilie": [
+        "G2705",
+        "G5368 phileō",
+        "G2596 kata"
+      ],
+      "toelichting": "Besar tiernamente.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2516",
+      "grieks": "καθέζομαι",
+      "translit": "kathezomai",
+      "woordsoort": "ww",
+      "es_concordant": "estar-sentado-kathezomai",
+      "grondvorm": "neder-zitten",
+      "stamfamilie": [
+        "G2516",
+        "G2596 kata",
+        "G1476 hedraios"
+      ],
+      "toelichting": "Estar sentado.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1716",
+      "grieks": "ἐμπτύω",
+      "translit": "emptuō",
+      "woordsoort": "ww",
+      "es_concordant": "escupir-emptuo",
+      "grondvorm": "be-spuwen",
+      "stamfamilie": [
+        "G1716",
+        "G4429 ptuō",
+        "G1722 en"
+      ],
+      "toelichting": "Escupir.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4057",
+      "grieks": "περισσῶς",
+      "translit": "perissōs",
+      "woordsoort": "bw",
+      "es_concordant": "abundantemente-perissos",
+      "grondvorm": "overvloedig",
+      "stamfamilie": [
+        "G4057",
+        "G4053 perissos"
+      ],
+      "toelichting": "Abundantemente.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2847",
+      "grieks": "κόκκινος",
+      "translit": "kokkinos",
+      "woordsoort": "bn",
+      "es_concordant": "escarlata-kokkinos",
+      "grondvorm": "scharlaken",
+      "stamfamilie": [
+        "G2847",
+        "G2848 kokkos"
+      ],
+      "toelichting": "Escarlata.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2956",
+      "grieks": "Κυρηναῖος",
+      "translit": "kurēnaios",
+      "woordsoort": "eigennaam",
+      "es_concordant": "Cireneo-pn",
+      "grondvorm": "Cyreneeër",
+      "stamfamilie": [
+        "G2956"
+      ],
+      "toelichting": "Cireneo.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2441",
+      "grieks": "ἱματισμός",
+      "translit": "himatismos",
+      "woordsoort": "zn",
+      "es_concordant": "vestidura-himatismos",
+      "grondvorm": "kledij",
+      "stamfamilie": [
+        "G2441",
+        "G2440 himation"
+      ],
+      "toelichting": "Atavio.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2665",
+      "grieks": "καταπέτασμα",
+      "translit": "katapetasma",
+      "woordsoort": "zn",
+      "es_concordant": "velo-katapetasma",
+      "grondvorm": "voor-hangsel",
+      "stamfamilie": [
+        "G2665",
+        "G4072 petomai (verwante stam)",
+        "G2596 kata"
+      ],
+      "toelichting": "Velo del templo.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4616",
+      "grieks": "σινδών",
+      "translit": "sindōn",
+      "woordsoort": "zn",
+      "es_concordant": "lienzo-sindon",
+      "grondvorm": "linnen-doek",
+      "stamfamilie": [
+        "G4616"
+      ],
+      "toelichting": "Lienzo de lino.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3904",
+      "grieks": "παρασκευή",
+      "translit": "paraskeuē",
+      "woordsoort": "zn",
+      "es_concordant": "preparacion-paraskeue",
+      "grondvorm": "voor-bereiding",
+      "stamfamilie": [
+        "G3904",
+        "G2680 kataskeuazō",
+        "G3844 para"
+      ],
+      "toelichting": "Preparacion.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1733",
+      "grieks": "ἕνδεκα",
+      "translit": "hendeka",
+      "woordsoort": "tw",
+      "es_concordant": "once-hendeka",
+      "grondvorm": "elf",
+      "stamfamilie": [
+        "G1733",
+        "G1734 hendekatos"
+      ],
+      "toelichting": "Once.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3906",
+      "grieks": "παρατηρέω",
+      "translit": "paratēreō",
+      "woordsoort": "ww",
+      "es_concordant": "observar-paratereo",
+      "grondvorm": "naast-waarnemen",
+      "stamfamilie": [
+        "G3906",
+        "G5083 tēreō",
+        "G3844 para"
+      ],
+      "toelichting": "Observar de cerca.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4142",
+      "grieks": "πλοιάριον",
+      "translit": "ploiarion",
+      "woordsoort": "zn",
+      "es_concordant": "barquita-ploiarion",
+      "grondvorm": "boot-je",
+      "stamfamilie": [
+        "G4142",
+        "G4143 ploion"
+      ],
+      "toelichting": "Pequeño barco.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3148",
+      "grieks": "μάστιξ",
+      "translit": "mastix",
+      "woordsoort": "zn",
+      "es_concordant": "azote-mastix",
+      "grondvorm": "gee-sel",
+      "stamfamilie": [
+        "G3148",
+        "G3146 mastigoō"
+      ],
+      "toelichting": "Azote.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4993",
+      "grieks": "σωφρονέω",
+      "translit": "sōphroneō",
+      "woordsoort": "ww",
+      "es_concordant": "ser-sensato-sofroneo",
+      "grondvorm": "be-zonnen-zijn",
+      "stamfamilie": [
+        "G4993",
+        "G4995 sōphronismos",
+        "G4998 sōphrōn",
+        "G4997 sōphrosunē"
+      ],
+      "toelichting": "Tener sano juicio.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1824",
+      "grieks": "ἐξαυτῆς",
+      "translit": "exautēs",
+      "woordsoort": "bw",
+      "es_concordant": "al-instante-exautes",
+      "grondvorm": "ter-stond",
+      "stamfamilie": [
+        "G1824",
+        "G1537 ek",
+        "G846 autos"
+      ],
+      "toelichting": "En seguida.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G657",
+      "grieks": "ἀποτάσσω",
+      "translit": "apotassomai",
+      "woordsoort": "ww",
+      "es_concordant": "despedirse-apotassomai",
+      "grondvorm": "af-zeggen",
+      "stamfamilie": [
+        "G657",
+        "G5021 tassō",
+        "G575 apo"
+      ],
+      "toelichting": "Despedirse.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2990",
+      "grieks": "λανθάνω",
+      "translit": "lanthanō",
+      "woordsoort": "ww",
+      "es_concordant": "estar-oculto-lanthano",
+      "grondvorm": "verborgen-blijven",
+      "stamfamilie": [
+        "G2990",
+        "G1950 epilanthanomai"
+      ],
+      "toelichting": "Estar oculto.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4727",
+      "grieks": "στενάζω",
+      "translit": "stenazō",
+      "woordsoort": "ww",
+      "es_concordant": "gemir-stenazo",
+      "grondvorm": "zuchten",
+      "stamfamilie": [
+        "G4727",
+        "G4730 stenochōria",
+        "G4928 sustenazō"
+      ],
+      "toelichting": "Gemir.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G609",
+      "grieks": "ἀποκόπτω",
+      "translit": "apokoptō",
+      "woordsoort": "ww",
+      "es_concordant": "cortar-apokopto",
+      "grondvorm": "af-houwen",
+      "stamfamilie": [
+        "G609",
+        "G2875 koptō",
+        "G575 apo"
+      ],
+      "toelichting": "Cortar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G650",
+      "grieks": "ἀποστερέω",
+      "translit": "apostereō",
+      "woordsoort": "ww",
+      "es_concordant": "defraudar-apostereo",
+      "grondvorm": "be-roven",
+      "stamfamilie": [
+        "G650"
+      ],
+      "toelichting": "Defraudar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G363",
+      "grieks": "ἀναμιμνῄσκω",
+      "translit": "anamimnēskō",
+      "woordsoort": "ww",
+      "es_concordant": "recordar-anamimnesko",
+      "grondvorm": "in-herinnering-brengen",
+      "stamfamilie": [
+        "G363",
+        "G3415 mimnēskomai",
+        "G303 ana"
+      ],
+      "toelichting": "Hacer recordar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1364",
+      "grieks": "δίς",
+      "translit": "dis",
+      "woordsoort": "bw",
+      "es_concordant": "dos-veces-dis",
+      "grondvorm": "tweemaal",
+      "stamfamilie": [
+        "G1364",
+        "G1417 duo"
+      ],
+      "toelichting": "Dos veces.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2328",
+      "grieks": "θερμαίνομαι",
+      "translit": "thermainomai",
+      "woordsoort": "ww",
+      "es_concordant": "calentarse-thermainomai",
+      "grondvorm": "zich-warmen",
+      "stamfamilie": [
+        "G2328",
+        "G2329 thermē"
+      ],
+      "toelichting": "Calentarse.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5499",
+      "grieks": "χειροποίητος",
+      "translit": "cheiropoiētos",
+      "woordsoort": "bn",
+      "es_concordant": "hecho-de-manos",
+      "grondvorm": "met-handen-gemaakt",
+      "stamfamilie": [
+        "G5499",
+        "G5495 cheir",
+        "G4160 poieō"
+      ],
+      "toelichting": "Hecho a mano.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G223",
+      "grieks": "Ἀλέξανδρος",
+      "translit": "alexandros",
+      "woordsoort": "eigennaam",
+      "es_concordant": "Alejandro-pn",
+      "grondvorm": "Alexander",
+      "stamfamilie": [
+        "G223"
+      ],
+      "toelichting": "Alejandro.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4225",
+      "grieks": "πού",
+      "translit": "pou",
+      "woordsoort": "bw",
+      "es_concordant": "en-algun-lugar-pou",
+      "grondvorm": "ergens",
+      "stamfamilie": [
+        "G4225",
+        "G4226 pou-vraag"
+      ],
+      "toelichting": "En algun sitio.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2368",
+      "grieks": "θυμίαμα",
+      "translit": "thumiama",
+      "woordsoort": "zn",
+      "es_concordant": "incienso-thumiama",
+      "grondvorm": "reuk-werk",
+      "stamfamilie": [
+        "G2368",
+        "G2370 thumiaō",
+        "G2369 thumiastērion"
+      ],
+      "toelichting": "Incienso.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G545",
+      "grieks": "ἀπειθής",
+      "translit": "apeithēs",
+      "woordsoort": "bn",
+      "es_concordant": "desobediente-apeithes",
+      "grondvorm": "on-gehoorzaam",
+      "stamfamilie": [
+        "G545",
+        "G544 apeitheō",
+        "G3982 peithō"
+      ],
+      "toelichting": "Desobediente.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3009",
+      "grieks": "λειτουργία",
+      "translit": "leitourgia",
+      "woordsoort": "zn",
+      "es_concordant": "ministerio-leitourgia",
+      "grondvorm": "volks-dienst",
+      "stamfamilie": [
+        "G3009",
+        "G3008 leitourgeō",
+        "G3011 leitourgos",
+        "G2992 laos",
+        "G2041 ergon"
+      ],
+      "toelichting": "Servicio publico.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5311",
+      "grieks": "ὕψος",
+      "translit": "hupsos",
+      "woordsoort": "zn",
+      "es_concordant": "altura-hupsos",
+      "grondvorm": "hoog-te",
+      "stamfamilie": [
+        "G5311",
+        "G5312 hupsoō",
+        "G5310 hupsistos"
+      ],
+      "toelichting": "Altura.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4692",
+      "grieks": "σπεύδω",
+      "translit": "speudō",
+      "woordsoort": "ww",
+      "es_concordant": "apresurarse-speudo",
+      "grondvorm": "zich-haasten",
+      "stamfamilie": [
+        "G4692"
+      ],
+      "toelichting": "Apresurarse.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4820",
+      "grieks": "συμβάλλω",
+      "translit": "sumballō",
+      "woordsoort": "ww",
+      "es_concordant": "encontrarse-sumballo",
+      "grondvorm": "samen-werpen",
+      "stamfamilie": [
+        "G4820",
+        "G906 ballō",
+        "G4862 sun"
+      ],
+      "toelichting": "Encontrarse.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4826",
+      "grieks": "Συμεών",
+      "translit": "sumeōn",
+      "woordsoort": "eigennaam",
+      "es_concordant": "Simeon-pn-griego",
+      "grondvorm": "Simeon",
+      "stamfamilie": [
+        "G4826",
+        "G4613 Simōn"
+      ],
+      "toelichting": "Simeon griego.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4298",
+      "grieks": "προκόπτω",
+      "translit": "prokoptō",
+      "woordsoort": "ww",
+      "es_concordant": "avanzar-prokopto",
+      "grondvorm": "voor-uit-houwen",
+      "stamfamilie": [
+        "G4298",
+        "G2875 koptō",
+        "G4253 pro",
+        "G4297 prokopē"
+      ],
+      "toelichting": "Progresar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3353",
+      "grieks": "μέτοχος",
+      "translit": "metochos",
+      "woordsoort": "bn",
+      "es_concordant": "participe-metochos",
+      "grondvorm": "deel-genoot",
+      "stamfamilie": [
+        "G3353",
+        "G3348 metechō"
+      ],
+      "toelichting": "Asociado.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2859",
+      "grieks": "κόλπος",
+      "translit": "kolpos",
+      "woordsoort": "zn",
+      "es_concordant": "regazo-kolpos",
+      "grondvorm": "boe-zem",
+      "stamfamilie": [
+        "G2859"
+      ],
+      "toelichting": "Seno.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G588",
+      "grieks": "ἀποδέχομαι",
+      "translit": "apodechomai",
+      "woordsoort": "ww",
+      "es_concordant": "recibir-favorablemente",
+      "grondvorm": "af-aannemen",
+      "stamfamilie": [
+        "G588",
+        "G1209 dechomai",
+        "G575 apo"
+      ],
+      "toelichting": "Acoger.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4876",
+      "grieks": "συναντάω",
+      "translit": "sunantaō",
+      "woordsoort": "ww",
+      "es_concordant": "encontrarse-con-sunantao",
+      "grondvorm": "samen-tegen-komen",
+      "stamfamilie": [
+        "G4876",
+        "G528 apantaō",
+        "G4862 sun"
+      ],
+      "toelichting": "Topar con.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4648",
+      "grieks": "σκοπέω",
+      "translit": "skopeō",
+      "woordsoort": "ww",
+      "es_concordant": "considerar-skopeo",
+      "grondvorm": "letten-op",
+      "stamfamilie": [
+        "G4648",
+        "G4649 skopos",
+        "G1985 episkopos"
+      ],
+      "toelichting": "Considerar atentamente.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4909",
+      "grieks": "συνευδοκέω",
+      "translit": "suneudokeō",
+      "woordsoort": "ww",
+      "es_concordant": "consentir-suneudokeo",
+      "grondvorm": "mede-instemmen",
+      "stamfamilie": [
+        "G4909",
+        "G2106 eudokeō",
+        "G4862 sun"
+      ],
+      "toelichting": "Consentir con.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1311",
+      "grieks": "διαφθείρω",
+      "translit": "diaphtheirō",
+      "woordsoort": "ww",
+      "es_concordant": "destruir-diaftheiro",
+      "grondvorm": "door-verderven",
+      "stamfamilie": [
+        "G1311",
+        "G5351 phtheirō",
+        "G1223 dia"
+      ],
+      "toelichting": "Destruir completamente.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2039",
+      "grieks": "ἐργασία",
+      "translit": "ergasia",
+      "woordsoort": "zn",
+      "es_concordant": "trabajo-ergasia",
+      "grondvorm": "werk-bedrijf",
+      "stamfamilie": [
+        "G2039",
+        "G2038 ergazomai",
+        "G2041 ergon"
+      ],
+      "toelichting": "Negocio-trabajo.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G152",
+      "grieks": "αἰσχύνη",
+      "translit": "aischunē",
+      "woordsoort": "zn",
+      "es_concordant": "verguenza-aischune",
+      "grondvorm": "schaamte",
+      "stamfamilie": [
+        "G152",
+        "G153 aischunō",
+        "G2617 kataischunō",
+        "G1870 epaischunomai"
+      ],
+      "toelichting": "Verguenza.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3448",
+      "grieks": "μόσχος",
+      "translit": "moschos",
+      "woordsoort": "zn",
+      "es_concordant": "becerro-moschos",
+      "grondvorm": "kalf",
+      "stamfamilie": [
+        "G3448"
+      ],
+      "toelichting": "Becerro.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1867",
+      "grieks": "ἐπαινέω",
+      "translit": "epaineō",
+      "woordsoort": "ww",
+      "es_concordant": "alabar-epaineo",
+      "grondvorm": "lof-prijzen",
+      "stamfamilie": [
+        "G1867",
+        "G1868 epainos",
+        "G134 aineō"
+      ],
+      "toelichting": "Alabar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1573",
+      "grieks": "ἐκκακέω",
+      "translit": "ekkakeō",
+      "woordsoort": "ww",
+      "es_concordant": "desanimarse-ekkakeo",
+      "grondvorm": "moedeloos-worden",
+      "stamfamilie": [
+        "G1573",
+        "G2556 kakos",
+        "G1537 ek"
+      ],
+      "toelichting": "Desanimarse.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1556",
+      "grieks": "ἐκδικέω",
+      "translit": "ekdikeō",
+      "woordsoort": "ww",
+      "es_concordant": "vengar-ekdikeo",
+      "grondvorm": "uit-recht-doen",
+      "stamfamilie": [
+        "G1556",
+        "G1557 ekdikēsis",
+        "G1342 dikaios"
+      ],
+      "toelichting": "Vindicar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3007",
+      "grieks": "λείπω",
+      "translit": "leipō",
+      "woordsoort": "ww",
+      "es_concordant": "faltar-leipo",
+      "grondvorm": "ont-breken",
+      "stamfamilie": [
+        "G3007",
+        "G3062 loipos",
+        "G2641 kataleipō",
+        "G1459 enkataleipō"
+      ],
+      "toelichting": "Carecer.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4455",
+      "grieks": "πώποτε",
+      "translit": "pōpote",
+      "woordsoort": "bw",
+      "es_concordant": "jamas-popote",
+      "grondvorm": "ooit",
+      "stamfamilie": [
+        "G4455"
+      ],
+      "toelichting": "Jamas.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G818",
+      "grieks": "ἀτιμάζω",
+      "translit": "atimazō",
+      "woordsoort": "ww",
+      "es_concordant": "deshonrar-atimazo",
+      "grondvorm": "ont-eren",
+      "stamfamilie": [
+        "G818",
+        "G819 atimia",
+        "G820 atimos"
+      ],
+      "toelichting": "Deshonrar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2189",
+      "grieks": "ἔχθρα",
+      "translit": "echthra",
+      "woordsoort": "zn",
+      "es_concordant": "enemistad-echthra",
+      "grondvorm": "vijand-schap",
+      "stamfamilie": [
+        "G2189",
+        "G2190 echthros"
+      ],
+      "toelichting": "Enemistad.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1719",
+      "grieks": "ἔμφοβος",
+      "translit": "emphobos",
+      "woordsoort": "bn",
+      "es_concordant": "atemorizado-emfobos",
+      "grondvorm": "be-vreesd",
+      "stamfamilie": [
+        "G1719",
+        "G5401 phobos",
+        "G1722 en"
+      ],
+      "toelichting": "Asustado.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4712",
+      "grieks": "στάδιον",
+      "translit": "stadion",
+      "woordsoort": "zn",
+      "es_concordant": "estadio-stadion",
+      "grondvorm": "stadie",
+      "stamfamilie": [
+        "G4712"
+      ],
+      "toelichting": "Estadio.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G453",
+      "grieks": "ἀνόητος",
+      "translit": "anoētos",
+      "woordsoort": "bn",
+      "es_concordant": "necio-anoetos",
+      "grondvorm": "on-verstandig",
+      "stamfamilie": [
+        "G453",
+        "G3539 noeō (a-privans)",
+        "G3563 nous"
+      ],
+      "toelichting": "Insensato.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1329",
+      "grieks": "διερμηνεύω",
+      "translit": "diermēneuō",
+      "woordsoort": "ww",
+      "es_concordant": "interpretar-diermeneuo",
+      "grondvorm": "door-vertolken",
+      "stamfamilie": [
+        "G1329",
+        "G2059 hermēneuō",
+        "G1223 dia"
+      ],
+      "toelichting": "Traducir.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1834",
+      "grieks": "ἐξηγέομαι",
+      "translit": "exēgeomai",
+      "woordsoort": "ww",
+      "es_concordant": "exponer-exegeomai",
+      "grondvorm": "uit-leiden",
+      "stamfamilie": [
+        "G1834",
+        "G2233 hēgeomai",
+        "G1537 ek"
+      ],
+      "toelichting": "Explicar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2786",
+      "grieks": "Κηφᾶς",
+      "translit": "kēphas",
+      "woordsoort": "eigennaam",
+      "es_concordant": "Cefas-pn",
+      "grondvorm": "Kefas",
+      "stamfamilie": [
+        "G2786",
+        "G4074 Petros"
+      ],
+      "toelichting": "Cefas.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3482",
+      "grieks": "Ναθαναήλ",
+      "translit": "nathanaēl",
+      "woordsoort": "eigennaam",
+      "es_concordant": "Natanael-pn",
+      "grondvorm": "Nathanaël",
+      "stamfamilie": [
+        "G3482"
+      ],
+      "toelichting": "Natanael.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2214",
+      "grieks": "ζήτησις",
+      "translit": "zētēsis",
+      "woordsoort": "zn",
+      "es_concordant": "controversia-zetesis",
+      "grondvorm": "twist-vraag",
+      "stamfamilie": [
+        "G2214",
+        "G2212 zēteō"
+      ],
+      "toelichting": "Disputa.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1447",
+      "grieks": "Ἑβραϊστί",
+      "translit": "hebraisti",
+      "woordsoort": "bw",
+      "es_concordant": "en-hebreo-hebraisti",
+      "grondvorm": "in-Hebreeuws",
+      "stamfamilie": [
+        "G1447",
+        "G1446 Hebrais"
+      ],
+      "toelichting": "En hebreo.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2045",
+      "grieks": "ἐρευνάω",
+      "translit": "ereunaō",
+      "woordsoort": "ww",
+      "es_concordant": "escudrinar-ereunao",
+      "grondvorm": "onder-zoeken",
+      "stamfamilie": [
+        "G2045"
+      ],
+      "toelichting": "Escudrinar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4081",
+      "grieks": "πηλός",
+      "translit": "pēlos",
+      "woordsoort": "zn",
+      "es_concordant": "barro-pelos",
+      "grondvorm": "leem",
+      "stamfamilie": [
+        "G4081"
+      ],
+      "toelichting": "Barro.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3744",
+      "grieks": "ὀσμή",
+      "translit": "osmē",
+      "woordsoort": "zn",
+      "es_concordant": "olor-osme",
+      "grondvorm": "geur",
+      "stamfamilie": [
+        "G3744",
+        "G3750 osphrēsis"
+      ],
+      "toelichting": "Olor.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4591",
+      "grieks": "σημαίνω",
+      "translit": "sēmainō",
+      "woordsoort": "ww",
+      "es_concordant": "indicar-semaino",
+      "grondvorm": "be-tekenen",
+      "stamfamilie": [
+        "G4591",
+        "G4592 sēmeion"
+      ],
+      "toelichting": "Senalar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3068",
+      "grieks": "λούω",
+      "translit": "louō",
+      "woordsoort": "ww",
+      "es_concordant": "lavar-louo",
+      "grondvorm": "baden",
+      "stamfamilie": [
+        "G3068",
+        "G3067 loutron",
+        "G628 apolouō"
+      ],
+      "toelichting": "Banar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5262",
+      "grieks": "ὑπόδειγμα",
+      "translit": "hupodeigma",
+      "woordsoort": "zn",
+      "es_concordant": "ejemplo-hupodeigma",
+      "grondvorm": "voor-beeld",
+      "stamfamilie": [
+        "G5262",
+        "G5263 hupodeiknumi"
+      ],
+      "toelichting": "Ejemplo.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3696",
+      "grieks": "ὅπλον",
+      "translit": "hoplon",
+      "woordsoort": "zn",
+      "es_concordant": "arma-hoplon",
+      "grondvorm": "wapen",
+      "stamfamilie": [
+        "G3696",
+        "G3833 panoplia"
+      ],
+      "toelichting": "Arma.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1258",
+      "grieks": "διάλεκτος",
+      "translit": "dialektos",
+      "woordsoort": "zn",
+      "es_concordant": "lengua-dialekto",
+      "grondvorm": "spreek-wijze",
+      "stamfamilie": [
+        "G1258",
+        "G1256 dialegomai"
+      ],
+      "toelichting": "Dialecto.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1312",
+      "grieks": "διαφθορά",
+      "translit": "diaphthora",
+      "woordsoort": "zn",
+      "es_concordant": "corrupcion-diaftora",
+      "grondvorm": "door-bederf",
+      "stamfamilie": [
+        "G1312",
+        "G1311 diaphtheirō",
+        "G5356 phthora"
+      ],
+      "toelichting": "Corrupcion completa.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3335",
+      "grieks": "μεταλαμβάνω",
+      "translit": "metalambanō",
+      "woordsoort": "ww",
+      "es_concordant": "participar-metalambano",
+      "grondvorm": "deel-nemen",
+      "stamfamilie": [
+        "G3335",
+        "G2983 lambanō",
+        "G3326 meta"
+      ],
+      "toelichting": "Recibir parte.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4309",
+      "grieks": "προορίζω",
+      "translit": "proorizō",
+      "woordsoort": "ww",
+      "es_concordant": "predeterminar-proorizo",
+      "grondvorm": "voor-bestemmen",
+      "stamfamilie": [
+        "G4309",
+        "G3724 horizō",
+        "G4253 pro"
+      ],
+      "toelichting": "Predeterminar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G236",
+      "grieks": "ἀλλάσσω",
+      "translit": "allassō",
+      "woordsoort": "ww",
+      "es_concordant": "cambiar-allasso",
+      "grondvorm": "ver-anderen",
+      "stamfamilie": [
+        "G236",
+        "G243 allos",
+        "G244 allotrios"
+      ],
+      "toelichting": "Cambiar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2559",
+      "grieks": "κακόω",
+      "translit": "kakoō",
+      "woordsoort": "ww",
+      "es_concordant": "maltratar-kakoo",
+      "grondvorm": "kwellen",
+      "stamfamilie": [
+        "G2559",
+        "G2556 kakos"
+      ],
+      "toelichting": "Maltratar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3346",
+      "grieks": "μετατίθημι",
+      "translit": "metatithēmi",
+      "woordsoort": "ww",
+      "es_concordant": "trasladar-metatithemi",
+      "grondvorm": "over-zetten",
+      "stamfamilie": [
+        "G3346",
+        "G5087 tithēmi",
+        "G3326 meta"
+      ],
+      "toelichting": "Trasladar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G683",
+      "grieks": "ἀπωθέομαι",
+      "translit": "apōtheomai",
+      "woordsoort": "ww",
+      "es_concordant": "rechazar-apotheomai",
+      "grondvorm": "weg-stoten",
+      "stamfamilie": [
+        "G683",
+        "G575 apo"
+      ],
+      "toelichting": "Repeler.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4822",
+      "grieks": "συμβιβάζω",
+      "translit": "sumbibazō",
+      "woordsoort": "ww",
+      "es_concordant": "compaginar-sumbibazo",
+      "grondvorm": "samen-doen-stappen",
+      "stamfamilie": [
+        "G4822",
+        "G939 basis",
+        "G4862 sun"
+      ],
+      "toelichting": "Hacer encajar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2430",
+      "grieks": "Ἰκόνιον",
+      "translit": "ikonion",
+      "woordsoort": "eigennaam",
+      "es_concordant": "Iconio-pn",
+      "grondvorm": "Ikonium",
+      "stamfamilie": [
+        "G2430"
+      ],
+      "toelichting": "Iconio.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3082",
+      "grieks": "Λύστρα",
+      "translit": "lustra",
+      "woordsoort": "eigennaam",
+      "es_concordant": "Listra-pn",
+      "grondvorm": "Lystra",
+      "stamfamilie": [
+        "G3082"
+      ],
+      "toelichting": "Listra.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3152",
+      "grieks": "μάταιος",
+      "translit": "mataios",
+      "woordsoort": "bn",
+      "es_concordant": "vano-mataios",
+      "grondvorm": "ijdel",
+      "stamfamilie": [
+        "G3152",
+        "G3153 mataiotēs",
+        "G3154 mataioō"
+      ],
+      "toelichting": "Vano.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5205",
+      "grieks": "ὑετός",
+      "translit": "huetos",
+      "woordsoort": "zn",
+      "es_concordant": "lluvia-huetos",
+      "grondvorm": "regen",
+      "stamfamilie": [
+        "G5205",
+        "G5197 hubristēs (verschillende stam)",
+        "G1026 brechō (verwante semantiek)"
+      ],
+      "toelichting": "Lluvia.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3433",
+      "grieks": "μόλις",
+      "translit": "molis",
+      "woordsoort": "bw",
+      "es_concordant": "apenas-molis",
+      "grondvorm": "nauwelijks",
+      "stamfamilie": [
+        "G3433"
+      ],
+      "toelichting": "Apenas.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G567",
+      "grieks": "ἀπέχομαι",
+      "translit": "apechomai",
+      "woordsoort": "ww",
+      "es_concordant": "abstenerse-apechomai",
+      "grondvorm": "zich-af-houden",
+      "stamfamilie": [
+        "G567",
+        "G568 apechō",
+        "G575 apo"
+      ],
+      "toelichting": "Abstenerse.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5174",
+      "grieks": "Τρῳάς",
+      "translit": "trōas",
+      "woordsoort": "eigennaam",
+      "es_concordant": "Troas-pn",
+      "grondvorm": "Troas",
+      "stamfamilie": [
+        "G5174"
+      ],
+      "toelichting": "Troas.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5375",
+      "grieks": "Φίλιπποι",
+      "translit": "philippoi",
+      "woordsoort": "eigennaam",
+      "es_concordant": "Filipos-pn",
+      "grondvorm": "Filippi",
+      "stamfamilie": [
+        "G5375"
+      ],
+      "toelichting": "Filipos ciudad.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G116",
+      "grieks": "Ἀθῆναι",
+      "translit": "athēnai",
+      "woordsoort": "eigennaam",
+      "es_concordant": "Atenas-pn",
+      "grondvorm": "Athene",
+      "stamfamilie": [
+        "G116",
+        "G117 Athēnaios"
+      ],
+      "toelichting": "Atenas.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4163",
+      "grieks": "ποιητής",
+      "translit": "poiētēs",
+      "woordsoort": "zn",
+      "es_concordant": "hacedor-poietes",
+      "grondvorm": "doe-ner",
+      "stamfamilie": [
+        "G4163",
+        "G4160 poieō"
+      ],
+      "toelichting": "Hacedor.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G207",
+      "grieks": "Ἀκύλας",
+      "translit": "akulas",
+      "woordsoort": "eigennaam",
+      "es_concordant": "Aquila-pn",
+      "grondvorm": "Aquila",
+      "stamfamilie": [
+        "G207"
+      ],
+      "toelichting": "Aquila.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4645",
+      "grieks": "σκληρύνω",
+      "translit": "sklērunō",
+      "woordsoort": "ww",
+      "es_concordant": "endurecer-skleruno",
+      "grondvorm": "verharden",
+      "stamfamilie": [
+        "G4645",
+        "G4642 sklēros"
+      ],
+      "toelichting": "Endurecer.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2331",
+      "grieks": "Θεσσαλονικεύς",
+      "translit": "thessalonikeus",
+      "woordsoort": "zn",
+      "es_concordant": "tesalonicense-thessalonikeus",
+      "grondvorm": "Tessaloniceër",
+      "stamfamilie": [
+        "G2331"
+      ],
+      "toelichting": "De Tesalonica.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G331",
+      "grieks": "ἀνάθεμα",
+      "translit": "anathema",
+      "woordsoort": "zn",
+      "es_concordant": "anatema-anathema",
+      "grondvorm": "ban-vloek",
+      "stamfamilie": [
+        "G331",
+        "G332 anathematizō",
+        "G334 anathēma"
+      ],
+      "toelichting": "Maldicion-consagracion.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G915",
+      "grieks": "βάρβαρος",
+      "translit": "barbaros",
+      "woordsoort": "bn",
+      "es_concordant": "barbaro-barbaros",
+      "grondvorm": "bar-baar",
+      "stamfamilie": [
+        "G915"
+      ],
+      "toelichting": "Barbaro.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G763",
+      "grieks": "ἀσέβεια",
+      "translit": "asebeia",
+      "woordsoort": "zn",
+      "es_concordant": "impiedad-asebeia",
+      "grondvorm": "god-deloosheid",
+      "stamfamilie": [
+        "G763",
+        "G765 asebēs",
+        "G2150 eusebeia"
+      ],
+      "toelichting": "Impiedad.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3667",
+      "grieks": "ὁμοίωμα",
+      "translit": "homoiōma",
+      "woordsoort": "zn",
+      "es_concordant": "semejanza-homoioma",
+      "grondvorm": "ge-lijkenis",
+      "stamfamilie": [
+        "G3667",
+        "G3664 homoios",
+        "G3666 homoioō"
+      ],
+      "toelichting": "Semejanza.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5349",
+      "grieks": "φθαρτός",
+      "translit": "phthartos",
+      "woordsoort": "bn",
+      "es_concordant": "corruptible-fthartos",
+      "grondvorm": "ver-gankelijk",
+      "stamfamilie": [
+        "G5349",
+        "G5351 phtheirō",
+        "G862 aphthartos"
+      ],
+      "toelichting": "Perecedero.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2644",
+      "grieks": "καταλλάσσω",
+      "translit": "katallassō",
+      "woordsoort": "ww",
+      "es_concordant": "reconciliar-katallasso",
+      "grondvorm": "neder-verzoenen",
+      "stamfamilie": [
+        "G2644",
+        "G236 allassō",
+        "G2596 kata",
+        "G2643 katallagē"
+      ],
+      "toelichting": "Reconciliar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2349",
+      "grieks": "θνητός",
+      "translit": "thnētos",
+      "woordsoort": "bn",
+      "es_concordant": "mortal-thnetos",
+      "grondvorm": "sterf-elijk",
+      "stamfamilie": [
+        "G2349",
+        "G2348 thnēskō"
+      ],
+      "toelichting": "Mortal.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1512",
+      "grieks": "εἴπερ",
+      "translit": "eiper",
+      "woordsoort": "vgw",
+      "es_concordant": "si-acaso-eiper",
+      "grondvorm": "zo-althans",
+      "stamfamilie": [
+        "G1512",
+        "G1487 ei",
+        "G4007 per"
+      ],
+      "toelichting": "Si acaso.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4348",
+      "grieks": "πρόσκομμα",
+      "translit": "proskomma",
+      "woordsoort": "zn",
+      "es_concordant": "tropiezo-proskomma",
+      "grondvorm": "struikel-blok",
+      "stamfamilie": [
+        "G4348",
+        "G4350 proskoptō"
+      ],
+      "toelichting": "Tropiezo.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G1461",
+      "grieks": "ἐγκεντρίζω",
+      "translit": "enkentrizō",
+      "woordsoort": "ww",
+      "es_concordant": "injertar-enkentrizo",
+      "grondvorm": "in-enten",
+      "stamfamilie": [
+        "G1461",
+        "G1722 en",
+        "G2759 kentron"
+      ],
+      "toelichting": "Injertar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G505",
+      "grieks": "ἀνυπόκριτος",
+      "translit": "anupokritos",
+      "woordsoort": "bn",
+      "es_concordant": "sin-hipocresia",
+      "grondvorm": "on-gehuicheld",
+      "stamfamilie": [
+        "G505",
+        "G5272 hupokrisis (a-privans)"
+      ],
+      "toelichting": "Sin fingimiento.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5360",
+      "grieks": "φιλαδελφία",
+      "translit": "philadelphia",
+      "woordsoort": "zn",
+      "es_concordant": "amor-fraternal-filadelfia",
+      "grondvorm": "broeder-liefde",
+      "stamfamilie": [
+        "G5360",
+        "G5368 phileō",
+        "G80 adelphos"
+      ],
+      "toelichting": "Amor fraternal.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G516",
+      "grieks": "ἀξίως",
+      "translit": "axiōs",
+      "woordsoort": "bw",
+      "es_concordant": "dignamente-axios",
+      "grondvorm": "waardig",
+      "stamfamilie": [
+        "G516",
+        "G514 axios",
+        "G515 axioō"
+      ],
+      "toelichting": "Dignamente.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G5591",
+      "grieks": "ψυχικός",
+      "translit": "psuchikos",
+      "woordsoort": "bn",
+      "es_concordant": "psiquico-natural-psuchikos",
+      "grondvorm": "zielig",
+      "stamfamilie": [
+        "G5591",
+        "G5590 psuchē",
+        "G4152 pneumatikos"
+      ],
+      "toelichting": "Animal-psiquico.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4448",
+      "grieks": "πυρόω",
+      "translit": "puroō",
+      "woordsoort": "ww",
+      "es_concordant": "encender-puroo",
+      "grondvorm": "in-vuur-zetten",
+      "stamfamilie": [
+        "G4448",
+        "G4442 pur"
+      ],
+      "toelichting": "Encender.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G4006",
+      "grieks": "πεποίθησις",
+      "translit": "pepoithēsis",
+      "woordsoort": "zn",
+      "es_concordant": "confianza-pepoithesis",
+      "grondvorm": "ver-trouwen",
+      "stamfamilie": [
+        "G4006",
+        "G3982 peithō"
+      ],
+      "toelichting": "Confianza.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3540",
+      "grieks": "νόημα",
+      "translit": "noēma",
+      "woordsoort": "zn",
+      "es_concordant": "pensamiento-noema",
+      "grondvorm": "ge-dachte",
+      "stamfamilie": [
+        "G3540",
+        "G3539 noeō",
+        "G3563 nous"
+      ],
+      "toelichting": "Pensamiento.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2292",
+      "grieks": "θαρρέω",
+      "translit": "tharreō",
+      "woordsoort": "ww",
+      "es_concordant": "tener-confianza-tharreo",
+      "grondvorm": "moed-houden",
+      "stamfamilie": [
+        "G2292",
+        "G2293 tharseō"
+      ],
+      "toelichting": "Confiar.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3671",
+      "grieks": "ὁμολογία",
+      "translit": "homologia",
+      "woordsoort": "zn",
+      "es_concordant": "confesion-homologia",
+      "grondvorm": "be-lijdenis",
+      "stamfamilie": [
+        "G3671",
+        "G3670 homologeō"
+      ],
+      "toelichting": "Confesion.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2671",
+      "grieks": "κατάρα",
+      "translit": "katara",
+      "woordsoort": "zn",
+      "es_concordant": "maldicion-katara",
+      "grondvorm": "ver-vloeking",
+      "stamfamilie": [
+        "G2671",
+        "G2672 kataraomai"
+      ],
+      "toelichting": "Maldicion.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3316",
+      "grieks": "μεσίτης",
+      "translit": "mesitēs",
+      "woordsoort": "zn",
+      "es_concordant": "mediador-mesites",
+      "grondvorm": "middelaar",
+      "stamfamilie": [
+        "G3316",
+        "G3319 mesos"
+      ],
+      "toelichting": "Mediador.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3809",
+      "grieks": "παιδεία",
+      "translit": "paideia",
+      "woordsoort": "zn",
+      "es_concordant": "disciplina-paideia",
+      "grondvorm": "op-voeding",
+      "stamfamilie": [
+        "G3809",
+        "G3811 paideuō",
+        "G3816 pais"
+      ],
+      "toelichting": "Instruccion-disciplina.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G73",
+      "grieks": "ἀγών",
+      "translit": "agōn",
+      "woordsoort": "zn",
+      "es_concordant": "lucha-agon",
+      "grondvorm": "wed-strijd",
+      "stamfamilie": [
+        "G73",
+        "G75 agōnizomai",
+        "G74 agōnia"
+      ],
+      "toelichting": "Combate.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2539",
+      "grieks": "καίπερ",
+      "translit": "kaiper",
+      "woordsoort": "vgw",
+      "es_concordant": "aunque-kaiper",
+      "grondvorm": "hoewel",
+      "stamfamilie": [
+        "G2539",
+        "G2532 kai",
+        "G4007 per"
+      ],
+      "toelichting": "Aunque.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2993",
+      "grieks": "Λαοδίκεια",
+      "translit": "laodikeia",
+      "woordsoort": "eigennaam",
+      "es_concordant": "Laodicea-pn",
+      "grondvorm": "Laodicea",
+      "stamfamilie": [
+        "G2993"
+      ],
+      "toelichting": "Laodicea.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G3525",
+      "grieks": "νήφω",
+      "translit": "nēphō",
+      "woordsoort": "ww",
+      "es_concordant": "ser-sobrio-nefo",
+      "grondvorm": "nuchter-zijn",
+      "stamfamilie": [
+        "G3525",
+        "G3524 nēphalios"
+      ],
+      "toelichting": "Ser sobrio.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2015",
+      "grieks": "ἐπιφάνεια",
+      "translit": "epiphaneia",
+      "woordsoort": "zn",
+      "es_concordant": "manifestacion-epifaneia",
+      "grondvorm": "ver-schijning",
+      "stamfamilie": [
+        "G2015",
+        "G2014 epiphainō"
+      ],
+      "toelichting": "Aparicion.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G620",
+      "grieks": "ἀπολείπω",
+      "translit": "apoleipō",
+      "woordsoort": "ww",
+      "es_concordant": "dejar-apoleipo",
+      "grondvorm": "achter-laten",
+      "stamfamilie": [
+        "G620",
+        "G3007 leipō",
+        "G575 apo"
+      ],
+      "toelichting": "Dejar atras.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G929",
+      "grieks": "βασανισμός",
+      "translit": "basanismos",
+      "woordsoort": "zn",
+      "es_concordant": "tormento-basanismos",
+      "grondvorm": "kwelling",
+      "stamfamilie": [
+        "G929",
+        "G928 basanizō",
+        "G931 basanos"
+      ],
+      "toelichting": "Tormento.",
+      "voorkomens_ca": 6
+    },
+    {
+      "strong": "G2421",
+      "grieks": "Ἰεσσαί",
+      "translit": "iessai",
+      "woordsoort": "eigennaam",
+      "es_concordant": "Isai-pn",
+      "grondvorm": "Isaï",
+      "stamfamilie": [
+        "G2421"
+      ],
+      "toelichting": "Isai.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G1180",
+      "grieks": "δεκατέσσαρες",
+      "translit": "dekatessares",
+      "woordsoort": "tw",
+      "es_concordant": "catorce-dekatessares",
+      "grondvorm": "veertien",
+      "stamfamilie": [
+        "G1180",
+        "G1176 deka",
+        "G5064 tessares"
+      ],
+      "toelichting": "Catorce.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2468",
+      "grieks": "ἴσθι",
+      "translit": "isthi",
+      "woordsoort": "ww",
+      "es_concordant": "se-imperativo-isthi",
+      "grondvorm": "wees",
+      "stamfamilie": [
+        "G2468",
+        "G1510 eimi"
+      ],
+      "toelichting": "Se imperativo de eimi.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2191",
+      "grieks": "ἔχιδνα",
+      "translit": "echidna",
+      "woordsoort": "zn",
+      "es_concordant": "vibora-echidna",
+      "grondvorm": "adder",
+      "stamfamilie": [
+        "G2191"
+      ],
+      "toelichting": "Vibora.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G231",
+      "grieks": "ἁλιεύς",
+      "translit": "halieus",
+      "woordsoort": "zn",
+      "es_concordant": "pescador-halieus",
+      "grondvorm": "visser",
+      "stamfamilie": [
+        "G231"
+      ],
+      "toelichting": "Pescador.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G4260",
+      "grieks": "προβαίνω",
+      "translit": "probainō",
+      "woordsoort": "ww",
+      "es_concordant": "avanzar-probaino",
+      "grondvorm": "voor-uit-stappen",
+      "stamfamilie": [
+        "G4260",
+        "G939 basis",
+        "G4253 pro"
+      ],
+      "toelichting": "Avanzar.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2662",
+      "grieks": "καταπατέω",
+      "translit": "katapateō",
+      "woordsoort": "ww",
+      "es_concordant": "pisotear-katapateo",
+      "grondvorm": "vertreden",
+      "stamfamilie": [
+        "G2662",
+        "G3961 pateō",
+        "G2596 kata"
+      ],
+      "toelichting": "Pisotear.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G476",
+      "grieks": "ἀντίδικος",
+      "translit": "antidikos",
+      "woordsoort": "zn",
+      "es_concordant": "adversario-antidikos",
+      "grondvorm": "tegen-partij",
+      "stamfamilie": [
+        "G476",
+        "G473 anti",
+        "G1349 dikē"
+      ],
+      "toelichting": "Adversario legal.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G1522",
+      "grieks": "εἰσακούω",
+      "translit": "eisakouō",
+      "woordsoort": "ww",
+      "es_concordant": "escuchar-eisakouo",
+      "grondvorm": "in-horen",
+      "stamfamilie": [
+        "G1522",
+        "G191 akouō",
+        "G1519 eis"
+      ],
+      "toelichting": "Oir favorablemente.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G853",
+      "grieks": "ἀφανίζω",
+      "translit": "aphanizō",
+      "woordsoort": "ww",
+      "es_concordant": "desaparecer-afanizo",
+      "grondvorm": "doen-ver-dwijnen",
+      "stamfamilie": [
+        "G853",
+        "G5316 phainō (a-privans)",
+        "G575 apo"
+      ],
+      "toelichting": "Hacer desaparecer.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G5460",
+      "grieks": "φωτεινός",
+      "translit": "phōteinos",
+      "woordsoort": "bn",
+      "es_concordant": "luminoso-foteinos",
+      "grondvorm": "stralend",
+      "stamfamilie": [
+        "G5460",
+        "G5457 phōs"
+      ],
+      "toelichting": "Luminoso.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G3640",
+      "grieks": "ὀλιγόπιστος",
+      "translit": "oligopistos",
+      "woordsoort": "bn",
+      "es_concordant": "de-poca-fe",
+      "grondvorm": "klein-vertrouwend",
+      "stamfamilie": [
+        "G3640",
+        "G3641 oligos",
+        "G4102 pistis"
+      ],
+      "toelichting": "De poca fe.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G5535",
+      "grieks": "χρῄζω",
+      "translit": "chrēizō",
+      "woordsoort": "ww",
+      "es_concordant": "necesitar-chreizo",
+      "grondvorm": "be-hoeven",
+      "stamfamilie": [
+        "G5535",
+        "G5532 chreia"
+      ],
+      "toelichting": "Tener necesidad.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2965",
+      "grieks": "κύων",
+      "translit": "kuōn",
+      "woordsoort": "zn",
+      "es_concordant": "perro-kuon",
+      "grondvorm": "hond",
+      "stamfamilie": [
+        "G2965"
+      ],
+      "toelichting": "Perro.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G727",
+      "grieks": "ἅρπαξ",
+      "translit": "harpax",
+      "woordsoort": "bn",
+      "es_concordant": "rapaz-harpax",
+      "grondvorm": "rover",
+      "stamfamilie": [
+        "G727",
+        "G726 harpazō"
+      ],
+      "toelichting": "Rapaz.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G285",
+      "grieks": "ἄμμος",
+      "translit": "ammos",
+      "woordsoort": "zn",
+      "es_concordant": "arena-ammos",
+      "grondvorm": "zand",
+      "stamfamilie": [
+        "G285"
+      ],
+      "toelichting": "Arena.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G1424",
+      "grieks": "δυσμή",
+      "translit": "dusmē",
+      "woordsoort": "zn",
+      "es_concordant": "occidente-dusme",
+      "grondvorm": "westen",
+      "stamfamilie": [
+        "G1424"
+      ],
+      "toelichting": "Poniente.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2949",
+      "grieks": "κῦμα",
+      "translit": "kuma",
+      "woordsoort": "zn",
+      "es_concordant": "ola-kuma",
+      "grondvorm": "golf",
+      "stamfamilie": [
+        "G2949"
+      ],
+      "toelichting": "Ola.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G5221",
+      "grieks": "ὑπαντάω",
+      "translit": "hupantaō",
+      "woordsoort": "ww",
+      "es_concordant": "salir-al-encuentro-hupantao",
+      "grondvorm": "tegen-komen-onder",
+      "stamfamilie": [
+        "G5221",
+        "G5223 huparxis (verschillende stam)",
+        "G528 apantaō (verwante stam)",
+        "G5259 hupo"
+      ],
+      "toelichting": "Encontrar.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G1142",
+      "grieks": "δαίμων",
+      "translit": "daimōn",
+      "woordsoort": "zn",
+      "es_concordant": "demon-daimon",
+      "grondvorm": "demon",
+      "stamfamilie": [
+        "G1142",
+        "G1140 daimonion"
+      ],
+      "toelichting": "Daimon. Concordante con NL demon.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G3729",
+      "grieks": "ὁρμάω",
+      "translit": "hormaō",
+      "woordsoort": "ww",
+      "es_concordant": "lanzarse-hormao",
+      "grondvorm": "los-stormen",
+      "stamfamilie": [
+        "G3729",
+        "G3730 hormē",
+        "G874 aphormē"
+      ],
+      "toelichting": "Precipitarse.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G3156",
+      "grieks": "Ματθαῖος",
+      "translit": "matthaios",
+      "woordsoort": "eigennaam",
+      "es_concordant": "Mateo-pn",
+      "grondvorm": "Mattheüs",
+      "stamfamilie": [
+        "G3156"
+      ],
+      "toelichting": "Mateo.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2899",
+      "grieks": "κράσπεδον",
+      "translit": "kraspedon",
+      "woordsoort": "zn",
+      "es_concordant": "fleco-kraspedon",
+      "grondvorm": "kwast",
+      "stamfamilie": [
+        "G2899"
+      ],
+      "toelichting": "Borla.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G1690",
+      "grieks": "ἐμβριμάομαι",
+      "translit": "embrimaomai",
+      "woordsoort": "ww",
+      "es_concordant": "indignarse-embrimaomai",
+      "grondvorm": "in-snauwen",
+      "stamfamilie": [
+        "G1690",
+        "G1722 en"
+      ],
+      "toelichting": "Bramar.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G256",
+      "grieks": "Ἁλφαῖος",
+      "translit": "halphaios",
+      "woordsoort": "eigennaam",
+      "es_concordant": "Alfeo-pn",
+      "grondvorm": "Alfeüs",
+      "stamfamilie": [
+        "G256"
+      ],
+      "toelichting": "Alfeo.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G696",
+      "grieks": "ἄργυρος",
+      "translit": "arguros",
+      "woordsoort": "zn",
+      "es_concordant": "plata-arguros",
+      "grondvorm": "zilver",
+      "stamfamilie": [
+        "G696",
+        "G694 argurion",
+        "G695 argurokopos"
+      ],
+      "toelichting": "Plata material.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G5475",
+      "grieks": "χαλκός",
+      "translit": "chalkos",
+      "woordsoort": "zn",
+      "es_concordant": "bronce-chalkos",
+      "grondvorm": "ko-per",
+      "stamfamilie": [
+        "G5475",
+        "G5470 chalkeos"
+      ],
+      "toelichting": "Bronce.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2868",
+      "grieks": "κονιορτός",
+      "translit": "koniortos",
+      "woordsoort": "zn",
+      "es_concordant": "polvo-koniortos",
+      "grondvorm": "stof",
+      "stamfamilie": [
+        "G2868"
+      ],
+      "toelichting": "Polvo.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G1116",
+      "grieks": "Γόμορρα",
+      "translit": "gomorra",
+      "woordsoort": "eigennaam",
+      "es_concordant": "Gomorra-pn",
+      "grondvorm": "Gomorra",
+      "stamfamilie": [
+        "G1116"
+      ],
+      "toelichting": "Gomorra.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G372",
+      "grieks": "ἀνάπαυσις",
+      "translit": "anapausis",
+      "woordsoort": "zn",
+      "es_concordant": "descanso-anapausis",
+      "grondvorm": "rust",
+      "stamfamilie": [
+        "G372",
+        "G373 anapauō",
+        "G3973 pauō"
+      ],
+      "toelichting": "Descanso.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G5413",
+      "grieks": "φορτίον",
+      "translit": "phortion",
+      "woordsoort": "zn",
+      "es_concordant": "carga-fortion",
+      "grondvorm": "last-pak",
+      "stamfamilie": [
+        "G5413",
+        "G5409 phoreō"
+      ],
+      "toelichting": "Carga liviana.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G4719",
+      "grieks": "στάχυς",
+      "translit": "stachus",
+      "woordsoort": "zn",
+      "es_concordant": "espiga-stachus",
+      "grondvorm": "korenaar",
+      "stamfamilie": [
+        "G4719"
+      ],
+      "toelichting": "Espiga.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2613",
+      "grieks": "καταδικάζω",
+      "translit": "katadikazō",
+      "woordsoort": "ww",
+      "es_concordant": "condenar-katadikazo",
+      "grondvorm": "ver-oordelen",
+      "stamfamilie": [
+        "G2613",
+        "G1349 dikē",
+        "G2596 kata"
+      ],
+      "toelichting": "Condenar.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2049",
+      "grieks": "ἐρημόω",
+      "translit": "erēmoō",
+      "woordsoort": "ww",
+      "es_concordant": "asolar-eremoo",
+      "grondvorm": "ver-woesten",
+      "stamfamilie": [
+        "G2049",
+        "G2048 erēmos",
+        "G2050 erēmōsis"
+      ],
+      "toelichting": "Asolar.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G4650",
+      "grieks": "σκορπίζω",
+      "translit": "skorpizō",
+      "woordsoort": "ww",
+      "es_concordant": "dispersar-skorpizo",
+      "grondvorm": "ver-strooien",
+      "stamfamilie": [
+        "G4650",
+        "G1287 diaskorpizō"
+      ],
+      "toelichting": "Dispersar.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G4051",
+      "grieks": "περίσσευμα",
+      "translit": "perisseuma",
+      "woordsoort": "zn",
+      "es_concordant": "abundancia-perisseuma",
+      "grondvorm": "over-vloed",
+      "stamfamilie": [
+        "G4051",
+        "G4052 perisseuō"
+      ],
+      "toelichting": "Sobreabundancia.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G4846",
+      "grieks": "συμπνίγω",
+      "translit": "sumpnigō",
+      "woordsoort": "ww",
+      "es_concordant": "ahogar-junto-sumpnigo",
+      "grondvorm": "samen-verstikken",
+      "stamfamilie": [
+        "G4846",
+        "G4155 pnigō",
+        "G4862 sun"
+      ],
+      "toelichting": "Ahogar junto.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G4615",
+      "grieks": "σίναπι",
+      "translit": "sinapi",
+      "woordsoort": "zn",
+      "es_concordant": "mostaza-sinapi",
+      "grondvorm": "mosterd",
+      "stamfamilie": [
+        "G4615"
+      ],
+      "toelichting": "Mostaza.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G1713",
+      "grieks": "ἔμπορος",
+      "translit": "emporos",
+      "woordsoort": "zn",
+      "es_concordant": "comerciante-emporos",
+      "grondvorm": "koop-man",
+      "stamfamilie": [
+        "G1713",
+        "G1722 en",
+        "G4198 poreuomai"
+      ],
+      "toelichting": "Mercader.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G4094",
+      "grieks": "πίναξ",
+      "translit": "pinax",
+      "woordsoort": "zn",
+      "es_concordant": "fuente-pinax",
+      "grondvorm": "schaal",
+      "stamfamilie": [
+        "G4094"
+      ],
+      "toelichting": "Plato grande.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G732",
+      "grieks": "ἄρρωστος",
+      "translit": "arrhōstos",
+      "woordsoort": "bn",
+      "es_concordant": "enfermo-arrostos",
+      "grondvorm": "krachte-loos",
+      "stamfamilie": [
+        "G732",
+        "G4517 rhōnnumi (a-privans)"
+      ],
+      "toelichting": "Sin fuerzas.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G3595",
+      "grieks": "ὁδηγός",
+      "translit": "hodēgos",
+      "woordsoort": "zn",
+      "es_concordant": "guia-hodegos",
+      "grondvorm": "weg-leider",
+      "stamfamilie": [
+        "G3595",
+        "G3598 hodos",
+        "G71 agō"
+      ],
+      "toelichting": "Guia de camino.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G3594",
+      "grieks": "ὁδηγέω",
+      "translit": "hodēgeō",
+      "woordsoort": "ww",
+      "es_concordant": "guiar-hodegeo",
+      "grondvorm": "weg-leiden",
+      "stamfamilie": [
+        "G3594",
+        "G3595 hodēgos"
+      ],
+      "toelichting": "Guiar.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G801",
+      "grieks": "ἀσύνετος",
+      "translit": "asunetos",
+      "woordsoort": "bn",
+      "es_concordant": "sin-entendimiento-asunetos",
+      "grondvorm": "on-verstandig",
+      "stamfamilie": [
+        "G801",
+        "G4907 sunesis (a-privans)",
+        "G4920 suniēmi"
+      ],
+      "toelichting": "Sin discernimiento.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G4711",
+      "grieks": "σπυρίς",
+      "translit": "spuris",
+      "woordsoort": "zn",
+      "es_concordant": "canasta-spuris",
+      "grondvorm": "voorraad-mand",
+      "stamfamilie": [
+        "G4711",
+        "G2894 kophinos"
+      ],
+      "toelichting": "Canasta grande.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G5070",
+      "grieks": "τετρακισχίλιοι",
+      "translit": "tetrakischilioi",
+      "woordsoort": "tw",
+      "es_concordant": "cuatro-mil-tetrakischilioi",
+      "grondvorm": "vier-duizend",
+      "stamfamilie": [
+        "G5070",
+        "G5064 tessares",
+        "G5507 chilioi"
+      ],
+      "toelichting": "Cuatro mil.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G1982",
+      "grieks": "ἐπισκιάζω",
+      "translit": "episkiazō",
+      "woordsoort": "ww",
+      "es_concordant": "cubrir-con-sombra-episkiazo",
+      "grondvorm": "over-schaduwen",
+      "stamfamilie": [
+        "G1982",
+        "G4639 skia",
+        "G1909 epi"
+      ],
+      "toelichting": "Eclipsar.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G2338",
+      "grieks": "θῆλυς",
+      "translit": "thēlu",
+      "woordsoort": "bn",
+      "es_concordant": "femenino-thelu",
+      "grondvorm": "vrouw-elijk",
+      "stamfamilie": [
+        "G2338",
+        "G2337 thēlazō"
+      ],
+      "toelichting": "Femenino.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G3503",
+      "grieks": "νεότης",
+      "translit": "neotēs",
+      "woordsoort": "zn",
+      "es_concordant": "juventud-neotes",
+      "grondvorm": "jeugd",
+      "stamfamilie": [
+        "G3503",
+        "G3501 neos"
+      ],
+      "toelichting": "Juventud.",
+      "voorkomens_ca": 5
+    },
+    {
+      "strong": "G4579",
+      "grieks": "σείω",
+      "translit": "seiō",
+      "woordsoort": "ww",
+      "es_concordant": "sacudir-seio",
+      "grondvorm": "schudden",
+      "stamfamilie": [
+        "G4579",
+        "G4578 seismos"
+      ],
+      "toelichting": "Conmover.",
+      "voorkomens_ca": 5
+    }
+  ]
+}

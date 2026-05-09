@@ -1,0 +1,2990 @@
+{
+  "batch_id": "h_batch_008",
+  "script": "heb",
+  "datum": "2026-05-01",
+  "entries": [
+    {
+      "strong": "H1688a",
+      "hebreeuws": "דְּבִיר-I",
+      "translit": "devir-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "camara-interior-devir",
+      "grondvorm": "camara-interior-devir",
+      "stamfamilie": [],
+      "toelichting": "Variante (Jos 10:38,39; 11:21; 12:13; 15:7,15,49; 21:15; Jue 1:11; 1Cr 6:58). 13 apariciones. Sufijo '-devir' para uniqueness contra H1687.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H1688b",
+      "hebreeuws": "דְּבִר",
+      "translit": "devir-II-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Debir-pn-Gad",
+      "grondvorm": "Debir-pn-Gad",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jos 13:26). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1689",
+      "hebreeuws": "דִּבְלָה",
+      "translit": "diblah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dibla-pn-lugar",
+      "grondvorm": "Dibla-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Eze 6:14 lectura). Sufijo '-pn-lugar'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1690",
+      "hebreeuws": "דְּבֵלָה",
+      "translit": "develah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "torta-de-higos",
+      "grondvorm": "torta-de-higos",
+      "stamfamilie": [],
+      "toelichting": "Pasta-de-higos (1Sa 25:18; 30:12; 1Cr 12:40). 5 apariciones. Hyphenated.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H1691",
+      "hebreeuws": "דִּבְלַיִם",
+      "translit": "dblim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Diblaim-pn",
+      "grondvorm": "Diblaim-pn",
+      "stamfamilie": [
+        "H1691"
+      ],
+      "toelichting": "Hapax (Os 1:3). Padre-de-Gomer. Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1692",
+      "hebreeuws": "דָּבַק",
+      "translit": "davaq",
+      "woordsoort": "verbo",
+      "es_concordant": "adherir",
+      "grondvorm": "adherir",
+      "stamfamilie": [
+        "H1693",
+        "H1694"
+      ],
+      "toelichting": "Verbo-de-union-relacional-y-fisica (Gn 2:24; 19:19; 34:3; Dt 4:4; 10:20; 11:22; 13:4,17; 28:21,60; 30:20; Jos 22:5; 23:8,12; Rt 1:14; 2:8,21,23; 1Sa 31:2; 2Sa 1:6; 20:2; 23:10; 1Re 11:2; 2Re 3:3; 5:27; Job 19:20; 29:10; 31:7; 41:23; Sal 22:15; 41:8; 44:25; 63:8; 101:3; 102:5; 119:25,31; 137:6; Pr 18:24; Jer 13:11; Lam 4:4,8; Eze 3:26; 29:4; Dan 2:43). 54 apariciones. Concordante simple.",
+      "voorkomens": 54
+    },
+    {
+      "strong": "H1693",
+      "hebreeuws": "דְּבַק",
+      "translit": "dbq",
+      "woordsoort": "verbo",
+      "es_concordant": "asirse-arameo",
+      "grondvorm": "asirse-arameo",
+      "stamfamilie": [
+        "H1693",
+        "H1692"
+      ],
+      "toelichting": "Hapax (Dan 2:43). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1694",
+      "hebreeuws": "דֶּבֶק",
+      "translit": "devaq",
+      "woordsoort": "sustantivo",
+      "es_concordant": "junta-soldadura",
+      "grondvorm": "junta-soldadura",
+      "stamfamilie": [
+        "H1692"
+      ],
+      "toelichting": "Sustantivo (1Re 22:34; 2Cr 18:33; Job 41:9). 3 apariciones. Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H1695",
+      "hebreeuws": "דָּבֵק",
+      "translit": "daveq",
+      "woordsoort": "adjetivo",
+      "es_concordant": "adherido-fiel",
+      "grondvorm": "adherido-fiel",
+      "stamfamilie": [
+        "H1692"
+      ],
+      "toelichting": "Adjetivo (Dt 4:4; Pr 18:24; 2Cr 3:12). 3 apariciones. Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H1696",
+      "hebreeuws": "דבר",
+      "translit": "davar",
+      "woordsoort": "verbo",
+      "es_concordant": "hablar",
+      "grondvorm": "hablar",
+      "stamfamilie": [
+        "H1696",
+        "H1697"
+      ],
+      "toelichting": "Verbo-de-locucion (Gn 8:15; 12:4; 18:5,27,29-32 etc.; Ex 4:10-16; 6:2-13; 14:1-2 etc.; Lev 1:1; 4:1; 5:14 etc. frecuente; Num 7:89; 12:8; Dt 2:1; 4:12; 5:24; 18:18; 1Sa 3:9-10; Sal 50:1; 75:5; Is 1:2; 40:2; Jer 1:6,7; 7:13; Eze 2:1-3; Dan 2:9; Hag 1:13). 1137 apariciones. Concordante simple. Distinto de H559 amar 'decir' por morfologia (piel-stem davar es comunicativo-elaborativo, qal amar es declarativo).",
+      "voorkomens": 1137
+    },
+    {
+      "strong": "H1697",
+      "hebreeuws": "דבר",
+      "translit": "davar",
+      "woordsoort": "sustantivo",
+      "es_concordant": "palabra",
+      "grondvorm": "palabra",
+      "stamfamilie": [
+        "H1697",
+        "H1696"
+      ],
+      "toelichting": "DECISION CLAVE-9. Sustantivo de davar (Gn 11:1 'una sola palabra'; 15:1 'la-palabra-de-YHWH vino a Abram'; Ex 4:28; 19:7,8; 20:1; 24:8; Dt 4:2; Sal 33:6 'por la-palabra de YHWH fueron hechos los cielos'; Is 40:8 'la palabra de nuestro Senor permanece para siempre'; 55:11 'mi palabra que sale de mi boca'; Jer 1:2,4,11,13; Eze 1:3; 6:1; etc.). 1448 apariciones (el sustantivo mas frecuente despues de YHWH y ben). RV60 'palabra'. Distinto de H561 emer 'dicho-imrah'. La frase 'la-palabra-de-YHWH' es un termino-tecnico-profetico.",
+      "voorkomens": 1448
+    },
+    {
+      "strong": "H1698",
+      "hebreeuws": "דֶּבֶר",
+      "translit": "dever",
+      "woordsoort": "sustantivo",
+      "es_concordant": "pestilencia",
+      "grondvorm": "pestilencia",
+      "stamfamilie": [],
+      "toelichting": "Plaga-divina (Ex 5:3; 9:3,15; Lev 26:25; Num 14:12; Dt 28:21; 2Sa 24:13,15; 1Re 8:37; 1Cr 21:12,14; 2Cr 6:28; 7:13; 20:9; Sal 78:50; 91:3,6; Jer 14:12; 21:6,7,9; 24:10; 27:8,13; 28:8; 29:17,18; 32:24,36; 34:17; 38:2; 42:17,22; 44:13; Eze 5:12,17; 6:11,12; 7:15; 12:16; 14:19,21; 28:23; 33:27; 38:22; Os 13:14; Am 4:10; Hab 3:5). 49 apariciones. Concordante simple.",
+      "voorkomens": 49
+    },
+    {
+      "strong": "H1699a",
+      "hebreeuws": "דֹּבֶר",
+      "translit": "dover-weide",
+      "woordsoort": "sustantivo",
+      "es_concordant": "pasto-pastizal",
+      "grondvorm": "pasto-pastizal",
+      "stamfamilie": [
+        "H4057"
+      ],
+      "toelichting": "Lugar-de-pastoreo (Is 5:17; Mi 2:12). 2 apariciones. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1699b",
+      "hebreeuws": "דִּבֵּר",
+      "translit": "dibber-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "habla-dicho",
+      "grondvorm": "habla-dicho",
+      "stamfamilie": [
+        "H1699a"
+      ],
+      "toelichting": "Hapax (Jer 5:13). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1700",
+      "hebreeuws": "דִּבְרָה",
+      "translit": "dibrah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "asunto-causa",
+      "grondvorm": "asunto-causa",
+      "stamfamilie": [
+        "H1697"
+      ],
+      "toelichting": "Sustantivo (Sal 110:4; Ec 3:18; 7:14; 8:2; Dan 2:30; 4:17; 5:26; 7:1). 5 apariciones. Hyphenated.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H1701",
+      "hebreeuws": "דִּבְרָה",
+      "translit": "divrah-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "asunto-arameo",
+      "grondvorm": "asunto-arameo",
+      "stamfamilie": [],
+      "toelichting": "Cognado arameo (Esd 7:21,26; Dan 4:33). 2 apariciones. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1703",
+      "hebreeuws": "דַּבָּרָה",
+      "translit": "dabbarah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "pronunciamiento-decreto",
+      "grondvorm": "pronunciamiento-decreto",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Pr 25:11). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1704",
+      "hebreeuws": "דִּבְרִי",
+      "translit": "divri-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dibri-pn",
+      "grondvorm": "Dibri-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Lev 24:11). Padre-de-Selomit. Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1705",
+      "hebreeuws": "דָּבְרַת",
+      "translit": "Davrath",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Daberat",
+      "grondvorm": "Daberat",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-levitica de Isacar (Jos 19:12; 21:28; 1Cr 6:72). 3 apariciones. Convencion espanola RV60.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H1706",
+      "hebreeuws": "דְּבַשׁ",
+      "translit": "devash",
+      "woordsoort": "sustantivo",
+      "es_concordant": "miel",
+      "grondvorm": "miel",
+      "stamfamilie": [],
+      "toelichting": "Producto-de-abejas (Gn 43:11; Ex 3:8,17; 13:5; 16:31; 33:3; Lev 2:11; 20:24; Num 13:27; 14:8; 16:13,14; Dt 6:3; 8:8; 11:9; 26:9,15; 27:3; 31:20; Jos 5:6; Jue 14:8,9,18; 1Sa 14:25,26,27,29,43; 2Sa 17:29; 1Re 14:3; 2Re 18:32; 2Cr 31:5; Job 20:17; Sal 19:10; 81:16; 119:103; Pr 5:3; 16:24; 24:13; 25:16,27; 27:7; Cnt 4:11; 5:1; Is 7:15,22; Jer 11:5; 32:22; 41:8; Eze 3:3; 16:13,19; 20:6,15; 27:17). 54 apariciones. Concordante simple.",
+      "voorkomens": 54
+    },
+    {
+      "strong": "H1707",
+      "hebreeuws": "דַּבֶּשֶׁת",
+      "translit": "dabbeshet",
+      "woordsoort": "sustantivo",
+      "es_concordant": "joroba-de-camello",
+      "grondvorm": "joroba-de-camello",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Is 30:6). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1708",
+      "hebreeuws": "דַּבָּשֶׁת",
+      "translit": "dabbeshet-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dabeset-pn-lugar",
+      "grondvorm": "Dabeset-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jos 19:11). Sufijo '-pn-lugar'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1709",
+      "hebreeuws": "דָּג",
+      "translit": "dag",
+      "woordsoort": "sustantivo",
+      "es_concordant": "pez",
+      "grondvorm": "pez",
+      "stamfamilie": [
+        "H1710"
+      ],
+      "toelichting": "Animal-acuatico (Gn 1:26,28; 9:2; Ex 7:18,21; Num 11:5,22; Dt 4:18; 1Re 4:33; Sal 8:8; Ec 9:12; Is 50:2; Eze 29:4-5; 38:20; 47:9-10; Os 4:3; Sof 1:3,10; Jonas 1:17; 2:1,10). 18 apariciones. Concordante simple.",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H1710",
+      "hebreeuws": "דָּגָה",
+      "translit": "dagah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "pez-especie",
+      "grondvorm": "pez-especie",
+      "stamfamilie": [
+        "H1709"
+      ],
+      "toelichting": "Variante (Gn 1:26,28; 9:2; Num 11:22; Sal 105:29; Eze 29:4,5; 38:20; Jonas 2:1; etc.). 15 apariciones. Hyphenated.",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H1711",
+      "hebreeuws": "דָּגָה",
+      "translit": "dagah",
+      "woordsoort": "verbo",
+      "es_concordant": "multiplicarse-como-pez",
+      "grondvorm": "multiplicarse-como-pez",
+      "stamfamilie": [
+        "H1709"
+      ],
+      "toelichting": "Hapax (Gn 48:16). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1712",
+      "hebreeuws": "דָּגוֹן",
+      "translit": "dagon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dagon",
+      "grondvorm": "Dagon",
+      "stamfamilie": [],
+      "toelichting": "Deidad-filistea (Jue 16:23; 1Sa 5:2-7; 1Cr 10:10). 13 apariciones. Convencion espanola RV60.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H1713a",
+      "hebreeuws": "דָּגוּל",
+      "translit": "dagul-I",
+      "woordsoort": "adjetivo",
+      "es_concordant": "distinguido-eminente",
+      "grondvorm": "distinguido-eminente",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Cnt 5:10). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1713b",
+      "hebreeuws": "דָּגַל",
+      "translit": "dagal",
+      "woordsoort": "verbo",
+      "es_concordant": "alzar-estandarte",
+      "grondvorm": "alzar-estandarte",
+      "stamfamilie": [
+        "H1714"
+      ],
+      "toelichting": "Verbo-de-banderas (Sal 20:5; Cnt 6:4,10). 3 apariciones. Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H1714",
+      "hebreeuws": "דֶּגֶל",
+      "translit": "degel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "estandarte-tribal",
+      "grondvorm": "estandarte-tribal",
+      "stamfamilie": [],
+      "toelichting": "Bandera-de-tribu (Num 1:52; 2:2,3,10,17,18,25,31,34; 10:14,18,22,25). 14 apariciones. Hyphenated.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H1715",
+      "hebreeuws": "דָּגָן",
+      "translit": "dagan",
+      "woordsoort": "sustantivo",
+      "es_concordant": "trigo",
+      "grondvorm": "trigo",
+      "stamfamilie": [],
+      "toelichting": "Grano-de-Cereal (Gn 27:28,37; Num 18:12; Dt 7:13; 11:14; 12:17; 14:23; 18:4; 28:51; 33:28; 2Cr 31:5; 32:28; Neh 5:2,3,10,11; 10:39; 13:5,12; Sal 4:7; 65:9; 78:24; Pr 3:10; Is 36:17; 62:8; Jer 31:12; Lam 2:12; Eze 36:29; Os 2:8,9,22; 7:14; 9:1,2; 14:7; Joel 1:10,17; 2:19,24; Hag 1:11; Zac 9:17). 40 apariciones. Concordante simple.",
+      "voorkomens": 40
+    },
+    {
+      "strong": "H1716",
+      "hebreeuws": "דָּגַר",
+      "translit": "dagar",
+      "woordsoort": "verbo",
+      "es_concordant": "empollar",
+      "grondvorm": "empollar",
+      "stamfamilie": [],
+      "toelichting": "Hapax-doblado (Is 34:15; Jer 17:11). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1717",
+      "hebreeuws": "דַּד",
+      "translit": "dad",
+      "woordsoort": "sustantivo",
+      "es_concordant": "pecho-de-mujer",
+      "grondvorm": "pecho-de-mujer",
+      "stamfamilie": [],
+      "toelichting": "Hapax-doblado (Eze 23:3,8,21; Pr 5:19). 4 apariciones. Hyphenated triple.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H1718",
+      "hebreeuws": "דָּדָה",
+      "translit": "dadah",
+      "woordsoort": "verbo",
+      "es_concordant": "andar-solemnemente",
+      "grondvorm": "andar-solemnemente",
+      "stamfamilie": [],
+      "toelichting": "Hapax-doblado (Sal 42:4; Is 38:15). Hyphenated triple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1719a",
+      "hebreeuws": "דְּדָן",
+      "translit": "Dedan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dedan",
+      "grondvorm": "Dedan",
+      "stamfamilie": [],
+      "toelichting": "Hijo-de-Cus (Gn 10:7; 1Cr 1:9) y region-arabia (Is 21:13; Jer 25:23; 49:8; Eze 25:13; 27:15,20; 38:13). 10 apariciones. Convencion espanola RV60.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H1719b",
+      "hebreeuws": "דְּדָן",
+      "translit": "dedan-II-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dedan-edomita",
+      "grondvorm": "Dedan-edomita",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Gn 25:3 lectura). Sufijo '-edomita' para distinguir.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1720",
+      "hebreeuws": "דְּדָנִים",
+      "translit": "dedanim-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "dedanitas-pn-pueblo",
+      "grondvorm": "dedanitas-pn-pueblo",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Is 21:13). Sufijo '-pn-pueblo'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1721",
+      "hebreeuws": "דֹּדָנִים",
+      "translit": "Dodanim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dodanim",
+      "grondvorm": "Dodanim",
+      "stamfamilie": [],
+      "toelichting": "Hijos-de-Javan (Gn 10:4; 1Cr 1:7). 2 apariciones. Convencion espanola RV60.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1722",
+      "hebreeuws": "דְּהַב-Aram",
+      "translit": "dehav-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "oro-arameo",
+      "grondvorm": "oro-arameo",
+      "stamfamilie": [
+        "H2091"
+      ],
+      "toelichting": "Cognado arameo (Esd 5:14; 6:5; 7:15-18; Dan 2:32-45; 3:1; 5:2-29). 23 apariciones. Hyphenated.",
+      "voorkomens": 23
+    },
+    {
+      "strong": "H1723",
+      "hebreeuws": "דֶּהָיֵא",
+      "translit": "deia",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dehavita-arameo-pn",
+      "grondvorm": "Dehavita-arameo-pn",
+      "stamfamilie": [
+        "H1723"
+      ],
+      "toelichting": "Hapax (Esd 4:9). Pueblo-de-Samaria. Hyphenated triple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1724",
+      "hebreeuws": "דָּהַם",
+      "translit": "dem",
+      "woordsoort": "verbo",
+      "es_concordant": "estar-perplejo",
+      "grondvorm": "estar-perplejo",
+      "stamfamilie": [
+        "H1724"
+      ],
+      "toelichting": "Hapax (Jer 14:9). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1725",
+      "hebreeuws": "דָּהַר",
+      "translit": "dahar",
+      "woordsoort": "verbo",
+      "es_concordant": "galopar",
+      "grondvorm": "galopar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Nah 3:2). Concordante simple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1726",
+      "hebreeuws": "דַּהֲרוֹת",
+      "translit": "daharoth",
+      "woordsoort": "sustantivo",
+      "es_concordant": "galope-de-cascos",
+      "grondvorm": "galope-de-cascos",
+      "stamfamilie": [
+        "H1725"
+      ],
+      "toelichting": "Hapax-doblado (Jue 5:22 doblado). Hyphenated triple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1727",
+      "hebreeuws": "דּוֹב",
+      "translit": "dov-kwijnen",
+      "woordsoort": "verbo",
+      "es_concordant": "languidecer-causar",
+      "grondvorm": "languidecer-causar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Lev 26:16). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1728",
+      "hebreeuws": "דַּוָּג",
+      "translit": "davvag",
+      "woordsoort": "sustantivo",
+      "es_concordant": "pescador-davvag",
+      "grondvorm": "pescador-davvag",
+      "stamfamilie": [
+        "H1770"
+      ],
+      "toelichting": "Hapax-doblado (Jer 16:16; Eze 47:10). Sufijo '-davvag' para uniqueness contra H1771.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1729",
+      "hebreeuws": "דּוּגָה",
+      "translit": "dugah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "anzuelos-de-pesca",
+      "grondvorm": "anzuelos-de-pesca",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Am 4:2). Hyphenated triple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1730",
+      "hebreeuws": "דּוֹד",
+      "translit": "dod",
+      "woordsoort": "sustantivo",
+      "es_concordant": "amado",
+      "grondvorm": "amado",
+      "stamfamilie": [],
+      "toelichting": "Sustantivo-romantico (Cnt 1:13,14,16; 2:3,8,9,10,16,17; 4:16; 5:1-16; 6:1,2,3; 7:9-13; 8:5,14; Is 5:1; Jer 11:15). 61 apariciones. Concordante simple.",
+      "voorkomens": 61
+    },
+    {
+      "strong": "H1731",
+      "hebreeuws": "דּוּד",
+      "translit": "dud",
+      "woordsoort": "sustantivo",
+      "es_concordant": "olla-de-coccion-dud",
+      "grondvorm": "olla-de-coccion-dud",
+      "stamfamilie": [],
+      "toelichting": "Recipiente-de-cocer (1Sa 2:14; 2Cr 35:13; Job 41:20; Sal 81:6; Jer 24:1,2). 7 apariciones. Sufijo '-dud' para uniqueness.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H1732",
+      "hebreeuws": "דוד",
+      "translit": "David",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "David",
+      "grondvorm": "David",
+      "stamfamilie": [
+        "H1732"
+      ],
+      "toelichting": "Segundo rey de Israel, padre del Mesias (Rut 4:17,22; 1Sa 16-2Re 2; 1Cr 2:15-29:30; Sal frecuente). 1068 apariciones. Convencion espanola RV60.",
+      "voorkomens": 1068
+    },
+    {
+      "strong": "H1733",
+      "hebreeuws": "דּוֹדָה",
+      "translit": "dodah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tia",
+      "grondvorm": "tia",
+      "stamfamilie": [],
+      "toelichting": "Hermana-del-padre-o-madre (Ex 6:20; Lev 18:14; 20:20). 3 apariciones. Concordante simple.",
+      "voorkomens": 3,
+      "notes": "H1730a"
+    },
+    {
+      "strong": "H1734",
+      "hebreeuws": "דּוֹדוֹ",
+      "translit": "Dodo",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dodo",
+      "grondvorm": "Dodo",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores: hombre-de-Belen (2Sa 23:9,24; 1Cr 11:12,26) y de Isacar (Jue 10:1). 6 apariciones. Convencion espanola RV60.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H1735",
+      "hebreeuws": "דֹּדָוָהוּ",
+      "translit": "dodavahu-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dodavahu-pn",
+      "grondvorm": "Dodavahu-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (2Cr 20:37). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1736",
+      "hebreeuws": "דּוּדָי",
+      "translit": "duday",
+      "woordsoort": "sustantivo",
+      "es_concordant": "mandragora",
+      "grondvorm": "mandragora",
+      "stamfamilie": [],
+      "toelichting": "Planta-afrodisiaca (Gn 30:14-16; Cnt 7:13). 7 apariciones. Concordante simple.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H1737",
+      "hebreeuws": "דּוֹדַי",
+      "translit": "doday-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dodai-pn",
+      "grondvorm": "Dodai-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 27:4). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1738",
+      "hebreeuws": "דָּוָה",
+      "translit": "davah",
+      "woordsoort": "verbo",
+      "es_concordant": "estar-enfermo",
+      "grondvorm": "estar-enfermo",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Lev 12:2 lectura). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1739",
+      "hebreeuws": "דָּוֶה",
+      "translit": "daveh",
+      "woordsoort": "adjetivo",
+      "es_concordant": "impureza-menstrual-daveh",
+      "grondvorm": "impureza-menstrual-daveh",
+      "stamfamilie": [
+        "H1738"
+      ],
+      "toelichting": "Adjetivo (Lev 15:33; 20:18; Is 30:22; Lam 1:13; 5:17). 5 apariciones. Hyphenated.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H1740",
+      "hebreeuws": "דּוּחַ",
+      "translit": "duach",
+      "woordsoort": "verbo",
+      "es_concordant": "lavar-enjuagar",
+      "grondvorm": "lavar-enjuagar",
+      "stamfamilie": [],
+      "toelichting": "Verbo (Is 4:4; Eze 40:38; 2Cr 4:6 lectura; Jer 51:34). 5 apariciones. Hyphenated.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H1741",
+      "hebreeuws": "דְּוַי",
+      "translit": "devai",
+      "woordsoort": "sustantivo",
+      "es_concordant": "enfermedad-debilitamiento",
+      "grondvorm": "enfermedad-debilitamiento",
+      "stamfamilie": [
+        "H1738"
+      ],
+      "toelichting": "Hapax-doblado (Sal 41:3; Is 1:5). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1742",
+      "hebreeuws": "דַּוָּי",
+      "translit": "davvay",
+      "woordsoort": "adjetivo",
+      "es_concordant": "enfermo-decaido",
+      "grondvorm": "enfermo-decaido",
+      "stamfamilie": [
+        "H1739"
+      ],
+      "toelichting": "Adjetivo (Lam 1:22; 5:17; Is 1:5). 3 apariciones. Hyphenated cuadruple.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H1743",
+      "hebreeuws": "דּוּךְ",
+      "translit": "duk",
+      "woordsoort": "verbo",
+      "es_concordant": "machacar-en-mortero",
+      "grondvorm": "machacar-en-mortero",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Num 11:8). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1744",
+      "hebreeuws": "דּוּכִיפַת",
+      "translit": "dukhifat",
+      "woordsoort": "sustantivo",
+      "es_concordant": "abubilla-cuco",
+      "grondvorm": "abubilla-cuco",
+      "stamfamilie": [],
+      "toelichting": "Ave-inmunda (Lev 11:19; Dt 14:18). 2 apariciones. Hyphenated triple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1745",
+      "hebreeuws": "דּוּמָה",
+      "translit": "dumah-stilte",
+      "woordsoort": "sustantivo",
+      "es_concordant": "silencio-quietud",
+      "grondvorm": "silencio-quietud",
+      "stamfamilie": [
+        "H1747"
+      ],
+      "toelichting": "Hapax-doblado (Sal 94:17; 115:17). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1746",
+      "hebreeuws": "דּוּמָה",
+      "translit": "Dumah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Duma-region",
+      "grondvorm": "Duma-region",
+      "stamfamilie": [],
+      "toelichting": "Region-arabia (Gn 25:14; Jos 15:52; Is 21:11; 1Cr 1:30). 4 apariciones. Hyphenated.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H1747",
+      "hebreeuws": "דּוּמִיָּה",
+      "translit": "dumiyyah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "silencio-Ps",
+      "grondvorm": "silencio-Ps",
+      "stamfamilie": [
+        "H1827"
+      ],
+      "toelichting": "Sustantivo-poetico (Sal 22:2; 39:2; 62:1). 3 apariciones. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1748",
+      "hebreeuws": "דּוּמָם",
+      "translit": "dumam",
+      "woordsoort": "adverbio",
+      "es_concordant": "silenciosamente",
+      "grondvorm": "silenciosamente",
+      "stamfamilie": [
+        "H1747"
+      ],
+      "toelichting": "Adverbio (Lev 10:3; Lam 3:26; Is 47:5). 3 apariciones. Concordante simple.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H1749",
+      "hebreeuws": "דּוֹנַג",
+      "translit": "donag",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cera",
+      "grondvorm": "cera",
+      "stamfamilie": [],
+      "toelichting": "Sustancia-de-abejas (Sal 22:14; 68:2; 97:5; Mi 1:4). 4 apariciones. Concordante simple.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H1750",
+      "hebreeuws": "דּוּץ",
+      "translit": "duts",
+      "woordsoort": "verbo",
+      "es_concordant": "saltar-adelante",
+      "grondvorm": "saltar-adelante",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Job 41:22). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1752",
+      "hebreeuws": "דּוּר",
+      "translit": "dur-wonen",
+      "woordsoort": "verbo",
+      "es_concordant": "morar-en-tienda",
+      "grondvorm": "morar-en-tienda",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Sal 84:11 lectura). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1753",
+      "hebreeuws": "דּוּר",
+      "translit": "dur-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "morar-arameo",
+      "grondvorm": "morar-arameo",
+      "stamfamilie": [],
+      "toelichting": "Cognado arameo (Esd 4:17; 6:12; 7:25; Dan 2:38; 3:31; 4:1,12,18,20,32,38; 6:25,26,27 lectura). 17 apariciones. Hyphenated.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H1754a",
+      "hebreeuws": "דּוּר",
+      "translit": "dur-bal",
+      "woordsoort": "sustantivo",
+      "es_concordant": "bola-globo",
+      "grondvorm": "bola-globo",
+      "stamfamilie": [],
+      "toelichting": "Hapax-doblado (Is 22:18; 29:3 lectura). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1754b",
+      "hebreeuws": "דּוּר",
+      "translit": "dur-II-bal",
+      "woordsoort": "sustantivo",
+      "es_concordant": "esfera",
+      "grondvorm": "esfera",
+      "stamfamilie": [
+        "H1754a"
+      ],
+      "toelichting": "Hapax (Is 29:3 lectura). Concordante simple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1755",
+      "hebreeuws": "דור",
+      "translit": "dor",
+      "woordsoort": "sustantivo",
+      "es_concordant": "generacion",
+      "grondvorm": "generacion",
+      "stamfamilie": [
+        "H1755"
+      ],
+      "toelichting": "Periodo-de-tiempo-de-una-vida-humana (Gn 6:9; 7:1; 9:12; 15:16; 17:7,9,12; Ex 1:6; 3:15; 12:14,17,42; 16:32,33; 17:16; 27:21; 29:42; 30:8,10,21,31; 31:13,16; 40:15; Lev 3:17; 6:18; 7:36; 10:9; 17:7; 21:17; 22:3; 23:14,21,31,41,43; 24:3; 25:30; Num 9:10; 10:8; 15:14,15,21,23,38; 18:23; 32:13; 35:29; Dt 1:35; 2:14; 5:9; 7:9; 23:2,3,8; 29:14,21; 32:5,7,20; 32:7; Jos 22:27,28; Jue 2:10; 3:2; Rt 4:18; 1Re 13:33; Sal frecuente; Pr 27:24; 30:11-14; Ec 1:4; Is 13:20; 34:10,17; 41:4; 51:8,9; Jer 2:31; 7:29; 50:39; 51:62; Lam 5:19; Joel 1:3; 2:2; 3:20). 166 apariciones. Concordante simple.",
+      "voorkomens": 166
+    },
+    {
+      "strong": "H1756",
+      "hebreeuws": "דּוֹר",
+      "translit": "Dor",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dor",
+      "grondvorm": "Dor",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-mediterranea (Jos 11:2; 12:23; 17:11; Jue 1:27; 1Re 4:11; 1Cr 7:29). 7 apariciones. Convencion espanola RV60.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H1757",
+      "hebreeuws": "דּוּרָא",
+      "translit": "dura-Aram-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dura-llanura-arameo",
+      "grondvorm": "Dura-llanura-arameo",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Dan 3:1). Hyphenated triple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1758",
+      "hebreeuws": "דּוּשׁ",
+      "translit": "dush",
+      "woordsoort": "verbo",
+      "es_concordant": "trillar",
+      "grondvorm": "trillar",
+      "stamfamilie": [],
+      "toelichting": "Verbo (Lev 26:5; Dt 25:4; Jue 8:7; 1Cr 21:20; Job 39:15; Is 25:10; 28:28; 41:15; Jer 50:11; Os 10:11; Mi 4:13; Hab 3:12). 14 apariciones. Concordante simple.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H1759",
+      "hebreeuws": "דּוּשׁ-Aram",
+      "translit": "dush-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "pisotear-tierra-arameo",
+      "grondvorm": "pisotear-tierra-arameo",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Dan 7:23). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1760a",
+      "hebreeuws": "דָּחָה-I",
+      "translit": "dachah-I",
+      "woordsoort": "verbo",
+      "es_concordant": "empujar-abajo",
+      "grondvorm": "empujar-abajo",
+      "stamfamilie": [],
+      "toelichting": "Verbo (Sal 35:5; 36:13; 56:14; 62:4; 118:13; 140:5; Pr 14:32; Jer 23:12). 10 apariciones. Hyphenated.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H1760b",
+      "hebreeuws": "דָּחָה",
+      "translit": "dachah-II",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-resbalado",
+      "grondvorm": "ser-resbalado",
+      "stamfamilie": [
+        "H1760a"
+      ],
+      "toelichting": "Hapax (2Sa 14:14 lectura). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1761",
+      "hebreeuws": "דַּחֲוָן-Aram",
+      "translit": "dachavan-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "diversion-arameo",
+      "grondvorm": "diversion-arameo",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Dan 6:18). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1762",
+      "hebreeuws": "דְּחִי",
+      "translit": "dechi-struikel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tropiezo-caida",
+      "grondvorm": "tropiezo-caida",
+      "stamfamilie": [
+        "H1760"
+      ],
+      "toelichting": "Hapax-doblado (Sal 35:15; 56:14). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1763",
+      "hebreeuws": "דְּחַל",
+      "translit": "dechal-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "temer-arameo",
+      "grondvorm": "temer-arameo",
+      "stamfamilie": [],
+      "toelichting": "Cognado arameo (Dan 4:5; 5:19; 6:26 etc.). 6 apariciones. Hyphenated.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H1764",
+      "hebreeuws": "דֹּחַן",
+      "translit": "dchn",
+      "woordsoort": "sustantivo",
+      "es_concordant": "mijo",
+      "grondvorm": "mijo",
+      "stamfamilie": [
+        "H1764"
+      ],
+      "toelichting": "Hapax (Eze 4:9). Concordante simple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1765",
+      "hebreeuws": "דָּחַף",
+      "translit": "dachaf",
+      "woordsoort": "verbo",
+      "es_concordant": "apresurar-impeler",
+      "grondvorm": "apresurar-impeler",
+      "stamfamilie": [],
+      "toelichting": "Verbo (Est 3:15; 6:12; 8:14; 2Cr 26:20). 4 apariciones. Hyphenated cuadruple.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H1766",
+      "hebreeuws": "דָּחַק",
+      "translit": "dachaq",
+      "woordsoort": "verbo",
+      "es_concordant": "oprimir-aglomerar",
+      "grondvorm": "oprimir-aglomerar",
+      "stamfamilie": [],
+      "toelichting": "Hapax-doblado (Jue 2:18; Joel 2:8). Hyphenated cuadruple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1767",
+      "hebreeuws": "דַּי",
+      "translit": "dai",
+      "woordsoort": "sustantivo",
+      "es_concordant": "suficiente",
+      "grondvorm": "suficiente",
+      "stamfamilie": [],
+      "toelichting": "Sustantivo-de-cantidad-adecuada (Ex 36:5,7; Lev 12:8; 25:26; Dt 15:8; 25:2; 1Re 14:28; 2Re 4:6; 2Cr 12:11; 24:11; 30:3; Pr 25:16; Is 40:16; 66:23; Jer 20:8; 31:20; 49:9; 51:58; Os 4:8; Joel 2:11; Hab 2:13; Mal 3:10; Job 39:25; Sal 90:8). 39 apariciones. Concordante simple.",
+      "voorkomens": 39
+    },
+    {
+      "strong": "H1768",
+      "hebreeuws": "די",
+      "translit": "di",
+      "woordsoort": "pronombre-relativo",
+      "es_concordant": "que-arameo-di",
+      "grondvorm": "que-arameo-di",
+      "stamfamilie": [
+        "H1768"
+      ],
+      "toelichting": "Relativo arameo principal (Esd 4:8 etc.; Dan 2:9 etc.). 342 apariciones. Hyphenated triple para uniqueness.",
+      "voorkomens": 342
+    },
+    {
+      "strong": "H1769",
+      "hebreeuws": "דִּיבוֹן",
+      "translit": "Divon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dibon",
+      "grondvorm": "Dibon",
+      "stamfamilie": [],
+      "toelichting": "Ciudades multiples (Num 21:30; 32:3,34; 33:45,46; Jos 13:9,17; 15:22; Neh 11:25; Is 15:2,9; Jer 48:18,22). 11 apariciones. Convencion espanola RV60.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H1770",
+      "hebreeuws": "דּוּג",
+      "translit": "dug",
+      "woordsoort": "verbo",
+      "es_concordant": "pescar-pueblo",
+      "grondvorm": "pescar-pueblo",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jer 16:16). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1771",
+      "hebreeuws": "דַּיָּג",
+      "translit": "dayyag-visser",
+      "woordsoort": "sustantivo",
+      "es_concordant": "pescador",
+      "grondvorm": "pescador",
+      "stamfamilie": [
+        "H1770"
+      ],
+      "toelichting": "Persona-que-pesca (Is 19:8; Jer 16:16; Eze 47:10). 2 apariciones. Concordante simple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1772",
+      "hebreeuws": "דַּיָּה",
+      "translit": "dayyah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "buitre-milano-negro",
+      "grondvorm": "buitre-milano-negro",
+      "stamfamilie": [],
+      "toelichting": "Ave-inmunda (Lev 11:14; Dt 14:13). 2 apariciones. Hyphenated triple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1773",
+      "hebreeuws": "דְּיוֹ",
+      "translit": "deyo",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tinta",
+      "grondvorm": "tinta",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jer 36:18). Concordante simple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1774",
+      "hebreeuws": "דִי זָהָב",
+      "translit": "di-zahav-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Di-Zahab-pn",
+      "grondvorm": "Di-Zahab-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Dt 1:1). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1775",
+      "hebreeuws": "דִּימוֹן",
+      "translit": "dimon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "Dimon-tambien-Dibon",
+      "grondvorm": "Dimon-tambien-Dibon",
+      "stamfamilie": [
+        "H1769"
+      ],
+      "toelichting": "Variante (Is 15:9 doblado). 2 apariciones. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1776",
+      "hebreeuws": "דִּימוֹנָה",
+      "translit": "dimonah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dimona-pn-lugar",
+      "grondvorm": "Dimona-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jos 15:22). Sufijo '-pn-lugar'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1777",
+      "hebreeuws": "דִּין",
+      "translit": "din",
+      "woordsoort": "verbo",
+      "es_concordant": "juzgar",
+      "grondvorm": "juzgar",
+      "stamfamilie": [
+        "H1779",
+        "H1781"
+      ],
+      "toelichting": "Verbo-de-administracion-de-justicia (Gn 6:3; 15:14; 30:6; 49:16; Dt 32:36; 1Sa 2:10; 24:16; 2Sa 8:15; 19:10; 1Re 3:9; 1Cr 16:33; 17:9 lectura; Sal 7:9; 9:9; 50:4; 54:2; 67:5; 72:2; 96:10; 110:6; 135:14; Pr 29:7; 31:5,8,9; Ec 6:10; Is 3:13; 51:5; 65:14 lectura; Jer 5:28; 21:12; 22:16; 30:13; Eze 7:27; 18:5,8 lectura; Zac 3:7). 23 apariciones. Concordante simple.",
+      "voorkomens": 23
+    },
+    {
+      "strong": "H1778",
+      "hebreeuws": "דַּיָּן",
+      "translit": "dain-Aram",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "juzgar-arameo",
+      "grondvorm": "juzgar-arameo",
+      "stamfamilie": [
+        "H1777"
+      ],
+      "toelichting": "Hapax (Esd 7:25). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1779",
+      "hebreeuws": "דִּין-zn",
+      "translit": "din-zn",
+      "woordsoort": "sustantivo",
+      "es_concordant": "pleito",
+      "grondvorm": "pleito",
+      "stamfamilie": [
+        "H1777",
+        "H1781"
+      ],
+      "toelichting": "Sustantivo-juridico (Dt 17:8; Sal 7:6; 9:5; 76:8 lectura; 140:13; Pr 20:8; 22:10; 29:7; 31:5,8,9; Ec 6:10; Is 1:23; 3:13; 10:2; Jer 5:28; 21:12; 22:16; 30:13; 34:13; 51:36; Eze 7:23; 21:32; Lam 3:59; Mal 3:5). 21 apariciones. Concordante simple.",
+      "voorkomens": 21
+    },
+    {
+      "strong": "H1780",
+      "hebreeuws": "דִּין",
+      "translit": "din-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "juicio-arameo",
+      "grondvorm": "juicio-arameo",
+      "stamfamilie": [
+        "H1779"
+      ],
+      "toelichting": "Cognado arameo (Esd 7:26; Dan 4:37; 7:10,22,26). 5 apariciones. Hyphenated.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H1781",
+      "hebreeuws": "דַּיָּן",
+      "translit": "dayyan",
+      "woordsoort": "sustantivo",
+      "es_concordant": "juez-titulo",
+      "grondvorm": "juez-titulo",
+      "stamfamilie": [
+        "H1777"
+      ],
+      "toelichting": "Sustantivo-de-titulo (1Sa 24:16; Sal 68:5). 2 apariciones. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1782",
+      "hebreeuws": "דַּיָּן",
+      "translit": "dayyan-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "juez-arameo",
+      "grondvorm": "juez-arameo",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Esd 7:25). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1783",
+      "hebreeuws": "דִּינָה",
+      "translit": "Dinah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dina",
+      "grondvorm": "Dina",
+      "stamfamilie": [
+        "H1777"
+      ],
+      "toelichting": "Hija-de-Jacob-y-Lea (Gn 30:21; 34:1-26; 46:15). 8 apariciones. Convencion espanola RV60.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H1784",
+      "hebreeuws": "דִּינָיֵא",
+      "translit": "dinia",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dinaita-arameo-pn",
+      "grondvorm": "Dinaita-arameo-pn",
+      "stamfamilie": [
+        "H1784"
+      ],
+      "toelichting": "Hapax (Esd 4:9). Pueblo-de-Samaria. Hyphenated triple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1785",
+      "hebreeuws": "דָּיֵק",
+      "translit": "dayeq",
+      "woordsoort": "sustantivo",
+      "es_concordant": "muralla-de-asedio",
+      "grondvorm": "muralla-de-asedio",
+      "stamfamilie": [],
+      "toelichting": "Sustantivo (2Re 25:1; Jer 52:4; Eze 4:2; 17:17; 21:22; 26:8). 6 apariciones. Hyphenated.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H1786",
+      "hebreeuws": "דַּיִשׁ",
+      "translit": "dayish",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tiempo-de-trilla",
+      "grondvorm": "tiempo-de-trilla",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Lev 26:5). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1787",
+      "hebreeuws": "דִּישֹׁן",
+      "translit": "Dishon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dison",
+      "grondvorm": "Dison",
+      "stamfamilie": [
+        "H1789"
+      ],
+      "toelichting": "Hijo-de-Seir-horeo (Gn 36:21,25,26,28,30; 1Cr 1:38,41). 7 apariciones. Convencion espanola RV60.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H1788",
+      "hebreeuws": "דִּישֹׁן",
+      "translit": "dishon-dier",
+      "woordsoort": "sustantivo",
+      "es_concordant": "antilope-pigargo",
+      "grondvorm": "antilope-pigargo",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Dt 14:5). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1789",
+      "hebreeuws": "דִּישָׁן",
+      "translit": "Dishan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Disan",
+      "grondvorm": "Disan",
+      "stamfamilie": [
+        "H1787"
+      ],
+      "toelichting": "Hijo-de-Seir (Gn 36:21,28,30; 1Cr 1:38,42). 5 apariciones. Convencion espanola RV60.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H1790",
+      "hebreeuws": "דַּךְ",
+      "translit": "dakh",
+      "woordsoort": "adjetivo",
+      "es_concordant": "abatido-pobre",
+      "grondvorm": "abatido-pobre",
+      "stamfamilie": [
+        "H1792"
+      ],
+      "toelichting": "Adjetivo (Sal 9:9; 10:18; 74:21; Pr 26:28; Is 26:6 lectura; Jer 14:6; Job 4:19 lectura). 4 apariciones. Hyphenated.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H1791",
+      "hebreeuws": "דֵּךְ",
+      "translit": "dek-Aram",
+      "woordsoort": "pronombre",
+      "es_concordant": "este-arameo-dek",
+      "grondvorm": "este-arameo-dek",
+      "stamfamilie": [],
+      "toelichting": "Pronombre arameo (Esd 4:13,15,16,19,21; 5:17; 6:7,8,12; Dan 2:31; 3:6,11,15; 7:20,21). 13 apariciones. Hyphenated triple.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H1792",
+      "hebreeuws": "דָּכָא",
+      "translit": "daka-ww",
+      "woordsoort": "verbo",
+      "es_concordant": "aplastar-daka",
+      "grondvorm": "aplastar-daka",
+      "stamfamilie": [
+        "H1793",
+        "H1794"
+      ],
+      "toelichting": "Verbo (Job 4:19; 6:9; 19:2; 22:9; 34:25; Sal 72:4; 89:11; 90:3; 94:5; 143:3; Pr 22:22; Is 3:15; 19:10; 53:5,10; 57:15; Lam 3:34). 18 apariciones. Sufijo '-daka' para uniqueness.",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H1793a",
+      "hebreeuws": "דַּכָּא",
+      "translit": "dakka-verbrijzeld",
+      "woordsoort": "adjetivo",
+      "es_concordant": "contrito-quebrantado",
+      "grondvorm": "contrito-quebrantado",
+      "stamfamilie": [
+        "H1792"
+      ],
+      "toelichting": "Adjetivo (Sal 34:18; Is 57:15). 2 apariciones. Hyphenated triple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1793b",
+      "hebreeuws": "דַּכָּא",
+      "translit": "dakka-II-stof",
+      "woordsoort": "sustantivo",
+      "es_concordant": "polvo-aplastado",
+      "grondvorm": "polvo-aplastado",
+      "stamfamilie": [
+        "H1793a"
+      ],
+      "toelichting": "Hapax (Sal 90:3 lectura). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1794",
+      "hebreeuws": "דָּכָה",
+      "translit": "dakah",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-quebrantado",
+      "grondvorm": "ser-quebrantado",
+      "stamfamilie": [
+        "H1792"
+      ],
+      "toelichting": "Verbo (Sal 10:10; 38:8; 51:8,17; Jer 44:10). 6 apariciones. Hyphenated.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H1795",
+      "hebreeuws": "דַּכָּא",
+      "translit": "dakka-zaadlid",
+      "woordsoort": "sustantivo",
+      "es_concordant": "testiculo-aplastado",
+      "grondvorm": "testiculo-aplastado",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Dt 23:1). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1796",
+      "hebreeuws": "דָּכְיָם",
+      "translit": "dochyam",
+      "woordsoort": "sustantivo",
+      "es_concordant": "estruendo-de-corriente",
+      "grondvorm": "estruendo-de-corriente",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Sal 93:3 lectura). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1797",
+      "hebreeuws": "דִּכֵּן",
+      "translit": "dikken-Aram",
+      "woordsoort": "pronombre-demostrativo",
+      "es_concordant": "este-dikken-arameo",
+      "grondvorm": "este-dikken-arameo",
+      "stamfamilie": [
+        "H1791"
+      ],
+      "toelichting": "Pronombre arameo (Dan 2:31; 7:20,21). 3 apariciones. Hyphenated triple.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H1798",
+      "hebreeuws": "דְּכַר",
+      "translit": "dekhar-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "carnero-arameo",
+      "grondvorm": "carnero-arameo",
+      "stamfamilie": [],
+      "toelichting": "Cognado arameo (Esd 6:9,17; 7:17). 3 apariciones. Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H1799a",
+      "hebreeuws": "דִּכְרוֹן",
+      "translit": "dikron-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "memorandum-arameo",
+      "grondvorm": "memorandum-arameo",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Esd 6:2). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1799b",
+      "hebreeuws": "דָּכְרוֹן",
+      "translit": "dkrun",
+      "woordsoort": "sustantivo",
+      "es_concordant": "rollo-conmemorativo-arameo",
+      "grondvorm": "rollo-conmemorativo-arameo",
+      "stamfamilie": [
+        "H1799b",
+        "H1799a"
+      ],
+      "toelichting": "Hapax (Mal 3:16 lectura). Hyphenated triple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1800",
+      "hebreeuws": "דַּל",
+      "translit": "dal",
+      "woordsoort": "adjetivo",
+      "es_concordant": "necesitado",
+      "grondvorm": "necesitado",
+      "stamfamilie": [
+        "H1809"
+      ],
+      "toelichting": "Adjetivo (Ex 23:3; 30:15; Lev 14:21; 19:15; Jue 6:15; Rt 3:10; 1Sa 2:8; 2Sa 3:1; 13:4; Job 5:16; 20:10; 31:16; 34:19,28; Sal 41:1; 72:13; 82:3,4; 113:7; Pr 10:15; 14:31; 19:4,17; 21:13; 22:9,16,22; 28:3,8,11,15; 29:7,14; Is 10:2; 11:4; 14:30; 25:4; 26:6; Jer 5:4; 39:10; 40:7; 52:15,16; Am 2:7; 4:1; 5:11; 8:6; Sof 3:12). 46 apariciones. Concordante simple.",
+      "voorkomens": 46
+    },
+    {
+      "strong": "H1801",
+      "hebreeuws": "דָּלַג",
+      "translit": "dalag",
+      "woordsoort": "verbo",
+      "es_concordant": "saltar-brincar",
+      "grondvorm": "saltar-brincar",
+      "stamfamilie": [],
+      "toelichting": "Verbo (2Sa 22:30; Sal 18:29; Sof 1:9; Cnt 2:8; Is 35:6). 5 apariciones. Concordante simple.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H1802",
+      "hebreeuws": "דָּלָה",
+      "translit": "dalah",
+      "woordsoort": "verbo",
+      "es_concordant": "sacar-agua",
+      "grondvorm": "sacar-agua",
+      "stamfamilie": [
+        "H1803a"
+      ],
+      "toelichting": "Verbo (Ex 2:16,19; Pr 20:5; Sal 30:1; Is 51:14 lectura). 4 apariciones. Hyphenated.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H1803a",
+      "hebreeuws": "דַּלָּה",
+      "translit": "dallah-II-armen",
+      "woordsoort": "sustantivo",
+      "es_concordant": "pobres-restantes",
+      "grondvorm": "pobres-restantes",
+      "stamfamilie": [
+        "H1800"
+      ],
+      "toelichting": "Sustantivo (Jer 40:7; 52:15,16; 2Re 24:14; 25:12). 2 apariciones. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1803b",
+      "hebreeuws": "דַּלָּה",
+      "translit": "dallah-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "pueblo-empobrecido",
+      "grondvorm": "pueblo-empobrecido",
+      "stamfamilie": [
+        "H1800"
+      ],
+      "toelichting": "Variante (Is 38:12; 1Cr 11:23; 2Re 25:12 lectura). 6 apariciones. Hyphenated.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H1804",
+      "hebreeuws": "דָּלַח",
+      "translit": "dalach",
+      "woordsoort": "verbo",
+      "es_concordant": "enturbiar",
+      "grondvorm": "enturbiar",
+      "stamfamilie": [],
+      "toelichting": "Verbo (Eze 32:2,13; 34:18). 3 apariciones. Concordante simple.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H1805",
+      "hebreeuws": "דֳּלִי",
+      "translit": "deli",
+      "woordsoort": "sustantivo",
+      "es_concordant": "balde-de-agua",
+      "grondvorm": "balde-de-agua",
+      "stamfamilie": [
+        "H1802"
+      ],
+      "toelichting": "Hapax-doblado (Num 24:7; Is 40:15). Hyphenated triple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1806",
+      "hebreeuws": "דְּלָיָה",
+      "translit": "Delayah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Delaias",
+      "grondvorm": "Delaias",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores (1Cr 3:24; 24:18; Esd 2:60; Neh 6:10; 7:62; Jer 36:12,25). 7 apariciones. Convencion espanola RV60.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H1807",
+      "hebreeuws": "דְּלִילָה",
+      "translit": "Delilah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dalila",
+      "grondvorm": "Dalila",
+      "stamfamilie": [],
+      "toelichting": "Mujer-filistea-de-Sansón (Jue 16:4-20). 6 apariciones. Convencion espanola RV60.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H1808",
+      "hebreeuws": "דָּלִיָּה",
+      "translit": "daliyyah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "rama-zarcillo",
+      "grondvorm": "rama-zarcillo",
+      "stamfamilie": [],
+      "toelichting": "Sustantivo (Is 18:5; Jer 11:16; Eze 17:6,7,23; 19:11; 31:7,9,12). 8 apariciones. Hyphenated.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H1809",
+      "hebreeuws": "דָּלַל",
+      "translit": "dalal",
+      "woordsoort": "verbo",
+      "es_concordant": "languidecer-decaer",
+      "grondvorm": "languidecer-decaer",
+      "stamfamilie": [],
+      "toelichting": "Verbo (Job 28:4; Sal 79:8; 116:6; 142:6; Pr 26:7 lectura; Is 17:4; 19:6; 38:14; Eze 17:24). 9 apariciones. Hyphenated.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H1810",
+      "hebreeuws": "דִּלְעָן",
+      "translit": "dilan-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dilan-pn-lugar",
+      "grondvorm": "Dilan-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jos 15:38). Sufijo '-pn-lugar'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1811",
+      "hebreeuws": "דָּלַף",
+      "translit": "dalaf",
+      "woordsoort": "verbo",
+      "es_concordant": "gotear",
+      "grondvorm": "gotear",
+      "stamfamilie": [],
+      "toelichting": "Verbo (Sal 119:28; Job 16:20; Ec 10:18). 3 apariciones. Concordante simple.",
+      "voorkomens": 3,
+      "notes": "Job-Prov-lament"
+    },
+    {
+      "strong": "H1812",
+      "hebreeuws": "דֶּלֶף",
+      "translit": "delef-gestaag-druipen",
+      "woordsoort": "sustantivo",
+      "es_concordant": "gotera-continua",
+      "grondvorm": "gotera-continua",
+      "stamfamilie": [],
+      "toelichting": "Hapax-doblado (Pr 19:13; 27:15). Hyphenated.",
+      "voorkomens": 2,
+      "notes": "Prov-strife"
+    },
+    {
+      "strong": "H1813",
+      "hebreeuws": "דַּלְפוֹן",
+      "translit": "dalfon-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dalfon-pn",
+      "grondvorm": "Dalfon-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Est 9:7). Hijo-de-Aman. Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1814",
+      "hebreeuws": "דָּלַק",
+      "translit": "dalaq",
+      "woordsoort": "verbo",
+      "es_concordant": "encenderse-perseguir",
+      "grondvorm": "encenderse-perseguir",
+      "stamfamilie": [],
+      "toelichting": "Verbo (Gn 31:36; Sal 7:13 lectura; 10:2; Pr 26:23; Is 5:11; Abd 1:18; Lam 4:19). 9 apariciones. Hyphenated.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H1815",
+      "hebreeuws": "דְּלַק-Aram",
+      "translit": "delaq-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "arder-arameo-delaq",
+      "grondvorm": "arder-arameo-delaq",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Dan 7:9). Hyphenated triple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1816",
+      "hebreeuws": "דַּלֶּקֶת",
+      "translit": "daleqet",
+      "woordsoort": "sustantivo",
+      "es_concordant": "fiebre-ardiente",
+      "grondvorm": "fiebre-ardiente",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Dt 28:22). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1817a",
+      "hebreeuws": "דֶּלֶת",
+      "translit": "delet-lippen",
+      "woordsoort": "sustantivo",
+      "es_concordant": "puertas-de-labios",
+      "grondvorm": "puertas-de-labios",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Sal 141:3 lectura). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1817b",
+      "hebreeuws": "דֶּלֶת",
+      "translit": "dlth",
+      "woordsoort": "sustantivo",
+      "es_concordant": "rollo-hoja",
+      "grondvorm": "rollo-hoja",
+      "stamfamilie": [
+        "H1817b",
+        "H1817a"
+      ],
+      "toelichting": "Hapax-doblado (Jer 36:23 doblado). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1817c",
+      "hebreeuws": "דלת",
+      "translit": "delet",
+      "woordsoort": "sustantivo",
+      "es_concordant": "puerta",
+      "grondvorm": "puerta",
+      "stamfamilie": [
+        "H1817c"
+      ],
+      "toelichting": "Sustantivo-arquitectonico (Gn 19:6,9,10,11; 43:19; Ex 12:7,22,23; 21:6; Dt 6:9; 11:20; 15:17; 20:5,6,7; Jue 3:23-25; 9:52; 11:31; 16:3; 19:22,27; 1Sa 3:15; 21:13; 23:7; 1Re 6:31,32,34; 14:6; 2Re 4:4,5,33; 6:32; 9:3,10; 12:9; Ne 6:1,10; 7:1; 13:19,22; Pr 8:34; 26:14; Cnt 8:9; Is 6:4; 26:20; 57:8; Eze 8:8; 23:36; 26:2; 33:30; 38:11; 41:11,23-25; 42:2; Mal 1:10). 86 apariciones. Concordante simple.",
+      "voorkomens": 86
+    },
+    {
+      "strong": "H1818",
+      "hebreeuws": "דם",
+      "translit": "dam",
+      "woordsoort": "sustantivo",
+      "es_concordant": "sangre",
+      "grondvorm": "sangre",
+      "stamfamilie": [
+        "H1818"
+      ],
+      "toelichting": "Liquido-vital (Gn 4:10,11; 9:4-6; Lev 17:11 'la-vida-de-la-carne-en-la-sangre-esta'; Dt 12:23; Sal 50:13; 72:14; Is 1:11,15; Jer 19:4; Eze 16:6; 18:13; 33:25; Hab 2:8,12,17; etc.). 361 apariciones. Concordante simple.",
+      "voorkomens": 361
+    },
+    {
+      "strong": "H1819",
+      "hebreeuws": "דָּמָה",
+      "translit": "damah",
+      "woordsoort": "verbo",
+      "es_concordant": "asemejar",
+      "grondvorm": "asemejar",
+      "stamfamilie": [
+        "H1823"
+      ],
+      "toelichting": "Verbo (Gn 34:15,22,23; Sal 49:12,20; Cnt 1:9; Is 14:14; 40:18,25; 46:5; Eze 31:2,8,18; 32:2; Os 4:5,6; 10:7; 12:10; Lam 2:13; Job 30:19; etc.). 29 apariciones. Concordante simple.",
+      "voorkomens": 29
+    },
+    {
+      "strong": "H1820",
+      "hebreeuws": "דָּמָה-II",
+      "translit": "damah-II",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-destruido",
+      "grondvorm": "ser-destruido",
+      "stamfamilie": [
+        "H1826"
+      ],
+      "toelichting": "Verbo (1Sa 2:9; 1Re 13:1; Job 6:5; Sal 49:12,20; Os 4:5,6; 10:7; 10:15; Sof 1:11; Lam 3:49; Jer 6:2; 14:17; 25:37; 47:5; 48:2). 16 apariciones. Hyphenated.",
+      "voorkomens": 16
+    },
+    {
+      "strong": "H1821",
+      "hebreeuws": "דְּמָא",
+      "translit": "dama-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "asemejar-arameo",
+      "grondvorm": "asemejar-arameo",
+      "stamfamilie": [],
+      "toelichting": "Hapax-doblado (Dan 3:25 lectura; 7:5). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1822",
+      "hebreeuws": "דֻּמָה",
+      "translit": "dumah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "estado-silente",
+      "grondvorm": "estado-silente",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Eze 27:32 lectura). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1823",
+      "hebreeuws": "דְּמוּת",
+      "translit": "demut",
+      "woordsoort": "sustantivo",
+      "es_concordant": "semejanza",
+      "grondvorm": "semejanza",
+      "stamfamilie": [
+        "H1819"
+      ],
+      "toelichting": "Sustantivo (Gn 1:26; 5:1,3; 2Re 16:10; 2Cr 4:3; Sal 58:5; Is 13:4; 40:18; Eze 1:5,10,13,16,22,26,28; 8:2,3,4; 10:1,8,10,21,22; 23:15; Dan 10:16). 25 apariciones. Concordante simple.",
+      "voorkomens": 25
+    },
+    {
+      "strong": "H1824",
+      "hebreeuws": "דְּמִי",
+      "translit": "demi",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cesacion-silencio",
+      "grondvorm": "cesacion-silencio",
+      "stamfamilie": [
+        "H1820"
+      ],
+      "toelichting": "Hapax-tendencia (Sal 39:2 lectura; Is 38:10 lectura; 62:6). 3 apariciones. Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H1825",
+      "hebreeuws": "דִּמְיוֹן",
+      "translit": "dimyon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "semejanza-de-leon",
+      "grondvorm": "semejanza-de-leon",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Sal 17:12). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1826a",
+      "hebreeuws": "דָּמַם",
+      "translit": "damam",
+      "woordsoort": "verbo",
+      "es_concordant": "callar",
+      "grondvorm": "callar",
+      "stamfamilie": [
+        "H1827"
+      ],
+      "toelichting": "Verbo-de-quietud (Lev 10:3; Jos 10:12,13; 1Sa 14:9 lectura; 2Sa 13:20; Job 29:21; Sal 4:4; 30:12; 31:17; 35:15; 37:7; Pr 22:9 lectura; Is 23:2; Lam 2:10,18; Am 5:13; Jer 8:14; 25:37; 47:5,6; 48:2; 49:26; 50:30; 51:6; Eze 24:17). 29 apariciones. Concordante simple.",
+      "voorkomens": 29
+    },
+    {
+      "strong": "H1826b",
+      "hebreeuws": "דָּמַם",
+      "translit": "damam-II",
+      "woordsoort": "verbo",
+      "es_concordant": "cesar-de-existir",
+      "grondvorm": "cesar-de-existir",
+      "stamfamilie": [
+        "H1826a"
+      ],
+      "toelichting": "Hapax (Os 4:5 lectura). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1827",
+      "hebreeuws": "דְּמָמָה",
+      "translit": "demamah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "silencio-suave-susurro",
+      "grondvorm": "silencio-suave-susurro",
+      "stamfamilie": [
+        "H1826"
+      ],
+      "toelichting": "Sustantivo (1Re 19:12; Sal 107:29; Job 4:16). 3 apariciones. Hyphenated triple.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H1828",
+      "hebreeuws": "דֹּמֶן",
+      "translit": "domen",
+      "woordsoort": "sustantivo",
+      "es_concordant": "estiercol-abono",
+      "grondvorm": "estiercol-abono",
+      "stamfamilie": [],
+      "toelichting": "Sustantivo (2Re 9:37; Sal 83:10; Jer 8:2; 9:21; 16:4; 25:33). 6 apariciones. Hyphenated.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H1829",
+      "hebreeuws": "דִּמְנָה",
+      "translit": "dimnah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dimna-pn-lugar",
+      "grondvorm": "Dimna-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jos 21:35). Sufijo '-pn-lugar'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1830",
+      "hebreeuws": "דָּמַע",
+      "translit": "dama-tranen-storten",
+      "woordsoort": "verbo",
+      "es_concordant": "derramar-lagrimas",
+      "grondvorm": "derramar-lagrimas",
+      "stamfamilie": [
+        "H1832"
+      ],
+      "toelichting": "Hapax-doblado (Jer 13:17; Job 16:20). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1831",
+      "hebreeuws": "דֶּמַע",
+      "translit": "dema",
+      "woordsoort": "sustantivo",
+      "es_concordant": "primicias-jugo",
+      "grondvorm": "primicias-jugo",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Ex 22:29). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1832",
+      "hebreeuws": "דִּמְעָה",
+      "translit": "dimah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lagrima",
+      "grondvorm": "lagrima",
+      "stamfamilie": [
+        "H1830"
+      ],
+      "toelichting": "Sustantivo (2Re 20:5; Sal 6:6; 39:12; 42:3; 56:8; 80:5; 116:8; 126:5; Job 16:20; Ec 4:1; Is 16:9; 25:8; 38:5; Jer 9:1,18; 13:17; 14:17; 31:16; Lam 1:2; 2:11,18; Mal 2:13). 23 apariciones. Concordante simple.",
+      "voorkomens": 23
+    },
+    {
+      "strong": "H1833",
+      "hebreeuws": "דְּמֶשֶׁק-rust",
+      "translit": "demesheq-zetel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "asiento-de-reposo",
+      "grondvorm": "asiento-de-reposo",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Eze 16:9 lectura). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1834",
+      "hebreeuws": "דַּמֶּשֶׂק",
+      "translit": "dammeseq",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Damasco",
+      "grondvorm": "Damasco",
+      "stamfamilie": [],
+      "toelichting": "Capital-aramea (Gn 14:15; 15:2; 2Sa 8:5,6; 1Re 11:24; 19:15; 20:34; 2Re 5:12; 8:7,9; 14:28; 16:9-12; 1Cr 18:5,6; 2Cr 16:2; 24:23; 28:5,23; Cnt 7:4; Is 7:8; 8:4; 10:9; 17:1,3; Jer 49:23,24,27; Eze 27:18; 47:16-18; 48:1; Am 1:3,5; 3:12; 5:27; Zac 9:1). 45 apariciones. Convencion espanola RV60.",
+      "voorkomens": 45
+    },
+    {
+      "strong": "H1835",
+      "hebreeuws": "דָּן",
+      "translit": "dan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dan",
+      "grondvorm": "Dan",
+      "stamfamilie": [
+        "H1777"
+      ],
+      "toelichting": "Quinto-hijo-de-Jacob y la tribu (Gn 14:14; 30:6; 35:25; 46:23; 49:16-17; Ex 1:4 etc.; Num 1:38-39; 2:25,31; 7:66-71; 10:25; 13:12; 26:42-43; 34:22; Dt 27:13; 33:22; 34:1; Jos 19:40-48; 21:5,23; Jue 5:17; 13:25; 18:1-30; 20:1; 1Sa 3:20; 2Sa 24:6,15; 1Re 4:25; 12:29-30; 15:20; 1Cr 2:2; 7:12; 12:35; 21:2; 27:22; 2Cr 2:13-14; 30:5; Jer 4:15; 8:16; Eze 27:19; 48:1-2,32; Am 8:14). 70 apariciones. Convencion espanola RV60.",
+      "voorkomens": 70
+    },
+    {
+      "strong": "H1836",
+      "hebreeuws": "דְּנָה",
+      "translit": "denah",
+      "woordsoort": "pronombre",
+      "es_concordant": "esto-arameo",
+      "grondvorm": "esto-arameo",
+      "stamfamilie": [],
+      "toelichting": "Pronombre demostrativo arameo (Esd 4:11,15,18,19,22; 5:7-17; 6:11-12; 7:11-22; Dan 2:6-15; 4:24,28,30; 5:24,25; 7:5,16,28). 58 apariciones. Hyphenated.",
+      "voorkomens": 58
+    },
+    {
+      "strong": "H1837",
+      "hebreeuws": "דַּנָּה",
+      "translit": "dannah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dana-pn-lugar",
+      "grondvorm": "Dana-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jos 15:49). Sufijo '-pn-lugar'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1838",
+      "hebreeuws": "דִּנְהָבָה",
+      "translit": "Dinhabah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dinaba",
+      "grondvorm": "Dinaba",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-edomita (Gn 36:32; 1Cr 1:43). 2 apariciones. Convencion espanola RV60.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1839",
+      "hebreeuws": "דָּנִי",
+      "translit": "Dani",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "danita",
+      "grondvorm": "danita",
+      "stamfamilie": [
+        "H1835"
+      ],
+      "toelichting": "Adjetivo gentilicio (Jue 13:2; 18:1,11,30; 1Cr 12:35). 5 apariciones. Convencion espanola RV60.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H1840",
+      "hebreeuws": "דָּנִיֵּאל-II",
+      "translit": "daniel-II",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Daniel-II",
+      "grondvorm": "Daniel-II",
+      "stamfamilie": [],
+      "toelichting": "Hapax-tendencia (Eze 14:14,20; 28:3; Esd 8:2; Neh 10:6; 1Cr 3:1). 32 apariciones. Hyphenated.",
+      "voorkomens": 32
+    },
+    {
+      "strong": "H1841",
+      "hebreeuws": "דָּנִיֵּאל",
+      "translit": "daniel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Daniel",
+      "grondvorm": "Daniel",
+      "stamfamilie": [],
+      "toelichting": "Profeta-en-Babilonia (Dan 1-12; Mt 24:15 NT-eco). 52 apariciones. Convencion espanola RV60.",
+      "voorkomens": 52
+    },
+    {
+      "strong": "H1842",
+      "hebreeuws": "דָּנָה יַּעַן",
+      "translit": "dan-yaan-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dan-Jaan-pn-lugar",
+      "grondvorm": "Dan-Jaan-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (2Sa 24:6). Sufijo '-pn-lugar'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1843",
+      "hebreeuws": "דֵּעַ",
+      "translit": "dea",
+      "woordsoort": "sustantivo",
+      "es_concordant": "saber-dea",
+      "grondvorm": "saber-dea",
+      "stamfamilie": [
+        "H3045"
+      ],
+      "toelichting": "Sustantivo (Job 32:6,10,17; 36:3,4; 37:16). 5 apariciones. Sufijo '-dea' para uniqueness contra H1847.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H1844",
+      "hebreeuws": "דֵּעָה",
+      "translit": "de'ah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "discernimiento-conciencia",
+      "grondvorm": "discernimiento-conciencia",
+      "stamfamilie": [
+        "H1847",
+        "H3045"
+      ],
+      "toelichting": "Sustantivo (1Sa 2:3; Job 36:4; Pr 3:20; 9:10; 11:9; 14:6,18; 24:14; Is 11:9; 28:9; 33:6; 53:11; 58:2; Jer 3:15). 6 apariciones. Hyphenated.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H1845",
+      "hebreeuws": "דְּעוּאֵל",
+      "translit": "De'u'el",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Deuel",
+      "grondvorm": "Deuel",
+      "stamfamilie": [],
+      "toelichting": "Padre-de-Eliasaf-de-Gad (Num 1:14; 7:42,47; 10:20). 4 apariciones. Convencion espanola RV60.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H1846",
+      "hebreeuws": "דָּעַךְ",
+      "translit": "daak",
+      "woordsoort": "verbo",
+      "es_concordant": "extinguir-apagarse",
+      "grondvorm": "extinguir-apagarse",
+      "stamfamilie": [
+        "H3518"
+      ],
+      "toelichting": "Verbo (Job 6:17; 18:5,6; 21:17; Sal 118:12; Pr 13:9; 20:20; 24:20; 31:18; Is 43:17). 9 apariciones. Hyphenated.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H1847",
+      "hebreeuws": "דעת",
+      "translit": "daat",
+      "woordsoort": "sustantivo",
+      "es_concordant": "conocimiento",
+      "grondvorm": "conocimiento",
+      "stamfamilie": [
+        "H1847",
+        "H3045"
+      ],
+      "toelichting": "DECISION CLAVE-10. Sustantivo de yada (Gn 2:9 'arbol-del-conocimiento del bien y el mal'; Ex 31:3; 35:31; Num 24:16; 1Sa 2:3; Job 21:14; 33:3; 34:35; 35:16; 36:12; 38:2; 42:3; Sal 19:2; 73:11; 119:66; 139:6; Pr 1:4,7,22,29; 2:5,6,10; 5:2; 8:9-12; 9:10; 10:14; 11:9; 12:1,23; 13:16; 14:6,7,18; 15:7,14; 17:27; 18:15; 19:2,25,27; 20:15; 21:11; 22:12,17,20; 23:12; 24:4,5; 28:2; 30:3; Ec 1:16,18; 2:21,26; 7:12; 9:10; 12:9; Is 5:13; 11:2,9; 28:9; 32:4; 33:6; 40:14; 44:19,25; 47:10; 53:11; 58:2; Jer 3:15; 10:14; 11:18; 51:17; Os 4:1,6; 6:6; Mal 2:7; Dan 1:4,17; 12:4). 93 apariciones. RV60 'conocimiento/sabiduria'. Concordante simple. Distinto de H2451 chokhmah 'sabiduria' (asignacion posterior) y H8394 tevunah 'entendimiento'.",
+      "voorkomens": 93
+    },
+    {
+      "strong": "H1848",
+      "hebreeuws": "דֹּפִי",
+      "translit": "dofi",
+      "woordsoort": "sustantivo",
+      "es_concordant": "calumnia-fraternal",
+      "grondvorm": "calumnia-fraternal",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Sal 50:20). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1849",
+      "hebreeuws": "דָּפַק",
+      "translit": "dafaq",
+      "woordsoort": "verbo",
+      "es_concordant": "tocar-impeler-empujar",
+      "grondvorm": "tocar-impeler-empujar",
+      "stamfamilie": [],
+      "toelichting": "Verbo (Gn 33:13; Cnt 5:2; Jue 19:22 lectura). 3 apariciones. Hyphenated cuadruple.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H1850",
+      "hebreeuws": "דָּפְקָה",
+      "translit": "Dofqah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dofca-parada",
+      "grondvorm": "Dofca-parada",
+      "stamfamilie": [
+        "H1849"
+      ],
+      "toelichting": "Estacion en el desierto (Num 33:12,13). 2 apariciones. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1851",
+      "hebreeuws": "דַּק",
+      "translit": "daq",
+      "woordsoort": "adjetivo",
+      "es_concordant": "fino",
+      "grondvorm": "fino",
+      "stamfamilie": [
+        "H1854"
+      ],
+      "toelichting": "Adjetivo (Gn 41:3,4,6,7,23,24,27; Lev 13:30; 16:12; 21:20; 1Re 19:12; Is 29:5; Eze 6:14). 14 apariciones. Concordante simple.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H1852",
+      "hebreeuws": "דֹּק",
+      "translit": "doq",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cortina-de-cielo",
+      "grondvorm": "cortina-de-cielo",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Is 40:22). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1853",
+      "hebreeuws": "דִּקְלָה",
+      "translit": "Diqlah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dicla",
+      "grondvorm": "Dicla",
+      "stamfamilie": [],
+      "toelichting": "Hijo-de-Joctan (Gn 10:27; 1Cr 1:21). 2 apariciones. Convencion espanola RV60.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1854",
+      "hebreeuws": "דָּקַק",
+      "translit": "daqaq",
+      "woordsoort": "verbo",
+      "es_concordant": "pulverizar",
+      "grondvorm": "pulverizar",
+      "stamfamilie": [
+        "H1851"
+      ],
+      "toelichting": "Verbo (Ex 30:36; 32:20; Dt 9:21; 2Sa 22:43; 2Re 23:6,15; 2Cr 15:16; 34:4,7; Is 28:28; 41:15). 13 apariciones. Concordante simple.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H1855",
+      "hebreeuws": "דְּקַק",
+      "translit": "deqaq-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "pulverizar-arameo",
+      "grondvorm": "pulverizar-arameo",
+      "stamfamilie": [
+        "H1854"
+      ],
+      "toelichting": "Cognado arameo (Dan 2:34,35,40,44,45; 6:25; 7:7,19,23). 10 apariciones. Hyphenated.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H1856",
+      "hebreeuws": "דָּקַר",
+      "translit": "daqar",
+      "woordsoort": "verbo",
+      "es_concordant": "traspasar",
+      "grondvorm": "traspasar",
+      "stamfamilie": [],
+      "toelichting": "Verbo (Num 25:8; Jue 9:54; 1Sa 31:4; 1Cr 10:4; Is 13:15; Jer 37:10; 51:4; Lam 4:9; Zac 12:10; 13:3). 11 apariciones. Concordante simple.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H1858",
+      "hebreeuws": "דַּר",
+      "translit": "dar-marmer",
+      "woordsoort": "sustantivo",
+      "es_concordant": "nacar-marmol",
+      "grondvorm": "nacar-marmol",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Est 1:6). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1859",
+      "hebreeuws": "דָּר",
+      "translit": "dar-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "generacion-arameo",
+      "grondvorm": "generacion-arameo",
+      "stamfamilie": [
+        "H1755"
+      ],
+      "toelichting": "Cognado arameo (Dan 3:33; 4:3,31). 4 apariciones. Hyphenated.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H1860",
+      "hebreeuws": "דֵּרָאוֹן",
+      "translit": "derraon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "abominacion-desprecio",
+      "grondvorm": "abominacion-desprecio",
+      "stamfamilie": [],
+      "toelichting": "Hapax-doblado (Is 66:24; Dan 12:2). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1861a",
+      "hebreeuws": "דָּרְבָן",
+      "translit": "dorvan-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "aguijon",
+      "grondvorm": "aguijon",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Ec 12:11). Concordante simple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1861b",
+      "hebreeuws": "דָּרְבוֹן",
+      "translit": "drbun",
+      "woordsoort": "sustantivo",
+      "es_concordant": "aguijada-de-buey",
+      "grondvorm": "aguijada-de-buey",
+      "stamfamilie": [
+        "H1861b",
+        "H1861a"
+      ],
+      "toelichting": "Hapax (1Sa 13:21). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1862",
+      "hebreeuws": "דַּרְדַּע",
+      "translit": "drdo",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Darda-pn",
+      "grondvorm": "Darda-pn",
+      "stamfamilie": [
+        "H1862"
+      ],
+      "toelichting": "Hapax (1Cr 2:6). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1863",
+      "hebreeuws": "דַּרְדַּר",
+      "translit": "dardar",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cardo-espina",
+      "grondvorm": "cardo-espina",
+      "stamfamilie": [],
+      "toelichting": "Hapax-doblado (Gn 3:18; Os 10:8). Hyphenated cuadruple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1864",
+      "hebreeuws": "דָּרוֹם",
+      "translit": "darom",
+      "woordsoort": "sustantivo",
+      "es_concordant": "sur-region",
+      "grondvorm": "sur-region",
+      "stamfamilie": [],
+      "toelichting": "Sustantivo (Dt 33:23; Jos 17:9 lectura; Job 37:17; Ec 1:6; Eze 20:46; 21:2,4; 40:24,27,28,44,45; 41:11; 42:12,13,18; 46:9). 17 apariciones. Hyphenated triple.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H1865",
+      "hebreeuws": "דְּרוֹר",
+      "translit": "deror",
+      "woordsoort": "sustantivo",
+      "es_concordant": "libertad",
+      "grondvorm": "libertad",
+      "stamfamilie": [],
+      "toelichting": "Sustantivo (Lev 25:10; Jer 34:8,15,17; Eze 46:17; Is 61:1). 8 apariciones. Concordante simple.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H1866",
+      "hebreeuws": "דְּרוֹר",
+      "translit": "deror-II-zwaluw",
+      "woordsoort": "sustantivo",
+      "es_concordant": "golondrina-deror",
+      "grondvorm": "golondrina-deror",
+      "stamfamilie": [
+        "H1865"
+      ],
+      "toelichting": "Hapax-doblado (Sal 84:3; Pr 26:2). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1867",
+      "hebreeuws": "דָּרְיָוֶשׁ",
+      "translit": "Daryavesh-Aram",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dario-arameo",
+      "grondvorm": "Dario-arameo",
+      "stamfamilie": [
+        "H1868"
+      ],
+      "toelichting": "Cognado arameo (Esd 4:5,24; 5:5-7; 6:1,12-15; Dan 5:31; 6:1-28; 9:1; 11:1; Hag 1:1,15; 2:10; Zac 1:1,7; 7:1). 10 apariciones. Hyphenated.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H1868",
+      "hebreeuws": "דָּרְיָוֶשׁ",
+      "translit": "daryavesh",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dario",
+      "grondvorm": "Dario",
+      "stamfamilie": [],
+      "toelichting": "Rey-persa (Neh 12:22; Hag 1:1; Zac 1:1; Esd 4:5; Dan 5:31). 14 apariciones. Convencion espanola RV60.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H1869",
+      "hebreeuws": "דָּרַךְ",
+      "translit": "darach",
+      "woordsoort": "verbo",
+      "es_concordant": "pisar",
+      "grondvorm": "pisar",
+      "stamfamilie": [
+        "H1870"
+      ],
+      "toelichting": "Verbo (Dt 1:36; 11:24,25; 33:29; Jos 1:3; 14:9; Jue 5:21; 9:27; 20:43 lectura; Job 9:8; 22:15; 24:11; Sal 7:13; 11:2; 25:5; 37:14; 58:7; 64:3; 91:13; 107:7; Pr 4:14; Is 5:28; 11:15; 16:10; 21:15; 25:10; 41:25; 42:3; 48:17; 49:11; 51:23; 53:7; 59:8; 63:2,3; Jer 9:3; 25:30; 46:9; 50:14,29; 51:14,33; 63:2,3; Eze 36:12; Mi 5:5,6; Hab 3:15; Zac 9:13; 10:5). 62 apariciones. Concordante simple.",
+      "voorkomens": 62
+    },
+    {
+      "strong": "H1870",
+      "hebreeuws": "דרך",
+      "translit": "derek",
+      "woordsoort": "sustantivo",
+      "es_concordant": "camino",
+      "grondvorm": "camino",
+      "stamfamilie": [
+        "H1870",
+        "H1869"
+      ],
+      "toelichting": "Senda-fisica-y-conducta-moral (Gn 3:24; 6:12 'todo-cuerpo-corrompio-su-camino'; 18:19; 24:21,27,40; 28:20; 30:36; 31:23; 32:1; 33:16; 35:3,16,19; 38:14,16,21; 42:38; 45:21,23,24; 48:7; 49:17; Ex 13:17,18; 18:8,20; 23:20; 32:8; 33:3,13; Lev 26:22; Num 9:13; 14:25; 20:17; 21:1,4,22,33; 22:23,32,34; 24:25; Dt 1:2,19,22,33,40; 2:1,8,27; 3:1; 5:33; 6:7; 8:2,6; 9:12,16; 10:12; 11:19,22,28,30; 13:5; 14:24; 17:16; 19:3,6,9; 22:6,26; 23:4; 24:9; 25:17,18; 26:17; 27:18; 28:7,9,25,68; 30:16; 31:29; 32:4 'todos-sus-caminos son juicio'; Sal 1:1,6; 18:21,32; 25:4,9,12; 27:11; 32:8; 37:5,7,23,34; 51:13; 67:2; 86:11; 89:1; 119:1,3,5,9,14,26,29-37,59,75 etc.; Pr 1:31; 2:8,12,13; 3:6,17,23; 4:11,14,18,19; 8:13,32; 12:15,28; 14:12 'hay camino que parece derecho'; 16:2; 16:25; 22:6 'instruye al nino en su camino'; Is 30:21 'este es el camino, andad por el'; 53:6 'cada cual se aparto por su camino'; Jer 6:16 'preguntad por las sendas antiguas'; 21:8; 31:9; 50:5; Hag 1:5,7; etc.). 712 apariciones. Concordante simple.",
+      "voorkomens": 712
+    },
+    {
+      "strong": "H1871",
+      "hebreeuws": "דַּרְדַּע",
+      "translit": "Darda",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Darda",
+      "grondvorm": "Darda",
+      "stamfamilie": [],
+      "toelichting": "Sabio (1Re 4:31). 5 apariciones. Convencion espanola RV60.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H1872",
+      "hebreeuws": "דְּרָע",
+      "translit": "dro",
+      "woordsoort": "sustantivo",
+      "es_concordant": "brazo-arameo-dro",
+      "grondvorm": "brazo-arameo-dro",
+      "stamfamilie": [
+        "H1872",
+        "H2220"
+      ],
+      "toelichting": "Hapax (Dan 2:32). Hyphenated triple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1873",
+      "hebreeuws": "דָּרַע",
+      "translit": "dara-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dara-pn",
+      "grondvorm": "Dara-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 2:6). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1874",
+      "hebreeuws": "דַּרְקוֹן",
+      "translit": "Darkon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Darcon",
+      "grondvorm": "Darcon",
+      "stamfamilie": [],
+      "toelichting": "Familia-de-siervos-de-Salomon (Esd 2:56; Neh 7:58). 2 apariciones. Convencion espanola RV60.",
+      "voorkomens": 2,
+      "notes": "Solomon-servants-clan"
+    },
+    {
+      "strong": "H1875",
+      "hebreeuws": "דרש",
+      "translit": "darash",
+      "woordsoort": "verbo",
+      "es_concordant": "consultar",
+      "grondvorm": "consultar",
+      "stamfamilie": [
+        "H1875"
+      ],
+      "toelichting": "Verbo (Gn 9:5; 25:22; Ex 18:15; Lev 10:16; Dt 4:29; 11:12; 12:5,30; 13:14; 17:4,9; 18:11,19; 19:18; 22:2; 23:6,21; Jue 6:29; 1Sa 9:9; 28:7; 1Cr 13:3; 21:30; 22:19; 28:8,9; 2Cr 1:5; 12:14; 14:4,7; 15:2,12,13; 16:12; 17:3,4; 18:6,7; 19:3; 20:3,4; 22:9; 25:15,20; 26:5; 30:19; 31:9,21; 34:3,21,26; Esd 4:15; 6:1; 7:10; 10:16; Neh 13:21; Job 3:4; 5:8; 10:6; 39:8; Sal 9:10; 10:4,13,15; 14:2; 22:26; 24:6; 34:4,10; 53:2; 69:32; 77:2; 78:34; 105:4,45; 109:10; 111:2; 119:2,10,45,94,155; 142:4; Is 1:17; 8:19; 9:13; 11:10; 16:5; 19:3; 31:1; 34:16; 55:6; 58:2; 65:1,10; Jer 8:2; 10:21; 21:2; 29:13; 30:14,17; 37:7; 38:4; 50:4; Lam 3:25; Eze 14:3,7,10; 20:1,3,31,40; 33:6; 34:6,8,10,11; 36:37; Os 10:12; Am 5:4,5,6,14; Mi 6:8; Zac 8:21,22; 12:3). 166 apariciones. Concordante simple.",
+      "voorkomens": 166
+    },
+    {
+      "strong": "H1876",
+      "hebreeuws": "דָּשָׁא",
+      "translit": "dasha",
+      "woordsoort": "verbo",
+      "es_concordant": "germinar-frescamente",
+      "grondvorm": "germinar-frescamente",
+      "stamfamilie": [
+        "H1877"
+      ],
+      "toelichting": "Hapax-doblado (Gn 1:11; Joel 2:22). Hyphenated triple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1877",
+      "hebreeuws": "דֶּשֶׁא",
+      "translit": "deshe",
+      "woordsoort": "sustantivo",
+      "es_concordant": "hierba-tierna",
+      "grondvorm": "hierba-tierna",
+      "stamfamilie": [],
+      "toelichting": "Sustantivo (Gn 1:11,12; Dt 32:2; 2Sa 23:4; 2Re 19:26; Job 6:5; 38:27; Sal 23:2; 37:2; Pr 27:25; Is 15:6; 37:27; 66:14; Jer 14:5,6; 50:11). 15 apariciones. Hyphenated.",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H1878",
+      "hebreeuws": "דָשֵׁן",
+      "translit": "dashen",
+      "woordsoort": "verbo",
+      "es_concordant": "engordar",
+      "grondvorm": "engordar",
+      "stamfamilie": [
+        "H1880"
+      ],
+      "toelichting": "Verbo (Dt 31:20; Sal 20:3; 23:5; 92:14; 141:5; Pr 11:25; 13:4; 15:30; 28:25; Is 30:23; 34:6,7; Jer 5:28). 11 apariciones. Hyphenated.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H1879",
+      "hebreeuws": "דָּשֵׁן",
+      "translit": "dashen-adj",
+      "woordsoort": "adjetivo",
+      "es_concordant": "bien-alimentado-graso",
+      "grondvorm": "bien-alimentado-graso",
+      "stamfamilie": [
+        "H1878"
+      ],
+      "toelichting": "Adjetivo (Sal 22:29; 92:15; Is 30:23). 3 apariciones. Hyphenated triple.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H1880",
+      "hebreeuws": "דֶּשֶׁן",
+      "translit": "deshen",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ceniza-grasa",
+      "grondvorm": "ceniza-grasa",
+      "stamfamilie": [
+        "H1878"
+      ],
+      "toelichting": "Sustantivo (Lev 1:16; 4:12; 6:10,11; 1Re 13:3,5; Sal 36:9; 63:6; 65:11; Is 55:2; Jer 31:14). 15 apariciones. Hyphenated.",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H1881",
+      "hebreeuws": "דָּת",
+      "translit": "dat",
+      "woordsoort": "sustantivo",
+      "es_concordant": "decreto",
+      "grondvorm": "decreto",
+      "stamfamilie": [],
+      "toelichting": "Sustantivo (Dt 33:2 lectura; Est 1:8,13,15,19; 2:8; 3:8,14,15; 4:3,8,11,16; 8:13,14,17; 9:1,13,14; Esd 8:36). 22 apariciones. Concordante simple.",
+      "voorkomens": 22
+    },
+    {
+      "strong": "H1882",
+      "hebreeuws": "דָּת",
+      "translit": "dat-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "decreto-arameo-dat",
+      "grondvorm": "decreto-arameo-dat",
+      "stamfamilie": [
+        "H1881"
+      ],
+      "toelichting": "Cognado arameo (Esd 7:12,14,21,25,26; 8:36; Dan 2:9,13,15; 6:5,8,12,15; 7:25). 14 apariciones. Hyphenated triple.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H1883",
+      "hebreeuws": "דֶּתֶא",
+      "translit": "deethe-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "pasto-verde-arameo",
+      "grondvorm": "pasto-verde-arameo",
+      "stamfamilie": [
+        "H1877"
+      ],
+      "toelichting": "Cognado arameo (Dan 4:15,23). 2 apariciones. Hyphenated triple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1884",
+      "hebreeuws": "דְּתָבָר",
+      "translit": "dethavar-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "letrado-arameo",
+      "grondvorm": "letrado-arameo",
+      "stamfamilie": [],
+      "toelichting": "Hapax-doblado (Dan 3:2,3). Hyphenated triple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1885",
+      "hebreeuws": "דָּתָן",
+      "translit": "Datan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Datan",
+      "grondvorm": "Datan",
+      "stamfamilie": [],
+      "toelichting": "Rebelde-con-Coré (Num 16:1,12,24,25,27; 26:9; Dt 11:6; Sal 106:17). 10 apariciones. Convencion espanola RV60.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H1886",
+      "hebreeuws": "דֹּתָן",
+      "translit": "Dotan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Dotan",
+      "grondvorm": "Dotan",
+      "stamfamilie": [],
+      "toelichting": "Lugar-donde-Jose-fue-vendido (Gn 37:17 doblado; 2Re 6:13). 3 apariciones. Convencion espanola RV60.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H1887",
+      "hebreeuws": "הֵא",
+      "translit": "he-zie",
+      "woordsoort": "interjeccion",
+      "es_concordant": "he-aqui-senalando",
+      "grondvorm": "he-aqui-senalando",
+      "stamfamilie": [],
+      "toelichting": "Hapax-doblado (Gn 47:23; Eze 16:43). Hyphenated triple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1888a",
+      "hebreeuws": "הֵא",
+      "translit": "he-Aram-zie",
+      "woordsoort": "interjeccion",
+      "es_concordant": "he-aqui-arameo-he",
+      "grondvorm": "he-aqui-arameo-he",
+      "stamfamilie": [
+        "H1888b"
+      ],
+      "toelichting": "Hapax (Dan 3:25 lectura). Hyphenated cuadruple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1888b",
+      "hebreeuws": "הֵא",
+      "translit": "ea",
+      "woordsoort": "interjeccion",
+      "es_concordant": "ahi-arameo-ea",
+      "grondvorm": "ahi-arameo-ea",
+      "stamfamilie": [
+        "H1888b",
+        "H1888a"
+      ],
+      "toelichting": "Hapax (Dan 7:8 lectura). Hyphenated triple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1889",
+      "hebreeuws": "הֶאָח",
+      "translit": "heach",
+      "woordsoort": "interjeccion",
+      "es_concordant": "Aja-burla",
+      "grondvorm": "Aja-burla",
+      "stamfamilie": [],
+      "toelichting": "Particula-de-burla (Sal 35:21,25; 40:15; 70:3; Is 44:16; Eze 25:3; 26:2; 36:2; Job 39:25). 12 apariciones. Hyphenated para uniqueness contra H345.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H1890",
+      "hebreeuws": "הַבְהָב",
+      "translit": "havhav",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ofrenda-dones-havhav",
+      "grondvorm": "ofrenda-dones-havhav",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Os 8:13 lectura). Hyphenated triple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1891",
+      "hebreeuws": "הָבַל",
+      "translit": "haval",
+      "woordsoort": "verbo",
+      "es_concordant": "seguir-vanidad",
+      "grondvorm": "seguir-vanidad",
+      "stamfamilie": [
+        "H1892"
+      ],
+      "toelichting": "Verbo (Job 27:12; Sal 62:10 lectura; Jer 2:5; 23:16; 2Re 17:15). 5 apariciones. Hyphenated.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H1892",
+      "hebreeuws": "הֶבֶל",
+      "translit": "hevel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "vapor-fugaz",
+      "grondvorm": "vapor-fugaz",
+      "stamfamilie": [],
+      "toelichting": "DECISION CLAVE-11. Sustantivo abstracto, palabra-clave-de-Eclesiastes (Ec 1:2 'vanidad-de-vanidades, todo es vanidad' = hevel-havalim, hakkol hevel). 73 apariciones. RV60 'vanidad/vapor'. Considerado: vanidad, vapor, soplo, ilusion, niebla. La raiz hevel significa 'vapor/aliento-de-aire'. 'Vapor-fugaz' preserva la imagen-fisica original (algo-que-se-disipa-rapidamente) sin el sentido moralizante 'vanidad/orgullo' que carga el espanol. NL/EN siguen el mismo patron (NL 'damp-vluchtigheid', EN 'vapour-fleeting'). Hyphenated.",
+      "voorkomens": 73
+    },
+    {
+      "strong": "H1893",
+      "hebreeuws": "הֶבֶל",
+      "translit": "Hevel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Abel",
+      "grondvorm": "Abel",
+      "stamfamilie": [
+        "H1892"
+      ],
+      "toelichting": "Segundo hijo de Adan, asesinado por Cain (Gn 4:2-25 'su hermano Abel'; Heb 11:4; 12:24 NT-eco). 8 apariciones. Convencion espanola RV60.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H1894",
+      "hebreeuws": "בֹּהַן",
+      "translit": "bohen-witkalk",
+      "woordsoort": "sustantivo",
+      "es_concordant": "creta-toba",
+      "grondvorm": "creta-toba",
+      "stamfamilie": [],
+      "toelichting": "Hapax-doblado (Is 27:9; Pr 26:23 lectura). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H1895",
+      "hebreeuws": "הָבַר",
+      "translit": "havar-sterrenwichelaar",
+      "woordsoort": "verbo",
+      "es_concordant": "dividir-en-astrologia",
+      "grondvorm": "dividir-en-astrologia",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Is 47:13). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1896",
+      "hebreeuws": "הֵגֶא",
+      "translit": "Hege",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Hegai-eunuco",
+      "grondvorm": "Hegai-eunuco",
+      "stamfamilie": [],
+      "toelichting": "Eunuco-de-Asuero-cuidador-de-virgenes (Est 2:3,8,15; 1:16). 4 apariciones. Hyphenated.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H1897",
+      "hebreeuws": "הָגָה",
+      "translit": "hagah",
+      "woordsoort": "verbo",
+      "es_concordant": "meditar-musitar",
+      "grondvorm": "meditar-musitar",
+      "stamfamilie": [
+        "H1899",
+        "H1900",
+        "H1902"
+      ],
+      "toelichting": "Verbo (Sal 1:2 'en-su-ley meditara'; 2:1 'piensan vacuidad'; 35:28; 37:30; 38:12; 63:6; 71:24; 77:12; 115:7; 143:5; Jos 1:8; Pr 8:7; 15:28; 24:2; Is 8:19; 16:7; 27:8; 31:4; 33:18; 38:14; 59:3,11,13; Jer 48:31; Lam 3:62; Job 27:4). 25 apariciones. Hyphenated.",
+      "voorkomens": 25
+    },
+    {
+      "strong": "H1898",
+      "hebreeuws": "הָגָה",
+      "translit": "hagah-verwijderen",
+      "woordsoort": "verbo",
+      "es_concordant": "remover-quitar",
+      "grondvorm": "remover-quitar",
+      "stamfamilie": [
+        "H1897"
+      ],
+      "toelichting": "Hapax-tendencia (2Sa 20:13; Pr 25:4,5; Is 27:8 lectura). 3 apariciones. Hyphenated triple.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H1899",
+      "hebreeuws": "הֶגֶה",
+      "translit": "hegeh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "murmullo",
+      "grondvorm": "murmullo",
+      "stamfamilie": [
+        "H1897"
+      ],
+      "toelichting": "Hapax-tendencia (Sal 90:9; 92:3; Eze 2:10; Job 37:2). 3 apariciones. Concordante simple.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H1900",
+      "hebreeuws": "הָגוּת",
+      "translit": "hagut",
+      "woordsoort": "sustantivo",
+      "es_concordant": "meditacion-hagut",
+      "grondvorm": "meditacion-hagut",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Sal 49:3). Sufijo '-hagut' para uniqueness.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1901",
+      "hebreeuws": "הָגִיג",
+      "translit": "hagig",
+      "woordsoort": "sustantivo",
+      "es_concordant": "murmullo-interior",
+      "grondvorm": "murmullo-interior",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Sal 5:1). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1902",
+      "hebreeuws": "הִגָּיוֹן",
+      "translit": "higgayon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "meditacion-higgayon",
+      "grondvorm": "meditacion-higgayon",
+      "stamfamilie": [
+        "H1897"
+      ],
+      "toelichting": "Sustantivo (Sal 9:16; 19:14; 92:3; Lam 3:62). 4 apariciones. Sufijo '-higgayon' para uniqueness.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H1903",
+      "hebreeuws": "הָגִיג",
+      "translit": "egig",
+      "woordsoort": "sustantivo",
+      "es_concordant": "proteccion-incierta",
+      "grondvorm": "proteccion-incierta",
+      "stamfamilie": [
+        "H1903"
+      ],
+      "toelichting": "Hapax (Eze 42:12 lectura). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1904",
+      "hebreeuws": "הָגָר",
+      "translit": "hagar",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Agar",
+      "grondvorm": "Agar",
+      "stamfamilie": [],
+      "toelichting": "Sirvienta-egipcia de Sara, madre-de-Ismael (Gn 16:1-15; 21:9-21; 25:12). 12 apariciones. Convencion espanola RV60.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H1905",
+      "hebreeuws": "הַגְרִי",
+      "translit": "Hagri",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Hagrita",
+      "grondvorm": "Hagrita",
+      "stamfamilie": [],
+      "toelichting": "Pueblo-arabe (1Cr 5:10,19,20; 11:38; 27:31; Sal 83:6). 6 apariciones. Convencion espanola RV60.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H1906",
+      "hebreeuws": "הֵד",
+      "translit": "hed",
+      "woordsoort": "sustantivo",
+      "es_concordant": "eco-rumor",
+      "grondvorm": "eco-rumor",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Eze 7:7). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1907",
+      "hebreeuws": "הַדָּבָר",
+      "translit": "haddabar-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "consejero-arameo",
+      "grondvorm": "consejero-arameo",
+      "stamfamilie": [],
+      "toelichting": "Cognado arameo (Dan 3:24,27; 4:36; 6:7). 4 apariciones. Hyphenated.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H1908",
+      "hebreeuws": "הֲדַד",
+      "translit": "Hadad",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Hadad",
+      "grondvorm": "Hadad",
+      "stamfamilie": [],
+      "toelichting": "Multiples reyes-edomitas y arameos (Gn 25:15; 36:35,36,39; 1Re 11:14-25; 1Cr 1:30,46,50,51). 12 apariciones. Convencion espanola RV60.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H1909",
+      "hebreeuws": "הֲדַדְעֶזֶר",
+      "translit": "hadad-ezer",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Hadadezer",
+      "grondvorm": "Hadadezer",
+      "stamfamilie": [],
+      "toelichting": "Rey-arameo de Soba (2Sa 8:3-12; 10:16,19; 1Re 11:23; 1Cr 18:3-10; 19:16,19). 21 apariciones. Convencion espanola RV60.",
+      "voorkomens": 21
+    },
+    {
+      "strong": "H1910",
+      "hebreeuws": "הֲדַד־רִמּוֹן",
+      "translit": "hadad-rimmon-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Hadad-Rimon-pn-lugar",
+      "grondvorm": "Hadad-Rimon-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Zac 12:11). Sufijo '-pn-lugar'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1911",
+      "hebreeuws": "הָדָה",
+      "translit": "hadah",
+      "woordsoort": "verbo",
+      "es_concordant": "extender-mano",
+      "grondvorm": "extender-mano",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Is 16:4 lectura). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1912",
+      "hebreeuws": "הֹדּוּ",
+      "translit": "Hoddu",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Hodu-India",
+      "grondvorm": "Hodu-India",
+      "stamfamilie": [],
+      "toelichting": "Hapax-doblado (Est 1:1; 8:9). Hyphenated.",
+      "voorkomens": 2,
+      "notes": "Persian-empire-border"
+    },
+    {
+      "strong": "H1913a",
+      "hebreeuws": "הֲדוֹרָם",
+      "translit": "Hadoram-I",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Hadoram-hijo-pueblo",
+      "grondvorm": "Hadoram-hijo-pueblo",
+      "stamfamilie": [],
+      "toelichting": "Hijo-de-Joctan (Gn 10:27; 1Cr 1:21) y siervo-de-Tou (1Cr 18:10). 3 apariciones. Hyphenated triple.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H1913b",
+      "hebreeuws": "הֲדֹרָם",
+      "translit": "hadoram-II-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Hadoram-pn-Roboam",
+      "grondvorm": "Hadoram-pn-Roboam",
+      "stamfamilie": [
+        "H1913a"
+      ],
+      "toelichting": "Hapax (2Cr 10:18). Variante de Adoram. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1914",
+      "hebreeuws": "הִדַּי",
+      "translit": "hidday-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Hidai-pn",
+      "grondvorm": "Hidai-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (2Sa 23:30). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1915",
+      "hebreeuws": "הָדַךְ",
+      "translit": "hadach",
+      "woordsoort": "verbo",
+      "es_concordant": "pisotear",
+      "grondvorm": "pisotear",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Job 40:12). Concordante simple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1916",
+      "hebreeuws": "הֲדֹם",
+      "translit": "hadom",
+      "woordsoort": "sustantivo",
+      "es_concordant": "estrado",
+      "grondvorm": "estrado",
+      "stamfamilie": [],
+      "toelichting": "Sustantivo (1Cr 28:2; Sal 99:5; 110:1; 132:7; Is 66:1; Lam 2:1). 6 apariciones. Concordante simple.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H1917",
+      "hebreeuws": "הַדָּם",
+      "translit": "haddam-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "pieza-arameo",
+      "grondvorm": "pieza-arameo",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Dan 2:5; 3:29). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1918",
+      "hebreeuws": "הֲדַס",
+      "translit": "hadas",
+      "woordsoort": "sustantivo",
+      "es_concordant": "mirto-arbusto",
+      "grondvorm": "mirto-arbusto",
+      "stamfamilie": [],
+      "toelichting": "Sustantivo (Neh 8:15; Is 41:19; 55:13; Zac 1:8,10,11). 6 apariciones. Hyphenated.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H1919",
+      "hebreeuws": "הֲדַסָּה",
+      "translit": "hadassah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Hadasa-pn",
+      "grondvorm": "Hadasa-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Est 2:7). Nombre-hebreo-de-Ester. Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1920",
+      "hebreeuws": "הָדַף",
+      "translit": "hadaf",
+      "woordsoort": "verbo",
+      "es_concordant": "empujar-rechazar",
+      "grondvorm": "empujar-rechazar",
+      "stamfamilie": [],
+      "toelichting": "Verbo (Num 35:20,22; Dt 6:19; 9:4; 2Re 4:27; Pr 10:3; Jer 23:2; 46:15; Eze 34:21; Joel 2:8; Sal 5:10; 117:7). 11 apariciones. Hyphenated.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H1921",
+      "hebreeuws": "הָדַר",
+      "translit": "hadar",
+      "woordsoort": "verbo",
+      "es_concordant": "honrar-realzar",
+      "grondvorm": "honrar-realzar",
+      "stamfamilie": [
+        "H1926",
+        "H1927"
+      ],
+      "toelichting": "Verbo (Ex 23:3; Lev 19:15,32; Dt 5:5; Sal 12:8 lectura; Pr 25:6; Is 45:2,15 lectura; 63:1; Lam 5:12). 7 apariciones. Hyphenated triple.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H1922",
+      "hebreeuws": "הֲדַר",
+      "translit": "hadar-verheerlijken-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "glorificar-arameo",
+      "grondvorm": "glorificar-arameo",
+      "stamfamilie": [
+        "H1921"
+      ],
+      "toelichting": "Cognado arameo (Dan 4:31,34,37; 5:23). 3 apariciones. Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H1923",
+      "hebreeuws": "הֲדַר",
+      "translit": "hadar-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "majestad-arameo",
+      "grondvorm": "majestad-arameo",
+      "stamfamilie": [
+        "H1921"
+      ],
+      "toelichting": "Cognado arameo (Dan 4:30,36; 5:18). 3 apariciones. Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H1924",
+      "hebreeuws": "הֲדַר",
+      "translit": "hadar-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Hadar-pn",
+      "grondvorm": "Hadar-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Gn 36:39 lectura). Variante de Hadad. Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H1925",
+      "hebreeuws": "הֶדֶר",
+      "translit": "heder-glans",
+      "woordsoort": "sustantivo",
+      "es_concordant": "esplendor-real",
+      "grondvorm": "esplendor-real",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Dan 11:20 lectura). Hyphenated.",
+      "voorkomens": 1
+    }
+  ]
+}

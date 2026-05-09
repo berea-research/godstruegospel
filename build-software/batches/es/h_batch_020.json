@@ -1,0 +1,1211 @@
+{
+  "batch_id": "h_batch_020",
+  "script": "heb",
+  "datum": "2026-05-01",
+  "entries": [
+    {
+      "strong": "H3775",
+      "hebreeuws": "כֶּשֶׂב",
+      "translit": "kesev",
+      "woordsoort": "sustantivo",
+      "es_concordant": "carnero-cordero-macho",
+      "grondvorm": "carnero-cordero-macho",
+      "stamfamilie": [
+        "H3776"
+      ],
+      "toelichting": "Cordero-macho-joven para sacrificio (metátesis de keves).",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H3776",
+      "hebreeuws": "כִּשְׂבָּה",
+      "translit": "kisbah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cordera-femenina",
+      "grondvorm": "cordera-femenina",
+      "stamfamilie": [
+        "H3775"
+      ],
+      "toelichting": "Hapax Lv 5:6 ofrenda-culpa-cordera o cabra; femenino H3775 kesev.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3777",
+      "hebreeuws": "כֶּשֶׂד",
+      "translit": "kesed",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Kesed-pn",
+      "grondvorm": "Kesed-pn",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Nacor; Gn 22:22.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3778",
+      "hebreeuws": "כַּשְׂדִּים",
+      "translit": "kasdim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Caldeos-pn",
+      "grondvorm": "Caldeos-pn",
+      "stamfamilie": [],
+      "toelichting": "Convención-castellana Caldeos.",
+      "voorkomens": 80
+    },
+    {
+      "strong": "H3779",
+      "hebreeuws": "כַּשְׂדָּי",
+      "translit": "kasdai-Aram",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Caldeos-arameo-pn-casta",
+      "grondvorm": "Caldeos-arameo-pn-casta",
+      "stamfamilie": [
+        "H3778"
+      ],
+      "toelichting": "Casta-aramea-astrólogos en Daniel (Dn 2:10; 3:8; 4:4; 5:7,11,30; 9:1; 11:1; Esd 5:12).",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H3780",
+      "hebreeuws": "כָּשָׂה",
+      "translit": "kasah",
+      "woordsoort": "verbo",
+      "es_concordant": "engordar-kasah",
+      "grondvorm": "engordar-kasah",
+      "stamfamilie": [],
+      "toelichting": "Qal; Yesurún engordó y rebeló; Dt 32:15.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3781",
+      "hebreeuws": "כַּשִּׁיל",
+      "translit": "kashshil",
+      "woordsoort": "sustantivo",
+      "es_concordant": "hacha-cortar",
+      "grondvorm": "hacha-cortar",
+      "stamfamilie": [],
+      "toelichting": "Enemigos-cortan-puertas-templo con hachas; Sal 74:6.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3782",
+      "hebreeuws": "כָּשַׁל",
+      "translit": "kashal",
+      "woordsoort": "verbo",
+      "es_concordant": "tropezar",
+      "grondvorm": "tropezar",
+      "stamfamilie": [
+        "H3783"
+      ],
+      "toelichting": "Qal: tambalear, caer, fracasar (también ético-metafóricamente).",
+      "voorkomens": 65
+    },
+    {
+      "strong": "H3783",
+      "hebreeuws": "כִּשָּׁלוֹן",
+      "translit": "kishshalon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tropiezo",
+      "grondvorm": "tropiezo",
+      "stamfamilie": [
+        "H3782"
+      ],
+      "toelichting": "Antes-de-caída viene-tropiezo-orgullo; Pr 16:18.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3784",
+      "hebreeuws": "כָּשַׁף",
+      "translit": "kashaf",
+      "woordsoort": "verbo",
+      "es_concordant": "hacer-hechiceria",
+      "grondvorm": "hacer-hechiceria",
+      "stamfamilie": [
+        "H3785",
+        "H3786"
+      ],
+      "toelichting": "Practicar hechicería con conjuro (Ex 7:11; 22:17; Dt 18:10; 2Cr 33:6; Dn 2:2; Mal 3:5).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H3785",
+      "hebreeuws": "כֶּשֶׁף",
+      "translit": "keshef",
+      "woordsoort": "sustantivo",
+      "es_concordant": "hechiceria",
+      "grondvorm": "hechiceria",
+      "stamfamilie": [
+        "H3784"
+      ],
+      "toelichting": "Arte-mágica-encantadora prohibida (2Re 9:22; Is 47:9,12; Mi 5:11; Nah 3:4).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H3786",
+      "hebreeuws": "כַּשָּׁף",
+      "translit": "kashshaf",
+      "woordsoort": "sustantivo",
+      "es_concordant": "hechicero",
+      "grondvorm": "hechicero",
+      "stamfamilie": [
+        "H3784"
+      ],
+      "toelichting": "Pueblo-no-escuchar a hechiceros-y-adivinos; Jer 27:9.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3787",
+      "hebreeuws": "כָּשֵׁר",
+      "translit": "kasher",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-correcto",
+      "grondvorm": "ser-correcto",
+      "stamfamilie": [
+        "H3788"
+      ],
+      "toelichting": "Qal; 'si-pareciera-correcto-al-rey'; Est 8:5.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3788",
+      "hebreeuws": "כִּשְׁרוֹן",
+      "translit": "kishron",
+      "woordsoort": "sustantivo",
+      "es_concordant": "destreza-exito",
+      "grondvorm": "destreza-exito",
+      "stamfamilie": [
+        "H3787"
+      ],
+      "toelichting": "Raíz kshr (ser-hábil, lograr); rendimiento-laboral Eclesiastés.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3789",
+      "hebreeuws": "כָּתַב",
+      "translit": "katav",
+      "woordsoort": "verbo",
+      "es_concordant": "escribir",
+      "grondvorm": "escribir",
+      "stamfamilie": [
+        "H3791"
+      ],
+      "toelichting": "Raíz ktb. 'Escribir' estándar.",
+      "voorkomens": 228
+    },
+    {
+      "strong": "H3790",
+      "hebreeuws": "כְּתַב",
+      "translit": "ketav-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "escribir-arameo",
+      "grondvorm": "escribir-arameo",
+      "stamfamilie": [
+        "H3789"
+      ],
+      "toelichting": "Cognado-arameo de katav 'escribir'; exclusivo Esd-Daniel (Esd 4:8; 5:10; Dn 5:5,15,24,25; 6:9,10,11,26).",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H3791",
+      "hebreeuws": "כְּתָב",
+      "translit": "ketav",
+      "woordsoort": "sustantivo",
+      "es_concordant": "escrito",
+      "grondvorm": "escrito",
+      "stamfamilie": [
+        "H3789"
+      ],
+      "toelichting": "De katav (escribir); documento-escrito (edicto, registro, plano).",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H3792",
+      "hebreeuws": "כְּתָב",
+      "translit": "ketav-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "escrito-arameo",
+      "grondvorm": "escrito-arameo",
+      "stamfamilie": [
+        "H3791"
+      ],
+      "toelichting": "Forma-aramea de ketav (H3791); documento-oficial (Esd 4:7; 6:18; 7:22; Dn 5:7-8,15-17,24-25; 6:8-10).",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H3793",
+      "hebreeuws": "כְּתֹבֶת",
+      "translit": "ketovet",
+      "woordsoort": "sustantivo",
+      "es_concordant": "marca-incision",
+      "grondvorm": "marca-incision",
+      "stamfamilie": [],
+      "toelichting": "Marca-incisa en carne prohibida; Lv 19:28.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3794",
+      "hebreeuws": "כִּתִּים",
+      "translit": "kittim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Quitim-pn",
+      "grondvorm": "Quitim-pn",
+      "stamfamilie": [],
+      "toelichting": "Originalmente nombre para Chipre (Jafet-nieto vía Yavan, Gn 10:4; 1Cr 1:7), extendido a todos los pueblos costeros del Oeste-Mediterráneo.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H3795",
+      "hebreeuws": "כָּתִית",
+      "translit": "kathith",
+      "woordsoort": "adjetivo",
+      "es_concordant": "machacado-puro",
+      "grondvorm": "machacado-puro",
+      "stamfamilie": [],
+      "toelichting": "Aceite-machacado-puro para lámparas (Ex 27:20; 29:40; Lv 24:2; Nm 28:5).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H3796",
+      "hebreeuws": "כֹּתֶל",
+      "translit": "kothel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "muro-Cantar",
+      "grondvorm": "muro-Cantar",
+      "stamfamilie": [],
+      "toelichting": "Hapax Cnt 2:9 amado-está-tras-nuestra-pared; posible préstamo-arameo.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3797",
+      "hebreeuws": "כְּתַל",
+      "translit": "ketal-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "muro-arameo-ketal",
+      "grondvorm": "muro-arameo-ketal",
+      "stamfamilie": [
+        "H3796"
+      ],
+      "toelichting": "Muros-de-piedra del templo-reconstrucción — Esd 5:8 y la pared-escritura en Dn 5:5.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3798",
+      "hebreeuws": "כִּתְלִישׁ",
+      "translit": "kitlish",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Kitlish-pn-lugar",
+      "grondvorm": "Kitlish-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-Judá-llanura; Jos 15:40.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3799",
+      "hebreeuws": "כָּתַם",
+      "translit": "katam",
+      "woordsoort": "verbo",
+      "es_concordant": "manchar-por-pecado",
+      "grondvorm": "manchar-por-pecado",
+      "stamfamilie": [],
+      "toelichting": "Nifal; tu-impureza está-manchada-ante-Mí; Jer 2:22.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3800",
+      "hebreeuws": "כֶּתֶם",
+      "translit": "ketem",
+      "woordsoort": "sustantivo",
+      "es_concordant": "oro-fino-ketem",
+      "grondvorm": "oro-fino-ketem",
+      "stamfamilie": [],
+      "toelichting": "Término-poético para oro-refinado distinto de H2091 zahav por aspecto-noble-sublime.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H3801",
+      "hebreeuws": "כְּתֹנֶת",
+      "translit": "ketonet",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tunica",
+      "grondvorm": "tunica",
+      "stamfamilie": [],
+      "toelichting": "Vestido-base directamente sobre cuerpo, también túnica-sacerdotal.",
+      "voorkomens": 29
+    },
+    {
+      "strong": "H3802",
+      "hebreeuws": "כָּתֵף",
+      "translit": "katef",
+      "woordsoort": "sustantivo",
+      "es_concordant": "hombro",
+      "grondvorm": "hombro",
+      "stamfamilie": [],
+      "toelichting": "Hombro-anatómico + metáfora ladera (montaña, edificio).",
+      "voorkomens": 67
+    },
+    {
+      "strong": "H3803",
+      "hebreeuws": "כָּתַר",
+      "translit": "kathar",
+      "woordsoort": "verbo",
+      "es_concordant": "rodear-cercar",
+      "grondvorm": "rodear-cercar",
+      "stamfamilie": [
+        "H3804"
+      ],
+      "toelichting": "Como-corona-rodear para asaltar (Jue 20:43; Job 36:2; Sal 22:13; 142:8; Pr 14:18; Hab 1:4).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H3804",
+      "hebreeuws": "כֶּתֶר",
+      "translit": "kether",
+      "woordsoort": "sustantivo",
+      "es_concordant": "corona-real",
+      "grondvorm": "corona-real",
+      "stamfamilie": [
+        "H3803"
+      ],
+      "toelichting": "Ester-corona-real-en-cabeza-reina y huésped-corona-real (Est 1:11; 2:17; 6:8).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3805",
+      "hebreeuws": "כֹּתֶרֶת",
+      "translit": "koteret",
+      "woordsoort": "sustantivo",
+      "es_concordant": "capitel-columna",
+      "grondvorm": "capitel-columna",
+      "stamfamilie": [
+        "H3803"
+      ],
+      "toelichting": "Parte-superior-decorada de columna-templo (Yakin y Boaz).",
+      "voorkomens": 24
+    },
+    {
+      "strong": "H3806",
+      "hebreeuws": "כָּתַשׁ",
+      "translit": "katash",
+      "woordsoort": "verbo",
+      "es_concordant": "majar-en-mortero-katash",
+      "grondvorm": "majar-en-mortero-katash",
+      "stamfamilie": [],
+      "toelichting": "Qal-imperfecto; necio-con-pilón-en-mortero-majar; Pr 27:22.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3807",
+      "hebreeuws": "כָּתַת",
+      "translit": "katat",
+      "woordsoort": "verbo",
+      "es_concordant": "triturar-pulverizar",
+      "grondvorm": "triturar-pulverizar",
+      "stamfamilie": [],
+      "toelichting": "Qal/Piel: golpear-en-pedazos, machacar (ídolos, hierba).",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H3808",
+      "hebreeuws": "לֹא",
+      "translit": "lo",
+      "woordsoort": "partícula",
+      "es_concordant": "no-lo",
+      "grondvorm": "no-lo",
+      "stamfamilie": [
+        "H3809"
+      ],
+      "toelichting": "Raíz lw'. Negación-absoluta; distinto de al (H408, prohibitivo).",
+      "voorkomens": 5189
+    },
+    {
+      "strong": "H3809",
+      "hebreeuws": "לָא",
+      "translit": "la-Aram",
+      "woordsoort": "partícula",
+      "es_concordant": "no-arameo-la",
+      "grondvorm": "no-arameo-la",
+      "stamfamilie": [
+        "H3808"
+      ],
+      "toelichting": "Partícula-arameo-negación; idéntico al H3808 lo.",
+      "voorkomens": 82
+    },
+    {
+      "strong": "H3810",
+      "hebreeuws": "לֹא דְבַר",
+      "translit": "lo-devar",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Lodebar-pn",
+      "grondvorm": "Lodebar-pn",
+      "stamfamilie": [],
+      "toelichting": "Lugar-Manasés donde Mefiboset moraba y ciudad-Maquir-Amiel (2Sa 9:4,5; 17:27; Am 6:13). 'Sin-pasto'.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3810+",
+      "hebreeuws": "לֹא דְבַר",
+      "translit": "lo-devar-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Lo-Devar-pn-lugar",
+      "grondvorm": "Lo-Devar-pn-lugar",
+      "stamfamilie": [
+        "H3810"
+      ],
+      "toelichting": "'Sin-pasto' Manasés-lugar Mefiboset; 2Sa 9:4.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3811",
+      "hebreeuws": "לָאָה",
+      "translit": "laah",
+      "woordsoort": "verbo",
+      "es_concordant": "fatigarse-desfallecer",
+      "grondvorm": "fatigarse-desfallecer",
+      "stamfamilie": [
+        "H3812"
+      ],
+      "toelichting": "Qal: agotarse, no poder-más.",
+      "voorkomens": 19
+    },
+    {
+      "strong": "H3812",
+      "hebreeuws": "לֵאָה",
+      "translit": "leah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Lea-pn",
+      "grondvorm": "Lea-pn",
+      "stamfamilie": [],
+      "toelichting": "Primera mujer de Jacob.",
+      "voorkomens": 34
+    },
+    {
+      "strong": "H3813",
+      "hebreeuws": "לָאַט",
+      "translit": "laat",
+      "woordsoort": "verbo",
+      "es_concordant": "callar-cubrir",
+      "grondvorm": "callar-cubrir",
+      "stamfamilie": [],
+      "toelichting": "Hapax 2Sa 19:5 David-callado-rey-en-luto; forma-alternativa 'velar'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3814",
+      "hebreeuws": "לָאט",
+      "translit": "laat-quietly",
+      "woordsoort": "adverbio",
+      "es_concordant": "sigilosamente-laat",
+      "grondvorm": "sigilosamente-laat",
+      "stamfamilie": [],
+      "toelichting": "Sigiloso; Yael acerca a Sísara dormido; Jue 4:21.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H3815",
+      "hebreeuws": "לָאֵל",
+      "translit": "lael",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Lael-pn",
+      "grondvorm": "Lael-pn",
+      "stamfamilie": [],
+      "toelichting": "Padre Eljasaf; Nm 3:24.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3816",
+      "hebreeuws": "לְאֹם",
+      "translit": "leom",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tribu-pueblo",
+      "grondvorm": "tribu-pueblo",
+      "stamfamilie": [],
+      "toelichting": "Pueblo-grande, paralelo a goy y am.",
+      "voorkomens": 35
+    },
+    {
+      "strong": "H3817",
+      "hebreeuws": "לְאֻמִּים",
+      "translit": "leummim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Leummim-pn",
+      "grondvorm": "Leummim-pn",
+      "stamfamilie": [],
+      "toelichting": "Pueblo descendiente Dedán; Gn 25:3.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3818",
+      "hebreeuws": "לֹא־עַמִּי",
+      "translit": "lo-ammi",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Lo-Ammi-pn",
+      "grondvorm": "Lo-Ammi-pn",
+      "stamfamilie": [],
+      "toelichting": "Nombre-simbólico Os 1:9 'no-mi-pueblo' (rechazo-Israel).",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3818+",
+      "hebreeuws": "לֹא",
+      "translit": "lo-prefix",
+      "woordsoort": "partícula",
+      "es_concordant": "no-prefijo-componente",
+      "grondvorm": "no-prefijo-componente",
+      "stamfamilie": [
+        "H3818"
+      ],
+      "toelichting": "MorphHB compuesto en Lo-Ammi/Lo-Ruchama (Os 1:6, 1:9, 2:25).",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3819",
+      "hebreeuws": "לֹא רֻחָמָה",
+      "translit": "lo-ruchamah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Lo-Ruchamah-pn-mujer",
+      "grondvorm": "Lo-Ruchamah-pn-mujer",
+      "stamfamilie": [],
+      "toelichting": "'No-compadecida' hija-Oseas; Os 1:8.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3819+",
+      "hebreeuws": "לֹא רֻחָמָה",
+      "translit": "lo-ruchamah-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Lo-Ruchamah-pn-plus",
+      "grondvorm": "Lo-Ruchamah-pn-plus",
+      "stamfamilie": [
+        "H3819"
+      ],
+      "toelichting": "Variante-+ H3819.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3820",
+      "hebreeuws": "לֵב",
+      "translit": "lev-eigen",
+      "woordsoort": "sustantivo",
+      "es_concordant": "corazon-propio-inventado",
+      "grondvorm": "corazon-propio-inventado",
+      "stamfamilie": [
+        "H3820a"
+      ],
+      "toelichting": "Hapax-forma; Jeroboam inventó fiesta-de-su-propio-corazón; 1Re 12:33.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3820a",
+      "hebreeuws": "לֵב",
+      "translit": "lev",
+      "woordsoort": "sustantivo",
+      "es_concordant": "corazon",
+      "grondvorm": "corazon",
+      "stamfamilie": [
+        "H3824",
+        "H3826"
+      ],
+      "toelichting": "Lexema-único; forma-paralela levav (H3824). Anatómico y centro-de-pensar/querer.",
+      "voorkomens": 601
+    },
+    {
+      "strong": "H3820b",
+      "hebreeuws": "לֵב קָמָי",
+      "translit": "lev-qamay",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Lev-Qamay-pn-Babel",
+      "grondvorm": "Lev-Qamay-pn-Babel",
+      "stamfamilie": [],
+      "toelichting": "Nombre-cifrado para Caldeos ('corazón-de-mis-adversarios'); Jer 51:1.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3821",
+      "hebreeuws": "לֵב",
+      "translit": "lev-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "corazon-arameo-lev",
+      "grondvorm": "corazon-arameo-lev",
+      "stamfamilie": [
+        "H3820a"
+      ],
+      "toelichting": "Arameo paralelo a lev; Daniel-guardó en su-corazón; Dn 7:28.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3822",
+      "hebreeuws": "לְבָאוֹת",
+      "translit": "lebaot",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Lebaot-pn-lugar",
+      "grondvorm": "Lebaot-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-Judá-sur; Jos 15:32.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3823a",
+      "hebreeuws": "לָבַב-II",
+      "translit": "lavav-II",
+      "woordsoort": "verbo",
+      "es_concordant": "cautivar-corazon",
+      "grondvorm": "cautivar-corazon",
+      "stamfamilie": [
+        "H3820a"
+      ],
+      "toelichting": "Necio-toro-cobra-corazón-humano y novia-mi-hermana-cautivado-corazón dos-veces (Job 11:12; Cnt 4:9).",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3823b",
+      "hebreeuws": "לָבַב",
+      "translit": "lavav-bake",
+      "woordsoort": "verbo",
+      "es_concordant": "hornear-tortas-corazon",
+      "grondvorm": "hornear-tortas-corazon",
+      "stamfamilie": [
+        "H3823a"
+      ],
+      "toelichting": "2Sa-deja-mi-hermana-Tamar-venir-y-haga-dos-tortas-corazón-ante-mí y 2Sa-Tamar-fue-y-hizo (2Sa 13:6,8).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3824",
+      "hebreeuws": "לֵבָב",
+      "translit": "levav",
+      "woordsoort": "sustantivo",
+      "es_concordant": "corazon-levav",
+      "grondvorm": "corazon-levav",
+      "stamfamilie": [
+        "H3820a"
+      ],
+      "toelichting": "Raíz lbb. Forma-paralela ampliada de lev (H3820a).",
+      "voorkomens": 252
+    },
+    {
+      "strong": "H3825",
+      "hebreeuws": "לְבַב",
+      "translit": "levav-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "corazon-arameo-levav",
+      "grondvorm": "corazon-arameo-levav",
+      "stamfamilie": [
+        "H3824"
+      ],
+      "toelichting": "Cognado-arameo para corazón e interior-emocional (Dn 2:30; 4:13,14; 5:20,21,22; 7:28).",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H3826",
+      "hebreeuws": "לִבָּה",
+      "translit": "libbah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "corazon-intimo-libbah",
+      "grondvorm": "corazon-intimo-libbah",
+      "stamfamilie": [
+        "H3820a"
+      ],
+      "toelichting": "Núcleo-íntimo, metafóricamente 'alma-más-interior' (Sal 22:15; Cnt 4:9; Ez 16:30).",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3827",
+      "hebreeuws": "לַבָּה",
+      "translit": "labbah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "llama-labbah",
+      "grondvorm": "llama-labbah",
+      "stamfamilie": [],
+      "toelichting": "Llama-fuego en zarza-ardiente; Ex 3:2.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3828",
+      "hebreeuws": "לְבוֹנָה",
+      "translit": "levonah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "incienso",
+      "grondvorm": "incienso",
+      "stamfamilie": [],
+      "toelichting": "Resina-aromática-quemada en altar.",
+      "voorkomens": 21
+    },
+    {
+      "strong": "H3829",
+      "hebreeuws": "לְבוֹנָה",
+      "translit": "levonah-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Levonah-pn-lugar",
+      "grondvorm": "Levonah-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Lugar-norte de Betel; fiesta-Silo; Jue 21:19.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3830",
+      "hebreeuws": "לְבוּשׁ",
+      "translit": "levush",
+      "woordsoort": "sustantivo",
+      "es_concordant": "vestido-levush",
+      "grondvorm": "vestido-levush",
+      "stamfamilie": [
+        "H3847"
+      ],
+      "toelichting": "De lavash (vestir); prenda usada, vestido-oficial.",
+      "voorkomens": 31
+    },
+    {
+      "strong": "H3831",
+      "hebreeuws": "לְבוּשׁ",
+      "translit": "levush-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "vestido-arameo",
+      "grondvorm": "vestido-arameo",
+      "stamfamilie": [
+        "H3830"
+      ],
+      "toelichting": "Préstamo-arameo para vestido o atuendo — Dn 3:21; 7:9 'su vestido era blanco como nieve'.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3832",
+      "hebreeuws": "לָבַט",
+      "translit": "lavat",
+      "woordsoort": "verbo",
+      "es_concordant": "envolver-enredar",
+      "grondvorm": "envolver-enredar",
+      "stamfamilie": [],
+      "toelichting": "Pr-necio-enredado-en-su-propia-lengua y Os-Israel-envuelto-perplejo y Job-envuelto-aturdido (Pr 10:8,10; Os 4:14; Job 18:8).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3833a",
+      "hebreeuws": "לָבִיא-I",
+      "translit": "lavi-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "leon-joven-lavi",
+      "grondvorm": "leon-joven-lavi",
+      "stamfamilie": [],
+      "toelichting": "Atacantes-David como leones-hambrientos; Sal 57:4.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H3833b",
+      "hebreeuws": "לָבִיא-II",
+      "translit": "lavi-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "leona-deelbet-b",
+      "grondvorm": "leona-deelbet-b",
+      "stamfamilie": [
+        "H3833a"
+      ],
+      "toelichting": "Segundo lavi; madre-Israel como leona entre leones; Ez 19:2.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3833c",
+      "hebreeuws": "לְבִיָּה",
+      "translit": "levya",
+      "woordsoort": "sustantivo",
+      "es_concordant": "leona-variante",
+      "grondvorm": "leona-variante",
+      "stamfamilie": [
+        "H3833b"
+      ],
+      "toelichting": "Tercer homónimo distinto de lavi-I/II; leona-rapaz como imagen-de-fuerza.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3834",
+      "hebreeuws": "לְבִיבָה",
+      "translit": "levivah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "torta-corazon",
+      "grondvorm": "torta-corazon",
+      "stamfamilie": [
+        "H3823b"
+      ],
+      "toelichting": "Tamar-tortas-corazón-para-Amnón-hornear (2Sa 13:6,8,10).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3835a",
+      "hebreeuws": "לָבַן-I",
+      "translit": "lavan-I",
+      "woordsoort": "verbo",
+      "es_concordant": "blanquearse",
+      "grondvorm": "blanquearse",
+      "stamfamilie": [
+        "H3836"
+      ],
+      "toelichting": "Blanco-purificar (Is 1:18; Sal 51:9; Dn 11:35; 12:10; Jl 1:7).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H3835b",
+      "hebreeuws": "לָבֵן",
+      "translit": "laven-brick",
+      "woordsoort": "verbo",
+      "es_concordant": "hacer-ladrillos",
+      "grondvorm": "hacer-ladrillos",
+      "stamfamilie": [
+        "H3835a"
+      ],
+      "toelichting": "Ladrillos-cocer en torre-Babel y trabajo-esclavo Egipto (Gn 11:3; Ex 5:7,14).",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H3836",
+      "hebreeuws": "לָבָן",
+      "translit": "lavan-adj",
+      "woordsoort": "adjetivo",
+      "es_concordant": "blanco",
+      "grondvorm": "blanco",
+      "stamfamilie": [
+        "H3835a"
+      ],
+      "toelichting": "Adjetivo-color: blanco/claro. Distinto de Lavan-eign.",
+      "voorkomens": 29
+    },
+    {
+      "strong": "H3837a",
+      "hebreeuws": "לָבָן-I",
+      "translit": "lavan-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Laban-pn",
+      "grondvorm": "Laban-pn",
+      "stamfamilie": [],
+      "toelichting": "(Blanco); hermano de Rebeca.",
+      "voorkomens": 54
+    },
+    {
+      "strong": "H3837b",
+      "hebreeuws": "לָבָן-II",
+      "translit": "lavan-II-place",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Lavan-pn-lugar",
+      "grondvorm": "Lavan-pn-lugar",
+      "stamfamilie": [
+        "H3837a"
+      ],
+      "toelichting": "Segundo lavan; lugar (no Labán-hermano); Dt 1:1.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3838",
+      "hebreeuws": "לְבָנָה",
+      "translit": "levanah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Lebanah-pn",
+      "grondvorm": "Lebanah-pn",
+      "stamfamilie": [],
+      "toelichting": "Cabeza familia Netineos en lista-retorno, derivado de laban (blanco) — Esd 2:45; Neh 7:48.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3839",
+      "hebreeuws": "לִבְנֶה",
+      "translit": "livneh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "alamo-blanco",
+      "grondvorm": "alamo-blanco",
+      "stamfamilie": [],
+      "toelichting": "Gn-Jacob-tomó-varas-frescas de álamo-avellano-plátano y Os-bajo-encinas-y-álamos-y-terebintos-sacrificar (Gn 30:37; Os 4:13).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3840",
+      "hebreeuws": "לִבְנָה",
+      "translit": "livnah-pavement",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ladrillo-piedra",
+      "grondvorm": "ladrillo-piedra",
+      "stamfamilie": [],
+      "toelichting": "Pavimento-zafiro bajo Dios; Ex 24:10.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3841",
+      "hebreeuws": "לִבְנָה",
+      "translit": "livnah-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Libna-pn",
+      "grondvorm": "Libna-pn",
+      "stamfamilie": [],
+      "toelichting": "(Blanca); ciudad en la Sefelá.",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H3842",
+      "hebreeuws": "לְבָנָה",
+      "translit": "levanah-moon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "luna-llena-palida",
+      "grondvorm": "luna-llena-palida",
+      "stamfamilie": [],
+      "toelichting": "Cnt-hermosa-como-luna-pura-como-sol y Is-luz-de-luna-como-sol y Is-rojo-de-luna-avergonzado (Cnt 6:10; Is 24:23; 30:26).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3843",
+      "hebreeuws": "לְבֵנָה",
+      "translit": "levenah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ladrillo",
+      "grondvorm": "ladrillo",
+      "stamfamilie": [
+        "H3835a"
+      ],
+      "toelichting": "Ladrillo-cocido distinto de eben (piedra, H68) y chatsats (piedra-cortada).",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H3844",
+      "hebreeuws": "לְבָנוֹן",
+      "translit": "levanon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Libano-pn",
+      "grondvorm": "Libano-pn",
+      "stamfamilie": [
+        "H3835a"
+      ],
+      "toelichting": "(Blanco-por las montañas-nevadas).",
+      "voorkomens": 71
+    },
+    {
+      "strong": "H3845",
+      "hebreeuws": "לִבְנִי",
+      "translit": "livni",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Libni-pn",
+      "grondvorm": "Libni-pn",
+      "stamfamilie": [],
+      "toelichting": "Levita de línea-Gersón y jefe-clan (Ex 6:17; Nm 3:18; 26:58; 1Cr 6:17,20).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H3846",
+      "hebreeuws": "לִבְנִי",
+      "translit": "livni-clan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Livni-pn",
+      "grondvorm": "Livni-pn",
+      "stamfamilie": [
+        "H3845"
+      ],
+      "toelichting": "Nm-hijos-Gerson-según-familias-Libni y 1Cr-hijos-Levi-Gersom-Libni-Simei (Nm 3:18; 1Cr 6:2).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3847",
+      "hebreeuws": "לָבַשׁ",
+      "translit": "lavash",
+      "woordsoort": "verbo",
+      "es_concordant": "vestirse",
+      "grondvorm": "vestirse",
+      "stamfamilie": [
+        "H3830"
+      ],
+      "toelichting": "Raíz lbsh. 'Vestirse' preserva la-acción-vestir.",
+      "voorkomens": 109
+    },
+    {
+      "strong": "H3848",
+      "hebreeuws": "לְבַשׁ",
+      "translit": "levash-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "vestir-arameo",
+      "grondvorm": "vestir-arameo",
+      "stamfamilie": [
+        "H3847"
+      ],
+      "toelichting": "Dn-arameo-revestir-de-púrpura y Dn-arameo-vestido-con-púrpura y Dn-arameo-vestir-vestiduras (Dn 5:7,16,29).",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3849",
+      "hebreeuws": "לֹג",
+      "translit": "log",
+      "woordsoort": "sustantivo",
+      "es_concordant": "log-medida",
+      "grondvorm": "log-medida",
+      "stamfamilie": [],
+      "toelichting": "Medida-más-pequeña líquida para aceite-ofrenda (Lv 14:10,12,15,21,24).",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H3850",
+      "hebreeuws": "לֹד",
+      "translit": "lod",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Lod-pn",
+      "grondvorm": "Lod-pn",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-Benjamín y lugar-reconstrucción post-exilio (1Cr 8:12; Esd 2:33; Neh 7:37; 11:35). 'Disputa-de-nacimiento'.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H3851",
+      "hebreeuws": "לַהַב",
+      "translit": "lahav",
+      "woordsoort": "sustantivo",
+      "es_concordant": "llama-hoja",
+      "grondvorm": "llama-hoja",
+      "stamfamilie": [
+        "H3852"
+      ],
+      "toelichting": "De lhb (relucir); llama (Gn 3:24 espada-llama; Jue 13:20 altar-llama) y hoja-de-metal que destella (Nm 16:35).",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H3852",
+      "hebreeuws": "לֶהָבָה",
+      "translit": "lehavah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lengua-de-llama",
+      "grondvorm": "lengua-de-llama",
+      "stamfamilie": [
+        "H3851"
+      ],
+      "toelichting": "De lahav (llamar); llama-elevándose.",
+      "voorkomens": 19
+    },
+    {
+      "strong": "H3853",
+      "hebreeuws": "לְהָבִים",
+      "translit": "lehabim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Lehabim-pn",
+      "grondvorm": "Lehabim-pn",
+      "stamfamilie": [],
+      "toelichting": "Gn-Mizraim-engendró-Ludim-Anamim-Lehabim-Naftuhim y 1Cr-paralelo (Gn 10:13; 1Cr 1:11).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3854",
+      "hebreeuws": "לַהַג",
+      "translit": "leg",
+      "woordsoort": "sustantivo",
+      "es_concordant": "estudiar-mucho",
+      "grondvorm": "estudiar-mucho",
+      "stamfamilie": [],
+      "toelichting": "Hapax Ec 12:12 muchos-libros-mucho-estudio cansa; raíz √lhg incierta.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3855",
+      "hebreeuws": "לַהַד",
+      "translit": "lahad",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Lahad-pn",
+      "grondvorm": "Lahad-pn",
+      "stamfamilie": [],
+      "toelichting": "Hijo Yahat-rama-Judá; 1Cr 4:2.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3856a",
+      "hebreeuws": "לָהָה-I",
+      "translit": "laha-I",
+      "woordsoort": "verbo",
+      "es_concordant": "desfallecer-laha",
+      "grondvorm": "desfallecer-laha",
+      "stamfamilie": [],
+      "toelichting": "Qal; tierra-desfalleció bajo hambre; Gn 47:13.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3856b",
+      "hebreeuws": "לָהַהּ",
+      "translit": "lahah-II",
+      "woordsoort": "verbo",
+      "es_concordant": "lanzar-fuego",
+      "grondvorm": "lanzar-fuego",
+      "stamfamilie": [
+        "H3856a"
+      ],
+      "toelichting": "Segundo lahah; tirador-flechas-ardientes como engañador; Pr 26:18.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3857",
+      "hebreeuws": "לָהַט",
+      "translit": "lahat",
+      "woordsoort": "verbo",
+      "es_concordant": "abrasar-quemar",
+      "grondvorm": "abrasar-quemar",
+      "stamfamilie": [
+        "H3858"
+      ],
+      "toelichting": "Qal/Piel: quemar-fiero con calor-llama (Dt 32:22 fuego-quema-Sheol; Sal 57:5; 83:15; 97:3; 104:4; 106:18; Jl 1:19; 2:3; Mal 3:19).",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H3858",
+      "hebreeuws": "לַהַט",
+      "translit": "lahat",
+      "woordsoort": "sustantivo",
+      "es_concordant": "llama-espada",
+      "grondvorm": "llama-espada",
+      "stamfamilie": [
+        "H3857"
+      ],
+      "toelichting": "Gn-espada-flameante para guardar-camino-árbol-vida y 1Re-llama-consumió-sacrificio y Sal-lenguas-como-llamas-mordientes (Gn 3:24; 1Re 18:38; Sal 57:5).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3859",
+      "hebreeuws": "לָהַם",
+      "translit": "laham",
+      "woordsoort": "verbo",
+      "es_concordant": "tragar-glotonamente",
+      "grondvorm": "tragar-glotonamente",
+      "stamfamilie": [],
+      "toelichting": "Tragar-codiciosamente palabras-de-chismoso como golosinas — Pr 18:8 'palabras del chismoso son como bocados suaves'.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3860",
+      "hebreeuws": "לָהֵן",
+      "translit": "halahen",
+      "woordsoort": "conjunción",
+      "es_concordant": "por-tanto-laken",
+      "grondvorm": "por-tanto-laken",
+      "stamfamilie": [],
+      "toelichting": "Rt-¿os-detendríais por-eso de-no-tener-marido? y Rt-¿permaneceríais por-eso sin-marido? (Rt 1:13).",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3861",
+      "hebreeuws": "לָהֵן",
+      "translit": "lahen-Aram",
+      "woordsoort": "adverbio",
+      "es_concordant": "salvo-arameo",
+      "grondvorm": "salvo-arameo",
+      "stamfamilie": [],
+      "toelichting": "Adverbio-arameo-adversativo 'excepto-salvo-por-tanto' (Dn 2:6,11,30; 3:28; 6:6,8).",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H3862",
+      "hebreeuws": "לַהֲקָה",
+      "translit": "lahaqah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "compañia-profetas",
+      "grondvorm": "compañia-profetas",
+      "stamfamilie": [],
+      "toelichting": "Asociación-profetas con Samuel; 1Sa 19:20.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3863",
+      "hebreeuws": "לוּ",
+      "translit": "lu",
+      "woordsoort": "conjunción",
+      "es_concordant": "ojala",
+      "grondvorm": "ojala",
+      "stamfamilie": [],
+      "toelichting": "Partícula-condicional 'si-acaso/ojalá fuera'.",
+      "voorkomens": 22
+    }
+  ]
+}

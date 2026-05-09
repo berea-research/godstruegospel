@@ -1,0 +1,3560 @@
+{
+  "batch_id": "eg_batch_018",
+  "script": "gr",
+  "datum": "2026-05-02",
+  "entries": [
+    {
+      "strong": "G1995",
+      "grieks": "ἐπιστροφή",
+      "translit": "epistrophē",
+      "woordsoort": "zn",
+      "en_concordant": "up-keer",
+      "grondvorm": "op-keer",
+      "stamfamilie": [
+        "G1995",
+        "G1994 epistrephō"
+      ],
+      "toelichting": "Bekering. Werkwoord-stam-epistrephō-familie. Eenmaal NT. Concordant: 'op-keer'. Hand 15:3 (Paulus-Jeruzalem 'ekdiēgoumen",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2645",
+      "grieks": "κατάλοιπος",
+      "translit": "kataloipos",
+      "woordsoort": "bn",
+      "en_concordant": "down-overig",
+      "grondvorm": "neder-overig",
+      "stamfamilie": [
+        "G2645",
+        "G3007 leipō",
+        "G2596 kata"
+      ],
+      "toelichting": "Overige-rest. Samenstelling kata + loipos. Eenmaal NT. Concordant: 'neder-overig'. Hand 15:17 OT-citaat Amos 9 'opōs ekz",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3926",
+      "grieks": "παρενοχλέω",
+      "translit": "parenochleō",
+      "woordsoort": "ww",
+      "en_concordant": "beside-overlast-do",
+      "grondvorm": "naast-overlast-doen",
+      "stamfamilie": [
+        "G3926",
+        "G3791 ochleō",
+        "G3844 para"
+      ],
+      "toelichting": "Lastig-vallen. Samenstelling para + en + ochleō. Eenmaal NT. Concordant: 'naast-overlast-doen'. Hand 15:19 (Jeruzalem-be",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G234",
+      "grieks": "ἀλίσγημα",
+      "translit": "alisgēma",
+      "woordsoort": "zn",
+      "en_concordant": "zoedeling",
+      "grondvorm": "be-zoedeling",
+      "stamfamilie": [
+        "G234"
+      ],
+      "toelichting": "Bezoedeling. Eenmaal NT. Concordant: 'be-zoedeling'. Hand 15:20 (kerntekst-Jeruzalem-besluit 'tou apechesthai tōn alisgē",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G384",
+      "grieks": "ἀνασκευάζω",
+      "translit": "anaskeuazō",
+      "woordsoort": "ww",
+      "en_concordant": "up-vertrek-bagage",
+      "grondvorm": "op-vertrek-bagage",
+      "stamfamilie": [
+        "G384",
+        "G4632 skeuos",
+        "G303 ana"
+      ],
+      "toelichting": "Verstoren-omhalen. Samenstelling ana + skeuazō. Eenmaal NT. Concordant: 'op-vertrek-bagage'. Hand 15:24 (Jeruzalem-brief",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1876",
+      "grieks": "ἐπάναγκες",
+      "translit": "epanagkes",
+      "woordsoort": "bn",
+      "en_concordant": "up-ondrang",
+      "grondvorm": "op-aandrang",
+      "stamfamilie": [
+        "G1876",
+        "G318 anagkē",
+        "G1909 epi"
+      ],
+      "toelichting": "Noodzakelijk. Samenstelling epi + anagkē. Eenmaal NT. Concordant: 'op-aandrang'. Hand 15:28 (kerntekst-Jeruzalem-besluit",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4543",
+      "grieks": "Σαμοθρᾴκη",
+      "translit": "samothrakē",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Samothrace-pn",
+      "grondvorm": "Samothrace",
+      "stamfamilie": [
+        "G4543"
+      ],
+      "toelichting": "Samothrace. Eilanden-Egeïsche-Zee. Eenmaal NT. Concordant: 'Samothrace'. Hand 16:11 (Paulus-tweede-zendingsreis 'euthudr",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3496",
+      "grieks": "Νέα Πόλις",
+      "translit": "neapolis",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Neapolis-pn",
+      "grondvorm": "Neapolis",
+      "stamfamilie": [
+        "G3496",
+        "G3501 neos",
+        "G4172 polis"
+      ],
+      "toelichting": "Neapolis (Macedonische-haven). Samenstelling neos + polis. Eenmaal NT. Concordant: 'Neapolis'. Hand 16:11 (Paulus-Macedo",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2862",
+      "grieks": "κολωνία",
+      "translit": "kolōnia",
+      "woordsoort": "zn",
+      "en_concordant": "kolonie",
+      "grondvorm": "kolonie",
+      "stamfamilie": [
+        "G2862"
+      ],
+      "toelichting": "Romeinse-kolonie. Latijns-leenwoord. Eenmaal NT. Concordant: 'kolonie'. Hand 16:12 (Filippi 'hētis estin prōtēs meridos ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4211",
+      "grieks": "πορφυρόπωλις",
+      "translit": "porphuropōlis",
+      "woordsoort": "zn",
+      "en_concordant": "purple-verkoupster",
+      "grondvorm": "purper-verkoopster",
+      "stamfamilie": [
+        "G4211",
+        "G4209 porphura",
+        "G4453 pōleō"
+      ],
+      "toelichting": "Purper-verkoopster. Samenstelling porphura + pōleō. Eenmaal NT. Concordant: 'purper-verkoopster'. Hand 16:14 (kerntekst-",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4436",
+      "grieks": "Πύθων",
+      "translit": "puthōn",
+      "woordsoort": "zn",
+      "en_concordant": "python-orakelgeest",
+      "grondvorm": "python-orakelgeest",
+      "stamfamilie": [
+        "G4436"
+      ],
+      "toelichting": "Python-orakelgeest. Eenmaal NT. Concordant: 'python-orakelgeest'. Hand 16:16 (kerntekst-Filippi-pythonisse 'paidiskēn ti",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3132",
+      "grieks": "μαντεύομαι",
+      "translit": "manteuomai",
+      "woordsoort": "ww",
+      "en_concordant": "waarzeggen",
+      "grondvorm": "waarzeggen",
+      "stamfamilie": [
+        "G3132"
+      ],
+      "toelichting": "Voorzeggen-orakels-geven. Eenmaal NT. Concordant: 'waarzeggen'. Hand 16:16 (paar-met-puthōn 'ergasian pollēn pareichen t",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1613",
+      "grieks": "ἐκταράσσω",
+      "translit": "ektarassō",
+      "woordsoort": "ww",
+      "en_concordant": "out-beroeren",
+      "grondvorm": "uit-beroeren",
+      "stamfamilie": [
+        "G1613",
+        "G5015 tarassō",
+        "G1537 ek"
+      ],
+      "toelichting": "Geheel-in-beroering-brengen. Samenstelling ek + tarassō. Eenmaal NT. Concordant: 'uit-beroeren'. Hand 16:20 (Filippi-Pau",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4911",
+      "grieks": "συνεφίστημι",
+      "translit": "sunephistēmi",
+      "woordsoort": "ww",
+      "en_concordant": "togetre-up-onvallen",
+      "grondvorm": "samen-op-aanvallen",
+      "stamfamilie": [
+        "G4911",
+        "G2186 ephistēmi",
+        "G4862 sun"
+      ],
+      "toelichting": "Mee-tegen-iemand-opstaan. Samenstelling sun + epi + histēmi. Eenmaal NT. Concordant: 'samen-op-aanvallen'. Hand 16:22 (F",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4048",
+      "grieks": "περιρρήγνυμι",
+      "translit": "perirrēgnumi",
+      "woordsoort": "ww",
+      "en_concordant": "around-tear",
+      "grondvorm": "rondom-scheuren",
+      "stamfamilie": [
+        "G4048",
+        "G4486 rēgnumi",
+        "G4012 peri"
+      ],
+      "toelichting": "Kleed-afscheuren. Samenstelling peri + rēgnumi. Eenmaal NT. Concordant: 'rondom-scheuren'. Hand 16:22 (Filippi-Paulus-Si",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1874",
+      "grieks": "ἐπακροάομαι",
+      "translit": "epakroaomai",
+      "woordsoort": "ww",
+      "en_concordant": "up-onhoren",
+      "grondvorm": "op-aanhoren",
+      "stamfamilie": [
+        "G1874",
+        "G202 akroatēs",
+        "G1909 epi"
+      ],
+      "toelichting": "Aandachtig-toehoren. Werkwoord-stam-akroatēs-familie. Eenmaal NT. Concordant: 'op-aanhoren'. Hand 16:25 (Filippi-cipier ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1853",
+      "grieks": "ἔξυπνος",
+      "translit": "exupnos",
+      "woordsoort": "bn",
+      "en_concordant": "out-slaap-geraakt",
+      "grondvorm": "uit-slaap-geraakt",
+      "stamfamilie": [
+        "G1853",
+        "G5258 hupnos",
+        "G1537 ek"
+      ],
+      "toelichting": "Wakker-geworden. Samenstelling ek + hupnos. Eenmaal NT. Concordant: 'uit-slaap-geraakt'. Hand 16:27 (Filippi-cipier 'exu",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3832",
+      "grieks": "πανοικί",
+      "translit": "panoiki",
+      "woordsoort": "bw",
+      "en_concordant": "geheel-house",
+      "grondvorm": "geheel-huis",
+      "stamfamilie": [
+        "G3832",
+        "G3956 pas",
+        "G3624 oikos"
+      ],
+      "toelichting": "Met-zijn-hele-huis. Samenstelling pas + oikos. Eenmaal NT. Concordant: 'geheel-huis'. Hand 16:34 (kerntekst-Filippi-cipi",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G295",
+      "grieks": "Ἀμφίπολις",
+      "translit": "amphipolis",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Amfipolis-pn",
+      "grondvorm": "Amfipolis",
+      "stamfamilie": [
+        "G295"
+      ],
+      "toelichting": "Amfipolis. Stad-Macedonië. Eenmaal NT. Concordant: 'Amfipolis'. Hand 17:1 (Paulus-Macedonië-route 'diodeusantes de tēn A",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G624",
+      "grieks": "Ἀπολλωνία",
+      "translit": "apollōnia",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Apollonia-pn",
+      "grondvorm": "Apollonia",
+      "stamfamilie": [
+        "G624"
+      ],
+      "toelichting": "Apollonia. Stad-Macedonië. Eenmaal NT. Concordant: 'Apollonia'. Hand 17:1 (paar-met-Amphipolis 'tēn Amphipolin kai Apoll",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4345",
+      "grieks": "προσκληρόω",
+      "translit": "prosklēroō",
+      "woordsoort": "ww",
+      "en_concordant": "toe-outloten",
+      "grondvorm": "toe-uitloten",
+      "stamfamilie": [
+        "G4345",
+        "G2819 klēros",
+        "G4314 pros"
+      ],
+      "toelichting": "Mede-toegevoegd-aan. Samenstelling pros + klēros. Eenmaal NT. Concordant: 'toe-uitloten'. Hand 17:4 (Tessalonica-bekerin",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3792",
+      "grieks": "ὀχλοποιέω",
+      "translit": "ochlopoieō",
+      "woordsoort": "ww",
+      "en_concordant": "volks-uploup-make",
+      "grondvorm": "volks-oploop-maken",
+      "stamfamilie": [
+        "G3792",
+        "G3793 ochlos",
+        "G4160 poieō"
+      ],
+      "toelichting": "Volksoploop-veroorzaken. Samenstelling ochlos + poieō. Eenmaal NT. Concordant: 'volks-oploop-maken'. Hand 17:5 (Tessalon",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G549",
+      "grieks": "ἄπειμι",
+      "translit": "apeimi-(gaan)",
+      "woordsoort": "ww",
+      "en_concordant": "away-gon-eimi",
+      "grondvorm": "weg-gaan-(eimi)",
+      "stamfamilie": [
+        "G549",
+        "G1510 eimi-(gaan)",
+        "G548 apeimi-(zijn)",
+        "G575 apo"
+      ],
+      "toelichting": "Weg-gaan. Onderscheid van G548 apeimi (afwezig-zijn). Samenstelling apo + eimi-(gaan). Eenmaal NT. Concordant: 'weg-gaan",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5033",
+      "grieks": "τάχιστα",
+      "translit": "tachista",
+      "woordsoort": "bw",
+      "en_concordant": "aller-snelst",
+      "grondvorm": "aller-snelst",
+      "stamfamilie": [
+        "G5033",
+        "G5036 tachus"
+      ],
+      "toelichting": "Spoedigst-mogelijk. Werkwoord-stam-tachus-familie. Eenmaal NT. Concordant: 'aller-snelst'. Hand 17:15 (Athene 'hina hōs ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2712",
+      "grieks": "κατείδωλος",
+      "translit": "kateidōlos",
+      "woordsoort": "bn",
+      "en_concordant": "full-afgoden",
+      "grondvorm": "vol-afgoden",
+      "stamfamilie": [
+        "G2712",
+        "G1497 eidōlon",
+        "G2596 kata"
+      ],
+      "toelichting": "Vol-afgodsbeelden. Samenstelling kata + eidōlon. Eenmaal NT. Concordant: 'vol-afgoden'. Hand 17:16 (kerntekst-Paulus-Ath",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3909",
+      "grieks": "παρατυγχάνω",
+      "translit": "paratugchanō",
+      "woordsoort": "ww",
+      "en_concordant": "beside-toevallig-onwezig",
+      "grondvorm": "naast-toevallig-aanwezig",
+      "stamfamilie": [
+        "G3909",
+        "G5177 tugchanō",
+        "G3844 para"
+      ],
+      "toelichting": "Toevallig-aanwezig-zijn. Samenstelling para + tugchanō. Eenmaal NT. Concordant: 'naast-toevallig-aanwezig'. Hand 17:17 (",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1946",
+      "grieks": "Ἐπικούρειος",
+      "translit": "epikoureios",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Epicureers-pn",
+      "grondvorm": "Epicureeërs",
+      "stamfamilie": [
+        "G1946"
+      ],
+      "toelichting": "Epicureeërs (Griekse-filosofische-school-Epicurus). Eenmaal NT. Concordant: 'Epicureeërs'. Hand 17:18 (kerntekst-Athene-",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4770",
+      "grieks": "Στοϊκός",
+      "translit": "stoIkos",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Stocijnen-pn",
+      "grondvorm": "Stoïcijnen",
+      "stamfamilie": [
+        "G4770"
+      ],
+      "toelichting": "Stoïcijnen (Griekse-filosofische-school-Zeno). Eenmaal NT. Concordant: 'Stoïcijnen'. Hand 17:18 (paar-met-Epikoureios 'E",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5386",
+      "grieks": "φιλόσοφος",
+      "translit": "philosophos",
+      "woordsoort": "zn",
+      "en_concordant": "filo-soof",
+      "grondvorm": "filo-soof",
+      "stamfamilie": [
+        "G5386",
+        "G5384 philos",
+        "G4680 sophos"
+      ],
+      "toelichting": "Wijsheids-liefhebber. Samenstelling philos + sophos. Eenmaal NT. Concordant: 'filo-soof'. Hand 17:18 (Athene-Areopagus '",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4691",
+      "grieks": "σπερμολόγος",
+      "translit": "spermologos",
+      "woordsoort": "zn",
+      "en_concordant": "zaad-raper",
+      "grondvorm": "zaad-raper",
+      "stamfamilie": [
+        "G4691",
+        "G4690 sperma",
+        "G3004 legō"
+      ],
+      "toelichting": "Praatjes-rondstrooier. Samenstelling sperma + legō. Eenmaal NT. Concordant: 'zaad-raper'. Hand 17:18 (kerntekst-Paulus-A",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2604",
+      "grieks": "καταγγελεύς",
+      "translit": "kataggeleus",
+      "woordsoort": "zn",
+      "en_concordant": "down-onkondiger",
+      "grondvorm": "neder-aankondiger",
+      "stamfamilie": [
+        "G2604",
+        "G2605 katangellō"
+      ],
+      "toelichting": "Verkondiger. Werkwoord-stam-katangellō-familie. Eenmaal NT. Concordant: 'neder-aankondiger'. Hand 17:18 (Paulus-Athene '",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1174",
+      "grieks": "δεισιδαιμονέστερος",
+      "translit": "deisidaimonesteros",
+      "woordsoort": "bn",
+      "en_concordant": "lake-godsvrezend",
+      "grondvorm": "meer-godsvrezend",
+      "stamfamilie": [
+        "G1174",
+        "G1175 deisidaimonia"
+      ],
+      "toelichting": "Zeer-vroom-bijgelovig. Stam-substantief-deisidaimonia-familie. Eenmaal NT. Concordant: 'meer-godsvrezend'. Hand 17:22 (k",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1041",
+      "grieks": "βωμός",
+      "translit": "bōmos",
+      "woordsoort": "zn",
+      "en_concordant": "heidens-altar",
+      "grondvorm": "heidens-altaar",
+      "stamfamilie": [
+        "G1041"
+      ],
+      "toelichting": "Heidens-altaar. Onderscheid van G2379 thusiastērion (offer-altaar-Joods). Eenmaal NT. Concordant: 'altaar'. Hand 17:23 (",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G57",
+      "grieks": "ἄγνωστος",
+      "translit": "agnōstos",
+      "woordsoort": "bn",
+      "en_concordant": "on-bekend",
+      "grondvorm": "on-bekend",
+      "stamfamilie": [
+        "G57",
+        "G1097 ginōskō (a-privans)"
+      ],
+      "toelichting": "Onbekend. A-privans + gnōstos. Eenmaal NT. Concordant: 'on-bekend'. Hand 17:23 (kerntekst-Paulus-Athene-altaar 'agnōstōi",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4326",
+      "grieks": "προσδέομαι",
+      "translit": "prosdeomai",
+      "woordsoort": "ww",
+      "en_concordant": "toe-behoeftig-be",
+      "grondvorm": "toe-behoeftig-zijn",
+      "stamfamilie": [
+        "G4326",
+        "G1189 deomai",
+        "G4314 pros"
+      ],
+      "toelichting": "Behoeftig-zijn-aan. Samenstelling pros + deomai. Eenmaal NT. Concordant: 'toe-behoeftig-zijn'. Hand 17:25 (Paulus-Areopa",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4384",
+      "grieks": "προτάσσω",
+      "translit": "protassō",
+      "woordsoort": "ww",
+      "en_concordant": "before-out-toewijzen",
+      "grondvorm": "voor-uit-toewijzen",
+      "stamfamilie": [
+        "G4384",
+        "G5021 tassō",
+        "G4253 pro"
+      ],
+      "toelichting": "Vooraf-bepalen-grenzen. Samenstelling pro + tassō. Eenmaal NT. Concordant: 'voor-uit-toewijzen'. Hand 17:26 (kerntekst-P",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3734",
+      "grieks": "ὁροθεσία",
+      "translit": "horothesia",
+      "woordsoort": "zn",
+      "en_concordant": "grens-stelling",
+      "grondvorm": "grens-stelling",
+      "stamfamilie": [
+        "G3734",
+        "G3725 horion (verwante stam)",
+        "G5087 tithēmi"
+      ],
+      "toelichting": "Grenzen-stellen. Samenstelling horos + tithēmi. Eenmaal NT. Concordant: 'grens-stelling'. Hand 17:26 (kerntekst-Paulus-A",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2733",
+      "grieks": "κατοικία",
+      "translit": "katoikia",
+      "woordsoort": "zn",
+      "en_concordant": "down-woon-stede",
+      "grondvorm": "neder-woon-stede",
+      "stamfamilie": [
+        "G2733",
+        "G2730 katoikeō"
+      ],
+      "toelichting": "Woon-vestiging. Werkwoord-stam-katoikeō-familie. Eenmaal NT. Concordant: 'neder-woon-stede'. Hand 17:26 (paar-met-horoth",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5237",
+      "grieks": "ὑπεροράω",
+      "translit": "huperhoraō",
+      "woordsoort": "ww",
+      "en_concordant": "above-see",
+      "grondvorm": "boven-zien",
+      "stamfamilie": [
+        "G5237",
+        "G3708 horaō",
+        "G5228 huper"
+      ],
+      "toelichting": "Voorbij-zien-(geduld). Samenstelling huper + horaō. Eenmaal NT. Concordant: 'boven-zien'. Hand 17:30 (kerntekst-Paulus-A",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1354",
+      "grieks": "Διονύσιος",
+      "translit": "dionusios",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Dionysius-pn",
+      "grondvorm": "Dionysius",
+      "stamfamilie": [
+        "G1354"
+      ],
+      "toelichting": "Dionysius. Hellenistisch-Griekse-naam (van-Dionysos). Bekeerling-Areopagus. Eenmaal NT. Concordant: 'Dionysius'. Hand 17",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G698",
+      "grieks": "Ἀρεοπαγίτης",
+      "translit": "areopagitēs",
+      "woordsoort": "zn",
+      "en_concordant": "Areupagiet",
+      "grondvorm": "Areopagiet",
+      "stamfamilie": [
+        "G698",
+        "G697 Areios pagos"
+      ],
+      "toelichting": "Lid-Areopagus-rechtshof. Stam-substantief-Areios pagos-familie. Eenmaal NT. Concordant: 'Areopagiet'. Hand 17:34 (Dionys",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1152",
+      "grieks": "Δάμαρις",
+      "translit": "damaris",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Damaris-pn",
+      "grondvorm": "Damaris",
+      "stamfamilie": [
+        "G1152"
+      ],
+      "toelichting": "Damaris. Athene-bekeerlinge-Areopagus. Eenmaal NT. Concordant: 'Damaris'. Hand 17:34 (Paulus-Athene-bekeerlingen 'gunē o",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4193",
+      "grieks": "Ποντικός",
+      "translit": "pontikos",
+      "woordsoort": "bn",
+      "en_concordant": "Pontisch",
+      "grondvorm": "Pontisch",
+      "stamfamilie": [
+        "G4193",
+        "G4195 Pontos"
+      ],
+      "toelichting": "Pontisch (van-geboorte). Eenmaal NT. Concordant: 'Pontisch'. Hand 18:2 (Aquila 'Ioudaion onomati Akulan, Pontikon tōi ge",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4373",
+      "grieks": "προσφάτως",
+      "translit": "prosphatōs",
+      "woordsoort": "bw",
+      "en_concordant": "toe-vers-onlangs",
+      "grondvorm": "toe-vers-onlangs",
+      "stamfamilie": [
+        "G4373"
+      ],
+      "toelichting": "Onlangs (bijwoord). Eenmaal NT. Concordant: 'toe-vers-onlangs'. Hand 18:2 (Aquila-Priscilla 'prosphatōs elēluthota apo t",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3673",
+      "grieks": "ὁμότεχνος",
+      "translit": "homotechnos",
+      "woordsoort": "bn",
+      "en_concordant": "togetre-vakker",
+      "grondvorm": "samen-vakker",
+      "stamfamilie": [
+        "G3673",
+        "G5078 technē",
+        "G3674 homou"
+      ],
+      "toelichting": "Van-zelfde-vak. Samenstelling homos + technē. Eenmaal NT. Concordant: 'samen-vakker'. Hand 18:3 (Paulus-Aquila 'dia to h",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4635",
+      "grieks": "σκηνοποιός",
+      "translit": "skēnopoios",
+      "woordsoort": "zn",
+      "en_concordant": "tenten-maker",
+      "grondvorm": "tenten-maker",
+      "stamfamilie": [
+        "G4635",
+        "G4633 skēnē",
+        "G4160 poieō"
+      ],
+      "toelichting": "Tentenmaker. Samenstelling skēnē + poieō. Eenmaal NT. Concordant: 'tenten-maker'. Hand 18:3 (kerntekst-Paulus-beroep 'ēs",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4927",
+      "grieks": "συνομορέω",
+      "translit": "sunomoreō",
+      "woordsoort": "ww",
+      "en_concordant": "togetre-grenzen",
+      "grondvorm": "samen-grenzen",
+      "stamfamilie": [
+        "G4927",
+        "G4862 sun",
+        "G3725 horion"
+      ],
+      "toelichting": "Aangrenzend-zijn. Samenstelling sun + homoros. Eenmaal NT. Concordant: 'samen-grenzen'. Hand 18:7 (Korinthe 'eisēlthen e",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G445",
+      "grieks": "ἀνθυπατεύω",
+      "translit": "anthupateuō",
+      "woordsoort": "ww",
+      "en_concordant": "anti-consul-be",
+      "grondvorm": "anti-consul-zijn",
+      "stamfamilie": [
+        "G445",
+        "G446 anthupatos"
+      ],
+      "toelichting": "Pro-consul-zijn. Werkwoord-stam-anthupatos-familie. Eenmaal NT (variant). Concordant: 'anti-consul-zijn'. Hand 18:12 (va",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2721",
+      "grieks": "κατεφίσταμαι",
+      "translit": "katephistēmi",
+      "woordsoort": "ww",
+      "en_concordant": "down-up-onvallen",
+      "grondvorm": "neder-op-aanvallen",
+      "stamfamilie": [
+        "G2721",
+        "G2186 ephistēmi",
+        "G2596 kata"
+      ],
+      "toelichting": "Tegen-iemand-opstaan-vijandig. Samenstelling kata + ephistēmi. Eenmaal NT. Concordant: 'neder-op-aanvallen'. Hand 18:12 ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G374",
+      "grieks": "ἀναπείθω",
+      "translit": "anapeithō",
+      "woordsoort": "ww",
+      "en_concordant": "up-overhalen",
+      "grondvorm": "op-overhalen",
+      "stamfamilie": [
+        "G374",
+        "G3982 peithō",
+        "G303 ana"
+      ],
+      "toelichting": "Tot-overtuigen-overhalen. Samenstelling ana + peithō. Eenmaal NT. Concordant: 'op-overhalen'. Hand 18:13 (Korinthe-Joden",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4467",
+      "grieks": "ῥᾳδιούργημα",
+      "translit": "rhaidiourgēma",
+      "woordsoort": "zn",
+      "en_concordant": "listig-werk-stuk",
+      "grondvorm": "listig-werk-stuk",
+      "stamfamilie": [
+        "G4467",
+        "G4468 rhaidiourgia"
+      ],
+      "toelichting": "Sluwe-handeling. Stam-substantief-rhaidiourgia-familie. Eenmaal NT. Concordant: 'listig-werk-stuk'. Hand 18:14 (Korinthe",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G556",
+      "grieks": "ἀπελαύνω",
+      "translit": "apelaunō",
+      "woordsoort": "ww",
+      "en_concordant": "away-onjagen",
+      "grondvorm": "weg-aanjagen",
+      "stamfamilie": [
+        "G556",
+        "G1643 elaunō",
+        "G575 apo"
+      ],
+      "toelichting": "Wegjagen. Samenstelling apo + elaunō. Eenmaal NT. Concordant: 'weg-aanjagen'. Hand 18:16 (Korinthe-Gallio 'apēlasen auto",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1962",
+      "grieks": "ἐπινεύω",
+      "translit": "epineuō",
+      "woordsoort": "ww",
+      "en_concordant": "up-onknikken",
+      "grondvorm": "op-aanknikken",
+      "stamfamilie": [
+        "G1962",
+        "G3506 neuō",
+        "G1909 epi"
+      ],
+      "toelichting": "Toestemmen. Samenstelling epi + neuō. Eenmaal NT. Concordant: 'op-aanknikken'. Hand 18:20 (Paulus-Efeze-Joden 'ouk epene",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3052",
+      "grieks": "λόγιος",
+      "translit": "logios",
+      "woordsoort": "bn",
+      "en_concordant": "rede-rich",
+      "grondvorm": "rede-rijk",
+      "stamfamilie": [
+        "G3052",
+        "G3056 logos"
+      ],
+      "toelichting": "Welbespraakt. Bijvoeglijk-stam-logos-familie. Eenmaal NT. Concordant: 'rede-rijk'. Hand 18:24 (kerntekst-Apollos 'Ioudai",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4389",
+      "grieks": "προτρέπομαι",
+      "translit": "protrepō",
+      "woordsoort": "ww",
+      "en_concordant": "before-out-keren",
+      "grondvorm": "voor-uit-keren",
+      "stamfamilie": [
+        "G4389",
+        "G5157 tropē (verwante stam)",
+        "G4253 pro"
+      ],
+      "toelichting": "Aanmoedigen-voor. Samenstelling pro + trepō. Eenmaal NT. Concordant: 'voor-uit-keren'. Hand 18:27 (Apollos-Achaja 'protr",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1246",
+      "grieks": "διακατελέγχομαι",
+      "translit": "diakatelegchomai",
+      "woordsoort": "ww",
+      "en_concordant": "through-down-weerleggen",
+      "grondvorm": "door-neder-weerleggen",
+      "stamfamilie": [
+        "G1246",
+        "G1651 elegchō",
+        "G1223 dia",
+        "G2596 kata"
+      ],
+      "toelichting": "Krachtig-weerleggen. Samenstelling dia + kata + elegchomai. Eenmaal NT. Concordant: 'door-neder-weerleggen'. Hand 18:28 ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G510",
+      "grieks": "ἀνωτερικός",
+      "translit": "anōterikos",
+      "woordsoort": "bn",
+      "en_concordant": "up-aboveon-gelegen",
+      "grondvorm": "op-bovenaan-gelegen",
+      "stamfamilie": [
+        "G510",
+        "G511 anōteros"
+      ],
+      "toelichting": "Hoger-gelegen. Bijvoeglijk-stam-anōteros-familie. Eenmaal NT. Concordant: 'op-bovenaan-gelegen'. Hand 19:1 (Paulus-Efeze",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4981",
+      "grieks": "σχολή",
+      "translit": "scholē",
+      "woordsoort": "zn",
+      "en_concordant": "school",
+      "grondvorm": "school",
+      "stamfamilie": [
+        "G4981"
+      ],
+      "toelichting": "Filosoof-school. Eenmaal NT. Concordant: 'school'. Hand 19:9 (kerntekst-Efeze-Tyrannus 'dialegomenos en tēi scholēi Tura",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5181",
+      "grieks": "Τύραννος",
+      "translit": "turannos",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Tyrannus-pn",
+      "grondvorm": "Tyrannus",
+      "stamfamilie": [
+        "G5181"
+      ],
+      "toelichting": "Tyrannus. Hellenistisch-Griekse-naam 'tiran'. Filosoof-Efeze. Eenmaal NT. Concordant: 'Tyrannus'. Hand 19:9 (paar-met-sc",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5559",
+      "grieks": "χρώς",
+      "translit": "chrōs",
+      "woordsoort": "zn",
+      "en_concordant": "skin",
+      "grondvorm": "huid",
+      "stamfamilie": [
+        "G5559"
+      ],
+      "toelichting": "Huid. Eenmaal NT. Concordant: 'huid'. Hand 19:12 (kerntekst-Efeze-Paulus-doeken 'apo tou chrōtos autou apopheresthai').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4612",
+      "grieks": "σιμικίνθιον",
+      "translit": "simikinthion",
+      "woordsoort": "zn",
+      "en_concordant": "schort",
+      "grondvorm": "schort",
+      "stamfamilie": [
+        "G4612"
+      ],
+      "toelichting": "Werkschort. Latijns-leenwoord 'semicinctium'. Eenmaal NT. Concordant: 'schort'. Hand 19:12 (paar-met-chrōs 'soudaria ē s",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1845",
+      "grieks": "ἐξορκιστής",
+      "translit": "exorkistēs",
+      "woordsoort": "zn",
+      "en_concordant": "out-bezweerder",
+      "grondvorm": "uit-bezweerder",
+      "stamfamilie": [
+        "G1845",
+        "G1844 exorkizō",
+        "G3727 horkos"
+      ],
+      "toelichting": "Bezweerder-exorcist. Werkwoord-stam-exorkizō-familie. Eenmaal NT. Concordant: 'uit-bezweerder'. Hand 19:13 (Efeze-Joodse",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4630",
+      "grieks": "Σκευᾶ",
+      "translit": "skeua",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Skevas-pn",
+      "grondvorm": "Skevas",
+      "stamfamilie": [
+        "G4630"
+      ],
+      "toelichting": "Skevas. Hebreeuws-leenwoord. Joodse-overpriester-Efeze, vader-zeven-bezweerders. Eenmaal NT. Concordant: 'Skevas'. Hand ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2177",
+      "grieks": "ἐφάλλομαι",
+      "translit": "ephallomai",
+      "woordsoort": "ww",
+      "en_concordant": "up-onspringen",
+      "grondvorm": "op-aanspringen",
+      "stamfamilie": [
+        "G2177",
+        "G242 hallomai",
+        "G1909 epi"
+      ],
+      "toelichting": "Op-iemand-aanspringen. Samenstelling epi + hallomai. Eenmaal NT. Concordant: 'op-aanspringen'. Hand 19:16 (kerntekst-Efe",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4860",
+      "grieks": "συμψηφίζω",
+      "translit": "sumpsēphizō",
+      "woordsoort": "ww",
+      "en_concordant": "togetre-stenen-rekenen",
+      "grondvorm": "samen-stenen-rekenen",
+      "stamfamilie": [
+        "G4860",
+        "G5585 psēphizō",
+        "G4862 sun"
+      ],
+      "toelichting": "Samen-rekenen-met-stenen. Samenstelling sun + psēphizō. Eenmaal NT. Concordant: 'samen-stenen-rekenen'. Hand 19:19 (Efez",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G695",
+      "grieks": "ἀργυροκόπος",
+      "translit": "argurokopos",
+      "woordsoort": "zn",
+      "en_concordant": "zilslager",
+      "grondvorm": "zilver-slager",
+      "stamfamilie": [
+        "G695",
+        "G696 arguros",
+        "G2875 koptō"
+      ],
+      "toelichting": "Zilversmid. Samenstelling arguros + koptō. Eenmaal NT. Concordant: 'zilver-slager'. Hand 19:24 (kerntekst-Demetrius 'arg",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2142",
+      "grieks": "εὐπορία",
+      "translit": "euporia",
+      "woordsoort": "zn",
+      "en_concordant": "wel-outaway",
+      "grondvorm": "wel-uitweg",
+      "stamfamilie": [
+        "G2142",
+        "G2141 euporeō"
+      ],
+      "toelichting": "Welvaart. Werkwoord-stam-euporeō-familie. Eenmaal NT. Concordant: 'wel-uitweg'. Hand 19:25 (Demetrius-Efeze 'ek tautēs t",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G557",
+      "grieks": "ἀπελεγμός",
+      "translit": "apelegmos",
+      "woordsoort": "zn",
+      "en_concordant": "away-weerlegging",
+      "grondvorm": "weg-weerlegging",
+      "stamfamilie": [
+        "G557",
+        "G1651 elegchō (verwante stam)",
+        "G575 apo"
+      ],
+      "toelichting": "Verachting. Eenmaal NT. Concordant: 'weg-weerlegging'. Hand 19:27 (Demetrius-Efeze 'eis apelegmon elthein').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4799",
+      "grieks": "σύγχυσις",
+      "translit": "sugchusis",
+      "woordsoort": "zn",
+      "en_concordant": "togetre-outgieting",
+      "grondvorm": "samen-uitgieting",
+      "stamfamilie": [
+        "G4799",
+        "G4797 sugcheō"
+      ],
+      "toelichting": "Verwarring. Werkwoord-stam-sugcheō-familie. Eenmaal NT. Concordant: 'samen-uitgieting'. Hand 19:29 (Efeze-oproer 'eplēst",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G775",
+      "grieks": "Ἀσιάρχης",
+      "translit": "asiarchēs",
+      "woordsoort": "zn",
+      "en_concordant": "Asiarch",
+      "grondvorm": "Asiarch",
+      "stamfamilie": [
+        "G775",
+        "G773 Asia",
+        "G746 archē"
+      ],
+      "toelichting": "Asiarch (overste-provincie-Asia). Samenstelling Asia + archē. Eenmaal NT. Concordant: 'Asiarch'. Hand 19:31 (Efeze-oproe",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3511",
+      "grieks": "νεωκόρος",
+      "translit": "neōkoros",
+      "woordsoort": "zn",
+      "en_concordant": "temple-bewaarder",
+      "grondvorm": "tempel-bewaarder",
+      "stamfamilie": [
+        "G3511",
+        "G3485 naos"
+      ],
+      "toelichting": "Tempelbewaarder. Stam-substantief-naos-familie. Eenmaal NT. Concordant: 'tempel-bewaarder'. Hand 19:35 (kerntekst-Efeze-",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1356",
+      "grieks": "διοπετής",
+      "translit": "diopetēs",
+      "woordsoort": "bn",
+      "en_concordant": "Zeus-gevallen",
+      "grondvorm": "Zeus-gevallen",
+      "stamfamilie": [
+        "G1356",
+        "G2203 Zeus",
+        "G4098 piptō"
+      ],
+      "toelichting": "Uit-de-hemel-gevallen. Samenstelling dios + petēs. Eenmaal NT. Concordant: 'Zeus-gevallen'. Hand 19:35 (Efeze-Artemis 't",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G368",
+      "grieks": "ἀναντίρρητος",
+      "translit": "anantirrētos",
+      "woordsoort": "bn",
+      "en_concordant": "on-anti-spreekbaar",
+      "grondvorm": "on-tegen-spreekbaar",
+      "stamfamilie": [
+        "G368",
+        "G369 anantirrētōs",
+        "G473 anti"
+      ],
+      "toelichting": "Onweerlegbaar. Bijvoeglijk-stam-anantirrētōs-familie. Eenmaal NT. Concordant: 'on-tegen-spreekbaar'. Hand 19:36 (Efeze-s",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2417",
+      "grieks": "ἱερόσυλος",
+      "translit": "hierosulos",
+      "woordsoort": "zn",
+      "en_concordant": "temple-rover",
+      "grondvorm": "tempel-rover",
+      "stamfamilie": [
+        "G2417",
+        "G2411 hieron",
+        "G4813 sulagōgeō (verwante stam)"
+      ],
+      "toelichting": "Tempelroof-er. Samenstelling hieron + sulaō. Eenmaal NT. Concordant: 'tempel-rover'. Hand 19:37 (Efeze-stadssecretaris '",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1671",
+      "grieks": "Ἑλλάς",
+      "translit": "hellas",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Hellas-pn",
+      "grondvorm": "Hellas",
+      "stamfamilie": [
+        "G1671",
+        "G1672 Hellēn"
+      ],
+      "toelichting": "Hellas (Griekenland). Eenmaal NT. Concordant: 'Hellas'. Hand 20:2 (Paulus-zendingsreis 'ēlthen eis tēn Hellada').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4902",
+      "grieks": "συνέπομαι",
+      "translit": "sunepomai",
+      "woordsoort": "ww",
+      "en_concordant": "togetre-with-follow",
+      "grondvorm": "samen-mee-volgen",
+      "stamfamilie": [
+        "G4902",
+        "G4862 sun"
+      ],
+      "toelichting": "Samen-meegaan. Samenstelling sun + hepomai. Eenmaal NT. Concordant: 'samen-mee-volgen'. Hand 20:4 (Paulus-zendings-gezel",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4986",
+      "grieks": "Σώπατρος",
+      "translit": "sōpatros",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Sopatros-pn",
+      "grondvorm": "Sopatros",
+      "stamfamilie": [
+        "G4986"
+      ],
+      "toelichting": "Sopatros. Hellenistisch-Griekse-naam 'redder-vader'. Bereeër-Paulus-medewerker. Eenmaal NT. Concordant: 'Sopatros'. Hand",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G961",
+      "grieks": "Βεροιαῖος",
+      "translit": "beroiaios",
+      "woordsoort": "bn",
+      "en_concordant": "Bereon",
+      "grondvorm": "Bereaan",
+      "stamfamilie": [
+        "G961",
+        "G960 Beroia"
+      ],
+      "toelichting": "Bereaan. Bijvoeglijk-stam-Beroia-familie. Eenmaal NT. Concordant: 'Bereaan'. Hand 20:4 (paar-met-Sōpatros 'Sōpatros Purr",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4580",
+      "grieks": "Σεκοῦνδος",
+      "translit": "sekoundos",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Secundus-pn",
+      "grondvorm": "Secundus",
+      "stamfamilie": [
+        "G4580"
+      ],
+      "toelichting": "Secundus. Latijns-leenwoord 'tweede'. Tessalonicenzer-Paulus-medewerker. Eenmaal NT. Concordant: 'Secundus'. Hand 20:4 (",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1190",
+      "grieks": "Δερβαῖος",
+      "translit": "derbaios",
+      "woordsoort": "bn",
+      "en_concordant": "Derbeer",
+      "grondvorm": "Derbeer",
+      "stamfamilie": [
+        "G1190",
+        "G1191 Derbē"
+      ],
+      "toelichting": "Inwoner-Derbe. Bijvoeglijk-stam-Derbē-familie. Eenmaal NT. Concordant: 'Derbeer'. Hand 20:4 (Paulus-medewerkers 'Gaios D",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G774",
+      "grieks": "Ἀσιανός",
+      "translit": "asianos",
+      "woordsoort": "zn",
+      "en_concordant": "Asianer",
+      "grondvorm": "Asianer",
+      "stamfamilie": [
+        "G774",
+        "G773 Asia"
+      ],
+      "toelichting": "Inwoner-Asia. Eenmaal NT. Concordant: 'Asianer'. Hand 20:4 (Paulus-medewerkers 'Asianoi de Tuchikos kai Trophimos').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3905",
+      "grieks": "παρατείνω",
+      "translit": "parateinō",
+      "woordsoort": "ww",
+      "en_concordant": "beside-outstrekken",
+      "grondvorm": "naast-uitstrekken",
+      "stamfamilie": [
+        "G3905",
+        "G1614 ekteinō (verwante stam)",
+        "G3844 para"
+      ],
+      "toelichting": "Verlengen-uitrekken. Samenstelling para + teinō. Eenmaal NT. Concordant: 'naast-uitstrekken'. Hand 20:7 (Paulus-Troas-Eu",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2161",
+      "grieks": "Εὔτυχος",
+      "translit": "eutuchos",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Eutychus-pn",
+      "grondvorm": "Eutychus",
+      "stamfamilie": [
+        "G2161"
+      ],
+      "toelichting": "Eutychus. Hellenistisch-Griekse-naam 'gelukkig'. Slapende-jongeling-Troas. Eenmaal NT. Concordant: 'Eutychus'. Hand 20:9",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5152",
+      "grieks": "τρίστεγον",
+      "translit": "tristegos",
+      "woordsoort": "zn",
+      "en_concordant": "three-verdieping",
+      "grondvorm": "drie-verdieping",
+      "stamfamilie": [
+        "G5152",
+        "G5140 treis",
+        "G4721 stegē"
+      ],
+      "toelichting": "Derde-verdieping. Samenstelling treis + stegē. Eenmaal NT. Concordant: 'drie-verdieping'. Hand 20:9 (kerntekst-Eutychus-",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4843",
+      "grieks": "συμπεριλαμβάνω",
+      "translit": "sumperilambanō",
+      "woordsoort": "ww",
+      "en_concordant": "togetre-aroundaround-onnemen",
+      "grondvorm": "samen-rondom-aannemen",
+      "stamfamilie": [
+        "G4843",
+        "G2983 lambanō",
+        "G4862 sun",
+        "G4012 peri"
+      ],
+      "toelichting": "Omarmen-omklemmen. Samenstelling sun + peri + lambanō. Eenmaal NT. Concordant: 'samen-rondom-aannemen'. Hand 20:10 (Paul",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G827",
+      "grieks": "αὐγή",
+      "translit": "augē",
+      "woordsoort": "zn",
+      "en_concordant": "day-light",
+      "grondvorm": "dag-licht",
+      "stamfamilie": [
+        "G827"
+      ],
+      "toelichting": "Dageraad. Eenmaal NT. Concordant: 'dag-licht'. Hand 20:11 (Paulus-Troas-Eutychus 'homilēsas achri augēs houtōs exēlthen'",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3357",
+      "grieks": "μετρίως",
+      "translit": "metriōs",
+      "woordsoort": "bw",
+      "en_concordant": "mate-lijk",
+      "grondvorm": "mate-lijk",
+      "stamfamilie": [
+        "G3357",
+        "G3358 metron"
+      ],
+      "toelichting": "Matig, niet-weinig. Bijwoord-stam-metron-familie. Eenmaal NT. Concordant: 'mate-lijk'. Hand 20:12 (Paulus-Eutychus 'pare",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3978",
+      "grieks": "πεζεύω",
+      "translit": "pezeuō",
+      "woordsoort": "ww",
+      "en_concordant": "te-foot-gon",
+      "grondvorm": "te-voet-gaan",
+      "stamfamilie": [
+        "G3978",
+        "G3979 pezēi"
+      ],
+      "toelichting": "Te-voet-gaan. Werkwoord-stam-pezos-familie. Eenmaal NT. Concordant: 'te-voet-gaan'. Hand 20:13 (Paulus-naar-Assos 'mellō",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3412",
+      "grieks": "Μιτυλήνη",
+      "translit": "mitulēnē",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Mitylene-pn",
+      "grondvorm": "Mitylene",
+      "stamfamilie": [
+        "G3412"
+      ],
+      "toelichting": "Mitylene. Hoofdstad-Lesbos. Eenmaal NT. Concordant: 'Mitylene'. Hand 20:14 (Paulus-Lesbos 'ēlthomen eis Mitulēnēn').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G481",
+      "grieks": "ἀντικρύς",
+      "translit": "antikrus",
+      "woordsoort": "vz",
+      "en_concordant": "anti-recht",
+      "grondvorm": "tegen-recht",
+      "stamfamilie": [
+        "G481",
+        "G473 anti"
+      ],
+      "toelichting": "Tegenover. Eenmaal NT. Concordant: 'tegen-over-zij'. Hand 20:15 (Paulus-Egeïsche-route 'paregenometha antikrus Chiou').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5508",
+      "grieks": "Χίος",
+      "translit": "chios",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Chios-pn",
+      "grondvorm": "Chios",
+      "stamfamilie": [
+        "G5508"
+      ],
+      "toelichting": "Chios. Egeïsch-eiland. Eenmaal NT. Concordant: 'Chios'. Hand 20:15 (Paulus-route 'antikrus Chiou').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4544",
+      "grieks": "Σάμος",
+      "translit": "samos",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Samos-pn",
+      "grondvorm": "Samos",
+      "stamfamilie": [
+        "G4544"
+      ],
+      "toelichting": "Samos. Egeïsch-eiland. Eenmaal NT. Concordant: 'Samos'. Hand 20:15 (Paulus-route 'parebalomen eis Samon').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5175",
+      "grieks": "Τρωγύλλιον",
+      "translit": "trōgullion",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Trogyllion-pn",
+      "grondvorm": "Trogyllion",
+      "stamfamilie": [
+        "G5175"
+      ],
+      "toelichting": "Trogyllion. Klein-Aziatisch-kaap-bij-Samos. Eenmaal NT (variant). Concordant: 'Trogyllion'. Hand 20:15 (variant) (Paulus",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3896",
+      "grieks": "παραπλέω",
+      "translit": "parapleō",
+      "woordsoort": "ww",
+      "en_concordant": "beside-langs-sail",
+      "grondvorm": "naast-langs-varen",
+      "stamfamilie": [
+        "G3896",
+        "G4126 pleō",
+        "G3844 para"
+      ],
+      "toelichting": "Langs-de-kust-varen. Samenstelling para + pleō. Eenmaal NT. Concordant: 'naast-langs-varen'. Hand 20:16 (Paulus-route 'k",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5551",
+      "grieks": "χρονοτριβέω",
+      "translit": "chronotribeō",
+      "woordsoort": "ww",
+      "en_concordant": "time-throughbrengen",
+      "grondvorm": "tijd-doorbrengen",
+      "stamfamilie": [
+        "G5551",
+        "G5550 chronos",
+        "G5147 tribos (verwante stam)"
+      ],
+      "toelichting": "Tijd-besteden. Samenstelling chronos + tribō. Eenmaal NT. Concordant: 'tijd-doorbrengen'. Hand 20:16 (paar-met-parapleō ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G867",
+      "grieks": "ἄφιξις",
+      "translit": "aphixis",
+      "woordsoort": "zn",
+      "en_concordant": "away-onkomst",
+      "grondvorm": "weg-aankomst",
+      "stamfamilie": [
+        "G867"
+      ],
+      "toelichting": "Vertrek-of-aankomst. Eenmaal NT. Concordant: 'weg-aankomst'. Hand 20:29 (kerntekst-Paulus-Efeze-oudsten 'meta tēn aphixi",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5148",
+      "grieks": "τριετία",
+      "translit": "trietia",
+      "woordsoort": "zn",
+      "en_concordant": "three-jaars-time",
+      "grondvorm": "drie-jaars-tijd",
+      "stamfamilie": [
+        "G5148",
+        "G5140 treis",
+        "G2094 etos"
+      ],
+      "toelichting": "Drie-jaars-tijd. Samenstelling treis + etos. Eenmaal NT. Concordant: 'drie-jaars-tijd'. Hand 20:31 (Paulus-Efeze-afschei",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2972",
+      "grieks": "Κῶς",
+      "translit": "kōs",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Kos-pn",
+      "grondvorm": "Kos",
+      "stamfamilie": [
+        "G2972"
+      ],
+      "toelichting": "Kos. Egeïsch-eiland. Eenmaal NT. Concordant: 'Kos'. Hand 21:1 (Paulus-route-Egeïsche 'euthudromēsantes ēlthomen eis tēn ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4499",
+      "grieks": "Ῥόδος",
+      "translit": "rodos",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Rhodos-pn",
+      "grondvorm": "Rhodos",
+      "stamfamilie": [
+        "G4499"
+      ],
+      "toelichting": "Rhodos. Egeïsch-eiland. Eenmaal NT. Concordant: 'Rhodos'. Hand 21:1 (Paulus-route 'tēi de hexēs eis tēn Rodon').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3959",
+      "grieks": "Πάταρα",
+      "translit": "patara",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Patara-pn",
+      "grondvorm": "Patara",
+      "stamfamilie": [
+        "G3959"
+      ],
+      "toelichting": "Patara. Lycische-haven-stad. Eenmaal NT. Concordant: 'Patara'. Hand 21:1 (Paulus-route 'kakeithen eis Patara').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G670",
+      "grieks": "ἀποφορτίζομαι",
+      "translit": "apophortizomai",
+      "woordsoort": "ww",
+      "en_concordant": "away-vreight-lossen",
+      "grondvorm": "weg-vracht-lossen",
+      "stamfamilie": [
+        "G670",
+        "G5412 phortizō",
+        "G575 apo"
+      ],
+      "toelichting": "Vracht-uitladen. Samenstelling apo + phortizō. Eenmaal NT. Concordant: 'weg-vracht-lossen'. Hand 21:3 (Tyrus 'ekeise gar",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1274",
+      "grieks": "διανύω",
+      "translit": "dianuō",
+      "woordsoort": "ww",
+      "en_concordant": "through-volbrengen",
+      "grondvorm": "door-volbrengen",
+      "stamfamilie": [
+        "G1274",
+        "G1223 dia"
+      ],
+      "toelichting": "Voltooien-(reis). Samenstelling dia + anuō. Eenmaal NT. Concordant: 'door-volbrengen'. Hand 21:7 (Paulus-route 'hēmeis t",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4424",
+      "grieks": "Πτολεμαΐς",
+      "translit": "ptolemaIs",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Ptolemas-pn",
+      "grondvorm": "Ptolemaïs",
+      "stamfamilie": [
+        "G4424"
+      ],
+      "toelichting": "Ptolemaïs (Akko). Hellenistisch-genaamd-naar-Ptolemaeus. Eenmaal NT. Concordant: 'Ptolemaïs'. Hand 21:7 (Paulus-route 'k",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1786",
+      "grieks": "ἐντόπιος",
+      "translit": "entopios",
+      "woordsoort": "bn",
+      "en_concordant": "in-plaats-igen",
+      "grondvorm": "in-plaats-igen",
+      "stamfamilie": [
+        "G1786",
+        "G5117 topos",
+        "G1722 en"
+      ],
+      "toelichting": "Plaatselijk-inwoners. Samenstelling en + topos. Eenmaal NT. Concordant: 'in-plaats-igen'. Hand 21:12 (Caesarea-discipele",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4919",
+      "grieks": "συνθρύπτω",
+      "translit": "sunthruptō",
+      "woordsoort": "ww",
+      "en_concordant": "togetre-verbrijzelen",
+      "grondvorm": "samen-verbrijzelen",
+      "stamfamilie": [
+        "G4919",
+        "G4862 sun"
+      ],
+      "toelichting": "Het-hart-breken. Samenstelling sun + thruptō. Eenmaal NT. Concordant: 'samen-verbrijzelen'. Hand 21:13 (kerntekst-Paulus",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G643",
+      "grieks": "ἀποσκευάζομαι",
+      "translit": "aposkeuazomai",
+      "woordsoort": "ww",
+      "en_concordant": "away-bagapakken",
+      "grondvorm": "weg-bagage-pakken",
+      "stamfamilie": [
+        "G643",
+        "G4632 skeuos",
+        "G575 apo"
+      ],
+      "toelichting": "Bagage-inpakken-vertrekken. Samenstelling apo + skeuazō. Eenmaal NT (variant). Concordant: 'weg-bagage-pakken'. Hand 21:",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3416",
+      "grieks": "Μνάσων",
+      "translit": "mnasōn",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Mnason-pn",
+      "grondvorm": "Mnason",
+      "stamfamilie": [
+        "G3416"
+      ],
+      "toelichting": "Mnason. Hellenistisch-Griekse-naam. Cyprische-discipel-oude. Eenmaal NT. Concordant: 'Mnason'. Hand 21:16 (Paulus-Jeruza",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1604",
+      "grieks": "ἐκπλήρωσις",
+      "translit": "ekplērōsis",
+      "woordsoort": "zn",
+      "en_concordant": "out-full-vulling",
+      "grondvorm": "uit-vol-vulling",
+      "stamfamilie": [
+        "G1604",
+        "G1603 ekplēroō",
+        "G4137 plēroō"
+      ],
+      "toelichting": "Volledige-vervulling. Werkwoord-stam-ekplēroō-familie. Eenmaal NT. Concordant: 'uit-vol-vulling'. Hand 21:26 (Paulus-tem",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G49",
+      "grieks": "ἁγνισμός",
+      "translit": "hagnismos",
+      "woordsoort": "zn",
+      "en_concordant": "zuivering",
+      "grondvorm": "ge-zuivering",
+      "stamfamilie": [
+        "G49",
+        "G48 hagnizō",
+        "G47 hagneia"
+      ],
+      "toelichting": "Reinigings-akt. Onderscheid van G2512 katharismos (zuivering-cultisch). Werkwoord-stam-hagnizō-familie. Eenmaal NT. Conc",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4890",
+      "grieks": "συνδρομή",
+      "translit": "sundromē",
+      "woordsoort": "zn",
+      "en_concordant": "togetre-toeloup",
+      "grondvorm": "samen-toeloop",
+      "stamfamilie": [
+        "G4890",
+        "G4936 suntrechō",
+        "G4862 sun"
+      ],
+      "toelichting": "Volksoploop. Werkwoord-stam-suntrechō-familie. Eenmaal NT. Concordant: 'samen-toeloop'. Hand 21:30 (Paulus-arrestatie-te",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5334",
+      "grieks": "φάσις",
+      "translit": "phasis",
+      "woordsoort": "zn",
+      "en_concordant": "on-zegging",
+      "grondvorm": "aan-zegging",
+      "stamfamilie": [
+        "G5334",
+        "G5346 phēmi (verwante stam)"
+      ],
+      "toelichting": "Bericht-aankondiging. Eenmaal NT. Concordant: 'be-richt'. Hand 21:31 (Paulus-arrestatie 'anebē phasis tōi chiliarchōi tē",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2701",
+      "grieks": "κατατρέχω",
+      "translit": "katatrechō",
+      "woordsoort": "ww",
+      "en_concordant": "down-run",
+      "grondvorm": "neder-rennen",
+      "stamfamilie": [
+        "G2701",
+        "G5143 trechō",
+        "G2596 kata"
+      ],
+      "toelichting": "Naar-beneden-rennen. Samenstelling kata + trechō. Eenmaal NT. Concordant: 'neder-rennen'. Hand 21:32 (Paulus-arrestatie-",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4607",
+      "grieks": "σικάριος",
+      "translit": "sikarios",
+      "woordsoort": "zn",
+      "en_concordant": "dolk-moordenaar",
+      "grondvorm": "dolk-moordenaar",
+      "stamfamilie": [
+        "G4607"
+      ],
+      "toelichting": "Sicarius-dolkmoordenaar. Latijns-leenwoord. Eenmaal NT. Concordant: 'dolk-moordenaar'. Hand 21:38 (Paulus-tribuun 'exaga",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G767",
+      "grieks": "ἄσημος",
+      "translit": "asēmos",
+      "woordsoort": "bn",
+      "en_concordant": "on-onzienlijk",
+      "grondvorm": "on-aanzienlijk",
+      "stamfamilie": [
+        "G767",
+        "G4592 sēmeion (a-privans)"
+      ],
+      "toelichting": "Onaanzienlijk. A-privans + sēmos. Eenmaal NT. Concordant: 'on-aanzienlijk'. Hand 21:39 (kerntekst-Paulus-zelfgetuigenis ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G195",
+      "grieks": "ἀκρίβεια",
+      "translit": "akribeia",
+      "woordsoort": "zn",
+      "en_concordant": "nauw-gezetheid",
+      "grondvorm": "nauw-gezetheid",
+      "stamfamilie": [
+        "G195",
+        "G198 akriboō",
+        "G199 akribōs"
+      ],
+      "toelichting": "Nauwkeurigheid. Werkwoord-stam-akriboō-familie. Eenmaal NT. Concordant: 'nauw-gezetheid'. Hand 22:3 (kerntekst-Paulus-Ga",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1475",
+      "grieks": "ἔδαφος",
+      "translit": "edaphos",
+      "woordsoort": "zn",
+      "en_concordant": "grond",
+      "grondvorm": "ge-grond",
+      "stamfamilie": [
+        "G1475",
+        "G1474 edaphizō"
+      ],
+      "toelichting": "Grondoppervlak. Stam-substantief-edaphizō-familie. Eenmaal NT. Concordant: 'ge-grond'. Hand 22:7 (Paulus-Damascus 'epesa",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5439",
+      "grieks": "φυλακίζω",
+      "translit": "phulakizō",
+      "woordsoort": "ww",
+      "en_concordant": "catch-zetten",
+      "grondvorm": "ge-vangen-zetten",
+      "stamfamilie": [
+        "G5439",
+        "G5438 phulakē"
+      ],
+      "toelichting": "Gevangen-zetten. Werkwoord-stam-phulakē-familie. Eenmaal NT. Concordant: 'ge-vangen-zetten'. Hand 22:19 (Paulus-zelfgetu",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4495",
+      "grieks": "ῥιπτέω",
+      "translit": "riptō-(verschillig)",
+      "woordsoort": "ww",
+      "en_concordant": "werpen-riptō",
+      "grondvorm": "werpen-(riptō)",
+      "stamfamilie": [
+        "G4495",
+        "G4496 rhiptō"
+      ],
+      "toelichting": "Heen-en-weer-werpen (variant van rhiptō). Onderscheid van G4496 rhiptō (werpen-algemeen). Eenmaal NT. Concordant: 'werpe",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4385",
+      "grieks": "προτείνω",
+      "translit": "proteinō",
+      "woordsoort": "ww",
+      "en_concordant": "before-out-outstrekken",
+      "grondvorm": "voor-uit-uitstrekken",
+      "stamfamilie": [
+        "G4385",
+        "G1614 ekteinō (verwante stam)",
+        "G4253 pro"
+      ],
+      "toelichting": "Vooruit-binden-uitstrekken. Samenstelling pro + teinō. Eenmaal NT. Concordant: 'voor-uit-uitstrekken'. Hand 22:25 (Paulu",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3147",
+      "grieks": "μαστίζω",
+      "translit": "mastizō",
+      "woordsoort": "ww",
+      "en_concordant": "geesselen",
+      "grondvorm": "geesselen",
+      "stamfamilie": [
+        "G3147",
+        "G3146 mastigoō",
+        "G3148 mastix"
+      ],
+      "toelichting": "Geselen. Werkwoord-stam-mastix-familie. Eenmaal NT. Concordant: 'geesselen'. Hand 22:25 (Paulus-tribuun 'akatakriton mas",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5109",
+      "grieks": "τοῖχος",
+      "translit": "toichos",
+      "woordsoort": "zn",
+      "en_concordant": "wall-wand",
+      "grondvorm": "muur-wand",
+      "stamfamilie": [
+        "G5109"
+      ],
+      "toelichting": "Wand-muur. Eenmaal NT. Concordant: 'muur-wand'. Hand 23:3 (kerntekst-Paulus-Ananias 'tuptein se mellei ho theos, toiche ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3891",
+      "grieks": "παρανομέω",
+      "translit": "paranomeō",
+      "woordsoort": "ww",
+      "en_concordant": "beside-wets-overtreden",
+      "grondvorm": "naast-wets-overtreden",
+      "stamfamilie": [
+        "G3891",
+        "G3551 nomos",
+        "G3844 para"
+      ],
+      "toelichting": "Tegen-Wet-handelen. Samenstelling para + nomos. Eenmaal NT. Concordant: 'naast-wets-overtreden'. Hand 23:3 (paar-met-toi",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1264",
+      "grieks": "διαμάχομαι",
+      "translit": "diamachomai",
+      "woordsoort": "ww",
+      "en_concordant": "through-strijden",
+      "grondvorm": "door-strijden",
+      "stamfamilie": [
+        "G1264",
+        "G3164 machomai",
+        "G1223 dia"
+      ],
+      "toelichting": "Heftig-strijden. Samenstelling dia + machomai. Eenmaal NT. Concordant: 'door-strijden'. Hand 23:9 (Paulus-Sanhedrin 'dim",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2313",
+      "grieks": "θεομαχέω",
+      "translit": "theomacheō",
+      "woordsoort": "ww",
+      "en_concordant": "god-bestrijden",
+      "grondvorm": "god-bestrijden",
+      "stamfamilie": [
+        "G2313",
+        "G2314 theomachos",
+        "G3164 machomai"
+      ],
+      "toelichting": "Tegen-God-strijden. Werkwoord-stam-theomachos-familie. Eenmaal NT (variant). Concordant: 'god-bestrijden'. Hand 23:9 (va",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4945",
+      "grieks": "συνωμοσία",
+      "translit": "sunōmosia",
+      "woordsoort": "zn",
+      "en_concordant": "togetre-oath-zwering",
+      "grondvorm": "samen-eed-zwering",
+      "stamfamilie": [
+        "G4945",
+        "G3727 horkos (verwante stam)",
+        "G4862 sun"
+      ],
+      "toelichting": "Samen-zwering. Samenstelling sun + omosia. Eenmaal NT. Concordant: 'samen-eed-zwering'. Hand 23:13 (Paulus-veertig-manne",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1583",
+      "grieks": "ἐκλαλέω",
+      "translit": "eklaleō",
+      "woordsoort": "ww",
+      "en_concordant": "out-outspreken",
+      "grondvorm": "uit-uitspreken",
+      "stamfamilie": [
+        "G1583",
+        "G2980 laleō",
+        "G1537 ek"
+      ],
+      "toelichting": "Uit-laten-spreken-bekendmaken. Samenstelling ek + laleō. Eenmaal NT. Concordant: 'uit-uitspreken'. Hand 23:22 (Paulus-ve",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1187",
+      "grieks": "δεξιολάβος",
+      "translit": "dexiolabos",
+      "woordsoort": "zn",
+      "en_concordant": "judge-grijper",
+      "grondvorm": "rechter-grijper",
+      "stamfamilie": [
+        "G1187",
+        "G1188 dexios",
+        "G2983 lambanō"
+      ],
+      "toelichting": "Rechtergrijper-soldaat (lans-houder). Samenstelling dexios + labos. Eenmaal NT. Concordant: 'rechter-grijper'. Hand 23:2",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G494",
+      "grieks": "Ἀντιπατρίς",
+      "translit": "antipatris",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Antipatris-pn",
+      "grondvorm": "Antipatris",
+      "stamfamilie": [
+        "G494"
+      ],
+      "toelichting": "Antipatris. Stad-Judea-genaamd-naar-Antipater. Eenmaal NT. Concordant: 'Antipatris'. Hand 23:31 (Paulus-Cesarea-route 'ē",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G325",
+      "grieks": "ἀναδίδωμι",
+      "translit": "anadidōmi",
+      "woordsoort": "ww",
+      "en_concordant": "up-overgeven",
+      "grondvorm": "op-overgeven",
+      "stamfamilie": [
+        "G325",
+        "G1325 didōmi",
+        "G303 ana"
+      ],
+      "toelichting": "Brief-afleveren. Onderscheid van G394 anatithēmi (op-leggen) en G1863 epagō (op-aandragen-oordeel). Samenstelling ana + ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1251",
+      "grieks": "διακούω",
+      "translit": "diakouō",
+      "woordsoort": "ww",
+      "en_concordant": "through-onhoren",
+      "grondvorm": "door-aanhoren",
+      "stamfamilie": [
+        "G1251",
+        "G191 akouō",
+        "G1223 dia"
+      ],
+      "toelichting": "Tot-de-grond-aanhoren. Samenstelling dia + akouō. Eenmaal NT. Concordant: 'door-aanhoren'. Hand 23:35 (Paulus-Felix 'dia",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4489",
+      "grieks": "ῥήτωρ",
+      "translit": "rhētōr",
+      "woordsoort": "zn",
+      "en_concordant": "redenaar",
+      "grondvorm": "redenaar",
+      "stamfamilie": [
+        "G4489",
+        "G4483 rheō (spreken)"
+      ],
+      "toelichting": "Redenaar-advocaat. Werkwoord-stam-rheō-familie. Eenmaal NT. Concordant: 'redenaar'. Hand 24:1 (kerntekst-Tertullus 'meta",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2735",
+      "grieks": "κατόρθωμα",
+      "translit": "katorthōma",
+      "woordsoort": "zn",
+      "en_concordant": "down-recht-zetting",
+      "grondvorm": "neder-recht-zetting",
+      "stamfamilie": [
+        "G2735",
+        "G461 anorthoō (verwante stam)",
+        "G3717 orthos"
+      ],
+      "toelichting": "Verbetering-vereffening. Eenmaal NT. Concordant: 'neder-recht-zetting'. Hand 24:2 (Tertullus-Paulus 'dia tēs sēs pronoia",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3839",
+      "grieks": "πάντῃ",
+      "translit": "pantē",
+      "woordsoort": "bw",
+      "en_concordant": "aller-zijden",
+      "grondvorm": "aller-zijden",
+      "stamfamilie": [
+        "G3839",
+        "G3956 pas"
+      ],
+      "toelichting": "In-alle-opzichten. Eenmaal NT. Concordant: 'aller-zijden'. Hand 24:3 (Tertullus 'pantē te kai pantachou apodechometha').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4935",
+      "grieks": "συντόμως",
+      "translit": "suntomōs",
+      "woordsoort": "bw",
+      "en_concordant": "knupt-lijk",
+      "grondvorm": "be-knopt-lijk",
+      "stamfamilie": [
+        "G4935",
+        "G4932 suntemnō (verwante stam)"
+      ],
+      "toelichting": "Beknopt. Eenmaal NT. Concordant: 'be-knopt-lijk'. Hand 24:4 (Tertullus 'akousai se hēmōn suntomōs').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4414",
+      "grieks": "πρωτοστάτης",
+      "translit": "prōtostatēs",
+      "woordsoort": "zn",
+      "en_concordant": "before-onsteller",
+      "grondvorm": "voor-aansteller",
+      "stamfamilie": [
+        "G4414",
+        "G4413 prōtos",
+        "G2476 histēmi"
+      ],
+      "toelichting": "Eerste-aanstoker. Samenstelling prōtos + histēmi. Eenmaal NT. Concordant: 'voor-aansteller'. Hand 24:5 (Tertullus-Paulus",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G778",
+      "grieks": "ἀσκέω",
+      "translit": "askeō",
+      "woordsoort": "ww",
+      "en_concordant": "oefenen",
+      "grondvorm": "be-oefenen",
+      "stamfamilie": [
+        "G778"
+      ],
+      "toelichting": "Zich-oefenen. Eenmaal NT. Concordant: 'be-oefenen'. Hand 24:16 (kerntekst-Paulus-Felix 'askō aproskopon suneidēsin echei",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G306",
+      "grieks": "ἀναβάλλομαι",
+      "translit": "anaballomai",
+      "woordsoort": "ww",
+      "en_concordant": "up-out-stellen",
+      "grondvorm": "op-uit-stellen",
+      "stamfamilie": [
+        "G306",
+        "G906 ballō",
+        "G303 ana"
+      ],
+      "toelichting": "Uitstellen. Samenstelling ana + ballō. Eenmaal NT. Concordant: 'op-uit-stellen'. Hand 24:22 (Felix-Paulus 'anebaleto de ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1409",
+      "grieks": "Δρούσιλλα",
+      "translit": "drousilla",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Drusilla-pn",
+      "grondvorm": "Drusilla",
+      "stamfamilie": [
+        "G1409"
+      ],
+      "toelichting": "Drusilla. Latijns-leenwoord. Joodse-vrouw-Felix. Eenmaal NT. Concordant: 'Drusilla'. Hand 24:24 (Felix-Drusilla 'sun Dro",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1240",
+      "grieks": "διάδοχος",
+      "translit": "diadochos",
+      "woordsoort": "zn",
+      "en_concordant": "through-upvolger",
+      "grondvorm": "door-opvolger",
+      "stamfamilie": [
+        "G1240",
+        "G1237 diadechomai"
+      ],
+      "toelichting": "Opvolger. Werkwoord-stam-diadechomai-familie. Eenmaal NT. Concordant: 'door-opvolger'. Hand 24:27 (Felix-Festus 'elaben ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4201",
+      "grieks": "Πόρκιος",
+      "translit": "porkios",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Porcius-pn",
+      "grondvorm": "Porcius",
+      "stamfamilie": [
+        "G4201"
+      ],
+      "toelichting": "Porcius. Latijns-leenwoord. Voornaam-Festus. Eenmaal NT. Concordant: 'Porcius'. Hand 24:27 (paar-met-Festus 'Porkion Phē",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4782",
+      "grieks": "συγκαταβαίνω",
+      "translit": "sugkatabainō",
+      "woordsoort": "ww",
+      "en_concordant": "togetre-down-afdalen",
+      "grondvorm": "samen-neder-afdalen",
+      "stamfamilie": [
+        "G4782",
+        "G2597 katabainō",
+        "G4862 sun"
+      ],
+      "toelichting": "Samen-mee-afdalen. Samenstelling sun + kata + bainō. Eenmaal NT. Concordant: 'samen-neder-afdalen'. Hand 25:5 (Festus-Ce",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G157",
+      "grieks": "αἰτίωμα",
+      "translit": "aitiōma",
+      "woordsoort": "zn",
+      "en_concordant": "debt-onklacht",
+      "grondvorm": "schuld-aanklacht",
+      "stamfamilie": [
+        "G157",
+        "G158 aition"
+      ],
+      "toelichting": "Aanklacht. Stam-substantief-aition-familie. Eenmaal NT. Concordant: 'schuld-aanklacht'. Hand 25:7 (Paulus-Festus 'polla ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2566",
+      "grieks": "καλλίον",
+      "translit": "kalliōn",
+      "woordsoort": "bn",
+      "en_concordant": "schoner-beter",
+      "grondvorm": "schoner-beter",
+      "stamfamilie": [
+        "G2566",
+        "G2570 kalos"
+      ],
+      "toelichting": "Beter (comparatief van kalos). Onderscheid van G2909 kreittōn (krachtiger-beter). Eenmaal NT. Concordant: 'schoner-beter",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G311",
+      "grieks": "ἀναβολή",
+      "translit": "anabolē",
+      "woordsoort": "zn",
+      "en_concordant": "up-out-stelling",
+      "grondvorm": "op-uit-stelling",
+      "stamfamilie": [
+        "G311",
+        "G306 anaballomai"
+      ],
+      "toelichting": "Uitstel. Werkwoord-stam-anaballomai-familie. Eenmaal NT. Concordant: 'op-uit-stelling'. Hand 25:17 (Festus-Agrippa 'anab",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1175",
+      "grieks": "δεισιδαιμονία",
+      "translit": "deisidaimonia",
+      "woordsoort": "zn",
+      "en_concordant": "religion-vrees",
+      "grondvorm": "godsdienst-vrees",
+      "stamfamilie": [
+        "G1175",
+        "G1174 deisidaimonesteros"
+      ],
+      "toelichting": "Godsdienstigheid (neutraal). Stam-substantief-deisidaimonesteros-familie. Eenmaal NT. Concordant: 'godsdienst-vrees'. Ha",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1233",
+      "grieks": "διάγνωσις",
+      "translit": "diagnōsis",
+      "woordsoort": "zn",
+      "en_concordant": "through-underkenning",
+      "grondvorm": "door-onderkenning",
+      "stamfamilie": [
+        "G1233",
+        "G1231 diaginōskō"
+      ],
+      "toelichting": "Beoordeling-onderzoek. Werkwoord-stam-diaginōskō-familie. Eenmaal NT. Concordant: 'door-onderkenning'. Hand 25:21 (Festu",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5325",
+      "grieks": "φαντασία",
+      "translit": "phantasia",
+      "woordsoort": "zn",
+      "en_concordant": "toning",
+      "grondvorm": "ver-toning",
+      "stamfamilie": [
+        "G5325",
+        "G5316 phainō (verwante stam)",
+        "G5326 phantasma"
+      ],
+      "toelichting": "Pomp-vertoning. Stam-substantief-phantasma-familie. Eenmaal NT. Concordant: 'ver-toning'. Hand 25:23 (Agrippa-Bernice 'e",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G201",
+      "grieks": "ἀκροατήριον",
+      "translit": "akroatērion",
+      "woordsoort": "zn",
+      "en_concordant": "on-hoor-hall",
+      "grondvorm": "aan-hoor-zaal",
+      "stamfamilie": [
+        "G201",
+        "G202 akroatēs",
+        "G191 akouō"
+      ],
+      "toelichting": "Gehoorzaal. Stam-substantief-akroatēs-familie. Eenmaal NT. Concordant: 'aan-hoor-zaal'. Hand 25:23 (paar-met-phantasia '",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1851",
+      "grieks": "ἐξοχή",
+      "translit": "exochē",
+      "woordsoort": "zn",
+      "en_concordant": "out-outsteking",
+      "grondvorm": "uit-uitsteking",
+      "stamfamilie": [
+        "G1851",
+        "G2192 echō",
+        "G1537 ek"
+      ],
+      "toelichting": "Uitsteken-prominentie. Eenmaal NT. Concordant: 'uit-uitsteking'. Hand 25:23 (Festus-Agrippa-rechtszaak 'tois andrasin to",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4840",
+      "grieks": "συμπάρειμι",
+      "translit": "sumpareimi",
+      "woordsoort": "ww",
+      "en_concordant": "togetre-beside-onwezig",
+      "grondvorm": "samen-naast-aanwezig",
+      "stamfamilie": [
+        "G4840",
+        "G3918 pareimi",
+        "G4862 sun"
+      ],
+      "toelichting": "Mede-aanwezig-zijn. Samenstelling sun + para + eimi. Eenmaal NT. Concordant: 'samen-naast-aanwezig'. Hand 25:24 (Festus-",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1916",
+      "grieks": "ἐπιβοάω",
+      "translit": "epiboaō",
+      "woordsoort": "ww",
+      "en_concordant": "up-luid-outroepen",
+      "grondvorm": "op-luid-uitroepen",
+      "stamfamilie": [
+        "G1916",
+        "G994 boaō",
+        "G1909 epi"
+      ],
+      "toelichting": "Iemand-toeschreeuwen. Onderscheid van G310 anaboaō (op-luid-roepen). Samenstelling epi + boaō. Eenmaal NT. Concordant: '",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G351",
+      "grieks": "ἀνάκρισις",
+      "translit": "anakrisis",
+      "woordsoort": "zn",
+      "en_concordant": "up-underscheiding",
+      "grondvorm": "op-onderscheiding",
+      "stamfamilie": [
+        "G351",
+        "G350 anakrinō"
+      ],
+      "toelichting": "Voor-onderzoek-gerechtelijk. Werkwoord-stam-anakrinō-familie. Eenmaal NT. Concordant: 'op-onderscheiding'. Hand 25:26 (F",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1109",
+      "grieks": "γνώστης",
+      "translit": "gnōstēs",
+      "woordsoort": "zn",
+      "en_concordant": "kenner",
+      "grondvorm": "kenner",
+      "stamfamilie": [
+        "G1109",
+        "G1097 ginōskō"
+      ],
+      "toelichting": "Kenner-deskundige. Werkwoord-stam-ginōskō-familie. Eenmaal NT. Concordant: 'kenner'. Hand 26:3 (Paulus-Agrippa 'gnōstēn ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3116",
+      "grieks": "μακροθύμως",
+      "translit": "makrothumōs",
+      "woordsoort": "bw",
+      "en_concordant": "lank-toornend",
+      "grondvorm": "lank-toornend",
+      "stamfamilie": [
+        "G3116",
+        "G3115 makrothumia",
+        "G3114 makrothumeō"
+      ],
+      "toelichting": "Met-geduld. Bijwoord-stam-makrothumia-familie. Eenmaal NT. Concordant: 'lank-toornend'. Hand 26:3 (Paulus-Agrippa 'makro",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G981",
+      "grieks": "βίωσις",
+      "translit": "biōsis",
+      "woordsoort": "zn",
+      "en_concordant": "levens-loup",
+      "grondvorm": "levens-loop",
+      "stamfamilie": [
+        "G981",
+        "G979 bios",
+        "G980 bioō"
+      ],
+      "toelichting": "Levenswijze. Werkwoord-stam-bioō-familie. Eenmaal NT. Concordant: 'levens-loop'. Hand 26:4 (Paulus-zelfgetuigenis 'tēn m",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G196",
+      "grieks": "ἀκριβέστατος",
+      "translit": "akribestatos",
+      "woordsoort": "bn",
+      "en_concordant": "aller-nauwgezet",
+      "grondvorm": "aller-nauwgezet",
+      "stamfamilie": [
+        "G196",
+        "G195 akribeia",
+        "G199 akribōs"
+      ],
+      "toelichting": "Allernauwkeurigst. Bijvoeglijk-stam-akribeia-familie. Eenmaal NT. Concordant: 'aller-nauwgezet'. Hand 26:5 (kerntekst-Pa",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1429",
+      "grieks": "δωδεκάφυλον",
+      "translit": "dōdekaphulon",
+      "woordsoort": "zn",
+      "en_concordant": "twaalf-tribe",
+      "grondvorm": "twaalf-stam",
+      "stamfamilie": [
+        "G1429",
+        "G1427 dōdeka",
+        "G5443 phulē"
+      ],
+      "toelichting": "Twaalf-stammen-Israël. Samenstelling dōdeka + phulē. Eenmaal NT. Concordant: 'twaalf-stam'. Hand 26:7 (kerntekst-Paulus-",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1616",
+      "grieks": "ἐκτένεια",
+      "translit": "ekteneia",
+      "woordsoort": "zn",
+      "en_concordant": "out-strakheid",
+      "grondvorm": "uit-strakheid",
+      "stamfamilie": [
+        "G1616",
+        "G1618 ektenēs"
+      ],
+      "toelichting": "Aanhoudende-ijver. Stam-substantief-ektenēs-familie. Eenmaal NT. Concordant: 'uit-strakheid'. Hand 26:7 (paar-met-dōdeka",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1693",
+      "grieks": "ἐμμαίνομαι",
+      "translit": "emmainomai",
+      "woordsoort": "ww",
+      "en_concordant": "in-razen",
+      "grondvorm": "in-razen",
+      "stamfamilie": [
+        "G1693",
+        "G3105 mainomai",
+        "G1722 en"
+      ],
+      "toelichting": "Razend-zijn-tegen. Samenstelling en + mainomai. Eenmaal NT. Concordant: 'in-razen'. Hand 26:11 (Paulus-zelfgetuigenis 'p",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2011",
+      "grieks": "ἐπιτροπή",
+      "translit": "epitropē",
+      "woordsoort": "zn",
+      "en_concordant": "up-keers-bevoegdheid",
+      "grondvorm": "op-keers-bevoegdheid",
+      "stamfamilie": [
+        "G2011",
+        "G2012 epitropos"
+      ],
+      "toelichting": "Volmacht-bevoegdheid. Stam-substantief-epitropos-familie. Eenmaal NT. Concordant: 'op-keers-bevoegdheid'. Hand 26:12 (Pa",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2987",
+      "grieks": "λαμπρότης",
+      "translit": "lamprotēs",
+      "woordsoort": "zn",
+      "en_concordant": "luister",
+      "grondvorm": "luister",
+      "stamfamilie": [
+        "G2987",
+        "G2986 lampros"
+      ],
+      "toelichting": "Glans-helderheid. Stam-substantief-lampros-familie. Eenmaal NT. Concordant: 'luister'. Hand 26:13 (Paulus-Damascus 'hupe",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1947",
+      "grieks": "ἐπικουρία",
+      "translit": "epikouria",
+      "woordsoort": "zn",
+      "en_concordant": "up-bijhulp",
+      "grondvorm": "op-bijhulp",
+      "stamfamilie": [
+        "G1947"
+      ],
+      "toelichting": "Bijstand. Eenmaal NT. Concordant: 'op-bijhulp'. Hand 26:22 (Paulus-Agrippa 'epikourias oun tuchōn tēs apo tou theou').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3805",
+      "grieks": "παθητός",
+      "translit": "pathētos",
+      "woordsoort": "bn",
+      "en_concordant": "suffer-waardig",
+      "grondvorm": "lijden-waardig",
+      "stamfamilie": [
+        "G3805",
+        "G3958 paschō",
+        "G3806 pathos"
+      ],
+      "toelichting": "Lijdens-onderhevig. Werkwoord-stam-paschō-familie. Eenmaal NT. Concordant: 'lijden-waardig'. Hand 26:23 (kerntekst-Paulu",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3130",
+      "grieks": "μανία",
+      "translit": "mania",
+      "woordsoort": "zn",
+      "en_concordant": "razen-ij",
+      "grondvorm": "razen-ij",
+      "stamfamilie": [
+        "G3130",
+        "G3105 mainomai"
+      ],
+      "toelichting": "Razernij-waanzin. Werkwoord-stam-mainomai-familie. Eenmaal NT. Concordant: 'razen-ij'. Hand 26:24 (kerntekst-Festus-Paul",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4062",
+      "grieks": "περιτρέπω",
+      "translit": "peritrepō",
+      "woordsoort": "ww",
+      "en_concordant": "around-keren-peritrepo",
+      "grondvorm": "rondom-keren",
+      "stamfamilie": [
+        "G4062",
+        "G5157 tropē (verwante stam)",
+        "G4012 peri"
+      ],
+      "toelichting": "Doen-omslaan. Samenstelling peri + trepō. Eenmaal NT. Concordant: 'rondom-keren'. Hand 26:24 (paar-met-mania 'eis manian",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G98",
+      "grieks": "Ἀδραμυττηνός",
+      "translit": "adramuttēnos",
+      "woordsoort": "bn",
+      "en_concordant": "Adramyttisch",
+      "grondvorm": "Adramyttisch",
+      "stamfamilie": [
+        "G98"
+      ],
+      "toelichting": "Adramyttisch (van-Adramyttium-haven-stad). Eenmaal NT. Concordant: 'Adramyttisch'. Hand 27:2 (Paulus-naar-Rome 'epibante",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5364",
+      "grieks": "φιλανθρώπως",
+      "translit": "philanthrōpōs",
+      "woordsoort": "bw",
+      "en_concordant": "mens-lievend-lijk",
+      "grondvorm": "mens-lievend-lijk",
+      "stamfamilie": [
+        "G5364",
+        "G5363 philanthrōpia"
+      ],
+      "toelichting": "Vriendelijk. Bijwoord-stam-philanthrōpia-familie. Eenmaal NT. Concordant: 'mens-lievend-lijk'. Hand 27:3 (Julius-Paulus ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1958",
+      "grieks": "ἐπιμέλεια",
+      "translit": "epimeleia",
+      "woordsoort": "zn",
+      "en_concordant": "up-zorgvuldigheid",
+      "grondvorm": "op-zorgvuldigheid",
+      "stamfamilie": [
+        "G1958",
+        "G1959 epimeleomai",
+        "G1960 epimelōs"
+      ],
+      "toelichting": "Zorg-toewijding. Werkwoord-stam-epimeleomai-familie. Eenmaal NT. Concordant: 'op-zorgvuldigheid'. Hand 27:3 (Sidon-Paulu",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1277",
+      "grieks": "διαπλέω",
+      "translit": "diapleō",
+      "woordsoort": "ww",
+      "en_concordant": "through-sail",
+      "grondvorm": "door-varen",
+      "stamfamilie": [
+        "G1277",
+        "G4126 pleō",
+        "G1223 dia"
+      ],
+      "toelichting": "Doorvaren-zee. Samenstelling dia + pleō. Eenmaal NT. Concordant: 'door-varen'. Hand 27:5 (Paulus-route 'to pelagos to ka",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3460",
+      "grieks": "Μύρα",
+      "translit": "mura",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Myra-pn",
+      "grondvorm": "Myra",
+      "stamfamilie": [
+        "G3460"
+      ],
+      "toelichting": "Myra. Lycische-haven-stad. Eenmaal NT. Concordant: 'Myra'. Hand 27:5 (Paulus-route 'katēlthomen eis Mura tēs Lukias').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3073",
+      "grieks": "Λυκία",
+      "translit": "lukia",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Lyci-pn",
+      "grondvorm": "Lycië",
+      "stamfamilie": [
+        "G3073"
+      ],
+      "toelichting": "Lycië. Romeinse-provincie-zuid-Klein-Azië. Eenmaal NT. Concordant: 'Lycië'. Hand 27:5 (paar-met-Mura 'eis Mura tēs Lukia",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1688",
+      "grieks": "ἐμβιβάζω",
+      "translit": "embibazō",
+      "woordsoort": "ww",
+      "en_concordant": "in-do-stappen",
+      "grondvorm": "in-doen-stappen",
+      "stamfamilie": [
+        "G1688",
+        "G1722 en"
+      ],
+      "toelichting": "Aan-boord-zetten. Samenstelling en + bibazō. Eenmaal NT. Concordant: 'in-doen-stappen'. Hand 27:6 (Paulus-route 'enebiba",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1020",
+      "grieks": "βραδυπλοέω",
+      "translit": "braduploeō",
+      "woordsoort": "ww",
+      "en_concordant": "long-zaam-sail",
+      "grondvorm": "lang-zaam-varen",
+      "stamfamilie": [
+        "G1020",
+        "G1021 bradus",
+        "G4126 pleō"
+      ],
+      "toelichting": "Langzaam-varen. Samenstelling bradus + pleō. Eenmaal NT. Concordant: 'lang-zaam-varen'. Hand 27:7 (Paulus-route 'en hika",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2834",
+      "grieks": "Κνίδος",
+      "translit": "knidos",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Knidus-pn",
+      "grondvorm": "Knidus",
+      "stamfamilie": [
+        "G2834"
+      ],
+      "toelichting": "Knidus. Klein-Aziatische-stad. Eenmaal NT. Concordant: 'Knidus'. Hand 27:7 (Paulus-route 'genomenoi kata tēn Knidon').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4330",
+      "grieks": "προσεάω",
+      "translit": "proseaō",
+      "woordsoort": "ww",
+      "en_concordant": "toe-onlaten",
+      "grondvorm": "toe-aanlaten",
+      "stamfamilie": [
+        "G4330",
+        "G1439 eaō",
+        "G4314 pros"
+      ],
+      "toelichting": "Verder-toelaten. Samenstelling pros + eaō. Eenmaal NT. Concordant: 'toe-aanlaten'. Hand 27:7 (paar-met-Knidos 'mē proseō",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4534",
+      "grieks": "Σαλμώνη",
+      "translit": "salmōnē",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Salmone-pn",
+      "grondvorm": "Salmone",
+      "stamfamilie": [
+        "G4534"
+      ],
+      "toelichting": "Salmone. Oostelijk-kaap-Kreta. Eenmaal NT. Concordant: 'Salmone'. Hand 27:7 (Paulus-route 'hupepleusamen tēn Krētēn kata",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2996",
+      "grieks": "Λασαία",
+      "translit": "lasaia",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Lasaea-pn",
+      "grondvorm": "Lasaea",
+      "stamfamilie": [
+        "G2996"
+      ],
+      "toelichting": "Lasaea. Stad-Kreta. Eenmaal NT. Concordant: 'Lasaea'. Hand 27:8 (Paulus-route 'Kalous Limenas, hōi engus polis ēn Lasaia",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2000",
+      "grieks": "ἐπισφαλής",
+      "translit": "episphalēs",
+      "woordsoort": "bn",
+      "en_concordant": "up-glibberig",
+      "grondvorm": "op-glibberig",
+      "stamfamilie": [
+        "G2000",
+        "G4417 ptaiō (verwante stam)",
+        "G1909 epi"
+      ],
+      "toelichting": "Gevaarlijk-onzeker. Eenmaal NT. Concordant: 'op-glibberig'. Hand 27:9 (Paulus-route 'ontos ēdē episphalous tou ploos').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5414",
+      "grieks": "φόρτος",
+      "translit": "phortos",
+      "woordsoort": "zn",
+      "en_concordant": "last-vracht",
+      "grondvorm": "last-vracht",
+      "stamfamilie": [
+        "G5414",
+        "G5413 phortion"
+      ],
+      "toelichting": "Vracht-lading. Stam-substantief-phortion-familie. Eenmaal NT (variant). Concordant: 'last-vracht'. Hand 27:10 (variant) ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3490",
+      "grieks": "ναύκληρος",
+      "translit": "nauklēros",
+      "woordsoort": "zn",
+      "en_concordant": "schipper-eigenaar",
+      "grondvorm": "schipper-eigenaar",
+      "stamfamilie": [
+        "G3490",
+        "G3491 naus"
+      ],
+      "toelichting": "Schipper-eigenaar. Eenmaal NT. Concordant: 'schipper-eigenaar'. Hand 27:11 (kerntekst-Paulus-stuurman 'tōi kubernētēi ka",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G428",
+      "grieks": "ἀνεύθετος",
+      "translit": "aneuthetos",
+      "woordsoort": "bn",
+      "en_concordant": "niet-wel-gelegen",
+      "grondvorm": "niet-wel-gelegen",
+      "stamfamilie": [
+        "G428",
+        "G2111 euthetos (a-privans)"
+      ],
+      "toelichting": "Ongunstig-gelegen. A-privans + euthetos. Eenmaal NT. Concordant: 'niet-wel-gelegen'. Hand 27:12 (Paulus-haven 'aneutheto",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3915",
+      "grieks": "παραχειμασία",
+      "translit": "paracheimasia",
+      "woordsoort": "zn",
+      "en_concordant": "beside-overwintering",
+      "grondvorm": "naast-overwintering",
+      "stamfamilie": [
+        "G3915",
+        "G3914 paracheimazō"
+      ],
+      "toelichting": "Overwintering. Werkwoord-stam-paracheimazō-familie. Eenmaal NT. Concordant: 'naast-overwintering'. Hand 27:12 (paar-met-",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5405",
+      "grieks": "Φοῖνιξ",
+      "translit": "Phoinix",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Phoenix-pn",
+      "grondvorm": "Phoenix",
+      "stamfamilie": [
+        "G5405"
+      ],
+      "toelichting": "Phoenix. Haven-Kreta. Eenmaal NT. Concordant: 'Phoenix'. Hand 27:12 (Paulus-Kreta-haven 'eis Phoinika paracheimasai').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3047",
+      "grieks": "λίψ",
+      "translit": "lips",
+      "woordsoort": "zn",
+      "en_concordant": "zuid-west-wind",
+      "grondvorm": "zuid-west-wind",
+      "stamfamilie": [
+        "G3047"
+      ],
+      "toelichting": "Zuidwesten-wind. Eenmaal NT. Concordant: 'zuid-west-wind'. Hand 27:12 (Paulus-Phoenix 'limen tēs Krētēs blepōn kata liba",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5566",
+      "grieks": "χῶρος",
+      "translit": "chōros",
+      "woordsoort": "zn",
+      "en_concordant": "noord-west-wind",
+      "grondvorm": "noord-west-wind",
+      "stamfamilie": [
+        "G5566"
+      ],
+      "toelichting": "Noordwesten-wind. Eenmaal NT. Concordant: 'noord-west-wind'. Hand 27:12 (paar-met-lips 'kata liba kai kata chōron').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5285",
+      "grieks": "ὑποπνέω",
+      "translit": "hupopneō",
+      "woordsoort": "ww",
+      "en_concordant": "under-onblazen",
+      "grondvorm": "onder-aanblazen",
+      "stamfamilie": [
+        "G5285",
+        "G4154 pneō",
+        "G5259 hupo"
+      ],
+      "toelichting": "Zacht-blazen. Samenstelling hupo + pneō. Eenmaal NT. Concordant: 'onder-aanblazen'. Hand 27:13 (Paulus-Phoenix 'hupopneu",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G788",
+      "grieks": "Ἄσσος",
+      "translit": "assos",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Assos-pn",
+      "grondvorm": "Assos",
+      "stamfamilie": [
+        "G788",
+        "G789 asson"
+      ],
+      "toelichting": "Assos. Mysische-haven. Onderscheid van G789 asson (dichter-bij-bijwoord). Eenmaal NT. Concordant: 'Assos'. Hand 20:13 (P",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5189",
+      "grieks": "τυφωνικός",
+      "translit": "tuphōnikos",
+      "woordsoort": "bn",
+      "en_concordant": "wervel-stormig",
+      "grondvorm": "wervel-stormig",
+      "stamfamilie": [
+        "G5189",
+        "G5188 tuphō"
+      ],
+      "toelichting": "Wervelstorm-achtig. Bijvoeglijk-stam-tuphō-familie. Eenmaal NT. Concordant: 'wervel-stormig'. Hand 27:14 (Paulus-storm '",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2148",
+      "grieks": "Εὐροκλύδων",
+      "translit": "eurokludōn",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Eurokludon-pn",
+      "grondvorm": "Eurokludon",
+      "stamfamilie": [
+        "G2148",
+        "G2156 euros (verwante stam)",
+        "G2830 kludōn"
+      ],
+      "toelichting": "Eurokludon (zuidoosten-wind-storm). Samenstelling euros + kludōn. Eenmaal NT. Concordant: 'Eurokludon'. Hand 27:14 (kern",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G503",
+      "grieks": "ἀντοφθαλμέω",
+      "translit": "antophthalmeō",
+      "woordsoort": "ww",
+      "en_concordant": "anti-eye-see",
+      "grondvorm": "tegen-oog-zien",
+      "stamfamilie": [
+        "G503",
+        "G3788 ophthalmos",
+        "G473 anti"
+      ],
+      "toelichting": "Tegen-de-wind-in-zien. Samenstelling anti + ophthalmos. Eenmaal NT. Concordant: 'tegen-oog-zien'. Hand 27:15 (storm 'mē ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3519",
+      "grieks": "νησίον",
+      "translit": "nēsion",
+      "woordsoort": "zn",
+      "en_concordant": "eilandje",
+      "grondvorm": "eilandje",
+      "stamfamilie": [
+        "G3519",
+        "G3520 nēsos"
+      ],
+      "toelichting": "Klein-eiland. Verkleinvorm-stam-nēsos-familie. Eenmaal NT. Concordant: 'eilandje'. Hand 27:16 (storm 'nēsion de ti hupod",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5295",
+      "grieks": "ὑποτρέχω",
+      "translit": "hupotrechō",
+      "woordsoort": "ww",
+      "en_concordant": "under-run",
+      "grondvorm": "onder-rennen",
+      "stamfamilie": [
+        "G5295",
+        "G5143 trechō",
+        "G5259 hupo"
+      ],
+      "toelichting": "Onder-de-luwte-doorvaren. Samenstelling hupo + trechō. Eenmaal NT. Concordant: 'onder-rennen'. Hand 27:16 (paar-met-nēsi",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2802",
+      "grieks": "Καῦδα",
+      "translit": "kauda",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Klauda-pn",
+      "grondvorm": "Klauda",
+      "stamfamilie": [
+        "G2802"
+      ],
+      "toelichting": "Klauda. Klein-eiland-Kreta. Eenmaal NT. Concordant: 'Klauda'. Hand 27:16 (Paulus-storm 'nēsion de ti hupodramontes kalou",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4031",
+      "grieks": "περικρατής",
+      "translit": "perikratēs",
+      "woordsoort": "bn",
+      "en_concordant": "around-bemachtigend",
+      "grondvorm": "rondom-bemachtigend",
+      "stamfamilie": [
+        "G4031",
+        "G2904 kratos",
+        "G4012 peri"
+      ],
+      "toelichting": "Bemachtigd-houden. Samenstelling peri + kratos. Eenmaal NT. Concordant: 'rondom-bemachtigend'. Hand 27:16 (storm 'perikr",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5269",
+      "grieks": "ὑποζώννυμι",
+      "translit": "hupozōnnumi",
+      "woordsoort": "ww",
+      "en_concordant": "under-omgorden",
+      "grondvorm": "onder-omgorden",
+      "stamfamilie": [
+        "G5269",
+        "G2224 zōnnumi",
+        "G5259 hupo"
+      ],
+      "toelichting": "Onder-omgorden-(scheepsromp). Samenstelling hupo + zōnnumi. Eenmaal NT. Concordant: 'onder-omgorden'. Hand 27:17 (storm ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4950",
+      "grieks": "Σύρτις",
+      "translit": "surtis",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Syrtis-pn",
+      "grondvorm": "Syrtis",
+      "stamfamilie": [
+        "G4950"
+      ],
+      "toelichting": "Syrtis. Zandbanken-Noord-Afrikaanse-kust. Eenmaal NT. Concordant: 'Syrtis'. Hand 27:17 (storm 'phoboumenoi mē eis tēn Su",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4971",
+      "grieks": "σφοδρῶς",
+      "translit": "sphodrōs",
+      "woordsoort": "bw",
+      "en_concordant": "heftig-lijk",
+      "grondvorm": "heftig-lijk",
+      "stamfamilie": [
+        "G4971"
+      ],
+      "toelichting": "Heftig. Eenmaal NT. Concordant: 'heftig-lijk'. Hand 27:18 (storm 'sphodrōs de cheimazomenōn hēmōn').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5492",
+      "grieks": "χειμάζομαι",
+      "translit": "cheimazomai",
+      "woordsoort": "ww",
+      "en_concordant": "winter-tempest-suffer",
+      "grondvorm": "winter-storm-lijden",
+      "stamfamilie": [
+        "G5492",
+        "G5494 cheimōn"
+      ],
+      "toelichting": "Door-storm-geslingerd-worden. Werkwoord-stam-cheimōn-familie. Eenmaal NT. Concordant: 'winter-storm-lijden'. Hand 27:18 ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1546",
+      "grieks": "ἐκβολή",
+      "translit": "ekbolē",
+      "woordsoort": "zn",
+      "en_concordant": "out-werping",
+      "grondvorm": "uit-werping",
+      "stamfamilie": [
+        "G1546",
+        "G1544 ekballō"
+      ],
+      "toelichting": "Werpen-uit-schip-(lading). Werkwoord-stam-ekballō-familie. Eenmaal NT. Concordant: 'uit-werping'. Hand 27:18 (storm 'tēi",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G849",
+      "grieks": "αὐτόχειρ",
+      "translit": "autocheir",
+      "woordsoort": "bn",
+      "en_concordant": "own-handig",
+      "grondvorm": "eigen-handig",
+      "stamfamilie": [
+        "G849",
+        "G846 autos",
+        "G5495 cheir"
+      ],
+      "toelichting": "Met-eigen-handen. Samenstelling autos + cheir. Eenmaal NT. Concordant: 'eigen-handig'. Hand 27:19 (storm 'autocheires tē",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4631",
+      "grieks": "σκευή",
+      "translit": "skeuē",
+      "woordsoort": "zn",
+      "en_concordant": "scheeps-tuig",
+      "grondvorm": "scheeps-tuig",
+      "stamfamilie": [
+        "G4631",
+        "G4632 skeuos"
+      ],
+      "toelichting": "Scheepsuitrusting. Stam-substantief-skeuos-familie. Eenmaal NT. Concordant: 'scheeps-tuig'. Hand 27:19 (storm 'autocheir",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G776",
+      "grieks": "ἀσιτία",
+      "translit": "asitia",
+      "woordsoort": "zn",
+      "en_concordant": "niet-eat-be",
+      "grondvorm": "niet-eten-zijn",
+      "stamfamilie": [
+        "G776",
+        "G777 asitos"
+      ],
+      "toelichting": "Vasten-uit-nood. Eenmaal NT. Concordant: 'niet-eten-zijn'. Hand 27:21 (Paulus-storm 'pollēs te asitias huparchousēs').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G99",
+      "grieks": "Ἀδρίας",
+      "translit": "adrias",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Adria-zee-pn",
+      "grondvorm": "Adria-zee",
+      "stamfamilie": [
+        "G99"
+      ],
+      "toelichting": "Adriatische-zee. Eenmaal NT. Concordant: 'Adria-zee'. Hand 27:27 (Paulus-storm 'diapheromenōn hēmōn en tōi Adriai').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G777",
+      "grieks": "ἄσιτος",
+      "translit": "asitos",
+      "woordsoort": "bn",
+      "en_concordant": "niet-etend",
+      "grondvorm": "niet-etend",
+      "stamfamilie": [
+        "G777",
+        "G776 asitia",
+        "G4621 sitos (a-privans)"
+      ],
+      "toelichting": "Zonder-eten. A-privans + sitos. Eenmaal NT. Concordant: 'niet-etend'. Hand 27:33 (paar-met-asitia 'tessareskaidekatēn sē",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1300",
+      "grieks": "διατελέω",
+      "translit": "diateleō",
+      "woordsoort": "ww",
+      "en_concordant": "through-volharden",
+      "grondvorm": "door-volharden",
+      "stamfamilie": [
+        "G1300",
+        "G5055 teleō",
+        "G1223 dia"
+      ],
+      "toelichting": "Door-volharden. Samenstelling dia + teleō. Eenmaal NT. Concordant: 'door-volbrengen'. Hand 27:33 (paar-met-asitos 'asito",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2893",
+      "grieks": "κουφίζω",
+      "translit": "kouphizō",
+      "woordsoort": "ww",
+      "en_concordant": "light-make",
+      "grondvorm": "licht-maken",
+      "stamfamilie": [
+        "G2893"
+      ],
+      "toelichting": "Lichter-maken. Eenmaal NT. Concordant: 'licht-maken'. Hand 27:38 (storm 'ekouphizon to ploion ekballomenoi ton siton').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2202",
+      "grieks": "ζευκτηρία",
+      "translit": "zeuktēria",
+      "woordsoort": "zn",
+      "en_concordant": "juk-band",
+      "grondvorm": "juk-band",
+      "stamfamilie": [
+        "G2202",
+        "G2218 zugos (verwante stam)"
+      ],
+      "toelichting": "Juk-band-stuurriem. Stam-substantief-zugos-familie. Eenmaal NT. Concordant: 'juk-band'. Hand 27:40 (storm 'anentes tas z",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G736",
+      "grieks": "ἀρτέμων",
+      "translit": "artemōn",
+      "woordsoort": "zn",
+      "en_concordant": "tup-sail",
+      "grondvorm": "top-zeil",
+      "stamfamilie": [
+        "G736"
+      ],
+      "toelichting": "Voorzeil. Eenmaal NT. Concordant: 'top-zeil'. Hand 27:40 (paar-met-zeuktēria 'eparantes ton artemōna').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1337",
+      "grieks": "διθάλασσος",
+      "translit": "dithalassos",
+      "woordsoort": "bn",
+      "en_concordant": "two-sea",
+      "grondvorm": "twee-zee",
+      "stamfamilie": [
+        "G1337",
+        "G1364 dis",
+        "G2281 thalassa"
+      ],
+      "toelichting": "Met-zee-aan-twee-zijden. Samenstelling dis + thalassa. Eenmaal NT. Concordant: 'twee-zee'. Hand 27:41 (storm-zandbank 'p",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2027",
+      "grieks": "ἐποκέλλω",
+      "translit": "epokellō",
+      "woordsoort": "ww",
+      "en_concordant": "up-stranden",
+      "grondvorm": "op-stranden",
+      "stamfamilie": [
+        "G2027"
+      ],
+      "toelichting": "Op-grond-zetten. Eenmaal NT (variant). Concordant: 'op-stranden'. Hand 27:41 (variant) 'epōkeilan tēn naun'.",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3491",
+      "grieks": "ναῦς",
+      "translit": "naus",
+      "woordsoort": "zn",
+      "en_concordant": "ship",
+      "grondvorm": "schip",
+      "stamfamilie": [
+        "G3491",
+        "G3492 nautēs",
+        "G3490 nauklēros"
+      ],
+      "toelichting": "Schip (zeldzaam-NT, gewoonlijk-ploion). Stam-substantief-nautēs-familie. Eenmaal NT. Concordant: 'schip'. Hand 27:41 (st",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2043",
+      "grieks": "ἐρείδω",
+      "translit": "ereidō",
+      "woordsoort": "ww",
+      "en_concordant": "fast-stoten",
+      "grondvorm": "vast-stoten",
+      "stamfamilie": [
+        "G2043"
+      ],
+      "toelichting": "Vast-blijven-zitten. Eenmaal NT. Concordant: 'vast-stoten'. Hand 27:41 (storm-zandbank 'hē men prōra ereisasa emeinen as",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1579",
+      "grieks": "ἐκκολυμβάω",
+      "translit": "ekkolumbaō",
+      "woordsoort": "ww",
+      "en_concordant": "out-swim",
+      "grondvorm": "uit-zwemmen",
+      "stamfamilie": [
+        "G1579",
+        "G2860 kolumbaō",
+        "G1537 ek"
+      ],
+      "toelichting": "Uitzwemmen-overboord. Samenstelling ek + kolumbaō. Eenmaal NT. Concordant: 'uit-zwemmen'. Hand 27:42 (storm-soldaten 'mē",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1309",
+      "grieks": "διαφεύγω",
+      "translit": "diapheugō",
+      "woordsoort": "ww",
+      "en_concordant": "through-flee",
+      "grondvorm": "door-vluchten",
+      "stamfamilie": [
+        "G1309",
+        "G5343 pheugō",
+        "G1223 dia"
+      ],
+      "toelichting": "Volledig-ontkomen. Samenstelling dia + pheugō. Eenmaal NT. Concordant: 'door-vluchten'. Hand 27:42 (paar-met-ekkolumbaō ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2860",
+      "grieks": "κολυμβάω",
+      "translit": "kolumbaō",
+      "woordsoort": "ww",
+      "en_concordant": "swim",
+      "grondvorm": "zwemmen",
+      "stamfamilie": [
+        "G2860",
+        "G2861 kolumbēthra",
+        "G1579 ekkolumbaō"
+      ],
+      "toelichting": "Zwemmen. Stam-werkwoord-kolumbēthra-familie. Eenmaal NT. Concordant: 'zwemmen'. Hand 27:43 (storm-Paulus 'tous dunamenou",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G641",
+      "grieks": "ἀπορρίπτω",
+      "translit": "aporriptō",
+      "woordsoort": "ww",
+      "en_concordant": "away-rhiptō",
+      "grondvorm": "weg-rhiptō",
+      "stamfamilie": [
+        "G641",
+        "G4496 rhiptō",
+        "G575 apo"
+      ],
+      "toelichting": "Wegwerpen-zich (overboord). Onderscheid van G577 apoballō (wegwerpen-algemeen). Samenstelling apo + rhiptō. Eenmaal NT. ",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4548",
+      "grieks": "σανίς",
+      "translit": "sanis",
+      "woordsoort": "zn",
+      "en_concordant": "plank",
+      "grondvorm": "plank",
+      "stamfamilie": [
+        "G4548"
+      ],
+      "toelichting": "Plank-(scheepsdek). Eenmaal NT. Concordant: 'plank'. Hand 27:44 (storm-overlevenden 'hous men epi sanisin, hous de epi t",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3194",
+      "grieks": "Μελίτη",
+      "translit": "melitē",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Malta-pn",
+      "grondvorm": "Malta",
+      "stamfamilie": [
+        "G3194"
+      ],
+      "toelichting": "Malta. Eilandnaam. Eenmaal NT. Concordant: 'Malta'. Hand 28:1 (kerntekst-schipbreuk-eiland 'Melitē hē nēsos kaleitai').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4962",
+      "grieks": "συστρέφω",
+      "translit": "sustrephō",
+      "woordsoort": "ww",
+      "en_concordant": "togetre-strengelen",
+      "grondvorm": "samen-strengelen",
+      "stamfamilie": [
+        "G4962",
+        "G4762 strephō",
+        "G4862 sun"
+      ],
+      "toelichting": "Samen-bundelen-(rijshout). Onderscheid van G4815 sullambanō (samen-grijpen-arrestatie). Samenstelling sun + strephō. Een",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5434",
+      "grieks": "φρύγανον",
+      "translit": "phruganon",
+      "woordsoort": "zn",
+      "en_concordant": "rijs-hout",
+      "grondvorm": "rijs-hout",
+      "stamfamilie": [
+        "G5434"
+      ],
+      "toelichting": "Twijg-rijshout. Eenmaal NT. Concordant: 'rijs-hout'. Hand 28:3 (paar-met-sustrephō 'phruganōn ti plēthos').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2329",
+      "grieks": "θέρμη",
+      "translit": "thermē",
+      "woordsoort": "zn",
+      "en_concordant": "warm-te",
+      "grondvorm": "warm-te",
+      "stamfamilie": [
+        "G2329"
+      ],
+      "toelichting": "Warmte-vuur. Eenmaal NT. Concordant: 'warm-te'. Hand 28:3 (Malta-vuur 'echidna apo tēs thermēs exelthousa').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2510",
+      "grieks": "καθάπτω",
+      "translit": "kathaptō",
+      "woordsoort": "ww",
+      "en_concordant": "down-onvatten",
+      "grondvorm": "neder-aanvatten",
+      "stamfamilie": [
+        "G2510",
+        "G680 haptō",
+        "G2596 kata"
+      ],
+      "toelichting": "Vastbijten-aan-iemand. Samenstelling kata + haptō. Eenmaal NT. Concordant: 'neder-aanvatten'. Hand 28:3 (kerntekst-Malta",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4092",
+      "grieks": "πίμπρημι",
+      "translit": "pimprēmi",
+      "woordsoort": "ww",
+      "en_concordant": "up-zwellen",
+      "grondvorm": "op-zwellen",
+      "stamfamilie": [
+        "G4092",
+        "G1714 empiprēmi (verwante stam)"
+      ],
+      "toelichting": "Opzwellen-(slangenbeet). Werkwoord-stam-empi(m)prēmi-familie. Eenmaal NT. Concordant: 'op-zwellen'. Hand 28:6 (Malta-sla",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3328",
+      "grieks": "μεταβάλλω",
+      "translit": "metaballō",
+      "woordsoort": "ww",
+      "en_concordant": "owerpen",
+      "grondvorm": "over-werpen",
+      "stamfamilie": [
+        "G3328",
+        "G906 ballō",
+        "G3326 meta"
+      ],
+      "toelichting": "Van-mening-veranderen. Samenstelling meta + ballō. Eenmaal NT. Concordant: 'over-werpen'. Hand 28:6 (Malta-volk 'metabal",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5390",
+      "grieks": "φιλοφρόνως",
+      "translit": "philophronōs",
+      "woordsoort": "bw",
+      "en_concordant": "friend-bezonnen-lijk",
+      "grondvorm": "vriend-bezonnen-lijk",
+      "stamfamilie": [
+        "G5390",
+        "G5391 philophrōn (verwante stam)"
+      ],
+      "toelichting": "Vriendelijk. Eenmaal NT. Concordant: 'vriend-bezonnen-lijk'. Hand 28:7 (Publius-Malta 'philophronōs exenisen').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1420",
+      "grieks": "δυσεντέριον",
+      "translit": "dusenteria",
+      "woordsoort": "zn",
+      "en_concordant": "rode-loup",
+      "grondvorm": "rode-loop",
+      "stamfamilie": [
+        "G1420",
+        "G1418 dus"
+      ],
+      "toelichting": "Dysenterie. Samenstelling dus + entera. Eenmaal NT. Concordant: 'rode-loop'. Hand 28:8 (kerntekst-Malta-vader-Publius 'p",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3902",
+      "grieks": "παράσημος",
+      "translit": "parasēmos",
+      "woordsoort": "bn",
+      "en_concordant": "beside-ongeduid",
+      "grondvorm": "naast-aangeduid",
+      "stamfamilie": [
+        "G3902",
+        "G4592 sēmeion (verwante stam)",
+        "G3844 para"
+      ],
+      "toelichting": "Met-merkteken (boegbeeld). Samenstelling para + sēma. Eenmaal NT. Concordant: 'naast-aangeduid'. Hand 28:11 (kerntekst-M",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1359",
+      "grieks": "Διόσκουροι",
+      "translit": "dioskouroi",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Dioskuren-pn",
+      "grondvorm": "Dioskuren",
+      "stamfamilie": [
+        "G1359",
+        "G2203 Zeus",
+        "G2877 korasion (verwante stam)"
+      ],
+      "toelichting": "Dioskuren (Castor en Pollux). Samenstelling Dios + kouroi. Eenmaal NT. Concordant: 'Dioskuren'. Hand 28:11 (paar-met-par",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4946",
+      "grieks": "Συρακοῦσαι",
+      "translit": "surakousai",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Syracuse-pn",
+      "grondvorm": "Syracuse",
+      "stamfamilie": [
+        "G4946"
+      ],
+      "toelichting": "Syracuse. Stad-Sicilië. Eenmaal NT. Concordant: 'Syracuse'. Hand 28:12 (Paulus-Rome-route 'katachthentes eis Surakousas'",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4484",
+      "grieks": "Ῥήγιον",
+      "translit": "rēgion",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Rhegium-pn",
+      "grondvorm": "Rhegium",
+      "stamfamilie": [
+        "G4484"
+      ],
+      "toelichting": "Rhegium. Stad-zuid-Italië. Eenmaal NT. Concordant: 'Rhegium'. Hand 28:13 (Paulus-route 'katēntēsamen eis Rhēgion').",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1920",
+      "grieks": "ἐπιγίνομαι",
+      "translit": "epiginomai",
+      "woordsoort": "ww",
+      "en_concordant": "up-onkomen",
+      "grondvorm": "op-aankomen",
+      "stamfamilie": [
+        "G1920",
+        "G1096 ginomai",
+        "G1909 epi"
+      ],
+      "toelichting": "Erop-volgen-(wind). Samenstelling epi + ginomai. Eenmaal NT. Concordant: 'op-aankomen'. Hand 28:13 (Paulus-route 'epigen",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1206",
+      "grieks": "δευτεραῖος",
+      "translit": "deuteraios",
+      "woordsoort": "bn",
+      "en_concordant": "tweede-daags",
+      "grondvorm": "tweede-daags",
+      "stamfamilie": [
+        "G1206",
+        "G1208 deuteros"
+      ],
+      "toelichting": "Tweede-dag. Bijvoeglijk-stam-deuteros-familie. Eenmaal NT. Concordant: 'tweede-daags'. Hand 28:13 (paar-met-epiginomai '",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4223",
+      "grieks": "Ποτίολοι",
+      "translit": "potioloi",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Puteoli-pn",
+      "grondvorm": "Puteoli",
+      "stamfamilie": [
+        "G4223"
+      ],
+      "toelichting": "Puteoli. Romeinse-haven-Napels. Eenmaal NT. Concordant: 'Puteoli'. Hand 28:13 (Paulus-Italië-aankomst 'ēlthomen eis Poti",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G675",
+      "grieks": "Ἄππιος",
+      "translit": "appios",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Appius-pn",
+      "grondvorm": "Appius",
+      "stamfamilie": [
+        "G675"
+      ],
+      "toelichting": "Appius. Latijns-leenwoord. Markt-Appii (Forum-Appii). Eenmaal NT. Concordant: 'Appius'. Hand 28:15 (Paulus-Italië 'ēltho",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G5410",
+      "grieks": "Φόρον",
+      "translit": "phoron",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Forum-appii-pn",
+      "grondvorm": "Forum-Appii",
+      "stamfamilie": [
+        "G5410",
+        "G5411 phoros (schatting)"
+      ],
+      "toelichting": "Forum (in Forum-Appii). Latijns-leenwoord. Onderscheid van G5411 phoros (schatting). Eenmaal NT. Concordant: 'Forum-Appi",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4999",
+      "grieks": "Ταβέρναι",
+      "translit": "tabernai",
+      "woordsoort": "eigennaam",
+      "en_concordant": "Tres-tabernae-pn",
+      "grondvorm": "Tres-Tabernae",
+      "stamfamilie": [
+        "G4999"
+      ],
+      "toelichting": "Tres-Tabernae (Drie-Herbergen). Latijns-leenwoord. Eenmaal NT. Concordant: 'Tres-Tabernae'. Hand 28:15 (Paulus-Italië 'a",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2294",
+      "grieks": "θάρσος",
+      "translit": "tharsos",
+      "woordsoort": "zn",
+      "en_concordant": "moed",
+      "grondvorm": "moed",
+      "stamfamilie": [
+        "G2294",
+        "G2293 tharseō"
+      ],
+      "toelichting": "Moed. Werkwoord-stam-tharseō-familie. Eenmaal NT. Concordant: 'moed'. Hand 28:15 (Paulus-Rome 'eucharistēsas tōi theōi e",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4759",
+      "grieks": "στρατοπεδάρχης",
+      "translit": "stratopedarchēs",
+      "woordsoort": "zn",
+      "en_concordant": "army-overste",
+      "grondvorm": "leger-overste",
+      "stamfamilie": [
+        "G4759",
+        "G4760 stratopedon",
+        "G746 archē"
+      ],
+      "toelichting": "Praefectus-pretorianorum. Samenstelling stratopedon + archē. Eenmaal NT (variant). Concordant: 'leger-overste'. Hand 28:",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G800",
+      "grieks": "ἀσύμφωνος",
+      "translit": "asumphōnos",
+      "woordsoort": "bn",
+      "en_concordant": "niet-togetre-klinkend",
+      "grondvorm": "niet-samen-klinkend",
+      "stamfamilie": [
+        "G800",
+        "G4858 sumphōnia (a-privans)"
+      ],
+      "toelichting": "Niet-eensgezind. A-privans + sumphōnos. Eenmaal NT. Concordant: 'niet-samen-klinkend'. Hand 28:25 (Paulus-Rome-Joden 'as",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3410",
+      "grieks": "μίσθωμα",
+      "translit": "misthōma",
+      "woordsoort": "zn",
+      "en_concordant": "huur-wages-hall",
+      "grondvorm": "huur-loon-zaal",
+      "stamfamilie": [
+        "G3410",
+        "G3409 misthoō"
+      ],
+      "toelichting": "Gehuurde-woning. Werkwoord-stam-misthoō-familie. Eenmaal NT. Concordant: 'huur-loon-zaal'. Hand 28:30 (Paulus-Rome 'enem",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G209",
+      "grieks": "ἀκωλύτως",
+      "translit": "akōlutōs",
+      "woordsoort": "bw",
+      "en_concordant": "on-belemmerd-lijk",
+      "grondvorm": "on-belemmerd-lijk",
+      "stamfamilie": [
+        "G209",
+        "G2967 kōluō (a-privans)"
+      ],
+      "toelichting": "Onbelemmerd. A-privans + kōlutōs. Eenmaal NT. Concordant: 'on-belemmerd-lijk'. Hand 28:31 (kerntekst-Hand-slot 'kērussōn",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4279",
+      "grieks": "προεπαγγέλλομαι",
+      "translit": "proepaggellomai",
+      "woordsoort": "ww",
+      "en_concordant": "before-out-beloven",
+      "grondvorm": "voor-uit-beloven",
+      "stamfamilie": [
+        "G4279",
+        "G1861 epaggellō",
+        "G4253 pro"
+      ],
+      "toelichting": "Vooraf-beloven. Onderscheid van G4293 prokatangellō (voor-uit-prediken). Samenstelling pro + epaggellō. Eenmaal NT. Conc",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4837",
+      "grieks": "συμπαρακαλέω",
+      "translit": "sumparakaleō",
+      "woordsoort": "ww",
+      "en_concordant": "togetre-beside-bemoedigen",
+      "grondvorm": "samen-naast-bemoedigen",
+      "stamfamilie": [
+        "G4837",
+        "G3870 parakaleō",
+        "G4862 sun"
+      ],
+      "toelichting": "Mede-bemoedigd-worden. Samenstelling sun + para + kaleō. Eenmaal NT. Concordant: 'samen-naast-bemoedigen'. Rom 1:12 (Pau",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2529",
+      "grieks": "καθοράω",
+      "translit": "kathoraō",
+      "woordsoort": "ww",
+      "en_concordant": "down-onblikken",
+      "grondvorm": "neder-aanblikken",
+      "stamfamilie": [
+        "G2529",
+        "G3708 horaō",
+        "G2596 kata"
+      ],
+      "toelichting": "Aanschouwen-doorzien. Samenstelling kata + horaō. Eenmaal NT. Concordant: 'neder-aanblikken'. Rom 1:20 (kerntekst-Paulus",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2305",
+      "grieks": "θειότης",
+      "translit": "theiotēs",
+      "woordsoort": "zn",
+      "en_concordant": "god-delijk-heid",
+      "grondvorm": "god-delijk-heid",
+      "stamfamilie": [
+        "G2305",
+        "G2304 theios"
+      ],
+      "toelichting": "Goddelijk-zijn-eigenschappen. Stam-substantief-theios-familie. Eenmaal NT. Concordant: 'god-delijk-heid'. Rom 1:20 (paar",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3154",
+      "grieks": "ματαιόομαι",
+      "translit": "mataioomai",
+      "woordsoort": "ww",
+      "en_concordant": "ijdel-become",
+      "grondvorm": "ijdel-worden",
+      "stamfamilie": [
+        "G3154",
+        "G3152 mataios",
+        "G3153 mataiotēs"
+      ],
+      "toelichting": "IJdel-worden. Werkwoord-stam-mataios-familie. Eenmaal NT. Concordant: 'ijdel-worden'. Rom 1:21 (kerntekst-Paulus-Romeine",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G4573",
+      "grieks": "σεβάζομαι",
+      "translit": "sebazomai",
+      "woordsoort": "ww",
+      "en_concordant": "eren",
+      "grondvorm": "ver-eren",
+      "stamfamilie": [
+        "G4573",
+        "G4576 sebomai",
+        "G4574 sebasma"
+      ],
+      "toelichting": "Vereren-aanbidden. Werkwoord-stam-sebomai-familie. Eenmaal NT. Concordant: 'ver-eren'. Rom 1:25 (kerntekst-Paulus-Romein",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G1572",
+      "grieks": "ἐκκαίω",
+      "translit": "ekkaiō",
+      "woordsoort": "ww",
+      "en_concordant": "out-branden",
+      "grondvorm": "uit-branden",
+      "stamfamilie": [
+        "G1572",
+        "G2545 kaiō",
+        "G1537 ek"
+      ],
+      "toelichting": "Uit-vlam-ontsteken-in-begeerte. Samenstelling ek + kaiō. Eenmaal NT. Concordant: 'uit-branden'. Rom 1:27 (kerntekst-Paul",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G3715",
+      "grieks": "ὄρεξις",
+      "translit": "orexis",
+      "woordsoort": "zn",
+      "en_concordant": "out-strek-begeerte",
+      "grondvorm": "uit-strek-begeerte",
+      "stamfamilie": [
+        "G3715",
+        "G3713 oregomai"
+      ],
+      "toelichting": "Begeerte-(seksueel). Onderscheid van G1939 epithumia (begeerte-algemeen). Werkwoord-stam-oregomai-familie. Eenmaal NT. C",
+      "voorkomens_ca": 1
+    },
+    {
+      "strong": "G2550",
+      "grieks": "κακοήθεια",
+      "translit": "kakoētheia",
+      "woordsoort": "zn",
+      "en_concordant": "kwade-zede",
+      "grondvorm": "kwade-zede",
+      "stamfamilie": [
+        "G2550",
+        "G2556 kakos",
+        "G2239 ēthos"
+      ],
+      "toelichting": "Kwaadaardig-karakter. Onderscheid van G2549 kakia (kwaad-algemeen). Samenstelling kakos + ēthos. Eenmaal NT. Concordant:",
+      "voorkomens_ca": 1
+    }
+  ]
+}

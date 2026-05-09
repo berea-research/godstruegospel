@@ -1,0 +1,1198 @@
+{
+  "batch_id": "h_batch_015",
+  "script": "heb",
+  "datum": "2026-05-01",
+  "entries": [
+    {
+      "strong": "H3315",
+      "hebreeuws": "יֶפֶת",
+      "translit": "yefet",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yefet-pn",
+      "grondvorm": "Yefet-pn",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Noé junto a Sem y Cam (Gn 5:32; 6:10; 7:13; 9:18-27; 10:1-2,21; 1Cr 1:4-5); ancestro-pueblos-costeros.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H3316",
+      "hebreeuws": "יִפְתָּח",
+      "translit": "yiftach",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Jefte-pn",
+      "grondvorm": "Jefte-pn",
+      "stamfamilie": [],
+      "toelichting": "'Él-abre'; juez de Galaad.",
+      "voorkomens": 29
+    },
+    {
+      "strong": "H3317",
+      "hebreeuws": "יִפְתַּח־אֵל",
+      "translit": "yiftach-el",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yiftach-El-pn",
+      "grondvorm": "Yiftach-El-pn",
+      "stamfamilie": [],
+      "toelichting": "Frontera-Zabulón-Aser (Jos 19:14,27).",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3317+",
+      "hebreeuws": "גֵּי יִפְתַּח־אֵל",
+      "translit": "ge-yiftach-el",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ge-Yiftach-El-pn-plus",
+      "grondvorm": "Ge-Yiftach-El-pn-plus",
+      "stamfamilie": [
+        "H3317"
+      ],
+      "toelichting": "'Dios-abre-valle' Zabulón-frontera; Jos 19:14.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3318",
+      "hebreeuws": "יָצָא",
+      "translit": "yatsa",
+      "woordsoort": "verbo",
+      "es_concordant": "salir",
+      "grondvorm": "salir",
+      "stamfamilie": [],
+      "toelichting": "Raíz ys'. Movimiento-hacia-fuera. Cognado motsa (salida, H4161).",
+      "voorkomens": 1075
+    },
+    {
+      "strong": "H3319",
+      "hebreeuws": "יְצָא",
+      "translit": "shetzi-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "concluir-arameo-shetzi",
+      "grondvorm": "concluir-arameo-shetzi",
+      "stamfamilie": [],
+      "toelichting": "Arameo Shafel; templo-fue-acabado; Esd 6:15.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3320",
+      "hebreeuws": "יָצַב",
+      "translit": "yatsav",
+      "woordsoort": "verbo",
+      "es_concordant": "ponerse-de-pie",
+      "grondvorm": "ponerse-de-pie",
+      "stamfamilie": [
+        "H3322"
+      ],
+      "toelichting": "Hithpael: posicionarse, presentarse; reflexivo de natsav.",
+      "voorkomens": 48
+    },
+    {
+      "strong": "H3321",
+      "hebreeuws": "יְצֵיבָא",
+      "translit": "yatsava-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "averiguar-arameo",
+      "grondvorm": "averiguar-arameo",
+      "stamfamilie": [],
+      "toelichting": "Arameo Pael-infinitivo; Daniel-busca-certeza sobre cuarta-bestia; Dn 7:19.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3322",
+      "hebreeuws": "יָצַג",
+      "translit": "yatsag",
+      "woordsoort": "verbo",
+      "es_concordant": "colocar-poner",
+      "grondvorm": "colocar-poner",
+      "stamfamilie": [
+        "H3320"
+      ],
+      "toelichting": "Hifil: depositar, presentar; sinónimo-natsav/sim.",
+      "voorkomens": 16
+    },
+    {
+      "strong": "H3323",
+      "hebreeuws": "יִצְהָר",
+      "translit": "yitshar",
+      "woordsoort": "sustantivo",
+      "es_concordant": "aceite-fresco",
+      "grondvorm": "aceite-fresco",
+      "stamfamilie": [],
+      "toelichting": "De tsahar (brillar); aceite-de-oliva-fresco, uno de los tres dones-tierra. Distinto de shemen 'aceite'.",
+      "voorkomens": 23
+    },
+    {
+      "strong": "H3324",
+      "hebreeuws": "יִצְהָר",
+      "translit": "yitshar-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yitshar-pn",
+      "grondvorm": "Yitshar-pn",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Coat (segundo después-de-Amram) ancestro de los Coreítas (Ex 6:18,21; Nm 3:19,27).",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H3325",
+      "hebreeuws": "יִצְהָרִי",
+      "translit": "yitshari",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yitsharita-pn",
+      "grondvorm": "Yitsharita-pn",
+      "stamfamilie": [
+        "H3324"
+      ],
+      "toelichting": "Descendiente de Leví-hijo Yitsar (Nm 3:27; 1Cr 24:22; 26:23,29). Familia H3324.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H3326a",
+      "hebreeuws": "יָצוּעַ-I",
+      "translit": "yatsua-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "anexo-lateral",
+      "grondvorm": "anexo-lateral",
+      "stamfamilie": [
+        "H3331"
+      ],
+      "toelichting": "Cámara-lateral o anexo-santuario (Gn 49:4; 1Re 6:5,6,10; 1Cr 5:1). Distinto de homónimo H3326b.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3326b",
+      "hebreeuws": "יָצוּעַ-II",
+      "translit": "yatsua-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lecho-yatsua",
+      "grondvorm": "lecho-yatsua",
+      "stamfamilie": [
+        "H3326a"
+      ],
+      "toelichting": "Lecho-de-reposo o cámara-lateral (1Re 6:5,6,10; Sal 63:7; Job 17:13; Gn 49:4; 1Cr 5:1). Sufijo distinto de homónimo H3326a.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H3327",
+      "hebreeuws": "יִצְחָק",
+      "translit": "yitschaq",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Isaac-pn",
+      "grondvorm": "Isaac-pn",
+      "stamfamilie": [],
+      "toelichting": "Convención-castellana Isaac.",
+      "voorkomens": 108
+    },
+    {
+      "strong": "H3328",
+      "hebreeuws": "יִצְחָר",
+      "translit": "yitschar",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yitschar-pn",
+      "grondvorm": "Yitschar-pn",
+      "stamfamilie": [
+        "H3324"
+      ],
+      "toelichting": "Hijo Helah-Asur-Tecoa-rama-Judá; 1Cr 4:7.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3329",
+      "hebreeuws": "יָצִיא",
+      "translit": "yatsi",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yatsi-pn",
+      "grondvorm": "Yatsi-pn",
+      "stamfamilie": [],
+      "toelichting": "1Cr-hijos-de-Sjamer-Helem-Tsofa-Yimna-Seles-Amal (1Cr 7:39 ms variante). Variante-textual Manasés-Aser.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3330",
+      "hebreeuws": "יַצִּיב",
+      "translit": "yatsiv-Aram",
+      "woordsoort": "adjetivo",
+      "es_concordant": "cierto-arameo",
+      "grondvorm": "cierto-arameo",
+      "stamfamilie": [
+        "H3321"
+      ],
+      "toelichting": "Dn-arameo-verdad-cierta y Dn-arameo-firme-es-palabra y Dn-saber-cierto-rey (Dn 2:45; 4:37; 6:13; 7:16,19). Familia H5324 natsav.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H3331",
+      "hebreeuws": "יָצַע",
+      "translit": "yatsa-II",
+      "woordsoort": "verbo",
+      "es_concordant": "extender-tender-cama",
+      "grondvorm": "extender-tender-cama",
+      "stamfamilie": [
+        "H3326a"
+      ],
+      "toelichting": "Cama-extender o base-poner edificio (Is 14:11; 58:5; Sal 63:7; Job 17:13; Est 4:3; 8:14). Distinto de H6566 paras y H7849 shatach.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H3332",
+      "hebreeuws": "יָצַק",
+      "translit": "yatsaq",
+      "woordsoort": "verbo",
+      "es_concordant": "verter-yatsaq",
+      "grondvorm": "verter-yatsaq",
+      "stamfamilie": [
+        "H3333"
+      ],
+      "toelichting": "Qal: verter-líquido o metal-fundido.",
+      "voorkomens": 53
+    },
+    {
+      "strong": "H3333",
+      "hebreeuws": "יְצֻקָה",
+      "translit": "yetsuqah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "vaciado-fundicion",
+      "grondvorm": "vaciado-fundicion",
+      "stamfamilie": [
+        "H3332"
+      ],
+      "toelichting": "1Re-en-su-vaciado-fue-fundido y 1Re-doce-bueyes-soportes-de-mar-fundidos (1Re 7:24; 7:33). Familia H3332 — 'lo-vaciado'-mar-de-Salomón.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H3334",
+      "hebreeuws": "יָצַר-I",
+      "translit": "yatsar-I",
+      "woordsoort": "verbo",
+      "es_concordant": "estar-angustiado",
+      "grondvorm": "estar-angustiado",
+      "stamfamilie": [],
+      "toelichting": "Qal/Hifil: estar-en-aprieto/angostarse — estativo-aflicción (Gn 32:8 Jacob-temor-Esaú; Jue 2:15; 10:9; 11:7; 1Sa 13:6; 30:6 David; 2Sa 1:26; Job 20:22; Is 49:19; 63:9 angustia-Suya).",
+      "voorkomens": 36
+    },
+    {
+      "strong": "H3335",
+      "hebreeuws": "יָצַר",
+      "translit": "yatsar-II",
+      "woordsoort": "verbo",
+      "es_concordant": "formar-modelar",
+      "grondvorm": "formar-modelar",
+      "stamfamilie": [
+        "H3336"
+      ],
+      "toelichting": "Qal: formar (de barro, modelar concretamente); distinto de bara (crear) y asah (hacer).",
+      "voorkomens": 63
+    },
+    {
+      "strong": "H3336",
+      "hebreeuws": "יֵצֶר",
+      "translit": "yetser",
+      "woordsoort": "sustantivo",
+      "es_concordant": "inclinacion-formada",
+      "grondvorm": "inclinacion-formada",
+      "stamfamilie": [
+        "H3335"
+      ],
+      "toelichting": "De yatsar (formar). Resultativo: lo-formado; en humano la disposición/impulso-interior (Gn 6:5; 8:21; Dt 31:21; 1Cr 28:9; 29:18; Is 26:3; Sal 103:14).",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H3337",
+      "hebreeuws": "יֵצֶר",
+      "translit": "yetser-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Jezer-pn",
+      "grondvorm": "Jezer-pn",
+      "stamfamilie": [],
+      "toelichting": "Jezer-hijo-de-Naftalí y línea-tribal (Gn 46:24; Nm 26:49; 1Cr 7:13). 'Forma'. Familia yatsar.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3338",
+      "hebreeuws": "יְצֻרִים",
+      "translit": "yetsurim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "miembros-cuerpo",
+      "grondvorm": "miembros-cuerpo",
+      "stamfamilie": [
+        "H3335"
+      ],
+      "toelichting": "Mis-miembros-corporales como sombra; Job 17:7.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3339",
+      "hebreeuws": "יִצְרִי",
+      "translit": "yitsri-Levi",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yitsri-pn-Levi",
+      "grondvorm": "Yitsri-pn-Levi",
+      "stamfamilie": [],
+      "toelichting": "Levita-cantor cuarta-suerte tiempo-David; 1Cr 25:11.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3340",
+      "hebreeuws": "יִצְרִי",
+      "translit": "yitsri",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yitsrita-pn",
+      "grondvorm": "Yitsrita-pn",
+      "stamfamilie": [],
+      "toelichting": "Patronímico-clan hijo Naftalí; Nm 26:49.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3341",
+      "hebreeuws": "יָצַת",
+      "translit": "yatsat",
+      "woordsoort": "verbo",
+      "es_concordant": "encender-yatsat",
+      "grondvorm": "encender-yatsat",
+      "stamfamilie": [],
+      "toelichting": "Qal/Hifil: prender-fuego o encender.",
+      "voorkomens": 27
+    },
+    {
+      "strong": "H3342",
+      "hebreeuws": "יֶקֶב",
+      "translit": "yeqev",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lagar-tina",
+      "grondvorm": "lagar-tina",
+      "stamfamilie": [],
+      "toelichting": "Tina-excavada para prensa-uvas; concordante.",
+      "voorkomens": 16
+    },
+    {
+      "strong": "H3343",
+      "hebreeuws": "יְקַבְצְאֵל",
+      "translit": "yeqavtseel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yeqavtseel-pn-ciudad",
+      "grondvorm": "Yeqavtseel-pn-ciudad",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-Judá habitada post-exilio; Neh 11:25.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3344",
+      "hebreeuws": "יָקַד",
+      "translit": "yaqad",
+      "woordsoort": "verbo",
+      "es_concordant": "arder-sin-cesar",
+      "grondvorm": "arder-sin-cesar",
+      "stamfamilie": [
+        "H3350"
+      ],
+      "toelichting": "Glossing-continuo o arder (siempre fuego-altar o fuego-juicio) (Lv 6:2,5,6; Dt 32:22; Is 10:16; 30:14; 65:5; Jer 15:14; 17:4). Distinto de H1197a ba'ar (encender).",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H3345",
+      "hebreeuws": "יְקַד",
+      "translit": "yeqad-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "arder-arameo",
+      "grondvorm": "arder-arameo",
+      "stamfamilie": [
+        "H3344"
+      ],
+      "toelichting": "Verbo-arameo 'arder/quemar'; horno-ardiente Nabucodonosor (Dn 3:6,11,15,17,20,21,23,26).",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H3346",
+      "hebreeuws": "יְקֵדָא",
+      "translit": "yeqedah-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ardor-arameo",
+      "grondvorm": "ardor-arameo",
+      "stamfamilie": [
+        "H3345"
+      ],
+      "toelichting": "Arameo para fuego-ardiente donde bestia-arrojada; Dn 7:11.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3347",
+      "hebreeuws": "יָקְדְעָם",
+      "translit": "yoqdeam",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yoqdeam-pn-lugar",
+      "grondvorm": "Yoqdeam-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-montaña-Judá; Jos 15:56.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3348",
+      "hebreeuws": "יָקֶה",
+      "translit": "yaqeh",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yaqeh-pn",
+      "grondvorm": "Yaqeh-pn",
+      "stamfamilie": [],
+      "toelichting": "Padre Agur-poeta-proverbios; Pr 30:1.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3349",
+      "hebreeuws": "יִקְּהָה",
+      "translit": "yiqqehah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "obediencia-de-pueblos",
+      "grondvorm": "obediencia-de-pueblos",
+      "stamfamilie": [],
+      "toelichting": "Gn-a-Él-obediencia-de-pueblos y Pr-ojo-que-desprecia-obediencia-madre (Gn 49:10; Pr 30:17). Profecía-Judá-cetro y autoridad-paterna.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3350",
+      "hebreeuws": "יְקֹד",
+      "translit": "yeqod",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ascua-fogata",
+      "grondvorm": "ascua-fogata",
+      "stamfamilie": [
+        "H3344"
+      ],
+      "toelichting": "Fuego-ardiente o brasa — Is 10:16 'arderá un fuego como llama-de-fuego'; Is 10:17 'la luz de Israel será por fuego'. Abstracto-concreto de yaqad.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3351",
+      "hebreeuws": "יְקוּם",
+      "translit": "yequm",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ente-viviente-yequm",
+      "grondvorm": "ente-viviente-yequm",
+      "stamfamilie": [],
+      "toelichting": "Todo-ser-viviente borrado en diluvio (Gn 7:4,23; Dt 11:6). Distinto de H2416a chay y H5315 nefesh.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3352",
+      "hebreeuws": "יָקוֹשׁ",
+      "translit": "iqush",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cazador-aves",
+      "grondvorm": "cazador-aves",
+      "stamfamilie": [
+        "H3353",
+        "H3369"
+      ],
+      "toelichting": "Hapax Os 9:8 vigía-Efraín-como-cazador-trampa; participio H3353.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3353",
+      "hebreeuws": "יָקוּשׁ",
+      "translit": "yaqush",
+      "woordsoort": "sustantivo",
+      "es_concordant": "armador-trampa",
+      "grondvorm": "armador-trampa",
+      "stamfamilie": [
+        "H3352"
+      ],
+      "toelichting": "Sal-de-trampa-de-cazador-escapar y Os-Efraín-trampa-de-cazador y Jer-como-cazador-acechando (Sal 91:3; 124:7; Os 9:8; Jer 5:26). Familia H3369.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3354",
+      "hebreeuws": "יְקוּתִיאֵל",
+      "translit": "yequtiel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yequtiel-pn",
+      "grondvorm": "Yequtiel-pn",
+      "stamfamilie": [],
+      "toelichting": "Hijo Mered-rama-Judá; 1Cr 4:18.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3355",
+      "hebreeuws": "יָקְטָן",
+      "translit": "yoqtan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Joctan-pn",
+      "grondvorm": "Joctan-pn",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Eber, ancestro de pueblos sud-arábicos (Gn 10:25,26,29; 1Cr 1:19,20,23).",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H3356",
+      "hebreeuws": "יָקִים",
+      "translit": "yakim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yakim-pn-Benjamin",
+      "grondvorm": "Yakim-pn-Benjamin",
+      "stamfamilie": [],
+      "toelichting": "1Cr-Yakim-Zichri-Zabdi y 1Cr-12a-suerte-sacerdotal Yakim-13a Huppa (1Cr 8:19; 24:12). Distinto de H3358 Yokim. 'Dios-levantará'-Benjamín-genealogía-Sjimei-12a-suerte-sacerdotal.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3357",
+      "hebreeuws": "יַקִּיר",
+      "translit": "yaqqir",
+      "woordsoort": "adjetivo",
+      "es_concordant": "precioso-hijo",
+      "grondvorm": "precioso-hijo",
+      "stamfamilie": [
+        "H3365"
+      ],
+      "toelichting": "Efraín-mi-hijo-precioso; Jer 31:20.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3358",
+      "hebreeuws": "יַקִּיר",
+      "translit": "iqir-Aram",
+      "woordsoort": "adjetivo",
+      "es_concordant": "precioso-arameo",
+      "grondvorm": "precioso-arameo",
+      "stamfamilie": [
+        "H3357"
+      ],
+      "toelichting": "Versión-aramea de Hebr H3368 yaqar; precioso-pesado (Dn 2:11; Esd 4:10).",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3359",
+      "hebreeuws": "יְקַמְיָה",
+      "translit": "yeqamyah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yeqamyah-pn",
+      "grondvorm": "Yeqamyah-pn",
+      "stamfamilie": [],
+      "toelichting": "Yeqamya-Judá-genealogía hijo Sallum y Yeqamya-hijo-Joaquín línea-davídica post-exilio (1Cr 2:41; 3:18). 'YHWH-eleva'.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3360",
+      "hebreeuws": "יְקֻתִיאֵל",
+      "translit": "yekutiel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yekutiel-Mered-pn",
+      "grondvorm": "Yekutiel-Mered-pn",
+      "stamfamilie": [],
+      "toelichting": "1Cr-su-mujer-judía-engendró-Yered-padre-Gedor-y-Heber-padre-Soco-y-Yekutiel-padre-Zanoach (1Cr 4:18). Familia H410 — 'Dios-da-vida'-Mered-Bitia-egipcia.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3361",
+      "hebreeuws": "יָקְמְעָם",
+      "translit": "yoqmeam",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yoqmeam-pn-ciudad",
+      "grondvorm": "Yoqmeam-pn-ciudad",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-Levítica de Efraín; 1Cr 6:68.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3362",
+      "hebreeuws": "יָקְנְעָם",
+      "translit": "yoqneam",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Joqneam-pn",
+      "grondvorm": "Joqneam-pn",
+      "stamfamilie": [],
+      "toelichting": "Joqneam-ciudad-Zabulón y Levitas-ciudad (Jos 12:22; 19:11; 21:34; 1Re 4:12). 'Pueblo-adquirido'.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H3363",
+      "hebreeuws": "יָקַע",
+      "translit": "yaqa",
+      "woordsoort": "verbo",
+      "es_concordant": "dislocar-luxar",
+      "grondvorm": "dislocar-luxar",
+      "stamfamilie": [],
+      "toelichting": "Articulación-saliendo-de-su-lugar; cadera-Jacob, moralmente-alienado-de-Dios (Gn 32:26; Nm 25:4; 2Sa 21:6,9,13; Jer 6:8; Ez 23:17,18,22,28). Físico-luxar extendido a moral-desconectarse.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H3364",
+      "hebreeuws": "יָקַץ",
+      "translit": "yaqats",
+      "woordsoort": "verbo",
+      "es_concordant": "despertarse",
+      "grondvorm": "despertarse",
+      "stamfamilie": [],
+      "toelichting": "Qal-variante de heqits (H6974); despertar-de-sueño o sueño-onírico (Gn 9:24 Noé sobrio; 28:16 Jacob; 41:4,7,21 Faraón; 45:26; Jue 16:14,20 Sansón; 1Sa 26:12; 1Re 3:15 Salomón; 18:27 Elías irónico).",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H3365",
+      "hebreeuws": "יָקַר",
+      "translit": "yaqar",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-precioso",
+      "grondvorm": "ser-precioso",
+      "stamfamilie": [
+        "H3366",
+        "H3368"
+      ],
+      "toelichting": "Qal-estativo de ser-precioso/estimado (1Sa 18:30 nombre-David; 26:21,24; 2Re 1:13-14; Sal 49:9 rescate; 72:14 sangre-preciosa; 139:17 pensamientos-YHWH; Pr 25:17 pie-raro-vecino; Is 43:4 'eres precioso a-mis-ojos').",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H3366",
+      "hebreeuws": "יְקָר",
+      "translit": "yeqar",
+      "woordsoort": "sustantivo",
+      "es_concordant": "preciosidad",
+      "grondvorm": "preciosidad",
+      "stamfamilie": [
+        "H3365"
+      ],
+      "toelichting": "De yaqar (ser-precioso); valor-noble, honor, esplendor.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H3367",
+      "hebreeuws": "יְקָר",
+      "translit": "yeqar-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "honor-arameo",
+      "grondvorm": "honor-arameo",
+      "stamfamilie": [
+        "H3366"
+      ],
+      "toelichting": "Arameo-equivalente para preciosidad-honor (Dn 2:6,37; 4:27,33; 5:18,20; 7:14). Familia H3366.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H3368",
+      "hebreeuws": "יָקָר",
+      "translit": "yaqar-adj",
+      "woordsoort": "adjetivo",
+      "es_concordant": "valioso",
+      "grondvorm": "valioso",
+      "stamfamilie": [
+        "H3365"
+      ],
+      "toelichting": "Adjetivo: muy-estimado, raro, costoso.",
+      "voorkomens": 36
+    },
+    {
+      "strong": "H3369",
+      "hebreeuws": "יָקֹשׁ",
+      "translit": "yaqosh",
+      "woordsoort": "verbo",
+      "es_concordant": "armar-trampa",
+      "grondvorm": "armar-trampa",
+      "stamfamilie": [
+        "H3352"
+      ],
+      "toelichting": "Poner-trampa-de-aves para animal o hombre (Sal 91:3; 124:7; 141:9; Jer 50:24; Os 9:8). Familia H4170 moqesh.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H3370",
+      "hebreeuws": "יָקְשָׁן",
+      "translit": "yaqshan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Joksan-pn",
+      "grondvorm": "Joksan-pn",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Cetura y Abraham (Gn 25:2,3; 1Cr 1:32 dos-veces). 'Pone-trampas'.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H3371",
+      "hebreeuws": "יָקְתְאֵל",
+      "translit": "yoqteel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yoqteel-pn-lugar",
+      "grondvorm": "Yoqteel-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-Judá-llanura; Jos 15:38.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3372",
+      "hebreeuws": "יָרֵא",
+      "translit": "yare-vb",
+      "woordsoort": "verbo",
+      "es_concordant": "temer",
+      "grondvorm": "temer",
+      "stamfamilie": [
+        "H3373",
+        "H3374"
+      ],
+      "toelichting": "Raíz yr'. Cognado yirah (temor, H3374). 'Temer' cubre miedo y reverencia.",
+      "voorkomens": 333
+    },
+    {
+      "strong": "H3373",
+      "hebreeuws": "יָרֵא",
+      "translit": "yare-adj",
+      "woordsoort": "adjetivo",
+      "es_concordant": "temeroso",
+      "grondvorm": "temeroso",
+      "stamfamilie": [
+        "H3372"
+      ],
+      "toelichting": "Adjetivo/participio de yare (temer).",
+      "voorkomens": 45
+    },
+    {
+      "strong": "H3374",
+      "hebreeuws": "יִרְאָה",
+      "translit": "yirah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "temor",
+      "grondvorm": "temor",
+      "stamfamilie": [
+        "H3372"
+      ],
+      "toelichting": "De yare (temer); reverencia-YHWH o miedo-pavor.",
+      "voorkomens": 45
+    },
+    {
+      "strong": "H3375",
+      "hebreeuws": "יִרְאוֹן",
+      "translit": "yiron",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yiron-pn-lugar",
+      "grondvorm": "Yiron-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-Naftalí; Jos 19:38.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3376",
+      "hebreeuws": "יִרְאִיָּה",
+      "translit": "yireeyahu",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yiriyah-pn-jefe-guardia",
+      "grondvorm": "Yiriyah-pn-jefe-guardia",
+      "stamfamilie": [],
+      "toelichting": "Yiriya 'YHWH-ve' — Jer 37:13 'capitán-guardia llamado Yiriya hijo Selemías'; Jer 37:14 'Yiriya no escuchó a Jeremías'. Jefe-guardia que arresta a Jeremías.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3377",
+      "hebreeuws": "יָרֵב",
+      "translit": "yarev",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yareb-pn-titulo",
+      "grondvorm": "Yareb-pn-titulo",
+      "stamfamilie": [
+        "H3401"
+      ],
+      "toelichting": "Nombre o título burlesco 'Yareb' (rey-pendenciero) para vorst-asirio — Os 5:13 'Efraín fue al asirio y envió al rey Yareb'; Os 10:6 'también será llevado a Asur al rey Yareb'.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3378",
+      "hebreeuws": "יְרֻבַּעַל",
+      "translit": "yerubbaal",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Jerubaal-pn",
+      "grondvorm": "Jerubaal-pn",
+      "stamfamilie": [],
+      "toelichting": "'Que-Baal-contienda'; sobrenombre Gedeón tras destruir altar-Baal.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H3379",
+      "hebreeuws": "יָרָבְעָם",
+      "translit": "yaroveam",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Jeroboam-pn",
+      "grondvorm": "Jeroboam-pn",
+      "stamfamilie": [],
+      "toelichting": "Convención-castellana Jeroboam.",
+      "voorkomens": 104
+    },
+    {
+      "strong": "H3380",
+      "hebreeuws": "יְרֻבֶּשֶׁת",
+      "translit": "yerubbesheth",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yerubbesheth-pn",
+      "grondvorm": "Yerubbesheth-pn",
+      "stamfamilie": [
+        "H3378"
+      ],
+      "toelichting": "Variante-evitando-Baal de Yerubbaal; 2Sa 11:21.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3381",
+      "hebreeuws": "יָרַד",
+      "translit": "yarad",
+      "woordsoort": "verbo",
+      "es_concordant": "descender",
+      "grondvorm": "descender",
+      "stamfamilie": [],
+      "toelichting": "Raíz yrd. Movimiento-vertical-descendente.",
+      "voorkomens": 382
+    },
+    {
+      "strong": "H3382",
+      "hebreeuws": "יֶרֶד",
+      "translit": "yered",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yered-pn",
+      "grondvorm": "Yered-pn",
+      "stamfamilie": [],
+      "toelichting": "Pre-diluvio-patriarca, hijo Mahalaleel, padre Henoc (Gn 5:15,16,18,19,20; 1Cr 1:2; 4:18).",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H3383",
+      "hebreeuws": "יַרְדֵּן",
+      "translit": "yarden",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Jordan-pn",
+      "grondvorm": "Jordan-pn",
+      "stamfamilie": [
+        "H3381"
+      ],
+      "toelichting": "Raíz yrd (descender, H3381). 'Jordán' convención-castellana.",
+      "voorkomens": 182
+    },
+    {
+      "strong": "H3384a",
+      "hebreeuws": "יָרָה-III",
+      "translit": "yarah-III",
+      "woordsoort": "verbo",
+      "es_concordant": "lanzar-flecha",
+      "grondvorm": "lanzar-flecha",
+      "stamfamilie": [],
+      "toelichting": "Flecha o piedra dirigidas (Ex 19:13; 1Sa 20:20,36,37; 2Cr 26:15; Sal 11:2; 64:5; Pr 26:18; Jer 50:14). Distinto de homónimo H3384b 'verter-lluvia' y H3384c 'enseñar'.",
+      "voorkomens": 24
+    },
+    {
+      "strong": "H3384b",
+      "hebreeuws": "יָרָה-II",
+      "translit": "yarah-II",
+      "woordsoort": "verbo",
+      "es_concordant": "enseñar-instruir",
+      "grondvorm": "enseñar-instruir",
+      "stamfamilie": [
+        "H8451"
+      ],
+      "toelichting": "Hifil de yarah: dirigir/apuntar → enseñar; raíz-madre de torah (H8451).",
+      "voorkomens": 47
+    },
+    {
+      "strong": "H3385",
+      "hebreeuws": "יְרוּאֵל",
+      "translit": "yeruel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yeruel-pn-desierto",
+      "grondvorm": "Yeruel-pn-desierto",
+      "stamfamilie": [],
+      "toelichting": "Desierto donde Josafat ganó batalla; 2Cr 20:16.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3386",
+      "hebreeuws": "יָרוֹחַ",
+      "translit": "yariach",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yariach-pn",
+      "grondvorm": "Yariach-pn",
+      "stamfamilie": [],
+      "toelichting": "Genealogía-Gad; 1Cr 5:14.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3387",
+      "hebreeuws": "יָרוֹק",
+      "translit": "yaroq",
+      "woordsoort": "sustantivo",
+      "es_concordant": "todo-verdor",
+      "grondvorm": "todo-verdor",
+      "stamfamilie": [
+        "H3418"
+      ],
+      "toelichting": "Onagro busca-todo-pasto-verde; Job 39:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3388",
+      "hebreeuws": "יְרוּשָׁא",
+      "translit": "yerusha",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yerusha-pn",
+      "grondvorm": "Yerusha-pn",
+      "stamfamilie": [],
+      "toelichting": "2Re-y-su-madre-llamada-Yerusha-hija-Sadoc y 2Cr-su-madre-Yerusha-hija-Sadoc (2Re 15:33; 2Cr 27:1). Madre Jotam-Judá. Familia H3423.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3389",
+      "hebreeuws": "יְרוּשָׁלִַם",
+      "translit": "yerushalaim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Jerusalen-pn",
+      "grondvorm": "Jerusalen-pn",
+      "stamfamilie": [],
+      "toelichting": "Convención-castellana Jerusalén.",
+      "voorkomens": 643
+    },
+    {
+      "strong": "H3390",
+      "hebreeuws": "יְרוּשְׁלֵם",
+      "translit": "yerushlem-Aram",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Jerusalen-arameo-pn",
+      "grondvorm": "Jerusalen-arameo-pn",
+      "stamfamilie": [
+        "H3389"
+      ],
+      "toelichting": "Variante-aramea-ortográfica de Yerushalayim; H3389.",
+      "voorkomens": 26
+    },
+    {
+      "strong": "H3391",
+      "hebreeuws": "יֶרַח",
+      "translit": "yerach",
+      "woordsoort": "sustantivo",
+      "es_concordant": "mes-luna",
+      "grondvorm": "mes-luna",
+      "stamfamilie": [
+        "H3394"
+      ],
+      "toelichting": "Ciclo-luna como medida-tiempo (30 días); distinto de chodesh 'luna-nueva-mes'.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H3392",
+      "hebreeuws": "יֶרַח",
+      "translit": "yerach-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yerach-pn",
+      "grondvorm": "Yerach-pn",
+      "stamfamilie": [],
+      "toelichting": "Gn-Joctán-engendró-Hatsarmavet-Jerach y 1Cr-Jerach (Gn 10:26; 1Cr 1:20). Distinto de H3394 yareach 'luna'. Eponimo-Sur-Arabia.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3393",
+      "hebreeuws": "יְרַח",
+      "translit": "yerach-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "mes-arameo",
+      "grondvorm": "mes-arameo",
+      "stamfamilie": [
+        "H3391"
+      ],
+      "toelichting": "Cantidad-meses de la locura de Nabucodonosor y exilio entre los animales — Dn 4:26 'al cabo de doce meses'; Esd 6:15 'el templo se acabó en el mes Adar'. Cognado H3391.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3394",
+      "hebreeuws": "יָרֵחַ",
+      "translit": "yareach",
+      "woordsoort": "sustantivo",
+      "es_concordant": "luna",
+      "grondvorm": "luna",
+      "stamfamilie": [
+        "H3391"
+      ],
+      "toelichting": "Cuerpo-celeste, marcador-tiempo para fiestas.",
+      "voorkomens": 27
+    },
+    {
+      "strong": "H3395",
+      "hebreeuws": "יְרֹחָם",
+      "translit": "yerocham",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yeroham-pn",
+      "grondvorm": "Yeroham-pn",
+      "stamfamilie": [],
+      "toelichting": "Múltiples personas con nombre 'hallado-misericordioso': padre de Elcana y abuelo de Samuel (1Sa 1:1; 1Cr 6:27,34); jefes-Benjamín (1Cr 8:27; 9:12); héroe-David Gedor (1Cr 12:7); príncipe-Dan (1Cr 27:22); jefe-sacerdotal (1Cr 9:12); padres-comandantes Joás-coup (2Cr 23:1).",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H3396",
+      "hebreeuws": "יְרַחְמְאֵל",
+      "translit": "yerachmeel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Jerachmeel-pn",
+      "grondvorm": "Jerachmeel-pn",
+      "stamfamilie": [],
+      "toelichting": "Cabeza-Judá y línea-descendientes (1Cr 2:9,25,26,27,33,42; 24:29; 1Sa 27:10; 30:29). 'Dios-tiene-misericordia'.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H3397",
+      "hebreeuws": "יְרַחְמְאֵלִי",
+      "translit": "yerachmeeli",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yerachmeeli-pn-Negev",
+      "grondvorm": "Yerachmeeli-pn-Negev",
+      "stamfamilie": [
+        "H3396"
+      ],
+      "toelichting": "1Sa-David-hacia-sur-Judá-y-sur-Yerachmeelitas y 1Sa-y-aquellos-en-ciudades-Yerachmeelitas (1Sa 27:10; 30:29). Distinto de H3396 persona; gentilicio.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3398",
+      "hebreeuws": "יַרְחָע",
+      "translit": "yarcha",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yarcha-pn",
+      "grondvorm": "Yarcha-pn",
+      "stamfamilie": [],
+      "toelichting": "1Cr-Sjesjan-tenía-siervo-egipcio-llamado-Yarcha y 1Cr-Sjesjan-dio-su-hija-a-su-siervo-Yarcha-y-le-engendró-Attai (1Cr 2:34,35). Esclavo-egipcio-yerno.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3399a",
+      "hebreeuws": "יָרַט-I",
+      "translit": "yarat-I",
+      "woordsoort": "verbo",
+      "es_concordant": "ir-precipitado",
+      "grondvorm": "ir-precipitado",
+      "stamfamilie": [],
+      "toelichting": "Qal-pasivo; camino-Balaam como tropezar-precipitado; Nm 22:32.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H3399b",
+      "hebreeuws": "יָרַט",
+      "translit": "yarat-cast",
+      "woordsoort": "verbo",
+      "es_concordant": "echar-en-manos",
+      "grondvorm": "echar-en-manos",
+      "stamfamilie": [
+        "H3399a"
+      ],
+      "toelichting": "Segundo yarat; Dios echa-Job en manos de impíos; Job 16:11.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3400",
+      "hebreeuws": "יְרִיאֵל",
+      "translit": "yeriel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yeriel-pn",
+      "grondvorm": "Yeriel-pn",
+      "stamfamilie": [],
+      "toelichting": "Jefe-Isacar hijo Tola; 1Cr 7:2.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3401",
+      "hebreeuws": "יָרִיב",
+      "translit": "yariv",
+      "woordsoort": "sustantivo",
+      "es_concordant": "adversario-yariv",
+      "grondvorm": "adversario-yariv",
+      "stamfamilie": [
+        "H3402"
+      ],
+      "toelichting": "Is-quién-es-mi-contendiente y Sal-adversarios-de-mi-alma y Jer-contendiente-causa-Dios (Is 49:25; Sal 35:1; Jer 18:19). Distinto de H3402 Yariv-eigennaam y H6862b tsar.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3402",
+      "hebreeuws": "יָרִיב",
+      "translit": "yariv-pn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Jarib-pn",
+      "grondvorm": "Jarib-pn",
+      "stamfamilie": [],
+      "toelichting": "Jarib-jefe-simeonita y Jarib-familia-sacerdotal de Joiarib y Jarib-expedición-Esdras (1Cr 4:24; Esd 8:16; 10:18). 'Él-contenderá'. Distinto de H3114 Yoyariv.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3403",
+      "hebreeuws": "יְרִיבַי",
+      "translit": "yerivay",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yerivay-pn",
+      "grondvorm": "Yerivay-pn",
+      "stamfamilie": [],
+      "toelichting": "Guerrero-David hijo Elnaam; 1Cr 11:46.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3404",
+      "hebreeuws": "יְרִיָּה",
+      "translit": "yeriyyah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Jeria-pn",
+      "grondvorm": "Jeria-pn",
+      "stamfamilie": [],
+      "toelichting": "Jeria-Hebronita-Levita-cabeza-genealogía y Jeria-en-división-Coata-David y Jeria-Rubén-cabeza-casa (1Cr 23:19; 24:23; 26:31). 'YHWH-enseñará'.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H3405",
+      "hebreeuws": "יְרִיחוֹ",
+      "translit": "yericho",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Jerico-pn",
+      "grondvorm": "Jerico-pn",
+      "stamfamilie": [],
+      "toelichting": "Lugar, posiblemente 'ciudad-luna'.",
+      "voorkomens": 57
+    },
+    {
+      "strong": "H3406",
+      "hebreeuws": "יְרֵמוֹת",
+      "translit": "yerimot",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yerimot-pn",
+      "grondvorm": "Yerimot-pn",
+      "stamfamilie": [],
+      "toelichting": "'Elevaciones'; varios personajes en Crónicas.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H3407",
+      "hebreeuws": "יְרִיעָה",
+      "translit": "yeriah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cortina-tienda",
+      "grondvorm": "cortina-tienda",
+      "stamfamilie": [],
+      "toelichting": "Cortina/lienzo del tabernáculo; también metafórico cielos-extendidos.",
+      "voorkomens": 53
+    },
+    {
+      "strong": "H3408",
+      "hebreeuws": "יְרִיעוֹת",
+      "translit": "yeriot",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Yeriot-pn",
+      "grondvorm": "Yeriot-pn",
+      "stamfamilie": [],
+      "toelichting": "Mujer Caleb-hijo Hetsron; 1Cr 2:18.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H3409",
+      "hebreeuws": "יָרֵךְ",
+      "translit": "yarech",
+      "woordsoort": "sustantivo",
+      "es_concordant": "muslo",
+      "grondvorm": "muslo",
+      "stamfamilie": [
+        "H3411"
+      ],
+      "toelichting": "Pierna-superior, sede-de-progenie y juramento; base-de-costado (yerechatayim).",
+      "voorkomens": 34
+    },
+    {
+      "strong": "H3410",
+      "hebreeuws": "יַרְכָה",
+      "translit": "irke-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "muslo-arameo",
+      "grondvorm": "muslo-arameo",
+      "stamfamilie": [
+        "H3409"
+      ],
+      "toelichting": "Arameo muslo-bajo-cuerpo de imagen-cobre (Dn 2:32); cognado H3409 yarek.",
+      "voorkomens": 1
+    }
+  ]
+}

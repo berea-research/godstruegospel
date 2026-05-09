@@ -1,0 +1,2971 @@
+{
+  "batch_id": "h_batch_040",
+  "script": "heb",
+  "datum": "2026-05-02",
+  "entries": [
+    {
+      "strong": "H6272",
+      "hebreeuws": "עָתַם",
+      "translit": "atam",
+      "woordsoort": "verbo",
+      "es_concordant": "oscurecer-tierra",
+      "grondvorm": "darken-land",
+      "stamfamilie": [],
+      "toelichting": "Tierra ennegrecerse Is 9:19; raiz a-t-m.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6273",
+      "hebreeuws": "עָתְנִי",
+      "translit": "otni-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Otni-pn",
+      "grondvorm": "Othni",
+      "stamfamilie": [],
+      "toelichting": "Levita 1Cr 26:7.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6274",
+      "hebreeuws": "עׇתְנִיאֵל",
+      "translit": "Othni'el",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Otniel-pn",
+      "grondvorm": "Othniel",
+      "stamfamilie": [],
+      "toelichting": "Juez de Israel Jos 15:17.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H6275",
+      "hebreeuws": "עָתַק",
+      "translit": "ataq",
+      "woordsoort": "verbo",
+      "es_concordant": "avanzar-ataq",
+      "grondvorm": "move-on",
+      "stamfamilie": [],
+      "toelichting": "Pasar adelante Job 14:18; raiz a-t-q.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H6276",
+      "hebreeuws": "עָתֵק",
+      "translit": "ateq",
+      "woordsoort": "adjetivo",
+      "es_concordant": "humilde-perdurable",
+      "grondvorm": "humble-continuing",
+      "stamfamilie": [],
+      "toelichting": "Humilde-continuo Pr 8:18 H6276.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6277",
+      "hebreeuws": "עָתָק",
+      "translit": "athaq",
+      "woordsoort": "adjetivo",
+      "es_concordant": "arrogante-athaq",
+      "grondvorm": "arrogant",
+      "stamfamilie": [
+        "H6275"
+      ],
+      "toelichting": "Lenguaje insolente Sal 31:18 H6277.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6278",
+      "hebreeuws": "עִתָּה קָצִין",
+      "translit": "ittah-qatsin-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ita-Casin-pn",
+      "grondvorm": "Ittah-Kazin",
+      "stamfamilie": [],
+      "toelichting": "Frontera de Zabulon Jos 19:13.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6278+",
+      "hebreeuws": "עִתָּה קָצִין",
+      "translit": "ittah-qatsin-eign-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ita-Casin-compuesto-pn",
+      "grondvorm": "Ittah-Kazin-compound",
+      "stamfamilie": [
+        "H6278"
+      ],
+      "toelichting": "Variante compuesta H6278+.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6279",
+      "hebreeuws": "עָתַר",
+      "translit": "atar",
+      "woordsoort": "verbo",
+      "es_concordant": "suplicar",
+      "grondvorm": "entreat",
+      "stamfamilie": [
+        "H6282"
+      ],
+      "toelichting": "Implorar a Dios Gn 25:21; raiz a-t-r.",
+      "voorkomens": 20
+    },
+    {
+      "strong": "H6280",
+      "hebreeuws": "עָתַר",
+      "translit": "atar-overvloed",
+      "woordsoort": "verbo",
+      "es_concordant": "humo-abundante",
+      "grondvorm": "abundant-smoke",
+      "stamfamilie": [],
+      "toelichting": "Humear-amontonar Ez 35:13 H6280.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6281",
+      "hebreeuws": "עֶתֶר",
+      "translit": "Ether-stad",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Eter-pn",
+      "grondvorm": "Ether",
+      "stamfamilie": [],
+      "toelichting": "Pueblo en Juda Jos 15:42.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6282a",
+      "hebreeuws": "עֲתָר-Sef",
+      "translit": "atar-I-aanbidden",
+      "woordsoort": "sustantivo",
+      "es_concordant": "adorador-atar-I",
+      "grondvorm": "worshiper",
+      "stamfamilie": [
+        "H6282b"
+      ],
+      "toelichting": "Adorador Sof 3:10 H6282a.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6282b",
+      "hebreeuws": "עָתָר",
+      "translit": "atar-II-rook",
+      "woordsoort": "sustantivo",
+      "es_concordant": "nube-de-humo",
+      "grondvorm": "smoke-cloud",
+      "stamfamilie": [
+        "H6282a"
+      ],
+      "toelichting": "Columna de humo Ez 8:11 H6282b.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6283",
+      "hebreeuws": "עֲתֶרֶת",
+      "translit": "ateret",
+      "woordsoort": "sustantivo",
+      "es_concordant": "abundancia-ateret",
+      "grondvorm": "abundance-ateret",
+      "stamfamilie": [],
+      "toelichting": "Profusion Jr 33:6 H6283.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6284",
+      "hebreeuws": "פָּאָה",
+      "translit": "paah",
+      "woordsoort": "verbo",
+      "es_concordant": "soplar-paah",
+      "grondvorm": "blow-away-paah",
+      "stamfamilie": [],
+      "toelichting": "Disipar soplando Dt 32:26.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6285",
+      "hebreeuws": "פאה",
+      "translit": "peah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "esquina-peah",
+      "grondvorm": "corner",
+      "stamfamilie": [
+        "H6285"
+      ],
+      "toelichting": "Rincon-borde Lv 19:9.",
+      "voorkomens": 86
+    },
+    {
+      "strong": "H6286a",
+      "hebreeuws": "פָּאַר-I",
+      "translit": "paar-I",
+      "woordsoort": "verbo",
+      "es_concordant": "embellecer",
+      "grondvorm": "beautify",
+      "stamfamilie": [
+        "H6287"
+      ],
+      "toelichting": "Hacer glorioso Is 60:7; raiz p-a-r-I.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H6286b",
+      "hebreeuws": "פָּאַר",
+      "translit": "paar-II",
+      "woordsoort": "verbo",
+      "es_concordant": "varear-olivos",
+      "grondvorm": "beat-olives",
+      "stamfamilie": [
+        "H6286a"
+      ],
+      "toelichting": "Sacudir olivos Dt 24:20; raiz p-a-r-II.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6287",
+      "hebreeuws": "פְּאֵר",
+      "translit": "pe'er",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tocado-turbante",
+      "grondvorm": "headdress-turban",
+      "stamfamilie": [
+        "H6286"
+      ],
+      "toelichting": "Adorno cabeza Ex 39:28.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H6288a",
+      "hebreeuws": "פֻּארָה",
+      "translit": "pu'rah-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "follaje-purah",
+      "grondvorm": "foliage",
+      "stamfamilie": [],
+      "toelichting": "Frondosidad Ez 17:6 H6288a.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H6288b",
+      "hebreeuws": "פֻּאָרָה",
+      "translit": "puarah-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ramas-puarah",
+      "grondvorm": "boughs-puarah",
+      "stamfamilie": [
+        "H6288a"
+      ],
+      "toelichting": "Ramas del arbol Ez 31:5 H6288b.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6289",
+      "hebreeuws": "פָּארוּר",
+      "translit": "paarur",
+      "woordsoort": "sustantivo",
+      "es_concordant": "rubor-tizne",
+      "grondvorm": "blackness-glow",
+      "stamfamilie": [
+        "H6286"
+      ],
+      "toelichting": "Rojez ardiente Jl 2:6.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6290",
+      "hebreeuws": "פָּארָן",
+      "translit": "Paran",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Paran-pn",
+      "grondvorm": "Paran",
+      "stamfamilie": [],
+      "toelichting": "Desierto Paran Gn 21:21.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H6291",
+      "hebreeuws": "פַּג",
+      "translit": "pag",
+      "woordsoort": "sustantivo",
+      "es_concordant": "higo-temprano-pag",
+      "grondvorm": "early-fig-pag",
+      "stamfamilie": [],
+      "toelichting": "Higo verde Cant 2:13.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6292",
+      "hebreeuws": "פִּגּוּל",
+      "translit": "piggul",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ofrenda-abominable",
+      "grondvorm": "detestable-offering",
+      "stamfamilie": [],
+      "toelichting": "Sacrificio inmundo Lv 7:18.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6293",
+      "hebreeuws": "פָּגַע",
+      "translit": "paga",
+      "woordsoort": "verbo",
+      "es_concordant": "encontrar-golpear",
+      "grondvorm": "encounter-strike",
+      "stamfamilie": [],
+      "toelichting": "Topar-atacar Ex 5:3; raiz p-g-a.",
+      "voorkomens": 46
+    },
+    {
+      "strong": "H6294",
+      "hebreeuws": "פֶּגַע",
+      "translit": "pega",
+      "woordsoort": "sustantivo",
+      "es_concordant": "infortunio",
+      "grondvorm": "mishap",
+      "stamfamilie": [],
+      "toelichting": "Suceso adverso 1Re 5:4.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6295",
+      "hebreeuws": "פַּגְעִיאֵל",
+      "translit": "Pag'iel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pagiel-pn",
+      "grondvorm": "Pagiel",
+      "stamfamilie": [],
+      "toelichting": "Jefe de Aser Nm 1:13.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H6296",
+      "hebreeuws": "פָּגַר",
+      "translit": "pagar",
+      "woordsoort": "verbo",
+      "es_concordant": "desfallecer-pagar",
+      "grondvorm": "faint-pagar",
+      "stamfamilie": [],
+      "toelichting": "Desmayar 1Sm 30:10; raiz p-g-r.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6297",
+      "hebreeuws": "פֶּגֶר",
+      "translit": "peger",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cadaver-peger",
+      "grondvorm": "corpse-peger",
+      "stamfamilie": [],
+      "toelichting": "Cuerpo muerto Lv 26:30.",
+      "voorkomens": 22
+    },
+    {
+      "strong": "H6298",
+      "hebreeuws": "פָּגַשׁ",
+      "translit": "pagash",
+      "woordsoort": "verbo",
+      "es_concordant": "encontrar-pagash",
+      "grondvorm": "meet",
+      "stamfamilie": [],
+      "toelichting": "Encontrarse Gn 32:17.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H6299",
+      "hebreeuws": "פָּדָה",
+      "translit": "padah",
+      "woordsoort": "verbo",
+      "es_concordant": "redimir-padah",
+      "grondvorm": "redeem-padah",
+      "stamfamilie": [
+        "H6302",
+        "H6306"
+      ],
+      "toelichting": "Rescatar-comprar Ex 13:13; raiz p-d-h.",
+      "voorkomens": 59
+    },
+    {
+      "strong": "H6300",
+      "hebreeuws": "פְּדַהְאֵל",
+      "translit": "pedahel-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pedahel-pn",
+      "grondvorm": "Pedahel",
+      "stamfamilie": [],
+      "toelichting": "Jefe de Neftali Nm 34:28.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6301",
+      "hebreeuws": "פְּדָהצוּר",
+      "translit": "Pedahtsur",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pedasur-pn",
+      "grondvorm": "Pedahzur",
+      "stamfamilie": [],
+      "toelichting": "Padre de Gamaliel Nm 1:10.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H6301+",
+      "hebreeuws": "פְּדָה־צוּר",
+      "translit": "pedah-tsur-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pedah-Tsur-compuesto-pn",
+      "grondvorm": "Pedah-Tsur",
+      "stamfamilie": [],
+      "toelichting": "Variante Pedah-Tsur.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6302",
+      "hebreeuws": "פָּדוּי",
+      "translit": "padui",
+      "woordsoort": "adjetivo",
+      "es_concordant": "redimido",
+      "grondvorm": "redeemed",
+      "stamfamilie": [
+        "H6299"
+      ],
+      "toelichting": "Rescatado Nm 3:49.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6303",
+      "hebreeuws": "פָּדוֹן",
+      "translit": "Padon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Padon-pn",
+      "grondvorm": "Padon",
+      "stamfamilie": [],
+      "toelichting": "Netineo Esd 2:44.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6304",
+      "hebreeuws": "פְּדוּת",
+      "translit": "peduth",
+      "woordsoort": "sustantivo",
+      "es_concordant": "redencion-peduth",
+      "grondvorm": "redemption",
+      "stamfamilie": [
+        "H6299"
+      ],
+      "toelichting": "Acto de rescate Ex 8:23.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6305",
+      "hebreeuws": "פְּדָיָה",
+      "translit": "Pedayah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pedaias-pn",
+      "grondvorm": "Pedaiah",
+      "stamfamilie": [],
+      "toelichting": "Padre de Joel 1Cr 27:20.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H6306a",
+      "hebreeuws": "פִּדְיוֹם",
+      "translit": "pidyom",
+      "woordsoort": "sustantivo",
+      "es_concordant": "dinero-rescate-pidyom",
+      "grondvorm": "redemption-money",
+      "stamfamilie": [],
+      "toelichting": "Dinero de rescate Sal 49:8 H6306a.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6306b",
+      "hebreeuws": "פִּדְיֹן",
+      "translit": "pidyon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "precio-rescate-pidyon",
+      "grondvorm": "ransom-price",
+      "stamfamilie": [
+        "H6299"
+      ],
+      "toelichting": "Precio de rescate Ex 21:30 H6306b.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6307",
+      "hebreeuws": "פַּדַּן",
+      "translit": "Paddan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Padan-pn",
+      "grondvorm": "Paddan",
+      "stamfamilie": [],
+      "toelichting": "Region Mesopotamica Gn 48:7.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H6307+",
+      "hebreeuws": "פַּדַּן אֲרָם",
+      "translit": "paddan-aram-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Padan-Aram-pn",
+      "grondvorm": "Paddan-Aram",
+      "stamfamilie": [],
+      "toelichting": "Padan-Aram Gn 25:20.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H6308",
+      "hebreeuws": "פָּדַע",
+      "translit": "pada",
+      "woordsoort": "verbo",
+      "es_concordant": "redimir-pada",
+      "grondvorm": "redeem-pada",
+      "stamfamilie": [],
+      "toelichting": "Liberar Job 33:24; raiz p-d-a.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6309",
+      "hebreeuws": "פֶּדֶר",
+      "translit": "peder",
+      "woordsoort": "sustantivo",
+      "es_concordant": "grasa-riñones",
+      "grondvorm": "fat-of-kidneys",
+      "stamfamilie": [],
+      "toelichting": "Sebo Lv 1:8.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6310",
+      "hebreeuws": "פה",
+      "translit": "peh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "boca-peh",
+      "grondvorm": "mouth",
+      "stamfamilie": [
+        "H6310"
+      ],
+      "toelichting": "Boca-orificio Gn 42:27.",
+      "voorkomens": 495
+    },
+    {
+      "strong": "H6311",
+      "hebreeuws": "פֹּה",
+      "translit": "poh",
+      "woordsoort": "adverbio",
+      "es_concordant": "aqui-poh",
+      "grondvorm": "here",
+      "stamfamilie": [],
+      "toelichting": "En este lugar Gn 19:12.",
+      "voorkomens": 82
+    },
+    {
+      "strong": "H6312",
+      "hebreeuws": "פּוּוָה",
+      "translit": "Puvvah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pua-pn",
+      "grondvorm": "Puah",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Isacar Gn 46:13.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6313",
+      "hebreeuws": "פּוּג",
+      "translit": "pug",
+      "woordsoort": "verbo",
+      "es_concordant": "desfallecer-pug",
+      "grondvorm": "grow-faint",
+      "stamfamilie": [
+        "H6314"
+      ],
+      "toelichting": "Desmayar Sal 38:8.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6314",
+      "hebreeuws": "פוּגָה",
+      "translit": "fugah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "respiro-fugah",
+      "grondvorm": "respite-fugah",
+      "stamfamilie": [],
+      "toelichting": "Pausa-tregua Lm 2:18.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6315",
+      "hebreeuws": "פּוּחַ",
+      "translit": "puach",
+      "woordsoort": "verbo",
+      "es_concordant": "exhalar-puach",
+      "grondvorm": "breathe-blow",
+      "stamfamilie": [],
+      "toelichting": "Soplar Sal 12:5.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H6316",
+      "hebreeuws": "פּוּט",
+      "translit": "Put",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Put-pn",
+      "grondvorm": "Put",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Cam Gn 10:6.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H6317",
+      "hebreeuws": "פּוּטִיאֵל",
+      "translit": "putiel-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Putiel-pn",
+      "grondvorm": "Putiel",
+      "stamfamilie": [],
+      "toelichting": "Suegro de Eleazar Ex 6:25.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6318",
+      "hebreeuws": "פּוֹטִיפַר",
+      "translit": "Potifar",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Potifar-pn",
+      "grondvorm": "Potiphar",
+      "stamfamilie": [],
+      "toelichting": "Capitan de la guardia Gn 37:36.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6319",
+      "hebreeuws": "פּוֹטִי פֶרַע",
+      "translit": "Poti-Fera",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Potifera-pn",
+      "grondvorm": "Potiphera",
+      "stamfamilie": [],
+      "toelichting": "Sacerdote de On Gn 41:45.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6319+",
+      "hebreeuws": "פּוֹטִי־פֶרַע",
+      "translit": "poti-fera-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Poti-Fera-compuesto-pn",
+      "grondvorm": "Poti-phera",
+      "stamfamilie": [],
+      "toelichting": "Variante Potifera.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6320",
+      "hebreeuws": "פּוּךְ",
+      "translit": "pukh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "antimonio",
+      "grondvorm": "antimony",
+      "stamfamilie": [],
+      "toelichting": "Pintura de ojos 2Re 9:30.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6321",
+      "hebreeuws": "פּוּל",
+      "translit": "pul-bonen",
+      "woordsoort": "sustantivo",
+      "es_concordant": "haba-pul",
+      "grondvorm": "beans",
+      "stamfamilie": [],
+      "toelichting": "Habas 2Sm 17:28.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6322",
+      "hebreeuws": "פּוּל",
+      "translit": "Pul",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pul-pn",
+      "grondvorm": "Pul",
+      "stamfamilie": [],
+      "toelichting": "Rey asirio 2Re 15:19.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6323",
+      "hebreeuws": "אָפוּן",
+      "translit": "afun",
+      "woordsoort": "verbo",
+      "es_concordant": "estar-perplejo-afun",
+      "grondvorm": "be-bewildered",
+      "stamfamilie": [],
+      "toelichting": "Aturdirse Sal 88:15.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6324",
+      "hebreeuws": "פּוּנִי",
+      "translit": "puni-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Punita-pn",
+      "grondvorm": "Punite",
+      "stamfamilie": [],
+      "toelichting": "Familia de Pua Nm 26:23.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6325",
+      "hebreeuws": "פּוּנֹן",
+      "translit": "Punon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Punon-pn",
+      "grondvorm": "Punon",
+      "stamfamilie": [],
+      "toelichting": "Etapa Israel Nm 33:42.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6326",
+      "hebreeuws": "פּוּעָה",
+      "translit": "pua-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pua-pn-mujer",
+      "grondvorm": "Puah-pua",
+      "stamfamilie": [],
+      "toelichting": "Partera hebrea Ex 1:15.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6327a",
+      "hebreeuws": "פּוּץ",
+      "translit": "puts-I",
+      "woordsoort": "verbo",
+      "es_concordant": "dispersar-puts",
+      "grondvorm": "scatter",
+      "stamfamilie": [],
+      "toelichting": "Esparcir Gn 11:8 H6327a.",
+      "voorkomens": 62
+    },
+    {
+      "strong": "H6327b",
+      "hebreeuws": "פּוּץ",
+      "translit": "phutz",
+      "woordsoort": "verbo",
+      "es_concordant": "restaurar-phutz",
+      "grondvorm": "restore-phutz",
+      "stamfamilie": [
+        "H6327b",
+        "H6327a"
+      ],
+      "toelichting": "Restaurar Pr 5:16 H6327b.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6327c",
+      "hebreeuws": "פּוּץ",
+      "translit": "puts-III-stromen",
+      "woordsoort": "verbo",
+      "es_concordant": "fluir-puts-III",
+      "grondvorm": "overflow-puts",
+      "stamfamilie": [
+        "H6327a"
+      ],
+      "toelichting": "Desbordar Pr 5:16 H6327c.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6327d",
+      "hebreeuws": "פָצַץ",
+      "translit": "phatsats",
+      "woordsoort": "verbo",
+      "es_concordant": "destrozar-phatsats",
+      "grondvorm": "shatter-phatsats",
+      "stamfamilie": [],
+      "toelichting": "Hacer pedazos Jr 23:29 H6327d.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6328",
+      "hebreeuws": "פּוּק",
+      "translit": "puq-wankelen",
+      "woordsoort": "verbo",
+      "es_concordant": "tambalearse-puq",
+      "grondvorm": "totter-puq",
+      "stamfamilie": [
+        "H6329"
+      ],
+      "toelichting": "Trastabillar Is 28:7 H6328.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6329",
+      "hebreeuws": "פּוּק",
+      "translit": "fuq",
+      "woordsoort": "verbo",
+      "es_concordant": "ejecutar-fuq",
+      "grondvorm": "execute",
+      "stamfamilie": [],
+      "toelichting": "Llevar a cabo Pr 8:35; raiz p-w-q-II.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H6330",
+      "hebreeuws": "פּוּקָה",
+      "translit": "puqah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tropiezo-puqah",
+      "grondvorm": "stumbling-puqah",
+      "stamfamilie": [],
+      "toelichting": "Causa de pena 1Sm 25:31.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6331",
+      "hebreeuws": "פּוּר",
+      "translit": "pur-frustreren",
+      "woordsoort": "verbo",
+      "es_concordant": "frustrar-pur",
+      "grondvorm": "break-frustrate",
+      "stamfamilie": [],
+      "toelichting": "Romper-frustrar Sal 33:10.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6332",
+      "hebreeuws": "פּוּר",
+      "translit": "pur",
+      "woordsoort": "sustantivo",
+      "es_concordant": "Pur-suerte",
+      "grondvorm": "Pur",
+      "stamfamilie": [
+        "H1486"
+      ],
+      "toelichting": "Suerte echada Est 3:7.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H6333",
+      "hebreeuws": "פּוּרָה",
+      "translit": "purah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lagar-purah",
+      "grondvorm": "winepress-purah",
+      "stamfamilie": [
+        "H6331"
+      ],
+      "toelichting": "Cuba de uvas Is 63:3.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6334",
+      "hebreeuws": "פּוֹרָתָא",
+      "translit": "porata-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Porata-pn",
+      "grondvorm": "Poratha",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Aman Est 9:8.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6335a",
+      "hebreeuws": "פּוּשׁ",
+      "translit": "push-I",
+      "woordsoort": "verbo",
+      "es_concordant": "saltar-dispersar",
+      "grondvorm": "disperse-leap",
+      "stamfamilie": [],
+      "toelichting": "Brincar-esparcir Jr 50:11 H6335a.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6335b",
+      "hebreeuws": "פּוּשׁ-Na",
+      "translit": "pus-II-uitstrekken",
+      "woordsoort": "verbo",
+      "es_concordant": "estar-disperso",
+      "grondvorm": "be-scattered",
+      "stamfamilie": [
+        "H6335a"
+      ],
+      "toelichting": "Quedar disperso Na 3:18 H6335b.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6336",
+      "hebreeuws": "פּוּתִי",
+      "translit": "puthi-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Putita-pn",
+      "grondvorm": "Puthite",
+      "stamfamilie": [],
+      "toelichting": "Familia de Quiriat-jearim 1Cr 2:53.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6337",
+      "hebreeuws": "פָּז",
+      "translit": "paz",
+      "woordsoort": "sustantivo",
+      "es_concordant": "oro-puro",
+      "grondvorm": "pure-gold",
+      "stamfamilie": [
+        "H2091",
+        "H3800"
+      ],
+      "toelichting": "Oro fino Sal 19:10.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H6338",
+      "hebreeuws": "מוּפָז",
+      "translit": "mufaz",
+      "woordsoort": "adjetivo",
+      "es_concordant": "oro-refinado",
+      "grondvorm": "refined-gold",
+      "stamfamilie": [],
+      "toelichting": "Oro purificado 1Re 10:18.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6339",
+      "hebreeuws": "פָּזַז",
+      "translit": "pazaz",
+      "woordsoort": "verbo",
+      "es_concordant": "fortalecerse",
+      "grondvorm": "grow-strong",
+      "stamfamilie": [],
+      "toelichting": "Hacerse fuerte Gn 49:24.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6340",
+      "hebreeuws": "פָּזַר",
+      "translit": "pazar",
+      "woordsoort": "verbo",
+      "es_concordant": "esparcir-pazar",
+      "grondvorm": "disperse-widely",
+      "stamfamilie": [],
+      "toelichting": "Dispersar Sal 112:9.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H6341a",
+      "hebreeuws": "פַּח",
+      "translit": "pach-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "trampa-pach-I",
+      "grondvorm": "snare-trap",
+      "stamfamilie": [
+        "H6351"
+      ],
+      "toelichting": "Lazo de cazador Sal 124:7 H6341a.",
+      "voorkomens": 25
+    },
+    {
+      "strong": "H6341b",
+      "hebreeuws": "פַּח",
+      "translit": "pach-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lamina-metal",
+      "grondvorm": "metal-plate",
+      "stamfamilie": [
+        "H6341a"
+      ],
+      "toelichting": "Plancha martillada Nm 16:38 H6341b.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6342",
+      "hebreeuws": "פָּחַד",
+      "translit": "pachad",
+      "woordsoort": "verbo",
+      "es_concordant": "temblar-pachad",
+      "grondvorm": "dread-pachad",
+      "stamfamilie": [
+        "H6343"
+      ],
+      "toelichting": "Estremecerse Dt 28:66.",
+      "voorkomens": 25
+    },
+    {
+      "strong": "H6343",
+      "hebreeuws": "פַּחַד",
+      "translit": "pachad",
+      "woordsoort": "sustantivo",
+      "es_concordant": "espanto-pachad",
+      "grondvorm": "dread",
+      "stamfamilie": [
+        "H6342"
+      ],
+      "toelichting": "Pavor Sal 14:5.",
+      "voorkomens": 47
+    },
+    {
+      "strong": "H6344",
+      "hebreeuws": "פַחַד",
+      "translit": "pachad-dij",
+      "woordsoort": "sustantivo",
+      "es_concordant": "muslo-fuerza",
+      "grondvorm": "thigh-strength",
+      "stamfamilie": [],
+      "toelichting": "Lomo poderoso Job 40:17.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6345",
+      "hebreeuws": "פַּחְדָּה",
+      "translit": "pachdah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "miedo-pachdah",
+      "grondvorm": "fear-pachdah",
+      "stamfamilie": [],
+      "toelichting": "Estado de pavor Jr 2:19.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6346",
+      "hebreeuws": "פֶּחָה",
+      "translit": "pechah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "gobernador-pechah",
+      "grondvorm": "governor",
+      "stamfamilie": [],
+      "toelichting": "Sátrapa-jefe 1Re 10:15.",
+      "voorkomens": 28
+    },
+    {
+      "strong": "H6347",
+      "hebreeuws": "פֶּחָה-Aram",
+      "translit": "pechah-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "gobernador-arameo-pechah",
+      "grondvorm": "governor-aramaic",
+      "stamfamilie": [
+        "H6346"
+      ],
+      "toelichting": "Aramaico Esd 5:3.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H6348",
+      "hebreeuws": "פָּחַז",
+      "translit": "pachaz",
+      "woordsoort": "adjetivo",
+      "es_concordant": "frivolo-pachaz",
+      "grondvorm": "be-frivolous",
+      "stamfamilie": [],
+      "toelichting": "Inestable Jue 9:4.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6349",
+      "hebreeuws": "פַּחַז",
+      "translit": "pachaz",
+      "woordsoort": "sustantivo",
+      "es_concordant": "imprudencia",
+      "grondvorm": "recklessness",
+      "stamfamilie": [],
+      "toelichting": "Temeridad Gn 49:4.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6350",
+      "hebreeuws": "פַּחֲזוּת",
+      "translit": "pachazut",
+      "woordsoort": "sustantivo",
+      "es_concordant": "frivolidad",
+      "grondvorm": "frivolity",
+      "stamfamilie": [],
+      "toelichting": "Liviandad profetica Jr 23:32.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6351",
+      "hebreeuws": "פָּחַח",
+      "translit": "pachach",
+      "woordsoort": "verbo",
+      "es_concordant": "tender-trampa",
+      "grondvorm": "lay-snare",
+      "stamfamilie": [],
+      "toelichting": "Poner red Is 42:22.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6352",
+      "hebreeuws": "פֶּחָם",
+      "translit": "pecham",
+      "woordsoort": "sustantivo",
+      "es_concordant": "carbon",
+      "grondvorm": "charcoal",
+      "stamfamilie": [],
+      "toelichting": "Brasa-tizon Pr 26:21.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6353",
+      "hebreeuws": "פֶּחָר",
+      "translit": "phchr",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "alfarero-arameo",
+      "grondvorm": "potter-aramaic",
+      "stamfamilie": [
+        "H6353"
+      ],
+      "toelichting": "Aramaico Dn 2:41.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6354",
+      "hebreeuws": "פַּחַת",
+      "translit": "pachat",
+      "woordsoort": "sustantivo",
+      "es_concordant": "fosa-pachat",
+      "grondvorm": "pit-trap",
+      "stamfamilie": [],
+      "toelichting": "Hoyo trampa 2Sm 18:17.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H6355",
+      "hebreeuws": "פַּחַת מוֹאָב",
+      "translit": "Pachath-Mo'av",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pahat-Moab-pn",
+      "grondvorm": "Pahath-Moab",
+      "stamfamilie": [
+        "H6346"
+      ],
+      "toelichting": "Cabeza de familia Esd 2:6.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H6355+",
+      "hebreeuws": "פַּחַת מוֹאָב",
+      "translit": "pachat-moav-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pahat-Moab-compuesto-pn",
+      "grondvorm": "Pahath-Moab-compound",
+      "stamfamilie": [],
+      "toelichting": "Variante Pahat-Moab.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H6356",
+      "hebreeuws": "פְּחֶתֶת",
+      "translit": "pechetet",
+      "woordsoort": "sustantivo",
+      "es_concordant": "erupcion-piel",
+      "grondvorm": "skin-eruption",
+      "stamfamilie": [],
+      "toelichting": "Mancha de carcoma Lv 13:55.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6357",
+      "hebreeuws": "פִּטְדָה",
+      "translit": "pitdah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "topacio",
+      "grondvorm": "topaz",
+      "stamfamilie": [],
+      "toelichting": "Piedra preciosa Ex 28:17.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6358",
+      "hebreeuws": "פָּטוּר",
+      "translit": "patur",
+      "woordsoort": "adjetivo",
+      "es_concordant": "flor-abierta",
+      "grondvorm": "open-flower",
+      "stamfamilie": [
+        "H6362"
+      ],
+      "toelichting": "Floracion abierta 1Re 6:18.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6359",
+      "hebreeuws": "פְּטִירִים",
+      "translit": "petirim",
+      "woordsoort": "adjetivo",
+      "es_concordant": "exento-petirim",
+      "grondvorm": "exempt",
+      "stamfamilie": [],
+      "toelichting": "Libre de obligacion 1Cr 9:33.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6360",
+      "hebreeuws": "פַּטִּישׁ",
+      "translit": "pattish",
+      "woordsoort": "sustantivo",
+      "es_concordant": "martillo-pattish",
+      "grondvorm": "hammer-pattish",
+      "stamfamilie": [],
+      "toelichting": "Martillo de herrero Jr 23:29 H6360.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6361",
+      "hebreeuws": "פַּטִּישׁ",
+      "translit": "pattish-Aram-hamer",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "calzon-arameo",
+      "grondvorm": "breeches-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Dn 3:21 H6361.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6362",
+      "hebreeuws": "פָּטַר",
+      "translit": "patar",
+      "woordsoort": "verbo",
+      "es_concordant": "soltar-patar",
+      "grondvorm": "release-patar",
+      "stamfamilie": [
+        "H6363"
+      ],
+      "toelichting": "Liberar Sal 22:7.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H6363a",
+      "hebreeuws": "פֶּטֶר",
+      "translit": "peter",
+      "woordsoort": "sustantivo",
+      "es_concordant": "primer-utero",
+      "grondvorm": "womb-opener",
+      "stamfamilie": [],
+      "toelichting": "Primogenito de matriz Ex 13:2 H6363a.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H6363b",
+      "hebreeuws": "פִּטְרָה",
+      "translit": "pitrah-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "primogenita-vientre",
+      "grondvorm": "firstborn-of-womb",
+      "stamfamilie": [],
+      "toelichting": "Primogenita de vientre Nm 8:16 H6363b.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6364",
+      "hebreeuws": "פִּי־בֶסֶת",
+      "translit": "pi-veset-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pi-Beset-pn",
+      "grondvorm": "Pi-Beseth",
+      "stamfamilie": [],
+      "toelichting": "Ciudad egipcia Ez 30:17.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6364+",
+      "hebreeuws": "פִּי־בֶסֶת",
+      "translit": "pi-veset-eign-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pi-Beset-compuesto-pn",
+      "grondvorm": "Pi-Beseth-compound",
+      "stamfamilie": [
+        "H6364"
+      ],
+      "toelichting": "Variante Pi-Beset.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6365",
+      "hebreeuws": "פִּיד",
+      "translit": "pid",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ruina-pid",
+      "grondvorm": "downfall-pid",
+      "stamfamilie": [],
+      "toelichting": "Desastre Job 12:5.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6366",
+      "hebreeuws": "פִּיפִיוֹת",
+      "translit": "pifiot",
+      "woordsoort": "sustantivo",
+      "es_concordant": "doble-filo",
+      "grondvorm": "two-edged",
+      "stamfamilie": [],
+      "toelichting": "De dos bocas Sal 149:6.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6367",
+      "hebreeuws": "פִּי־הַחִירֹת",
+      "translit": "Pi-ha-Chiroth",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pi-Hahirot-pn",
+      "grondvorm": "Pi-Hahiroth",
+      "stamfamilie": [],
+      "toelichting": "Estacion del Exodo Ex 14:2.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6367+",
+      "hebreeuws": "פִּי הַחִירֹת",
+      "translit": "pi-hachirot-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pi-Hahirot-compuesto-pn",
+      "grondvorm": "Pi-Hahiroth-compound",
+      "stamfamilie": [],
+      "toelichting": "Variante Pi-Hahirot.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6368",
+      "hebreeuws": "פִּיחַ",
+      "translit": "piach",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tizne-piach",
+      "grondvorm": "soot",
+      "stamfamilie": [],
+      "toelichting": "Hollin de horno Ex 9:8.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6369",
+      "hebreeuws": "פִּיכֹל",
+      "translit": "Pikhol",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ficol-pn",
+      "grondvorm": "Phicol",
+      "stamfamilie": [],
+      "toelichting": "Capitan de Abimelec Gn 21:22.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6370",
+      "hebreeuws": "פִּילֶגֶשׁ",
+      "translit": "pilegesh",
+      "woordsoort": "sustantivo",
+      "es_concordant": "concubina",
+      "grondvorm": "concubine",
+      "stamfamilie": [],
+      "toelichting": "Mujer secundaria Gn 22:24.",
+      "voorkomens": 37
+    },
+    {
+      "strong": "H6371",
+      "hebreeuws": "פִּימָה",
+      "translit": "pimah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "vientre-grasiento",
+      "grondvorm": "belly-fat",
+      "stamfamilie": [],
+      "toelichting": "Pliegue grasiento Job 15:27.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6372",
+      "hebreeuws": "פִּינְחָס",
+      "translit": "pinchas",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Finees-pn",
+      "grondvorm": "Phinehas",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Eleazar Ex 6:25.",
+      "voorkomens": 25
+    },
+    {
+      "strong": "H6373",
+      "hebreeuws": "פִּינֹן",
+      "translit": "Pinon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pinon-pn-Edom",
+      "grondvorm": "Pinon",
+      "stamfamilie": [],
+      "toelichting": "Cacique edomita Gn 36:41.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6374",
+      "hebreeuws": "פִּיפִיּוֹת",
+      "translit": "pifiyyot",
+      "woordsoort": "sustantivo",
+      "es_concordant": "espada-doble-filo",
+      "grondvorm": "two-edged-sword",
+      "stamfamilie": [],
+      "toelichting": "Filos dobles Pr 5:4.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6375",
+      "hebreeuws": "פִּק",
+      "translit": "piq",
+      "woordsoort": "sustantivo",
+      "es_concordant": "rodilla-temblor",
+      "grondvorm": "knee-knock",
+      "stamfamilie": [],
+      "toelichting": "Rodillas que se chocan Na 2:10.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6376",
+      "hebreeuws": "פִּישׁוֹן",
+      "translit": "pishon-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pison-pn",
+      "grondvorm": "Pishon",
+      "stamfamilie": [],
+      "toelichting": "Rio del Eden Gn 2:11.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6377",
+      "hebreeuws": "פִּיתוֹן",
+      "translit": "Pithon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Piton-pn",
+      "grondvorm": "Pithon",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Mica 1Cr 8:35.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6378",
+      "hebreeuws": "פַּךְ",
+      "translit": "pakh-olie",
+      "woordsoort": "sustantivo",
+      "es_concordant": "frasco-aceite",
+      "grondvorm": "flask",
+      "stamfamilie": [
+        "H6379"
+      ],
+      "toelichting": "Redoma 1Sm 10:1.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6379",
+      "hebreeuws": "פָּכָה",
+      "translit": "pakah",
+      "woordsoort": "verbo",
+      "es_concordant": "gotear-agua",
+      "grondvorm": "drip-water",
+      "stamfamilie": [],
+      "toelichting": "Destilar Ez 47:2.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6380",
+      "hebreeuws": "פֹּכֶרֶת הַצְּבָיִים",
+      "translit": "Pochereth-Tsebajim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pochereth-Tsebajim-pn",
+      "grondvorm": "Pochereth-Tsebajim",
+      "stamfamilie": [],
+      "toelichting": "Familia Esd 2:57.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6380+",
+      "hebreeuws": "פֹּכֶרֶת הַצְּבָיִים",
+      "translit": "pocheret-hatsevayim-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pocheret-Hatsevayim-compuesto-pn",
+      "grondvorm": "Pochereth-Hatsebaim",
+      "stamfamilie": [],
+      "toelichting": "Variante.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6381",
+      "hebreeuws": "פָּלָא",
+      "translit": "pala",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-maravilloso",
+      "grondvorm": "be-wonderful",
+      "stamfamilie": [
+        "H6382",
+        "H6383"
+      ],
+      "toelichting": "Ser admirable Gn 18:14; raiz p-l-a.",
+      "voorkomens": 69
+    },
+    {
+      "strong": "H6382",
+      "hebreeuws": "פֶּלֶא",
+      "translit": "pele",
+      "woordsoort": "sustantivo",
+      "es_concordant": "maravilla-pele",
+      "grondvorm": "wonder",
+      "stamfamilie": [
+        "H6381"
+      ],
+      "toelichting": "Cosa portentosa Ex 15:11.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H6383",
+      "hebreeuws": "פֶּלִאי",
+      "translit": "pili",
+      "woordsoort": "adjetivo",
+      "es_concordant": "maravilloso-pili",
+      "grondvorm": "wonderful",
+      "stamfamilie": [
+        "H6381"
+      ],
+      "toelichting": "Excepcional Jue 13:18.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6384",
+      "hebreeuws": "פַּלֻּאִי",
+      "translit": "pallui-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Paluita-pn",
+      "grondvorm": "Palluite",
+      "stamfamilie": [],
+      "toelichting": "Familia de Palu Nm 26:5.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6385",
+      "hebreeuws": "פָּלַג",
+      "translit": "palag",
+      "woordsoort": "verbo",
+      "es_concordant": "dividir-palag",
+      "grondvorm": "divide",
+      "stamfamilie": [
+        "H6386"
+      ],
+      "toelichting": "Separar Sal 55:9.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6386",
+      "hebreeuws": "פְּלִיג",
+      "translit": "phlig",
+      "woordsoort": "adjetivo-arameo",
+      "es_concordant": "dividido-arameo",
+      "grondvorm": "divided-aramaic-phlig",
+      "stamfamilie": [
+        "H6386",
+        "H6385"
+      ],
+      "toelichting": "Aramaico Dn 2:41.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6387",
+      "hebreeuws": "פְּלַג-Aram",
+      "translit": "pelag-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "mitad-arameo",
+      "grondvorm": "half-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Dn 7:25.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6388",
+      "hebreeuws": "פֶּלֶג",
+      "translit": "peleg",
+      "woordsoort": "sustantivo",
+      "es_concordant": "canal-agua",
+      "grondvorm": "water-channel",
+      "stamfamilie": [
+        "H6385",
+        "H6386",
+        "H6387",
+        "H6389"
+      ],
+      "toelichting": "Acequia Sal 1:3.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H6389",
+      "hebreeuws": "פֶּלֶג",
+      "translit": "Peleg",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Peleg-pn",
+      "grondvorm": "Peleg",
+      "stamfamilie": [
+        "H6388"
+      ],
+      "toelichting": "Hijo de Heber Gn 10:25.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H6390",
+      "hebreeuws": "פְּלַגָּה",
+      "translit": "pelaggah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "corriente-agua",
+      "grondvorm": "stream",
+      "stamfamilie": [],
+      "toelichting": "Arroyo Job 29:6.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6391",
+      "hebreeuws": "פְּלַגָּה",
+      "translit": "pelaggah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "division-pelaggah",
+      "grondvorm": "division",
+      "stamfamilie": [
+        "H6385"
+      ],
+      "toelichting": "Faccion-bando Jue 5:15 H6391.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6392",
+      "hebreeuws": "פְּלֻגָּה",
+      "translit": "pelugah-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "division-arameo",
+      "grondvorm": "division-aramaic-pelugah",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Esd 6:18.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6393",
+      "hebreeuws": "פְּלָדָה",
+      "translit": "phlde",
+      "woordsoort": "sustantivo",
+      "es_concordant": "antorcha-phlde",
+      "grondvorm": "torch-phlde",
+      "stamfamilie": [
+        "H6393"
+      ],
+      "toelichting": "Tea Na 2:3.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6394",
+      "hebreeuws": "פִּלְדָּשׁ",
+      "translit": "pildash-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pildas-pn",
+      "grondvorm": "Pildash",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Nacor Gn 22:22.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6395",
+      "hebreeuws": "פָּלָה",
+      "translit": "palah",
+      "woordsoort": "verbo",
+      "es_concordant": "apartar-palah",
+      "grondvorm": "set-apart",
+      "stamfamilie": [],
+      "toelichting": "Distinguir Ex 8:22; raiz p-l-h.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H6396",
+      "hebreeuws": "פַּלּוּא",
+      "translit": "Pallu",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Palu-pn",
+      "grondvorm": "Pallu",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Ruben Gn 46:9.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H6397",
+      "hebreeuws": "פְּלוֹנִי",
+      "translit": "peloni-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "alguien-cierto",
+      "grondvorm": "certain-one",
+      "stamfamilie": [],
+      "toelichting": "Cierto-tal Rt 4:1.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6398",
+      "hebreeuws": "פָּלַח",
+      "translit": "palach",
+      "woordsoort": "verbo",
+      "es_concordant": "hender-perforar",
+      "grondvorm": "cleave-pierce",
+      "stamfamilie": [],
+      "toelichting": "Atravesar Job 16:13; raiz p-l-h.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H6399",
+      "hebreeuws": "פְּלַח",
+      "translit": "pelach-Aram",
+      "woordsoort": "verbo-arameo",
+      "es_concordant": "servir-arameo",
+      "grondvorm": "serve-aramaic",
+      "stamfamilie": [
+        "H5647"
+      ],
+      "toelichting": "Aramaico Dn 3:12.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H6400",
+      "hebreeuws": "פֶּלַח",
+      "translit": "pelach",
+      "woordsoort": "sustantivo",
+      "es_concordant": "muela-piedra",
+      "grondvorm": "millstone",
+      "stamfamilie": [
+        "H6398"
+      ],
+      "toelichting": "Piedra de molino Jue 9:53.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H6401",
+      "hebreeuws": "פִּלְחָא",
+      "translit": "pilcha-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pilha-pn",
+      "grondvorm": "Pilha",
+      "stamfamilie": [],
+      "toelichting": "Firmante Neh 10:24.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6402",
+      "hebreeuws": "פָּלְחָן",
+      "translit": "polchan-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "culto-arameo",
+      "grondvorm": "worship-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Esd 7:19.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6403",
+      "hebreeuws": "פָּלַט",
+      "translit": "palat",
+      "woordsoort": "verbo",
+      "es_concordant": "escapar-palat",
+      "grondvorm": "escape-palat",
+      "stamfamilie": [
+        "H6405",
+        "H6412",
+        "H6413"
+      ],
+      "toelichting": "Librarse Job 23:7.",
+      "voorkomens": 24
+    },
+    {
+      "strong": "H6404",
+      "hebreeuws": "פֶּלֶט",
+      "translit": "Pelet-II-Caleb-zoon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pelet-Caleb-pn",
+      "grondvorm": "Pelet",
+      "stamfamilie": [
+        "H6403"
+      ],
+      "toelichting": "Hijo de Jehdai 1Cr 2:47.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6405",
+      "hebreeuws": "פַּלֵּט",
+      "translit": "pallet",
+      "woordsoort": "sustantivo",
+      "es_concordant": "escape-pallet",
+      "grondvorm": "escape-noun",
+      "stamfamilie": [],
+      "toelichting": "Liberacion Sal 32:7.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6406",
+      "hebreeuws": "פַּלְטִי",
+      "translit": "Palti",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Palti-pn",
+      "grondvorm": "Palti",
+      "stamfamilie": [
+        "H6403"
+      ],
+      "toelichting": "Espia Nm 13:9.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6407",
+      "hebreeuws": "פַּלְטִי",
+      "translit": "palti-eign-clan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Paltita-pn",
+      "grondvorm": "Paltite",
+      "stamfamilie": [],
+      "toelichting": "Familia 2Sm 23:26.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6408",
+      "hebreeuws": "פִּלְטָי",
+      "translit": "piltay-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Piltai-pn",
+      "grondvorm": "Piltai",
+      "stamfamilie": [],
+      "toelichting": "Sacerdote Neh 12:17.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6409",
+      "hebreeuws": "פַּלְטִיאֵל",
+      "translit": "Paltiel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Paltiel-pn",
+      "grondvorm": "Paltiel",
+      "stamfamilie": [
+        "H6403"
+      ],
+      "toelichting": "Hijo de Azan Nm 34:26.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6410",
+      "hebreeuws": "פְּלַטְיָה",
+      "translit": "Pelatyah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pelatias-pn",
+      "grondvorm": "Pelatiah",
+      "stamfamilie": [
+        "H6405"
+      ],
+      "toelichting": "Hijo de Benaia Ez 11:1.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H6411a",
+      "hebreeuws": "פְּלָאיָה",
+      "translit": "Pelaja",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pelaias-Levita-pn",
+      "grondvorm": "Pelaiah",
+      "stamfamilie": [],
+      "toelichting": "Levita Neh 8:7 H6411a.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6411b",
+      "hebreeuws": "פְּלָיָה",
+      "translit": "pelayah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pelayah-pn",
+      "grondvorm": "Pelaiah-sense-b",
+      "stamfamilie": [
+        "H6411a"
+      ],
+      "toelichting": "Variante Pelayah H6411b.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6412a",
+      "hebreeuws": "פָּלִיט",
+      "translit": "palit",
+      "woordsoort": "sustantivo",
+      "es_concordant": "fugitivo-palit-I",
+      "grondvorm": "fugitive",
+      "stamfamilie": [
+        "H6403",
+        "H6413"
+      ],
+      "toelichting": "Fugitivo Gn 14:13 H6412a.",
+      "voorkomens": 19
+    },
+    {
+      "strong": "H6412b",
+      "hebreeuws": "פָּלִיט",
+      "translit": "palit-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "escapado-palit-II",
+      "grondvorm": "escapee",
+      "stamfamilie": [
+        "H6403"
+      ],
+      "toelichting": "Escapado Jr 50:28 H6412b.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H6413",
+      "hebreeuws": "פְּלֵיטָה",
+      "translit": "peletah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "liberacion-peletah",
+      "grondvorm": "deliverance-peletah",
+      "stamfamilie": [
+        "H6412",
+        "H6405"
+      ],
+      "toelichting": "Escape Gn 45:7.",
+      "voorkomens": 28
+    },
+    {
+      "strong": "H6414",
+      "hebreeuws": "פָּלִיל",
+      "translit": "palil",
+      "woordsoort": "sustantivo",
+      "es_concordant": "juez-arbitro",
+      "grondvorm": "judge-arbiter",
+      "stamfamilie": [
+        "H6419"
+      ],
+      "toelichting": "Arbitro Ex 21:22.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6415",
+      "hebreeuws": "פְּלִילָה",
+      "translit": "pelilah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "juicio-decision",
+      "grondvorm": "judgment-decision",
+      "stamfamilie": [],
+      "toelichting": "Sentencia Is 16:3.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6416",
+      "hebreeuws": "פְּלִילִי",
+      "translit": "phlili",
+      "woordsoort": "adjetivo",
+      "es_concordant": "judicial",
+      "grondvorm": "judicial",
+      "stamfamilie": [
+        "H6416",
+        "H6414",
+        "H6415"
+      ],
+      "toelichting": "Concerniente al juicio Job 31:11.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6417",
+      "hebreeuws": "פְּלִילִיָּה",
+      "translit": "peliliyyah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "juzgar-peliliyyah",
+      "grondvorm": "judging",
+      "stamfamilie": [],
+      "toelichting": "Acto de juzgar Is 28:7.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6418",
+      "hebreeuws": "פֶּלֶךְ",
+      "translit": "pelek",
+      "woordsoort": "sustantivo",
+      "es_concordant": "huso-pelek",
+      "grondvorm": "spindle",
+      "stamfamilie": [],
+      "toelichting": "Vara de huso 2Sm 3:29.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H6419",
+      "hebreeuws": "פלל",
+      "translit": "palal",
+      "woordsoort": "verbo",
+      "es_concordant": "orar-palal",
+      "grondvorm": "pray",
+      "stamfamilie": [
+        "H6419"
+      ],
+      "toelichting": "Suplicar Gn 20:7.",
+      "voorkomens": 84
+    },
+    {
+      "strong": "H6420",
+      "hebreeuws": "פָּלָל",
+      "translit": "phll",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Palal-pn",
+      "grondvorm": "Palal",
+      "stamfamilie": [
+        "H6420"
+      ],
+      "toelichting": "Hijo de Uzai Neh 3:25.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6421",
+      "hebreeuws": "פְּלַלְיָה",
+      "translit": "pelalyah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pelalias-pn",
+      "grondvorm": "Pelaliah",
+      "stamfamilie": [],
+      "toelichting": "Antepasado de Adaia Neh 11:12.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6422",
+      "hebreeuws": "פַּלְמוֹנִי",
+      "translit": "palmoni",
+      "woordsoort": "sustantivo",
+      "es_concordant": "fulano-palmoni",
+      "grondvorm": "certain-someone",
+      "stamfamilie": [],
+      "toelichting": "Cierto desconocido Dn 8:13.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6423",
+      "hebreeuws": "פְּלֹנִי",
+      "translit": "peloni",
+      "woordsoort": "adjetivo",
+      "es_concordant": "tal-cual",
+      "grondvorm": "certain-unnamed",
+      "stamfamilie": [],
+      "toelichting": "Sin nombre Rt 4:1.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6424",
+      "hebreeuws": "פָּלַס",
+      "translit": "palas",
+      "woordsoort": "verbo",
+      "es_concordant": "pesar-palas",
+      "grondvorm": "weigh-out",
+      "stamfamilie": [
+        "H6425"
+      ],
+      "toelichting": "Sopesar Sal 58:2.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H6425",
+      "hebreeuws": "פֶּלֶס",
+      "translit": "peles-weegschaal",
+      "woordsoort": "sustantivo",
+      "es_concordant": "balanza-peles",
+      "grondvorm": "balance",
+      "stamfamilie": [],
+      "toelichting": "Balanza-romana Pr 16:11.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6426",
+      "hebreeuws": "פָּלַץ",
+      "translit": "palats",
+      "woordsoort": "verbo",
+      "es_concordant": "estremecer-palats",
+      "grondvorm": "shudder-quake",
+      "stamfamilie": [],
+      "toelichting": "Temblar Sal 55:5.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6427",
+      "hebreeuws": "פַּלָּצוּת",
+      "translit": "pallatsuth",
+      "woordsoort": "sustantivo",
+      "es_concordant": "horror-pallatsuth",
+      "grondvorm": "shuddering",
+      "stamfamilie": [
+        "H6426"
+      ],
+      "toelichting": "Espanto-temblor Sal 55:5.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6428",
+      "hebreeuws": "פָּלַשׁ",
+      "translit": "palash",
+      "woordsoort": "verbo",
+      "es_concordant": "revolcarse-polvo",
+      "grondvorm": "roll-in-dust",
+      "stamfamilie": [
+        "H6427"
+      ],
+      "toelichting": "Echarse en polvo Jr 6:26.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H6429",
+      "hebreeuws": "פְּלֶשֶׁת",
+      "translit": "Peleshet",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Filistea-pn",
+      "grondvorm": "Philistia",
+      "stamfamilie": [],
+      "toelichting": "Tierra filistea Sal 60:8.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H6430",
+      "hebreeuws": "פלשתי",
+      "translit": "Pelishti",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Filisteo-pn",
+      "grondvorm": "Philistine",
+      "stamfamilie": [
+        "H6430"
+      ],
+      "toelichting": "Habitante de Filistea Gn 21:32.",
+      "voorkomens": 290
+    },
+    {
+      "strong": "H6431",
+      "hebreeuws": "פֶּלֶת",
+      "translit": "Pelet",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pelet-pn",
+      "grondvorm": "Peleth",
+      "stamfamilie": [
+        "H6405"
+      ],
+      "toelichting": "Hijo de Jonatan 1Cr 2:33.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6432",
+      "hebreeuws": "פְּלֵתִי",
+      "translit": "Peleti",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Peleteo-pn",
+      "grondvorm": "Pelethite",
+      "stamfamilie": [],
+      "toelichting": "Guardia real 2Sm 8:18.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H6433",
+      "hebreeuws": "פֻּם",
+      "translit": "pum-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "boca-arameo",
+      "grondvorm": "mouth-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Dn 7:5.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H6434",
+      "hebreeuws": "פִּנָּה-Zach",
+      "translit": "pinnah-poort",
+      "woordsoort": "sustantivo",
+      "es_concordant": "esquina-ciudad",
+      "grondvorm": "city-corner",
+      "stamfamilie": [],
+      "toelichting": "Angulo de la muralla Zac 14:10.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6435",
+      "hebreeuws": "פן",
+      "translit": "pen",
+      "woordsoort": "conjuncion",
+      "es_concordant": "para-que-no",
+      "grondvorm": "lest",
+      "stamfamilie": [
+        "H6435"
+      ],
+      "toelichting": "No sea que Gn 3:3.",
+      "voorkomens": 134
+    },
+    {
+      "strong": "H6436",
+      "hebreeuws": "פַּנַּג",
+      "translit": "pannag",
+      "woordsoort": "sustantivo",
+      "es_concordant": "torta-pannag",
+      "grondvorm": "cake",
+      "stamfamilie": [],
+      "toelichting": "Pasteleria Ez 27:17.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6437",
+      "hebreeuws": "פנה",
+      "translit": "panah",
+      "woordsoort": "verbo",
+      "es_concordant": "volver-rostro",
+      "grondvorm": "turn-face",
+      "stamfamilie": [
+        "H6437",
+        "H6440"
+      ],
+      "toelichting": "Girarse Gn 18:22; raiz p-n-h.",
+      "voorkomens": 135
+    },
+    {
+      "strong": "H6438",
+      "hebreeuws": "פִּנָּה",
+      "translit": "pinnah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "esquina-pinnah",
+      "grondvorm": "corner-pinnah",
+      "stamfamilie": [
+        "H6437"
+      ],
+      "toelichting": "Angulo Sal 118:22 H6438.",
+      "voorkomens": 29
+    },
+    {
+      "strong": "H6439",
+      "hebreeuws": "פְּנִיאֵל",
+      "translit": "Peniel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Peniel-pn",
+      "grondvorm": "Peniel",
+      "stamfamilie": [],
+      "toelichting": "Lugar Gn 32:30.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H6440",
+      "hebreeuws": "פנים",
+      "translit": "panim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "rostro-panim",
+      "grondvorm": "face",
+      "stamfamilie": [
+        "H6440",
+        "H6437",
+        "H6438"
+      ],
+      "toelichting": "Cara-presencia Gn 1:2.",
+      "voorkomens": 2123
+    },
+    {
+      "strong": "H6441",
+      "hebreeuws": "פְּנִימָה",
+      "translit": "penimah",
+      "woordsoort": "adverbio",
+      "es_concordant": "hacia-dentro",
+      "grondvorm": "inward",
+      "stamfamilie": [
+        "H6440"
+      ],
+      "toelichting": "Adentro 1Re 6:18.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H6442",
+      "hebreeuws": "פְּנִימִי",
+      "translit": "penimi",
+      "woordsoort": "adjetivo",
+      "es_concordant": "interno-penimi",
+      "grondvorm": "inner",
+      "stamfamilie": [
+        "H6440"
+      ],
+      "toelichting": "Interior 1Re 6:27.",
+      "voorkomens": 32
+    },
+    {
+      "strong": "H6443",
+      "hebreeuws": "פָּנִינִים",
+      "translit": "paninim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "coral-paninim",
+      "grondvorm": "coral",
+      "stamfamilie": [],
+      "toelichting": "Coral rojo Pr 3:15.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H6444",
+      "hebreeuws": "פְּנִנָּה",
+      "translit": "Peninnah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Penina-pn",
+      "grondvorm": "Peninnah",
+      "stamfamilie": [],
+      "toelichting": "Esposa de Elcana 1Sm 1:2.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6445",
+      "hebreeuws": "פָּנַק",
+      "translit": "panaq",
+      "woordsoort": "verbo",
+      "es_concordant": "consentir-mimar",
+      "grondvorm": "pamper",
+      "stamfamilie": [],
+      "toelichting": "Mimar excesivamente Pr 29:21.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6446",
+      "hebreeuws": "פַּס",
+      "translit": "pas",
+      "woordsoort": "sustantivo",
+      "es_concordant": "palma-tunica",
+      "grondvorm": "palm-flat-piece",
+      "stamfamilie": [],
+      "toelichting": "Pieza extendida Gn 37:3.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H6447",
+      "hebreeuws": "פַּס",
+      "translit": "pas-handvlak-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "palma-arameo",
+      "grondvorm": "palm-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Dn 5:5.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6448",
+      "hebreeuws": "פָּסַג",
+      "translit": "pasag",
+      "woordsoort": "verbo",
+      "es_concordant": "atravesar-ciudad",
+      "grondvorm": "walk-through",
+      "stamfamilie": [],
+      "toelichting": "Recorrer Sal 48:14.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6449",
+      "hebreeuws": "פִּסְגָּה",
+      "translit": "Pisgah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pisga-pn",
+      "grondvorm": "Pisgah",
+      "stamfamilie": [],
+      "toelichting": "Monte Dt 3:27.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H6450",
+      "hebreeuws": "פַּס דַּמִּים",
+      "translit": "pas-dammim-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pas-Damim-pn",
+      "grondvorm": "Pas-Dammim",
+      "stamfamilie": [],
+      "toelichting": "Lugar 1Cr 11:13.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6450+",
+      "hebreeuws": "פַּס דַּמִּים",
+      "translit": "pas-dammim-eign-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pas-Damim-compuesto-pn",
+      "grondvorm": "Pas-Dammim-compound",
+      "stamfamilie": [
+        "H6450"
+      ],
+      "toelichting": "Variante Pas-Damim.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6451",
+      "hebreeuws": "פִּסָּה",
+      "translit": "pissah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "abundancia-grano",
+      "grondvorm": "plenty-pissah",
+      "stamfamilie": [],
+      "toelichting": "Abundancia Sal 72:16.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6452a",
+      "hebreeuws": "פָּסַח",
+      "translit": "pasach",
+      "woordsoort": "verbo",
+      "es_concordant": "saltar-pasach-I",
+      "grondvorm": "skip-over",
+      "stamfamilie": [
+        "H6453"
+      ],
+      "toelichting": "Saltar por encima Ex 12:13 H6452a.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6452b",
+      "hebreeuws": "פָּסַח",
+      "translit": "pasach-II",
+      "woordsoort": "verbo",
+      "es_concordant": "cojear-pasach-II",
+      "grondvorm": "go-lame",
+      "stamfamilie": [
+        "H6455"
+      ],
+      "toelichting": "Estar cojo 2Sm 4:4 H6452b.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6453",
+      "hebreeuws": "פֶּסַח",
+      "translit": "pesach",
+      "woordsoort": "sustantivo",
+      "es_concordant": "Pascua-pesach",
+      "grondvorm": "Passover",
+      "stamfamilie": [
+        "H6452"
+      ],
+      "toelichting": "Fiesta Pascua Ex 12:11.",
+      "voorkomens": 49
+    },
+    {
+      "strong": "H6454",
+      "hebreeuws": "פָּסֵחַ",
+      "translit": "Paseach",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pasea-pn",
+      "grondvorm": "Paseah",
+      "stamfamilie": [
+        "H6452a"
+      ],
+      "toelichting": "Familia Esd 2:49.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6455",
+      "hebreeuws": "פִּסֵּחַ",
+      "translit": "piseach",
+      "woordsoort": "adjetivo",
+      "es_concordant": "cojo-piseach",
+      "grondvorm": "lame",
+      "stamfamilie": [
+        "H6452",
+        "H6453"
+      ],
+      "toelichting": "Lisiado Lv 21:18.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H6456",
+      "hebreeuws": "פְּסִיל",
+      "translit": "pesil",
+      "woordsoort": "sustantivo",
+      "es_concordant": "imagen-pesil",
+      "grondvorm": "idol-image",
+      "stamfamilie": [
+        "H6458"
+      ],
+      "toelichting": "Idolo tallado Dt 7:5.",
+      "voorkomens": 24
+    },
+    {
+      "strong": "H6457",
+      "hebreeuws": "פָּסַךְ",
+      "translit": "pasach-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pasach-pn",
+      "grondvorm": "Pasach",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Jaflet 1Cr 7:33.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6458",
+      "hebreeuws": "פָּסַל",
+      "translit": "pasal",
+      "woordsoort": "verbo",
+      "es_concordant": "tallar-imagen",
+      "grondvorm": "hew-image",
+      "stamfamilie": [
+        "H6459"
+      ],
+      "toelichting": "Esculpir Ex 34:1.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H6459",
+      "hebreeuws": "פֶּסֶל",
+      "translit": "pesel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "imagen-tallada",
+      "grondvorm": "carved-image",
+      "stamfamilie": [
+        "H6458"
+      ],
+      "toelichting": "Idolo grabado Ex 20:4.",
+      "voorkomens": 31
+    },
+    {
+      "strong": "H6460",
+      "hebreeuws": "פְּסַנְתֵּרִין",
+      "translit": "pesanterin-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "salterio-arameo",
+      "grondvorm": "psaltery-aramaic",
+      "stamfamilie": [],
+      "toelichting": "Aramaico Dn 3:5.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6462",
+      "hebreeuws": "פִּסְפָּה",
+      "translit": "pispah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pispa-pn",
+      "grondvorm": "Pispa",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Jeter 1Cr 7:38.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6463",
+      "hebreeuws": "פָּעָה",
+      "translit": "paah",
+      "woordsoort": "verbo",
+      "es_concordant": "gritar-parto",
+      "grondvorm": "cry-out-birth",
+      "stamfamilie": [],
+      "toelichting": "Gritar de dolor Is 42:14.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6464",
+      "hebreeuws": "פָּעוּ",
+      "translit": "Pau",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pau-pn",
+      "grondvorm": "Pau",
+      "stamfamilie": [],
+      "toelichting": "Ciudad edomita Gn 36:39.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6465",
+      "hebreeuws": "פְּעוֹר",
+      "translit": "Pe'or",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Peor-pn",
+      "grondvorm": "Peor",
+      "stamfamilie": [],
+      "toelichting": "Monte Nm 23:28.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H6466",
+      "hebreeuws": "פָּעַל",
+      "translit": "paal",
+      "woordsoort": "verbo",
+      "es_concordant": "obrar-paal",
+      "grondvorm": "work-paal",
+      "stamfamilie": [
+        "H6467"
+      ],
+      "toelichting": "Realizar accion Sal 7:13.",
+      "voorkomens": 56
+    },
+    {
+      "strong": "H6467",
+      "hebreeuws": "פֹּעַל",
+      "translit": "poal",
+      "woordsoort": "sustantivo",
+      "es_concordant": "obra-poal",
+      "grondvorm": "work-deed",
+      "stamfamilie": [
+        "H6466"
+      ],
+      "toelichting": "Trabajo Job 36:24.",
+      "voorkomens": 37
+    },
+    {
+      "strong": "H6468",
+      "hebreeuws": "פְּעֻלָּה",
+      "translit": "peullah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "salario",
+      "grondvorm": "wages",
+      "stamfamilie": [
+        "H6466",
+        "H6467"
+      ],
+      "toelichting": "Paga del trabajo Lv 19:13.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H6469",
+      "hebreeuws": "פְּעֻלְּתַי",
+      "translit": "peullethay-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Peuletai-pn",
+      "grondvorm": "Peullethai",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Obed-Edom 1Cr 26:5.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6470",
+      "hebreeuws": "פָּעַם",
+      "translit": "pa'am-ontroeren",
+      "woordsoort": "verbo",
+      "es_concordant": "perturbar-paam",
+      "grondvorm": "be-troubled",
+      "stamfamilie": [
+        "H6471"
+      ],
+      "toelichting": "Estar agitado Gn 41:8.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H6471",
+      "hebreeuws": "פעם",
+      "translit": "paam",
+      "woordsoort": "sustantivo",
+      "es_concordant": "vez-paam",
+      "grondvorm": "time-occurrence",
+      "stamfamilie": [
+        "H6471"
+      ],
+      "toelichting": "Ocasion-vez Gn 27:36.",
+      "voorkomens": 118
+    },
+    {
+      "strong": "H6472",
+      "hebreeuws": "פַּעֲמֹן",
+      "translit": "pa'amon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cascabel-paamon",
+      "grondvorm": "bell",
+      "stamfamilie": [
+        "H6471"
+      ],
+      "toelichting": "Campanilla Ex 28:33.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H6473",
+      "hebreeuws": "פָּעַר",
+      "translit": "pa'ar",
+      "woordsoort": "verbo",
+      "es_concordant": "abrir-boca",
+      "grondvorm": "open-mouth-wide",
+      "stamfamilie": [],
+      "toelichting": "Abrir grande Sal 22:13.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H6474",
+      "hebreeuws": "פַּעֲרַי",
+      "translit": "paaray-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Paarai-pn",
+      "grondvorm": "Paarai",
+      "stamfamilie": [],
+      "toelichting": "Heroe de David 2Sm 23:35.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6475",
+      "hebreeuws": "פָּצָה",
+      "translit": "patsah",
+      "woordsoort": "verbo",
+      "es_concordant": "abrir-de-par-en-par",
+      "grondvorm": "open-wide",
+      "stamfamilie": [],
+      "toelichting": "Abrir grande Sal 144:7.",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H6476",
+      "hebreeuws": "פָּצַח",
+      "translit": "patsach",
+      "woordsoort": "verbo",
+      "es_concordant": "estallar-jubilar",
+      "grondvorm": "burst-jubilate",
+      "stamfamilie": [
+        "H6475",
+        "H6477"
+      ],
+      "toelichting": "Romper en cantos Is 14:7.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H6477",
+      "hebreeuws": "פְּצִירָה",
+      "translit": "petsirah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lima-paga",
+      "grondvorm": "file-pay",
+      "stamfamilie": [],
+      "toelichting": "Lima 1Sm 13:21.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6478",
+      "hebreeuws": "פָּצַל",
+      "translit": "patsal",
+      "woordsoort": "verbo",
+      "es_concordant": "pelar-palitos",
+      "grondvorm": "peel-strip",
+      "stamfamilie": [],
+      "toelichting": "Descortezar Gn 30:37.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6479",
+      "hebreeuws": "פְּצָלָה",
+      "translit": "petsala",
+      "woordsoort": "sustantivo",
+      "es_concordant": "rayas-peladas",
+      "grondvorm": "peel-stripe",
+      "stamfamilie": [],
+      "toelichting": "Listas blancas Gn 30:37.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6480",
+      "hebreeuws": "פָּצַם",
+      "translit": "patsam",
+      "woordsoort": "verbo",
+      "es_concordant": "hender-tierra",
+      "grondvorm": "split-land",
+      "stamfamilie": [],
+      "toelichting": "Partir tierra Sal 60:2.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6481",
+      "hebreeuws": "פָּצַע",
+      "translit": "patsa",
+      "woordsoort": "verbo",
+      "es_concordant": "magullar-herir",
+      "grondvorm": "bruise-wound",
+      "stamfamilie": [
+        "H6482"
+      ],
+      "toelichting": "Lastimar 1Re 20:37.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6482",
+      "hebreeuws": "פֶּצַע",
+      "translit": "petsa",
+      "woordsoort": "sustantivo",
+      "es_concordant": "herida-abierta",
+      "grondvorm": "open-wound",
+      "stamfamilie": [],
+      "toelichting": "Llaga abierta Gn 4:23.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H6483",
+      "hebreeuws": "פִּצֵּץ",
+      "translit": "pitstsets-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pizez-pn",
+      "grondvorm": "Pizzez",
+      "stamfamilie": [],
+      "toelichting": "Sacerdote 1Cr 24:15.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6484",
+      "hebreeuws": "פָּצַר",
+      "translit": "patsar",
+      "woordsoort": "verbo",
+      "es_concordant": "presionar-patsar",
+      "grondvorm": "press-urge-patsar",
+      "stamfamilie": [],
+      "toelichting": "Insistir Gn 19:3.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H6485",
+      "hebreeuws": "פָּקַד",
+      "translit": "paqad-rest",
+      "woordsoort": "verbo",
+      "es_concordant": "demandar-cuenta",
+      "grondvorm": "demand-account",
+      "stamfamilie": [
+        "H6485a",
+        "H6485b"
+      ],
+      "toelichting": "Pedir cuentas H6485 plenario.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6485a",
+      "hebreeuws": "פקד",
+      "translit": "paqad",
+      "woordsoort": "verbo",
+      "es_concordant": "visitar-paqad",
+      "grondvorm": "visit",
+      "stamfamilie": [
+        "H6485a",
+        "H6486"
+      ],
+      "toelichting": "Visitar-cuidar Gn 21:1 H6485a.",
+      "voorkomens": 302
+    },
+    {
+      "strong": "H6485b",
+      "hebreeuws": "פָּקַד",
+      "translit": "paqad-II",
+      "woordsoort": "verbo",
+      "es_concordant": "registrar-paqad-II",
+      "grondvorm": "register",
+      "stamfamilie": [
+        "H6485a"
+      ],
+      "toelichting": "Numerar Nm 1:3 H6485b.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6486",
+      "hebreeuws": "פְּקֻדָּה",
+      "translit": "pequddah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "supervision-pequddah",
+      "grondvorm": "oversight",
+      "stamfamilie": [
+        "H6485"
+      ],
+      "toelichting": "Encargo-cargo Nm 4:16.",
+      "voorkomens": 32
+    },
+    {
+      "strong": "H6487",
+      "hebreeuws": "פִּקָּדוֹן",
+      "translit": "piqqadon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "deposito-prenda",
+      "grondvorm": "deposit-pledge",
+      "stamfamilie": [
+        "H6485a"
+      ],
+      "toelichting": "Cosa confiada Lv 6:2.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6488",
+      "hebreeuws": "פְּקִדֻת",
+      "translit": "peqidut",
+      "woordsoort": "sustantivo",
+      "es_concordant": "puesto-vigilancia",
+      "grondvorm": "mustering-place",
+      "stamfamilie": [],
+      "toelichting": "Lugar de guardia Jr 37:13.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6489",
+      "hebreeuws": "פְּקוֹד",
+      "translit": "peqod",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pekod-pn",
+      "grondvorm": "Pekod",
+      "stamfamilie": [],
+      "toelichting": "Region oriental Jr 50:21.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6490",
+      "hebreeuws": "פִּקּוּדִים",
+      "translit": "piqqudim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "preceptos-piqqudim",
+      "grondvorm": "precepts",
+      "stamfamilie": [
+        "H6485"
+      ],
+      "toelichting": "Preceptos Sal 19:8.",
+      "voorkomens": 24
+    },
+    {
+      "strong": "H6491",
+      "hebreeuws": "פָּקַח",
+      "translit": "paqach",
+      "woordsoort": "verbo",
+      "es_concordant": "abrir-ojos",
+      "grondvorm": "open-eyes",
+      "stamfamilie": [],
+      "toelichting": "Abrir los ojos Gn 21:19.",
+      "voorkomens": 21
+    },
+    {
+      "strong": "H6492",
+      "hebreeuws": "פֶּקַח",
+      "translit": "Pekach",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Peka-pn",
+      "grondvorm": "Pekah",
+      "stamfamilie": [],
+      "toelichting": "Rey de Israel 2Re 15:25.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H6493",
+      "hebreeuws": "פִּקֵּחַ",
+      "translit": "piqqeach",
+      "woordsoort": "adjetivo",
+      "es_concordant": "vidente-piqqeach",
+      "grondvorm": "seeing",
+      "stamfamilie": [
+        "H6491"
+      ],
+      "toelichting": "Que ve Ex 4:11.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H6494",
+      "hebreeuws": "פְּקַחְיָה",
+      "translit": "Peqachyah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pekajia-pn",
+      "grondvorm": "Pekahiah",
+      "stamfamilie": [],
+      "toelichting": "Rey de Israel 2Re 15:22.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H6495",
+      "hebreeuws": "פְּקַח־קוֹחַ",
+      "translit": "peqach-qoach",
+      "woordsoort": "sustantivo",
+      "es_concordant": "abrir-prision",
+      "grondvorm": "open-prison",
+      "stamfamilie": [],
+      "toelichting": "Apertura de carcel Is 61:1.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6495+",
+      "hebreeuws": "פְּקַח־קוֹחַ",
+      "translit": "peqach-qoach-eign-plus",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Pekach-Qoach-compuesto-pn",
+      "grondvorm": "Pekach-Qoach",
+      "stamfamilie": [
+        "H6495"
+      ],
+      "toelichting": "Variante Pekach Qoach.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H6496",
+      "hebreeuws": "פָּקִיד",
+      "translit": "paqid",
+      "woordsoort": "sustantivo",
+      "es_concordant": "supervisor-paqid",
+      "grondvorm": "officer-paqid",
+      "stamfamilie": [
+        "H6485"
+      ],
+      "toelichting": "Funcionario Jr 20:1.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H6497",
+      "hebreeuws": "פֶּקַע",
+      "translit": "peqa-ornament",
+      "woordsoort": "sustantivo",
+      "es_concordant": "calabaza-ornamento",
+      "grondvorm": "gourd-ornament",
+      "stamfamilie": [],
+      "toelichting": "Adorno tallado 1Re 6:18.",
+      "voorkomens": 3
+    }
+  ]
+}

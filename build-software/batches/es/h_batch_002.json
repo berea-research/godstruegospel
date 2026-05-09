@@ -1,0 +1,2970 @@
+{
+  "batch_id": "h_batch_002",
+  "script": "heb",
+  "datum": "2026-05-01",
+  "entries": [
+    {
+      "strong": "H237",
+      "hebreeuws": "אֶזֶל",
+      "translit": "ezel-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ezel-pn-piedra",
+      "grondvorm": "Ezel-pn-piedra",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Sa 20:19). Piedra-de-marca para la senal entre David y Jonatan. Sufijo '-pn-piedra'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H238",
+      "hebreeuws": "אָזַן",
+      "translit": "azan",
+      "woordsoort": "verbo",
+      "es_concordant": "prestar-oido",
+      "grondvorm": "prestar-oido",
+      "stamfamilie": [
+        "H241"
+      ],
+      "toelichting": "Verbo-de-atencion (Gn 4:23 etc.). 36 apariciones. Hyphenated para preservar la accion-deliberada.",
+      "voorkomens": 36
+    },
+    {
+      "strong": "H239",
+      "hebreeuws": "אָזַן",
+      "translit": "azn",
+      "woordsoort": "verbo",
+      "es_concordant": "aguzar-oido",
+      "grondvorm": "aguzar-oido",
+      "stamfamilie": [
+        "H239",
+        "H241"
+      ],
+      "toelichting": "Hapax (Ec 12:9). Variante intensiva de H238. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H240",
+      "hebreeuws": "אָזֵן",
+      "translit": "azen",
+      "woordsoort": "sustantivo",
+      "es_concordant": "azada-pin",
+      "grondvorm": "azada-pin",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Dt 23:13). Instrumento-cavador. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H241",
+      "hebreeuws": "אזן",
+      "translit": "ozen",
+      "woordsoort": "sustantivo",
+      "es_concordant": "oido",
+      "grondvorm": "oido",
+      "stamfamilie": [
+        "H241"
+      ],
+      "toelichting": "Organo-anatomico, 187 apariciones. Concordante simple. RV60 'oido' estandar.",
+      "voorkomens": 187
+    },
+    {
+      "strong": "H242",
+      "hebreeuws": "אֻזֵּן שֶׁאֱרָה",
+      "translit": "uzzen-sheerah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Uzen-Seera-pn-ciudad",
+      "grondvorm": "Uzen-Seera-pn-ciudad",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 7:24). Ciudad fundada por Seera, hija de Efraim.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H243",
+      "hebreeuws": "אַזְנוֹת תָּבוֹר",
+      "translit": "aznot-tavor-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Aznot-Tabor-pn-lugar",
+      "grondvorm": "Aznot-Tabor-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jos 19:34). Limite de Neftali.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H244a",
+      "hebreeuws": "אָזְנִי",
+      "translit": "ozni-eign-zoon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ozni-pn-hijo",
+      "grondvorm": "Ozni-pn-hijo",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Num 26:16). Hijo de Gad.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H244b",
+      "hebreeuws": "אָזְנִי",
+      "translit": "ozni-eign-clan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Oznita-pn",
+      "grondvorm": "Oznita-pn",
+      "stamfamilie": [
+        "H244a"
+      ],
+      "toelichting": "Hapax (Num 26:16). Adjetivo gentilicio de H244a.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H245",
+      "hebreeuws": "אֲזַנְיָה",
+      "translit": "azanyah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Azanias-pn",
+      "grondvorm": "Azanias-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Neh 10:9). Padre de Jesua-levita.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H246",
+      "hebreeuws": "אֲזִקִּים",
+      "translit": "azzikim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "grilletes-cadenas",
+      "grondvorm": "grilletes-cadenas",
+      "stamfamilie": [],
+      "toelichting": "Esposas-de-prisionero (Jer 40:1,4). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H247",
+      "hebreeuws": "אָזַר",
+      "translit": "azar",
+      "woordsoort": "verbo",
+      "es_concordant": "cenir-azar",
+      "grondvorm": "cenir-azar",
+      "stamfamilie": [
+        "H232"
+      ],
+      "toelichting": "Verbo de cenir-cinto (1Sa 2:4 etc.). 16 apariciones. Hyphenated con sufijo '-azar' para uniqueness contra H2296 chagar.",
+      "voorkomens": 16
+    },
+    {
+      "strong": "H248",
+      "hebreeuws": "אֶזְרוֹעַ",
+      "translit": "ezroa-arm",
+      "woordsoort": "sustantivo",
+      "es_concordant": "brazo-extendido",
+      "grondvorm": "brazo-extendido",
+      "stamfamilie": [],
+      "toelichting": "Brazo-poderoso (Job 31:22; Jer 32:21). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H249",
+      "hebreeuws": "אֶזְרָח",
+      "translit": "ezrach",
+      "woordsoort": "sustantivo",
+      "es_concordant": "nativo-nacido",
+      "grondvorm": "nativo-nacido",
+      "stamfamilie": [
+        "H2224"
+      ],
+      "toelichting": "Considerado: nativo, nacido-en-tierra, indigena. Concordante 'nativo-nacido' captura la distincion del ger (peregrino, H1616) sin cargar conceptos modernos de ciudadania. Hyphenated.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H250",
+      "hebreeuws": "אֶזְרָחִי",
+      "translit": "azrchi",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "ezraita-pn",
+      "grondvorm": "ezraita-pn",
+      "stamfamilie": [
+        "H250",
+        "H2226"
+      ],
+      "toelichting": "Adjetivo gentilicio (Sal 88-89 titulos; 1Re 4:31). Hyphenated con sufijo.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H251",
+      "hebreeuws": "אח",
+      "translit": "ach",
+      "woordsoort": "sustantivo",
+      "es_concordant": "hermano",
+      "grondvorm": "hermano",
+      "stamfamilie": [
+        "H251",
+        "H269"
+      ],
+      "toelichting": "Termino de parentesco basico, 632 apariciones. Concordante simple. Distinto de H120 adam (humano-especie).",
+      "voorkomens": 632
+    },
+    {
+      "strong": "H252",
+      "hebreeuws": "אַח",
+      "translit": "ach-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "hermano-aliado-arameo",
+      "grondvorm": "hermano-aliado-arameo",
+      "stamfamilie": [
+        "H251"
+      ],
+      "toelichting": "Cognado arameo de H251 (Esd 7:18). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H253",
+      "hebreeuws": "אָח",
+      "translit": "ach-interjectie",
+      "woordsoort": "interjeccion",
+      "es_concordant": "ach-exclamacion",
+      "grondvorm": "ach-exclamacion",
+      "stamfamilie": [
+        "H254"
+      ],
+      "toelichting": "Hapax-doblado (Eze 6:11; 21:15). Sufijo '-exclamacion' para distinguir de H254.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H254",
+      "hebreeuws": "אָח",
+      "translit": "ach-wee",
+      "woordsoort": "interjeccion",
+      "es_concordant": "ach-clamor-lamento",
+      "grondvorm": "ach-clamor-lamento",
+      "stamfamilie": [],
+      "toelichting": "Hapax-triplicado (Eze 18:10 etc.). Hyphenated triple.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H255",
+      "hebreeuws": "אֹחַ",
+      "translit": "och",
+      "woordsoort": "sustantivo",
+      "es_concordant": "criatura-aulladora",
+      "grondvorm": "criatura-aulladora",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Is 13:21). Animal-del-desierto.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H256",
+      "hebreeuws": "אחאב",
+      "translit": "Achav",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Acab",
+      "grondvorm": "Acab",
+      "stamfamilie": [
+        "H256"
+      ],
+      "toelichting": "Rey de Israel, esposo de Jezabel (1Re 16:28-22:40). Convencion espanola RV60.",
+      "voorkomens": 93
+    },
+    {
+      "strong": "H257",
+      "hebreeuws": "אַחְבָּן",
+      "translit": "achban-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Aban-pn",
+      "grondvorm": "Aban-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 2:29). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H258",
+      "hebreeuws": "אָחַד",
+      "translit": "achad",
+      "woordsoort": "verbo",
+      "es_concordant": "afilarse",
+      "grondvorm": "afilarse",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Eze 21:16). Verbo reflexivo. Concordante simple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H259",
+      "hebreeuws": "אחד",
+      "translit": "echad",
+      "woordsoort": "numeral",
+      "es_concordant": "uno",
+      "grondvorm": "uno",
+      "stamfamilie": [
+        "H259",
+        "H258"
+      ],
+      "toelichting": "Numeral cardinal. 974 apariciones. Distinto de H3162 yachad 'juntos'. Concordante simple.",
+      "voorkomens": 974
+    },
+    {
+      "strong": "H260",
+      "hebreeuws": "אָחוּ",
+      "translit": "achu",
+      "woordsoort": "sustantivo",
+      "es_concordant": "junco-de-pantano",
+      "grondvorm": "junco-de-pantano",
+      "stamfamilie": [],
+      "toelichting": "Junco-egipcio (Gn 41:2,18; Job 8:11). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H261",
+      "hebreeuws": "אֵחוּד",
+      "translit": "echud-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ehud-pn-Benjamin",
+      "grondvorm": "Ehud-pn-Benjamin",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 7:10). Distinto de H164 Aod.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H262",
+      "hebreeuws": "אַחֲוָה",
+      "translit": "achavah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "declaracion",
+      "grondvorm": "declaracion",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Sal 19:2). Concordante simple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H263",
+      "hebreeuws": "אַחֲוָיָה",
+      "translit": "achavayah-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "declaracion-aramea",
+      "grondvorm": "declaracion-aramea",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Dan 5:12). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H264",
+      "hebreeuws": "אַחֲוָה",
+      "translit": "achavah-broeders",
+      "woordsoort": "sustantivo",
+      "es_concordant": "hermandad",
+      "grondvorm": "hermandad",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Zac 11:14). Concordante simple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H265",
+      "hebreeuws": "אֲחוֹחַ",
+      "translit": "achoach-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahoa-pn",
+      "grondvorm": "Ahoa-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 8:4). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H266",
+      "hebreeuws": "אֲחוֹחִי",
+      "translit": "Achochi",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "ahohita-clan",
+      "grondvorm": "ahohita-clan",
+      "stamfamilie": [
+        "H264"
+      ],
+      "toelichting": "Adjetivo gentilicio (2Sa 23:9,28; 1Cr 11:12,29; 27:4). Hyphenated.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H267",
+      "hebreeuws": "אֲחוּמַי",
+      "translit": "achumai-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahumai-pn",
+      "grondvorm": "Ahumai-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 4:2). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H268",
+      "hebreeuws": "אָחוֹר",
+      "translit": "achor",
+      "woordsoort": "sustantivo",
+      "es_concordant": "detras",
+      "grondvorm": "detras",
+      "stamfamilie": [
+        "H310"
+      ],
+      "toelichting": "Direccion-posterior (Sal 139:5; Is 9:12 etc.). 41 apariciones. Concordante simple.",
+      "voorkomens": 41
+    },
+    {
+      "strong": "H269",
+      "hebreeuws": "אחות",
+      "translit": "achot",
+      "woordsoort": "sustantivo",
+      "es_concordant": "hermana",
+      "grondvorm": "hermana",
+      "stamfamilie": [
+        "H269",
+        "H251"
+      ],
+      "toelichting": "Termino de parentesco-femenino, 119 apariciones. Concordante simple.",
+      "voorkomens": 119
+    },
+    {
+      "strong": "H270",
+      "hebreeuws": "אָחַז",
+      "translit": "achaz",
+      "woordsoort": "verbo",
+      "es_concordant": "asir-agarrar",
+      "grondvorm": "asir-agarrar",
+      "stamfamilie": [
+        "H272",
+        "H284"
+      ],
+      "toelichting": "Considerado: asir, agarrar, sostener, tomar-posesion. Hyphenated preserva tanto el puntual (asir) como el durativo (agarrar/sostener).",
+      "voorkomens": 68
+    },
+    {
+      "strong": "H271",
+      "hebreeuws": "אָחָז",
+      "translit": "achaz",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Acaz",
+      "grondvorm": "Acaz",
+      "stamfamilie": [],
+      "toelichting": "Rey de Juda (2Re 16). Convencion espanola RV60.",
+      "voorkomens": 41
+    },
+    {
+      "strong": "H272",
+      "hebreeuws": "אֲחֻזָּה",
+      "translit": "achuzah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "posesion",
+      "grondvorm": "posesion",
+      "stamfamilie": [
+        "H270",
+        "H279"
+      ],
+      "toelichting": "Lo asido/sostenido. Predominantemente posesion-de-tierra. 66 apariciones.",
+      "voorkomens": 66
+    },
+    {
+      "strong": "H273",
+      "hebreeuws": "אַחְזַי",
+      "translit": "achzay-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahzai-pn",
+      "grondvorm": "Ahzai-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Neh 11:13). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H274",
+      "hebreeuws": "אֲחַזְיָהוּ",
+      "translit": "achazyahu",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ocozias",
+      "grondvorm": "Ocozias",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores: rey de Israel hijo de Acab (1Re 22:51), rey de Juda hijo de Joram (2Re 8:24-25). Convencion espanola RV60.",
+      "voorkomens": 37
+    },
+    {
+      "strong": "H275",
+      "hebreeuws": "אֲחֻזָּם",
+      "translit": "achuzzam-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahuzam-pn",
+      "grondvorm": "Ahuzam-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 4:6). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H276",
+      "hebreeuws": "אֲחֻזַּת",
+      "translit": "achuzzat-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahuzat-pn",
+      "grondvorm": "Ahuzat-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Gn 26:26). Amigo de Abimelec. Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H277",
+      "hebreeuws": "אֲחִי",
+      "translit": "Achi",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahi-Gad-Aser",
+      "grondvorm": "Ahi-Gad-Aser",
+      "stamfamilie": [
+        "H251"
+      ],
+      "toelichting": "Multiples portadores en Gad y Aser (1Cr 5:15; 7:34). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H278",
+      "hebreeuws": "אֵחִי",
+      "translit": "echi-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ehi-pn",
+      "grondvorm": "Ehi-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Gn 46:21). Hijo de Benjamin. Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H279",
+      "hebreeuws": "אֲחִיאָם",
+      "translit": "Achiam",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahiam",
+      "grondvorm": "Ahiam",
+      "stamfamilie": [
+        "H251"
+      ],
+      "toelichting": "Guerrero de David (2Sa 23:33; 1Cr 11:35). Convencion espanola RV60.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H280",
+      "hebreeuws": "אֲחִידָה",
+      "translit": "achidah-Aram",
+      "woordsoort": "sustantivo-arameo",
+      "es_concordant": "enigmas-arameo",
+      "grondvorm": "enigmas-arameo",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Dan 5:12). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H281",
+      "hebreeuws": "אֲחִיָּה",
+      "translit": "achiyyah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahias",
+      "grondvorm": "Ahias",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores: profeta silonita (1Re 11:29 etc.) y otros. Convencion espanola RV60.",
+      "voorkomens": 24
+    },
+    {
+      "strong": "H282",
+      "hebreeuws": "אֲחִיהוּד",
+      "translit": "achihud-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahihud-pn-Aser",
+      "grondvorm": "Ahihud-pn-Aser",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Num 34:27). Principe de Aser. Sufijo '-pn-Aser' para distinguir de H284.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H283",
+      "hebreeuws": "אַחְיוֹ",
+      "translit": "Achyo",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahio",
+      "grondvorm": "Ahio",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Abinadab (2Sa 6:3; 1Cr 13:7). Convencion espanola RV60.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H284",
+      "hebreeuws": "אֲחִיחֻד",
+      "translit": "achichud-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahihud-pn-Benjamin",
+      "grondvorm": "Ahihud-pn-Benjamin",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 8:7). Descendiente de Benjamin. Sufijo '-pn-Benjamin' para distinguir de H282.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H285",
+      "hebreeuws": "אֲחִיטוּב",
+      "translit": "achitub",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahitob",
+      "grondvorm": "Ahitob",
+      "stamfamilie": [],
+      "toelichting": "Sumo sacerdote, padre de Ahimelec (1Sa 14:3 etc.). Convencion espanola RV60.",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H286",
+      "hebreeuws": "אֲחִילוּד",
+      "translit": "Achilud",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahilud",
+      "grondvorm": "Ahilud",
+      "stamfamilie": [],
+      "toelichting": "Padre de Josafat-canciller (2Sa 8:16 etc.). Convencion espanola RV60.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H287",
+      "hebreeuws": "אֲחִימוֹת",
+      "translit": "achimot-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahimot-pn",
+      "grondvorm": "Ahimot-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 6:25). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H288",
+      "hebreeuws": "אֲחִימֶלֶךְ",
+      "translit": "achimelech",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahimelec",
+      "grondvorm": "Ahimelec",
+      "stamfamilie": [],
+      "toelichting": "Sumo sacerdote, asesinado por Doeg (1Sa 21-22). Convencion espanola RV60.",
+      "voorkomens": 16
+    },
+    {
+      "strong": "H289",
+      "hebreeuws": "אֲחִימַן",
+      "translit": "Achiman",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahiman",
+      "grondvorm": "Ahiman",
+      "stamfamilie": [],
+      "toelichting": "Anaceo de Hebron (Num 13:22; Jos 15:14; Jue 1:10) y portero (1Cr 9:17). Convencion espanola RV60.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H290",
+      "hebreeuws": "אֲחִימַעַץ",
+      "translit": "achimaats",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahimaas",
+      "grondvorm": "Ahimaas",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Sadoc, mensajero a David (2Sa 15:27 etc.). Convencion espanola RV60.",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H291",
+      "hebreeuws": "אַחְיָן",
+      "translit": "achyan-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahian-pn",
+      "grondvorm": "Ahian-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 7:19). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H292",
+      "hebreeuws": "אֲחִינָדָב",
+      "translit": "achinadav-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahinadab-pn",
+      "grondvorm": "Ahinadab-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Re 4:14). Oficial de Salomon. Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H293",
+      "hebreeuws": "אֲחוֹחִי",
+      "translit": "Achochi",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "ahohita",
+      "grondvorm": "ahohita",
+      "stamfamilie": [],
+      "toelichting": "Adjetivo gentilicio (1Cr 11:12,29 etc.). Distinto de H266 por morfologia.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H294",
+      "hebreeuws": "אֲחִיסָמָךְ",
+      "translit": "Achisamakh",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahisamac",
+      "grondvorm": "Ahisamac",
+      "stamfamilie": [],
+      "toelichting": "Padre de Aholiab (Ex 31:6; 35:34; 38:23). Convencion espanola RV60.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H295",
+      "hebreeuws": "אֲחִיעֶזֶר",
+      "translit": "Achiezer",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahiezer",
+      "grondvorm": "Ahiezer",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores: principe de Dan (Num 1:12) y otros. Convencion espanola RV60.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H296",
+      "hebreeuws": "אֲחִיקָם",
+      "translit": "achiqam",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahicam",
+      "grondvorm": "Ahicam",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Safan, defensor de Jeremias (2Re 22:12; Jer 26:24). Convencion espanola RV60.",
+      "voorkomens": 20
+    },
+    {
+      "strong": "H297",
+      "hebreeuws": "אֲחִירָם",
+      "translit": "achiram-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahiram-pn",
+      "grondvorm": "Ahiram-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Num 26:38). Hijo de Benjamin. Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H298",
+      "hebreeuws": "אֲחִירָמִי",
+      "translit": "achirami-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "ahiramita-pn",
+      "grondvorm": "ahiramita-pn",
+      "stamfamilie": [
+        "H297"
+      ],
+      "toelichting": "Hapax (Num 26:38). Adjetivo gentilicio.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H299",
+      "hebreeuws": "אֲחִירַע",
+      "translit": "Achira",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahira",
+      "grondvorm": "Ahira",
+      "stamfamilie": [],
+      "toelichting": "Principe de Neftali (Num 1:15; 2:29 etc.). Convencion espanola RV60.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H300",
+      "hebreeuws": "אֲחִישָׁחַר",
+      "translit": "achishachar-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahisahar-pn",
+      "grondvorm": "Ahisahar-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 7:10). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H301",
+      "hebreeuws": "אֲחִישָׁר",
+      "translit": "achishar-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahisar-pn",
+      "grondvorm": "Ahisar-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Re 4:6). Mayordomo-de-Salomon. Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H302",
+      "hebreeuws": "אֲחִיתֹפֶל",
+      "translit": "achitofel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahitofel",
+      "grondvorm": "Ahitofel",
+      "stamfamilie": [],
+      "toelichting": "Consejero de David, suicida tras la rebelion de Absalon (2Sa 15:12 etc.). Convencion espanola RV60.",
+      "voorkomens": 20
+    },
+    {
+      "strong": "H303",
+      "hebreeuws": "אַחְלָב",
+      "translit": "achlav-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahlab-pn-lugar",
+      "grondvorm": "Ahlab-pn-lugar",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jue 1:31). Sufijo '-pn-lugar'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H304",
+      "hebreeuws": "אַחְלָי",
+      "translit": "Achlay",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahlai",
+      "grondvorm": "Ahlai",
+      "stamfamilie": [],
+      "toelichting": "Hija de Sesan (1Cr 2:31) y guerrero de David (1Cr 11:41). Convencion espanola RV60.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H305",
+      "hebreeuws": "אַחֲלַי",
+      "translit": "achalay",
+      "woordsoort": "interjeccion",
+      "es_concordant": "oh-si-solo",
+      "grondvorm": "oh-si-solo",
+      "stamfamilie": [],
+      "toelichting": "Particula-de-deseo (2Re 5:3; Sal 119:5). Hyphenated triple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H306",
+      "hebreeuws": "אַחְלָמָה",
+      "translit": "achlamah-steen",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ahlamah-piedra",
+      "grondvorm": "ahlamah-piedra",
+      "stamfamilie": [],
+      "toelichting": "Piedra-preciosa del pectoral (Ex 28:19; 39:12). Identificacion incierta. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H307",
+      "hebreeuws": "אַחְמְתָא",
+      "translit": "achmeta-Aram-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ecbatana-pn-arameo-ciudad",
+      "grondvorm": "Ecbatana-pn-arameo-ciudad",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Esd 6:2). Capital de Media. Hyphenated cuadruple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H308",
+      "hebreeuws": "אֲחַסְבַּי",
+      "translit": "achsbi",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahasbai-pn",
+      "grondvorm": "Ahasbai-pn",
+      "stamfamilie": [
+        "H308"
+      ],
+      "toelichting": "Hapax (2Sa 23:34). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H309",
+      "hebreeuws": "אָחַר",
+      "translit": "achar-ww",
+      "woordsoort": "verbo",
+      "es_concordant": "demorarse",
+      "grondvorm": "demorarse",
+      "stamfamilie": [
+        "H312",
+        "H310"
+      ],
+      "toelichting": "Tardar-quedarse-atras (Gn 24:56; 32:4 etc.). 17 apariciones.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H310a",
+      "hebreeuws": "אחר",
+      "translit": "achar",
+      "woordsoort": "preposicion",
+      "es_concordant": "despues",
+      "grondvorm": "despues",
+      "stamfamilie": [
+        "H310a",
+        "H310b",
+        "H312"
+      ],
+      "toelichting": "Preposicion-temporal-y-espacial. 719 apariciones. Concordante simple.",
+      "voorkomens": 719
+    },
+    {
+      "strong": "H310b",
+      "hebreeuws": "אַחֲרַי",
+      "translit": "acharay-II",
+      "woordsoort": "preposicion",
+      "es_concordant": "despues-reproche",
+      "grondvorm": "despues-reproche",
+      "stamfamilie": [
+        "H310a"
+      ],
+      "toelichting": "Hapax (Pr 28:23 lectura). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H311",
+      "hebreeuws": "אַחֲרֵי-Aram",
+      "translit": "achare-Aram",
+      "woordsoort": "preposicion",
+      "es_concordant": "despues-arameo",
+      "grondvorm": "despues-arameo",
+      "stamfamilie": [],
+      "toelichting": "Cognado arameo de H310 (Dan 2:29,45; 7:24). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H312",
+      "hebreeuws": "אחר",
+      "translit": "acher",
+      "woordsoort": "adjetivo",
+      "es_concordant": "otro",
+      "grondvorm": "otro",
+      "stamfamilie": [
+        "H312",
+        "H310a"
+      ],
+      "toelichting": "Adjetivo-de-distincion. 166 apariciones. Concordante simple.",
+      "voorkomens": 166
+    },
+    {
+      "strong": "H313",
+      "hebreeuws": "אַחֵר",
+      "translit": "acher-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Aher-pn",
+      "grondvorm": "Aher-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 7:12). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H314",
+      "hebreeuws": "אַחֲרוֹן",
+      "translit": "acharon",
+      "woordsoort": "adjetivo",
+      "es_concordant": "ultimo",
+      "grondvorm": "ultimo",
+      "stamfamilie": [
+        "H310",
+        "H319"
+      ],
+      "toelichting": "Adjetivo-de-orden-final. 51 apariciones. Concordante simple.",
+      "voorkomens": 51
+    },
+    {
+      "strong": "H315",
+      "hebreeuws": "אַחְרַח",
+      "translit": "achrach-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Aharah-pn",
+      "grondvorm": "Aharah-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 8:1). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H316",
+      "hebreeuws": "אֲחַרְחֵל",
+      "translit": "acharchel-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Aharhel-pn",
+      "grondvorm": "Aharhel-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 4:8). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H317",
+      "hebreeuws": "אָחֳרִי",
+      "translit": "ochori-Aram",
+      "woordsoort": "adjetivo-arameo",
+      "es_concordant": "otro-arameo",
+      "grondvorm": "otro-arameo",
+      "stamfamilie": [
+        "H312"
+      ],
+      "toelichting": "Cognado arameo de H312 (Dan 2:39 etc.). Hyphenated.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H318",
+      "hebreeuws": "אָחֳרֵין",
+      "translit": "achoren-Aram",
+      "woordsoort": "adverbio",
+      "es_concordant": "al-fin-arameo",
+      "grondvorm": "al-fin-arameo",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Dan 4:5). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H319",
+      "hebreeuws": "אַחֲרִית",
+      "translit": "acharit",
+      "woordsoort": "sustantivo",
+      "es_concordant": "fin-parte-postrera",
+      "grondvorm": "fin-parte-postrera",
+      "stamfamilie": [
+        "H310",
+        "H312"
+      ],
+      "toelichting": "El fin-de-tiempos, parte-final (Gn 49:1; Dt 8:16; Pr 5:4 etc.). 61 apariciones. Hyphenated.",
+      "voorkomens": 61
+    },
+    {
+      "strong": "H320",
+      "hebreeuws": "אַחֲרִית",
+      "translit": "achrith",
+      "woordsoort": "sustantivo",
+      "es_concordant": "tiempo-postrero-arameo",
+      "grondvorm": "tiempo-postrero-arameo",
+      "stamfamilie": [
+        "H320",
+        "H319"
+      ],
+      "toelichting": "Hapax (Dan 2:28). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H321",
+      "hebreeuws": "אָחֳרָן",
+      "translit": "ochoran-Aram",
+      "woordsoort": "adjetivo",
+      "es_concordant": "otro-restante-arameo",
+      "grondvorm": "otro-restante-arameo",
+      "stamfamilie": [
+        "H311"
+      ],
+      "toelichting": "Cognado arameo de H311 (Dan 2:11; 7:5,8 etc.). Hyphenated triple.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H322",
+      "hebreeuws": "אֲחֹרַנִּית",
+      "translit": "achoranith",
+      "woordsoort": "adverbio",
+      "es_concordant": "hacia-atras",
+      "grondvorm": "hacia-atras",
+      "stamfamilie": [],
+      "toelichting": "Movimiento-retrogrado (Gn 9:23 etc.). 7 apariciones. Hyphenated.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H323",
+      "hebreeuws": "אֲחַשְׁדַּרְפָּן",
+      "translit": "achashdarpan",
+      "woordsoort": "sustantivo",
+      "es_concordant": "satrapa",
+      "grondvorm": "satrapa",
+      "stamfamilie": [
+        "H324"
+      ],
+      "toelichting": "Gobernador-persa-de-provincia (Est 3:12; 8:9; 9:3). 4 apariciones.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H324",
+      "hebreeuws": "אֲחַשְׁדַּרְפְּנַיָּא",
+      "translit": "achashdarpan-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "satrapa-arameo",
+      "grondvorm": "satrapa-arameo",
+      "stamfamilie": [
+        "H323"
+      ],
+      "toelichting": "Cognado arameo de H323 (Esd 8:36; Dan 3:2,3,27 etc.). Hyphenated.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H325",
+      "hebreeuws": "אֲחַשְׁוֵרוֹשׁ",
+      "translit": "achashwerosh",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Asuero",
+      "grondvorm": "Asuero",
+      "stamfamilie": [],
+      "toelichting": "Rey persa, esposo de Ester. 32 apariciones. Convencion espanola RV60.",
+      "voorkomens": 32
+    },
+    {
+      "strong": "H326",
+      "hebreeuws": "אֲחַשְׁתָּרִי",
+      "translit": "achashtari-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ahastari-pn",
+      "grondvorm": "Ahastari-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 4:6). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H327",
+      "hebreeuws": "אֲחַשְׁתְּרָן",
+      "translit": "achashteran",
+      "woordsoort": "sustantivo",
+      "es_concordant": "caballo-correo-real-persa",
+      "grondvorm": "caballo-correo-real-persa",
+      "stamfamilie": [],
+      "toelichting": "Hapax-doblado (Est 8:10,14). Hyphenated cuadruple.",
+      "voorkomens": 2,
+      "notes": "Persian-loanword"
+    },
+    {
+      "strong": "H328a",
+      "hebreeuws": "אַט",
+      "translit": "at-spraak",
+      "woordsoort": "sustantivo",
+      "es_concordant": "espiritu-medium",
+      "grondvorm": "espiritu-medium",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Is 19:3). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H328b",
+      "hebreeuws": "אַט",
+      "translit": "at-II",
+      "woordsoort": "adverbio",
+      "es_concordant": "suavemente",
+      "grondvorm": "suavemente",
+      "stamfamilie": [],
+      "toelichting": "Adverbio-de-modo-gentil (Gn 33:14 etc.). 5 apariciones. Concordante simple.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H329",
+      "hebreeuws": "אָטָד",
+      "translit": "atad",
+      "woordsoort": "sustantivo",
+      "es_concordant": "espino-zarza",
+      "grondvorm": "espino-zarza",
+      "stamfamilie": [],
+      "toelichting": "Espino-arbusto (Jue 9:14,15; Sal 58:9). Hyphenated.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H330",
+      "hebreeuws": "אֵטוּן",
+      "translit": "etun",
+      "woordsoort": "sustantivo",
+      "es_concordant": "lino-fino-egipcio",
+      "grondvorm": "lino-fino-egipcio",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Pr 7:16). Hyphenated triple.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H331",
+      "hebreeuws": "אָטַם",
+      "translit": "atam",
+      "woordsoort": "verbo",
+      "es_concordant": "cerrar-tapar",
+      "grondvorm": "cerrar-tapar",
+      "stamfamilie": [],
+      "toelichting": "Cerrar-mantener-cerrado (Sal 58:4 etc.). 8 apariciones. Hyphenated.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H332",
+      "hebreeuws": "אָטַר",
+      "translit": "atar",
+      "woordsoort": "verbo",
+      "es_concordant": "cerrar-boca",
+      "grondvorm": "cerrar-boca",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Sal 69:15). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H333",
+      "hebreeuws": "אָטֵר",
+      "translit": "Ater",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ater",
+      "grondvorm": "Ater",
+      "stamfamilie": [],
+      "toelichting": "Familia de retornados (Esd 2:16 etc.). Convencion espanola RV60.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H334",
+      "hebreeuws": "אִטֵּר",
+      "translit": "itter-linkshandig",
+      "woordsoort": "adjetivo",
+      "es_concordant": "zurdo-mano-derecha-impedida",
+      "grondvorm": "zurdo-mano-derecha-impedida",
+      "stamfamilie": [],
+      "toelichting": "Hapax-doblado (Jue 3:15; 20:16). Hyphenated triple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H335",
+      "hebreeuws": "אַי",
+      "translit": "ai-II",
+      "woordsoort": "adverbio",
+      "es_concordant": "donde-ai",
+      "grondvorm": "donde-ai",
+      "stamfamilie": [],
+      "toelichting": "Adverbio-interrogativo (Gn 3:9; 4:9 etc.). 38 apariciones. Hyphenated con sufijo '-ai' para uniqueness contra H346 ayyeh y H375 eifoh.",
+      "voorkomens": 38
+    },
+    {
+      "strong": "H336",
+      "hebreeuws": "אִי",
+      "translit": "i-niet",
+      "woordsoort": "pronombre",
+      "es_concordant": "no-inocente",
+      "grondvorm": "no-inocente",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Job 22:30). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H337",
+      "hebreeuws": "אִי",
+      "translit": "ai",
+      "woordsoort": "interjeccion",
+      "es_concordant": "ay-aiii",
+      "grondvorm": "ay-aiii",
+      "stamfamilie": [
+        "H337"
+      ],
+      "toelichting": "Lamento-corto (Ec 4:10; 10:16). Sufijo '-aiii' para hygiene-uniqueness.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H338",
+      "hebreeuws": "אִי",
+      "translit": "iyyim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "chacal-iyyim",
+      "grondvorm": "chacal-iyyim",
+      "stamfamilie": [],
+      "toelichting": "Animal-aulladero del desierto (Is 13:22; 34:14; Jer 50:39). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H339",
+      "hebreeuws": "אִי",
+      "translit": "i",
+      "woordsoort": "sustantivo",
+      "es_concordant": "isla",
+      "grondvorm": "isla",
+      "stamfamilie": [],
+      "toelichting": "Isla-tierra-rodeada-de-agua (Gn 10:5 etc.). 36 apariciones.",
+      "voorkomens": 36
+    },
+    {
+      "strong": "H340",
+      "hebreeuws": "אָיַב",
+      "translit": "ayav",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-hostil",
+      "grondvorm": "ser-hostil",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Ex 23:22 lectura). Verbo-de-enemistad.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H341",
+      "hebreeuws": "איב",
+      "translit": "oyev",
+      "woordsoort": "sustantivo",
+      "es_concordant": "enemigo",
+      "grondvorm": "enemigo",
+      "stamfamilie": [
+        "H341"
+      ],
+      "toelichting": "Sustantivo-de-hostilidad. 283 apariciones. Concordante simple.",
+      "voorkomens": 283
+    },
+    {
+      "strong": "H342",
+      "hebreeuws": "אֵיבָה",
+      "translit": "eyvah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "enemistad-odio",
+      "grondvorm": "enemistad-odio",
+      "stamfamilie": [
+        "H340"
+      ],
+      "toelichting": "Sustantivo abstracto (Gn 3:15; Num 35:21 etc.). 5 apariciones. Hyphenated.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H343",
+      "hebreeuws": "אֵיד",
+      "translit": "eid",
+      "woordsoort": "sustantivo",
+      "es_concordant": "calamidad",
+      "grondvorm": "calamidad",
+      "stamfamilie": [],
+      "toelichting": "Desastre-personal-o-nacional (Dt 32:35; Pr 1:26 etc.). 24 apariciones.",
+      "voorkomens": 24
+    },
+    {
+      "strong": "H344",
+      "hebreeuws": "אַיָּה",
+      "translit": "ayyah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "milano-halcon",
+      "grondvorm": "milano-halcon",
+      "stamfamilie": [],
+      "toelichting": "Ave-rapaz inmunda (Lev 11:14; Dt 14:13; Job 28:7). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H345",
+      "hebreeuws": "אַיָּה",
+      "translit": "Ayyah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Aja",
+      "grondvorm": "Aja",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores: padre de Rizpa (2Sa 3:7) y horeo (Gn 36:24). Convencion espanola RV60.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H346",
+      "hebreeuws": "אַיֵּה",
+      "translit": "ayyeh",
+      "woordsoort": "adverbio",
+      "es_concordant": "donde",
+      "grondvorm": "donde",
+      "stamfamilie": [
+        "H335"
+      ],
+      "toelichting": "Adverbio-interrogativo de lugar (Gn 18:9 etc.). 47 apariciones. Distinto de H335 ai-II por morfologia.",
+      "voorkomens": 47
+    },
+    {
+      "strong": "H347",
+      "hebreeuws": "אִיּוֹב",
+      "translit": "iyyov",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Job",
+      "grondvorm": "Job",
+      "stamfamilie": [],
+      "toelichting": "Protagonista del libro homonimo. 58 apariciones. Convencion espanola RV60.",
+      "voorkomens": 58
+    },
+    {
+      "strong": "H348",
+      "hebreeuws": "אִיזֶבֶל",
+      "translit": "izevel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Jezabel",
+      "grondvorm": "Jezabel",
+      "stamfamilie": [],
+      "toelichting": "Esposa de Acab, hija del rey de Sidon (1Re 16:31 etc.). Convencion espanola RV60.",
+      "voorkomens": 22
+    },
+    {
+      "strong": "H349a",
+      "hebreeuws": "אֵיךְ",
+      "translit": "ech",
+      "woordsoort": "adverbio",
+      "es_concordant": "como-interrogativo",
+      "grondvorm": "como-interrogativo",
+      "stamfamilie": [
+        "H349b"
+      ],
+      "toelichting": "Adverbio-interrogativo-de-modo (Gn 26:9 etc.). 61 apariciones. Sufijo '-interrogativo' para uniqueness contra Hk ke 'como' (preposicion-prefijo).",
+      "voorkomens": 61
+    },
+    {
+      "strong": "H349b",
+      "hebreeuws": "אֵיכָה",
+      "translit": "echah",
+      "woordsoort": "adverbio",
+      "es_concordant": "como-lamento",
+      "grondvorm": "como-lamento",
+      "stamfamilie": [
+        "H349"
+      ],
+      "toelichting": "Variante con tono-de-lamento (Lam 1:1; 2:1; 4:1 'como!'). Hyphenated.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H349c",
+      "hebreeuws": "אֵיכָכָה",
+      "translit": "ekhakhah",
+      "woordsoort": "adverbio",
+      "es_concordant": "como-de-que-modo-por-que",
+      "grondvorm": "como-de-que-modo-por-que",
+      "stamfamilie": [
+        "H349a"
+      ],
+      "toelichting": "Forma intensificada (Cnt 5:3; Est 8:6). Hyphenated cuadruple.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H350",
+      "hebreeuws": "אִי־כָבוֹד",
+      "translit": "I-Kavod",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Icabod-gloria-partida",
+      "grondvorm": "Icabod-gloria-partida",
+      "stamfamilie": [
+        "H3519"
+      ],
+      "toelichting": "Hijo de Finees nacido al morir Eli (1Sa 4:21; 14:3). 'No-gloria'. Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H351",
+      "hebreeuws": "אֵיכֹה",
+      "translit": "ekoh",
+      "woordsoort": "pronombre",
+      "es_concordant": "lugar-donde",
+      "grondvorm": "lugar-donde",
+      "stamfamilie": [],
+      "toelichting": "Hapax (2Re 6:13). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H352a",
+      "hebreeuws": "איל",
+      "translit": "ayil",
+      "woordsoort": "sustantivo",
+      "es_concordant": "carnero",
+      "grondvorm": "carnero",
+      "stamfamilie": [
+        "H352a"
+      ],
+      "toelichting": "Macho-de-oveja, sacrificial. 156 apariciones. Concordante simple.",
+      "voorkomens": 156
+    },
+    {
+      "strong": "H352b",
+      "hebreeuws": "אַיִל",
+      "translit": "ayil-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "jamba-pilar",
+      "grondvorm": "jamba-pilar",
+      "stamfamilie": [
+        "H352a"
+      ],
+      "toelichting": "Jamba-de-puerta-arquitectonica (1Re 6:31; Eze 40:9 etc.). 33 apariciones. Hyphenated.",
+      "voorkomens": 33
+    },
+    {
+      "strong": "H352c",
+      "hebreeuws": "אַיִל",
+      "translit": "ayil-III",
+      "woordsoort": "sustantivo",
+      "es_concordant": "aristocrata-noble-lider",
+      "grondvorm": "aristocrata-noble-lider",
+      "stamfamilie": [
+        "H193"
+      ],
+      "toelichting": "Sentido-figurativo (Ex 15:15; Eze 17:13; 32:21). Hyphenated triple.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H352d",
+      "hebreeuws": "אֵילִים",
+      "translit": "elim-eiken",
+      "woordsoort": "sustantivo",
+      "es_concordant": "robles-terebintos-arboles-poderosos",
+      "grondvorm": "robles-terebintos-arboles-poderosos",
+      "stamfamilie": [
+        "H352a"
+      ],
+      "toelichting": "Sentido-botanico (Is 1:29; 57:5; 61:3). Hyphenated cuadruple.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H353",
+      "hebreeuws": "אֱיָל",
+      "translit": "eyal",
+      "woordsoort": "sustantivo",
+      "es_concordant": "fuerza-propia",
+      "grondvorm": "fuerza-propia",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Sal 88:5). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H354",
+      "hebreeuws": "אַיָּל",
+      "translit": "ayyal",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ciervo",
+      "grondvorm": "ciervo",
+      "stamfamilie": [],
+      "toelichting": "Macho-cervino (Dt 12:15 etc.). 11 apariciones. Concordante simple.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H355",
+      "hebreeuws": "אַיָּלָה",
+      "translit": "ayyalah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cierva",
+      "grondvorm": "cierva",
+      "stamfamilie": [
+        "H354"
+      ],
+      "toelichting": "Hembra-cervina (Gn 49:21; 2Sa 22:34; Sal 18:34 etc.). 8 apariciones. Distinto de H354 por morfologia-femenina.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H356",
+      "hebreeuws": "אֵילוֹן",
+      "translit": "Elon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elon",
+      "grondvorm": "Elon",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores: hijo de Zabulon (Gn 46:14; Num 26:26), juez (Jue 12:11), suegro de Esau (Gn 26:34). Convencion espanola RV60.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H357",
+      "hebreeuws": "אַיָּלוֹן",
+      "translit": "Ayalon",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ajalon",
+      "grondvorm": "Ajalon",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-de-Dan (Jos 19:42; 21:24; Jue 1:35). Convencion espanola RV60.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H358",
+      "hebreeuws": "אֵילוֹן-בֵּית-חָנָן",
+      "translit": "ailun-bth-chnn",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elon-Bet-Hanan-pn",
+      "grondvorm": "Elon-Bet-Hanan-pn",
+      "stamfamilie": [
+        "H358"
+      ],
+      "toelichting": "Hapax (1Re 4:9). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H359a",
+      "hebreeuws": "אֵילַת",
+      "translit": "Elath-stad",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elat",
+      "grondvorm": "Elat",
+      "stamfamilie": [
+        "H358"
+      ],
+      "toelichting": "Puerto-en-el-Mar-Rojo (Dt 2:8; 2Re 14:22; 16:6 etc.). Convencion espanola RV60.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H359b",
+      "hebreeuws": "אֵילוֹת",
+      "translit": "Elath",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elot-puerto-ciudad",
+      "grondvorm": "Elot-puerto-ciudad",
+      "stamfamilie": [],
+      "toelichting": "Variante de Elat (1Re 9:26; 2Cr 8:17; 26:2). Hyphenated triple para distinguir de H359a.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H360",
+      "hebreeuws": "אֱיָלוּת",
+      "translit": "eyalut",
+      "woordsoort": "sustantivo",
+      "es_concordant": "fuerza-de-socorro",
+      "grondvorm": "fuerza-de-socorro",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Sal 22:19). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H361",
+      "hebreeuws": "אֵילָם",
+      "translit": "alm",
+      "woordsoort": "sustantivo",
+      "es_concordant": "vestibulo-alm",
+      "grondvorm": "vestibulo-alm",
+      "stamfamilie": [
+        "H361"
+      ],
+      "toelichting": "Vestibulo-del-templo (Eze 40:21,29 etc.). 27 apariciones. Sufijo '-alm' para distinguir de H197 ulam.",
+      "voorkomens": 27
+    },
+    {
+      "strong": "H362",
+      "hebreeuws": "אֵילִם",
+      "translit": "Elim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elim",
+      "grondvorm": "Elim",
+      "stamfamilie": [],
+      "toelichting": "Estacion-en-el-desierto con doce fuentes y setenta palmas (Ex 15:27; 16:1; Num 33:9-10). Convencion espanola RV60.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H363",
+      "hebreeuws": "אִילָן",
+      "translit": "ilan-Aram",
+      "woordsoort": "sustantivo",
+      "es_concordant": "arbol-arameo",
+      "grondvorm": "arbol-arameo",
+      "stamfamilie": [],
+      "toelichting": "Cognado arameo (Dan 4:7,8,11 etc.). Hyphenated.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H364",
+      "hebreeuws": "אֵיל פָּארָן",
+      "translit": "el-paran-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "El-Paran-pn",
+      "grondvorm": "El-Paran-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Gn 14:6). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H365",
+      "hebreeuws": "אַיֶּלֶת",
+      "translit": "ayyelet",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cierva-graciosa",
+      "grondvorm": "cierva-graciosa",
+      "stamfamilie": [],
+      "toelichting": "Sustantivo-poetico (Pr 5:19; Cnt 2:7,3:5; titulo Sal 22). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H366",
+      "hebreeuws": "אָיֹם",
+      "translit": "ayom",
+      "woordsoort": "adjetivo",
+      "es_concordant": "imponente-temible",
+      "grondvorm": "imponente-temible",
+      "stamfamilie": [],
+      "toelichting": "Adjetivo-de-temor-reverencial (Hab 1:7; Cnt 6:4,10). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H367",
+      "hebreeuws": "אֵימָה",
+      "translit": "eimah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "terror",
+      "grondvorm": "terror",
+      "stamfamilie": [
+        "H366"
+      ],
+      "toelichting": "Sustantivo abstracto, 17 apariciones (Gn 15:12; Ex 15:16; Job 9:34 etc.). Concordante simple.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H368",
+      "hebreeuws": "אֵימִים",
+      "translit": "Emim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "emitas",
+      "grondvorm": "emitas",
+      "stamfamilie": [],
+      "toelichting": "Pueblo gigante pre-moabita (Gn 14:5; Dt 2:10-11). Convencion espanola RV60.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H369",
+      "hebreeuws": "אין",
+      "translit": "ayin",
+      "woordsoort": "particula",
+      "es_concordant": "no-hay",
+      "grondvorm": "no-hay",
+      "stamfamilie": [
+        "H369"
+      ],
+      "toelichting": "Particula-de-existencia-negativa, 793 apariciones. Concordante simple. Distinto de H3808 lo (negacion absoluta).",
+      "voorkomens": 793
+    },
+    {
+      "strong": "H370",
+      "hebreeuws": "אַיִן-bw",
+      "translit": "ayin-bw",
+      "woordsoort": "adverbio",
+      "es_concordant": "de-donde",
+      "grondvorm": "de-donde",
+      "stamfamilie": [],
+      "toelichting": "Adverbio-interrogativo-de-origen (Gn 16:8 etc.). 16 apariciones. Hyphenated.",
+      "voorkomens": 16
+    },
+    {
+      "strong": "H371",
+      "hebreeuws": "אִין",
+      "translit": "in",
+      "woordsoort": "pronombre",
+      "es_concordant": "no-hay-in",
+      "grondvorm": "no-hay-in",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Sa 21:9). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H372",
+      "hebreeuws": "אִיעֶזֶר",
+      "translit": "iezer-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Iezer-pn",
+      "grondvorm": "Iezer-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Num 26:30). Variante de Abiezer. Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H373",
+      "hebreeuws": "אִיעֶזְרִי",
+      "translit": "iezri-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "iezerita-pn",
+      "grondvorm": "iezerita-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Num 26:30). Adjetivo gentilicio.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H374",
+      "hebreeuws": "אֵיפָה",
+      "translit": "efah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "efa",
+      "grondvorm": "efa",
+      "stamfamilie": [],
+      "toelichting": "Medida-seca (Ex 16:36; Lev 5:11 etc.). 40 apariciones. Transliteracion preservada.",
+      "voorkomens": 40
+    },
+    {
+      "strong": "H375",
+      "hebreeuws": "אֵיפֹה",
+      "translit": "eifoh",
+      "woordsoort": "adverbio",
+      "es_concordant": "donde-eifoh",
+      "grondvorm": "donde-eifoh",
+      "stamfamilie": [],
+      "toelichting": "Adverbio-interrogativo (Gn 37:16; 1Sa 19:22 etc.). 10 apariciones. Sufijo '-eifoh' para uniqueness.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H376",
+      "hebreeuws": "איש",
+      "translit": "ish",
+      "woordsoort": "sustantivo",
+      "es_concordant": "varon",
+      "grondvorm": "varon",
+      "stamfamilie": [
+        "H376",
+        "H802"
+      ],
+      "toelichting": "DECISION CLAVE-2. Termino gendered-masculino del individuo masculino. 2187 apariciones. Considerado: hombre, varon, marido. RV60 alterna 'varon/hombre'. Distinto de H120 adam (humano-especie, gender-neutral) y de H113 adon (autoridad-relacion). 'Varon' preserva el genero-explicito que la fuente codifica; 'hombre' sin disambiguacion chocaria con el rendering de H120 cuando se vuelve necesario contraste lexico. Paralelo femenino: ishshah (H802, 'mujer').",
+      "voorkomens": 2187
+    },
+    {
+      "strong": "H377",
+      "hebreeuws": "אִישׁ-vermand",
+      "translit": "ish-vermannen",
+      "woordsoort": "verbo",
+      "es_concordant": "ser-varon",
+      "grondvorm": "ser-varon",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Is 46:8). Verbo denominativo de H376. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H378",
+      "hebreeuws": "אִישׁ־בֹּשֶׁת",
+      "translit": "Ish-Boshet",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Is-Boset",
+      "grondvorm": "Is-Boset",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Saul, rey rival de David (2Sa 2:8 etc.). 'Hombre-de-vergüenza'. Convencion espanola RV60.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H379",
+      "hebreeuws": "אִישְׁהוֹד",
+      "translit": "ishhod-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ishhod-pn",
+      "grondvorm": "Ishhod-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 7:18). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H380",
+      "hebreeuws": "אִישׁוֹן",
+      "translit": "ishon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "ojo-pupila",
+      "grondvorm": "ojo-pupila",
+      "stamfamilie": [
+        "H376"
+      ],
+      "toelichting": "Pupila-del-ojo (Dt 32:10; Sal 17:8 etc.). 6 apariciones. Hyphenated.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H383",
+      "hebreeuws": "אִיתַי",
+      "translit": "itai-Aram",
+      "woordsoort": "adverbio",
+      "es_concordant": "hay-arameo",
+      "grondvorm": "hay-arameo",
+      "stamfamilie": [
+        "H3426"
+      ],
+      "toelichting": "Particula-existencial (Dan 2:10; 3:17,18; Esd 4:16 etc.). 20 apariciones. Hyphenated.",
+      "voorkomens": 20
+    },
+    {
+      "strong": "H384",
+      "hebreeuws": "אִיתִיאֵל",
+      "translit": "Ithiel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Itiel",
+      "grondvorm": "Itiel",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores (Neh 11:7; Pr 30:1). Convencion espanola RV60.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H385",
+      "hebreeuws": "אִיתָמָר",
+      "translit": "itamar",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Itamar",
+      "grondvorm": "Itamar",
+      "stamfamilie": [],
+      "toelichting": "Cuarto hijo de Aaron (Ex 6:23 etc.). 20 apariciones. Convencion espanola RV60.",
+      "voorkomens": 20
+    },
+    {
+      "strong": "H386",
+      "hebreeuws": "אֵיתָן",
+      "translit": "etan",
+      "woordsoort": "adjetivo",
+      "es_concordant": "siempre-fluyente",
+      "grondvorm": "siempre-fluyente",
+      "stamfamilie": [],
+      "toelichting": "Adjetivo-de-corriente-perenne (Dt 21:4; Am 5:24; Sal 74:15 etc.). 13 apariciones. Hyphenated.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H387",
+      "hebreeuws": "אֵיתָן",
+      "translit": "Eythan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Etan",
+      "grondvorm": "Etan",
+      "stamfamilie": [
+        "H386"
+      ],
+      "toelichting": "Multiples portadores: sabio (1Re 4:31), levita-cantor (1Cr 6:42; 15:17). Convencion espanola RV60.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H388",
+      "hebreeuws": "אֵתָנִים",
+      "translit": "etanim-eign-maand",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Etanim-pn-mes",
+      "grondvorm": "Etanim-pn-mes",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Re 8:2). Septimo mes hebreo. Sufijo '-pn-mes'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H389",
+      "hebreeuws": "אך",
+      "translit": "ach",
+      "woordsoort": "particula",
+      "es_concordant": "solo",
+      "grondvorm": "solo",
+      "stamfamilie": [
+        "H389"
+      ],
+      "toelichting": "Particula-restrictiva (Gn 7:23 etc.). 159 apariciones. Concordante simple.",
+      "voorkomens": 159
+    },
+    {
+      "strong": "H390",
+      "hebreeuws": "אַכַּד",
+      "translit": "akkad-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Acad-pn",
+      "grondvorm": "Acad-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Gn 10:10). Ciudad-mesopotamica. Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H391",
+      "hebreeuws": "אַכְזָב",
+      "translit": "akhzav",
+      "woordsoort": "sustantivo",
+      "es_concordant": "enganador-arroyo-mentiroso-agua",
+      "grondvorm": "enganador-arroyo-mentiroso-agua",
+      "stamfamilie": [
+        "H3576"
+      ],
+      "toelichting": "Hapax-doblado (Jer 15:18; Mi 1:14). Arroyo-que-falla. Hyphenated cuadruple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H392",
+      "hebreeuws": "אַכְזִיב",
+      "translit": "Akhziv",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Aczib",
+      "grondvorm": "Aczib",
+      "stamfamilie": [
+        "H391"
+      ],
+      "toelichting": "Multiples ciudades: en Aser (Jos 19:29; Jue 1:31) y en Juda (Jos 15:44). Convencion espanola RV60.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H393",
+      "hebreeuws": "אַכְזָר",
+      "translit": "akhzar",
+      "woordsoort": "adjetivo",
+      "es_concordant": "cruel-despiadado-duro-feroz",
+      "grondvorm": "cruel-despiadado-duro-feroz",
+      "stamfamilie": [],
+      "toelichting": "Adjetivo-substantivado (Dt 32:33; Job 30:21; Pr 5:9 etc.). Hyphenated cuadruple.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H394",
+      "hebreeuws": "אַכְזָרִי",
+      "translit": "akzari",
+      "woordsoort": "adjetivo",
+      "es_concordant": "cruel-despiadado",
+      "grondvorm": "cruel-despiadado",
+      "stamfamilie": [
+        "H393"
+      ],
+      "toelichting": "Adjetivo-gentilico variante (Pr 11:17; 12:10; 17:11 etc.). 8 apariciones. Hyphenated.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H395",
+      "hebreeuws": "אַכְזְרִיּוּת",
+      "translit": "akhzeriyut",
+      "woordsoort": "sustantivo",
+      "es_concordant": "crueldad-akhzeriyut",
+      "grondvorm": "crueldad-akhzeriyut",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Pr 27:4). Sustantivo abstracto. Sufijo '-akhzeriyut' para uniqueness.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H396",
+      "hebreeuws": "אֲכִילָה",
+      "translit": "achilah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "comida-fortaleciente",
+      "grondvorm": "comida-fortaleciente",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Re 19:8). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H397",
+      "hebreeuws": "אָכִישׁ",
+      "translit": "achish",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Aquis",
+      "grondvorm": "Aquis",
+      "stamfamilie": [],
+      "toelichting": "Rey filisteo de Gat (1Sa 21:10 etc.). 21 apariciones. Convencion espanola RV60.",
+      "voorkomens": 21
+    },
+    {
+      "strong": "H398",
+      "hebreeuws": "אכל",
+      "translit": "akal",
+      "woordsoort": "verbo",
+      "es_concordant": "comer",
+      "grondvorm": "comer",
+      "stamfamilie": [
+        "H398",
+        "H400",
+        "H402"
+      ],
+      "toelichting": "Verbo-basico-de-consumo. 815 apariciones. Concordante simple.",
+      "voorkomens": 815
+    },
+    {
+      "strong": "H399",
+      "hebreeuws": "אֲכַל",
+      "translit": "akhal-Aram",
+      "woordsoort": "verbo",
+      "es_concordant": "comer-arameo",
+      "grondvorm": "comer-arameo",
+      "stamfamilie": [
+        "H398"
+      ],
+      "toelichting": "Cognado arameo (Dan 3:8; 4:33; 6:24; 7:5,7,19; Esd 4:14). Hyphenated.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H400",
+      "hebreeuws": "אֹכֶל",
+      "translit": "ochel",
+      "woordsoort": "sustantivo",
+      "es_concordant": "comida",
+      "grondvorm": "comida",
+      "stamfamilie": [
+        "H398"
+      ],
+      "toelichting": "Sustantivo de H398. 44 apariciones. Concordante simple.",
+      "voorkomens": 44
+    },
+    {
+      "strong": "H401",
+      "hebreeuws": "אֻכָל",
+      "translit": "uchal-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ucal-pn",
+      "grondvorm": "Ucal-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Pr 30:1). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H402",
+      "hebreeuws": "אָכְלָה",
+      "translit": "aklah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "forraje",
+      "grondvorm": "forraje",
+      "stamfamilie": [
+        "H398",
+        "H400"
+      ],
+      "toelichting": "Comida-de-animales o consumo-figurado (Gn 6:21; Lev 25:6; Eze 15:4,6 etc.). 18 apariciones. Distinto de H400 por uso-contextual.",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H403",
+      "hebreeuws": "אָכֵן",
+      "translit": "aken",
+      "woordsoort": "adverbio",
+      "es_concordant": "en-verdad-aken",
+      "grondvorm": "en-verdad-aken",
+      "stamfamilie": [],
+      "toelichting": "Adverbio-de-asercion (Gn 28:16; Ex 2:14 etc.). 18 apariciones. Sufijo '-aken' para uniqueness contra H61 aval.",
+      "voorkomens": 18
+    },
+    {
+      "strong": "H404",
+      "hebreeuws": "אָכַף",
+      "translit": "achaf",
+      "woordsoort": "verbo",
+      "es_concordant": "presionar-hambre",
+      "grondvorm": "presionar-hambre",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Pr 16:26). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H405",
+      "hebreeuws": "אֶכֶף",
+      "translit": "ekef",
+      "woordsoort": "sustantivo",
+      "es_concordant": "mano-presionante",
+      "grondvorm": "mano-presionante",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Job 33:7). Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H406",
+      "hebreeuws": "אִכָּר",
+      "translit": "ikkar",
+      "woordsoort": "sustantivo",
+      "es_concordant": "agricultor-labrador",
+      "grondvorm": "agricultor-labrador",
+      "stamfamilie": [],
+      "toelichting": "Trabajador-del-campo (Is 61:5; Jer 14:4; Joel 1:11; Am 5:16; 2Cr 26:10). 7 apariciones. Hyphenated.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H407",
+      "hebreeuws": "אַכְשָׁף",
+      "translit": "Akhshaf",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Acsaf",
+      "grondvorm": "Acsaf",
+      "stamfamilie": [],
+      "toelichting": "Ciudad-cananea (Jos 11:1; 12:20; 19:25). Convencion espanola RV60.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H408",
+      "hebreeuws": "אל",
+      "translit": "al",
+      "woordsoort": "particula",
+      "es_concordant": "no-prohibitivo",
+      "grondvorm": "no-prohibitivo",
+      "stamfamilie": [
+        "H408",
+        "H3808"
+      ],
+      "toelichting": "Negacion prohibitiva ('no hagas'). 715 apariciones. Distinto de H3808 lo (negacion absoluta). Hyphenated para uniqueness.",
+      "voorkomens": 715
+    },
+    {
+      "strong": "H409",
+      "hebreeuws": "אַל",
+      "translit": "al-Aram-niet",
+      "woordsoort": "conjuncion",
+      "es_concordant": "no-arameo-negacion",
+      "grondvorm": "no-arameo-negacion",
+      "stamfamilie": [
+        "H408"
+      ],
+      "toelichting": "Cognado arameo de H408 (Dan 2:24; 4:19; 5:10 etc.). Hyphenated triple.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H410",
+      "hebreeuws": "אל",
+      "translit": "El",
+      "woordsoort": "sustantivo",
+      "es_concordant": "Poderoso-el",
+      "grondvorm": "Poderoso-el",
+      "stamfamilie": [
+        "H410",
+        "H430",
+        "H433"
+      ],
+      "toelichting": "DECISION CLAVE-3. Forma corta de la familia El/elohim/Eloah. La tradicion-espanola RV60/NVI/LBLA usa 'Dios' (mayuscula) o 'dios' (minuscula). El analisis-de-siete-anclas: la raiz 'wl/'lh significa 'ser-fuerte/poderoso'. La eleccion espanola 'Dios' es transliteracion-tradicion-cargada de raiz-griega-Theos sin relacion con la raiz hebrea. 'Poderoso' preserva el significado-de-raiz y funciona tanto para el-Uno (singular del pluralis-majestatis) como para dioses-jueces reales. Distribucion 239 apariciones de H410 confirma 'Mighty-being-with-authority' como nucleo. Sufijo '-el' para uniqueness contra H430.",
+      "voorkomens": 239
+    },
+    {
+      "strong": "H411",
+      "hebreeuws": "אֵל",
+      "translit": "el-III",
+      "woordsoort": "pronombre",
+      "es_concordant": "estos-senalando",
+      "grondvorm": "estos-senalando",
+      "stamfamilie": [
+        "H428"
+      ],
+      "toelichting": "Pronombre demostrativo arcaico (Gn 19:8,25; 1Cr 20:8). 9 apariciones. Hyphenated.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H412",
+      "hebreeuws": "אֵלֶּה",
+      "translit": "elle-Aram",
+      "woordsoort": "pronombre-demostrativo-arameo",
+      "es_concordant": "estos-arameo-plural",
+      "grondvorm": "estos-arameo-plural",
+      "stamfamilie": [
+        "H411"
+      ],
+      "toelichting": "Cognado arameo (Esd 5:15; Jer 10:11). Hyphenated triple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H413",
+      "hebreeuws": "אל",
+      "translit": "el",
+      "woordsoort": "preposicion",
+      "es_concordant": "hacia-el",
+      "grondvorm": "hacia-el",
+      "stamfamilie": [
+        "H413"
+      ],
+      "toelichting": "Preposicion-direccional. 5493 apariciones. Sufijo '-el' para uniqueness contra otros direccionales y contra H410 Poderoso-el. RV60 'a/hacia'. 'Hacia' preserva el aspecto-direccional explicito; distinto de H5921a 'al' (sobre-posicion).",
+      "voorkomens": 5493
+    },
+    {
+      "strong": "H414",
+      "hebreeuws": "אֵלָא",
+      "translit": "ela-Salomo-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ela-pn-Salomon",
+      "grondvorm": "Ela-pn-Salomon",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Re 4:18). Padre de Simei oficial. Sufijo '-pn-Salomon' para distinguir de H425 Ela-rey.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H417",
+      "hebreeuws": "אֶלְגָּבִישׁ",
+      "translit": "elgabish",
+      "woordsoort": "sustantivo",
+      "es_concordant": "granizo-bloque-de-hielo-grande",
+      "grondvorm": "granizo-bloque-de-hielo-grande",
+      "stamfamilie": [],
+      "toelichting": "Granizada-divina (Eze 13:11,13; 38:22). Hyphenated cuadruple.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H418",
+      "hebreeuws": "אַלְגּוּמִּים",
+      "translit": "algummim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "madera-de-algum",
+      "grondvorm": "madera-de-algum",
+      "stamfamilie": [],
+      "toelichting": "Madera-aromatica (1Re 10:11; 2Cr 2:8; 9:10,11). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H419",
+      "hebreeuws": "אֶלְדָּד",
+      "translit": "Eldad",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Eldad",
+      "grondvorm": "Eldad",
+      "stamfamilie": [
+        "H410",
+        "H1730"
+      ],
+      "toelichting": "Anciano que profetizo en el campamento (Num 11:26-27). Convencion espanola RV60.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H420",
+      "hebreeuws": "אֶלְדָּעָה",
+      "translit": "Eldaa",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Eldaa",
+      "grondvorm": "Eldaa",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Madian (Gn 25:4; 1Cr 1:33). Convencion espanola RV60.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H421",
+      "hebreeuws": "אֱלִי",
+      "translit": "eli-uitr",
+      "woordsoort": "interjeccion",
+      "es_concordant": "lamento-eli",
+      "grondvorm": "lamento-eli",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Joel 1:8). Sufijo '-eli' para hygiene.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H422",
+      "hebreeuws": "אָלָה",
+      "translit": "alah",
+      "woordsoort": "verbo",
+      "es_concordant": "jurar-imprecacion",
+      "grondvorm": "jurar-imprecacion",
+      "stamfamilie": [
+        "H423"
+      ],
+      "toelichting": "Verbo-de-juramento-condicional (Jue 17:2; 1Re 8:31; Os 4:2,10:4 etc.). 6 apariciones. Hyphenated.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H423",
+      "hebreeuws": "אָלָה",
+      "translit": "alah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "imprecacion",
+      "grondvorm": "imprecacion",
+      "stamfamilie": [
+        "H422"
+      ],
+      "toelichting": "Sustantivo de H422. Maldicion-condicional-jurada (Gn 24:41 etc.). 36 apariciones. Concordante simple.",
+      "voorkomens": 36
+    },
+    {
+      "strong": "H424",
+      "hebreeuws": "אֵלָה",
+      "translit": "elah-zn",
+      "woordsoort": "sustantivo",
+      "es_concordant": "terebinto",
+      "grondvorm": "terebinto",
+      "stamfamilie": [
+        "H352"
+      ],
+      "toelichting": "Pistacia-arbol-grande (Gn 35:4; Jue 6:11,19; 2Sa 18:9-10,14; Is 1:30; 6:13 etc.). 13 apariciones. Concordante simple.",
+      "voorkomens": 13
+    },
+    {
+      "strong": "H425",
+      "hebreeuws": "אֵלָה",
+      "translit": "elah-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Ela-rey",
+      "grondvorm": "Ela-rey",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores: rey de Israel hijo de Baasa (1Re 16:6-14), padre de Oseas (2Re 15:30; 17:1), valle (1Sa 17:2,19), edomita (Gn 36:41). Hyphenated.",
+      "voorkomens": 16
+    },
+    {
+      "strong": "H426",
+      "hebreeuws": "אלה",
+      "translit": "Elah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "Poderoso-elah-arameo",
+      "grondvorm": "Poderoso-elah-arameo",
+      "stamfamilie": [
+        "H426",
+        "H430",
+        "H433"
+      ],
+      "toelichting": "Cognado arameo de H410/H430. 97 apariciones en Daniel y Esdras. Hyphenated triple para uniqueness en el cluster Poderoso.",
+      "voorkomens": 97
+    },
+    {
+      "strong": "H427",
+      "hebreeuws": "אַלָּה",
+      "translit": "allah-eik",
+      "woordsoort": "sustantivo",
+      "es_concordant": "terebinto-roble-allah",
+      "grondvorm": "terebinto-roble-allah",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Jos 24:26). Hyphenated triple para uniqueness contra H424 y H437.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H428",
+      "hebreeuws": "אלה",
+      "translit": "elleh",
+      "woordsoort": "pronombre-demostrativo",
+      "es_concordant": "estos-elleh",
+      "grondvorm": "estos-elleh",
+      "stamfamilie": [
+        "H428"
+      ],
+      "toelichting": "Pronombre demostrativo plural-cercano. 746 apariciones. Sufijo '-elleh' para uniqueness contra H411 y H459.",
+      "voorkomens": 746
+    },
+    {
+      "strong": "H429",
+      "hebreeuws": "אֵלֶּה",
+      "translit": "elleh-Aram",
+      "woordsoort": "pronombre",
+      "es_concordant": "estos-arameo-elleh",
+      "grondvorm": "estos-arameo-elleh",
+      "stamfamilie": [],
+      "toelichting": "Hapax-arameo (Jer 10:11). Hyphenated triple para uniqueness.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H430",
+      "hebreeuws": "אלהים",
+      "translit": "elohim",
+      "woordsoort": "sustantivo",
+      "es_concordant": "Poderoso",
+      "grondvorm": "Poderoso",
+      "stamfamilie": [
+        "H430",
+        "H433",
+        "H410"
+      ],
+      "toelichting": "DECISION CLAVE-4 (la mayor de batch 002). Plural gramaticalmente pero predominantemente semanticamente singular (pluralis-majestatis). 2567 apariciones. La eleccion concordante 'Poderoso' (capitalizado para el referente-divino, minuscula para falsos-dioses-y-jueces) preserva la raiz hebrea 'wl/'lh 'ser-fuerte'. La tradicion-espanola RV60 'Dios/dios' es transliteracion del griego-Theos por via-latina, raiz no relacionada al hebreo. La capa-de-renderizado marca pluralidad-de-dioses o pluralidad-de-jueces; el master mantiene 'Poderoso' como forma de cita-singular para el centro mayoritario del uso.",
+      "voorkomens": 2567
+    },
+    {
+      "strong": "H431",
+      "hebreeuws": "אֲלוּ",
+      "translit": "alu-Aram",
+      "woordsoort": "demostrativo-arameo",
+      "es_concordant": "he-aqui-mira-arameo",
+      "grondvorm": "he-aqui-mira-arameo",
+      "stamfamilie": [],
+      "toelichting": "Cognado arameo (Dan 2:31; 4:7,10; 7:2 etc.). Hyphenated triple.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H432",
+      "hebreeuws": "אִלּוּ",
+      "translit": "illu",
+      "woordsoort": "conjuncion",
+      "es_concordant": "si-solo-illu",
+      "grondvorm": "si-solo-illu",
+      "stamfamilie": [],
+      "toelichting": "Hapax-doblado (Ec 6:6; Est 7:4). Sufijo '-illu' para uniqueness.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H433",
+      "hebreeuws": "אֱלוֹהַּ",
+      "translit": "eloah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "Poderoso-eloah",
+      "grondvorm": "Poderoso-eloah",
+      "stamfamilie": [
+        "H410",
+        "H430",
+        "H426"
+      ],
+      "toelichting": "Forma-singular-arcaica de elohim. 60 apariciones, concentradas en Job. Hyphenated con sufijo '-eloah' para uniqueness contra H410 y H430.",
+      "voorkomens": 60
+    },
+    {
+      "strong": "H434",
+      "hebreeuws": "אֱלִיל",
+      "translit": "alil",
+      "woordsoort": "sustantivo",
+      "es_concordant": "idolo-nadidad",
+      "grondvorm": "idolo-nadidad",
+      "stamfamilie": [
+        "H434"
+      ],
+      "toelichting": "Hapax (Lev 19:4). Variante de H457 elil. Hyphenated.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H435",
+      "hebreeuws": "אֱלוּל",
+      "translit": "elul-eign-maand",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elul-pn-mes",
+      "grondvorm": "Elul-pn-mes",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Neh 6:15). Sexto mes hebreo. Sufijo '-pn-mes'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H436",
+      "hebreeuws": "אֵלוֹן",
+      "translit": "elon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "terebinto-arbol",
+      "grondvorm": "terebinto-arbol",
+      "stamfamilie": [
+        "H352a",
+        "H437"
+      ],
+      "toelichting": "Variante de H424 con sentido botanico ampliado (Gn 12:6; 13:18; 14:13; 18:1 etc.). 9 apariciones. Hyphenated.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H437",
+      "hebreeuws": "אַלּוֹן",
+      "translit": "allon",
+      "woordsoort": "sustantivo",
+      "es_concordant": "roble-arbol",
+      "grondvorm": "roble-arbol",
+      "stamfamilie": [
+        "H436",
+        "H6086"
+      ],
+      "toelichting": "Quercus-arbol-grande (Gn 35:8; Is 2:13; 6:13; 44:14 etc.). 8 apariciones. Hyphenated. Distinto de H424 terebinto y H436 elon.",
+      "voorkomens": 8
+    },
+    {
+      "strong": "H438",
+      "hebreeuws": "אֵלוֹן",
+      "translit": "Allon-terebint",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Allon",
+      "grondvorm": "Allon",
+      "stamfamilie": [
+        "H436"
+      ],
+      "toelichting": "Hapax-doblado (1Cr 4:37; Jos 19:33 lectura-incierta). Convencion espanola RV60.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H439",
+      "hebreeuws": "אַלּוֹן בָּכוּת",
+      "translit": "allon-bachut-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Allon-Bacut-pn",
+      "grondvorm": "Allon-Bacut-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Gn 35:8). 'Roble-del-llanto'. Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H440",
+      "hebreeuws": "אֵלֹנִי",
+      "translit": "eloni-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "elonita-pn",
+      "grondvorm": "elonita-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Num 26:26). Adjetivo gentilicio.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H441a",
+      "hebreeuws": "אַלּוּף",
+      "translit": "alluph-I",
+      "woordsoort": "sustantivo",
+      "es_concordant": "intimo-confidente",
+      "grondvorm": "intimo-confidente",
+      "stamfamilie": [],
+      "toelichting": "Amigo-cercano-de-confianza (Sal 55:13; Pr 2:17; 16:28 etc.). 9 apariciones. Hyphenated.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H441b",
+      "hebreeuws": "אַלּוּף",
+      "translit": "alluf-II",
+      "woordsoort": "sustantivo",
+      "es_concordant": "jefe-de-clan-alluf",
+      "grondvorm": "jefe-de-clan-alluf",
+      "stamfamilie": [
+        "H441a"
+      ],
+      "toelichting": "Cabeza-tribal especialmente edomita (Gn 36:15-43; Ex 15:15 etc.). 60 apariciones. Sufijo '-alluf' para uniqueness contra H7218 rosh.",
+      "voorkomens": 60
+    },
+    {
+      "strong": "H442",
+      "hebreeuws": "אָלוּשׁ",
+      "translit": "Alush",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Alus-parada-desierto-Sin",
+      "grondvorm": "Alus-parada-desierto-Sin",
+      "stamfamilie": [],
+      "toelichting": "Estacion en el desierto (Num 33:13-14). Hyphenated cuadruple.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H443",
+      "hebreeuws": "אֶלְזָבָד",
+      "translit": "Elzabad",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elzabad-Gad",
+      "grondvorm": "Elzabad-Gad",
+      "stamfamilie": [
+        "H410",
+        "H2064"
+      ],
+      "toelichting": "Multiples portadores en Gad y Coré (1Cr 12:12; 26:7). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H444",
+      "hebreeuws": "אָלַח",
+      "translit": "alach",
+      "woordsoort": "verbo",
+      "es_concordant": "corromperse-hediondo",
+      "grondvorm": "corromperse-hediondo",
+      "stamfamilie": [],
+      "toelichting": "Volverse-corrupto, fetido (Sal 14:3; 53:3; Job 15:16). 3 apariciones. Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H445",
+      "hebreeuws": "אֶלְחָנָן",
+      "translit": "Elchanan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elhanan",
+      "grondvorm": "Elhanan",
+      "stamfamilie": [
+        "H2603a"
+      ],
+      "toelichting": "Multiples portadores (2Sa 21:19; 23:24; 1Cr 11:26; 20:5). Convencion espanola RV60.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H446",
+      "hebreeuws": "אֱלִיאָב",
+      "translit": "eliav",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Eliab",
+      "grondvorm": "Eliab",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores: hermano mayor de David (1Sa 16:6 etc.) y otros. 21 apariciones. Convencion espanola RV60.",
+      "voorkomens": 21
+    },
+    {
+      "strong": "H447",
+      "hebreeuws": "אֱלִיאֵל",
+      "translit": "Eliel",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Eliel",
+      "grondvorm": "Eliel",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores en cronicas davidicas. 10 apariciones. Convencion espanola RV60.",
+      "voorkomens": 10
+    },
+    {
+      "strong": "H448",
+      "hebreeuws": "אֱלִיאָתָה",
+      "translit": "Eliathah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Eliata-Heman",
+      "grondvorm": "Eliata-Heman",
+      "stamfamilie": [
+        "H410"
+      ],
+      "toelichting": "Hijo del cantor Heman (1Cr 25:4,27). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H449",
+      "hebreeuws": "אֱלִידָד",
+      "translit": "elidad-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elidad-pn",
+      "grondvorm": "Elidad-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Num 34:21). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H450",
+      "hebreeuws": "אֶלְיָדָע",
+      "translit": "Elyada",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Eliada",
+      "grondvorm": "Eliada",
+      "stamfamilie": [
+        "H3045"
+      ],
+      "toelichting": "Multiples portadores: hijo de David (2Sa 5:16 etc.). 4 apariciones. Convencion espanola RV60.",
+      "voorkomens": 4
+    },
+    {
+      "strong": "H451",
+      "hebreeuws": "אַלְיָה",
+      "translit": "alyah",
+      "woordsoort": "sustantivo",
+      "es_concordant": "cola-grasa",
+      "grondvorm": "cola-grasa",
+      "stamfamilie": [],
+      "toelichting": "Cola-de-oveja, parte sacrificial (Ex 29:22; Lev 3:9; 7:3 etc.). 5 apariciones. Hyphenated.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H452",
+      "hebreeuws": "אֵלִיָּה",
+      "translit": "eliyyah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elias",
+      "grondvorm": "Elias",
+      "stamfamilie": [],
+      "toelichting": "El profeta de Acab (1Re 17-2Re 2). 71 apariciones. Convencion espanola RV60.",
+      "voorkomens": 71
+    },
+    {
+      "strong": "H453",
+      "hebreeuws": "אֱלִיהוּא",
+      "translit": "Elihu",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Eliu",
+      "grondvorm": "Eliu",
+      "stamfamilie": [],
+      "toelichting": "Cuarto interlocutor de Job (Job 32-37) y otros. 11 apariciones. Convencion espanola RV60.",
+      "voorkomens": 11
+    },
+    {
+      "strong": "H454a",
+      "hebreeuws": "אֶלְיְהוֹעֵינַי",
+      "translit": "Eljehoenai",
+      "woordsoort": "nombre-propio-masculino",
+      "es_concordant": "Elioenai-sacerdote",
+      "grondvorm": "Elioenai-sacerdote",
+      "stamfamilie": [],
+      "toelichting": "Sacerdote-coraita (1Cr 26:3). Hyphenated.",
+      "voorkomens": 2,
+      "notes": "Korahite-gatekeeper"
+    },
+    {
+      "strong": "H454b",
+      "hebreeuws": "אֶלְיְהוֹעֵינַי",
+      "translit": "Elyeho'enai",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elioenai",
+      "grondvorm": "Elioenai",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores (1Cr 3:23-24; 4:36; Esd 8:4; 10:22,27 etc.). 7 apariciones. Convencion espanola RV60.",
+      "voorkomens": 7
+    },
+    {
+      "strong": "H455",
+      "hebreeuws": "אֶלְיַחְבָּא",
+      "translit": "Elyachba",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Eliahba",
+      "grondvorm": "Eliahba",
+      "stamfamilie": [
+        "H2244"
+      ],
+      "toelichting": "Guerrero de David (2Sa 23:32; 1Cr 11:33). Convencion espanola RV60.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H456",
+      "hebreeuws": "אֱלִיחֹרֶף",
+      "translit": "alichrph",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elihoref-pn",
+      "grondvorm": "Elihoref-pn",
+      "stamfamilie": [
+        "H456"
+      ],
+      "toelichting": "Hapax (1Re 4:3). Secretario de Salomon. Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H457",
+      "hebreeuws": "אֱלִיל",
+      "translit": "elil",
+      "woordsoort": "sustantivo",
+      "es_concordant": "nada-elil",
+      "grondvorm": "nada-elil",
+      "stamfamilie": [],
+      "toelichting": "Idolo-vacio (Lev 19:4 etc.; Sal 96:5; 97:7; Is 2:8,18,20 etc.). 20 apariciones. Sufijo '-elil' para uniqueness contra H434.",
+      "voorkomens": 20
+    },
+    {
+      "strong": "H458",
+      "hebreeuws": "אֱלִימֶלֶךְ",
+      "translit": "Elimelekh",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elimelec",
+      "grondvorm": "Elimelec",
+      "stamfamilie": [],
+      "toelichting": "Esposo de Noemi (Rut 1:2 etc.). 6 apariciones. Convencion espanola RV60.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H459",
+      "hebreeuws": "אִלֵּין",
+      "translit": "illen-Aram",
+      "woordsoort": "demostrativo-arameo",
+      "es_concordant": "estos-aqui-mencionados-arameo",
+      "grondvorm": "estos-aqui-mencionados-arameo",
+      "stamfamilie": [
+        "H411"
+      ],
+      "toelichting": "Pronombre arameo (Dan 2:40,44 etc.). 5 apariciones. Hyphenated cuadruple.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H460",
+      "hebreeuws": "אֶלְיָסָף",
+      "translit": "Elyasaf",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Eliasaf",
+      "grondvorm": "Eliasaf",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores (Num 1:14; 3:24 etc.). 6 apariciones. Convencion espanola RV60.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H461",
+      "hebreeuws": "אֱלִיעֶזֶר",
+      "translit": "eliezer",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Eliezer",
+      "grondvorm": "Eliezer",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores: el siervo de Abraham (Gn 15:2), hijo de Moises (Ex 18:4). 14 apariciones. Convencion espanola RV60.",
+      "voorkomens": 14
+    },
+    {
+      "strong": "H462",
+      "hebreeuws": "אֱלִיעֵנַי",
+      "translit": "elienai-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elienai-pn",
+      "grondvorm": "Elienai-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 8:20). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H463",
+      "hebreeuws": "אֱלִיעָם",
+      "translit": "eliam-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Eliam-pn",
+      "grondvorm": "Eliam-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax-doblado (2Sa 11:3; 23:34). Padre de Betsabe. Sufijo '-pn'.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H464",
+      "hebreeuws": "אֱלִיפַז",
+      "translit": "elifaz",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elifaz",
+      "grondvorm": "Elifaz",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores: hijo de Esau (Gn 36:4 etc.) y amigo de Job (Job 2:11 etc.). 15 apariciones. Convencion espanola RV60.",
+      "voorkomens": 15
+    },
+    {
+      "strong": "H465",
+      "hebreeuws": "אֱלִיפַל",
+      "translit": "elifal-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elifal-pn",
+      "grondvorm": "Elifal-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (1Cr 11:35). Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H466",
+      "hebreeuws": "אֱלִיפְלֵהוּ",
+      "translit": "Elifleyahu",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Eliflehu-levitico",
+      "grondvorm": "Eliflehu-levitico",
+      "stamfamilie": [
+        "H410"
+      ],
+      "toelichting": "Levita-cantor (1Cr 15:18,21). Hyphenated.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H467",
+      "hebreeuws": "אֱלִיפֶלֶט",
+      "translit": "Elifelet",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elifelet",
+      "grondvorm": "Elifelet",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores en lineas davidicas (2Sa 5:16 etc.). 9 apariciones. Convencion espanola RV60.",
+      "voorkomens": 9
+    },
+    {
+      "strong": "H468",
+      "hebreeuws": "אֱלִיצוּר",
+      "translit": "Elitsur",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elisur",
+      "grondvorm": "Elisur",
+      "stamfamilie": [],
+      "toelichting": "Principe de Ruben (Num 1:5 etc.). 5 apariciones. Convencion espanola RV60.",
+      "voorkomens": 5
+    },
+    {
+      "strong": "H469",
+      "hebreeuws": "אֶלְצָפָן",
+      "translit": "Eltsafan",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elisafan",
+      "grondvorm": "Elisafan",
+      "stamfamilie": [],
+      "toelichting": "Levita-coatita (Lev 10:4; Num 3:30 etc.). 6 apariciones. Convencion espanola RV60.",
+      "voorkomens": 6
+    },
+    {
+      "strong": "H470",
+      "hebreeuws": "אֱלִיקָא",
+      "translit": "eliqa-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elika-pn",
+      "grondvorm": "Elika-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (2Sa 23:25). Guerrero de David. Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H471",
+      "hebreeuws": "אֶלְיָקִים",
+      "translit": "Eljaqim",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Eliaquim",
+      "grondvorm": "Eliaquim",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores: mayordomo de Ezequias (2Re 18:18 etc.) y rey de Juda (2Re 23:34, renombrado Joacim). 12 apariciones. Convencion espanola RV60.",
+      "voorkomens": 12
+    },
+    {
+      "strong": "H472",
+      "hebreeuws": "אֱלִישֶׁבַע",
+      "translit": "eliseba-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Eliseba-pn",
+      "grondvorm": "Eliseba-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (Ex 6:23). Esposa de Aaron. Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H473",
+      "hebreeuws": "אֱלִישָׁה",
+      "translit": "Elishah",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elisa-hijo-de-pueblos",
+      "grondvorm": "Elisa-hijo-de-pueblos",
+      "stamfamilie": [],
+      "toelichting": "Hijo de Javan (Gn 10:4; 1Cr 1:7; Eze 27:7). Hyphenated.",
+      "voorkomens": 3
+    },
+    {
+      "strong": "H474",
+      "hebreeuws": "אֱלִישׁוּעַ",
+      "translit": "Elishua",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elisua",
+      "grondvorm": "Elisua",
+      "stamfamilie": [
+        "H410"
+      ],
+      "toelichting": "Hijo de David (2Sa 5:15; 1Cr 14:5). Convencion espanola RV60.",
+      "voorkomens": 2
+    },
+    {
+      "strong": "H475",
+      "hebreeuws": "אֶלְיָשִׁיב",
+      "translit": "elyashiv",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Eliasib",
+      "grondvorm": "Eliasib",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores incluyendo el sumo sacerdote post-exilico (Neh 3:1 etc.). 17 apariciones. Convencion espanola RV60.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H476",
+      "hebreeuws": "אֱלִישָׁמָע",
+      "translit": "elishama",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elisama",
+      "grondvorm": "Elisama",
+      "stamfamilie": [],
+      "toelichting": "Multiples portadores (Num 1:10; 2:18 etc.; 2Sa 5:16). 17 apariciones. Convencion espanola RV60.",
+      "voorkomens": 17
+    },
+    {
+      "strong": "H477",
+      "hebreeuws": "אֱלִישָׁע",
+      "translit": "elisha",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Eliseo",
+      "grondvorm": "Eliseo",
+      "stamfamilie": [],
+      "toelichting": "Profeta-discipulo de Elias (1Re 19:16-2Re 13). 58 apariciones. Convencion espanola RV60.",
+      "voorkomens": 58
+    },
+    {
+      "strong": "H478",
+      "hebreeuws": "אֱלִישָׁפָט",
+      "translit": "elishafat-eign",
+      "woordsoort": "nombre-propio",
+      "es_concordant": "Elisafat-pn",
+      "grondvorm": "Elisafat-pn",
+      "stamfamilie": [],
+      "toelichting": "Hapax (2Cr 23:1). Centurion. Sufijo '-pn'.",
+      "voorkomens": 1
+    },
+    {
+      "strong": "H479",
+      "hebreeuws": "אִלֵּךְ-Aram",
+      "translit": "ilech-Aram",
+      "woordsoort": "pronombre",
+      "es_concordant": "estos-pl-arameo",
+      "grondvorm": "estos-pl-arameo",
+      "stamfamilie": [],
+      "toelichting": "Demostrativo arameo plural (Dan 3:12,13 etc.). 14 apariciones. Hyphenated triple.",
+      "voorkomens": 14
+    }
+  ]
+}
