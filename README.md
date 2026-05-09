@@ -8,6 +8,20 @@ A computational corpus and skill for biblical research that follows three rules 
 
 The skill operates in three modes. A passive mode that answers questions about the Bible by retrieving the relevant verses, lexical entries and typological cross-references from the corpus. An active mode that builds new typology entries through a seven-step protocol with verse-level proof. A cross-check mode that audits the corpus for internal consistency.
 
+## How this project is used
+
+This project has two distinct components that work together:
+
+**1. The Python scripts** (`skill/`, `build-software/`)
+Provide direct command-line access to the corpus: search by Strong-code, search by number-pattern, build reverse-lookup indexes, audit cross-references. These work standalone.
+
+**2. The skill itself** (`skill/skill_v5_*.py`, `Kennis/protocollen/`)
+A set of methodological protocols and trigger-detection logic designed to be loaded into an LLM-based assistant. The skill instructs the assistant to follow strict source-text discipline when answering Bible questions: every claim must trace back to a verse in `Kennis/puur/` or `Kennis/strong/`, no theological schools or training-data echoes are consulted.
+
+The skill was originally designed for [Anthropic's Claude](https://www.anthropic.com/) via its Skills feature, where the entire project folder is mounted and the assistant follows the protocols defined in `Kennis/protocollen/`. The structure is, however, LLM-agnostic: any orchestration that can read markdown instruction files and access the corpus (Cursor, Continue, custom RAG pipelines, OpenAI Agents) should work with adaptation.
+
+**Without an LLM assistant**, the Python scripts still provide useful corpus-level search and audit functionality, but the seven-step typology-detection protocol cannot be executed automatically.
+
 ## What is included
 
 The repository ships with a complete working corpus of approximately 170 typology entries spread across eight categories (entities, numbers, time, language, structure, narrative, role, contrast), three knowledge layers (raw text, Strong-coded text, in-depth word studies), reverse-lookup indexes by verse and by Strong-code, language-mappings between Hebrew and Greek (LXX-mapping), the master concordant vocabularies for Dutch, English and Spanish, and the Python skill scripts that orchestrate detection, retrieval and output.
