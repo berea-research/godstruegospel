@@ -636,8 +636,8 @@ def run_interview(vraag):
         if proc.stdout.strip():
             return json.loads(proc.stdout.strip())
     except Exception as e:
-        return {'error': str(e), 'language': 'unknown', 'output_type': 'unknown', 'depth': 'unknown', 'missing': ['language', 'output_type', 'depth']}
-    return {'language': 'unknown', 'output_type': 'unknown', 'depth': 'unknown', 'missing': ['language', 'output_type', 'depth']}
+        return {'error': str(e), 'language': 'unknown', 'blocks_requested': 'unknown', 'depth': 'unknown', 'missing': ['language', 'blocks_requested', 'depth']}
+    return {'language': 'unknown', 'blocks_requested': 'unknown', 'depth': 'unknown', 'missing': ['language', 'blocks_requested', 'depth']}
 
 
 def detect_vers_referenties(vraag):
@@ -745,7 +745,7 @@ def bepaal_aanbeveling(is_chronologie, externe_tradities, typologie_entries, typ
 def format_rapport(r):
     lines = []
     lines.append("=" * 70)
-    lines.append("PRE-FLIGHT RAPPORT - godstruegospel skill v5.2")
+    lines.append("PRE-FLIGHT RAPPORT - godstruegospel skill v5.4")
     lines.append("=" * 70)
     lines.append("")
     lines.append(f"Vraag: {r['vraag']}")
@@ -758,7 +758,12 @@ def format_rapport(r):
     lines.append("")
     lines.append("INTERVIEW:")
     iv = r['interview']
-    lines.append(f"  taal: {iv.get('language')} | type: {iv.get('output_type')} | diepte: {iv.get('depth')}")
+    blocks = iv.get('blocks_requested')
+    if isinstance(blocks, list):
+        blocks_str = 'A4 + ' + ','.join(blocks) if blocks else 'alleen A4'
+    else:
+        blocks_str = str(blocks)
+    lines.append(f"  taal: {iv.get('language')} | output: {blocks_str} | vers-scope: {iv.get('depth')}")
     if iv.get('missing'):
         lines.append(f"  MISSEND: {', '.join(iv['missing'])}")
     if iv.get('confirm_prompt'):

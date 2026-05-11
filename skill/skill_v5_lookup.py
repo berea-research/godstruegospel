@@ -4,7 +4,7 @@ skill_v5_lookup.py — godstruegospel skill v5, module 2: lookup
 
 Centrale lookup-functies voor de godstruegospel skill. Implementeert
 de bron-discipline uit godstruegospel-v5-eindspec.md sectie 6: alleen
-toegestane bronnen onder Kennis/, geen externe vertaal-tradities.
+toegestane bronnen onder AP/Kennis/, geen externe vertaal-tradities.
 
 Lagen:
   1. Tekstlaag      - puur/[boek].jsonl (grondtekst woorden)

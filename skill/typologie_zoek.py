@@ -11,7 +11,7 @@ typologie-laag. Gebruik:
     python3 typologie_zoek.py --wortel "db" --hebr                # alle Hebreeuwse Strongs met wortel
     python3 typologie_zoek.py --dag 3                             # alle 'derde dag' voorkomens
 
-Geen geheugen-input. Alle output uit Kennis/strong/ en /puur/.
+Geen geheugen-input. Alle output uit GTG/Kennis/strong/ en /puur/.
 """
 import argparse
 import json

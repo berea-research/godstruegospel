@@ -1,21 +1,30 @@
 """
-skill_v5_blocks.py — godstruegospel skill v5, module 3: output-blokken
-======================================================================
+skill_v5_blocks.py — godstruegospel skill v5.4, module 3: output-blokken
+=======================================================================
 
-Bouwt Blok A t/m E van de skill-uitvoer per godstruegospel-v5-eindspec
-sectie 5. Vertaal-gevoelige tekst-strings staan in PROMPT_TEMPLATES (NL
-voor MVP; later uitbreiden naar EN/FR etc.).
+Bouwt A4-samenvatting (default) en optionele Blokken A t/m E van de
+skill-uitvoer. Blok F wordt door skill_v5_transcript.py geleverd.
+
+v5.4 aanpassingen:
+- Nieuwe modus `--a4` produceert een A4-samenvatting-skeleton (max 1 A4)
+  met bronnen-manifest-hook en vers-verankering reeds ingevuld. De prose
+  van de concrete-antwoord-sectie wordt door Claude geschreven op basis
+  van het grondige onderzoek (kennisbank-bron, sola scriptura).
+- `--blok` blijft beschikbaar voor de opt-in blokken uit het interview.
+- A4 is altijd inbegrepen; `--blok` voegt blokken toe boven op de A4.
 
 Blokken:
-  A. Vers-context       - vers-citatie + transliteratie + woord-Strong
-  B. Woordstudie        - per kernwoord wortel/etym/basis/clusters uit diepte
-  C. Cognaten + LXX     - zustertalen + LXX-mapping
-  D. Parallelplaatsen   - omgekeerde index gegroepeerd per genre
-  E. Synthese           - taalkundige samenvatting (geen vertaal-traditie)
+  A4. Concreet antwoord  - max 1 A4 synthese met directe vers-verwijzingen
+  A.  Vers-context       - vers-citatie + transliteratie + woord-Strong
+  B.  Woordstudie        - per kernwoord wortel/etym/basis/clusters uit diepte
+  C.  Cognaten + LXX     - zustertalen + LXX-mapping
+  D.  Parallelplaatsen   - omgekeerde index gegroepeerd per genre
+  E.  Synthese           - taalkundige samenvatting (geen vertaal-traditie)
 
 CLI:
-    python3 skill_v5_blocks.py --vers joh:3:16 --taal nl --blok A
-    python3 skill_v5_blocks.py --vers joh:3:16 --taal nl --blok ABDE
+    python3 skill_v5_blocks.py --vers joh:3:16 --taal nl --a4
+    python3 skill_v5_blocks.py --vers joh:3:16 --taal nl --a4 --blok ACE
+    python3 skill_v5_blocks.py --vers joh:3:16 --taal nl --blok ABCDE
     python3 skill_v5_blocks.py --strong G3056 --taal nl --blok B
 """
 import json
@@ -108,6 +117,71 @@ PROMPT_TEMPLATES = {
         'verse_context_label': 'Verse',
         'fallback_note': '_Translation borrowed from NL master (EN master not yet filled for this Strong-code)._',
         'further_synthesis_note': '_Further synthesis requires manual interpretation within the seven-anchor discipline._',
+    },
+    'es': {
+        'block_a_title': '## Bloque A — Contexto del verso',
+        'block_b_title': '## Bloque B — Estudio de palabra',
+        'block_c_title': '## Bloque C — Cognados y LXX',
+        'block_d_title': '## Bloque D — Pasajes paralelos',
+        'block_e_title': '## Bloque E — Síntesis',
+        'verse_label': 'Verso',
+        'words_label': 'Palabra por palabra',
+        'word_label': 'Palabra',
+        'strong_label': 'Strong',
+        'translit_label': 'Transliteración',
+        'concordant_label': 'ES-concordante',
+        'root_label': 'Raíz',
+        'etym_label': 'Etimología',
+        'meaning_label': 'Significado base',
+        'cognates_label': 'Cognados en lenguas hermanas',
+        'lxx_label': 'Equivalente LXX',
+        'lxx_h_to_g_label': 'Equivalente LXX (H -> G en LXX)',
+        'lxx_g_to_h_label': 'Fuentes LXX (G <- H en traducción Septuaginta)',
+        'parallels_label': 'Pasajes paralelos vía índice inverso',
+        'no_diepte': '_No hay nota de profundidad disponible para {strong}._',
+        'no_lxx': '_No hay mapeo LXX disponible (prefijo G o sin mapeo significativo)._',
+        'synthesis_intro': 'Síntesis lingüística basada en A hasta D, estrictamente concordante sin tradición de traducción.',
+        'verse_not_found': '_Verso {ref} no encontrado._',
+        'kernwoorden_count_label': 'Número de palabras clave cubiertas',
+        'kern_findings_label': 'Hallazgos por código Strong',
+        'verse_context_label': 'Verso',
+        'fallback_note': '_Traducción tomada del master NL (master ES aún no completado para este Strong)._',
+        'further_synthesis_note': '_La síntesis adicional requiere interpretación manual dentro de la disciplina de siete anclas._',
+    },
+}
+
+# A4-template-strings per taal. De prose-secties zijn placeholders die door
+# Claude worden ingevuld op basis van het bronnen-onderzoek.
+A4_TEMPLATES = {
+    'nl': {
+        'title': '# A4-samenvatting — {vers_ref}',
+        'discipline': '> _Bron-discipline: sola scriptura via `Kennis/`. Geen training, geen traditie-vertaling, geen theologie. Max 1 A4._',
+        'antwoord_header': '## Concreet antwoord',
+        'antwoord_placeholder': '_[Claude vult hier de directe beantwoording in, max ~250 woorden, op basis van het onderliggende onderzoek. Begrijpelijk Nederlands, geen technische apparatus. Sola scriptura.]_',
+        'verankering_header': '## Vers-verankering',
+        'verankering_intro': 'De uitspraak hierboven leunt op de volgende Strong-codes uit `{vers_ref}` plus relevante cross-references:',
+        'manifest_header': '## Bronnen-manifest',
+        'manifest_placeholder': '_[Claude vult hier de exacte bron-bestanden in die voor deze A4-synthese zijn gelezen.]_',
+    },
+    'en': {
+        'title': '# A4 summary — {vers_ref}',
+        'discipline': '> _Source discipline: sola scriptura via `Kennis/`. No training data, no translation tradition, no theology. Max 1 page._',
+        'antwoord_header': '## Concrete answer',
+        'antwoord_placeholder': '_[Claude fills in the direct answer here, max ~250 words, based on the underlying research. Plain English, no technical apparatus. Sola scriptura.]_',
+        'verankering_header': '## Verse anchoring',
+        'verankering_intro': 'The statement above rests on the following Strong codes from `{vers_ref}` plus relevant cross-references:',
+        'manifest_header': '## Source manifest',
+        'manifest_placeholder': '_[Claude fills in the exact source files read for this A4 synthesis.]_',
+    },
+    'es': {
+        'title': '# Resumen A4 — {vers_ref}',
+        'discipline': '> _Disciplina de fuentes: sola scriptura vía `Kennis/`. Sin datos de entrenamiento, sin tradición de traducción, sin teología. Máx 1 página._',
+        'antwoord_header': '## Respuesta concreta',
+        'antwoord_placeholder': '_[Claude rellena aquí la respuesta directa, máx ~250 palabras, basada en la investigación subyacente. Español claro, sin aparato técnico. Sola scriptura.]_',
+        'verankering_header': '## Anclaje en versos',
+        'verankering_intro': 'La declaración anterior se apoya en los siguientes códigos Strong de `{vers_ref}` más referencias cruzadas relevantes:',
+        'manifest_header': '## Manifiesto de fuentes',
+        'manifest_placeholder': '_[Claude rellena aquí los archivos fuente exactos leídos para esta síntesis A4.]_',
     },
 }
 
@@ -342,9 +416,73 @@ def block_e(vers_ref, strong_codes, lang='nl'):
     return ''.join(out) + '\n'
 
 
+# === A4-modus (v5.4 default) ===
+
+def block_a4(vers_ref, lang='nl'):
+    """A4-samenvatting-skeleton. Max 1 A4 markdown.
+    De prose-secties zijn placeholders die door Claude worden ingevuld op
+    basis van het onderliggende onderzoek. Het script vult wel de
+    structurele bron-data in (vers-referentie, kernwoord-Strongs)."""
+    if lang not in A4_TEMPLATES:
+        lang = 'nl'  # fallback voor niet-operationele talen
+    tmpl = A4_TEMPLATES[lang]
+
+    boek, h, v = lk.parse_vers_ref(vers_ref)
+    row = lk.lookup_vers(boek, h, v, with_strong=True)
+    if not row:
+        return f"# {tmpl['title'].format(vers_ref=vers_ref)}\n\n" \
+               f"_{t(lang, 'verse_not_found', ref=vers_ref)}_\n"
+
+    out = []
+    out.append(tmpl['title'].format(vers_ref=vers_ref))
+    out.append('')
+    out.append(tmpl['discipline'])
+    out.append('')
+    out.append(tmpl['antwoord_header'])
+    out.append('')
+    out.append(tmpl['antwoord_placeholder'])
+    out.append('')
+    out.append(tmpl['verankering_header'])
+    out.append('')
+    out.append(tmpl['verankering_intro'].format(vers_ref=vers_ref))
+    out.append('')
+    # Vul de kernwoord-Strongs reeds in zodat Claude daarop kan steunen.
+    # We filteren grammaticale woorden (lidwoorden, voorzetsels, voegwoorden,
+    # partikels, pronomina) op basis van de parsing-prefix in het vers-record
+    # — die is betrouwbaarder dan master.woordsoort (die de Nederlandse
+    # afkortingen lw/vgw/vz gebruikt en niet altijd consistent gevuld is).
+    SKIP_PARSING_PREFIXES = ('t_', 'Prep', 'Part', 'Conj', 'pp', 'pf', 'pr', 'px', 'pd', 'ps', 'Cond', 'Adv')
+    seen = set()
+    for w in row['words']:
+        s = w.get('strong', '')
+        if not s or s in seen:
+            continue
+        parsing = w.get('parsing', '')
+        if any(parsing.startswith(p) for p in SKIP_PARSING_PREFIXES):
+            continue
+        seen.add(s)
+        master = lk.lookup_strong(s, taal=lang)
+        if not master:
+            continue
+        conc = _concordant_value(master, lang)
+        woord = master.get('hebreeuws') or master.get('grieks', '')
+        translit = master.get('translit', '')
+        out.append(f"- **{s}** {woord} ({translit}) — {conc}")
+    out.append('')
+    out.append(tmpl['manifest_header'])
+    out.append('')
+    out.append(tmpl['manifest_placeholder'])
+    out.append('')
+    return '\n'.join(out)
+
+
 # === Composer ===
 
-def build_dossier(vers_ref, lang='nl', blokken='ABCDE'):
+def build_dossier(vers_ref, lang='nl', blokken='', include_a4=True):
+    """Bouwt complete output: optionele A4 + optionele blokken.
+    v5.4: A4 is default-inbegrepen (include_a4=True); blokken alleen wanneer
+    expliciet in `blokken` (de string uit blocks_requested van het interview).
+    Lege `blokken` met include_a4=True = alleen A4 (default-uitkomst)."""
     boek, h, v = lk.parse_vers_ref(vers_ref)
     row = lk.lookup_vers(boek, h, v, with_strong=True)
     if not row:
@@ -352,21 +490,29 @@ def build_dossier(vers_ref, lang='nl', blokken='ABCDE'):
     strong_codes = [w.get('strong') for w in row['words'] if w.get('strong')]
 
     sections = []
-    sections.append(f"# Godstruegospel — {vers_ref}\n")
-    if 'A' in blokken:
-        sections.append(block_a(vers_ref, lang))
-    if 'B' in blokken:
-        sections.append(block_b(strong_codes, lang))
-    if 'C' in blokken:
-        sections.append(block_c(strong_codes, lang))
-    if 'D' in blokken:
-        sections.append(block_d(strong_codes, lang))
-    if 'E' in blokken:
-        sections.append(block_e(vers_ref, strong_codes, lang))
+    if include_a4:
+        sections.append(block_a4(vers_ref, lang))
+    if blokken:
+        sections.append(f"# Godstruegospel — Aanvullende blokken — {vers_ref}\n")
+        if 'A' in blokken:
+            sections.append(block_a(vers_ref, lang))
+        if 'B' in blokken:
+            sections.append(block_b(strong_codes, lang))
+        if 'C' in blokken:
+            sections.append(block_c(strong_codes, lang))
+        if 'D' in blokken:
+            sections.append(block_d(strong_codes, lang))
+        if 'E' in blokken:
+            sections.append(block_e(vers_ref, strong_codes, lang))
     return '\n'.join(sections)
 
 
 def main():
+    """CLI-aanroep. v5.4-semantiek:
+    - A4-samenvatting is default-inbegrepen voor --vers-aanroepen.
+    - --blok <subset van ABCDE> voegt opt-in blokken toe boven op de A4.
+    - --no-a4 sluit de A4 expliciet uit (backward-compat voor tests).
+    - --a4-only levert alleen de A4 zonder enige wrapper."""
     args = sys.argv[1:]
 
     def get(flag, default=None):
@@ -375,14 +521,27 @@ def main():
             return args[i+1] if i+1 < len(args) else default
         return default
 
+    def has_flag(flag):
+        return flag in args
+
     vers = get('--vers')
     strong = get('--strong')
     lang = get('--taal', 'nl')
-    blok = get('--blok', 'ABCDE')
+    blok = get('--blok', '')
+    a4_only = has_flag('--a4-only')
+    no_a4 = has_flag('--no-a4')
+    # A4 default ON tenzij expliciet uitgezet, of --strong-modus (geen vers-context)
+    a4 = not no_a4 or has_flag('--a4')
+    if a4_only:
+        a4 = True
 
     if vers:
-        print(build_dossier(vers, lang=lang, blokken=blok))
+        if a4_only:
+            print(block_a4(vers, lang))
+        else:
+            print(build_dossier(vers, lang=lang, blokken=blok, include_a4=a4))
     elif strong:
+        # Strong-modus: geen vers-context dus geen A4. Alleen losse blokken.
         codes = [strong]
         if 'B' in blok:
             print(block_b(codes, lang))
