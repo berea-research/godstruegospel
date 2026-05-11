@@ -3,9 +3,10 @@ name: godstruegospel
 description: Concordante bijbelstudie vanuit Hebreeuwse, Aramese en Griekse grondtekst. Vijf lagen: tekst, vertaal (concordante master), diepte (zeven-ankers per kernwoord), omgekeerde index, LXX-mapping en protocollen. Geen vertaal-tradities, geen geheugen-input. Default-output: A4-samenvatting (max 1 A4, concreet antwoord met vers-verwijzingen). Opt-in via interview: Blok A (woord-Strong-tabel), B (etymologisch dieptedossier), C (cross-references), D (vers-lijst per Strong), E (taalkundige synthese), F (Instagram-tekst ~100 woorden). Talen NL, EN, ES operationeel. Levering default als PDF. Triggeren bij /gtg, vragen over de grondtekst, een Strong-nummer, een Hebreeuws of Grieks woord, of bij vers-referenties (bv. Joh 3:16). Ook bij "wat staat er echt", "in de grondtekst", "lees het puur", "leg dit vers uit", "woord voor woord", of "concordant".
 ---
 
-# godstruegospel — Skill v5.4
+# godstruegospel — Skill v5.4.1
 
 ## Versiehistorie
+- **v5.4.1 (2026-05-11)**: Interview-UX-correctie op v5.4. De zes per-blok vragen MOETEN als zes losse AskUserQuestion-aanroepen worden gesteld, in vaste volgorde A, B, C, D, E, F, elk met ja/nee als enige antwoord-opties. Bundeling in één multi-select-scherm is verboden: in de praktijk leverde dat UI-truncatie op waarbij Blok D (vers-lijst per Strong) en Blok F (Instagram-tekst) werden weggelaten omdat de AskUserQuestion-tool maximaal vier zichtbare opties plus "Something else" toelaat. De skill-spec van v5.4 ("per blok één functionele vraag") wordt hiermee strikt afgedwongen.
 - **v5.4 (2026-05-11)**: Output-architectuur grondig herzien. A4-samenvatting (max 1 A4, concreet antwoord op de vraag in begrijpelijk Nederlands met directe vers-verwijzingen) wordt het default-resultaat van élke gtg-vraag. De Blokken A tot en met F worden expliciet opt-in via een uitgebreid per-blok interview, niet meer als één bundel. Interview-script `skill_v5_interview.py` accepteert nu een lijst `blocks_requested` (subset van {A, B, C, D, E, F}) in plaats van één output-type. Per blok stelt Claude in Stap 1 een functioneel geformuleerde ja/nee-vraag aan de gebruiker (zie sectie Interview-vragen-template). Talen-vraag expliciet als eerste interview-stap, met NL/EN/ES als operationele opties en fallback-waarschuwing voor de overige 14 talen. Output-formaat default PDF: scripts produceren markdown, Claude rendert de markdown via de pdf-skill naar PDF bij oplevering; beide bestanden gaan naar de werkmap. Blok F (Instagram of Reels-tekst van ~100 woorden voor ElevenLabs en Kling) wordt voortaan expliciet als opt-in genoemd in het interview, niet meer impliciet onder "dossier" of "transcript".
 - **v5.3 (2026-05-09)**: Typologie-corpus volledig opgebouwd over Fasen 1 t/m 9 plus Fase 10 web-integratie. 170 entries totaal, verdeeld over de acht hoofdcategorieën: 13 cijfer-entries (B_cijfer), 16 tijd-entries (C_tijd), 74 entiteit-entries (A_entiteit, 25 personen + 49 plaatsen-objecten-dieren-planten-materialen-kleuren-lichaamsdelen), 8 taal-entries (D_taal), 15 structuur-entries (E_structuur), 17 verhaal-entries (F_verhaal), 15 rol-entries (G_rol), 12 contrast-entries (H_contrast). Fase 10 levert `_index.json` met reverse-lookup over 3301 unieke vers-references en 3286 Strong-codes, plus `_xref_check.md` cross-reference rapport. Pre-flight `TYPOLOGIE_TRIGGERS` uitgebreid met entry-specifieke regex-patronen voor alle Fase-9 contrast-entries. Build-scripts (`fase10/build_index.py` en `fase10/check_xrefs.py`) gebruiken relatieve paden voor herhaalbaarheid over sessies. Concordante masters uitgebreid van één naar drie talen: NL (`Kennis/concordant-nl-*.json`), EN (`Kennis/masters/en/concordant-en-*.json`) en ES (`Kennis/masters/es/concordant-es-*.json`); skill-output kan nu direct in alle drie de talen geleverd worden. Documentatie-PDFs gepubliceerd in `docs/godstruegospel-documentation-{en,nl,es}.pdf` (drie talen, met vijf figuren, drie sample workflows, glossary en attribution). MIT-licentie, ATTRIBUTION-bestand voor scripture4all + STEPBible-Data, en CONTRIBUTING-richtlijnen toegevoegd voor publieke distributie.
 - **v5.2 (2026-05-02)**: Typologie-laag toegevoegd in `Kennis/typologie/` met raamwerk V2 (drie assen: categorie, hermeneutische laag, zekerheids-niveau), entry-sjabloon, en patroon-detectie protocol. Acht hoofdcategorieën (A_entiteit t/m H_contrast) met open uitbreidings-ruimte. Pre-flight uitgebreid met typologie-detectie. Bronnen-manifest neemt typologie-bestanden op. Output-blokken C en E krijgen vaste sectie voor typologische cross-references als coherentie-watermerk. Sola scriptura, oplettende-lezer-presumptie, anti-patronen-lijst. Strong-codes gedegradeerd tot zoek-werktuig (geen typologie-element).
@@ -91,18 +92,20 @@ In géén van de drie scenario's mag Claude defaults aannemen voor de drie dimen
 
 **Vraag 1, taal.** "In welke taal wil je de output? Drie operationele talen: Nederlands (NL), Engels (EN), Spaans (ES). De overige 14 talen op de roadmap zijn nog niet gebouwd; bij een keuze daarvoor val ik terug op NL met expliciete vermelding."
 
-**Vraag 2, blokken-keuze.** Open met: "De A4-samenvatting (max 1 A4 concreet antwoord op je vraag, met directe vers-verwijzingen) krijg je altijd. Wil je daarnaast nog een of meerdere van deze extra blokken erbij? Ik leg per blok uit wat je krijgt, jij zegt ja of nee."
+**Vraag 2, blokken-keuze.** ⚠️ TOOL-AANROEP-PATROON (HARD): de zes per-blok vragen MOETEN als ZES LOSSE AskUserQuestion-aanroepen worden gesteld, één per blok, in vaste volgorde A → B → C → D → E → F. Antwoord-opties per call: "Ja" en "Nee" (en optioneel "Something else" als de gebruiker een toelichting wil geven). Bundeling van meerdere blokken in één multi-select AskUserQuestion is VERBODEN omdat de tool maximaal vier zichtbare opties plus "Something else" toelaat, waardoor blokken systematisch worden weggelaten (v5.4-bug, gefixt in v5.4.1).
 
-Daarna per blok één functionele vraag:
+Open de zes-vraag-serie met een korte intro-zin in chat (geen AskUserQuestion): "De A4-samenvatting (max 1 A4 concreet antwoord, met directe vers-verwijzingen) krijg je altijd. Ik ga je nu per blok vragen of je dat er ook bij wilt. Zes korte ja-of-nee-vragen."
 
-- "Blok A, woord-Strong-tabel: een rauwe tabel per vers met elk Grieks of Hebreeuws woord, transliteratie, Strong-code, parsing en NL-concordante betekenis. Geschikt als je het vers woord-voor-woord wilt nalopen. Wil je dit erbij, ja of nee?"
-- "Blok B, etymologisch dieptedossier: per kernwoord de wortel-analyse, semantische velden, cognaten in zustertalen en clusterverbanden uit de diepte-laag (zeven-ankers). Voor woorden zonder diepte-notitie krijg je een eerlijke ontbreking-markering plus de master-toelichting. Wil je dit erbij?"
-- "Blok C, cross-references en LXX-bruggen: alle plekken in de Schrift waar dezelfde Strong-codes voorkomen, plus LXX-LIFT-scores die OT-Hebreeuws en NT-Grieks aan elkaar koppelen. Ook typologische coherentie-watermerken indien aanwezig. Wil je dit erbij?"
-- "Blok D, vers-lijst per Strong: de complete lijst van vers-referenties per kern-Strong via de omgekeerde index, gegroepeerd per genre. Geschikt als je zelf de hele verspreiding wilt nalopen. Wil je dit erbij?"
-- "Blok E, taalkundige synthese: een samenvattende analyse die A+B+C+D bij elkaar legt zonder theologische conclusies. Wil je dit erbij?"
-- "Blok F, Instagram of Reels-tekst: een korte tekst van ongeveer 100 woorden geschikt voor ElevenLabs-voiceover en Kling-video. Wil je dit erbij?"
+Daarna één AskUserQuestion per blok met functionele uitleg:
 
-Bij elke vraag: gebruiker antwoordt ja of nee. Claude verzamelt het lijstje van ja-blokken als `blocks_requested`. Bij alles-nee: alleen A4 wordt geleverd.
+- AskUserQuestion 1 — "Blok A, woord-Strong-tabel: een rauwe tabel per vers met elk Grieks of Hebreeuws woord, transliteratie, Strong-code, parsing en NL-concordante betekenis. Geschikt als je het vers woord-voor-woord wilt nalopen. Wil je dit erbij?"
+- AskUserQuestion 2 — "Blok B, etymologisch dieptedossier: per kernwoord de wortel-analyse, semantische velden, cognaten in zustertalen en clusterverbanden uit de diepte-laag (zeven-ankers). Voor woorden zonder diepte-notitie krijg je een eerlijke ontbreking-markering plus de master-toelichting. Wil je dit erbij?"
+- AskUserQuestion 3 — "Blok C, cross-references en LXX-bruggen: alle plekken in de Schrift waar dezelfde Strong-codes voorkomen, plus LXX-LIFT-scores die OT-Hebreeuws en NT-Grieks aan elkaar koppelen. Ook typologische coherentie-watermerken indien aanwezig. Wil je dit erbij?"
+- AskUserQuestion 4 — "Blok D, vers-lijst per Strong: de complete lijst van vers-referenties per kern-Strong via de omgekeerde index, gegroepeerd per genre. Geschikt als je zelf de hele verspreiding wilt nalopen. Wil je dit erbij?"
+- AskUserQuestion 5 — "Blok E, taalkundige synthese: een samenvattende analyse die A+B+C+D bij elkaar legt zonder theologische conclusies. Wil je dit erbij?"
+- AskUserQuestion 6 — "Blok F, Instagram of Reels-tekst: een korte tekst van ongeveer 100 woorden geschikt voor ElevenLabs-voiceover en Kling-video. Wil je dit erbij?"
+
+Bij elke vraag: gebruiker antwoordt Ja of Nee. Claude verzamelt het lijstje van Ja-blokken als `blocks_requested`. Bij zes-keer-Nee: alleen A4 wordt geleverd.
 
 **Vraag 3, vers-scope.** "Voor de onderbouwing: wil je dat ik me beperk tot het exacte vers of de exacte verzen die je noemt (vers-scope), of zoek ik breder naar de relevante kernwoorden door de hele Schrift (woord-scope), of pak ik een chronologische of thematische cross-vraag erbij (thema-scope)?"
 
@@ -286,18 +289,4 @@ Bij interpretatieve keuze: pas bron-weging uit `interpretatieve-keuzes.md` toe; 
 - Bij `blocks_requested` leeg: lever alleen A4-samenvatting. Geen blokken erbij genereren zonder expliciete keuze.
 - Bij hapax: markeer als zodanig.
 - Bij Strong-code zonder diepte-notitie: in Blok B expliciete markering `[diepte-notitie nog niet aanwezig in Kennis/diepte/]` plus master-toelichting als surrogaat. In A4-samenvatting: ontbreking wordt niet genoemd tenzij het de kern van de uitspraak raakt — A4 hoort begrijpelijk te zijn voor de eindgebruiker, niet een audit-document.
-- Bij chronologie-vraag: activeer chronologie-protocol C1-C7, pas bron-weging uit `interpretatieve-keuzes.md` toe, presenteer werk-conclusie met onderbouwing.
-- Bij verzoek de chronologie tot "vandaag" door te rekenen: stop bij het laatste binnen-bijbelse ankerpunt (= Christus per Daniël 9), markeer doorberekening naar BC/AD als externe ankering en bied de gebruiker meerdere ankeringsopties aan zonder voorkeur uit te spreken.
-- A4-samenvatting altijd leveren, ongeacht overige keuzes. PDF altijd renderen na markdown-productie (default leveringsformaat).
-
----
-
-## Volgende ontwikkelingen (post-MVP)
-
-- 14 verdere concordante masters bouwen (FR, IT, PT, BG, RU, AR, HI, ZH, JA, KO, TR, EL, TA, HE).
-- Diepte-laag voor het Grieks uitbreiden — kernwoorden zoals G3874 paraklēsis, G3870 parakaleō, G59 agorazō, G3084 lutroō, G40 hagios, G3485 naos, G25 agapaō, G26 agapē hebben nog geen diepte-notitie.
-- Blok B/C verfijnen met cluster-extractie uit diepte-laag.
-- Transcript-generator (Blok F) naar 100+ woorden bijregelen.
-- LXX-Genesis en LXX-Exodus als aparte jsonl in `Kennis/lxx/` toevoegen voor MT vs LXX vergelijking.
-- Samaritaanse Pentateuch-tekst toevoegen voor MT vs LXX vs SP vergelijking.
-- Aanvullende protocollen: `kruisreferenties.md`, `hapax-protocol.md`, `betekenis-conflict-protocol.md`.
+- Bij chronologie-vra
