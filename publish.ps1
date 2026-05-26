@@ -19,8 +19,8 @@ $repoName = "godstruegospel"
 $description = "A concordant Bible-study skill grounded in Hebrew, Aramaic and Greek source text. Sola scriptura."
 
 Write-Host "==> Verifying we are in the github/ folder..." -ForegroundColor Cyan
-if (-not (Test-Path "README.md") -or -not (Test-Path "LICENSE") -or -not (Test-Path "Kennis")) {
-    Write-Error "This script must be run from the github/ folder. Required files (README.md, LICENSE, Kennis/) are missing."
+if (-not (Test-Path "README.md") -or -not (Test-Path "LICENSE") -or -not (Test-Path "claude-skill/Kennis")) {
+    Write-Error "This script must be run from the github/ folder. Required files (README.md, LICENSE, claude-skill/Kennis/) are missing."
     exit 1
 }
 
