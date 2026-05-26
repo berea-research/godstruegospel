@@ -29,6 +29,7 @@ The source content inside the bundles is primarily in **Dutch** (Dutch concordan
 
 This entire dataset is pure scripture: **sola scriptura**. No commentary, no creed, no church father, no modern typologist. Only the Hebrew, Aramaic and Greek source text, its concordant translation, and the patterns that the text itself exposes.
 
++ NotebookLM System Instruction: GodsTrueGospel Protocol**
 
 ## NotebookLM System Instruction: GodsTrueGospel Protocol** 
 (Use this before starting chat in order to exclude google's AI noise)
