@@ -308,7 +308,7 @@ Bij vragen over **drievoudige herhaling als bevestigings-techniek in Schrift**: 
 
 **`anthrakia` G439 woord-paar** Joh 18:18 + 21:9 is bron-eigen unieke verbinding. Specifieke typologische lading (vuur-van-verloochening ↔ vuur-van-herstel) is **N2 structurele afleiding**, geen N1. Tekst legt geen formele formule.
 
-**`to triton` G5154** Joh 21:17 — bron-eigen tekst-uitleg. Niet over-claimen op specifieke "drie-eenheid"-typologie zonder bron.
+**`to triton` G5154** Joh 21:17 — bron-eigen tekst-uitleg. Een trinitarische duiding van het drievoud valt buiten de typologie-laag; niet over-claimen.
 
 **Niet over-claimen op specifieke chronologie** haan-kraaien (eerste of tweede haan, exacte uur). Bron-feiten alleen op `eutheōs alektōr ephōnēsen` (terstond kraaide een haan).
 
@@ -331,8 +331,7 @@ Alle vers-references in deze entry op 2026-05-08 geverifieerd via grep + woord-v
 3. **Markus `dis` haan-kraaien-variant** — past in toekomstige *synoptische-varianten* (Fase 6 uitbreiding).
 4. **Petrus = Simon bar-Iōna** Joh 21:15-17 — verdient cross-link met `../A_entiteit/jona.md` (drievoudig `Simōn Iōna` aanroep in herstel-cyclus).
 5. **Joh 21 drievoudig herstel** als afsluiting van Joh-evangelie ↔ Joh 21:11 153 vissen ↔ Joh 21:14 derde verschijning — past in update `../B_cijfer/153.md` Cluster A omgevings-typologie.
-6. **Drievoudig-herhaling-cluster Schrift** — verdient cross-link met `./drievoudige-herhaling-bileam.md` + `./drievoudige-herhaling-samuel.md` (toekomstige Fase 7 entries).
-
+6. **Drievoudig-herhaling-cluster Schrift** — verdient cross-link met `./drievoudige-herhaling-bileam.md` + `./drievoudige-herhaling-samuel.md` (toekom
 ---
 
 
@@ -670,7 +669,7 @@ Tekst-eigen feiten. Genesis 6:14-21 bevat **gedetailleerde JHWH-opdracht** aan N
 
 NT-eigen typologie-claim. **Hebr 11:7** noemt expliciet `pistei chrēmatistheis Nōe peri tōn mēdepō blepomenōn eulabētheis kateskeuasen kibōton eis sōtērian tou oikou autou` — door geloof, gewaarschuwd over wat nog niet gezien werd, bouwde Noach een ark tot redding van zijn huis. **N1 expliciete geloof-typologie**. **1 Pet 3:20-21** maakt expliciete typologische brug ark → doop: `oktō psychai diesōthēsan di hydatos ho kai hymas antitypon nyn sōzei baptisma` — acht zielen werden door water gered, hetwelk u nu ook redt: een tegenbeeld van de doop. **N1 expliciete `antitupon`-formule** (G499 hapax in NT — zie `../D_taal/hapax-overzicht.md` Cluster A). **2 Pet 2:5**: `ogdoon Nōe dikaiosunēs kēruka` — Noach achtste prediker. **N1 titel-typologie**.
 
-Interpretatieve framings. Dat de ark = Christus-typologie als geheel: redelijk-tekstuele afleiding van 1 Pet 3:21 antitupon-typologie, maar tekst legt geen expliciete "ark = Christus"-formule. **N2 structurele afleiding**. Dat de drie verdiepingen Gen 6:16 typologisch corresponderen met heiligdoms-trinitarisch-patroon: bron-eigen drie-verdiepingen-feit, geen NT-tekst legt deze brug. **N3-clue**. Dat de ark-afmetingen (300 × 50 × 30) gematria-typologisch zijn: bron-eigen aantal-feiten zonder NT-tekst-bridge. **N3-clue**.
+Interpretatieve framings. Dat de ark = Christus-typologie als geheel: redelijk-tekstuele afleiding van 1 Pet 3:21 antitupon-typologie, maar tekst legt geen expliciete "ark = Christus"-formule. **N2 structurele afleiding**. De drie verdiepingen (Gen 6:16) en de afmetingen (300 × 50 × 30) zijn bron-eigen feiten zonder uitleg in de tekst; een trinitarische of gematria-duiding ervan is geleende uitleg en valt buiten de typologie-laag.
 
 ## Voorkomens (per cluster)
 
@@ -746,7 +745,7 @@ Interpretatieve framings. Dat de ark = Christus-typologie als geheel: redelijk-t
 3. **2 Pet 2:5 `ogdoon Nōe`** titel-typologie. **N1**.
 4. **Mat 24:37-39 + Luk 17:26-27** Christus-eigen-typologische gelijkenis. **N1**.
 5. **Niet door tekst expliciet gelegd:** ark = Christus-typologie. **N2** structurele afleiding van 1 Pet 3:21 antitupon.
-6. **Niet door tekst expliciet gelegd:** drie verdiepingen Gen 6:16 als trinitarisch-patroon. **N3-clue**.
+6. **Niet door tekst gelegd:** een trinitarische duiding van de drie verdiepingen (Gen 6:16). Tekst-feit blijft het aantal verdiepingen; de duiding valt buiten de typologie-laag.
 7. **Niet door tekst expliciet gelegd:** ark-afmetingen 300×50×30 als gematria-typologie. **N3-clue**.
 
 ## Watermerk-verbinding
@@ -767,7 +766,7 @@ Bij vragen over **40 dagen vloed**: cross-link `../B_cijfer/40.md` Cluster A.
 
 ## Waarschuwingen
 
-**Cluster A drie verdiepingen Gen 6:16** — bron-eigen feit. Specifieke trinitarisch-patroon-typologie zonder NT-tekst-bridge. **N3-clue**, niet over-claimen.
+**Cluster A drie verdiepingen Gen 6:16** — bron-eigen feit (het aantal verdiepingen). Een trinitarisch-patroon-duiding is geleende uitleg en valt buiten de typologie-laag; niet over-claimen.
 
 **Cluster A ark-afmetingen 300 × 50 × 30** — bron-eigen feit. Specifieke gematria-uitleg (300 = chesed, 50 = jubel, 30 = ?, etc.) is interpretatief zonder NT-tekst-bridge. **N3-clue**, niet inbrengen in typologie-laag.
 
@@ -799,8 +798,7 @@ Alle vers-references in deze entry op 2026-05-08 geverifieerd via grep + woord-v
 3. **Drie verdiepingen Gen 6:16 + tabernakel/tempel drie-niveau** — past in toekomstige *heiligdoms-drie-niveau* (Fase 6 uitbreiding).
 4. **Mat 24:37-39 dagen van Noach ↔ Mensenzoon-parousia** — verdient eigen entry *dagen-van-Noach* (Fase 2 uitbreiding).
 5. **`ogdoon Nōe`** als achtste prediker — past in `./eerstgeborene-omkering.md` (toekomstige Fase 7-entry) als positief-tegenpool.
-6. **1 Pet 3:21 doop-antitupon** typologische vocabulair — past in toekomstige *typologisch-vocabulair-NT* (cross-link `../D_taal/hapax-overzicht.md`).
-
+6. **1 Pet 3:21 doop-antitupon** typologische vocabulair — past in toekomstige *typologisch-vocabulair-NT* (cross-link `../D_taal/hapax-ov
 ---
 
 
@@ -944,7 +942,7 @@ Bij vragen over **`thbnith`-architectonisch model** (Mozes-Sinai + David-Sion): 
 
 **Cluster F Hebr 9:11 `ou cheiropoiētou`** (niet-handgemaakt) — bron-eigen contrast aardse versus hemelse heiligdom. Niet vermengen met Mark 14:58 + Hand 7:48 + 17:24 (waar `cheiropoiētos` ook in Christus-getuigenis wordt gebruikt) zonder eigen analyse.
 
-**Niet over-claimen op specifieke "drievoudige-tempel-laag = Vader-Zoon-Geest-typologie"**. Bron-eigen drievoudige-laag is Mozes-tabernakel + Salomo-tempel + hemelse oer-tempel. Specifieke trinitarische uitwerking is **N3-clue**, geen tekst-bridge.
+**Niet over-claimen op een "drievoudige-tempel-laag = Vader-Zoon-Geest-typologie"**. Bron-eigen drievoudige-laag is Mozes-tabernakel + Salomo-tempel + hemelse oer-tempel. Een trinitarische uitwerking daarvan is geleende uitleg en valt buiten de typologie-laag; alleen de drie lagen zijn tekst-feit.
 
 ## Bron-verificatie
 
@@ -969,8 +967,7 @@ Alle vers-references in deze entry op 2026-05-08 geverifieerd via grep + woord-v
 3. **Salomo-vrede ↔ Christus-vrede** Ef 2:14-18 — past in toekomstige `../G_rol/drie-ambten-koning.md` (Fase 8) of `../A_entiteit/salomo.md` cross-update.
 4. **Cluster F `antitypa tōn alēthinōn` Hebr 9:24** — past in update `../D_taal/hapax-overzicht.md` Cluster A (G499 antitupon).
 5. **Joh 2:20 46-jaar tempel-bouw** — historische context-vraag, valt buiten typologie-laag.
-6. **Driedaagse tempel-oprichting Joh 2:19** — past in cross-link `../B_cijfer/3.md` Cluster A + `../E_structuur/chiasme-narratief-jona.md` (Mat 12:40-cluster).
-
+6. **Driedaagse tempel-oprichting Joh 2:19** — past in cross-link `../B_cijfer/3.md` Cluster A + `../E_structuu
 ---
 
 
@@ -1367,7 +1364,7 @@ Interpretatieve framings. Dat de profetie-vervulling-typologie op andere bredere
 1. **Mat 2:5 expliciete profetie-vervulling-formule** `houtōs gegraptai dia tou prophētou`. **N1**.
 2. **Mat 2:6 woord-voor-woord-citaat van Mi 5:2** (semantisch identiek met polysemie-keuze elef → hēgemosin). **N1**.
 3. **Mat 2:6 samengesteld citaat** met 2 Sam 5:2 / 1 Kr 11:2 herder-formule. **N1 expliciete tekst-techniek** (citaat-combinatie binnen NT).
-4. **Niet door tekst expliciet gelegd:** uitgangen-vanouds-formule (Mi 5:2b `m·qdm m·imi oulm`) als pre-existentie-claim — Mat citeert dit niet. **N3-clue** als interpretatieve framing.
+4. **Niet door tekst gelegd:** een pre-existentie-claim uit de uitgangen-vanouds-formule (Mi 5:2b `m·qdm m·imi oulm`) — Mat citeert dit niet. De claim valt buiten de typologie-laag; alleen het woord-feit (Mi 5:2b in MT aanwezig) blijft.
 5. **Niet door tekst expliciet gelegd:** Bethlehem als typologische plaats voor bredere thema's buiten messias-geboorte. **N3-clue**.
 
 ## Watermerk-verbinding
@@ -1412,8 +1409,7 @@ Alle vers-references in deze entry op 2026-05-08 geverifieerd via grep + woord-v
 3. **Polysemie elef → hēgemosin** Mat 2:6 — al uitgewerkt in `../B_cijfer/1000.md` Cluster H als modelgeval.
 4. **Mi 5:2b `m·qdm m·imi oulm`** uitgangen-vanouds — past in toekomstige *m-qdm-m-imi-oulm* of *oulm-cluster*.
 5. **Bethlehem-Efratha naam-paar** Gen 35:19 + 48:7 + Ruth 4:11 + Mi 5:2 — past in toekomstige update van `../A_entiteit/stad-bethlehem.md`.
-6. **Mat 2:6 herder-formule `poimanei`** — past in toekomstige `../G_rol/herder-schaap.md` (Fase 8) als christologische bron-koppeling.
-
+6. **Mat 2:6 herder-formule `poimanei`** — past in toekomstige `../G_rol/herder-schaa
 ---
 
 
@@ -2345,7 +2341,7 @@ Interpretatieve framings. Dat de Jakob-verlatene-cyclus typologisch model is voo
 2. **Hos 12:4 retrospectieve identificatie** `ish` ↔ `malak` binnen OT-tekst. **N1**.
 3. **Niet door tekst expliciet gelegd**: Jakob-verlatene-cyclus typologisch voor wedergeboorte. **N3-clue**.
 4. **Niet door tekst expliciet gelegd**: viervoudig verlatene-cluster (Hagar + Jakob + Mozes + Elia). **N2 structurele afleiding**.
-5. **Niet door tekst expliciet gelegd**: `Pniel = aangezicht-El` typologisch voor incarnatie. **N3-clue**.
+5. **Niet door tekst gelegd**: een incarnatie-duiding van `Pniel = aangezicht-El`. Tekst-feit blijft de naam Pniel (aangezicht-El, Gen 32); de duiding valt buiten de typologie-laag.
 
 ## Watermerk-verbinding
 
@@ -2402,8 +2398,7 @@ Alle vers-references in deze entry op 2026-05-08 geverifieerd via grep + woord-v
 4. **`ish` Gen 32:24 ↔ `malak` Hos 12:4 ↔ `elohim` Gen 32:30 drievoudige identificatie** — past in toekomstige *malak-ieue* (toekomstig).
 5. **`bet elohim` + `sha'ar ha-shamayim` Gen 28:17** ↔ Joh 1:51 — past in update `../E_structuur/inclusio-genesis-openbaring.md`.
 6. **`anokhi imakh` Gen 28:15 ↔ Mat 28:20 + Hebr 13:5** — past in toekomstige meta-entry over JHWH-aanwezigheid-formules.
-7. **Hos 12:3 `aqav` ↔ Yaaqov H3290 wortel-paronomasie** — past in toekomstige *wortel-aqv* (Fase 5 uitbreiding).
-
+7. **Hos 12:3 `aqav` ↔ Yaaqov H3290 worte
 ---
 
 
@@ -2478,7 +2473,7 @@ Interpretatieve framings. Dat Maria-Magdalena-eerste-getuige typologisch model i
 3. **`poreuou de pros tous adelphous mou`** — ga tot Mijn broeders. **Bron-eigen N1 expliciete `adelphous`-aanduiding** voor discipelen — eerste keer in Joh-evangelie dat Jezus discipelen `mijn broeders` noemt. Cross-link Hebr 2:11-12 (`ouk epaischunetai adelphous autous kalein`).
 4. **`patera mou kai patera humōn kai theon mou kai theon humōn`** — Mijn Vader en uw Vader, Mijn God en uw God. **Bron-eigen N1 viervoudige formule** met persoonlijke-suffixen-onderscheid (`mou` versus `humōn`).
 
-**Bron-eigen N1 viervoudig persoonlijk-suffix-paar** in één formule. Niet over-claimen op specifieke "Christus-pre-existentie versus discipel-relatie" zonder eigen analyse.
+**Bron-eigen N1 viervoudig persoonlijk-suffix-paar** in één formule. Niet over-claimen op een specifieke theologische uitleg van het suffix-onderscheid; dat valt buiten de typologie-laag.
 
 ### Cluster E — Joh 20:18 Maria's getuigenis-uitvoering [N1]
 
@@ -2553,7 +2548,7 @@ Bij vragen over **vier-evangelie-graf-narratieven** (Mat 28 + Mar 16 + Luk 24 + 
 
 **Cluster D `adelphous mou`** — bron-eigen feit. Niet vermengen met Mat 12:46-50 / Mar 3:31-35 / Luk 8:19-21 (vleselijke-broers-versus-discipelen-broers-context) zonder eigen analyse — beide bron-eigen tekst-feiten.
 
-**Cluster D `theon humōn` versus `theon mou`** — bron-eigen onderscheid persoonlijke-suffixen. **Niet over-claimen** op specifieke trinitarische of subordinationistische uitleg. **N1 op woord-feit**, specifieke theologische uitwerking is **N3-clue**.
+**Cluster D `theon humōn` versus `theon mou`** — bron-eigen onderscheid persoonlijke-suffixen. **N1 op woord-feit.** Een specifieke theologische uitwerking (trinitarisch, subordinationistisch, e.d.) is geleende uitleg en valt buiten de typologie-laag.
 
 **Cluster F Mar 16:9-20** — tekstuele kwestie: vele oude handschriften eindigen bij Mar 16:8 zonder de "lange-slot" 16:9-20. **Bron-eigen tekst-traditie-onderscheid**. Voor `prōton`-formule cluster F: bron-feit alleen indien Mar 16:9-20 als bron-tekst aanvaard wordt. Niet over-claimen.
 
@@ -2583,8 +2578,7 @@ Alle vers-references in deze entry op 2026-05-08 geverifieerd via grep + woord-v
 5. **Mar 16:9-20 tekstuele traditie-kwestie** — past in toekomstige *lange-slot-markus* (toekomstig).
 6. **Vier-evangelie-graf-narratieven** Mat 28 + Mar 16 + Luk 24 + Joh 20 — past in toekomstige meta-entry `./vier-evangelie-opstandings-narratief.md`.
 7. **Maria Magdalena = 7-demonen-uitgedreven Luk 8:2 ↔ eerste-opstandings-getuige** — bron-eigen verworpene-eerst-genoemd-typologische omkering. Past in toekomstige update `../A_entiteit/hannah-maria.md`.
-8. **`mē mou haptou` Joh 20:17 ↔ Joh 20:27 `phere ton daktulon sou hōde`** (Thomas: ja-aanraken) — bron-eigen twee-instructie-tegenstelling. Past in toekomstige `./twee-aanraking-instructies.md` (toekomstig).
-
+8. **`mē mou haptou` Joh 20:17 ↔ Joh 20:27 `phere ton daktulon sou hōde`** (Thomas: ja-aanraken) — bron-eigen twee-instructie-tegenstelling. Past in toekomstige `./twee-aanraking-instructies.md
 ---
 
 
@@ -2611,7 +2605,7 @@ Tekst-eigen feiten. **Exodus 3:1-15** beschrijft Mozes' verschijning aan **`har 
 
 NT-eigen typologie-claim. **Hand 7:30-34** noemt Stefanus' citaat van Exo 3 met expliciete dating `etōn tessarakonta` (40 jaar). **N1 expliciet citaat** + **N1 expliciete chronologische uitleg**. **Mat 22:32 + Mar 12:26 + Luk 20:37** noemen drie evangelies Christus' eigen citaat van Exo 3:6 (`elohei Avraham elohei Yitzchaq elohei Yaaqov`) als bewijs voor opstanding (`ouk estin theos nekrōn alla zōntōn`). **N1 drie-evangelies-getuigenis** van christologische typologische uitleg.
 
-Interpretatieve framings. Dat de braamstruik-typologie wijst op specifieke christologische lading (incarnatie, lijden-zonder-verteren, etc.): **N3-clue** zonder NT-tekst-bridge. Dat `ehyeh asher ehyeh` formule typologisch verbonden is met NT-`egō eimi`-uitspraken (Joh 8:24 + 8:28 + 8:58 + 13:19 + 18:5-8): **N2 structurele afleiding** (geen NT-tekst legt expliciete brug, maar woord-vorm-overlap is bron-eigen feit).
+Interpretatieve framings. Een specifieke christologische lading van de braamstruik (incarnatie, lijden-zonder-verteren, etc.) is geleende uitleg en valt buiten de typologie-laag. Dat `ehyeh asher ehyeh` formule woord-vorm-overlap heeft met NT-`egō eimi`-uitspraken (Joh 8:24 + 8:28 + 8:58 + 13:19 + 18:5-8): **N2 structurele afleiding** (geen NT-tekst legt expliciete brug, maar de woord-vorm-overlap is bron-eigen feit).
 
 ## Voorkomens (per cluster)
 
@@ -2708,7 +2702,7 @@ Interpretatieve framings. Dat de braamstruik-typologie wijst op specifieke chris
 1. **Hand 7:30-34 expliciet citaat** van Exo 3 incl. `etōn tessarakonta` chronologie. **N1**.
 2. **Mat 22:32 + Mar 12:26 + Luk 20:37 drievoudig citaat** van Exo 3:6 met expliciete typologische uitleg `ouk estin theos nekrōn alla zōntōn`. **N1 christologische opstandings-typologie**.
 3. **Niet door tekst expliciet gelegd**: `ehyeh asher ehyeh` ↔ `egō eimi`-uitspraken. **N2 structurele afleiding**.
-4. **Niet door tekst expliciet gelegd**: braamstruik-typologie als specifieke christologische lading (incarnatie, lijden-zonder-verteren). **N3-clue**.
+4. **Niet door tekst gelegd**: een christologische lading van de braamstruik (incarnatie, lijden-zonder-verteren). Die duiding valt buiten de typologie-laag; alleen het braamstruik-feit blijft.
 
 ## Watermerk-verbinding
 
@@ -2730,7 +2724,7 @@ Bij vragen over **Joz 5:15 schoenen-uittrekken-parallel**: cluster B Exo 3:5 + J
 
 ## Waarschuwingen
 
-**Cluster A `malak ieue`** — bron-eigen identificatie. Specifieke "malak ieue = pre-incarnate Christus"-typologische uitwerking is **N3-clue**, geen NT-tekst-bridge.
+**Cluster A `malak ieue`** — bron-eigen identificatie (de tekst noemt "engel van JHWH"). Een identificatie als "malak ieue = pre-incarnate Christus" is geleende uitleg en valt buiten de typologie-laag; geen NT-tekst legt die brug.
 
 **Cluster A `sneh boer ba-esh ve-einennu ukkal`** — bron-eigen uniek-fenomeen. Specifieke "doornstruik-niet-verteren = lijden-Christus-zonder-vergaan" of "doornstruik = Israel-onderdrukt-niet-vernietigd"-uitwerking is **N3-clue**, geen NT-tekst-bridge.
 
@@ -2765,7 +2759,5 @@ Alle vers-references in deze entry op 2026-05-08 geverifieerd via grep + woord-v
 3. **`malak ieue` als specifieke verschijning-vorm** — past in toekomstige *malak-ieue* (toekomstig).
 4. **Drievoudige patriarchen-formule `elohei Avraham + Yitzchaq + Yaaqov`** in OT-NT-distributie — past in toekomstige *drie-patriarchen* (Fase 8).
 5. **`admat-qodesh` Exo 3:5 ↔ Joz 5:15** — past in toekomstige `./twee-heilig-grond-formules.md` (toekomstig).
-6. **Mat 22:32 opstandings-typologie via Exo 3:6** — past in toekomstige meta-entry *opstandings-citaat-cluster* (cross-link met Hos 6:2 + Jon 1:17 reeds-uitgewerkte clusters).
-7. **40 jaar Midian-context** — al uitgewerkt in `../B_cijfer/40.md` Cluster L; cross-update.
-
+6. **Mat 22:32 opstandings-typologie via Exo 3:6** — past in toekomstige meta-entry *opstandings-citaat-cluster* (cross-link met Hos 6:2 + Jon 1:17 reeds-uitgewer
 ---

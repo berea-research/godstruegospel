@@ -18,7 +18,7 @@
 
 **NT-eigen typologie-claim.** Op 13:18 identificeert het getal als "arithmos anthrōpou" (getal van een mens) en geeft de waarde als "chi-xi-stigma" (G5516 — Griekse alfabetletters die voor 600+60+6 = 666 staan). **N1 voor de tekst-eigen oproep en getal-aanduiding zelf**.
 
-**Interpretatieve framings.** Specifieke identificatie van "wie" 666 voorstelt (Nero Caesar, Romeins keizer, eindtijds-figuur, etc.) is interpretatief en valt buiten de tekst-zelf-uitspraak. **N3-clue voor alle specifieke identificaties**. Joods-traditioneel gematria + kabbalistische cijfer-typologie vallen buiten typologie-laag (`_raamwerk.md` anti-patroon punt 1). Sola-scriptura-discipline staat alleen toe wat de tekst zelf signaleert.
+**Wat de tekst NIET zegt.** Een specifieke identificatie van "wie" 666 voorstelt (Nero Caesar, Romeins keizer, eindtijds-figuur, etc.) valt buiten de tekst-zelf-uitspraak en buiten de typologie-laag. Joods-traditioneel gematria + kabbalistische cijfer-typologie vallen eveneens buiten de typologie-laag (`_raamwerk.md` anti-patroon punt 1). Sola-scriptura-discipline staat alleen toe wat de tekst zelf signaleert.
 
 ## Voorkomens (per cluster)
 

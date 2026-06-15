@@ -847,7 +847,7 @@ Markt, marktplein. Concordant: 'markt'. Mat 11:16 / Lukas 7:32 'paidiois kathēm
 ## G59 — ἀγοράζω (agorazō) — "kopen"
 *Woordsoort:* ww | *Voorkomens:* 31 | *Stamfamilie:* G58 agora, G1805 exagorazō
 
-Kopen, op-de-markt-aanschaffen. Van agora (marktplein). Concordant: 'kopen'. Theologisch zwaar: Christus 'kocht ons' (1 Kor 6:20, 7:23, Op 5:9) — losprijs-betaling. Versterking G1805 exagorazō = vrij-kopen.
+Kopen, op-de-markt-aanschaffen. Van agora (marktplein). Concordant: 'kopen'. zwaar: Christus 'kocht ons' (1 Kor 6:20, 7:23, Op 5:9) — losprijs-betaling. Versterking G1805 exagorazō = vrij-kopen.
 
 **Vindplaatsen:**
 
@@ -2804,7 +2804,7 @@ Uiterste, top, eind-punt. Concordant: 'uiterste'. Mat 24:31 / Mar 13:27 'episuna
 ## G207 — Ἀκύλας (akulas) — "Aquila"
 *Woordsoort:* eigennaam | *Voorkomens:* 6
 
-Aquila (= adelaar). Latijn leenwoord. Joods-christelijke tentenmaker, echtgenoot van Priscilla. Hand 18:2-26; Rom 16:3 'aspasasthe Priskan kai Akulan'; 1 Kor 16:19; 2 Tim 4:19.
+Aquila (= adelaar). Joods-christelijke tentenmaker, echtgenoot van Priscilla. Hand 18:2-26; Rom 16:3 'aspasasthe Priskan kai Akulan'; 1 Kor 16:19; 2 Tim 4:19.
 
 **Vindplaatsen:**
 
@@ -3593,7 +3593,7 @@ Tezamen, gelijktijdig, samen-met. Concordant: 'te-zamen'. Mat 13:29 'hina mē...
 ## G264 — ἁμαρτάνω (hamartanō) — "zondigen"
 *Woordsoort:* ww | *Voorkomens:* 43 | *Stamfamilie:* G266 hamartia, G268 hamartōlos, G265 hamartēma, G4258 proamartanō
 
-Zondigen, doel-missen. Werkwoord waar hamartia (zonde), hamartōlos (zondaar), hamartēma (overtreding) uit afgeleid zijn. Concordant: 'zondigen' waar theologisch standaard, maar stam-betekenis is 'doel-missen' (pijl mist doelwit). Belangrijke semantische achtergrond: zonde is primair doel-missing, niet eerst-en-vooral wetsovertreding.
+Zondigen, doel-missen. Werkwoord waar hamartia (zonde), hamartōlos (zondaar), hamartēma (overtreding) uit afgeleid zijn. Concordant: 'zondigen' waar standaard, maar stam-betekenis is 'doel-missen' (pijl mist doelwit). Belangrijke semantische achtergrond: zonde is primair doel-missing, niet eerst-en-vooral wetsovertreding.
 
 **Vindplaatsen:**
 
@@ -3982,7 +3982,7 @@ Wijngaard. Van ampelos (wijnstok). Concordant: 'wijngaard'. Centraal in Jezus-ge
 ## G291 — Ἀμπλιᾶτος (amplias) — "Amplias"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Amplias. Latijns-leenwoord. Romeinse-broeder. Eenmaal NT. Concordant: 'Amplias'. Rom 16:8 (Paulus-groet 'aspasasthe Amplian ton agapēton mou en kuriōi').
+Amplias. Romeinse-broeder. Eenmaal NT. Concordant: 'Amplias'. Rom 16:8 (Paulus-groet 'aspasasthe Amplian ton agapēton mou en kuriōi').
 
 **Vindplaatsen:**
 
@@ -8944,7 +8944,7 @@ Bezwijmen-flauwvallen. Samenstelling apo + psuchō. Eenmaal NT. Concordant: 'weg
 ## G675 — Ἄππιος (appios) — "Appius"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Appius. Latijns-leenwoord. Markt-Appii (Forum-Appii). Eenmaal NT. Concordant: 'Appius'. Hand 28:15 (Paulus-Italië 'ēlthon eis apantēsin hēmin achri Appiou Phorou').
+Appius. Markt-Appii (Forum-Appii). Eenmaal NT. Concordant: 'Appius'. Hand 28:15 (Paulus-Italië 'ēlthon eis apantēsin hēmin achri Appiou Phorou').
 
 **Vindplaatsen:**
 
@@ -10441,7 +10441,7 @@ Onverzoenlijk. A-privans + spondos (vrede-akkoord). Twee-maal NT. Concordant: 'z
 ## G787 — ἀσσάριον (assarion) — "as-muntje"
 *Woordsoort:* zn | *Voorkomens:* 2
 
-Assarion (Romeinse-koperen-muntje, klein). Latijns-leenwoord. Twee-maal NT. Concordant: 'as-muntje'. Mat 10:29 / Lukas 12:6 (twee maal — mussen-handel 'duo strouthia assariou pōleitai').
+Assarion (Romeinse-koperen-muntje, klein). Twee-maal NT. Concordant: 'as-muntje'. Mat 10:29 / Lukas 12:6 (twee maal — mussen-handel 'duo strouthia assariou pōleitai').
 
 **Vindplaatsen:**
 
@@ -10929,7 +10929,7 @@ Dageraad. Eenmaal NT. Concordant: 'dag-licht'. Hand 20:11 (Paulus-Troas-Eutychus
 ## G828 — Αὔγουστος (augoustos) — "Augustus-(Octavianus)"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Augustus (titel-Octavianus). Latijns-leenwoord. Onderscheid van G4575 Sebastos (Grieks-equivalent-titel). Eenmaal NT. Concordant: 'Augustus-(Octavianus)'. Lukas 2:1 (kerntekst-volkstelling 'exēlthen dogma para Kaisaros Augoustou').
+Augustus (titel-Octavianus). Onderscheid van G4575 Sebastos (Grieks-equivalent-titel). Eenmaal NT. Concordant: 'Augustus-(Octavianus)'. Lukas 2:1 (kerntekst-volkstelling 'exēlthen dogma para Kaisaros Augoustou').
 
 **Vindplaatsen:**
 
@@ -11331,7 +11331,7 @@ Eenvoud-zonder-omhaal. Eenmaal NT. Concordant: 'enkel-voudig-heid'. Hand 2:46 (k
 ## G859 — ἄφεσις (aphesis) — "loslating"
 *Woordsoort:* zn | *Voorkomens:* 17 | *Stamfamilie:* G863 aphiēmi
 
-Loslating, kwijtschelding, vergeving. Zelfstandig naamwoord-afgeleide van aphiēmi (loslaten / vergeven). Concordant: 'loslating' waar stam-getrouw, 'vergeving' bij theologisch standaard. Drie lagen: (1) vrijlating (Lukas 4:18 OT-citaat 'aphesin van gevangenen'), (2) kwijtschelding-van-schuld, (3) vergeving-van-zonden (formule aphesis hamartiōn — Mat 26:28, Hand 2:38, Kol 1:14).
+Loslating, kwijtschelding, vergeving. Zelfstandig naamwoord-afgeleide van aphiēmi (loslaten / vergeven). Concordant: 'loslating' waar stam-getrouw, 'vergeving' bij standaard. Drie lagen: (1) vrijlating (Lukas 4:18 OT-citaat 'aphesin van gevangenen'), (2) kwijtschelding-van-schuld, (3) vergeving-van-zonden (formule aphesis hamartiōn — Mat 26:28, Hand 2:38, Kol 1:14).
 
 **Vindplaatsen:**
 
@@ -11948,7 +11948,7 @@ Basaal werkwoord van werpen-leggen: (1) actief-werpen (balōn lithon = 'een stee
 ## G907 — βαπτίζω (baptizō) — "dopen-onderdompelen"
 *Woordsoort:* ww | *Voorkomens:* 80
 
-Werkwoord van onderdompelen-indopen: (1) klassiek-Grieks letterlijk 'onderdompelen/te-gronde-doen', (2) Joods-ritueel reinigings-onderdompeling (niptein/baptizein overlappend), (3) NT-technisch christelijke-doop (baptizein eis to onoma = 'dopen in de naam', Matt 28:19), (4) metaforisch-overweldiging (baptizein en pneumati = 'dopen in Geest', Mark 1:8 — Jezus als doper-met-Geest tegenover Johannes als doper-met-water). Stamfamilie G908 baptisma (doop), G910 baptistēs (doper).
+Werkwoord van onderdompelen-indopen: (1) letterlijk 'onderdompelen/te-gronde-doen', (2) ritueel reinigings-onderdompeling (niptein/baptizein overlappend), (3) NT-technisch christelijke-doop (baptizein eis to onoma = 'dopen in de naam', Matt 28:19), (4) metaforisch-overweldiging (baptizein en pneumati = 'dopen in Geest', Mark 1:8 — Jezus als doper-met-Geest tegenover Johannes als doper-met-water). Stamfamilie G908 baptisma (doop), G910 baptistēs (doper).
 
 **Vindplaatsen:**
 
@@ -12733,7 +12733,7 @@ Beth-fage. Aramees-leenwoord 'huis-der-onrijpe-vijgen'. Dorp-Olijfberg. Concorda
 ## G968 — βῆμα (bēma) — "rechter-stoel"
 *Woordsoort:* zn | *Voorkomens:* 12 | *Stamfamilie:* G939 basis
 
-Rechter-stoel, verhoogd-platform-voor-uitspraak. Concordant: 'rechter-stoel'. Mat 27:19 Pilatus zit op bēma; Hand 12:21 Herodes; Hand 18:12-17 Gallio's bēma; Hand 25:6-17 Festus' bēma. Theologisch: Rom 14:10 'bēma tou theou'; 2 Kor 5:10 'bēma tou Christou' (rechter-stoel-van-Christus).
+Rechter-stoel, verhoogd-platform-voor-uitspraak. Concordant: 'rechter-stoel'. Mat 27:19 Pilatus zit op bēma; Hand 12:21 Herodes; Hand 18:12-17 Gallio's bēma; Hand 25:6-17 Festus' bēma. Rom 14:10 'bēma tou theou'; 2 Kor 5:10 'bēma tou Christou' (rechter-stoel-van-Christus).
 
 **Vindplaatsen:**
 
@@ -13783,7 +13783,7 @@ Schatkamer, schatkist. Samenstelling gaza (Perzisch-leenwoord, schat) + phulakē
 ## G1050 — Γάϊος (gaios) — "Gajus"
 *Woordsoort:* eigennaam | *Voorkomens:* 5
 
-Gajus. Latijn-leenwoord (zeer-gewone-naam). NT kent meerdere: Gajus uit Macedonië (Hand 19:29); Gajus uit Derbe (Hand 20:4); Gajus uit Korinthe-gastheer-Paulus (Rom 16:23, 1 Kor 1:14); Gajus-ontvanger-van-derde-Johannes-brief (3 Joh 1:1).
+Gajus. NT kent meerdere: Gajus uit Macedonië (Hand 19:29); Gajus uit Derbe (Hand 20:4); Gajus uit Korinthe-gastheer-Paulus (Rom 16:23, 1 Kor 1:14); Gajus-ontvanger-van-derde-Johannes-brief (3 Joh 1:1).
 
 **Vindplaatsen:**
 
@@ -13889,7 +13889,7 @@ Galileeër, uit-Galilea. Bijvoeglijk afgeleide van Galilaia. Concordant: 'Galile
 ## G1058 — Γαλλίων (galliōn) — "Gallio"
 *Woordsoort:* eigennaam | *Voorkomens:* 3
 
-Gallio. Latijns-leenwoord. Romeinse-proconsul-Achaia (broer-Seneca). Concordant: 'Gallio'. Vrijwel uitsluitend Hand 18:12-17 (drie maal — Paulus-Korinthe-rechtszaak 'Galliōnos de anthupatou ontos... apo tou bēmatos tou Galliōnos... ouden toutōn tōi Galliōni emelen').
+Gallio. Romeinse-proconsul-Achaia (broer-Seneca). Concordant: 'Gallio'. Vrijwel uitsluitend Hand 18:12-17 (drie maal — Paulus-Korinthe-rechtszaak 'Galliōnos de anthupatou ontos... apo tou bēmatos tou Galliōnos... ouden toutōn tōi Galliōni emelen').
 
 **Vindplaatsen:**
 
@@ -16224,7 +16224,7 @@ Openbaar, publiek. Bijvoeglijk afgeleide van dēmos. Concordant: 'openbaar'. Han
 ## G1220 — δηνάριον (dēnarion) — "denarius"
 *Woordsoort:* zn | *Voorkomens:* 16
 
-Denarius. Latijn leenwoord. Romeinse zilvermunt (~ één-dag-loon arbeider). Concordant: 'denarius' om historische munteenheid te bewaren. Mat 20:2 dagloon van een dēnarion. Mat 22:19 dēnarion van Caesar (belastingsmunt).
+Denarius. Romeinse zilvermunt (~ één-dag-loon arbeider). Concordant: 'denarius' om historische munteenheid te bewaren. Mat 20:2 dagloon van een dēnarion. Mat 22:19 dēnarion van Caesar (belastingsmunt).
 
 **Vindplaatsen:**
 
@@ -16519,7 +16519,7 @@ Omgorden-doorheen. Samenstelling dia + zōnnumi. Concordant: 'door-gorden'. Vrij
 ## G1242 — διαθήκη (diathēkē) — "verbond"
 *Woordsoort:* zn | *Voorkomens:* 33 | *Stamfamilie:* G1303 diatithēmi, G1223 dia, G5087 tithēmi
 
-Samenstelling dia (door, tussen) + tithēmi-stam (zetten): tussen-zetting, regeling, verbond, testament. Concordant: 'verbond' bij theologische context (oude / nieuwe verbond), 'testament' bij erfrechtelijke context (Heb 9:16-17 woordspel). Septuaginta gebruikt diathēkē consistent voor Hebreeuws berith. Niet G4934 sunthēkē (samen-zetting, contract tussen gelijken) want diathēkē = beschikking-door-meerdere.
+Samenstelling dia (door, tussen) + tithēmi-stam (zetten): tussen-zetting, regeling, verbond, testament. Concordant: 'verbond' bij geestelijk gebruik (oude / nieuwe verbond), 'testament' bij erfrechtelijke context (Heb 9:16-17 woordspel). Septuaginta gebruikt diathēkē consistent voor Hebreeuws berith. Niet G4934 sunthēkē (samen-zetting, contract tussen gelijken) want diathēkē = beschikking-door-meerdere.
 
 **Vindplaatsen:**
 
@@ -16540,7 +16540,7 @@ Samenstelling dia (door, tussen) + tithēmi-stam (zetten): tussen-zetting, regel
 ## G1243 — διαίρεσις (diairesis) — "ver-deelschap"
 *Woordsoort:* zn | *Voorkomens:* 3 | *Stamfamilie:* G1244 diaireō, G1223 dia
 
-Verdeling, onderscheid-toedeling. Drie-maal NT, alle 1 Kor 12-gaven-discours. Concordant: 'ver-deelschap'. 1 Kor 12:4-6 (drie maal — kerntekst-trinitarische-formule 'diaireseis charismatōn... diaireseis diakoniōn... diaireseis energēmatōn').
+Verdeling, onderscheid-toedeling. Drie-maal NT, alle 1 Kor 12-gaven-discours. Concordant: 'ver-deelschap'. 1 Kor 12:4-6 (drie maal — kerntekst-drievoudige-formule 'diaireseis charismatōn... diaireseis diakoniōn... diaireseis energēmatōn').
 
 **Vindplaatsen:**
 
@@ -18537,7 +18537,7 @@ Gave, geschenk. Zelfstandig naamwoord-afgeleide van didōmi. Concordant: 'gave'.
 ## G1391 — δόξα (doxa) — "heerlijkheid-glorie-eer"
 *Woordsoort:* zn | *Voorkomens:* 168
 
-Klassiek-Grieks 'mening/reputatie', in NT (via LXX voor Hebreeuws kavod) geëvolueerd tot: (1) goddelijke heerlijkheid-zichtbare-glorie (hē doxa kuriou = 'de heerlijkheid des Heren' — zichtbare godsgegenwaardigheid, Ex/Ez-parallel), (2) eer-roem (lambanein doxan = 'eer ontvangen'), (3) pracht-luister (pasa hē doxa autēs = 'al haar pracht'). Doxologie = 'heerlijkheid-toeschrijving'.
+Doxologie = 'heerlijkheid-toeschrijving'.
 
 **Vindplaatsen:**
 
@@ -18743,7 +18743,7 @@ Onthaal-feest, gastmaal. Twee-maal NT. Concordant: 'ont-haal'. Lukas 5:29 (Levi-
 ## G1404 — δράκων (drakōn) — "draak"
 *Woordsoort:* zn | *Voorkomens:* 13
 
-Draak, slang-monster. Concordant: 'draak'. Vrijwel uitsluitend in Apocalyps (Op 12-13, 16, 20). Op 12:9, 20:2 'ho drakōn ho megas, ho ophis ho archaios, ho kaloumenos diabolos kai ho satanas' — drie-eenheid identificatie: draak = oude slang = lasteraar = Satan.
+Draak, slang-monster. Concordant: 'draak'. Vrijwel uitsluitend in Apocalyps (Op 12-13, 16, 20). Op 12:9, 20:2 'ho drakōn ho megas, ho ophis ho archaios, ho kaloumenos diabolos kai ho satanas' — meervoudige identificatie: draak = oude slang = lasteraar = Satan.
 
 **Vindplaatsen:**
 
@@ -18800,7 +18800,7 @@ Loop, renbaan. Concordant: 'loop-baan'. Drie-maal NT, alle Paulus-bediening: Han
 ## G1409 — Δρούσιλλα (drousilla) — "Drusilla"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Drusilla. Latijns-leenwoord. Joodse-vrouw-Felix. Eenmaal NT. Concordant: 'Drusilla'. Hand 24:24 (Felix-Drusilla 'sun Drousillēi tēi idiai gunaiki').
+Drusilla. Joodse-vrouw-Felix. Eenmaal NT. Concordant: 'Drusilla'. Hand 24:24 (Felix-Drusilla 'sun Drousillēi tēi idiai gunaiki').
 
 **Vindplaatsen:**
 
@@ -21213,7 +21213,7 @@ Uitsluiten. Samenstelling ek + kleiō. Twee-maal NT. Concordant: 'uit-toesluiten
 ## G1577 — ἐκκλησία (ekklēsia) — "uitgeroepenen-gemeente"
 *Woordsoort:* zn | *Voorkomens:* 118
 
-Letterlijk 'uit-geroepenen' (ek + kaleō — vergadering bijeengeroepen), Hellenistisch-klassiek reeds term voor burgerlijke volksvergadering (Hand 19:32). In NT theologisch: (1) lokale gemeente (hē ekklēsia hē en Korinthōi = 'de gemeente te Korinthe'), (2) universele-Kerk-Lichaam-van-Christus (hē ekklēsia, Ef 1:22-23), (3) volksvergadering-neutraal (Hand 19). Nuance 'uitgeroepenen' bewaart oorsprong, 'gemeente' courant-vertaling.
+Letterlijk 'uit-geroepenen' (ek + kaleō — vergadering bijeengeroepen), ook gebruikt voor een burgerlijke volksvergadering (Hand 19:32). In NT: (1) lokale gemeente (hē ekklēsia hē en Korinthōi = 'de gemeente te Korinthe'), (2) universele-Kerk-Lichaam-van-Christus (hē ekklēsia, Ef 1:22-23), (3) volksvergadering-neutraal (Hand 19). Nuance 'uitgeroepenen' bewaart oorsprong, 'gemeente' courant-vertaling.
 
 **Vindplaatsen:**
 
@@ -22213,7 +22213,7 @@ Zich-ontfermen, barmhartig-zijn. Van eleos (ontferming, barmhartigheid). Concord
 ## G1654 — ἐλεημοσύνη (eleēmosunē) — "barmhartigheids-gave"
 *Woordsoort:* zn | *Voorkomens:* 14 | *Stamfamilie:* G1656 eleos, G1655 eleēmōn
 
-Barmhartigheids-gave, aalmoes. Zelfstandig naamwoord-afgeleide van eleos. Concordant: 'barmhartigheids-gave' literal, 'aalmoes' standaard (basis van Nederlands 'aalmoes' is via Latijn eleemosyna). Mat 6:1-4 onderwijs over verborgen-aalmoes-geven. Hand 9:36 Tabita vol van eleēmosunōn.
+Barmhartigheids-gave, aalmoes. Zelfstandig naamwoord-afgeleide van eleos. Mat 6:1-4 onderwijs over verborgen-aalmoes-geven. Hand 9:36 Tabita vol van eleēmosunōn.
 
 **Vindplaatsen:**
 
@@ -23580,7 +23580,7 @@ Samenstelling en (in) + ergon-stam: in-werken, krachtig-werken-in. Concordant: '
 ## G1755 — ἐνέργημα (energēma) — "in-werkings-uitvoer"
 *Woordsoort:* zn | *Voorkomens:* 2 | *Stamfamilie:* G1754 energeō, G1755 energēma, G2041 ergon
 
-Werking-resultaat. Resultaats-substantief van energeō. Twee-maal NT, alle 1 Kor 12-gaven. Concordant: 'in-werkings-uitvoer'. 1 Kor 12:6-10 (twee maal — kerntekst-trinitarische-formule 'diaireseis energēmatōn eisin... allōi de energēmata dunameōn').
+Werking-resultaat. Resultaats-substantief van energeō. Twee-maal NT, alle 1 Kor 12-gaven. Concordant: 'in-werkings-uitvoer'. 1 Kor 12:6-10 (twee maal — kerntekst-drievoudige-formule 'diaireseis energēmatōn eisin... allōi de energēmata dunameōn').
 
 **Vindplaatsen:**
 
@@ -26680,7 +26680,7 @@ Mond-stoppen. Samenstelling epi + stoma. Eenmaal NT. Concordant: 'op-mond-toesno
 ## G1994 — ἐπιστρέφω (epistrephō) — "om-keren"
 *Woordsoort:* ww | *Voorkomens:* 39 | *Stamfamilie:* G4762 strephō, G1909 epi, G1995 epistrophē
 
-Samenstelling epi (op, toe) + strephō (draaien): zich-toekeren, omkeren. Concordant: 'om-keren' waar stam-getrouw, 'bekeren' bij theologische context. Onderscheid van G3340 metanoeō (van-mening-veranderen) — epistrephō is de richting-verandering-handeling, metanoeō is de denk-verandering. Beide vaak 'bekeren'.
+Samenstelling epi (op, toe) + strephō (draaien): zich-toekeren, omkeren. Concordant: 'om-keren' waar stam-getrouw, 'bekeren' bij geestelijk gebruik. Onderscheid van G3340 metanoeō (van-mening-veranderen) — epistrephō is de richting-verandering-handeling, metanoeō is de denk-verandering. Beide vaak 'bekeren'.
 
 **Vindplaatsen:**
 
@@ -28236,7 +28236,7 @@ Samenstelling eu (goed) + angelos-stam (boodschap): 'goed-boodschap-brengen' / '
 ## G2098 — εὐαγγέλιον (euangelion) — "evangelie-goede-boodschap"
 *Woordsoort:* zn | *Voorkomens:* 77
 
-Letterlijk 'goede-boodschap' (eu + angelion): Hellenistisch-origineel politiek-term voor keizers-triomf-bericht, in NT-technisch voor het Christus-heil-bericht: (1) euangelion tēs basileias = 'evangelie van het koninkrijk' (synoptici), (2) to euangelion tou Christou = 'het evangelie van Christus' (Paulinisch), (3) to euangelion tou theou = 'het evangelie van God'. Kern van apostolische-kerugma. Stamfamilie G2097 euangelizō (evangelie-verkondigen), G2099 euangelistēs (evangelist).
+Letterlijk 'goede-boodschap' (eu + angelion): in NT-technisch voor het Christus-heil-bericht: (1) euangelion tēs basileias = 'evangelie van het koninkrijk' (synoptici), (2) to euangelion tou Christou = 'het evangelie van Christus' (Paulinisch), (3) to euangelion tou theou = 'het evangelie van God'. Kern van apostolische-kerugma. Stamfamilie G2097 euangelizō (evangelie-verkondigen), G2099 euangelistēs (evangelist).
 
 **Vindplaatsen:**
 
@@ -29672,7 +29672,7 @@ Koken, zieden-(in-Geest). Werkwoord-stam-zestos-familie. Twee-maal NT. Concordan
 ## G2205 — ζῆλος (zēlos) — "ijver"
 *Woordsoort:* zn | *Voorkomens:* 17 | *Stamfamilie:* G2206 zēloō, G2207 zēlōtēs
 
-IJver, naijver, jaloezie. Concordant: 'ijver'. Dubbele lading: (1) positieve ijver (ijver voor Gods huis Joh 2:17, ijver voor de gemeente 2 Kor 11:2), (2) negatieve naijver / jaloezie (Hand 5:17, 13:45). Substantief G2207 zēlōtēs = ijveraar / Zeloot. Basis van Nederlands 'jaloezie' via Latijn.
+IJver, naijver, jaloezie. Concordant: 'ijver'. Dubbele lading: (1) positieve ijver (ijver voor Gods huis Joh 2:17, ijver voor de gemeente 2 Kor 11:2), (2) negatieve naijver / jaloezie (Hand 5:17, 13:45). Substantief G2207 zēlōtēs = ijveraar / Zeloot.
 
 **Vindplaatsen:**
 
@@ -30944,7 +30944,7 @@ Dood op drie lagen: (1) biologisch-einde-van-leven (ek thanatou eis zōēn = 'ui
 ## G2289 — θανατόω (thanatoō) — "doden"
 *Woordsoort:* ww | *Voorkomens:* 11 | *Stamfamilie:* G2288 thanatos
 
-Doden, ter-dood-brengen. Werkwoord-afgeleide van thanatos. Concordant: 'doden'. Mat 10:21, 26:59, 27:1; Mar 13:12, 14:55; Lukas 21:16. Theologisch belangrijk: Rom 7:4 'ethanatōthēte tōi nomōi' (gij zijt aan de wet gestorven); Rom 8:13 'tas praxeis tou sōmatos thanatoute' (handelingen-van-het-lichaam doden); Rom 8:36 OT-citaat; 2 Kor 6:9; 1 Pet 3:18 'thanatōtheis sarki'.
+Doden, ter-dood-brengen. Werkwoord-afgeleide van thanatos. Concordant: 'doden'. Mat 10:21, 26:59, 27:1; Mar 13:12, 14:55; Lukas 21:16. belangrijk: Rom 7:4 'ethanatōthēte tōi nomōi' (gij zijt aan de wet gestorven); Rom 8:13 'tas praxeis tou sōmatos thanatoute' (handelingen-van-het-lichaam doden); Rom 8:36 OT-citaat; 2 Kor 6:9; 1 Pet 3:18 'thanatōtheis sarki'.
 
 **Vindplaatsen:**
 
@@ -32429,7 +32429,7 @@ Aanblik, gestalte. Eenmaal NT. Concordant: 'aan-blik'. Mat 28:3 (opstandings-eng
 ## G2398 — ἴδιος (idios) — "eigen"
 *Woordsoort:* bijvoeglijk-naamwoord | *Voorkomens:* 113
 
-Bezitsrelativerend bijvoeglijk-naamwoord 'eigen/persoonlijk': (1) bezits-eigen (hē idia oikia = 'zijn eigen huis'), (2) persoonlijke-particulier tegenover-algemeen (kat idian = 'afzonderlijk/privaat'), (3) aparte-unieke-bijzonder (idion charisma = 'eigen genadegave', 1 Kor 7:7). Joh 1:11 eis ta idia ēlthen 'tot het-zijne' — diep-theologische zelfverwijzing Christus-tot-zijn-eigendom.
+Bezitsrelativerend bijvoeglijk-naamwoord 'eigen/persoonlijk': (1) bezits-eigen (hē idia oikia = 'zijn eigen huis'), (2) persoonlijke-particulier tegenover-algemeen (kat idian = 'afzonderlijk/privaat'), (3) aparte-unieke-bijzonder (idion charisma = 'eigen genadegave', 1 Kor 7:7). Joh 1:11 eis ta idia ēlthen 'tot het-zijne' — diep zelfverwijzing Christus-tot-zijn-eigendom.
 
 **Vindplaatsen:**
 
@@ -32715,7 +32715,7 @@ Heilig-bedienen. Samenstelling hieron + ergon. Eenmaal NT. Concordant: 'priester
 ## G2419 — Ἰερουσαλήμ (ierousalēm) — "Jeruzalem-eigennaam"
 *Woordsoort:* zn | *Voorkomens:* 83
 
-Eigennaam Jeruzalem — onverbogen Semitische vorm (naast verbogen Grieks Hierosoluma G2414). Ierousalēm-vorm vaker in Luk/Hand, theologisch-symbolisch (hagia polis = 'heilige stad'), in evangeliën-lijdens-context (Jezus trekt op naar Ierousalēm, Luk 9:51). In Paulus tweevoudig: aardse Ierousalēm-nu tegenover hē anō Ierousalēm = 'het Jeruzalem-boven' (Gal 4:26). Openb hē hagia Ierousalēm kainē = 'het Nieuwe Jeruzalem'.
+Eigennaam Jeruzalem — onverbogen Semitische vorm (naast verbogen Grieks Hierosoluma G2414). Ierousalēm-vorm vaker in Luk/Hand, symbolisch (hagia polis = 'heilige stad'), in evangeliën-lijdens-context (Jezus trekt op naar Ierousalēm, Luk 9:51). In Paulus tweevoudig: aardse Ierousalēm-nu tegenover hē anō Ierousalēm = 'het Jeruzalem-boven' (Gal 4:26). Openb hē hagia Ierousalēm kainē = 'het Nieuwe Jeruzalem'.
 
 **Vindplaatsen:**
 
@@ -33242,7 +33242,7 @@ Judas. Griekse vorm van Hebr Yehuda (G2448 Iouda). NT kent meerdere Judassen: Ju
 ## G2456 — Ἰουλία (ioulia) — "Julia"
 *Woordsoort:* eigennaam | *Voorkomens:* 1 | *Stamfamilie:* G2457 Ioulios
 
-Julia. Latijns-leenwoord. Romeinse-zuster. Eenmaal NT. Concordant: 'Julia'. Rom 16:15 (paar-met-Philologos 'aspasasthe Philologon kai Ioulian').
+Julia. Romeinse-zuster. Eenmaal NT. Concordant: 'Julia'. Rom 16:15 (paar-met-Philologos 'aspasasthe Philologon kai Ioulian').
 
 **Vindplaatsen:**
 
@@ -33253,7 +33253,7 @@ Julia. Latijns-leenwoord. Romeinse-zuster. Eenmaal NT. Concordant: 'Julia'. Rom 
 ## G2457 — Ἰούλιος (ioulios) — "Julius"
 *Woordsoort:* eigennaam | *Voorkomens:* 2
 
-Julius. Latijns-leenwoord. Romeinse-centurion-Paulus' escorte. Twee-maal NT. Concordant: 'Julius'. Hand 27:1-3 (twee maal — schipbreuk-pericoop 'hekatontarchēi onomati Iouliōi... philanthrōpōs te ho Ioulios tōi Paulōi chrēsamenos').
+Julius. Romeinse-centurion-Paulus' escorte. Twee-maal NT. Concordant: 'Julius'. Hand 27:1-3 (twee maal — schipbreuk-pericoop 'hekatontarchēi onomati Iouliōi... philanthrōpōs te ho Ioulios tōi Paulōi chrēsamenos').
 
 **Vindplaatsen:**
 
@@ -33264,7 +33264,7 @@ Julius. Latijns-leenwoord. Romeinse-centurion-Paulus' escorte. Twee-maal NT. Con
 ## G2458 — Ἰουνίας (iounias) — "Junia"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Junia. Latijns-leenwoord. Bloedverwant-Paulus, vrouw-Andronikus. Eenmaal NT. Concordant: 'Junia'. Rom 16:7 (paar-met-Andronikus 'aspasasthe Andronikon kai Iounian... episēmoi en tois apostolois').
+Junia. Bloedverwant-Paulus, vrouw-Andronikus. Eenmaal NT. Concordant: 'Junia'. Rom 16:7 (paar-met-Andronikus 'aspasasthe Andronikon kai Iounian... episēmoi en tois apostolois').
 
 **Vindplaatsen:**
 
@@ -33275,7 +33275,7 @@ Junia. Latijns-leenwoord. Bloedverwant-Paulus, vrouw-Andronikus. Eenmaal NT. Con
 ## G2459 — Ἰοῦστος (ioustos) — "Justus"
 *Woordsoort:* eigennaam | *Voorkomens:* 3
 
-Justus. Latijns-leenwoord 'rechtvaardige'. Drie-figuren-NT. Concordant: 'Justus'. Hand 1:23 (lot-werpen-Matthias 'Iōsēph... ho epeklēthē Ioustos'). Hand 18:7 (Korinthe 'eisēlthen eis oikian tinos onomati Titiou Ioustou'). Kol 4:11 'Iēsous ho legomenos Ioustos' (Paulus-medewerker).
+Justus. Drie-figuren-NT. Concordant: 'Justus'. Hand 1:23 (lot-werpen-Matthias 'Iōsēph... ho epeklēthē Ioustos'). Hand 18:7 (Korinthe 'eisēlthen eis oikian tinos onomati Titiou Ioustou'). Kol 4:11 'Iēsous ho legomenos Ioustos' (Paulus-medewerker).
 
 **Vindplaatsen:**
 
@@ -34037,7 +34037,7 @@ Reinheid-cultisch. Onderscheid van G54 hagnotēs (rein-heid-hagnos). Stam-substa
 ## G2515 — καθέδρα (kathedra) — "zit-stoel"
 *Woordsoort:* zn | *Voorkomens:* 3 | *Stamfamilie:* G2516 kathezomai
 
-Zetel, stoel. Latijn-cathedra. Concordant: 'zit-stoel'. Mat 21:12 / Mar 11:15 (twee maal — tempel-reiniging 'tas kathedras tōn pōlountōn tas peristeras' — duivenverkopers-stoelen). Mat 23:2 'epi tēs Mōuseōs kathedras ekathisan hoi grammateis kai hoi Pharisaioi' (Mozes-stoel — kerntekst).
+Zetel, stoel. Concordant: 'zit-stoel'. Mat 21:12 / Mar 11:15 (twee maal — tempel-reiniging 'tas kathedras tōn pōlountōn tas peristeras' — duivenverkopers-stoelen). Mat 23:2 'epi tēs Mōuseōs kathedras ekathisan hoi grammateis kai hoi Pharisaioi' (Mozes-stoel — kerntekst).
 
 **Vindplaatsen:**
 
@@ -34436,7 +34436,7 @@ Tijd-als-kwalitatief-moment tegenover G5550 chronos (chronologisch-verloop). Kai
 ## G2541 — Καῖσαρ (kaisar) — "keizer"
 *Woordsoort:* eigennaam/titel | *Voorkomens:* 31
 
-Caesar, keizer. Latijn leenwoord. Concordant: 'keizer' als titel, 'Caesar' bij specifieke persoon (gewoonlijk Tiberius in evangeliën, Nero in latere brieven). 'Geef Caesar wat van Caesar is'.
+Caesar, keizer. Concordant: 'keizer' als titel, 'Caesar' bij specifieke persoon (gewoonlijk Tiberius in evangeliën, Nero in latere brieven). 'Geef Caesar wat van Caesar is'.
 
 **Vindplaatsen:**
 
@@ -37316,7 +37316,7 @@ Prikkel, angel, doorn. Concordant: 'prikkel'. Hand 9:5, 26:14 'sklēron soi pros
 ## G2760 — κεντυρίων (kenturiōn) — "centurio"
 *Woordsoort:* zn | *Voorkomens:* 3
 
-Centurio, hoofdman-over-honderd. Latijns-leenwoord. Onderscheid van G1543 hekatontarchēs (Grieks-equivalent). Concordant: 'centurio'. Vrijwel uitsluitend Mar-kruis-en-Romeinse-officier: Mar 15:39-45 (drie maal — 'idōn de ho kenturiōn... epērōtēsen ton kenturiōna... gnous apo tou kenturiōnos').
+Centurio, hoofdman-over-honderd. Onderscheid van G1543 hekatontarchēs (Grieks-equivalent). Concordant: 'centurio'. Vrijwel uitsluitend Mar-kruis-en-Romeinse-officier: Mar 15:39-45 (drie maal — 'idōn de ho kenturiōn... epērōtēsen ton kenturiōna... gnous apo tou kenturiōnos').
 
 **Vindplaatsen:**
 
@@ -37537,7 +37537,7 @@ Boekrol-kop. Stam-substantief-kephalē-familie. Eenmaal NT. Concordant: 'hoofd-r
 ## G2778 — κῆνσος (kēnsos) — "cijns"
 *Woordsoort:* zn | *Voorkomens:* 4
 
-Belasting, hoofdgeld, cijns. Latijn-leenwoord (census). Concordant: 'cijns'. Mat 17:25 'lambanousin telē ē kēnson'; Mat 22:17, 22:19 / Mar 12:14 'exestin dounai kēnson Kaisari?'.
+Belasting, hoofdgeld, cijns. Concordant: 'cijns'. Mat 17:25 'lambanousin telē ē kēnson'; Mat 22:17, 22:19 / Mar 12:14 'exestin dounai kēnson Kaisari?'.
 
 **Vindplaatsen:**
 
@@ -37676,7 +37676,7 @@ Ark, kist. Concordant: 'ark'. Mat 24:38 / Lukas 17:27 (Noachs-ark 'eis tēn kib�
 ## G2788 — κιθάρα (kithara) — "citer"
 *Woordsoort:* zn | *Voorkomens:* 4 | *Stamfamilie:* G2789 kitharizō, G2790 kitharōidos
 
-Citer, harp. Grieks-leenwoord (Latijn cithara, basis-voor 'gitaar'). Concordant: 'citer'. 1 Kor 14:7 'eite aulos eite kithara' (instrumenten-vergelijking). Op 5:8 (vier-dieren-en-oudsten 'echontes hekastos kitharan'); Op 14:2 'hōs kitharōidōn kitharizontōn'; Op 15:2 'echontas kitharas tou theou' (overwinnaars-zee-van-glas).
+Citer, harp. Concordant: 'citer'. 1 Kor 14:7 'eite aulos eite kithara' (instrumenten-vergelijking). Op 5:8 (vier-dieren-en-oudsten 'echontes hekastos kitharan'); Op 14:2 'hōs kitharōidōn kitharizontōn'; Op 15:2 'echontas kitharas tou theou' (overwinnaars-zee-van-glas).
 
 **Vindplaatsen:**
 
@@ -37866,7 +37866,7 @@ Klauda. Klein-eiland-Kreta. Eenmaal NT. Concordant: 'Klauda'. Hand 27:16 (Paulus
 ## G2803 — Κλαυδία (klaudia) — "Claudia"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Claudia. Latijns-leenwoord. Romeinse-zuster. Eenmaal NT. Concordant: 'Claudia'. 2 Tim 4:21 (paar-met-Linos 'Linos kai Klaudia').
+Claudia. Romeinse-zuster. Eenmaal NT. Concordant: 'Claudia'. 2 Tim 4:21 (paar-met-Linos 'Linos kai Klaudia').
 
 **Vindplaatsen:**
 
@@ -37877,7 +37877,7 @@ Claudia. Latijns-leenwoord. Romeinse-zuster. Eenmaal NT. Concordant: 'Claudia'. 
 ## G2804 — Κλαύδιος (klaudios) — "Claudius"
 *Woordsoort:* eigennaam | *Voorkomens:* 3
 
-Claudius. Latijns-leenwoord. Twee-figuren-NT: keizer-Romeins (Hand 11, 18) en tribuun-Lysias (Hand 23). Concordant: 'Claudius'. Hand 11:28 (Agabus-profetie 'limon megalēn... epi Klaudiou'); Hand 18:2 (Aquila-Priscilla 'dia to diatetachenai Klaudion'). Hand 23:26 'Klaudios Lusias tōi kratistōi hēgemoni Phēliki'.
+Claudius. Twee-figuren-NT: keizer-Romeins (Hand 11, 18) en tribuun-Lysias (Hand 23). Concordant: 'Claudius'. Hand 11:28 (Agabus-profetie 'limon megalēn... epi Klaudiou'); Hand 18:2 (Aquila-Priscilla 'dia to diatetachenai Klaudion'). Hand 23:26 'Klaudios Lusias tōi kratistōi hēgemoni Phēliki'.
 
 **Vindplaatsen:**
 
@@ -38023,7 +38023,7 @@ Rank, twijg-van-wijnstok. Concordant: 'rank'. Vrijwel uitsluitend Joh 15:2-6 (vi
 ## G2815 — Κλήμης (klēmēs) — "Klemens"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Klemens. Latijns-leenwoord 'mild'. Filippisch-broeder. Eenmaal NT. Concordant: 'Klemens'. Fil 4:3 (Paulus-Filippi 'meta kai Klēmentos kai tōn loipōn sunergōn mou').
+Klemens. Filippisch-broeder. Eenmaal NT. Concordant: 'Klemens'. Fil 4:3 (Paulus-Filippi 'meta kai Klēmentos kai tōn loipōn sunergōn mou').
 
 **Vindplaatsen:**
 
@@ -38294,7 +38294,7 @@ Knidus. Klein-Aziatische-stad. Eenmaal NT. Concordant: 'Knidus'. Hand 27:7 (Paul
 ## G2835 — κοδράντης (kodrantēs) — "kwadrant"
 *Woordsoort:* zn | *Voorkomens:* 2
 
-Quadrans (Romeinse-kleinste-koperen-munt = kwart-as). Latijns-leenwoord. Twee-maal NT. Concordant: 'kwadrant'. Mat 5:26 (Bergrede 'heōs an apodōis ton eschaton kodrantēn'). Mar 12:42 (weduwe-twee-penningen 'lepta duo, ho estin kodrantēs').
+Quadrans (Romeinse-kleinste-koperen-munt = kwart-as). Twee-maal NT. Concordant: 'kwadrant'. Mat 5:26 (Bergrede 'heōs an apodōis ton eschaton kodrantēn'). Mar 12:42 (weduwe-twee-penningen 'lepta duo, ho estin kodrantēs').
 
 **Vindplaatsen:**
 
@@ -38661,7 +38661,7 @@ Bad, zwembad, water-reservoir. Concordant: 'zwem-bad'. Joh 5:2-7 (vier maal — 
 ## G2862 — κολωνία (kolōnia) — "kolonie"
 *Woordsoort:* zn | *Voorkomens:* 1
 
-Romeinse-kolonie. Latijns-leenwoord. Eenmaal NT. Concordant: 'kolonie'. Hand 16:12 (Filippi 'hētis estin prōtēs meridos tēs Makedonias polis, kolōnia').
+Romeinse-kolonie. Eenmaal NT. Concordant: 'kolonie'. Hand 16:12 (Filippi 'hētis estin prōtēs meridos tēs Makedonias polis, kolōnia').
 
 **Vindplaatsen:**
 
@@ -38938,7 +38938,7 @@ Korinthe. Romeinse hoofdstad provincie Achaje. Concordant: 'Korinthe'. Hand 18:1
 ## G2883 — Κορνήλιος (kornēlios) — "Cornelius"
 *Woordsoort:* eigennaam | *Voorkomens:* 10
 
-Cornelius. Latijn leenwoord. Romeinse hekatontarchos van Italische cohort te Caesarea, eerste heiden-gelovige (Hand 10:1-31).
+Cornelius. Romeinse hekatontarchos van Italische cohort te Caesarea, eerste heiden-gelovige (Hand 10:1-31).
 
 **Vindplaatsen:**
 
@@ -39040,7 +39040,7 @@ Oorspronkelijk 'ordening-sieraad', in NT vier lagen: (1) universum-schepping (ho
 ## G2890 — Κούαρτος (kouartos) — "Kwartus"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Kwartus. Latijns-leenwoord 'vierde'. Korinthische-broeder. Eenmaal NT. Concordant: 'Kwartus'. Rom 16:23 (Paulus-Romeinen-groet 'Kouartos ho adelphos').
+Kwartus. Korinthische-broeder. Eenmaal NT. Concordant: 'Kwartus'. Rom 16:23 (Paulus-Romeinen-groet 'Kouartos ho adelphos').
 
 **Vindplaatsen:**
 
@@ -39062,7 +39062,7 @@ Koum (Aramees 'sta-op'). Hebreeuws-leenwoord. Eenmaal NT. Concordant: 'koemi'. M
 ## G2892 — κουστωδία (koustōdia) — "Romeinse-wacht"
 *Woordsoort:* zn | *Voorkomens:* 3
 
-Romeinse-bewakingseenheid. Latijns-leenwoord (custodia). Onderscheid van G5438 phulakē (gevangenis-of-wacht-algemeen). Concordant: 'Romeinse-wacht'. Vrijwel uitsluitend graf-bewaking Mat 27-28: Mat 27:65-66 (twee maal — Pilatus 'echete koustōdian'); Mat 28:11 'tines tēs koustōdias'.
+Romeinse-bewakingseenheid. Onderscheid van G5438 phulakē (gevangenis-of-wacht-algemeen). Concordant: 'Romeinse-wacht'. Vrijwel uitsluitend graf-bewaking Mat 27-28: Mat 27:65-66 (twee maal — Pilatus 'echete koustōdian'); Mat 28:11 'tines tēs koustōdias'.
 
 **Vindplaatsen:**
 
@@ -39098,7 +39098,7 @@ Mand, draagmand. Concordant: 'rieten-mand' om onderscheid met G4711 spuris (grot
 ## G2895 — κράββατος (krabbatos) — "matras-bed"
 *Woordsoort:* zn | *Voorkomens:* 12
 
-Slaapmat, eenvoudige-matras (van armen). Latijn-vulgair leenwoord. Concordant: 'matras-bed'. Mar 2:4-12 verlamde door-dak-laten-zakken op krabbaton; Mar 6:55, Joh 5:8-11, Hand 5:15, 9:33.
+Slaapmat, eenvoudige-matras (van armen). Concordant: 'matras-bed'. Mar 2:4-12 verlamde door-dak-laten-zakken op krabbaton; Mar 6:55, Joh 5:8-11, Hand 5:15, 9:33.
 
 **Vindplaatsen:**
 
@@ -39141,7 +39141,7 @@ Roes-na-zwelg. Eenmaal NT. Concordant: 'roes-katers'. Lukas 21:34 (eindtijds-zor
 ## G2898 — κρανίον (kranion) — "schedel"
 *Woordsoort:* zn | *Voorkomens:* 4
 
-Schedel. Concordant: 'schedel'. Vrijwel uitsluitend Golgotha-context: Mat 27:33 / Mar 15:22 / Lukas 23:33 / Joh 19:17 (vier maal — 'topon legomenon Golgotha, ho estin kraniou topos legomenos' — Schedel-Plaats / Latijn Calvaria — basis 'Calvarie' Nederlands). Geen-historisch-archeologisch-graf gevonden, lokalisatie omstreden.
+Schedel. Concordant: 'schedel'. Geen-historisch-archeologisch-graf gevonden, lokalisatie omstreden.
 
 **Vindplaatsen:**
 
@@ -39347,7 +39347,7 @@ Kretenzers. Concordant: 'Kretenzers'. Hand 2:11 (Pinksteren-toehoorders 'Krētes
 ## G2913 — Κρήσκης (krēskēs) — "Crescens"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Crescens. Latijns-leenwoord. Paulus-medewerker-naar-Galatië. Eenmaal NT. Concordant: 'Crescens'. 2 Tim 4:10 (Paulus-Timotheüs 'Krēskēs eis Galatian').
+Crescens. Paulus-medewerker-naar-Galatië. Eenmaal NT. Concordant: 'Crescens'. 2 Tim 4:10 (Paulus-Timotheüs 'Krēskēs eis Galatian').
 
 **Vindplaatsen:**
 
@@ -39429,7 +39429,7 @@ Lelie. Twee-maal NT. Concordant: 'lelie'. Mat 6:28 / Lukas 12:27 (twee maal — 
 ## G2919 — κρίνω (krinō) — "oordelen-beslissen"
 *Woordsoort:* ww | *Voorkomens:* 114
 
-Werkwoord van oordelen-onderscheiden: (1) beslissen-voornemen (ekrina touto = 'ik besloot dit'), (2) rechterlijk-oordelen-veroordelen (mē krinete = 'oordeelt niet', Matt 7:1), (3) onderscheiden-evalueren, (4) eschatologisch God-oordeelt (ho theos krinei = 'God oordeelt'). Stamfamilie G2920 krisis (oordeel-gericht), G2917 krima (vonnis), G2923 kritēs (rechter). Kernwerkwoord van juridisch-theologisch-veld.
+Werkwoord van oordelen-onderscheiden: (1) beslissen-voornemen (ekrina touto = 'ik besloot dit'), (2) rechterlijk-oordelen-veroordelen (mē krinete = 'oordeelt niet', Matt 7:1), (3) onderscheiden-evalueren, (4) eschatologisch God-oordeelt (ho theos krinei = 'God oordeelt'). Stamfamilie G2920 krisis (oordeel-gericht), G2917 krima (vonnis), G2923 kritēs (rechter). Kernwerkwoord van juridisch-veld.
 
 **Vindplaatsen:**
 
@@ -39477,7 +39477,7 @@ Zelfstandig naamwoord-afgeleide van krinō: oordeel, oordeelsproces, gerecht. Co
 ## G2921 — Κρίσπος (krispos) — "Krispus"
 *Woordsoort:* eigennaam | *Voorkomens:* 2
 
-Krispus. Latijns-leenwoord 'krullenbol'. Synagoge-overste-Korinthe. Twee-maal NT. Concordant: 'Krispus'. Hand 18:8 (Korinthe 'Krispos de ho archisunagōgos episteusen tōi kuriōi'). 1 Kor 1:14 'ouk eboptisa ei mē Krispon kai Gaion'.
+Krispus. Synagoge-overste-Korinthe. Twee-maal NT. Concordant: 'Krispus'. Hand 18:8 (Korinthe 'Krispos de ho archisunagōgos episteusen tōi kuriōi'). 1 Kor 1:14 'ouk eboptisa ei mē Krispon kai Gaion'.
 
 **Vindplaatsen:**
 
@@ -39937,7 +39937,7 @@ Cyrene. Stad-Libië. Eenmaal NT. Concordant: 'Cyrene'. Hand 2:10 (paar-met-Libu�
 ## G2958 — Κυρήνιος (kurēnios) — "Quirinius"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Quirinius. Latijns-leenwoord. Romeinse-stadhouder-Syrië. Eenmaal NT. Concordant: 'Quirinius'. Lukas 2:2 (volkstelling 'hēgemoneuontos tēs Surias Kurēniou').
+Quirinius. Romeinse-stadhouder-Syrië. Eenmaal NT. Concordant: 'Quirinius'. Lukas 2:2 (volkstelling 'hēgemoneuontos tēs Surias Kurēniou').
 
 **Vindplaatsen:**
 
@@ -40431,7 +40431,7 @@ Uit-rots-gekapt. Eenmaal NT. Concordant: 'uit-rots-gehouwen'. Lukas 23:53 (kernt
 ## G2992 — λαός (laos) — "volk-Volk-van-God"
 *Woordsoort:* zn | *Voorkomens:* 143
 
-Volk — technisch-theologisch gebruik: (1) Israël als Gods-verkoren-volk (ho laos tou theou = 'het volk van God', laos mou = 'mijn volk' — LXX-Hebreeuws 'am-formule), (2) uitbreiding naar gemeente als nieuw-laos (1 Pet 2:9-10), (3) algemene 'volksmenigte' (zeldzaam). Onderscheiden van G1484 ethnos (heidenen/volken) en G3793 ochlos (menigte).
+Volk — technisch gebruik: (1) Israël als Gods-verkoren-volk (ho laos tou theou = 'het volk van God', laos mou = 'mijn volk' — LXX-Hebreeuws 'am-formule), (2) uitbreiding naar gemeente als nieuw-laos (1 Pet 2:9-10), (3) algemene 'volksmenigte' (zeldzaam). Onderscheiden van G1484 ethnos (heidenen/volken) en G3793 ochlos (menigte).
 
 **Vindplaatsen:**
 
@@ -40581,7 +40581,7 @@ Lebbeüs. Aramees-leenwoord 'hartelijke'. Apostel-Lebbeüs (= Thaddeüs = Judas-
 ## G3003 — λεγεών (legeōn) — "legioen"
 *Woordsoort:* zn | *Voorkomens:* 4
 
-Legioen (Romeinse legereenheid ~6000 manschappen). Latijn-leenwoord. Concordant: 'legioen'. Mat 26:53 'pleiō dōdeka legeōnas angelōn' (twaalf-legioenen-engelen). Mar 5:9-15 / Lukas 8:30 'legeōn onoma moi' (Gerasener-bezetene).
+Legioen (Romeinse legereenheid ~6000 manschappen). Concordant: 'legioen'. Mat 26:53 'pleiō dōdeka legeōnas angelōn' (twaalf-legioenen-engelen). Mar 5:9-15 / Lukas 8:30 'legeōn onoma moi' (Gerasener-bezetene).
 
 **Vindplaatsen:**
 
@@ -40715,7 +40715,7 @@ Openbaar-dienaar, ambtelijke-bedienaar. Zelfstandig naamwoord-stam-verwant met l
 ## G3012 — λέντιον (lention) — "hand-linnen"
 *Woordsoort:* zn | *Voorkomens:* 2
 
-Lention (Latijns linteum). Doek-handdoek-voor-bedienaar. Onderscheid van G4616 sindōn (linnen-laken). Twee-maal NT. Concordant: 'hand-linnen'. Joh 13:4-5 (twee maal — voetwassings-pericoop 'labōn lention diezōsen heauton... ekmassein tōi lentiōi hōi ēn diezōsmenos').
+Doek-handdoek-voor-bedienaar. Onderscheid van G4616 sindōn (linnen-laken). Twee-maal NT. Concordant: 'hand-linnen'. Joh 13:4-5 (twee maal — voetwassings-pericoop 'labōn lention diezōsen heauton... ekmassein tōi lentiōi hōi ēn diezōsmenos').
 
 **Vindplaatsen:**
 
@@ -40966,7 +40966,7 @@ Wierookvat. Twee-maal NT. Concordant: 'wierook-vat'. Op 8:3-5 (twee maal — geb
 ## G3032 — Λιβερτῖνος (libertinos) — "Libertijnen"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Libertijnen (vrijgelaten-Joodse-slaven-Rome). Latijns-leenwoord. Eenmaal NT. Concordant: 'Libertijnen'. Hand 6:9 (Stefanus-disputatie 'tinēs tōn ek tēs sunagōgēs tēs legomenēs Libertinōn').
+Libertijnen (vrijgelaten-Joodse-slaven-Rome). Eenmaal NT. Concordant: 'Libertijnen'. Hand 6:9 (Stefanus-disputatie 'tinēs tōn ek tēs sunagōgēs tēs legomenēs Libertinōn').
 
 **Vindplaatsen:**
 
@@ -41425,7 +41425,7 @@ Voorts-eindelijk. Bijwoord-stam-loipos-familie. Eenmaal NT (genitief). Concordan
 ## G3065 — Λουκᾶς (loukas) — "Lukas"
 *Woordsoort:* eigennaam | *Voorkomens:* 4
 
-Lukas. Auteur-derde-evangelie en Hand. Latijnse-naam. Concordant: 'Lukas'. Kol 4:14 'Loukas ho iatros ho agapētos' (Lukas-de-arts-de-geliefde). 2 Tim 4:11 'Loukas estin monos met' emou' (Paulus-laatste-brief-Lukas-alleen-mij-bij). Filemon 1:24 'Markos, Aristarchos, Dēmas, Loukas, hoi sunergoi mou'.
+Lukas. Auteur-derde-evangelie en Hand. Concordant: 'Lukas'. Kol 4:14 'Loukas ho iatros ho agapētos' (Lukas-de-arts-de-geliefde). 2 Tim 4:11 'Loukas estin monos met' emou' (Paulus-laatste-brief-Lukas-alleen-mij-bij). Filemon 1:24 'Markos, Aristarchos, Dēmas, Loukas, hoi sunergoi mou'.
 
 **Vindplaatsen:**
 
@@ -41439,7 +41439,7 @@ Lukas. Auteur-derde-evangelie en Hand. Latijnse-naam. Concordant: 'Lukas'. Kol 4
 ## G3066 — Λούκιος (loukios) — "Lucius"
 *Woordsoort:* eigennaam | *Voorkomens:* 2
 
-Lucius. Latijns-leenwoord. Twee-figuren-NT: profeet-Antiochië en Pauli-bloedverwant. Twee-maal NT. Concordant: 'Lucius'. Hand 13:1 (Antiochië-profeten 'Loukios ho Kurēnaios'). Rom 16:21 (Paulus-groet 'Loukios kai Iasōn kai Sōsipatros hoi suggeneis mou').
+Lucius. Twee-figuren-NT: profeet-Antiochië en Pauli-bloedverwant. Twee-maal NT. Concordant: 'Lucius'. Hand 13:1 (Antiochië-profeten 'Loukios ho Kurēnaios'). Rom 16:21 (Paulus-groet 'Loukios kai Iasōn kai Sōsipatros hoi suggeneis mou').
 
 **Vindplaatsen:**
 
@@ -41604,7 +41604,7 @@ Lysanias. Hellenistisch-Griekse-naam. Tetrarch-Abilene. Eenmaal NT. Concordant: 
 ## G3079 — Λυσίας (lusias) — "Lysias"
 *Woordsoort:* eigennaam | *Voorkomens:* 3
 
-Lysias. Latijns-leenwoord. Romeinse-tribuun-Klaudius-Lysias. Concordant: 'Lysias'. Vrijwel uitsluitend Paulus-arrestatie-Jeruzalem Hand 23-24 (drie maal — 'Klaudios Lusias tōi kratistōi hēgemoni Phēliki... ho chiliarchos elthōn Lusias... epelthōn de Lusias ho chiliarchos').
+Lysias. Romeinse-tribuun-Klaudius-Lysias. Concordant: 'Lysias'. Vrijwel uitsluitend Paulus-arrestatie-Jeruzalem Hand 23-24 (drie maal — 'Klaudios Lusias tōi kratistōi hēgemoni Phēliki... ho chiliarchos elthōn Lusias... epelthōn de Lusias ho chiliarchos').
 
 **Vindplaatsen:**
 
@@ -42011,7 +42011,7 @@ Macedoniër. Concordant: 'Macedonisch-man'. Hand 16:9 'anēr Makedōn tis ēn he
 ## G3111 — μάκελλον (makellon) — "vlees-markt"
 *Woordsoort:* zn | *Voorkomens:* 1
 
-Vleesmarkt. Latijns-leenwoord 'macellum'. Eenmaal NT. Concordant: 'vlees-markt'. 1 Kor 10:25 (Paulus-Korinthe-eten 'pan to en makellōi pōloumenon esthiete').
+Vleesmarkt. Eenmaal NT. Concordant: 'vlees-markt'. 1 Kor 10:25 (Paulus-Korinthe-eten 'pan to en makellōi pōloumenon esthiete').
 
 **Vindplaatsen:**
 
@@ -42385,7 +42385,7 @@ Maria. Hebreeuws/Aramees leenwoord (Mirjam, H4813). NT kent meerdere Maria's: mo
 ## G3138 — Μᾶρκος (markos) — "Markus"
 *Woordsoort:* eigennaam | *Voorkomens:* 8
 
-(Johannes) Markus. Latijn leenwoord. Reisgenoot van Paulus / Barnabas, neef van Barnabas, traditioneel auteur tweede evangelie, secretaris van Petrus. Hand 12:12, 12:25, 15:37-39 'Iōannēn ton epikaloumenon Markon'. Kol 4:10; Filemon 1:24; 2 Tim 4:11; 1 Pet 5:13 'Markos ho huios mou'.
+(Johannes) Markus. Reisgenoot van Paulus / Barnabas, neef van Barnabas, traditioneel auteur tweede evangelie, secretaris van Petrus. Hand 12:12, 12:25, 15:37-39 'Iōannēn ton epikaloumenon Markon'. Kol 4:10; Filemon 1:24; 2 Tim 4:11; 1 Pet 5:13 'Markos ho huios mou'.
 
 **Vindplaatsen:**
 
@@ -42411,7 +42411,7 @@ Op 18:12 — En van marmarou: Marmer (gepolijste-steen).
 ## G3140 — μαρτυρέω (martureō) — "getuigen-getuigenis-geven"
 *Woordsoort:* ww | *Voorkomens:* 79
 
-Werkwoord van getuigenis-afleggen: (1) juridisch-bevestigend-getuigen (martureō peri = 'getuig over'), (2) Johanneïsch-theologisch-getuigenis-van-Christus (egō ho marturōn = 'Ik ben Mijn eigen getuige', Joh 8:18 en ho patēr martureō = 'de Vader getuigt', veelvuldig Joh 5), (3) bevestigen-bewijzen (memartuēkas kai ēxeis = 'gij hebt getuigd en zult getuigen', Hand 23:11). Stamfamilie G3144 martus (getuige), G3141 marturia (getuigenis), G3142 marturion (bewijs).
+Werkwoord van getuigenis-afleggen: (1) juridisch-bevestigend-getuigen (martureō peri = 'getuig over'), (2) Johanneïsch-getuigenis-van-Christus (egō ho marturōn = 'Ik ben Mijn eigen getuige', Joh 8:18 en ho patēr martureō = 'de Vader getuigt', veelvuldig Joh 5), (3) bevestigen-bewijzen (memartuēkas kai ēxeis = 'gij hebt getuigd en zult getuigen', Hand 23:11). Stamfamilie G3144 martus (getuige), G3141 marturia (getuigenis), G3142 marturion (bewijs).
 
 **Vindplaatsen:**
 
@@ -42490,7 +42490,7 @@ Plechtig-getuige-roepen, betuigen. Onderscheid van G3140 martureō (getuigen-alg
 ## G3144 — μάρτυς (martus) — "getuige"
 *Woordsoort:* zn | *Voorkomens:* 34 | *Stamfamilie:* G3140 martureō, G3141 marturia, G3142 marturion
 
-Getuige. Concordant: 'getuige' — wie verklaart wat hij heeft waargenomen. In NT ook 'martelaar' in ontwikkeling (Hand 22:20 Stefanus, Op 2:13 Antipas) — basis van Nederlands 'martelaar' = getuige-tot-de-dood. Stam mart- = onthouden, gedenken (Indo-Europese stam mer-).
+Getuige. Concordant: 'getuige' — wie verklaart wat hij heeft waargenomen. In NT ook 'martelaar' in ontwikkeling (Hand 22:20 Stefanus, Op 2:13 Antipas) — basis van Nederlands 'martelaar' = getuige-tot-de-dood.
 
 **Vindplaatsen:**
 
@@ -43247,7 +43247,7 @@ Onpersoonlijk: 'het is een zorg / het gaat ter harte'. Concordant: 'is-zorg'. Ma
 ## G3200 — μεμβράνα (membrana) — "perka-ment"
 *Woordsoort:* zn | *Voorkomens:* 1
 
-Perkament. Latijns-leenwoord 'membrana'. Eenmaal NT. Concordant: 'perka-ment'. 2 Tim 4:13 (Paulus-Timotheüs 'malista tas membranas').
+Perkament. Eenmaal NT. Concordant: 'perka-ment'. 2 Tim 4:13 (Paulus-Timotheüs 'malista tas membranas').
 
 **Vindplaatsen:**
 
@@ -43812,7 +43812,7 @@ Samenstelling meta (van-toestand-naar-toestand) + morphoō (vormgeven). Concorda
 ## G3340 — μετανοέω (metanoeō) — "achterna-denken"
 *Woordsoort:* ww | *Voorkomens:* 34 | *Stamfamilie:* G3326 meta, G3539 noeō, G3341 metanoia
 
-Samenstelling meta (na, achterna) + noeō (denken): achterna-denken, van-mening-veranderen. Concordant: 'achterna-denken' waar stam-trouw, 'bekeren' bij theologische context. Kern is denk-omkeer, niet primair gedrags-omkeer (dat is G1994 epistrephō). Beide samen: bekering = denk-omkeer + handelings-omkeer. Substantief G3341 metanoia.
+Samenstelling meta (na, achterna) + noeō (denken): achterna-denken, van-mening-veranderen. Concordant: 'achterna-denken' waar stam-trouw, 'bekeren' bij geestelijk gebruik. Kern is denk-omkeer, niet primair gedrags-omkeer (dat is G1994 epistrephō). Beide samen: bekering = denk-omkeer + handelings-omkeer. Substantief G3341 metanoia.
 
 **Vindplaatsen:**
 
@@ -43828,7 +43828,7 @@ Samenstelling meta (na, achterna) + noeō (denken): achterna-denken, van-mening-
 ## G3341 — μετάνοια (metanoia) — "achterna-denken"
 *Woordsoort:* zn | *Voorkomens:* 24 | *Stamfamilie:* G3340 metanoeō
 
-Zelfstandig naamwoord-afgeleide van metanoeō: denk-omkeer, bekering. Concordant: 'achterna-denken' waar stam-getrouw, 'bekering' bij theologische context. Niet primair gedrags-omkeer (= G1994 epistrophē) maar zinsverandering.
+Zelfstandig naamwoord-afgeleide van metanoeō: denk-omkeer, bekering. Concordant: 'achterna-denken' waar stam-getrouw, 'bekering' bij geestelijk gebruik. Niet primair gedrags-omkeer (= G1994 epistrophē) maar zinsverandering.
 
 **Vindplaatsen:**
 
@@ -44576,7 +44576,7 @@ Milete. Klein-Aziatische-haven-stad-Caria. Concordant: 'Milete'. Hand 20:15-17 (
 ## G3400 — μίλιον (milion) — "mijl"
 *Woordsoort:* zn | *Voorkomens:* 1
 
-Romeinse-mijl (1000 stappen). Latijns-leenwoord. Eenmaal NT. Concordant: 'mijl'. Mat 5:41 (kerntekst-Bergrede 'hostis se aggareusei milion hen, hupage met' autou duo').
+Romeinse-mijl (1000 stappen). Eenmaal NT. Concordant: 'mijl'. Mat 5:41 (kerntekst-Bergrede 'hostis se aggareusei milion hen, hupage met' autou duo').
 
 **Vindplaatsen:**
 
@@ -44928,7 +44928,7 @@ Met-moeite, nauwelijks. Eenmaal NT. Concordant: 'met-moeite'. Lukas 9:39 (varian
 ## G3426 — μόδιος (modios) — "koren-maat"
 *Woordsoort:* zn | *Voorkomens:* 3
 
-Korenmaat (Romeins-modius, circa 8.75 liter). Latijns-leenwoord. Concordant: 'koren-maat'. Vrijwel uitsluitend lamp-onder-korenmaat-pericoop synoptici: Mat 5:15 / Mar 4:21 / Lukas 11:33 (drie maal — 'oude kaiousin luchnon kai tithoasin auton hupo ton modion').)
+Korenmaat (Romeins-modius, circa 8.75 liter). Concordant: 'koren-maat'. Vrijwel uitsluitend lamp-onder-korenmaat-pericoop synoptici: Mat 5:15 / Mar 4:21 / Lukas 11:33 (drie maal — 'oude kaiousin luchnon kai tithoasin auton hupo ton modion').)
 
 **Vindplaatsen:**
 
@@ -46008,7 +46008,7 @@ Pas-geplant-(nieuwbekeerd). Samenstelling neos + phutos. Eenmaal NT. Concordant:
 ## G3505 — Νέρων (nerōn) — "Nero"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Nero. Latijns-leenwoord. Romeinse-keizer-bij-Paulus' tweede-gevangenschap. Eenmaal NT (variant-onderschrift). Concordant: 'Nero'. 2 Tim-onderschrift (variant 'epi Nerōnos').
+Nero. Romeinse-keizer-bij-Paulus' tweede-gevangenschap. Eenmaal NT (variant-onderschrift). Concordant: 'Nero'. 2 Tim-onderschrift (variant 'epi Nerōnos').
 
 **Vindplaatsen:**
 
@@ -46269,7 +46269,7 @@ Nuchter-zijn, niet-bedwelmd-zijn, waakzaam-zijn-met-helder-hoofd. Concordant: 'n
 ## G3526 — Νίγερ (niger) — "Niger"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Niger (Latijns 'zwart'). Bijnaam-Simeon-Antiochië. Eenmaal NT. Concordant: 'Niger'. Hand 13:1 (Antiochië-profeten 'Sumeōn ho kaloumenos Niger').
+Bijnaam-Simeon-Antiochië. Eenmaal NT. Concordant: 'Niger'. Hand 13:1 (Antiochië-profeten 'Sumeōn ho kaloumenos Niger').
 
 **Vindplaatsen:**
 
@@ -47000,7 +47000,7 @@ Vreemd, vreemdeling. Concordant: 'vreemde'. Drie lagen: (1) onbekend / vreemd-aa
 ## G3582 — ξέστης (xestēs) — "kruik-maat"
 *Woordsoort:* zn | *Voorkomens:* 2
 
-Maat-kruik (Romeinse-sextarius, ca 0,5 liter). Latijns-leenwoord. Twee-maal NT. Concordant: 'kruik-maat'. Mar 7:4 (twee maal — Farizeërs-rituele-wassingen 'baptismous potēriōn kai xestōn').
+Maat-kruik (Romeinse-sextarius, ca 0,5 liter). Twee-maal NT. Concordant: 'kruik-maat'. Mar 7:4 (twee maal — Farizeërs-rituele-wassingen 'baptismous potēriōn kai xestōn').
 
 **Vindplaatsen:**
 
@@ -49793,7 +49793,7 @@ Hemel op drie niveaus in NT-Joodse kosmologie: (1) atmosferische hemel met vogel
 ## G3773 — Οὐρβανός (ourbanos) — "Urbanus"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Urbanus. Latijns-leenwoord 'stedeling'. Romeinse-broeder. Eenmaal NT. Concordant: 'Urbanus'. Rom 16:9 (Paulus-groet 'aspasasthe Ourbanon ton sunergon hēmōn').
+Urbanus. Romeinse-broeder. Eenmaal NT. Concordant: 'Urbanus'. Rom 16:9 (Paulus-groet 'aspasasthe Ourbanon ton sunergon hēmōn').
 
 **Vindplaatsen:**
 
@@ -51019,7 +51019,7 @@ Aanhoudende-twist. Eenmaal NT (variant). Concordant: 'naast-aanhoudende-twist'. 
 ## G3860 — παραδίδωμι (paradidōmi) — "overleveren-overdragen"
 *Woordsoort:* ww | *Voorkomens:* 121 | *Stamfamilie:* G3844, G1325
 
-Samenstelling para + didōmi 'naast-geven/over-geven': (1) overleveren-in-handen-van (paredōken auton tōi Pilatōi = 'hij leverde Hem over aan Pilatus'), (2) traditie-overdragen (ha paradidoō humin = 'wat ik u overdraag', 1 Kor 11 — rabbijns masoret-parallel), (3) inleveren-uitleveren-aan-dood (paradidōmi to sōma = 'het lichaam prijsgeven'), (4) verraden (ho paradidous auton = 'die Hem overleverde' = Judas). Stamfamilie G3862 paradosis (overlevering-traditie).
+Samenstelling para + didōmi 'naast-geven/over-geven': (1) overleveren-in-handen-van (paredōken auton tōi Pilatōi = 'hij leverde Hem over aan Pilatus'), (2) traditie-overdragen (ha paradidoō humin = 'wat ik u overdraag', 1 Kor 11), (3) inleveren-uitleveren-aan-dood (paradidōmi to sōma = 'het lichaam prijsgeven'), (4) verraden (ho paradidous auton = 'die Hem overleverde' = Judas). Stamfamilie G3862 paradosis (overlevering-traditie).
 
 **Vindplaatsen:**
 
@@ -51593,7 +51593,7 @@ Toebereiden, gereedmaken. Samenstelling para + skeuē. Concordant: 'naast-toeber
 ## G3904 — παρασκευή (paraskeuē) — "voor-bereiding"
 *Woordsoort:* zn | *Voorkomens:* 6 | *Stamfamilie:* G2680 kataskeuazō, G3844 para
 
-Voorbereiding (technisch: vrijdag = voorbereidings-dag voor sabbat). Concordant: 'voor-bereiding'. Mat 27:62 'tēi de epaurion, hētis estin meta tēn paraskeuēn'; Mar 15:42; Lukas 23:54 'hēmera ēn paraskeuēs'; Joh 19:14, 19:31, 19:42 'dia tēn paraskeuēn tōn Ioudaiōn'. Latijn-vorm: 'parasceve'.
+Voorbereiding (technisch: vrijdag = voorbereidings-dag voor sabbat). Concordant: 'voor-bereiding'. Mat 27:62 'tēi de epaurion, hētis estin meta tēn paraskeuēn'; Mar 15:42; Lukas 23:54 'hēmera ēn paraskeuēs'; Joh 19:14, 19:31, 19:42 'dia tēn paraskeuēn tōn Ioudaiōn'.
 
 **Vindplaatsen:**
 
@@ -52373,7 +52373,7 @@ Treden, betreden, vertreden. Concordant: 'treden'. Lukas 10:19 'patein epanō op
 ## G3962 — πατήρ (patēr) — "vader-Vader"
 *Woordsoort:* zn | *Voorkomens:* 419
 
-Vader — natuurlijk (patēr kata sarka = 'vader naar het vlees'), geestelijk (patēr pneumatikos), voorvader (patēr hēmōn Abraam = 'onze vader Abraham'), en theologisch God-de-Vader (ho patēr, ho patēr mou, patēr tou kuriou hēmōn). Context en lidwoord bepaalt referent.
+Vader — natuurlijk (patēr kata sarka = 'vader naar het vlees'), geestelijk (patēr pneumatikos), voorvader (patēr hēmōn Abraam = 'onze vader Abraham'), en God-de-Vader (ho patēr, ho patēr mou, patēr tou kuriou hēmōn). Context en lidwoord bepaalt referent.
 
 **Vindplaatsen:**
 
@@ -52515,7 +52515,7 @@ Van-de-vaderen-overgeleverd. Concordant: 'vader-lijk-overgeleverd'. Drie-maal NT
 ## G3972 — Παῦλος (paulos) — "Paulus-eigennaam"
 *Woordsoort:* zn | *Voorkomens:* 164
 
-Eigennaam Paulus — Romeins cognomen-naam betekenend 'klein/gering' (Latijn paulus). Hebreeuwse naam Saulos (Saul) pre-bekering, na-bekering Paulos (Hand 13:9 transitie). Centrale figuur Hand 13-28 en auteur van dertien of veertien brieven (Heb-auteurschap betwist). Apostel tōn ethnōn.
+Hebreeuwse naam Saulos (Saul) pre-bekering, na-bekering Paulos (Hand 13:9 transitie). Centrale figuur Hand 13-28 en auteur van dertien of veertien brieven (Heb-auteurschap betwist). Apostel tōn ethnōn.
 
 **Vindplaatsen:**
 
@@ -54093,7 +54093,7 @@ Bitter-lijk. Bijwoord-vorm van pikros. Twee-maal NT. Concordant: 'bitter-lijk'. 
 ## G4091 — Πιλᾶτος (pilatos) — "Pilatus"
 *Woordsoort:* eigennaam | *Voorkomens:* 55
 
-Pontius Pilatus, Romeins prefect van Judea (26-36 n.Chr.). Latijn leenwoord. Concordant: 'Pilatus'.
+Pontius Pilatus, Romeins prefect van Judea (26-36 n.Chr.). Concordant: 'Pilatus'.
 
 **Vindplaatsen:**
 
@@ -55005,7 +55005,7 @@ Op 7:14 — eplunan hun klederen: Uit-Wassen (kledij-wassen vs niptō lichaam).
 ## G4151 — πνεῦμα (pneuma) — "geest-adem-wind"
 *Woordsoort:* zn | *Voorkomens:* 385
 
-Drielagig basisbegrip: (1) wind-beweging (pneuma pneon = 'een waaiende wind'), (2) adem-levensbeginsel (pneuma zōēs = 'levensadem'), (3) geest-persoonskern menselijk (to pneuma mou = 'mijn geest') of bovennatuurlijk (pneuma akatharton = 'onreine geest'). Theologisch to pneuma to hagion = 'de Heilige Geest'. Context-disambiguatie essentieel.
+Drielagig basisbegrip: (1) wind-beweging (pneuma pneon = 'een waaiende wind'), (2) adem-levensbeginsel (pneuma zōēs = 'levensadem'), (3) geest-persoonskern menselijk (to pneuma mou = 'mijn geest') of bovennatuurlijk (pneuma akatharton = 'onreine geest'). to pneuma to hagion = 'de Heilige Geest'. Context-disambiguatie essentieel.
 
 **Vindplaatsen:**
 
@@ -55345,7 +55345,7 @@ Oorlog, strijd, gevecht. Concordant: 'oorlog'. Drie lagen: (1) letterlijke oorlo
 ## G4172 — πόλις (polis) — "stad"
 *Woordsoort:* zn | *Voorkomens:* 164
 
-Stad als bestuurlijke-omsloten-nederzetting (hē polis Dauid = 'de stad van David' = Betlehem of Jeruzalem). In NT meer dan louter geografie: (1) Ierousalēm als theologische-centrum (hē hagia polis = 'de heilige stad'), (2) toekomende-stad-Gods (hē polis tou theou = 'de stad van God', Heb/Openb Nieuw-Jeruzalem). Onderscheiden van G2968 kōmē (dorp).
+Stad als bestuurlijke-omsloten-nederzetting (hē polis Dauid = 'de stad van David' = Betlehem of Jeruzalem). In NT meer dan louter geografie: (1) Ierousalēm als geestelijk centrum (hē hagia polis = 'de heilige stad'), (2) toekomende-stad-Gods (hē polis tou theou = 'de stad van God', Heb/Openb Nieuw-Jeruzalem). Onderscheiden van G2968 kōmē (dorp).
 
 **Vindplaatsen:**
 
@@ -55663,7 +55663,7 @@ Pontisch (van-geboorte). Eenmaal NT. Concordant: 'Pontisch'. Hand 18:2 (Aquila '
 ## G4194 — Πόντιος (pontios) — "Pontius"
 *Woordsoort:* eigennaam | *Voorkomens:* 4
 
-Pontius. Latijn-leenwoord. Voornaam Pilatus. Concordant: 'Pontius'. Mat 27:2 (variant); Lukas 3:1 'hēgemoneuontos Pontiou Pilatou tēs Ioudaias'; Hand 4:27. 1 Tim 6:13 'epi Pontiou Pilatou' (Christus' getuigenis voor-Pilatus).
+Pontius. Voornaam Pilatus. Concordant: 'Pontius'. Mat 27:2 (variant); Lukas 3:1 'hēgemoneuontos Pontiou Pilatou tēs Ioudaias'; Hand 4:27. 1 Tim 6:13 'epi Pontiou Pilatou' (Christus' getuigenis voor-Pilatus).
 
 **Vindplaatsen:**
 
@@ -55689,7 +55689,7 @@ Pontus. Romeinse-provincie-zuid-Zwarte-Zee. Twee-maal NT. Concordant: 'Pontus'. 
 ## G4196 — Πόπλιος (poplios) — "Publius"
 *Woordsoort:* eigennaam | *Voorkomens:* 2
 
-Publius. Latijns-leenwoord. Voornaamste-Malta. Twee-maal NT. Concordant: 'Publius'. Hand 28:7-8 (twee maal — Malta-Paulus 'tōi prōtōi tēs nēsou onomati Popliōi... ton patera tou Popliou').
+Publius. Voornaamste-Malta. Twee-maal NT. Concordant: 'Publius'. Hand 28:7-8 (twee maal — Malta-Paulus 'tōi prōtōi tēs nēsou onomati Popliōi... ton patera tou Popliou').
 
 **Vindplaatsen:**
 
@@ -55758,7 +55758,7 @@ Winst-verwerving. Onderscheid van G4047 peripoiēsis (verwerving-bezit). Twee-ma
 ## G4201 — Πόρκιος (porkios) — "Porcius"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Porcius. Latijns-leenwoord. Voornaam-Festus. Eenmaal NT. Concordant: 'Porcius'. Hand 24:27 (paar-met-Festus 'Porkion Phēston').
+Porcius. Voornaam-Festus. Eenmaal NT. Concordant: 'Porcius'. Hand 24:27 (paar-met-Festus 'Porkion Phēston').
 
 **Vindplaatsen:**
 
@@ -56131,7 +56131,7 @@ Waar? Vraagbijwoord van plaats. Concordant: 'waar' in vraagzinnen. Onderscheid v
 ## G4227 — Πούδης (poudēs) — "Pudens"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Pudens. Latijns-leenwoord 'schaamtevol'. Romeinse-broeder. Eenmaal NT. Concordant: 'Pudens'. 2 Tim 4:21 (paar-met-Euboulos 'Euboulos kai Poudēs').
+Pudens. Romeinse-broeder. Eenmaal NT. Concordant: 'Pudens'. 2 Tim 4:21 (paar-met-Euboulos 'Euboulos kai Poudēs').
 
 **Vindplaatsen:**
 
@@ -56204,7 +56204,7 @@ Handel-drijven. Werkwoord-stam-pragma-familie. Onderscheid van G4238 prassō (ha
 ## G4232 — πραιτώριον (praitōrion) — "praetorium"
 *Woordsoort:* zn | *Voorkomens:* 8
 
-Praetorium (residentie / hoofdkwartier Romeinse-stadhouder). Latijn leenwoord. Concordant: 'praetorium'. Mat 27:27 / Mar 15:16 (Pilatus' praetorium); Joh 18:28-33, 19:9. Hand 23:35 (Herodes' praetorium te Caesarea); Fil 1:13 'en holōi tōi praitōriōi' (Paulus in praetorium-wacht te Rome).
+Praetorium (residentie / hoofdkwartier Romeinse-stadhouder). Concordant: 'praetorium'. Mat 27:27 / Mar 15:16 (Pilatus' praetorium); Joh 18:28-33, 19:9. Hand 23:35 (Herodes' praetorium te Caesarea); Fil 1:13 'en holōi tōi praitōriōi' (Paulus in praetorium-wacht te Rome).
 
 **Vindplaatsen:**
 
@@ -56230,7 +56230,7 @@ Belasting-inner, schatkist-functionaris. Twee-maal NT. Concordant: 'schat-eiser'
 ## G4234 — πρᾶξις (praxis) — "be-drijving"
 *Woordsoort:* zn | *Voorkomens:* 6 | *Stamfamilie:* G4238 prassō
 
-Daad, handelwijze, praktijk. Zelfstandig naamwoord-afgeleide van prassō. Concordant: 'be-drijving'. Mat 16:27 'apodōsei hekastōi kata tēn praxin autou'. Lukas 23:51. Hand 19:18 'exomologoumenoi kai anangellontes tas praxeis autōn'. Rom 8:13 'tas praxeis tou sōmatos thanatoute'; Rom 12:4 'ou tēn autēn echei praxin'. Kol 3:9 'apekdusamenoi ton palaion anthrōpon sun tais praxesin autou'. Basis Nederlands 'praktijk' / 'pragmatisme' / Hand-Praxeis (Latijn).
+Daad, handelwijze, praktijk. Zelfstandig naamwoord-afgeleide van prassō. Concordant: 'be-drijving'. Mat 16:27 'apodōsei hekastōi kata tēn praxin autou'. Lukas 23:51. Hand 19:18 'exomologoumenoi kai anangellontes tas praxeis autōn'. Rom 8:13 'tas praxeis tou sōmatos thanatoute'; Rom 12:4 'ou tēn autēn echei praxin'. Kol 3:9 'apekdusamenoi ton palaion anthrōpon sun tais praxesin autou'.
 
 **Vindplaatsen:**
 
@@ -56465,7 +56465,7 @@ Voordat, eer. Concordant: 'voordat'. Met aoristus-infinitief: Mat 26:75 'prin al
 ## G4251 — Πρίσκα (priska) — "Priska"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Priska. Latijns-leenwoord (kortere-vorm-Priscilla). Vrouw-Aquila. Eenmaal NT. Concordant: 'Priska'. 2 Tim 4:19 (Paulus-Timotheüs-groet 'aspasai Priskan kai Akulan').
+Priska. Vrouw-Aquila. Eenmaal NT. Concordant: 'Priska'. 2 Tim 4:19 (Paulus-Timotheüs-groet 'aspasai Priskan kai Akulan').
 
 **Vindplaatsen:**
 
@@ -56476,7 +56476,7 @@ Priska. Latijns-leenwoord (kortere-vorm-Priscilla). Vrouw-Aquila. Eenmaal NT. Co
 ## G4252 — Πρίσκιλλα (priskilla) — "Priscilla"
 *Woordsoort:* eigennaam | *Voorkomens:* 5
 
-Priscilla. Latijn-leenwoord (verkleinvorm Prisca). Vrouw van Aquila, joods-christelijke tentenmaakster, gemeente-werkster. Hand 18:2-26 (drie maal). Variant Prisca: Rom 16:3, 1 Kor 16:19, 2 Tim 4:19.
+Priscilla. Vrouw van Aquila, joods-christelijke tentenmaakster, gemeente-werkster. Hand 18:2-26 (drie maal). Variant Prisca: Rom 16:3, 1 Kor 16:19, 2 Tim 4:19.
 
 **Vindplaatsen:**
 
@@ -58940,7 +58940,7 @@ Navragen, onderzoekend-vragen, informeren. Concordant: 'na-vragen'. Onderscheid 
 ## G4442 — πῦρ (pur) — "vuur"
 *Woordsoort:* zn | *Voorkomens:* 74
 
-Vuur — letterlijk en theologisch-symbolisch: (1) natuurlijk-vuur (anaptein pur = 'vuur ontsteken'), (2) reinigend-louterings-vuur (pur dokimaseis = 'vuur zal beproeven', 1 Kor 3:13), (3) oordeelsvuur (gehennē tou puros = 'Gehenna-des-vuurs' — eschatologisch-oordeel, Matt 5:22), (4) Heilige-Geest-vuur (glōssai hōsei puros = 'tongen als van vuur', Hand 2:3 Pinksteren), (5) God-zelf-vuur (ho theos hēmōn pur katanaliskon = 'onze God is een verterend vuur', Heb 12:29 — Deut 4:24-citaat).
+Vuur — letterlijk en symbolisch: (1) natuurlijk-vuur (anaptein pur = 'vuur ontsteken'), (2) reinigend-louterings-vuur (pur dokimaseis = 'vuur zal beproeven', 1 Kor 3:13), (3) oordeelsvuur (gehennē tou puros = 'Gehenna-des-vuurs' — eschatologisch-oordeel, Matt 5:22), (4) Heilige-Geest-vuur (glōssai hōsei puros = 'tongen als van vuur', Hand 2:3 Pinksteren), (5) God-zelf-vuur (ho theos hēmōn pur katanaliskon = 'onze God is een verterend vuur', Heb 12:29 — Deut 4:24-citaat).
 
 **Vindplaatsen:**
 
@@ -59409,8 +59409,6 @@ Rebekka. Hebreeuws-leenwoord. Vrouw-Isaak. Eenmaal NT. Concordant: 'Rebekka'. Ro
 ## G4480 — ῥέδα (redōn) — "rij-tuig"
 *Woordsoort:* zn | *Voorkomens:* 1
 
-Op 18:13 — En redōn en lichamen: Reiswagen (Latijns leenwoord raeda).
-
 **Vindplaatsen:**
 
 - Op: 18:13
@@ -59702,7 +59700,7 @@ Ruth. Hebreeuws-leenwoord. Moabitische-overgrootmoeder-David. Eenmaal NT. Concor
 ## G4504 — Ῥοῦφος (rouphos) — "Rufus"
 *Woordsoort:* eigennaam | *Voorkomens:* 2
 
-Rufus. Latijns-leenwoord 'rood'. Zoon-Simon-Cyrene en/of medewerker-Rome. Twee-maal NT. Concordant: 'Rufus'. Mar 15:21 (Simon-van-Cyrene 'patera Alexandrou kai Rouphou'). Rom 16:13 'aspasasthe Rouphon ton eklekton en kuriōi'.
+Rufus. Zoon-Simon-Cyrene en/of medewerker-Rome. Twee-maal NT. Concordant: 'Rufus'. Mar 15:21 (Simon-van-Cyrene 'patera Alexandrou kai Rouphou'). Rom 16:13 'aspasasthe Rouphon ton eklekton en kuriōi'.
 
 **Vindplaatsen:**
 
@@ -60610,7 +60608,7 @@ Object-van-verering. Twee-maal NT. Concordant: 'ver-eersel'. Hand 17:23 (Paulus-
 ## G4575 — Σεβαστός (sebastos) — "Augustus"
 *Woordsoort:* bn | *Voorkomens:* 3 | *Stamfamilie:* G4576 sebomai
 
-Verheven, Eerwaardig (Latijn-Augustus-titel-keizer). Onderscheid van G2152 eusebēs (godvruchtig). Concordant: 'Augustus'. Vrijwel uitsluitend Paulus-Festus-Cesarea Hand 25:21-25 / 27:1 (drie maal — 'tērēthēnai auton eis tēn tou Sebastou diagnōsin... tōi Sebastōi pempein... speiraēs Sebastēs').
+Onderscheid van G2152 eusebēs (godvruchtig). Concordant: 'Augustus'. Vrijwel uitsluitend Paulus-Festus-Cesarea Hand 25:21-25 / 27:1 (drie maal — 'tērēthēnai auton eis tēn tou Sebastou diagnōsin... tōi Sebastōi pempein... speiraēs Sebastēs').
 
 **Vindplaatsen:**
 
@@ -60673,7 +60671,7 @@ Schudden. Concordant: 'schudden'. Mat 21:10 'eseisthē pasa hē polis' (Jeruzale
 ## G4580 — Σεκοῦνδος (sekoundos) — "Secundus"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Secundus. Latijns-leenwoord 'tweede'. Tessalonicenzer-Paulus-medewerker. Eenmaal NT. Concordant: 'Secundus'. Hand 20:4 (Paulus-medewerkers 'Tessalonikēōn de Aristarchos kai Sekoundos').
+Secundus. Tessalonicenzer-Paulus-medewerker. Eenmaal NT. Concordant: 'Secundus'. Hand 20:4 (Paulus-medewerkers 'Tessalonikēōn de Aristarchos kai Sekoundos').
 
 **Vindplaatsen:**
 
@@ -60769,7 +60767,7 @@ Eerwaardigheid, achtenswaardigheid. Concordant: 'eer-waardig-heid'. Drie-maal NT
 ## G4588 — Σέργιος (sergios) — "Sergius"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Sergius. Latijns-leenwoord. Romeinse-proconsul-Cyprus. Eenmaal NT. Concordant: 'Sergius'. Hand 13:7 (Pafos 'tōi anthupatōi Sergiōi Paulōi').
+Sergius. Romeinse-proconsul-Cyprus. Eenmaal NT. Concordant: 'Sergius'. Hand 13:7 (Pafos 'tōi anthupatōi Sergiōi Paulōi').
 
 **Vindplaatsen:**
 
@@ -60982,7 +60980,7 @@ Op 18:12 — Vaten van koper, sidērou en marmer: IJzer (metaal).
 ## G4605 — Σιδών (sidōn) — "Sidon"
 *Woordsoort:* eigennaam | *Voorkomens:* 11
 
-Sidon, Fenicische haven-stad. Concordant: 'Sidon'. Vaak gepaard met Tyrus — zie G5184. Hand 27:3 Paulus' eerste haven na Caesarea.
+Concordant: 'Sidon'. Vaak gepaard met Tyrus — zie G5184. Hand 27:3 Paulus' eerste haven na Caesarea.
 
 **Vindplaatsen:**
 
@@ -61007,7 +61005,7 @@ Inwoner-Sidon. Eenmaal NT. Concordant: 'Sidoniër'. Hand 12:20 (paar-met-Turios 
 ## G4607 — σικάριος (sikarios) — "dolk-moordenaar"
 *Woordsoort:* zn | *Voorkomens:* 1
 
-Sicarius-dolkmoordenaar. Latijns-leenwoord. Eenmaal NT. Concordant: 'dolk-moordenaar'. Hand 21:38 (Paulus-tribuun 'exagagōn eis tēn erēmon tous tetrakischilious andras tōn sikariōn').
+Sicarius-dolkmoordenaar. Eenmaal NT. Concordant: 'dolk-moordenaar'. Hand 21:38 (Paulus-tribuun 'exagagōn eis tēn erēmon tous tetrakischilious andras tōn sikariōn').
 
 **Vindplaatsen:**
 
@@ -61029,7 +61027,7 @@ Sterke-drank. Hebreeuws-leenwoord 'shekar'. Eenmaal NT. Concordant: 'sterke-dran
 ## G4609 — Σίλας (silas) — "Silas"
 *Woordsoort:* eigennaam | *Voorkomens:* 13 | *Stamfamilie:* G4610 Silouanos
 
-Silas / Silvanus. Reisgenoot van Paulus op tweede zendingsreis. Hand 15:22-18:5; ook ondertekenaar 1-2 Tess. Volledige Latijnse vorm Silvanus (G4610 Silouanos in 2 Kor 1:19, 1 Tess 1:1, 2 Tess 1:1, 1 Pet 5:12).
+Silas / Silvanus. Reisgenoot van Paulus op tweede zendingsreis. Hand 15:22-18:5; ook ondertekenaar 1-2 Tess.
 
 **Vindplaatsen:**
 
@@ -61040,7 +61038,7 @@ Silas / Silvanus. Reisgenoot van Paulus op tweede zendingsreis. Hand 15:22-18:5;
 ## G4610 — Σιλουανός (silouanos) — "Silvanus"
 *Woordsoort:* eigennaam | *Voorkomens:* 4 | *Stamfamilie:* G4609 Silas
 
-Silvanus. Latijnse-naamvariant van G4609 Silas (Aramees-Saul-equivalent). Concordant: 'Silvanus'. 2 Kor 1:19 'Iēsous Christos ho en humin di' hēmōn kērucheis, di' emou kai Silouanou kai Timotheou'. 1 Tess 1:1 / 2 Tess 1:1 (briefopeningen 'Paulos kai Silouanos kai Timotheos'). 1 Pet 5:12 'dia Silouanou' (postiljon-1Petrus).
+Silvanus. Concordant: 'Silvanus'. 2 Kor 1:19 'Iēsous Christos ho en humin di' hēmōn kērucheis, di' emou kai Silouanou kai Timotheou'. 1 Tess 1:1 / 2 Tess 1:1 (briefopeningen 'Paulos kai Silouanos kai Timotheos'). 1 Pet 5:12 'dia Silouanou' (postiljon-1Petrus).
 
 **Vindplaatsen:**
 
@@ -61066,7 +61064,7 @@ Siloam. Hebreeuws-leenwoord 'gezonden'. Vijver-Jeruzalem-zuiden. Concordant: 'Si
 ## G4612 — σιμικίνθιον (simikinthion) — "schort"
 *Woordsoort:* zn | *Voorkomens:* 1
 
-Werkschort. Latijns-leenwoord 'semicinctium'. Eenmaal NT. Concordant: 'schort'. Hand 19:12 (paar-met-chrōs 'soudaria ē simikinthia').
+Werkschort. Eenmaal NT. Concordant: 'schort'. Hand 19:12 (paar-met-chrōs 'soudaria ē simikinthia').
 
 **Vindplaatsen:**
 
@@ -61927,7 +61925,7 @@ Genitief enkelvoud van G4771 su 'jij/u': uw/van-jou. Bezittelijk (ho patēr sou 
 ## G4676 — σουδάριον (soudarion) — "zweet-doek"
 *Woordsoort:* zn | *Voorkomens:* 4
 
-Zweetdoek (dook over hoofd of in handen). Latijn-leenwoord (sudarium). Concordant: 'zweet-doek'. Lukas 19:20 (mina 'en soudariōi apokeimenēn'). Joh 11:44 (Lazarus 'hē opsis autou soudariōi periedeto'); Joh 20:7 (Jezus' graf-soudarion). Hand 19:12 (Paulus' zweetdoeken-genezing).
+Zweetdoek (dook over hoofd of in handen). Concordant: 'zweet-doek'. Lukas 19:20 (mina 'en soudariōi apokeimenēn'). Joh 11:44 (Lazarus 'hē opsis autou soudariōi periedeto'); Joh 20:7 (Jezus' graf-soudarion). Hand 19:12 (Paulus' zweetdoeken-genezing).
 
 **Vindplaatsen:**
 
@@ -62075,7 +62073,7 @@ Cohort (Romeinse legereenheid ~ 600 manschappen), bende. Concordant: 'co-horte'.
 ## G4687 — σπείρω (speirō) — "zaaien"
 *Woordsoort:* ww | *Voorkomens:* 53 | *Stamfamilie:* G4690 sperma, G4688 speira
 
-Zaaien. Concordant: 'zaaien' — letterlijk en overdrachtelijk. Gelijkenis van de zaaier centraal. Substantief G4690 sperma = zaad. Stam sper- in Nederlands 'sperma' en via Latijn in 'dispersie'.
+Zaaien. Concordant: 'zaaien' — letterlijk en overdrachtelijk. Gelijkenis van de zaaier centraal. Substantief G4690 sperma = zaad.
 
 **Vindplaatsen:**
 
@@ -62093,7 +62091,7 @@ Zaaien. Concordant: 'zaaien' — letterlijk en overdrachtelijk. Gelijkenis van d
 ## G4688 — σπεκουλάτωρ (spekoulatōr) — "speculator"
 *Woordsoort:* zn | *Voorkomens:* 1
 
-Speculator (Romeins-lijfwacht-scherprechter). Latijns-leenwoord. Eenmaal NT. Concordant: 'speculator'. Mar 6:27 (kerntekst-Johannes-Doper-onthoofding 'aposteilas ho basileus spekoulatora').
+Speculator (Romeins-lijfwacht-scherprechter). Eenmaal NT. Concordant: 'speculator'. Mar 6:27 (kerntekst-Johannes-Doper-onthoofding 'aposteilas ho basileus spekoulatora').
 
 **Vindplaatsen:**
 
@@ -62450,7 +62448,7 @@ Stater (Romeinse-zilvermunt = vier-drachmen). Eenmaal NT. Concordant: 'stater'. 
 ## G4716 — σταυρός (stauros) — "kruis"
 *Woordsoort:* zn | *Voorkomens:* 28 | *Stamfamilie:* G4717 stauroō, G4957 sustauroō
 
-Kruis (Romeinse executie-paal). Stam-betekenis: rechtopstaande paal. Concordant: 'kruis' standaard NT-terminologie, met grondbetekenis 'paal' herkenbaar in toelichting. Werkwoord G4717 stauroō = kruisigen. Theologisch-zwaar in Paulus: 'het woord des kruises'.
+Kruis (Romeinse executie-paal). Stam-betekenis: rechtopstaande paal. Concordant: 'kruis' standaard NT-terminologie, met grondbetekenis 'paal' herkenbaar in toelichting. Werkwoord G4717 stauroō = kruisigen. Bij Paulus: 'het woord des kruises'.
 
 **Vindplaatsen:**
 
@@ -65753,7 +65751,7 @@ Filosoof-school. Eenmaal NT. Concordant: 'school'. Hand 19:9 (kerntekst-Efeze-Ty
 ## G4982 — σῴζω (sōizō) — "redden-bewaren-genezen"
 *Woordsoort:* ww | *Voorkomens:* 110
 
-Werkwoord van redden-behouden: (1) fysiek-bewaren-uit-gevaar (sōson hēmas = 'red ons', Matt 8:25), (2) genezen-gezond-maken (hē pistis sou sesōken se = 'uw geloof heeft u gered/genezen'), (3) theologisch-redden-uit-zonde-en-oordeel (sōthēsesthe = 'gij zult gered worden'). Stamfamilie G4991 sōtēria (redding), G4990 sōtēr (redder), G4992 sōtērion (reddingmiddel).
+Werkwoord van redden-behouden: (1) fysiek-bewaren-uit-gevaar (sōson hēmas = 'red ons', Matt 8:25), (2) genezen-gezond-maken (hē pistis sou sesōken se = 'uw geloof heeft u gered/genezen'), (3) redden-uit-zonde-en-oordeel (sōthēsesthe = 'gij zult gered worden'). Stamfamilie G4991 sōtēria (redding), G4990 sōtēr (redder), G4992 sōtērion (reddingmiddel).
 
 **Vindplaatsen:**
 
@@ -66012,7 +66010,7 @@ Bezonnen, met-gezond-verstand. Samenstelling sōos (gezond) + phrēn (verstand).
 ## G4999 — Ταβέρναι (tabernai) — "Tres-Tabernae"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Tres-Tabernae (Drie-Herbergen). Latijns-leenwoord. Eenmaal NT. Concordant: 'Tres-Tabernae'. Hand 28:15 (Paulus-Italië 'achri Appiou Phorou kai Triōn Tabernōn').
+Tres-Tabernae (Drie-Herbergen). Eenmaal NT. Concordant: 'Tres-Tabernae'. Hand 28:15 (Paulus-Italië 'achri Appiou Phorou kai Triōn Tabernōn').
 
 **Vindplaatsen:**
 
@@ -66829,7 +66827,7 @@ Wonderteken, prodigium. Concordant: 'wonderteken'. Bijna altijd in vaste verbind
 ## G5060 — Τέρτιος (tertios) — "Tertius"
 *Woordsoort:* eigennaam | *Voorkomens:* 1
 
-Tertius. Latijns-leenwoord 'derde'. Schrijver-brief-Romeinen. Eenmaal NT. Concordant: 'Tertius'. Rom 16:22 (kerntekst-Romeinen-slot 'aspazomai humas egō Tertios ho grapsas tēn epistolēn').
+Tertius. Schrijver-brief-Romeinen. Eenmaal NT. Concordant: 'Tertius'. Rom 16:22 (kerntekst-Romeinen-slot 'aspazomai humas egō Tertios ho grapsas tēn epistolēn').
 
 **Vindplaatsen:**
 
@@ -66840,7 +66838,7 @@ Tertius. Latijns-leenwoord 'derde'. Schrijver-brief-Romeinen. Eenmaal NT. Concor
 ## G5061 — Τέρτυλλος (tertullos) — "Tertullus"
 *Woordsoort:* eigennaam | *Voorkomens:* 2
 
-Tertullus. Latijns-leenwoord. Romeinse-advocaat-aanklager-Paulus. Twee-maal NT. Concordant: 'Tertullus'. Hand 24:1-2 (twee maal — Caesarea-rechtszaak 'meta rētoros Tertullou tinos... ērxato katēgorein ho Tertullos').
+Tertullus. Romeinse-advocaat-aanklager-Paulus. Twee-maal NT. Concordant: 'Tertullus'. Hand 24:1-2 (twee maal — Caesarea-rechtszaak 'meta rētoros Tertullou tinos... ērxato katēgorein ho Tertullos').
 
 **Vindplaatsen:**
 
@@ -67146,7 +67144,7 @@ Bewaring, hechtenis (cel) of bewaring-van-gebod. Concordant: 'be-waring'. Hand 4
 ## G5085 — Τιβεριάς (tiberias) — "Tiberias"
 *Woordsoort:* eigennaam | *Voorkomens:* 3
 
-Tiberias. Stad-en-meer-Galilea (Latijns-Romeinse-keizer-Tiberius). Concordant: 'Tiberias'. Vrijwel uitsluitend Joh: 6:1, 6:23, 21:1 (drie maal — 'apēlthen ho Iēsous peran tēs thalassēs tēs Galilaias tēs Tiberiados... ploia ek Tiberiados... epi tēs thalassēs tēs Tiberiados').
+Tiberias. Concordant: 'Tiberias'. Vrijwel uitsluitend Joh: 6:1, 6:23, 21:1 (drie maal — 'apēlthen ho Iēsous peran tēs thalassēs tēs Galilaias tēs Tiberiados... ploia ek Tiberiados... epi tēs thalassēs tēs Tiberiados').
 
 **Vindplaatsen:**
 
@@ -67157,7 +67155,7 @@ Tiberias. Stad-en-meer-Galilea (Latijns-Romeinse-keizer-Tiberius). Concordant: '
 ## G5086 — Τιβέριος (tiberios) — "Tiberius"
 *Woordsoort:* eigennaam | *Voorkomens:* 1 | *Stamfamilie:* G5085 Tiberias
 
-Tiberius. Latijns-leenwoord. Romeinse-keizer-14-37 nC. Eenmaal NT. Concordant: 'Tiberius'. Lukas 3:1 (kerntekst-synchronisme 'tēs hēgemonias Tiberiou Kaisaros').
+Tiberius. Romeinse-keizer-14-37 nC. Eenmaal NT. Concordant: 'Tiberius'. Lukas 3:1 (kerntekst-synchronisme 'tēs hēgemonias Tiberiou Kaisaros').
 
 **Vindplaatsen:**
 
@@ -67436,7 +67434,7 @@ Interrogatief voornaamwoord 'wie?/wat?/welk?' — met accent op eerste syllabe (
 ## G5102 — τίτλος (titlos) — "opschrift-titel"
 *Woordsoort:* zn | *Voorkomens:* 2
 
-Titulus (kruisinscriptie). Latijns-leenwoord. Twee-maal NT. Concordant: 'opschrift-titel'. Joh 19:19-20 (twee maal — kruistitel 'egrapsen de kai titlon ho Pilatos... touton oun ton titlon polloi anegnōsan').
+Titulus (kruisinscriptie). Twee-maal NT. Concordant: 'opschrift-titel'. Joh 19:19-20 (twee maal — kruistitel 'egrapsen de kai titlon ho Pilatos... touton oun ton titlon polloi anegnōsan').
 
 **Vindplaatsen:**
 
@@ -67447,7 +67445,7 @@ Titulus (kruisinscriptie). Latijns-leenwoord. Twee-maal NT. Concordant: 'opschri
 ## G5103 — Τίτος (titos) — "Titus"
 *Woordsoort:* eigennaam | *Voorkomens:* 15
 
-Titus. Latijn leenwoord. Reisgenoot van Paulus (heiden-gelovige), ontvanger van een pastorale brief. Bediende-namens-Paulus in Korinthe en Kreta. 2 Kor 7-8 prominent.
+Titus. Reisgenoot van Paulus (heiden-gelovige), ontvanger van een pastorale brief. Bediende-namens-Paulus in Korinthe en Kreta. 2 Kor 7-8 prominent.
 
 **Vindplaatsen:**
 
@@ -68573,7 +68571,7 @@ Inwoner-Tyrus. Eenmaal NT. Concordant: 'Tyriër'. Hand 12:20 (paar-met-Sidōnios
 ## G5184 — Τύρος (turos) — "Tyrus"
 *Woordsoort:* eigennaam | *Voorkomens:* 11
 
-Tyrus, Fenicische haven-stad. Concordant: 'Tyrus'. Vaak in paar 'Turos kai Sidōn' (Mat 11:21-22, 15:21; Mar 3:8, 7:24-31; Lukas 6:17, 10:13-14; Hand 21:3-7).
+Concordant: 'Tyrus'. Vaak in paar 'Turos kai Sidōn' (Mat 11:21-22, 15:21; Mar 3:8, 7:24-31; Lukas 6:17, 10:13-14; Hand 21:3-7).
 
 **Vindplaatsen:**
 
@@ -70032,7 +70030,7 @@ Voetbank. Letterlijk hupo (onder) + pous (voet) — onder-de-voet. Concordant: '
 ## G5287 — ὑπόστασις (hupostasis) — "onder-staand-realiteit"
 *Woordsoort:* zn | *Voorkomens:* 5 | *Stamfamilie:* G2476 histēmi, G5259 hupo
 
-Substantie, zelfstandigheid, fundament-onder, vertrouwen. Etymologisch: hupo (onder) + stasis (staan) — 'wat-onder-staat'. Concordant: 'onder-staand-realiteit'. 2 Kor 9:4, 11:17 'en tautēi tēi hupostasei' (in dit zelfstandig-vertrouwen). Heb 1:3 'charaktēr tēs hupostaseōs autou' (kerntekst christologie — Christus 'afdruk-van-Gods-zelfstandigheid'). Heb 3:14 'tēn archēn tēs hupostaseōs mechri telous bebaian'. Heb 11:1 'estin de pistis elpizomenōn hupostasis' (kerntekst — geloof-is-de-zelfstandige-realiteit-van-verhoopte-zaken). Basis Latijnse 'substantia' / 'persona' theologie.
+Substantie, zelfstandigheid, fundament-onder, vertrouwen. Etymologisch: hupo (onder) + stasis (staan) — 'wat-onder-staat'. Concordant: 'onder-staand-realiteit'. 2 Kor 9:4, 11:17 'en tautēi tēi hupostasei' (in dit zelfstandig-vertrouwen). Heb 1:3 'charaktēr tēs hupostaseōs autou' (kerntekst christologie — Christus 'afdruk-van-Gods-zelfstandigheid'). Heb 3:14 'tēn archēn tēs hupostaseōs mechri telous bebaian'. Heb 11:1 'estin de pistis elpizomenōn hupostasis' (kerntekst — geloof-is-de-zelfstandige-realiteit-van-verhoopte-zaken).
 
 **Vindplaatsen:**
 
@@ -70620,7 +70618,7 @@ Perez. Hebreeuws-leenwoord 'doorbraak'. Zoon-Juda. Concordant: 'Perez'. Mat 1:3 
 ## G5330 — Φαρισαῖος (pharisaios) — "Farizeeër"
 *Woordsoort:* zn | *Voorkomens:* 100
 
-Partij-lid binnen 2e-Tempel-Judaïsme — etymologisch van Hebreeuws parash 'afgezonderde/gescheidene'. Kenmerken: Wets-ijver, mondelinge-traditie-toevoeging, opstanding-en-engelen-belijdenis (onderscheiden van G4523 saddoukaioi 'Sadduceeën' die dat ontkenden). In evangeliën tegenstanders-van-Jezus, maar Paulus zelf Pharisaios-achtergrond (Fil 3:5). Context-kritische-theologische-categorie.
+Partij-lid binnen 2e-Tempel-Judaïsme — etymologisch van Hebreeuws parash 'afgezonderde/gescheidene'. Kenmerken: Wets-ijver, mondelinge-traditie-toevoeging, opstanding-en-engelen-belijdenis (onderscheiden van G4523 saddoukaioi 'Sadduceeën' die dat ontkenden). In evangeliën tegenstanders-van-Jezus, maar Paulus zelf Pharisaios-achtergrond (Fil 3:5). Context-kritische-categorie.
 
 **Vindplaatsen:**
 
@@ -70757,7 +70755,7 @@ Spaarzaam, met-zuinigheid. Twee-maal NT, alle 2 Kor 9. Concordant: 'spaarzaam-li
 ## G5341 — φελόνης (phelonēs) — "reis-mantel"
 *Woordsoort:* zn | *Voorkomens:* 1
 
-Reismantel. Latijns-leenwoord 'paenula'. Eenmaal NT. Concordant: 'reis-mantel'. 2 Tim 4:13 (Paulus-Timotheüs 'ton phelonēn hon apelipon en Trōiadi').
+Reismantel. Eenmaal NT. Concordant: 'reis-mantel'. 2 Tim 4:13 (Paulus-Timotheüs 'ton phelonēn hon apelipon en Trōiadi').
 
 **Vindplaatsen:**
 
@@ -70811,7 +70809,7 @@ Vluchten, ontvluchten. Concordant: 'vluchten'. Onderscheid van G402 anachōreō 
 ## G5344 — Φῆλιξ (phēlix) — "Felix"
 *Woordsoort:* eigennaam | *Voorkomens:* 9
 
-Antonius Felix. Latijn leenwoord. Romeins-stadhouder Judea ~52-59 n.Chr. Voorganger van Festus. Hand 23:24-24:27 (Paulus' twee jaar onder Felix); 25:14.
+Antonius Felix. Romeins-stadhouder Judea ~52-59 n.Chr. Voorganger van Festus. Hand 23:24-24:27 (Paulus' twee jaar onder Felix); 25:14.
 
 **Vindplaatsen:**
 
@@ -70853,7 +70851,7 @@ Zeggen, beweren, verklaren. Concordant: 'beweren' waar onderscheid met G3004 leg
 ## G5347 — Φῆστος (phēstos) — "Festus"
 *Woordsoort:* eigennaam | *Voorkomens:* 13
 
-Porcius Festus, Romeins-stadhouder Judea (~59-62 n.Chr.). Latijn leenwoord. Opvolger van Felix. Hand 24:27-26:32 hoort Paulus' zaak voor met koning Agrippa II. Paulus appelleert op Caesar voor Festus (Hand 25:11).
+Porcius Festus, Romeins-stadhouder Judea (~59-62 n.Chr.). Opvolger van Felix. Hand 24:27-26:32 hoort Paulus' zaak voor met koning Agrippa II. Paulus appelleert op Caesar voor Festus (Hand 25:11).
 
 **Vindplaatsen:**
 
@@ -70988,7 +70986,7 @@ Verderf, bederf, vergankelijkheid. Zelfstandig naamwoord-afgeleide van phtheirō
 ## G5357 — φιάλη (phialē) — "schaal"
 *Woordsoort:* zn | *Voorkomens:* 12
 
-Schaal, drinkschaal-met-platte-bodem. Concordant: 'schaal'. Vrijwel uitsluitend in Apocalyps: zeven 'phialai' van toorn (Op 5:8 'phialas chrusas gemousas thumiamatōn'; Op 15:7-8, 16:1-17, 17:1, 21:9). Latijn-leenwoord 'phiool' kunnen we ook verwerken.
+Schaal, drinkschaal-met-platte-bodem. Concordant: 'schaal'. Vrijwel uitsluitend in Apocalyps: zeven 'phialai' van toorn (Op 5:8 'phialas chrusas gemousas thumiamatōn'; Op 15:7-8, 16:1-17, 17:1, 21:9).
 
 **Vindplaatsen:**
 
@@ -71662,7 +71660,7 @@ Dragen (als kleed of vast-attribuut). Iteratieve / continuatieve vorm van pherō
 ## G5410 — Φόρον (phoron) — "Forum-Appii"
 *Woordsoort:* eigennaam | *Voorkomens:* 1 | *Stamfamilie:* G5411 phoros (schatting)
 
-Forum (in Forum-Appii). Latijns-leenwoord. Onderscheid van G5411 phoros (schatting). Eenmaal NT. Concordant: 'Forum-Appii'. Hand 28:15 (paar-met-Appios 'achri Appiou Phorou').
+Forum (in Forum-Appii). Onderscheid van G5411 phoros (schatting). Eenmaal NT. Concordant: 'Forum-Appii'. Hand 28:15 (paar-met-Appios 'achri Appiou Phorou').
 
 **Vindplaatsen:**
 
@@ -71721,7 +71719,7 @@ Vracht-lading. Stam-substantief-phortion-familie. Eenmaal NT (variant). Concorda
 ## G5415 — Φορτουνᾶτος (phortounatos) — "Fortunatus"
 *Woordsoort:* eigennaam | *Voorkomens:* 2
 
-Fortunatus. Latijns-leenwoord 'gelukkige'. Korinthische-broeder-bezoekend-Paulus. Eennamig vermeld in 1 Kor 16, maar ook in latere variant-tekst. Twee-maal NT. Concordant: 'Fortunatus'. 1 Kor 16:17 (Korinthe-afsluiting 'Stephana kai Phortounatou kai Achaikou'). 2 Kor 13:14 (slot-variant).
+Fortunatus. Korinthische-broeder-bezoekend-Paulus. Eennamig vermeld in 1 Kor 16, maar ook in latere variant-tekst. Twee-maal NT. Concordant: 'Fortunatus'. 1 Kor 16:17 (Korinthe-afsluiting 'Stephana kai Phortounatou kai Achaikou'). 2 Kor 13:14 (slot-variant).
 
 **Vindplaatsen:**
 
@@ -71732,7 +71730,7 @@ Fortunatus. Latijns-leenwoord 'gelukkige'. Korinthische-broeder-bezoekend-Paulus
 ## G5416 — φραγέλλιον (phragellion) — "geessel"
 *Woordsoort:* zn | *Voorkomens:* 1 | *Stamfamilie:* G5417 phragelloō
 
-Gesel-zweep. Latijns-leenwoord 'flagellum'. Eenmaal NT. Concordant: 'geessel'. Joh 2:15 (kerntekst-tempel-reiniging 'poiēsas phragellion ek schoiniōn').
+Gesel-zweep. Eenmaal NT. Concordant: 'geessel'. Joh 2:15 (kerntekst-tempel-reiniging 'poiēsas phragellion ek schoiniōn').
 
 **Vindplaatsen:**
 
@@ -71743,7 +71741,7 @@ Gesel-zweep. Latijns-leenwoord 'flagellum'. Eenmaal NT. Concordant: 'geessel'. J
 ## G5417 — φραγελλόω (phragelloō) — "geselen"
 *Woordsoort:* ww | *Voorkomens:* 2
 
-Geselen-met-flagellum. Latijns-leenwoord 'flagellum'. Twee-maal NT. Concordant: 'geselen'. Mat 27:26 / Mar 15:15 (twee maal — Pilatus-Jezus 'phragellōsas paredōken hina staurōthēi').
+Geselen-met-flagellum. Twee-maal NT. Concordant: 'geselen'. Mat 27:26 / Mar 15:15 (twee maal — Pilatus-Jezus 'phragellōsas paredōken hina staurōthēi').
 
 **Vindplaatsen:**
 
@@ -72355,7 +72353,7 @@ Verlichtings-akt-resultaat. Resultaats-substantief van phōtizō. Twee-maal NT, 
 ## G5463 — χαίρω (chairō) — "zich-verheugen-blij-zijn"
 *Woordsoort:* ww | *Voorkomens:* 74 | *Stamfamilie:* G5485
 
-Werkwoord van verheugen — stamfamilie G5485 charis (genade-gunst-dank), G5479 chara (vreugde): (1) blij-zijn-verheugen (chairō = 'ik verheug mij'), (2) imperatief-begroetings-formule chaire/chairete = 'gegroet!/wees-blij!' (nieuw-Testamentische brief-openings- en slotformule), (3) theologisch-NT-vreugde-in-heil (chairete en kuriōi pantote = 'verheugt u in de Heer te allen tijde', Fil 4:4 — Paulinisch-thematiek).
+Werkwoord van verheugen — stamfamilie G5485 charis (genade-gunst-dank), G5479 chara (vreugde): (1) blij-zijn-verheugen (chairō = 'ik verheug mij'), (2) imperatief-begroetings-formule chaire/chairete = 'gegroet!/wees-blij!' (nieuw-Testamentische brief-openings- en slotformule), (3) NT-vreugde-in-heil (chairete en kuriōi pantote = 'verheugt u in de Heer te allen tijde', Fil 4:4 — Paulinisch-thematiek).
 
 **Vindplaatsen:**
 
@@ -73430,7 +73428,7 @@ Vleiende-taal. Samenstelling chrēstos + logos. Eenmaal NT. Concordant: 'vlei-re
 ## G5543 — χρηστός (chrēstos) — "vriendelijk-bruikbaar"
 *Woordsoort:* bn | *Voorkomens:* 7 | *Stamfamilie:* G5544 chrēstotēs
 
-Vriendelijk, mild, nuttig, bruikbaar. Concordant: 'vriendelijk-bruikbaar'. Stam-betekenis 'goed-bruikbaar' / 'goedaardig'. Mat 11:30 'ho gar zugos mou chrēstos'. Lukas 5:39 'palaios chrēstos estin' (variant 'oude wijn is beter'); 6:35 'autos chrēstos estin epi tous acharistous'. Rom 2:4. 1 Kor 15:33; Ef 4:32 'chrēstoi eis allēlous'. 1 Pet 2:3 OT-citaat 'egeusasthe hoti chrēstos ho kurios'. NB: Klassiek-Grieks woordspel: chrēstos (vriendelijk) en Christos (Gezalfde) waren homofoon — Tertullianus signaleert dat heidenen Christianoi soms uitspraken als Chrēstianoi (Hand 26:28 variant, 1 Pet 4:16).
+Vriendelijk, mild, nuttig, bruikbaar. Concordant: 'vriendelijk-bruikbaar'. Stam-betekenis 'goed-bruikbaar' / 'goedaardig'. Mat 11:30 'ho gar zugos mou chrēstos'. Lukas 5:39 'palaios chrēstos estin' (variant 'oude wijn is beter'); 6:35 'autos chrēstos estin epi tous acharistous'. Rom 2:4. 1 Kor 15:33; Ef 4:32 'chrēstoi eis allēlous'. 1 Pet 2:3 OT-citaat 'egeusasthe hoti chrēstos ho kurios'.
 
 **Vindplaatsen:**
 

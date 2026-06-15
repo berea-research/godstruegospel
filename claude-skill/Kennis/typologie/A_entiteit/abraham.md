@@ -8,7 +8,7 @@
 - **Bron-discipline:** uitsluitend `Kennis/puur/` en `Kennis/strong/`. Sola scriptura. Geen training-input.
 - **As 1 (categorieën):** A1 (christustypen via Paulus' expliciete typologie), G2 (vader-zoon raakvlak)
 - **As 2 (hermeneutische lagen):** L1, L2 (waar door tekst zelf bevestigd)
-- **As 3 (algemeen zekerheids-niveau):** **N1 voor cluster D** (Gal 3:16 + Gal 4:24 noemen "spermati = Christos" en "allēgoroumena" expliciet); N1 voor cluster A, B-Gen, C; N2 voor "Melchizedek-brood-wijn = avondmaal"-koppeling (geen NT-tekst legt deze) en voor "monogenēs Isaak ↔ monogenēs Christos"-koppeling (Heb 11:17 noemt Isaak monogenē, Joh 3:16 Christus, geen tekst legt expliciet brug); N3-clue voor "Gen 22:8 ha-seh ↔ Joh 1:29 amnos tou theou".
+- **As 3 (algemeen zekerheids-niveau):** **N1 voor cluster D** (Gal 3:16 + Gal 4:24 noemen "spermati = Christos" en "allēgoroumena" expliciet); N1 voor cluster A, B-Gen, C. Melchizedeks brood-wijn (Gen 14:18) blijft een kaal tekst-feit; een avondmaal-lezing is geleende traditie, buiten de typologie-laag (geen NT-tekst koppelt het). N2 voor "monogenēs Isaak ↔ monogenēs Christos"-koppeling (Heb 11:17 noemt Isaak monogenē, Joh 3:16 Christus, geen tekst legt expliciet brug); N3-clue voor "Gen 22:8 ha-seh ↔ Joh 1:29 amnos tou theou".
 - **Tags:** Abraham, vader-des-geloofs, verbond, beloofde-zaad, isaak-offer, melchizedek-tienden, av-hamon-goyim, geloof-gerechtigheid, twee-zonen, allēgoroumena, Gal-3-4, Rom-4, Hebr-11
 - **Zie ook:** `./isaak.md`, `./jakob.md`, `../H_contrast/twee-verbonden-hagar-sara.md` (toekomstig), `../B_cijfer/3.md` cluster A (Gen 22:4), `../B_cijfer/10.md` cluster B (tienden Melchizedek)
 
@@ -18,7 +18,7 @@ Tekst-eigen feiten. Gen 12:1-3 bevat de roeping "lekh-lekha" en de zegen-aan-vol
 
 NT-eigen typologie-claims. Rom 4:3, Gal 3:6, Jak 2:23 citeren Gen 15:6 letterlijk. Gal 3:16 stelt Paulus' grammaticale claim: "tō spermati autou ... hos estin Christos" — het zaad is enkelvoud en doelt op Christus. Gal 4:22-31 noemt de twee zonen-allegorie expliciet "allēgoroumena ... duo diathēkai". Heb 11:17 noemt Isaak "ton monogenē" en Heb 11:19 verklaart dat Abraham geloofde "ek nekrōn egeirein dunatos ho theos" (uit-doden-opwekking) en Isaak "en parabolē ekomisato" (in gelijkenis terugkreeg).
 
-Interpretatieve framings. Dat Melchizedeks "lechem va-yayin" (Gen 14:18) een avondmaal-typologie is wordt door geen NT-tekst gelegd; Heb 7 hervat Melchizedek wel maar zonder brood-wijn-koppeling. **N2.** Dat "monogenēs Isaak" en "monogenēs Christos" een directe typologische brug vormen is interpretatieve observatie via gedeeld woord. Heb 11:17 gebruikt "monogenē" maar koppelt niet expliciet aan Joh 3:16. **N2.** Dat Gen 22:8 "ha-seh" identiek is aan Joh 1:29 "amnos tou theou" is interpretatieve framing zonder NT-eigen citaat van Gen 22:8. **N3-clue.**
+Interpretatieve framings. Melchizedeks "lechem va-yayin" (Gen 14:18) blijft een kaal tekst-feit; een avondmaal-lezing is geleende traditie en valt buiten de typologie-laag (geen NT-tekst koppelt het; Heb 7 hervat Melchizedek zonder brood-wijn-vermelding). Dat "monogenēs Isaak" en "monogenēs Christos" een directe typologische brug vormen is interpretatieve observatie via gedeeld woord. Heb 11:17 gebruikt "monogenē" maar koppelt niet expliciet aan Joh 3:16. **N2.** Dat Gen 22:8 "ha-seh" identiek is aan Joh 1:29 "amnos tou theou" is interpretatieve framing zonder NT-eigen citaat van Gen 22:8. **N3-clue.**
 
 ## Voorkomens (per cluster)
 
@@ -96,7 +96,7 @@ Interpretatieve framings. Dat Melchizedeks "lechem va-yayin" (Gen 14:18) een avo
 3. **Wel door tekst expliciet gelegd:** Gal 4:22-24 — twee zonen / twee verbonden / "allēgoroumena". **N1**.
 4. **Wel door tekst expliciet gelegd:** Heb 11:17-19 — Isaak-offer + uit-doden-opwekking + "en parabolē". **N1**.
 5. **Wel door tekst expliciet gelegd:** Heb 7 hervat Melchizedek-ontmoeting (verbinding `../B_cijfer/10.md` cluster B). **N1**.
-6. **Niet door tekst expliciet gelegd:** Melchizedeks brood-wijn (Gen 14:18) als avondmaal-typologie. Heb 7 hervat Melchizedek zonder brood/wijn-vermelding. **N2**.
+6. **Niet door tekst gelegd:** Melchizedeks brood-wijn (Gen 14:18) als avondmaal-typologie. Heb 7 hervat Melchizedek zonder brood/wijn-vermelding; geen NT-tekst koppelt het. Avondmaal-lezing valt buiten de typologie-laag.
 7. **Niet door tekst expliciet gelegd:** "monogenēs Isaak (Heb 11:17) ↔ monogenēs Christos (Joh 3:16)". Gedeeld woord, geen tekst legt brug. **N2**.
 8. **Niet door tekst expliciet gelegd:** Gen 22:8 "ha-seh" ↔ Joh 1:29 "amnos tou theou". **N3-clue**.
 
@@ -104,7 +104,7 @@ Interpretatieve framings. Dat Melchizedeks "lechem va-yayin" (Gen 14:18) een avo
 
 Bij vragen over **roeping Abraham, lekh-lekha, zegen aan volken, geloof gerechtigheid Gen 15:6**: cluster A.
 
-Bij vragen over **Melchizedek, brood en wijn, tienden Abraham, Hebr 7**: cluster B + `../B_cijfer/10.md` cluster B (met expliciete waarschuwing dat brood-wijn-avondmaal-koppeling N2 is).
+Bij vragen over **Melchizedek, brood en wijn, tienden Abraham, Hebr 7**: cluster B + `../B_cijfer/10.md` cluster B (met expliciete waarschuwing dat een brood-wijn-avondmaal-lezing buiten de typologie-laag valt).
 
 Bij vragen over **Isaak-offer, Moria, derde dag, lam Gods, monogenēs**: cluster C + `../B_cijfer/3.md` cluster A + `../C_tijd/derde-dag.md` (met N2/N3-clue waarschuwingen).
 
@@ -118,7 +118,7 @@ Bij vragen over **Hagar Sara, twee zonen, twee verbonden, allēgoroumena**: clus
 
 **Cluster E Gal 4:24** — Paulus gebruikt "allēgoroumena" (G238). Tekst Gen 16-21 zelf maakt geen verbonds-claim; Gal 4 geeft kern-uitleg. Niet inkleuren met latere verkiezingstheologie.
 
-**Cluster B Melchizedek brood-wijn-avondmaal-koppeling** — geen NT-tekst legt deze. Hebr 7 hervat Melchizedek wel maar concentreert op priesterschap-na-orde-Melchizedek (Heb 7:11-17), niet op brood/wijn. **N2**, verwijderd uit hypothese.
+**Cluster B Melchizedek brood-wijn** — een avondmaal-koppeling is geleende traditie en valt buiten de typologie-laag; geen NT-tekst legt deze. Hebr 7 hervat Melchizedek wel maar concentreert op priesterschap-na-orde-Melchizedek (Heb 7:11-17), niet op brood/wijn. Tekst-feit blijft: Melchizedek brengt brood en wijn voort.
 
 **Cluster C "monogenēs Isaak ↔ monogenēs Christos"** — gedeeld woord, geen tekst-eigen brug. Heb 11:17 noemt alleen Isaak; Joh 3:16 noemt alleen Christus. **N2**.
 
@@ -132,7 +132,7 @@ Alle 56 vers-references in deze entry op 2026-05-06 geverifieerd via `audit_v2.p
 
 Eerdere versie corrigeerd:
 - **Hypothese**: "in Christus zijn vervulling vindt" als Schrift-eigen geframed → corrigeerd; vervullings-claim is door Paulus' uitleg gelegd, niet inherente tekst-eigenschap van Gen.
-- **Cluster B Melchizedek brood-wijn**: was "typologie van avondmaal" als N1 → corrigeerd naar **N2** (geen NT-tekst legt brood-wijn-avondmaal-koppeling).
+- **Cluster B Melchizedek brood-wijn**: avondmaal-typologie verwijderd als geleende traditie (zuivering 2026-06-15); alleen tekst-feit behouden (geen NT-tekst koppelt het brood-wijn).
 - **Cluster C Gen 22:8 "lam Gods"-koppeling**: was N1 → corrigeerd naar **N3-clue** (geen NT-tekst citeert Gen 22:8 voor "amnos tou theou").
 - **Cluster C "monogenēs Isaak ↔ monogenēs Christos"**: niet eerder als brug benoemd → toegevoegd als **N2** (Heb 11:17 noemt Isaak monogenē expliciet, maar geen tekst-eigen brug naar Joh 3:16).
 - **Heb 11:17 citaat-aanvulling**: "ton monogenē prosepheren" — bron-feit toegevoegd om N1-status van monogenēs-claim te verankeren.
@@ -146,6 +146,4 @@ Eerdere versie corrigeerd:
 1. Cluster C Isaak-offer ↔ Christus-offer — verdient eigen meta-entry over "vader-offert-zoon-typologie" naast `./isaak.md` en `./adam.md`.
 2. Cluster E twee-verbonden — verdient `H_contrast/twee-verbonden-hagar-sara.md` (Fase 9).
 3. Drievoudige zoon-identificatie Gen 22:2 (bn·k / ichid·k / ashr-aebth) — typologische dichtheid; eigen sub-entry over "yachid"-vocabulaire (H3173, 12× in OT)?
-4. Hebr 11 geloofs-galerij plaatst Abraham + Isaak + Jakob + Jozef in één lijn — meta-entry over patriarchen-typologie?
-5. Abraham 99 jaar besneden (Gen 17:24) + Sara 90 jaar (Gen 17:17) — zoon-belofte boven biologie. Past in `./isaak.md`.
-6. Gen 18 drie mannen bij Mamre — typologische dichtheid (verbinding `../B_cijfer/3.md` cluster F).
+4. Hebr 11 geloofs-gale

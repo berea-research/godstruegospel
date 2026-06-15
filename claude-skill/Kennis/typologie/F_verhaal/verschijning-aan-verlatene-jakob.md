@@ -106,7 +106,7 @@ Interpretatieve framings. Dat de Jakob-verlatene-cyclus typologisch model is voo
 2. **Hos 12:4 retrospectieve identificatie** `ish` ↔ `malak` binnen OT-tekst. **N1**.
 3. **Niet door tekst expliciet gelegd**: Jakob-verlatene-cyclus typologisch voor wedergeboorte. **N3-clue**.
 4. **Niet door tekst expliciet gelegd**: viervoudig verlatene-cluster (Hagar + Jakob + Mozes + Elia). **N2 structurele afleiding**.
-5. **Niet door tekst expliciet gelegd**: `Pniel = aangezicht-El` typologisch voor incarnatie. **N3-clue**.
+5. **Niet door tekst gelegd**: een incarnatie-duiding van `Pniel = aangezicht-El`. Tekst-feit blijft de naam Pniel (aangezicht-El, Gen 32); de duiding valt buiten de typologie-laag.
 
 ## Watermerk-verbinding
 
@@ -163,4 +163,4 @@ Alle vers-references in deze entry op 2026-05-08 geverifieerd via grep + woord-v
 4. **`ish` Gen 32:24 ↔ `malak` Hos 12:4 ↔ `elohim` Gen 32:30 drievoudige identificatie** — past in toekomstige *malak-ieue* (toekomstig).
 5. **`bet elohim` + `sha'ar ha-shamayim` Gen 28:17** ↔ Joh 1:51 — past in update `../E_structuur/inclusio-genesis-openbaring.md`.
 6. **`anokhi imakh` Gen 28:15 ↔ Mat 28:20 + Hebr 13:5** — past in toekomstige meta-entry over JHWH-aanwezigheid-formules.
-7. **Hos 12:3 `aqav` ↔ Yaaqov H3290 wortel-paronomasie** — past in toekomstige *wortel-aqv* (Fase 5 uitbreiding).
+7. **Hos 12:3 `aqav` ↔ Yaaqov H3290 worte

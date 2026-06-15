@@ -17,7 +17,7 @@ Tekst-eigen feiten. Genesis 6:14-21 bevat **gedetailleerde JHWH-opdracht** aan N
 
 NT-eigen typologie-claim. **Hebr 11:7** noemt expliciet `pistei chrēmatistheis Nōe peri tōn mēdepō blepomenōn eulabētheis kateskeuasen kibōton eis sōtērian tou oikou autou` — door geloof, gewaarschuwd over wat nog niet gezien werd, bouwde Noach een ark tot redding van zijn huis. **N1 expliciete geloof-typologie**. **1 Pet 3:20-21** maakt expliciete typologische brug ark → doop: `oktō psychai diesōthēsan di hydatos ho kai hymas antitypon nyn sōzei baptisma` — acht zielen werden door water gered, hetwelk u nu ook redt: een tegenbeeld van de doop. **N1 expliciete `antitupon`-formule** (G499 hapax in NT — zie `../D_taal/hapax-overzicht.md` Cluster A). **2 Pet 2:5**: `ogdoon Nōe dikaiosunēs kēruka` — Noach achtste prediker. **N1 titel-typologie**.
 
-Interpretatieve framings. Dat de ark = Christus-typologie als geheel: redelijk-tekstuele afleiding van 1 Pet 3:21 antitupon-typologie, maar tekst legt geen expliciete "ark = Christus"-formule. **N2 structurele afleiding**. Dat de drie verdiepingen Gen 6:16 typologisch corresponderen met heiligdoms-trinitarisch-patroon: bron-eigen drie-verdiepingen-feit, geen NT-tekst legt deze brug. **N3-clue**. Dat de ark-afmetingen (300 × 50 × 30) gematria-typologisch zijn: bron-eigen aantal-feiten zonder NT-tekst-bridge. **N3-clue**.
+Interpretatieve framings. Dat de ark = Christus-typologie als geheel: redelijk-tekstuele afleiding van 1 Pet 3:21 antitupon-typologie, maar tekst legt geen expliciete "ark = Christus"-formule. **N2 structurele afleiding**. De drie verdiepingen (Gen 6:16) en de afmetingen (300 × 50 × 30) zijn bron-eigen feiten zonder uitleg in de tekst; een trinitarische of gematria-duiding ervan is geleende uitleg en valt buiten de typologie-laag.
 
 ## Voorkomens (per cluster)
 
@@ -93,7 +93,7 @@ Interpretatieve framings. Dat de ark = Christus-typologie als geheel: redelijk-t
 3. **2 Pet 2:5 `ogdoon Nōe`** titel-typologie. **N1**.
 4. **Mat 24:37-39 + Luk 17:26-27** Christus-eigen-typologische gelijkenis. **N1**.
 5. **Niet door tekst expliciet gelegd:** ark = Christus-typologie. **N2** structurele afleiding van 1 Pet 3:21 antitupon.
-6. **Niet door tekst expliciet gelegd:** drie verdiepingen Gen 6:16 als trinitarisch-patroon. **N3-clue**.
+6. **Niet door tekst gelegd:** een trinitarische duiding van de drie verdiepingen (Gen 6:16). Tekst-feit blijft het aantal verdiepingen; de duiding valt buiten de typologie-laag.
 7. **Niet door tekst expliciet gelegd:** ark-afmetingen 300×50×30 als gematria-typologie. **N3-clue**.
 
 ## Watermerk-verbinding
@@ -114,7 +114,7 @@ Bij vragen over **40 dagen vloed**: cross-link `../B_cijfer/40.md` Cluster A.
 
 ## Waarschuwingen
 
-**Cluster A drie verdiepingen Gen 6:16** — bron-eigen feit. Specifieke trinitarisch-patroon-typologie zonder NT-tekst-bridge. **N3-clue**, niet over-claimen.
+**Cluster A drie verdiepingen Gen 6:16** — bron-eigen feit (het aantal verdiepingen). Een trinitarisch-patroon-duiding is geleende uitleg en valt buiten de typologie-laag; niet over-claimen.
 
 **Cluster A ark-afmetingen 300 × 50 × 30** — bron-eigen feit. Specifieke gematria-uitleg (300 = chesed, 50 = jubel, 30 = ?, etc.) is interpretatief zonder NT-tekst-bridge. **N3-clue**, niet inbrengen in typologie-laag.
 
@@ -146,4 +146,4 @@ Alle vers-references in deze entry op 2026-05-08 geverifieerd via grep + woord-v
 3. **Drie verdiepingen Gen 6:16 + tabernakel/tempel drie-niveau** — past in toekomstige *heiligdoms-drie-niveau* (Fase 6 uitbreiding).
 4. **Mat 24:37-39 dagen van Noach ↔ Mensenzoon-parousia** — verdient eigen entry *dagen-van-Noach* (Fase 2 uitbreiding).
 5. **`ogdoon Nōe`** als achtste prediker — past in `./eerstgeborene-omkering.md` (toekomstige Fase 7-entry) als positief-tegenpool.
-6. **1 Pet 3:21 doop-antitupon** typologische vocabulair — past in toekomstige *typologisch-vocabulair-NT* (cross-link `../D_taal/hapax-overzicht.md`).
+6. **1 Pet 3:21 doop-antitupon** typologische vocabulair — past in toekomstige *typologisch-vocabulair-NT* (cross-link `../D_taal/hapax-ov

@@ -8,7 +8,7 @@
 - **Bron-discipline:** uitsluitend `Kennis/puur/` en `Kennis/strong/`. Sola scriptura. Geen training-input.
 - **As 1 (categorieën):** A7 (voorwerpen primair)
 - **As 2 (hermeneutische lagen):** L1, L2 (waar door tekst zelf bevestigd)
-- **As 3 (algemeen zekerheids-niveau):** N1 voor vers-bestaan en citaten in alle clusters; **N1 voor Op 1:20 expliciete tekst-eigen identificatie "kandelaren = gemeenten"**; **N1 voor Op 4:5 expliciete identificatie "zeven fakkels = zeven Geesten Gods"**; N2 voor verbinding Zach 4 ↔ Op 4:5+5:6 (gedeeld zeven-motief; Op citeert geen Zach 4 expliciet voor gemeenten); N3-clue voor "menorah-vorm = drie-eenheid + scheppingsweek"-numerieke uitleg
+- **As 3 (algemeen zekerheids-niveau):** N1 voor vers-bestaan en citaten in alle clusters; **N1 voor Op 1:20 expliciete tekst-eigen identificatie "kandelaren = gemeenten"**; **N1 voor Op 4:5 expliciete identificatie "zeven fakkels = zeven Geesten Gods"**; N2 voor verbinding Zach 4 ↔ Op 4:5+5:6 (gedeeld zeven-motief; Op citeert geen Zach 4 expliciet voor gemeenten)
 - **Tags:** menorah, kandelaar, zeven-lampen, Zach-4, zeven-Geesten, zeven-gemeenten, Op-1-12-20
 - **Zie ook:** `./mozes.md`, `../B_cijfer/7.md`, `../E_structuur/tabernakel-hemels-patroon.md`
 

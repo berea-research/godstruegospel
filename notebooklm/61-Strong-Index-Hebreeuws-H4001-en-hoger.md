@@ -1279,7 +1279,7 @@ Spr-haat-twisten-wekt en Spr-twisten-van-vrouw-geduriggedruppel en Spr-houthakke
 ## H4091 — מְדָן (Medan) — "Medan-zoon-Abraham-Ketura"
 *Woordsoort:* eign | *Voorkomens:* 2
 
-Gen-Ketura-baarde-Zimran-Joksan-Medan-Midjan en 1Kr-zonen-Ketura-Medan (Gen 25:2; 1Kr 1:32). Gehyphenateerd om Medan-zoon-Abraham-Ketura-aspect te onderscheiden van H4092 Medanim-verwante-stam en van H4080 Midjan (reeds toegewezen); Abrahams-noordelijke-Arabische-stam.
+Gen-Ketura-baarde-Zimran-Joksan-Medan-Midjan en 1Kr-zonen-Ketura-Medan (Gen 25:2; 1Kr 1:32).
 
 **Vindplaatsen:**
 
@@ -1349,7 +1349,7 @@ Zo-veel-als-een-voetzool-trapt; Deu 2:5.
 ## H4097 — מִדְרָשׁ (midrash) — "uitlegging-commentaar"
 *Woordsoort:* zn | *Voorkomens:* 2 | *Stamfamilie:* H1875
 
-Een geschreven commentaar of leer-document — 2 Kronieken 13:22 (midrash van de profeet Iddo) en 24:27 (midrash van het boek der koningen); van H1875 darash (zoeken-onderzoeken-uitleggen); de term werd later de technische aanduiding voor rabbijnse Schriftuitleg.
+Een geschreven commentaar of leer-document — 2 Kronieken 13:22 (midrash van de profeet Iddo) en 24:27 (midrash van het boek der koningen); van H1875 darash (zoeken-onderzoeken-uitleggen).
 
 **Vindplaatsen:**
 
@@ -6507,7 +6507,7 @@ Eigennaam ('mijn-koning-is-JHWH'); meerdere priesters en hervormers in Nehemia/K
 ## H4442 — מַלְכִּי־צֶדֶק (Malkitsedek) — "Malkitsedek-koning-Salem"
 *Woordsoort:* eign | *Voorkomens:* 2
 
-Gen-Malkitsedek-koning-van-Salem-bracht-brood-en-wijn-priester-Gods-Allerhoogste en Ps-Gij-zijt-priester-in-eeuwigheid-naar-ordening-Malkitsedek (Gen 14:18; Ps 110:4). Gehyphenateerd om Malkitsedek-koning-Salem-priester-El-Elyon-aspect te onderscheiden van andere koning-priester-figuren; pre-Levitisch-priesterschap-theologisch-zwaargewicht.
+Gen-Malkitsedek-koning-van-Salem-bracht-brood-en-wijn-priester-Gods-Allerhoogste en Ps-Gij-zijt-priester-in-eeuwigheid-naar-ordening-Malkitsedek (Gen 14:18; Ps 110:4). Gehyphenateerd om Malkitsedek-koning-Salem-priester-El-Elyon-aspect te onderscheiden van andere koning-priester-figuren; pre-Levitisch-priesterschap-zwaargewicht.
 
 **Vindplaatsen:**
 
@@ -7986,8 +7986,6 @@ Sluier of dekdoek — in Jesaja 25:7 (Hij zal op dezen berg verslinden het bedek
 ## H4542 — מִסְכֵּן (mskn) — "behoeftig-mskn"
 *Woordsoort:* bn | *Voorkomens:* 4
 
-Akkadisch-leen muskenu (arme, gewone); concordant behoeftig Prediker-armen.
-
 **Vindplaatsen:**
 
 - Pred: 4:13, 9:15, 9:15, 9:16
@@ -8611,7 +8609,7 @@ Woon-plaats voor-dier-in-natuur of God-in-tempel onderscheiden van H4583 maon (s
 ## H4586 — מְעוּנִי (Me'uni) — "Meüniet"
 *Woordsoort:* eign | *Voorkomens:* 6
 
-Stam uit Zuid-Transjordanië, Arabisch-Edomietische grens (1 Kr 4:41; 2 Kr 20:1 (?); 26:7; Ezra 2:50; Neh 7:52). Dutch-traditie: Meüniet.
+Dutch-traditie: Meüniet.
 
 **Vindplaatsen:**
 
@@ -12520,8 +12518,6 @@ Van √nasa (opnemen/dragen); profetische uitspraak als 'te dragen boodschap' en
 ## H4853b — מַשָּׂא (massa-eign) — "Massa"
 *Woordsoort:* eign | *Voorkomens:* 27
 
-Eigennaam gebruikt als plaats/stamnaam (Arabisch gebied); concordant getranslitereerd (naast H4853a 'last-II').
-
 **Vindplaatsen:**
 
 - 2 Kon: 9:25
@@ -12539,7 +12535,7 @@ Eigennaam gebruikt als plaats/stamnaam (Arabisch gebied); concordant getranslite
 ## H4854 — מַשָּׂא (Massa) — "Massa-massa"
 *Woordsoort:* eign | *Voorkomens:* 2 | *Stamfamilie:* H4853a
 
-Gen-zonen-Ismaël-Misma-Duma-Massa en 1Kr-Ismaël-Massa (Gen 25:14; 1Kr 1:30). Gehyphenateerd om Massa-zoon-Ismaël-Arabische-stam-aspect te onderscheiden van H4853a massa 'last-draaglast' (reeds toegewezen) als homograaf; familie-zelfde-wortel-oostelijke-stam.
+Gen-zonen-Ismaël-Misma-Duma-Massa en 1Kr-Ismaël-Massa (Gen 25:14; 1Kr 1:30).
 
 **Vindplaatsen:**
 
@@ -14806,7 +14802,7 @@ Hapax Jer 23:31 valse-profeten-eigen-uitspraak; cognaat H5002 neum uitspraak-for
 ## H5002 — נאם (neum) — "uitspraak"
 *Woordsoort:* zn | *Voorkomens:* 374
 
-Wortel n'm. Plechtige verklaring, orakel-formule. 'Uitspraak' bewaart de nominale vorm; 'spreuk' of 'orakel' kleurt theologisch.
+Wortel n'm. Plechtige verklaring, orakel-formule. 'Uitspraak' bewaart de nominale vorm; 'spreuk' of 'orakel' kleurt.
 
 **Vindplaatsen:**
 
@@ -20831,7 +20827,7 @@ Spr-woorden-roddelaars-als-lekkernijen en Spr-zonder-brandstof-vuur-dooft-zo-zon
 ## H5373 — נֵרְדְּ (nerd) — "nardus-welriekende-olie-parfumplant"
 *Woordsoort:* zn | *Voorkomens:* 3
 
-Hooglied-mijn-nardus-gaf-zijn-reuk en Hooglied-nardus-en-saffraan-en-kalmus-en-kaneel en kostbare-nardus-zalfolie (Hoogl 1:12; 4:13,14). Gehyphenateerd om nardus-welriekendeolie-parfumplant-aspect te onderscheiden van H5561 sam 'specerij' (reeds toegewezen) en H3828 levonah 'wierook' (reeds toegewezen); Perzisch-Sanskriet-leenwoord — huwelijksparfum-exotisch.
+Hooglied-mijn-nardus-gaf-zijn-reuk en Hooglied-nardus-en-saffraan-en-kalmus-en-kaneel en kostbare-nardus-zalfolie (Hoogl 1:12; 4:13,14).
 
 **Vindplaatsen:**
 
@@ -22223,8 +22219,6 @@ Aramees-equivalent voor Perzisch bestuur-ambt (Dan 2:48; 3:2,3,27; 6:8). Gehyphe
 ## H5461 — סְגָנִים (seganim) — "stadhouders"
 *Woordsoort:* zn | *Voorkomens:* 17
 
-Leenwoord (Akkadisch šaknu); Perzisch/Babylonisch provincie-ambtenaren; concordant 'stadhouders'.
-
 **Vindplaatsen:**
 
 - Ezra: 9:2
@@ -22882,7 +22876,7 @@ Handels-opbrengst en koopmans-winst (Jes 23:3,18; 45:14; Spr 3:14). Gehyphenatee
 ## H5505 — סַחַר (sachar-handel) — "handel-omgang"
 *Woordsoort:* zn | *Voorkomens:* 3 | *Stamfamilie:* H5503
 
-Jes-Tyrus-handelswinst en Spr-hare-handel-is-goed en Jes-winst-van-haar-handel (Jes 23:3,18; 45:14; Spr 3:14). Gehyphenateerd om handel-omgang-koopwaar-winst-handelsdrift-aspect te onderscheiden van homoniem H5504 sachar-II 'winst' (reeds toegewezen) en H4810 me'izzah (onverwant); familie met H5503 sachar 'handelen-omreizen' (reeds toegewezen) — Fenicische-koopmanswereld.
+Jes-Tyrus-handelswinst en Spr-hare-handel-is-goed en Jes-winst-van-haar-handel (Jes 23:3,18; 45:14; Spr 3:14).
 
 **Vindplaatsen:**
 
@@ -23954,7 +23948,7 @@ Senaä-familiehoofd-van-terugkeerders-bouwers-van-vispoort (Ezra 2:35; Neh 3:3; 
 ## H5571 — סַנְבַלַּט (Sanballat) — "Sanballat"
 *Woordsoort:* eign | *Voorkomens:* 9
 
-Horonitisch tegenstander van Nehemia (Neh 2:10,19; 3:33; 4:1; 6:1,2,5,12,14; 13:28). Akkadisch 'Sin-heeft-leven-gegeven'. Dutch-traditie: Sanballat.
+Horonitisch tegenstander van Nehemia (Neh 2:10,19; 3:33; 4:1; 6:1,2,5,12,14; 13:28). Dutch-traditie: Sanballat.
 
 **Vindplaatsen:**
 
@@ -24000,7 +23994,7 @@ Ezr-de-kinderen-van-Senaä-drie-duizend-zes-honderd-en-dertig en Neh-de-Vissers-
 ## H5575 — סַנְוֵרִים (sanwerim) — "verblinding"
 *Woordsoort:* zn | *Voorkomens:* 3
 
-Origineel concordant: verblinding-blindheid-nachtblind-schemering. Goddelijke-verblinding van Sodomieten en Aramese-troepen (Gen 19:11; 2 Kg 6:18 tweemaal). Gehyphenateerd om verblinding-blindheid-schemer-aspect te onderscheiden van H5787 iwwer 'blind' (reeds toegewezen) en H5788 ivvaron 'blindheid'; mogelijk Akkadisch leenwoord sunwurum.
+Origineel concordant: verblinding-blindheid-nachtblind-schemering. Goddelijke-verblinding van Sodomieten en Aramese-troepen (Gen 19:11; 2 Kg 6:18 tweemaal).
 
 **Vindplaatsen:**
 
@@ -26231,7 +26225,7 @@ Vrouwennaam; vrouw van Lamech in de Kaïn-lijn en vrouw van Esau (Gen 4:19,20,23
 ## H5712 — עדה (edah) — "vergadering"
 *Woordsoort:* zn | *Voorkomens:* 148 | *Stamfamilie:* H3259
 
-Wortel y'd (bijeenkomen, H3259). 'Vergadering' bewaart de bijeenkomst-dimensie; 'gemeente' is theologisch gekleurd.
+Wortel y'd (bijeenkomen, H3259). 'Vergadering' bewaart de bijeenkomst-dimensie; 'gemeente' is gekleurd.
 
 **Vindplaatsen:**
 
@@ -30371,7 +30365,7 @@ Aramees zn: eeuw, eeuwigheid; parallel aan Hebr olam; concordant samengesteld me
 ## H5959 — עַלְמָה (almah) — "jonge-vrouw-huwbaar"
 *Woordsoort:* zn | *Voorkomens:* 7 | *Stamfamilie:* H5958
 
-Jonge-vrouw in huwbare leeftijd, nog niet gebaard (Gen 24:43; Ex 2:8; Ps 68:26; Spr 30:19; Hgl 1:3; 6:8; Jes 7:14). Gehyphenateerd om leeftijd-status te bewaren; vrouwelijke tegenhanger van H5958 elem 'jongeling'. Neutraal-descriptief, geen theologisch-geladen 'maagd'.
+Jonge-vrouw in huwbare leeftijd, nog niet gebaard (Gen 24:43; Ex 2:8; Ps 68:26; Spr 30:19; Hgl 1:3; 6:8; Jes 7:14). Gehyphenateerd om leeftijd-status te bewaren; vrouwelijke tegenhanger van H5958 elem 'jongeling'. Neutraal-descriptief, geen doctrinair-geladen 'maagd'.
 
 **Vindplaatsen:**
 
@@ -33416,7 +33410,7 @@ Origineel concordant: eigennaam-Arabie-als-landstreek. Arabië als landstreek �
 ## H6152b — עֲרָב (Arav) — "Arabië-land-steppe"
 *Woordsoort:* eign | *Voorkomens:* 4 | *Stamfamilie:* H6163b
 
-Zuid-Arabische-steppe-koninkrijken en Ismaëliet-handel (1 Kg 10:15; 2 Kr 9:14; Jes 21:13; Jer 25:24; Ez 27:21). Dutch-traditie: Arabië. 'Steppen-dorheid'. Onderscheidt van homoniem H6153 erev 'avond' en H6154a erev-II 'mengel-volk' (beide reeds toegewezen); familie met H6163b Aravi 'Arabier' (reeds toegewezen).
+Dutch-traditie: Arabië. 'Steppen-dorheid'. Onderscheidt van homoniem H6153 erev 'avond' en H6154a erev-II 'mengel-volk' (beide reeds toegewezen); familie met H6163b Aravi 'Arabier' (reeds toegewezen).
 
 **Vindplaatsen:**
 
@@ -36689,7 +36683,7 @@ Door-melaats-aandoening uitgehold textiel; Lev 13:55.
 ## H6357 — פִּטְדָה (pitdah) — "topaas-edelsteen-gele-edelsteen"
 *Woordsoort:* zn | *Voorkomens:* 4
 
-Topaas-edelsteen op hogepriesters-borstschild en koningsstad-siersteen (Ex 28:17; 39:10; Ez 28:13; Job 28:19). Gehyphenateerd om topaas-edelsteen-aspect te onderscheiden van H3095 yahalom 'diamant-edelsteen' (zelfde batch) en H5601 sappir 'saffier' (reeds toegewezen); Sanskriet-leenwoord via pita-peridot.
+Topaas-edelsteen op hogepriesters-borstschild en koningsstad-siersteen (Ex 28:17; 39:10; Ez 28:13; Job 28:19).
 
 **Vindplaatsen:**
 
@@ -42354,8 +42348,6 @@ Van √tsud (jagen); proviand voor onderweg (Gibeonieten, woestijnreis); samenge
 ## H6721 — צִידוֹן (tsidon) — "Sidon"
 *Woordsoort:* eign | *Voorkomens:* 22
 
-Eigennaam; Fenicische havenstad; concordant getranslitereerd.
-
 **Vindplaatsen:**
 
 - Genesis: 10:15, 10:19, 49:13
@@ -42374,8 +42366,6 @@ Eigennaam; Fenicische havenstad; concordant getranslitereerd.
 
 ## H6722 — צִידֹנִי (tsidoni) — "Sidoniet"
 *Woordsoort:* zn | *Voorkomens:* 15 | *Stamfamilie:* H6721
-
-Van eign Sidon; inwoner van Sidon, Fenicisch; samengesteld NL markeert etniciteit.
 
 **Vindplaatsen:**
 
@@ -43356,7 +43346,7 @@ Vezel van schaap, symbool van wit/reinheid (Jes 1); concordant 'wol'.
 ## H6786 — צְמָרִי (Tsemari) — "Tsemari-Kanaänitisch-kustvolk"
 *Woordsoort:* eign | *Voorkomens:* 2
 
-Gen-Kanaän-verwekte-Arkiet-Siniet-Arvadiet-Tsemariet-Chamathiet en 1Kr-Tsemariet (Gen 10:18; 1Kr 1:16). Gehyphenateerd om Tsemari-Kanaänitisch-kustvolk-aspect te onderscheiden van H6787 Tsmaraim-stad (reeds toegewezen); Kanaänitische-stamnaam-Fenicisch-vezelland.
+Gen-Kanaän-verwekte-Arkiet-Siniet-Arvadiet-Tsemariet-Chamathiet en 1Kr-Tsemariet (Gen 10:18; 1Kr 1:16).
 
 **Vindplaatsen:**
 
@@ -44737,7 +44727,7 @@ Aromatische hars van Gilead (Gen 37:25; 43:11; Jer 8:22; 46:11; 51:8; Ez 27:17).
 ## H6876 — צֹרִי (Tsori) — "Tyriër"
 *Woordsoort:* eign | *Voorkomens:* 5 | *Stamfamilie:* H6865
 
-Bewoner van Tyrus, Fenicische havenstad (1 Kg 7:14; 1 Kr 22:4; Neh 13:16; Ps 87:4). Gentilicum; familie met H6865 Tsor.
+Gentilicum; familie met H6865 Tsor.
 
 **Vindplaatsen:**
 
@@ -45748,8 +45738,6 @@ Qal: verdonkerd zijn (hemel, gezicht), treuren; samengesteld NL markeert verande
 
 ## H6938 — קֵדָר (qedar) — "Kedar"
 *Woordsoort:* eign | *Voorkomens:* 12
-
-Eigennaam; tweede zoon van Ismaël, stamvader van noord-Arabische nomaden-stam; concordant getranslitereerd.
 
 **Vindplaatsen:**
 
@@ -56883,7 +56871,7 @@ Van √shaba (zweren); plechtige verbindingsformule; concordant 'eed'.
 ## H7622 — שְׁבוּת (shevut) — "lot-omkering"
 *Woordsoort:* zn | *Voorkomens:* 39 | *Stamfamilie:* H7725
 
-Van √shuv (keren); het herstel na ballingschap, 'het lot keren'; samengesteld NL markeert theologisch aspect.
+Van √shuv (keren); het herstel na ballingschap, 'het lot keren'; samengesteld NL markeert aspect.
 
 **Vindplaatsen:**
 
@@ -58842,7 +58830,7 @@ Wegzinken-neerbuigen van ziel en mens (Ps 35:14; 38:7; 42:6,12; 43:5; 44:26). Ge
 ## H7744 — שׁוּחַ (Suach) — "Suach-zoon-Abraham-Ketura"
 *Woordsoort:* eign | *Voorkomens:* 2
 
-Gen-Ketura-baarde-Zimran-Joksan-Medan-Midjan-Jisbak-en-Suah en 1Kr-zonen-Ketura-Suah (Gen 25:2; 1Kr 1:32). Gehyphenateerd om Suach-zoon-Abraham-Ketura-aspect te onderscheiden van H7745 shuchah 'put' (reeds toegewezen) als homograaf; zoon-laatste-Ketura-Arabische-stameponiem.
+Gen-Ketura-baarde-Zimran-Joksan-Medan-Midjan-Jisbak-en-Suah en 1Kr-zonen-Ketura-Suah (Gen 25:2; 1Kr 1:32).
 
 **Vindplaatsen:**
 
@@ -63131,7 +63119,7 @@ Qal: zwaard uit schede of schoen van voet trekken; concordant 'uittrekken'.
 ## H8026 — שֶׁלֶף (Sheleph) — "Sheleph"
 *Woordsoort:* eign | *Voorkomens:* 2
 
-Gen-Joktan-verwekte-Almodad-Sheleph-Chatsarmaveth en 1Kr-zonen-Joktan-Sheleph (Gen 10:26; 1Kr 1:20). Gehyphenateerd om Sheleph-zoon-Joktan-Arabische-stam-aspect te onderscheiden van H8025 shalaf-uittrekken (reeds toegewezen); Zuid-Arabië-eponiem-Jemenitische-stam.
+Gen-Joktan-verwekte-Almodad-Sheleph-Chatsarmaveth en 1Kr-zonen-Joktan-Sheleph (Gen 10:26; 1Kr 1:20).
 
 **Vindplaatsen:**
 
@@ -67196,8 +67184,6 @@ Aramees-werkwoord voor los-banden of aanvangen of losbarsten (Ezra 5:2; Dan 2:22
 
 ## H8272 — שַׂרְאֶצֶר (saretser) — "eigennaam-Saretser"
 *Woordsoort:* zn | *Voorkomens:* 3
-
-Eigennaam Saretser (Akkadisch Shar-usur 'moge de koning beschermen') — in Jesaja 37:38 (Adrammelech en Saretser, zijn zonen, sloegen hem met het zwaard) en Zacharia 7:2 (zij zonden naar het huis Gods Saretser en Regem-Melech); Assyrische prinsennaam.
 
 **Vindplaatsen:**
 
@@ -72511,7 +72497,7 @@ Tifel-perfectum; Ik-leerde-Efraïm-lopen als-vader; Hos 11:3.
 ## H8638 — תִּרְגֵּם (thrgm) — "vertalen-Aramees-stam"
 *Woordsoort:* ww | *Voorkomens:* 1
 
-Hapax Ezr 4:7 brief-Aramees-vertaald; wortel √trgm bron Targum-traditie.
+Hapax Ezr 4:7 brief-Aramees-vertaald; wortel √trgm (vertalen).
 
 **Vindplaatsen:**
 
@@ -72835,7 +72821,7 @@ Perzische titel voor stadhouder van Juda (Ezra 2:63; Neh 7:65,70; 8:9; 10:2). Du
 ## H8661 — תַּרְתָּן (Tartan-veldheer) — "Tartan-Assyrisch"
 *Woordsoort:* eign | *Voorkomens:* 2
 
-2K-en-de-koning-van-Assyrië-zond-Tartan-en-Rabsaris-en-Rabsake en Jes-toen-Tartan-naar-Asdod-kwam-toen-hem-Sargon-de-koning-van-Assyrië-gezonden-had (2K 18:17; Jes 20:1). Gehyphenateerd om Tartan-Assyrische-opperveldmaarschalk-titel-Sanherib-aspect te onderscheiden van andere Assyrische-titels; Akkadisch-turtanu-rang-tweede-na-koning-Sargon-II-Asdod-veldtocht-Sanherib-Jeruzalem-driespan-bestuurders-Lakis-onderhandeling.
+2K-en-de-koning-van-Assyrië-zond-Tartan-en-Rabsaris-en-Rabsake en Jes-toen-Tartan-naar-Asdod-kwam-toen-hem-Sargon-de-koning-van-Assyrië-gezonden-had (2K 18:17; Jes 20:1).
 
 **Vindplaatsen:**
 

@@ -88,7 +88,7 @@ Bij vragen over **Luk 2 / Jozef-Maria-Bethlehem / Joh 7 volk-twijfel**: cluster 
 
 **Cluster D — "alfei Yehudah"** — alfei betekent "duizendtallen" of "clans" (zie `../B_cijfer/1000.md` cluster H). **N1 voor woord-feit; N2 voor cijfer-context**.
 
-**Cluster D — "motza'otav me-qedem mi-yemei olam"** — uitgangen-vanouds-dagen-eeuwigheid. **N1 voor woord-feiten; N3-clue voor systematische pre-existentie-typologie**.
+**Cluster D — "motza'otav me-qedem mi-yemei olam"** — uitgangen-vanouds-dagen-eeuwigheid. **N1 voor de woord-feiten**. Een systematische pre-existentie-leer hieruit afleiden is geleende doctrine en valt buiten de typologie-laag; de tekst geeft alleen de woorden.
 
 **Cluster E — Mat 2:6 verschilt licht van Mi 5:2** — Mat voegt "poimanei ton laon mou" toe (uit 2 Sam 5:2 over David als herder van Israël). **N1 voor het feit van conflated-citaat; N2 voor literair-corpus-techniek**.
 
@@ -117,4 +117,4 @@ Eerdere versie (sjabloon V1) corrigeerd:
 2. Rachel-graf Gen 35 ↔ Mat 2:18 Rachel-weeklacht (Jer 31:15-citaat) — Fase 7 verhaal-typologie.
 3. Bethlehem-Efrata dubbele plaats-naam — Fase 5 D_taal of plaats-naam-overzicht.
 4. "Alfei Yehudah" ↔ duizendtallen-clans-tegenstelling — Fase 1 cijfer-typologie 1000 cluster H.
-5. Bethlehem ↔ Bethanië ↔ Bethel cluster (alle "Beit-X" namen) — Fase 5 D_taal beth-prefix-cluster.
+5. Bethlehem 

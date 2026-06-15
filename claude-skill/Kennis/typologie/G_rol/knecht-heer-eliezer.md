@@ -121,7 +121,7 @@ Bij vragen over **Rebekka-bruids-keuze**: cluster B + D + cross-link *rebekka* (
 
 **Cluster A `yad tachat yarekh`** Gen 24:2+9 — bron-eigen unieke eed-positie. **Niet over-claimen** op specifieke betekenis (besnijdenis-element of eerstgeboren-belofte) zonder bron-context-uitwerking — bron-feit is dat zelfde formule in Gen 47:29 (Jakob-Jozef) bestaat als levens-zware eed.
 
-**Cluster B `mlak·u l·phni·k`** Gen 24:7+40 — bron-eigen engel-vóór-knecht-formule. **Niet over-claimen** op specifieke "engel = Christus pre-incarnatie" zonder bron-bridge — bron-feit is `mal'akh` (H4397) algemene engelen-titel.
+**Cluster B `mlak·u l·phni·k`** Gen 24:7+40 — bron-eigen engel-vóór-knecht-formule. Een identificatie "engel = Christus pre-incarnatie" valt buiten de typologie-laag — bron-feit is `mal'akh` (H4397) algemene engelen-titel.
 
 **Cluster B tekens-gebed** Gen 24:12-14 — bron-eigen knecht-tekens-verzoek. **Niet over-claimen** op specifieke "elke gelovige mag tekens vragen" zonder NT-context — bron-feit is dit specifieke missie-element binnen Abrahamic-belofte-context. Vergelijk Mat 12:39 `genea ponēra kai moichalis sēmeion epizētei`.
 

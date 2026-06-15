@@ -46,7 +46,7 @@
 
 **NT-eigen typologie-claim.** Op 13:18 identificeert het getal als "arithmos anthrōpou" (getal van een mens) en geeft de waarde als "chi-xi-stigma" (G5516 — Griekse alfabetletters die voor 600+60+6 = 666 staan). **N1 voor de tekst-eigen oproep en getal-aanduiding zelf**.
 
-**Interpretatieve framings.** Specifieke identificatie van "wie" 666 voorstelt (Nero Caesar, Romeins keizer, eindtijds-figuur, etc.) is interpretatief en valt buiten de tekst-zelf-uitspraak. **N3-clue voor alle specifieke identificaties**. Joods-traditioneel gematria + kabbalistische cijfer-typologie vallen buiten typologie-laag (`_raamwerk.md` anti-patroon punt 1). Sola-scriptura-discipline staat alleen toe wat de tekst zelf signaleert.
+**Wat de tekst NIET zegt.** Een specifieke identificatie van "wie" 666 voorstelt (Nero Caesar, Romeins keizer, eindtijds-figuur, etc.) valt buiten de tekst-zelf-uitspraak en buiten de typologie-laag. Joods-traditioneel gematria + kabbalistische cijfer-typologie vallen eveneens buiten de typologie-laag (`_raamwerk.md` anti-patroon punt 1). Sola-scriptura-discipline staat alleen toe wat de tekst zelf signaleert.
 
 ## Voorkomens (per cluster)
 
@@ -572,7 +572,7 @@ Eerdere V1-versie corrigeerd:
 - **Bron-discipline:** uitsluitend `Kennis/puur/` en `Kennis/strong/` (70 boeken). Sola scriptura. Geen training-input.
 - **As 1 (categorieën):** D5 (polysemie primair), met cross-tag G (rol-typologie via Joh 10:34 christologisch)
 - **As 2 (lagen):** L1, L2, L3, L4
-- **As 3 (algemeen zekerheids-niveau):** **N1 voor woord-feit Elohim (H430) als morfologisch-meervoudig + grammaticaal-enkelvoudig in Gen 1:1 + meervoudig "wij/ons" in Gen 1:26 + 11:7 + Jes 6:8**; **N1 voor Joh 10:34-36 expliciete Christus-citatie van Ps 82:6 met "egō eipa theoi este"**; **N1 voor drie-betekenissen-feit (JHWH-God / goden-algemeen / menselijke-rechters)**; N2 voor structurele drievoudige "Wij/Ons"-passages-cluster; N3-clue voor latere theologische-trinitarische-formuleringen via Elohim-vorm
+- **As 3 (algemeen zekerheids-niveau):** **N1 voor woord-feit Elohim (H430) als morfologisch-meervoudig + grammaticaal-enkelvoudig in Gen 1:1 + meervoudig "wij/ons" in Gen 1:26 + 11:7 + Jes 6:8**; **N1 voor Joh 10:34-36 expliciete Christus-citatie van Ps 82:6 met "egō eipa theoi este"**; **N1 voor drie-betekenissen-feit (JHWH-God / goden-algemeen / menselijke-rechters)**; N2 voor structurele drievoudige "Wij/Ons"-passages-cluster. De tekst geeft geen reden voor de meervoud-vorm; elke duiding ervan valt buiten de typologie-laag
 - **Tags:** elohim, meervoud-vorm, drie-betekenissen, theoi, "Wij"-Gen-1-26, Ps-82-6, Joh-10-34, Bnei-Elyon, polysemie
 - **Zie ook:** `../A_entiteit/adam.md`, `./wortel-rua.md`, `./paronomasie-shalom-shalem.md`, `../B_cijfer/3.md`
 
@@ -588,7 +588,7 @@ Elohim heeft tekst-eigen drie betekenissen:
 **NT-eigen typologie-claim.**
 - **Joh 10:34-36** — Christus citeert Ps 82:6 expliciet ("egō eipa theoi este"). **N1 voor citatie**. Christus past de Elohim-titel toepasselijk op Zichzelf via "indien Hij hen elohim noemt tot wie het woord Gods kwam — wat zegt gij dan tot Hem die de Vader heeft geheiligd en gezonden?".
 
-**Interpretatieve framings.** Dat Elohim-meervoud-vorm typologisch verwijst naar latere trinitarische God-eenheid is interpretatieve laag uit theologische traditie. **N1 voor de meervoud-vorm + drie "Wij/Ons"-passages als tekst-eigen feit; N3-clue voor systematische trinitarische uitwerking**. Sola-scriptura-discipline: tekst-typologisch staat alleen dat Schrift meervoud-vorm gebruikt voor God-die-één-is + drievoudige "Wij/Ons"-passages aanwezig zijn.
+**Wat de tekst NIET zegt.** Een duiding van de Elohim-meervoud-vorm (welke dan ook: trinitarisch, meervoud-van-majesteit, engelenraad) is geleende uitleg en valt buiten de typologie-laag. **N1 voor de meervoud-vorm + drie "Wij/Ons"-passages als tekst-eigen feit.** Sola-scriptura-discipline: tekst-typologisch staat alleen dat de Schrift een meervoud-vorm gebruikt voor God-die-één-is + dat er drie "Wij/Ons"-passages zijn; de tekst geeft geen reden.
 
 ## Voorkomens (per cluster)
 
@@ -635,8 +635,8 @@ Elohim heeft tekst-eigen drie betekenissen:
 **NT-OT verbinding (eerlijke beoordeling).**
 - **Wel door tekst expliciet gelegd:** Joh 10:34 citeert Ps 82:6 met "gegrammenon en tō nomō humōn". **N1**.
 - **Wel door tekst expliciet gelegd:** Joh 10:35-36 christologische a-fortiori-argumentatie. **N1**.
-- **Niet door tekst expliciet gelegd:** dat de drie "Wij/Ons"-passages (Gen 1:26 + 11:7 + Jes 6:8) typologisch verwijzen naar drie-eenheid-formulering. **N1 voor de drie-vermelding-feit; N2 voor structureel-drievoud-patroon binnen drie-Schrift-momenten; N3-clue voor systematische trinitarische uitwerking**.
-- **Niet door tekst expliciet gelegd:** dat Elohim-meervoud-vorm = "meervoud van majesteit" of "vroege Triniteit-aanwijzing". Tekst-typologisch staat alleen: meervoud-vorm + grammaticaal-enkelvoud + drievoudige "Wij/Ons"-passages. **N3-clue voor systematische theologische uitleg**.
+- **Niet door tekst gelegd:** een duiding van de drie "Wij/Ons"-passages (Gen 1:26 + 11:7 + Jes 6:8). **N1 voor het drie-vermelding-feit; N2 voor het structureel-drievoud-patroon.** Een verwijzing naar enige God-leer valt buiten de typologie-laag.
+- **Niet door tekst gelegd:** een verklaring van de Elohim-meervoud-vorm ("meervoud van majesteit", "vroege Triniteit-aanwijzing", e.d.). Tekst-typologisch staat alleen: meervoud-vorm + grammaticaal-enkelvoud + drie "Wij/Ons"-passages. Elke verklaring is geleende uitleg, buiten de laag.
 
 ## Watermerk-verbinding
 
@@ -652,9 +652,9 @@ Bij vragen over **andere goden / volkengoden Exo 12:12 + 20:3**: cluster E.
 
 ## Waarschuwingen
 
-**Trinitarische uitleg via Elohim-meervoud** — niet expliciet door tekst gelegd. Tekst-typologisch staat: meervoud-vorm + grammaticaal-enkelvoud + drievoudige "Wij/Ons"-passages. **N1 voor het feit; N3-clue voor systematische trinitarische uitwerking**. Niet inkleuren met latere theologische formuleringen.
+**Duiding van de Elohim-meervoud-vorm** — niet door de tekst gelegd. Tekst-typologisch staat: meervoud-vorm + grammaticaal-enkelvoud + drie "Wij/Ons"-passages. **N1 voor het feit.** Elke verklaring (trinitarisch of anders) is geleende uitleg en valt buiten de typologie-laag; niet inkleuren met theologische formuleringen.
 
-**Elohim-meervoud-discussie** — alternatieve uitlegen ("meervoud van majesteit", "engelenraad", "Triniteit-anker") zijn theologische tradities. Tekst-zelf maakt geen expliciete keuze. **N3-clue voor specifieke uitleg**.
+**Elohim-meervoud-discussie** — de tekst zelf geeft geen reden voor de meervoud-vorm en maakt geen keuze. Voorgestelde verklaringen ("meervoud van majesteit", "engelenraad", "Triniteit-anker") zijn geleende tradities en vallen buiten de typologie-laag.
 
 **Cluster D Joh 10:34-36 a-fortiori-argumentatie** — Christus' redenering: indien menselijke rechters elohim genoemd worden (Ps 82), is een directe-Vader-zending-figuur des te meer "huios theou". **N1 voor de argumentatie; N2 voor christologische zwaarte**. Niet over-claimen op andere Joh-passages buiten 10:34-36.
 
@@ -683,7 +683,7 @@ Eerdere V1-versie corrigeerd:
 - Cluster A — Gen 1:26 volledig uitgewerkt met dubbel-suffix be-tzalmenu + ki-demutenu
 - Cluster D — Joh 10:34-36 a-fortiori-argumentatie expliciet als N1-redenering
 - Cluster C — Ps 82 drievoudig elohim-gebruik gepreciseerd met N3-clue voor identificatie van vers 1b
-- Trinitarische uitleg → N3-clue voor systematische uitwerking (was implicit-trinitarisch in V1-framing)
+- Trinitarische uitleg volledig verwijderd als geleende doctrine (was implicit-trinitarisch in V1-framing, daarna N3-clue); alleen de meervoud-vorm-feiten behouden (zuivering 2026-06-15)
 - Cluster E (volkengoden) als afzonderlijk cluster expliciet (Exo 12:12 + 20:3)
 - Christus-citatie waarschuwing — geen directe-titel-overname maar a-fortiori-argument
 - Cross-references aangevuld
@@ -695,8 +695,7 @@ Eerdere V1-versie corrigeerd:
 3. Joh 10:34 a-fortiori-argumentatie ↔ andere NT-Schrift-citaties met "graphē ou dunatai luthēnai"-formule — eigen Fase 5 onderzoek.
 4. Bnei Elyon (Ps 82:6 + Luk 6:35 huioi hupsistou + Mat 5:9 huioi theou) — eigen Fase 8 G_rol entry.
 5. Theoi-aanduiding NT (1 Kor 8:5) versus Elohim-OT polysemie — Fase 5 D_taal cross-corpus.
-6. Drie "Wij/Ons"-passages als drievoudige typologische zelf-aanduiding — Fase 1 cijfer-typologie 3 cluster B.
-
+6. Drie "Wij/Ons"-passage
 ---
 
 

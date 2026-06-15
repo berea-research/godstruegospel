@@ -95,7 +95,7 @@ Interpretatieve framings. Dat Hagars twee Engel-JHWH-ontmoetingen (Gen 16:7-13 +
 4. **Wel door tekst expliciet gelegd:** Heb 11:11 + 1 Pet 3:6 — Sara als geloofs-prototype. **N1**.
 5. **Niet door tekst expliciet gelegd:** Hagars twee Engel-JHWH-ontmoetingen ↔ verschijning-aan-verlatene-typologie. **N3-clue**.
 6. **Niet door tekst expliciet gelegd:** Ismaël 12 vorsten Gen 17:20 ↔ Israel 12 stammen. **N3-clue** (gedeeld getal).
-7. **Niet door tekst expliciet gelegd:** Gen 18 drie-mannen ↔ trinitarische theofanie. **N3-clue, buiten cluster C-allegorie**.
+7. **Niet door tekst gelegd:** Gen 18 noemt drie mannen die JHWH vertegenwoordigen; de tekst geeft geen verdere duiding van het getal. Elke duiding ervan valt buiten de typologie-laag.
 
 ## Watermerk-verbinding
 
@@ -139,4 +139,4 @@ Eerdere versie corrigeerd:
 2. Hagar's twee Engel-JHWH-ontmoetingen (Gen 16, 21) verdienen eigen sub-onderzoek over verschijning-aan-verlatene-typologie (`F_verhaal` Fase 7).
 3. Cluster B wortel pala (H6381) — verbinding `./simson.md` + Jes 9:6. Past in `D_taal/wortel-pele.md` (Fase 5).
 4. Sara-Rebekka-Rachel patroon (drie patriarch-vrouwen alle drie onvruchtbaar tot belofte) — verdient eigen meta-entry over "onvruchtbare-moeder-typologie".
-5. Cluster A wortelpaar "metzacheq/Yitzchaq" Gen 21:9 — typologisch lading "Ismaël lacht namens Isaak" verdient sub-onderzoek?
+5. Cluster A wortelpaar "metzacheq/Yitzchaq" Gen 21:9 — typologisch ladin

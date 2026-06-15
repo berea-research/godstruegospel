@@ -342,9 +342,9 @@ Bij vragen over **Job zeldzaam-rechtvaardige, één-uit-duizend**: cluster I.
 
 **STERK WAARSCHUWINGSGEBOD voor 1000.**
 
-**Cluster H polysemie elef (H505)** — heeft polysemie "duizend" / "clan/stam-eenheid" / "leider". In tellings-passages (Num 1, Num 26, Joz, Ri, 1 Sam) kan elef beide betekenen — context bepaalt. **Sommige uitleggers** menen dat hoge tellingen in Numeri (600.000 strijdbaren) eerder "600 clans" zijn dan letterlijk 600.000 personen. **Typologie-laag claimt geen positie-keuze**; cluster H markeert polysemie expliciet.
+**Cluster H polysemie elef (H505)** — heeft polysemie "duizend" / "clan/stam-eenheid" / "leider". In tellings-passages (Num 1, Num 26, Joz, Ri, 1 Sam) kan elef beide betekenen — context bepaalt. De polysemie laat de hoge tellingen in Numeri (600.000 strijdbaren) zowel als letterlijke aantallen als "600 clans" lezen. **Typologie-laag claimt geen positie-keuze**; cluster H markeert alleen de polysemie als tekst-feit.
 
-**Cluster A Op 20 millennium** — voorwerp van veel theologisch debat: pre-, post-, a-millennialisme. **Tekst zegt 1000 jaar zes keer expliciet** binnen Op 20:2-7. Specifieke chiliasme-school (letterlijk-toekomstig, symbolisch-tegenwoordig, eindtijds-fase) valt **buiten typologie-laag**. **N3-clue** voor specifieke eschatologische school. Patroon-typologisch staat: 1000 jaar als afgeperkte regerings-fase die door tekst expliciet vermeld wordt.
+**Cluster A Op 20 millennium** — **Tekst zegt 1000 jaar zes keer expliciet** binnen Op 20:2-7. Een specifieke eschatologische school (letterlijk-toekomstig, symbolisch-tegenwoordig, eindtijds-fase) is geleende doctrine en valt **buiten de typologie-laag**. Patroon-typologisch staat alleen: 1000 jaar als afgeperkte regerings-fase die door de tekst expliciet vermeld wordt.
 
 **Cluster B + 6×1000-jaar-mensgeschiedenis-typologie** (6 dagen werk + 7e dag rust → 6000+1000) — **typologische leesfiguur**, **niet door tekst expliciet uitgewerkt**. 2 Pet 3:8 + Gen 2:2 + Op 20 leveren wel bouwstenen, **maar geen tekst zegt "6000 jaar mensgeschiedenis"**. **N2** voor patroon. Cross-link `./120.md` Cluster B (120 jubels × 50 = 6000 jaar) is mogelijk maar typologisch.
 
@@ -868,7 +868,7 @@ NT-eigen typologie-claim. **Tekst geeft geen interne uitleg van cijfer 153**. **
 
 Drie typologische pijlers in de **omgeving** van het cijfer, geen typologische pijler in het cijfer zelf.
 
-Interpretatieve framings. Dat 153 = driehoeksgetal van 17 (1+2+...+17), of dat 153 = aantal vis-soorten volgens Plinius/Hieronymus, of dat 153 = gematria van "kinderen Gods" of "het is de Heer", of dat 153 = 9×17 (twee priemgetallen), of dat 153 = 100+50+3 (symbolische opbouw): **geen van deze voorstellen staat in de tekst zelf**. **Allen N3-clue of buiten typologie-laag**. Sola-scriptura-discipline dwingt: bij het feitelijke aantal blijven, geen speculatieve gematria of driehoeksgetal-uitleggen.
+Interpretatieve framings. Dat 153 = driehoeksgetal van 17 (1+2+...+17), of dat 153 = aantal vis-soorten volgens Plinius/Hieronymus, of dat 153 = gematria van "kinderen Gods" of "het is de Heer", of dat 153 = 9×17 (twee priemgetallen), of dat 153 = 100+50+3 (symbolische opbouw): **geen van deze voorstellen staat in de tekst zelf**. **Allen buiten de typologie-laag**. Sola-scriptura-discipline dwingt: bij het feitelijke aantal blijven, geen speculatieve gematria of driehoeksgetal-uitleggen.
 
 ## Voorkomens (per cluster)
 
@@ -920,7 +920,7 @@ Bij vragen over **getals-typologie 153 specifiek**: **N3-clue waarschuwing** + v
 - 153 = driehoeksgetal van 17 (1+2+3+...+17 = 153) — wiskundig feit, geen tekst-bron
 - 153 = soorten vissen volgens Plinius / Hieronymus — buitenbijbelse natuurkunde
 - 153 = gematria van "kinderen Gods" (b'nei ha-elohim) of "het is de Heer" — Hebreeuws-getal-rekening zonder tekst-bron
-- 153 = 100 (volken) + 50 (jubel) + 3 (drie-eenheid) — symbolische opbouw zonder tekst-bron
+- 153 = 100 (volken) + 50 (jubel) + 3 — symbolische optelling zonder tekst-bron
 - 153 = 9 × 17 — priemgetal-rekening zonder tekst-bron
 
 **Geen van deze voorstellen staat in de tekst zelf**. **Sola-scriptura-discipline van de typologie-laag** dwingt om bij feitelijke aantal te blijven: een eenmalig precies getuigenis-getal in het slot-evangelie, ingebed in derde opstandings-verschijning + Petrus-herstel-narratief.
@@ -1299,7 +1299,7 @@ Interpretatieve framings. Dat 40 = "afgeperkte beproevings- of voorbereidings-pe
 
 **Deuteronomium 25:3** [N1] — `arba'im yakkennu lo yosif` (H705 + H5221 + H3808 + H3254). **Bron-eigen wettelijke maximum-formule**.
 
-**2 Korinthe 11:24** [N1] — `hypo Ioudaiōn pentakis tessarakonta para mian elabon` (G5259 + G2453 + G3999 + G5062 + G3844 + G3391 + G2983) — Paulus' lijden: vijfmaal 40-minus-1. **Bron-eigen rabbijnse praktijk-feit**: 39 om bij ongelukje niet over 40 heen te gaan.
+**2 Korinthe 11:24** [N1] — `hypo Ioudaiōn pentakis tessarakonta para mian elabon` (G5259 + G2453 + G3999 + G5062 + G3844 + G3391 + G2983) — Paulus' lijden: vijfmaal "veertig-minus-één" (tessarakonta para mian). **Tekst-eigen feit**; Deut 25:3 begrenst de geseling op veertig.
 
 ### Cluster N — Profetische 40-perioden [N1]
 
@@ -1390,8 +1390,7 @@ Eerdere V1-versie corrigeerd: sjabloon V2 toegepast (Bron-verificatie + N-niveau
 3. **Cluster I 40-dagen-na-opstanding ↔ cluster A 40-dagen-vloed** — twee 40-dagen-doorgangen, één oordeel, ander zegen. Past in `H_contrast/twee-40-dagen-doorgangen.md`.
 4. **3 verzoekingen Christus binnen 40 dagen vasten** — drievoudige beproeving binnen 40-dagen-doorgang. Cross-link `./3.md` cluster B.
 5. **Eze 4:5-6 390 + 40 dagen Israel + Juda** — totaal 430 dagen. Verbinding met Exo 12:40-41 Israel 430 jaar Egypte? Verdient eigen onderzoek.
-6. **40 als "compleet wereld-orde-tijd-eenheid"** (4 hoeken × 10 = 40) — past in toekomstige B3-entry "cijfer-vermenigvuldigingen".
-
+6. **40 als "compleet wereld-orde-tijd-eenheid"** (4 hoeken × 10 = 40) — past in toekomstige B3-entry "cijfer-vermenig
 ---
 
 
@@ -2036,7 +2035,7 @@ Bij vragen over **ballingschap, 70 jaar Babel, Jeremia-profetie, sabbatten-inhal
 
 Bij vragen over **Tyrus, heiden-oordeel, parallel-ballingschap**: cluster F.
 
-Bij vragen over **Daniel 9, jaarweken, 490 jaar, Messias-dispensatie, eindtijd**: cluster G + verwijzing toekomstige *zeventig-weken-dan-9*.
+Bij vragen over **Daniel 9, jaarweken, 490 jaar, eindtijd**: cluster G + verwijzing toekomstige *zeventig-weken-dan-9*.
 
 Bij vragen over **70 discipelen, Lukas-zending, naast-de-twaalf, wereldvolken**: cluster H + cluster B2.
 

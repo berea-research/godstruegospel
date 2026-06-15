@@ -134,7 +134,7 @@ Bij vragen over **`thbnith`-architectonisch model** (Mozes-Sinai + David-Sion): 
 
 **Cluster F Hebr 9:11 `ou cheiropoiētou`** (niet-handgemaakt) — bron-eigen contrast aardse versus hemelse heiligdom. Niet vermengen met Mark 14:58 + Hand 7:48 + 17:24 (waar `cheiropoiētos` ook in Christus-getuigenis wordt gebruikt) zonder eigen analyse.
 
-**Niet over-claimen op specifieke "drievoudige-tempel-laag = Vader-Zoon-Geest-typologie"**. Bron-eigen drievoudige-laag is Mozes-tabernakel + Salomo-tempel + hemelse oer-tempel. Specifieke trinitarische uitwerking is **N3-clue**, geen tekst-bridge.
+**Niet over-claimen op een "drievoudige-tempel-laag = Vader-Zoon-Geest-typologie"**. Bron-eigen drievoudige-laag is Mozes-tabernakel + Salomo-tempel + hemelse oer-tempel. Een trinitarische uitwerking daarvan is geleende uitleg en valt buiten de typologie-laag; alleen de drie lagen zijn tekst-feit.
 
 ## Bron-verificatie
 
@@ -159,4 +159,4 @@ Alle vers-references in deze entry op 2026-05-08 geverifieerd via grep + woord-v
 3. **Salomo-vrede ↔ Christus-vrede** Ef 2:14-18 — past in toekomstige `../G_rol/drie-ambten-koning.md` (Fase 8) of `../A_entiteit/salomo.md` cross-update.
 4. **Cluster F `antitypa tōn alēthinōn` Hebr 9:24** — past in update `../D_taal/hapax-overzicht.md` Cluster A (G499 antitupon).
 5. **Joh 2:20 46-jaar tempel-bouw** — historische context-vraag, valt buiten typologie-laag.
-6. **Driedaagse tempel-oprichting Joh 2:19** — past in cross-link `../B_cijfer/3.md` Cluster A + `../E_structuur/chiasme-narratief-jona.md` (Mat 12:40-cluster).
+6. **Driedaagse tempel-oprichting Joh 2:19** — past in cross-link `../B_cijfer/3.md` Cluster A + `../E_structuu

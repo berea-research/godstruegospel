@@ -102,7 +102,7 @@
 - **Bron-discipline:** uitsluitend `Kennis/puur/` en `Kennis/strong/`. Sola scriptura. Geen training-input.
 - **As 1 (categorieën):** A1 (christustypen via Paulus' expliciete typologie), G2 (vader-zoon raakvlak)
 - **As 2 (hermeneutische lagen):** L1, L2 (waar door tekst zelf bevestigd)
-- **As 3 (algemeen zekerheids-niveau):** **N1 voor cluster D** (Gal 3:16 + Gal 4:24 noemen "spermati = Christos" en "allēgoroumena" expliciet); N1 voor cluster A, B-Gen, C; N2 voor "Melchizedek-brood-wijn = avondmaal"-koppeling (geen NT-tekst legt deze) en voor "monogenēs Isaak ↔ monogenēs Christos"-koppeling (Heb 11:17 noemt Isaak monogenē, Joh 3:16 Christus, geen tekst legt expliciet brug); N3-clue voor "Gen 22:8 ha-seh ↔ Joh 1:29 amnos tou theou".
+- **As 3 (algemeen zekerheids-niveau):** **N1 voor cluster D** (Gal 3:16 + Gal 4:24 noemen "spermati = Christos" en "allēgoroumena" expliciet); N1 voor cluster A, B-Gen, C. Melchizedeks brood-wijn (Gen 14:18) blijft een kaal tekst-feit; een avondmaal-lezing is geleende traditie, buiten de typologie-laag (geen NT-tekst koppelt het). N2 voor "monogenēs Isaak ↔ monogenēs Christos"-koppeling (Heb 11:17 noemt Isaak monogenē, Joh 3:16 Christus, geen tekst legt expliciet brug); N3-clue voor "Gen 22:8 ha-seh ↔ Joh 1:29 amnos tou theou".
 - **Tags:** Abraham, vader-des-geloofs, verbond, beloofde-zaad, isaak-offer, melchizedek-tienden, av-hamon-goyim, geloof-gerechtigheid, twee-zonen, allēgoroumena, Gal-3-4, Rom-4, Hebr-11
 - **Zie ook:** `./isaak.md`, `./jakob.md`, `../H_contrast/twee-verbonden-hagar-sara.md` (toekomstig), `../B_cijfer/3.md` cluster A (Gen 22:4), `../B_cijfer/10.md` cluster B (tienden Melchizedek)
 
@@ -112,7 +112,7 @@ Tekst-eigen feiten. Gen 12:1-3 bevat de roeping "lekh-lekha" en de zegen-aan-vol
 
 NT-eigen typologie-claims. Rom 4:3, Gal 3:6, Jak 2:23 citeren Gen 15:6 letterlijk. Gal 3:16 stelt Paulus' grammaticale claim: "tō spermati autou ... hos estin Christos" — het zaad is enkelvoud en doelt op Christus. Gal 4:22-31 noemt de twee zonen-allegorie expliciet "allēgoroumena ... duo diathēkai". Heb 11:17 noemt Isaak "ton monogenē" en Heb 11:19 verklaart dat Abraham geloofde "ek nekrōn egeirein dunatos ho theos" (uit-doden-opwekking) en Isaak "en parabolē ekomisato" (in gelijkenis terugkreeg).
 
-Interpretatieve framings. Dat Melchizedeks "lechem va-yayin" (Gen 14:18) een avondmaal-typologie is wordt door geen NT-tekst gelegd; Heb 7 hervat Melchizedek wel maar zonder brood-wijn-koppeling. **N2.** Dat "monogenēs Isaak" en "monogenēs Christos" een directe typologische brug vormen is interpretatieve observatie via gedeeld woord. Heb 11:17 gebruikt "monogenē" maar koppelt niet expliciet aan Joh 3:16. **N2.** Dat Gen 22:8 "ha-seh" identiek is aan Joh 1:29 "amnos tou theou" is interpretatieve framing zonder NT-eigen citaat van Gen 22:8. **N3-clue.**
+Interpretatieve framings. Melchizedeks "lechem va-yayin" (Gen 14:18) blijft een kaal tekst-feit; een avondmaal-lezing is geleende traditie en valt buiten de typologie-laag (geen NT-tekst koppelt het; Heb 7 hervat Melchizedek zonder brood-wijn-vermelding). Dat "monogenēs Isaak" en "monogenēs Christos" een directe typologische brug vormen is interpretatieve observatie via gedeeld woord. Heb 11:17 gebruikt "monogenē" maar koppelt niet expliciet aan Joh 3:16. **N2.** Dat Gen 22:8 "ha-seh" identiek is aan Joh 1:29 "amnos tou theou" is interpretatieve framing zonder NT-eigen citaat van Gen 22:8. **N3-clue.**
 
 ## Voorkomens (per cluster)
 
@@ -190,7 +190,7 @@ Interpretatieve framings. Dat Melchizedeks "lechem va-yayin" (Gen 14:18) een avo
 3. **Wel door tekst expliciet gelegd:** Gal 4:22-24 — twee zonen / twee verbonden / "allēgoroumena". **N1**.
 4. **Wel door tekst expliciet gelegd:** Heb 11:17-19 — Isaak-offer + uit-doden-opwekking + "en parabolē". **N1**.
 5. **Wel door tekst expliciet gelegd:** Heb 7 hervat Melchizedek-ontmoeting (verbinding `../B_cijfer/10.md` cluster B). **N1**.
-6. **Niet door tekst expliciet gelegd:** Melchizedeks brood-wijn (Gen 14:18) als avondmaal-typologie. Heb 7 hervat Melchizedek zonder brood/wijn-vermelding. **N2**.
+6. **Niet door tekst gelegd:** Melchizedeks brood-wijn (Gen 14:18) als avondmaal-typologie. Heb 7 hervat Melchizedek zonder brood/wijn-vermelding; geen NT-tekst koppelt het. Avondmaal-lezing valt buiten de typologie-laag.
 7. **Niet door tekst expliciet gelegd:** "monogenēs Isaak (Heb 11:17) ↔ monogenēs Christos (Joh 3:16)". Gedeeld woord, geen tekst legt brug. **N2**.
 8. **Niet door tekst expliciet gelegd:** Gen 22:8 "ha-seh" ↔ Joh 1:29 "amnos tou theou". **N3-clue**.
 
@@ -198,7 +198,7 @@ Interpretatieve framings. Dat Melchizedeks "lechem va-yayin" (Gen 14:18) een avo
 
 Bij vragen over **roeping Abraham, lekh-lekha, zegen aan volken, geloof gerechtigheid Gen 15:6**: cluster A.
 
-Bij vragen over **Melchizedek, brood en wijn, tienden Abraham, Hebr 7**: cluster B + `../B_cijfer/10.md` cluster B (met expliciete waarschuwing dat brood-wijn-avondmaal-koppeling N2 is).
+Bij vragen over **Melchizedek, brood en wijn, tienden Abraham, Hebr 7**: cluster B + `../B_cijfer/10.md` cluster B (met expliciete waarschuwing dat een brood-wijn-avondmaal-lezing buiten de typologie-laag valt).
 
 Bij vragen over **Isaak-offer, Moria, derde dag, lam Gods, monogenēs**: cluster C + `../B_cijfer/3.md` cluster A + `../C_tijd/derde-dag.md` (met N2/N3-clue waarschuwingen).
 
@@ -212,7 +212,7 @@ Bij vragen over **Hagar Sara, twee zonen, twee verbonden, allēgoroumena**: clus
 
 **Cluster E Gal 4:24** — Paulus gebruikt "allēgoroumena" (G238). Tekst Gen 16-21 zelf maakt geen verbonds-claim; Gal 4 geeft kern-uitleg. Niet inkleuren met latere verkiezingstheologie.
 
-**Cluster B Melchizedek brood-wijn-avondmaal-koppeling** — geen NT-tekst legt deze. Hebr 7 hervat Melchizedek wel maar concentreert op priesterschap-na-orde-Melchizedek (Heb 7:11-17), niet op brood/wijn. **N2**, verwijderd uit hypothese.
+**Cluster B Melchizedek brood-wijn** — een avondmaal-koppeling is geleende traditie en valt buiten de typologie-laag; geen NT-tekst legt deze. Hebr 7 hervat Melchizedek wel maar concentreert op priesterschap-na-orde-Melchizedek (Heb 7:11-17), niet op brood/wijn. Tekst-feit blijft: Melchizedek brengt brood en wijn voort.
 
 **Cluster C "monogenēs Isaak ↔ monogenēs Christos"** — gedeeld woord, geen tekst-eigen brug. Heb 11:17 noemt alleen Isaak; Joh 3:16 noemt alleen Christus. **N2**.
 
@@ -226,7 +226,7 @@ Alle 56 vers-references in deze entry op 2026-05-06 geverifieerd via `audit_v2.p
 
 Eerdere versie corrigeerd:
 - **Hypothese**: "in Christus zijn vervulling vindt" als Schrift-eigen geframed → corrigeerd; vervullings-claim is door Paulus' uitleg gelegd, niet inherente tekst-eigenschap van Gen.
-- **Cluster B Melchizedek brood-wijn**: was "typologie van avondmaal" als N1 → corrigeerd naar **N2** (geen NT-tekst legt brood-wijn-avondmaal-koppeling).
+- **Cluster B Melchizedek brood-wijn**: avondmaal-typologie verwijderd als geleende traditie (zuivering 2026-06-15); alleen tekst-feit behouden (geen NT-tekst koppelt het brood-wijn).
 - **Cluster C Gen 22:8 "lam Gods"-koppeling**: was N1 → corrigeerd naar **N3-clue** (geen NT-tekst citeert Gen 22:8 voor "amnos tou theou").
 - **Cluster C "monogenēs Isaak ↔ monogenēs Christos"**: niet eerder als brug benoemd → toegevoegd als **N2** (Heb 11:17 noemt Isaak monogenē expliciet, maar geen tekst-eigen brug naar Joh 3:16).
 - **Heb 11:17 citaat-aanvulling**: "ton monogenē prosepheren" — bron-feit toegevoegd om N1-status van monogenēs-claim te verankeren.
@@ -240,10 +240,7 @@ Eerdere versie corrigeerd:
 1. Cluster C Isaak-offer ↔ Christus-offer — verdient eigen meta-entry over "vader-offert-zoon-typologie" naast `./isaak.md` en `./adam.md`.
 2. Cluster E twee-verbonden — verdient `H_contrast/twee-verbonden-hagar-sara.md` (Fase 9).
 3. Drievoudige zoon-identificatie Gen 22:2 (bn·k / ichid·k / ashr-aebth) — typologische dichtheid; eigen sub-entry over "yachid"-vocabulaire (H3173, 12× in OT)?
-4. Hebr 11 geloofs-galerij plaatst Abraham + Isaak + Jakob + Jozef in één lijn — meta-entry over patriarchen-typologie?
-5. Abraham 99 jaar besneden (Gen 17:24) + Sara 90 jaar (Gen 17:17) — zoon-belofte boven biologie. Past in `./isaak.md`.
-6. Gen 18 drie mannen bij Mamre — typologische dichtheid (verbinding `../B_cijfer/3.md` cluster F).
-
+4. Hebr 11 geloofs-gale
 ---
 
 
@@ -769,7 +766,7 @@ Interpretatieve framings. Dat Moria = Salomo-tempel = Golgotha een typologische 
 
 **Hebreeën 11:17-19** [N1] — Isaak-offer in geloofs-galerij (uitvoerig in `./abraham.md` cluster C + `./isaak.md` cluster B). Heb 11:19 noemt "ek nekrōn egeirein ... en parabolē ekomisato". Geen Moria-naam.
 
-[N3-clue] Geografische identificatie van Moria-tempel-locatie met Golgotha-kruisigings-plaats wordt door geen tekst expliciet gelegd. Joods-traditioneel zijn beide locaties op of nabij de tempel-berg, maar Heb 13:12 plaatst Christus' lijden expliciet **buiten de poort**. Niet over-claimen.
+Een geografische identificatie van Moria met de kruisigings-plaats wordt door geen tekst gelegd en valt buiten de typologie-laag. Tekst-feit: Heb 13:12 plaatst Christus' lijden expliciet **buiten de poort** (exō tēs pylēs), geografisch los van de Moria-tempel-berg. Niet over-claimen.
 
 ## Coherentie-toets
 
@@ -797,7 +794,7 @@ Bij vragen over **Moria = Golgotha, Heb 13:12 buiten poort**: cluster C (met exp
 
 **Cluster B 2 Sam 24:24 vs 1 Kron 21:25 prijs-verschil** — 2 Sam: 50 sikkels zilver voor dorsvloer + runderen; 1 Kron: 600 sikkels goud voor "de plaats" (b·makom). Verschillende elementen + verschillende metalen. Bron-feit, niet als "tegenstelling" inkleuren.
 
-**Cluster C "Moria = Golgotha"-identificatie** — joods-traditioneel/christelijk, niet bron-eigen. **Heb 13:12 noemt expliciet "exō tēs pylēs"** (buiten de poort) — geografisch los van Moria-tempel-berg. **N3-clue**, niet als typologische N1-claim presenteren.
+**Cluster C "Moria = Golgotha"-identificatie** — niet bron-eigen; valt buiten de typologie-laag. **Heb 13:12 noemt expliciet "exō tēs pylēs"** (buiten de poort) — geografisch los van Moria-tempel-berg. Niet als typologische claim presenteren.
 
 **Cluster A Gen 22:14 "ieue yireh asher yeamer ha-yom b·har ieue yera'eh"** — bron-eigen formule met **niphal yera'eh** (zal-worden-gezien, toekomstige passieve vorm). Suggereert toekomstige zichtbaar-wordings-gebeurtenis op de berg. Christologische lading is interpretatief — geen NT-citatie. **N2**.
 
@@ -1254,8 +1251,8 @@ Eerdere versie corrigeerd:
 - **Bron-discipline:** uitsluitend `Kennis/puur/` en `Kennis/strong/`. Sola scriptura. Geen training-input.
 - **As 1 (categorieën):** A4 (plaatsen-bergen)
 - **As 2 (lagen):** L1, L2 (waar door tekst zelf bevestigd)
-- **As 3 (zekerheid):** N1 voor cluster A Ri 4 Tabor-narratief; N1 voor Ps 89:12 + Jer 46:18 Tabor-vermeldingen; **N3-clue** voor "Tabor = verheerlijkings-berg" (Mat 17 / Mar 9 / Luk 9 noemen geen naam, alleen "horos hypsēlon"; 2 Pet 1:18 noemt "horei tō hagiō" zonder naam); N3-clue voor "Debora-Barak-overwinning ↔ christologische bevrijdings-typologie".
-- **Tags:** Tavor, Tabor, Devorah-Barak, Sisera, har-thabor, mogelijke-verheerlijking-berg, traditioneel-niet-bron-eigen
+- **As 3 (zekerheid):** N1 voor cluster A Ri 4 Tabor-narratief; N1 voor Ps 89:12 + Jer 46:18 Tabor-vermeldingen. Tekst-feit: de verheerlijkings-berg blijft in de grondtekst ónbenoemd (Mat 17 / Mar 9 / Luk 9 noemen alleen "horos hypsēlon"; 2 Pet 1:18 "horei tō hagiō" zonder naam).
+- **Tags:** Tavor, Tabor, Devorah-Barak, Sisera, har-thabor, verheerlijkings-berg-onbenoemd
 - **Zie ook:** `./mozes.md`, `./elia.md` cluster E, `../B_cijfer/40.md` cluster K
 
 ## Hypothese (terughoudend gemaakt)
@@ -1264,7 +1261,7 @@ Tekst-eigen feiten. Ri 4:6 noemt Devora's bevel aan Barak "lekh u·mashakhta b·
 
 NT-eigen typologie-claim. **Geen NT-tekst noemt Tabor expliciet.** Mat 17:1 + Mar 9:2 + Luk 9:28 noemen "horos hypsēlon kat idian" (een hoge berg apart). 2 Pet 1:18 noemt "horei tō hagiō" (heilige berg) zonder naam.
 
-Interpretatieve framings. Dat de verheerlijkings-berg = Tabor: traditionele identificatie sinds Origenes, niet bron-eigen. Alternatief Hermon (geografisch logischer gezien proximity Caesarea Filippi Mat 16:13). **N3-clue.** Dat Devora-Barak-overwinning op Tabor (Ri 4) een typologische voorafschaduwing is van christologische bevrijding: gedeeld overwinnings-thema, geen NT-koppeling. **N3-clue.**
+Wat de tekst NIET zegt. De grondtekst noemt geen naam voor de verheerlijkings-berg; een identificatie als Tabor is niet bron-eigen en valt buiten de typologie-laag. De tekst legt evenmin een koppeling tussen de Devora-Barak-overwinning op Tabor (Ri 4) en enig later bevrijdings-motief; beide blijven op zichzelf staande tekst-feiten.
 
 ## Voorkomens (per cluster)
 
@@ -1306,8 +1303,8 @@ Interpretatieve framings. Dat de verheerlijkings-berg = Tabor: traditionele iden
 
 **NT-OT verbinding (eerlijke beoordeling).**
 1. **Geen NT-tekst noemt Tabor expliciet.**
-2. **Niet door tekst expliciet gelegd:** Verheerlijkings-berg = Tabor. **N3-clue** (traditionele identificatie sinds Origenes, niet bron-eigen).
-3. **Niet door tekst expliciet gelegd:** Devora-Barak-overwinning ↔ christologische bevrijding. **N3-clue**.
+2. **Niet door tekst gelegd:** verheerlijkings-berg = Tabor. Berg blijft onbenoemd in de grondtekst; identificatie valt buiten de typologie-laag.
+3. **Niet door tekst gelegd:** enige koppeling Devora-Barak-overwinning ↔ later bevrijdings-motief.
 
 ## Watermerk-verbinding
 
@@ -1315,11 +1312,11 @@ Bij vragen over **Tabor, Devora-Barak, Sisera-overwinning, Ri 4-5**: cluster A.
 
 Bij vragen over **Tabor + Hermon, Ps 89, Jer 46 Tabor-Karmel, Hos 5**: cluster B.
 
-Bij vragen over **verheerlijkings-berg Mat 17, "horos hypsēlon", 2 Pet 1:18 horei tō hagiō**: cluster C **(met expliciete N3-clue waarschuwing dat Tabor-identificatie traditioneel is, niet bron-eigen)**.
+Bij vragen over **verheerlijkings-berg Mat 17, "horos hypsēlon", 2 Pet 1:18 horei tō hagiō**: cluster C **(met expliciete waarschuwing dat de berg in de grondtekst onbenoemd blijft; geen Tabor-identificatie)**.
 
 ## Waarschuwingen
 
-**Verheerlijkings-berg-identificatie als Tabor** is **traditionele** identificatie (Origenes, ca. 230 n.Chr.). **Geen NT-tekst noemt Tabor expliciet** in verheerlijkings-context. Mat 17:1 / Mar 9:2 / Luk 9:28 noemen alleen "horos hypsēlon"; 2 Pet 1:18 noemt "horei tō hagiō". Alternatief Hermon (geografisch logischer gezien proximity Caesarea Filippi Mat 16:13). **N3-clue**, niet over-claimen.
+**Verheerlijkings-berg blijft onbenoemd.** **Geen grondtekst noemt Tabor** in verheerlijkings-context. Mat 17:1 / Mar 9:2 / Luk 9:28 noemen alleen "horos hypsēlon"; 2 Pet 1:18 noemt "horei tō hagiō". Een naam-identificatie (Tabor, Hermon of anders) valt buiten de typologie-laag — niet over-claimen.
 
 **Cluster A Devora-Barak-narratief** — Tabor is bron-eigen overwinnings-locatie. Niet over-claimen op typologische lading buiten geografisch feit + Devora-lied (Ri 5).
 
@@ -1332,7 +1329,7 @@ Bij vragen over **verheerlijkings-berg Mat 17, "horos hypsēlon", 2 Pet 1:18 hor
 Alle 14 vers-references in deze entry op 2026-05-07 geverifieerd via `audit_v2.py` tegen `Kennis/strong/[boek].jsonl`. Existentie 100% (14/14). Steekproef-citaten Ri 4:6+12+14, Ri 5:4+5, Ps 89:12, Jer 46:18, Hos 5:1, Mat 17:1+2, Mar 9:2, Luk 9:28, 2 Pet 1:17+18 woord-voor-woord met bron vergeleken (transliteratie + Strong-codes).
 
 Eerdere versie corrigeerd:
-- **Verheerlijkings-berg = Tabor** als impliciete identificatie → corrigeerd naar **N3-clue** (geen NT-tekst, alternatief Hermon mogelijk).
+- **Verheerlijkings-berg = Tabor** als impliciete identificatie → verwijderd; berg blijft in de grondtekst onbenoemd, naam-identificatie valt buiten de typologie-laag (zuivering 2026-06-15).
 - **Cluster B uitgebreid** met Jer 46:18 + Hos 5:1 + Ri 5:4-5 (Devora-lied) als bron-eigen Tabor-vermeldingen.
 - **2 Pet 1:17-18** als bron-eigen NT-vermelding van "horei tō hagiō" expliciet toegevoegd.
 - **Mat 17 vs Luk 9 dagen-verschil** ("hex" vs "oktō") als bron-eigen tekst-onderscheid expliciet gemarkeerd.
@@ -1340,7 +1337,7 @@ Eerdere versie corrigeerd:
 
 ## Vervolgvragen
 
-1. Verheerlijkings-berg-identificatie als Tabor — buiten typologie-laag tenzij tekst expliciet wordt. **N3-clue**.
+1. Verheerlijkings-berg-identificatie als Tabor — buiten typologie-laag; berg blijft onbenoemd in de grondtekst.
 2. Cluster A Devora-typologie als vrouwelijk-leiderschap — past in toekomstige meta-entry over richters-typologie.
 3. Cluster C Mat 17 / Mar 9 / Luk 9 / 2 Pet 1 — verheerlijkings-berg verdient eigen entry los van Tabor-identificatie. Past in `F_verhaal/verschijning-aan-verlatene` (Fase 7) of eigen sub-meta?
 4. Cluster A Ri 5:5 "zeh Sinai" + Cluster B Ps 89:12 Tabor + Hermon — verbinding Sinai-Tabor-Hermon-as. Past in `D_taal` (Fase 5) of meta-onderzoek bergen-as.
@@ -1436,7 +1433,7 @@ Interpretatieve framings. Dat Num 24:17 "ster-uit-Jakob"-profetie typologisch is
 1. **Wel door tekst expliciet gelegd:** 2 Pet 2:15-16 — "weg van Bileam" + ezel-rebuke. **N1**.
 2. **Wel door tekst expliciet gelegd:** Jud 1:11 — "dwaling van Bileam om loon". **N1**.
 3. **Wel door tekst expliciet gelegd:** Op 2:14 — "leer van Bileam" als verleidings-typologie in NT-gemeente. **N1**.
-4. **Niet door tekst expliciet gelegd:** Num 24:17 ster-uit-Jakob ↔ Mat 2:2 magoi-ster. Mat noemt Num 24:17 niet expliciet. **N2** (joods-traditioneel typologisch zwaar).
+4. **Niet door tekst expliciet gelegd:** Num 24:17 ster-uit-Jakob ↔ Mat 2:2 magoi-ster. Mat noemt Num 24:17 niet expliciet. **N2** (gedeeld ster-motief; geen NT-citaat).
 5. **Niet door tekst expliciet gelegd:** Drie-keer-ezel-slaan = drievoudige bevestigings-typologie. **N3-clue**.
 
 ## Watermerk-verbinding
@@ -3220,7 +3217,7 @@ Eerdere versie corrigeerd:
 - **Bron-discipline:** uitsluitend `Kennis/puur/` en `Kennis/strong/`. Sola scriptura. Geen training-input.
 - **As 1 (categorieën):** A10 (materialen primair)
 - **As 2 (hermeneutische lagen):** L1, L2 (waar door tekst zelf bevestigd)
-- **As 3 (algemeen zekerheids-niveau):** N1 voor vers-bestaan en citaten in alle clusters; **N1 voor expliciete tekst-citaat Gal 3:13 ↔ Deu 21:23** ("epikataratos pas ho kremamenos epi xylou"); N2 voor verbinding Mara-hout (Exo 15:25) ↔ kruis (geen NT-tekst legt expliciete brug); N3-clue voor "acaciahout-met-goud-bedekt = twee-naturen-typologie Christus"
+- **As 3 (algemeen zekerheids-niveau):** N1 voor vers-bestaan en citaten in alle clusters; **N1 voor expliciete tekst-citaat Gal 3:13 ↔ Deu 21:23** ("epikataratos pas ho kremamenos epi xylou"); N2 voor verbinding Mara-hout (Exo 15:25) ↔ kruis (geen NT-tekst legt expliciete brug). Acaciahout-met-goud (Exo 25) draagt in de tekst geen uitleg; duiding valt buiten de typologie-laag.
 - **Tags:** hout, etz, xylon, acaciahout, cederhout, kruishout, Gal-3-13, 1-Pet-2-24
 - **Zie ook:** `./noach.md`, `./isaak.md`, `./koperen-slang.md`, `./boom-des-levens.md`
 
@@ -3230,7 +3227,7 @@ Tekst-eigen feiten. Hebreeuws "etz" (H6086) en Grieks "xylon" (G3586) komen bree
 
 NT-eigen typologie-claims. Gal 3:13 citeert Deu 21:23 als sleutel-Schrift voor "Christus voor ons een vloek geworden". 1 Pet 2:24 noemt expliciet "tas hamartias hēmōn ... epi to xylon" (zonden op het hout).
 
-Interpretatieve framings. Dat Mara-hout (Exo 15:25) typologisch het kruis voorafschaduwt is structurele observatie zonder NT-tekst-koppeling. **N2.** Dat acaciahout-met-goud-bedekt een "twee-naturen-typologie Christus" vormt is buiten-tekst-traditie. **N3-clue.** Dat de drie "xylon"-Handelingen (5:30 + 10:39 + 13:29) een drievoudige bevestiging-typologie vormen is observatie zonder Schrift-eigen koppeling. **N3-clue.**
+Interpretatieve framings. Dat Mara-hout (Exo 15:25) typologisch het kruis voorafschaduwt is structurele observatie zonder NT-tekst-koppeling. **N2.** Acaciahout-met-goud-bedekt (Exo 25) draagt in de tekst geen uitleg; een duiding van de materiaal-combinatie valt buiten de typologie-laag. Dat de drie "xylon"-Handelingen (5:30 + 10:39 + 13:29) een drievoudige bevestiging-typologie vormen is observatie zonder Schrift-eigen koppeling. **N3-clue.**
 
 ## Voorkomens (per cluster)
 
@@ -3271,7 +3268,7 @@ Interpretatieve framings. Dat Mara-hout (Exo 15:25) typologisch het kruis vooraf
 **NT-OT verbinding (eerlijke beoordeling).**
 - **Wel door tekst expliciet gelegd:** Gal 3:13 citeert Deu 21:23 expliciet. **N1**.
 - **Niet door tekst expliciet gelegd:** dat Mara-hout (Exo 15:25) typologische voorloper is van het kruis. **N2**.
-- **Niet door tekst expliciet gelegd:** dat acaciahout-met-goud-bedekt twee-naturen-typologie Christus vormt. **N3-clue**.
+- **Niet door tekst gelegd:** acaciahout-met-goud (Exo 25) draagt in de tekst geen uitleg; elke duiding ervan valt buiten de typologie-laag.
 - **Niet door tekst expliciet gelegd:** dat drievoudig "xylon" in Hand een typologische bevestiging-stempel is. **N3-clue**.
 
 ## Watermerk-verbinding
@@ -3288,7 +3285,7 @@ Bij vragen over **tabernakel acaciahout, Salomo's tempel cederhout**: cluster B.
 
 **Mara-hout (Exo 15:25)** — JHWH wijst Mozes "etz" (hout); soort niet gespecificeerd. Geen NT-tekst koppelt aan kruis. Verbinding is structurele observatie. **N2**.
 
-**Acaciahout-met-goud-bedekt = twee-naturen-typologie** — buiten-tekst-traditie (vroege kerkvaders). Tekst Exo 25 noemt feiten zonder uitleg. **N3-clue**.
+**Acaciahout-met-goud-bedekt** — tekst Exo 25 noemt de materialen zonder uitleg. Een duiding van de materiaal-combinatie valt buiten de typologie-laag; niet over-claimen.
 
 **Drievoudig "xylon" Hand 5:30 + 10:39 + 13:29** — bron-feit (drie voorkomens). De typologische lading "drievoudige bevestiging" is interpretatieve framing. **N3-clue**.
 
@@ -3303,7 +3300,7 @@ Alle 11 vers-references in deze entry op 2026-05-07 geverifieerd via `audit_v2.p
 Eerdere versie (sjabloon V1) corrigeerd:
 - Sjabloon V2 toegepast (Bron-verificatie sectie, expliciete N-niveau-markeringen, Hypothese terughoudend gemaakt)
 - Mara-hout (Exo 15:25) ↔ kruis-typologie expliciet als N2 gemarkeerd
-- "Acaciahout-met-goud = twee-naturen-typologie" expliciet als N3-clue gemarkeerd
+- "Acaciahout-met-goud = twee-naturen-typologie" verwijderd als geleende doctrine; alleen tekst-feit (materialen zonder uitleg) behouden (zuivering 2026-06-15)
 - "Drievoudig xylon Hand" als drievoudige bevestiging-typologie als N3-clue gemarkeerd
 - Cluster C als sterkste sola-scriptura-cluster expliciet gemarkeerd
 
@@ -3311,9 +3308,7 @@ Eerdere versie (sjabloon V1) corrigeerd:
 
 1. Mara-hout Exo 15:25 ↔ kruis — past in `D_taal` of in eigen sub-onderzoek mits sola scriptura.
 2. Cluster C kruis-xylon corpus + Boom-des-levens xulon zōēs — gedeelde Grieks-woord-typologie, vereist sola-scriptura sub-onderzoek.
-3. Acaciahout in tabernakel — verdient eigen `acaciahout`-entry of als sub-cluster in `E_structuur/tabernakel-hemels-patroon.md`.
-4. Cederhout Salomo's tempel ↔ Christus tempel-bouw — interpretatieve verbinding, vereist eigen sub-onderzoek.
-
+3. Acaciahout in tabernakel — verdient eigen `acaciahout`-entry of als sub-cluster i
 ---
 
 
@@ -3448,7 +3443,7 @@ Tekst-eigen feiten. Gen 17:19 noemt naamgeving "Yitzchaq" (H3327) door God aan A
 
 NT-eigen typologie-claims. Heb 11:17 noemt Isaak expliciet "ton monogenē" (G3439). Heb 11:19 verklaart de typologische lading "ek nekrōn ... en parabolē ekomisato". Gal 4:28 noemt gelovigen "kata Isaak epaggelias tekna" ("naar Isaak kinderen der belofte"). Rom 9:7 citeert Gen 21:12 letterlijk: "en Isaak klēthēsetai soi sperma" ("in Isaak zal uw zaad genoemd worden"). Jak 2:21 noemt Abrahams Isaak-offer als geloofs-bewijs.
 
-Interpretatieve framings. Dat Isaaks dragen van het hout (Gen 22:6) een typologie is van Christus' kruis-dragen (Joh 19:17): geen NT-tekst legt deze brug. **N3-clue.** Dat Gen 22:7-8 "ha-seh" een type is van Joh 1:29 "amnos tou theou": gedeeld dier-motief, geen NT-citatie. **N3-clue.** Dat de akedah typologisch parallel loopt met Christus' Gethsemane-onderwerping (Mat 26:39): structurele framing zonder tekst-eigen brug. **N3-clue.** Dat Eliezer-zendt-voor-Rebekka (Gen 24) een Vader-Geest-Zoon-bruid-typologie is: structurele parallel zonder NT-koppeling. **N2.**
+Interpretatieve framings. Dat Isaaks dragen van het hout (Gen 22:6) een typologie is van Christus' kruis-dragen (Joh 19:17): geen NT-tekst legt deze brug. **N3-clue.** Dat Gen 22:7-8 "ha-seh" een type is van Joh 1:29 "amnos tou theou": gedeeld dier-motief, geen NT-citatie. **N3-clue.** Dat de akedah typologisch parallel loopt met Christus' Gethsemane-onderwerping (Mat 26:39): structurele framing zonder tekst-eigen brug. **N3-clue.** Gen 24 draagt een tekst-eigen structureel patroon (knecht wordt gezonden om een bruid voor de zoon te halen) zonder NT-koppeling; een rol-toewijzing van de personages aan latere figuren valt buiten de typologie-laag.
 
 ## Voorkomens (per cluster)
 
@@ -3560,9 +3555,9 @@ Bij vragen over **Rom 9 in-Isaak-zaad, Gal 4 kata-Isaak, monogenēs**: cluster E
 
 **Isaak-leeftijd Gen 22 onbekend.** Tekst noemt geen leeftijd. Sara-overlijden Gen 23:1 op 127 jaar; Sara was 90 bij Isaaks geboorte (Gen 17:17), dus Isaak ten hoogste 37 bij Sara's overlijden. Maar Gen 22 datering staat niet vast. Niet over-claimen.
 
-**Akedah-traditie** (joods, midrasj over Isaaks vrijwilligheid) valt buiten typologie-laag. Tekst-typologisch: Gen 22:9 zegt "u·ioqd" (hij bond hem) — vrijwilligheid is interpretatieve framing, geen tekst-eigen claim.
+**Isaaks vrijwilligheid bij de binding** valt buiten typologie-laag. Tekst-typologisch: Gen 22:9 zegt "u·ioqd" (hij bond hem) — vrijwilligheid is interpretatieve framing, geen tekst-eigen claim.
 
-**Cluster C Gen 24** (67 verzen, structureel) heeft **geen NT-eigen typologie-koppeling**. De Vader-Geest-Zoon-bruid-lezing is N2. Niet over-claimen op specifieke details (kameel-getallen, geschenken-soorten); wel het patroon-zelf benoemen met N2-status.
+**Cluster C Gen 24** (67 verzen, structureel) heeft **geen NT-eigen typologie-koppeling**. Een rol-toewijzing van de personages (knecht, Isaak, Rebekka) aan latere figuren valt buiten de typologie-laag; de tekst legt die koppeling niet. Alleen het structurele patroon (knecht zoekt bruid voor de zoon) is tekst-eigen. Niet over-claimen op specifieke details (kameel-getallen, geschenken-soorten).
 
 ## Bron-verificatie
 
@@ -3584,9 +3579,7 @@ Eerdere versie corrigeerd:
 2. Cluster C Gen 24 — knecht (Eliezer-rol) als Geest-typologie verdient eigen sub-entry in toekomstige `G_rol/knecht-heer-eliezer.md` (Fase 8).
 3. Twee zonen Isaak (Ezau + Jakob, Gen 25:21-26) — eerstgeborene-omkering. Past in `./jakob.md` (volgende entry) en `F_verhaal/eerstgeborene-omkering.md` (Fase 7).
 4. Isaak's blindheid Gen 27 — typologische lading voor zegen-verkeerde-handen-typologie? Past in `./jakob.md`.
-5. Gen 22:8 + 22:13 ram-in-struik / "ail" (H352a) — verbinding met `../A_entiteit/lam.md` (Fase 4) toekomstig.
-6. Yitzchaq-naam-spel Gen 21:6 (Sara's lachen na geboorte) — extra wortel-vermelding cluster A.
-
+5. Gen
 ---
 
 
@@ -3907,7 +3900,7 @@ Eerdere versie corrigeerd:
 
 ## Hypothese (terughoudend gemaakt)
 
-Tekst-eigen feiten. Gen 37:3 noemt "u·oshe l·u kthnth phsim" ("hij maakte hem een veelkleurige rok", H3801+H6446). Gen 37:4 noemt expliciet "u·ishnau ath·u" ("zij haatten hem"). Gen 37:28 noemt "u·imkru ath-iusph ... b·oshrim ksph" ("zij verkochten Jozef voor twintig zilver"). Gen 41:14 noemt "u·iritz·eu mn-e·bur" ("zij brachten hem ijlings uit de put", H953 "bor"). Gen 41:46 noemt "u·iusph bn-shlshim shne" ("Jozef was zoon van dertig jaar"). Gen 50:20 noemt "u·athm chshbthm ol·i roe aleim chshb·e l·tbe ... l·echith om-rb" — bron-eigen theologische sleutel (kwaad → goed → behoud-volk).
+Tekst-eigen feiten. Gen 37:3 noemt "u·oshe l·u kthnth phsim" ("hij maakte hem een veelkleurige rok", H3801+H6446). Gen 37:4 noemt expliciet "u·ishnau ath·u" ("zij haatten hem"). Gen 37:28 noemt "u·imkru ath-iusph ... b·oshrim ksph" ("zij verkochten Jozef voor twintig zilver"). Gen 41:14 noemt "u·iritz·eu mn-e·bur" ("zij brachten hem ijlings uit de put", H953 "bor"). Gen 41:46 noemt "u·iusph bn-shlshim shne" ("Jozef was zoon van dertig jaar"). Gen 50:20 noemt "u·athm chshbthm ol·i roe aleim chshb·e l·tbe ... l·echith om-rb" — tekst-eigen sleutel (kwaad → goed → behoud-volk).
 
 NT-eigen typologie-claim. **Hand 7:13** noemt expliciet "en tō deuterō anegnōristhē Iōsēph tois adelphois autou" — "bij de tweede keer werd Jozef bekend aan zijn broers" (G1208+G319). Stefanus' eigen formule: bekendmaking-bij-tweede-keer is bron-bevestigd. Hand 7:9-16 hervat het Jozef-narratief uitvoerig. Heb 11:22 noemt Jozef in geloofs-galerij.
 
@@ -3991,7 +3984,7 @@ Interpretatieve framings. Dat "leeftijd 30 Jozef (Gen 41:46) = leeftijd 30 Chris
 
 **Verspreiding.** Pentateuch (Gen) sterk + Psalm 105 + Handelingen + Hebreeën + structurele NT-echo's zonder citaat.
 
-**Wegnemingstoets.** Bij wegnemen Hand 7:13 valt **expliciete tweede-keer-bekendmaking-claim** weg en wordt cluster E N2-structureel. Hand 7:13 is de sleutel die cluster E op N1 houdt. Bij wegnemen Gen 50:20 valt theologische sleutel weg, maar Hand 7:9-10 dragen "redder-via-lijden"-patroon door.
+**Wegnemingstoets.** Bij wegnemen Hand 7:13 valt **expliciete tweede-keer-bekendmaking-claim** weg en wordt cluster E N2-structureel. Hand 7:13 is de sleutel die cluster E op N1 houdt. Bij wegnemen Gen 50:20 valt de tekst-eigen sleutel weg, maar Hand 7:9-10 dragen "redder-via-lijden"-patroon door.
 
 **NT-OT verbinding (eerlijke beoordeling).**
 1. **Wel door tekst expliciet gelegd:** Hand 7:13 "en tō deuterō anegnōristhē" — bekendmaking-bij-tweede-keer. **N1**.
@@ -4070,7 +4063,7 @@ Eerdere versie corrigeerd:
 - **Bron-discipline:** uitsluitend `Kennis/puur/` en `Kennis/strong/`. Sola scriptura. Geen training-input.
 - **As 1 (categorieën):** A1 (christustypen via naam-equivalentie + Hebr 4:8 expliciete contrast), G6 (knecht-heer raakvlak)
 - **As 2 (hermeneutische lagen):** L1, L2 (waar door tekst zelf bevestigd)
-- **As 3 (algemeen zekerheids-niveau):** **N1 voor cluster A naam-equivalentie** (Hand 7:45 + Hebr 4:8 noemen "Iēsous" voor Jozua identiek met Christus' naam); **N1 voor Hebr 4:8 expliciete contrast** Jozua-rust ↔ Christus-sabbatismos; N1 voor cluster B Joz-feiten en cluster D Zach 3+6 Tzemach-koppeling; N2 voor "Vorst van JHWH-leger Joz 5 = pré-incarnatische Christus" (theofanie-feit, geen christologische identificatie); N3-clue voor "Jozua-Jordaan-doortocht = doop-typologie" (1 Kor 10:1-2 koppelt aan Mozes-Rode-Zee, niet aan Jozua-Jordaan).
+- **As 3 (algemeen zekerheids-niveau):** **N1 voor cluster A naam-equivalentie** (Hand 7:45 + Hebr 4:8 noemen "Iēsous" voor Jozua identiek met Christus' naam); **N1 voor Hebr 4:8 expliciete contrast** Jozua-rust ↔ Christus-sabbatismos; N1 voor cluster B Joz-feiten en cluster D Zach 3+6 Tzemach-koppeling; N2 voor "Vorst van JHWH-leger Joz 5" als theofanie (tekst-feit: heilige grond, aanbidding aanvaard; geen identificatie van de figuur in de tekst); N3-clue voor "Jozua-Jordaan-doortocht = doop-typologie" (1 Kor 10:1-2 koppelt aan Mozes-Rode-Zee, niet aan Jozua-Jordaan).
 - **Tags:** Yehoshua, Iēsous, Hosea-naamsverandering, sōsei, Jordaan-doortocht, Jericho, sar-tzeva-JHWH, Tzemach, Hebr-4:8, Mat-1:21
 - **Zie ook:** `./mozes.md`, `../B_cijfer/3.md` cluster A (Joz 3 Jordaan), `../B_cijfer/7.md` cluster C (Joz 6 Jericho), `../C_tijd/dagen-zevende.md` cluster J (Hebr 4)
 
@@ -4080,7 +4073,7 @@ Tekst-eigen feiten. Num 13:16 noemt expliciete naamsverandering "u·iqra Mshe l�
 
 NT-eigen typologie-claims. **Mat 1:21** noemt "kaleseis to onoma autou Iēsoun autos gar sōsei ton laon autou apo tōn hamartiōn autōn" — naam-betekenis identiek aan Yehoshua. **Hand 7:45** gebruikt expliciet "meta Iēsou" voor Jozua in Grieks. **Hebr 4:8** legt expliciet contrast: "ei gar autous Iēsous katepausen ouk an peri allēs elalei meta tauta hēmeras" gevolgd door Hebr 4:9 "ara apoleipetai sabbatismos tō laō tou theou".
 
-Interpretatieve framings. Dat "Vorst-leger-JHWH" Joz 5:13-15 een pré-incarnatische Christus-theofanie is: tekst geeft theofanie-kenmerken (heilige grond, aanbidding aanvaard) maar maakt geen christologische identificatie. **N2.** Dat de Jordaan-doortocht (Joz 3-4) een doop-typologie is: 1 Kor 10:1-2 koppelt expliciet aan Mozes-Rode-Zee, niet aan Jozua-Jordaan. **N3-clue** voor Jozua-specifieke doop-koppeling.
+Interpretatieve framings. "Vorst-leger-JHWH" Joz 5:13-15 draagt tekst-eigen theofanie-kenmerken (heilige grond, aanbidding aanvaard); de tekst identificeert de figuur niet. Een identificatie valt buiten de typologie-laag. **N2 voor het theofanie-feit.** Dat de Jordaan-doortocht (Joz 3-4) een doop-typologie is: 1 Kor 10:1-2 koppelt expliciet aan Mozes-Rode-Zee, niet aan Jozua-Jordaan. **N3-clue** voor Jozua-specifieke doop-koppeling.
 
 ## Voorkomens (per cluster)
 
@@ -4112,7 +4105,7 @@ Interpretatieve framings. Dat "Vorst-leger-JHWH" Joz 5:13-15 een pré-incarnatis
 
 **Jozua 5:14** [N1] — translit "u·iamr la ki ani sar-tzeva-ieue othe bathi u·iphl Yehoshua al-phni·u artz·e u·ishthchu" (H8269+H6635+H3068+H5307+H6440+H7812) — "hij zeide: nee, ik ben de Vorst van het leger van JHWH (sar-tzeva-ieue), nu kom Ik. Toen viel Jozua op zijn aangezicht ter aarde en aanbad (vayyishtachu, H7812)". **Tekst-eigen aanbidding aanvaard door Vorst** — alleen JHWH komt aanbidding toe.
 
-**Jozua 5:15** [N1] — translit "u·iamr sar-tzeva-ieue al-Yehoshua shl-nol·k m·ol rgl·k ki e·mqum ashr athe omd oli·u qodesh eua u·iosh Yehoshua kn" (H8269+H6635+H3068+H5394+H5275+H7272+H4725+H6944) — "de Vorst van het leger van JHWH zeide tot Jozua: trek uw schoenen van uw voeten, want de plaats waarop gij staat is heilig". **Woordelijk identiek bevel aan Mozes Exo 3:5** ("shl-noli·k m·ol rgli·k ki e·mqum ashr athe oumd oli·u admth-qodesh eua"). Christologische identificatie van Vorst is interpretatief — **N2**.
+**Jozua 5:15** [N1] — translit "u·iamr sar-tzeva-ieue al-Yehoshua shl-nol·k m·ol rgl·k ki e·mqum ashr athe omd oli·u qodesh eua u·iosh Yehoshua kn" (H8269+H6635+H3068+H5394+H5275+H7272+H4725+H6944) — "de Vorst van het leger van JHWH zeide tot Jozua: trek uw schoenen van uw voeten, want de plaats waarop gij staat is heilig". **Woordelijk identiek bevel aan Mozes Exo 3:5** ("shl-noli·k m·ol rgli·k ki e·mqum ashr athe oumd oli·u admth-qodesh eua"). Een identificatie van de Vorst valt buiten de typologie-laag; tekst-feit is de theofanie zelf (heilige grond, aanbidding aanvaard) — **N2**.
 
 ### Cluster D — Hogepriester Jozua + Tzemach (Zacharia 3 + 6) [N1]
 
@@ -4143,7 +4136,7 @@ Interpretatieve framings. Dat "Vorst-leger-JHWH" Joz 5:13-15 een pré-incarnatis
 2. **Wel door tekst expliciet gelegd:** Hand 7:45 — Stefanus noemt Jozua "Iēsous". **N1**.
 3. **Wel door tekst expliciet gelegd:** Hebr 4:8 — Jozua-rust ≠ Christus-sabbatismos-rust. **N1**.
 4. **Wel door tekst expliciet gelegd:** Zach 3:8 + 6:12 — Jozua-hogepriester gekoppeld aan "obd·i tzemach" + "tzemach shm·u". **N1**.
-5. **Niet door tekst expliciet gelegd:** Vorst-leger-JHWH Joz 5 = pré-incarnatische Christus. **N2** (theofanie-feit, geen christologische identificatie).
+5. **Niet door tekst gelegd:** een identificatie van Vorst-leger-JHWH (Joz 5). Tekst-feit is de theofanie zelf (heilige grond, aanbidding aanvaard). **N2 voor het theofanie-feit**; identificatie valt buiten de typologie-laag.
 6. **Niet door tekst expliciet gelegd:** Jozua-Jordaan-doortocht = doop-typologie. **N3-clue** (1 Kor 10:1-2 koppelt alleen aan Mozes-zee).
 7. **Niet door tekst expliciet gelegd:** Joz 10:12-14 zon-stilstaan typologisch. Geen NT-koppeling.
 
@@ -4163,7 +4156,7 @@ Bij vragen over **Hebr 4 Jozua-rust niet voltooid, sabbatismos overgebleven**: c
 
 **Cluster A naam-equivalentie Yehoshua = Iēsous = Jezus** is taalkundig **N1** (zelfde naam in Grieks). Hand 7:45 + Hebr 4:8 maken het expliciet zichtbaar. Niet over-claimen op typologische gevolgen die tekst niet expliciet maakt.
 
-**Cluster C Joz 5:13-15** — "Vorst van JHWH-leger" als pré-incarnatische Christus is interpretatie. Tekst geeft theofanie-kenmerken (heilige grond, aanbidding aanvaard, identiek bevel als aan Mozes Exo 3:5) zonder christologische identificatie. **N2**.
+**Cluster C Joz 5:13-15** — een identificatie van "Vorst van JHWH-leger" valt buiten de typologie-laag. Tekst geeft theofanie-kenmerken (heilige grond, aanbidding aanvaard, identiek bevel als aan Mozes Exo 3:5) zonder de figuur te identificeren. **N2 voor het theofanie-feit**.
 
 **Cluster B Jordaan-doortocht doop-typologie** — Joz 3-4 is bron-feit (Jordaan-doortocht op droge bodem). Doop-typologische koppeling wordt door geen NT-tekst gelegd; 1 Kor 10:1-2 noemt alleen Mozes-Rode-Zee-doop. **N3-clue** voor Jozua-specifieke doop-koppeling.
 
@@ -4177,7 +4170,7 @@ Alle 22 vers-references in deze entry op 2026-05-06 geverifieerd via `audit_v2.p
 
 Eerdere versie corrigeerd:
 - **Hypothese**: "Jordaan-doortocht ... als doop-typologie" → corrigeerd naar **N3-clue** (1 Kor 10:1-2 koppelt expliciet aan Mozes-Rode-Zee, niet aan Jozua-Jordaan).
-- **Hypothese**: "ontmoeting Vorst-leger-JHWH ... als pré-incarnatische Christus-verschijning" → corrigeerd naar **N2** in waarschuwingen (theofanie-feit zonder christologische identificatie).
+- **Hypothese**: "ontmoeting Vorst-leger-JHWH ... als pré-incarnatische Christus-verschijning" → identificatie verwijderd; alleen het theofanie-feit (N2) behouden, identificatie buiten de typologie-laag (zuivering 2026-06-15).
 - **Cluster D status verbeterd**: Zach 3:8 + Zach 6:12 expliciete bron-eigen koppeling Jozua-Tzemach uitgewerkt; Jer 23:5 als derde tzemach-getuige toegevoegd.
 - **Joz 1:1 dienst-onderscheid bron-feit toegevoegd**: Mozes "obd" (H5650, knecht), Jozua "mshrth" (H8334, dienaar) — bron-eigen titel-verschil dat correspondeert met Hebr 3:5-6 therapōn-onderscheid.
 - **Joz 5:14 aanbidding aanvaard door Vorst** als bron-feit expliciet (was alleen "aanbidding"-vermelding).
@@ -4190,9 +4183,7 @@ Eerdere versie corrigeerd:
 1. Cluster D Tzemach-profetie verdient eigen entry in toekomstige `D_taal/wortel-tzemach.md` of in `G_rol/drie-ambten-priester.md` (Fase 8). Cross-references naar Jer 23:5 + 33:15 + Zach 3:8 + 6:12 + Jes 4:2 + 11:1 (netzer).
 2. Joz 6 Jericho zeven-dagen — past in `cycli-feesten.md` (al gedaan) of als eigen sub-onderzoek?
 3. Jozua + Kaleb (twee getrouwe verspieders Num 13-14) — typologisch raakvlak twee getuigen Op 11? Past in toekomstige eigen entry.
-4. Zonsverstoord-typologie Joz 10:12-14 — geen NT-koppeling. Buiten typologie-laag.
-5. Cluster B Joz 1:1 obd / mshrth dienst-titel-onderscheid — verbinding met `./mozes.md` cluster D Hebr 3:5-6 therapōn-typologie.
-
+4. Zonsverstoord-typol
 ---
 
 
@@ -4335,7 +4326,7 @@ Eerdere versie corrigeerd:
 - **Bron-discipline:** uitsluitend `Kennis/puur/` en `Kennis/strong/`. Sola scriptura. Geen training-input.
 - **As 1 (categorieën):** A7 (voorwerpen primair)
 - **As 2 (hermeneutische lagen):** L1, L2 (waar door tekst zelf bevestigd)
-- **As 3 (algemeen zekerheids-niveau):** N1 voor vers-bestaan en citaten in alle clusters; **N1 voor Op 1:20 expliciete tekst-eigen identificatie "kandelaren = gemeenten"**; **N1 voor Op 4:5 expliciete identificatie "zeven fakkels = zeven Geesten Gods"**; N2 voor verbinding Zach 4 ↔ Op 4:5+5:6 (gedeeld zeven-motief; Op citeert geen Zach 4 expliciet voor gemeenten); N3-clue voor "menorah-vorm = drie-eenheid + scheppingsweek"-numerieke uitleg
+- **As 3 (algemeen zekerheids-niveau):** N1 voor vers-bestaan en citaten in alle clusters; **N1 voor Op 1:20 expliciete tekst-eigen identificatie "kandelaren = gemeenten"**; **N1 voor Op 4:5 expliciete identificatie "zeven fakkels = zeven Geesten Gods"**; N2 voor verbinding Zach 4 ↔ Op 4:5+5:6 (gedeeld zeven-motief; Op citeert geen Zach 4 expliciet voor gemeenten)
 - **Tags:** menorah, kandelaar, zeven-lampen, Zach-4, zeven-Geesten, zeven-gemeenten, Op-1-12-20
 - **Zie ook:** `./mozes.md`, `../B_cijfer/7.md`, `../E_structuur/tabernakel-hemels-patroon.md`
 
@@ -5535,7 +5526,7 @@ In het NT zijn er drie tekst-eigen-typologische uitspraken:
 
 **Exodus 16:31** [N1] — verzamel-vers (smaak "tsappichit be-devash" — koek-met-honing).
 
-### Cluster B — Deuteronomium 8:3 theologische duiding
+### Cluster B — Deuteronomium 8:3 tekst-eigen duiding
 
 **Deuteronomium 8:3** [N1] — translit (deelvers) "u·iony·k u·iroib·k u·iakl·k ath-e·mn ashr la-idoth u·la idoun abthi·k l·mon eudio·k ki la ol-e·lchm l·bd·u ichie e·adm ki ol-kl-mutza phi-ieue ichie e·adm" — "Hij verootmoedigde u en deed u honger lijden, en gaf u manna te eten dat gij niet kende noch uw vaderen kenden, opdat Hij u zou doen weten dat de mens niet alleen van brood (lechem) leeft, maar van alles wat uit de mond van JHWH (mutza pi-JHWH) uitgaat, leeft de mens". **Tekst-eigen theologische duiding: manna leert afhankelijkheid van JHWH-woord**.
 
@@ -5639,7 +5630,7 @@ Eerdere versie (sjabloon V1) corrigeerd:
 - **Bron-discipline:** uitsluitend `Kennis/puur/` en `Kennis/strong/`. Sola scriptura. Geen training-input.
 - **As 1 (categorieën):** A1 (christustypen via Hebr 7 expliciet), G1 (drie ambten priester-koning samenval)
 - **As 2 (hermeneutische lagen):** L1, L2 (waar door tekst zelf bevestigd)
-- **As 3 (algemeen zekerheids-niveau):** **N1 voor cluster C Hebr 7 christologische uitleg** (sterkste sola-scriptura-uitwerking van NT op één OT-figuur); **N1 voor Hebr 7:3 typologische argument-uit-stilte** (Hebr-auteur zelf benoemt afwezigheid van genealogie als typologisch teken); **N1 voor Ps 110:4 + Mat 22:43-45 + Heb 5:6 + 5:10 + 7:17 + 7:21 priester-koning-eed-keten**; N1 voor cluster A Gen-feiten; **N2** voor "brood-en-wijn Gen 14:18 = avondmaal-typologie" (Hebr 7 noemt brood-wijn niet); N3-clue voor "Melchizedek = Sem / pré-incarnatische Christus / historische koning" identificatie-debat.
+- **As 3 (algemeen zekerheids-niveau):** **N1 voor cluster C Hebr 7 christologische uitleg** (sterkste sola-scriptura-uitwerking van NT op één OT-figuur); **N1 voor Hebr 7:3 typologische argument-uit-stilte** (Hebr-auteur zelf benoemt afwezigheid van genealogie als typologisch teken); **N1 voor Ps 110:4 + Mat 22:43-45 + Heb 5:6 + 5:10 + 7:17 + 7:21 priester-koning-eed-keten**; N1 voor cluster A Gen-feiten. Het brood-wijn (Gen 14:18) blijft een kaal tekst-feit; Hebr 7 hervat Melchizedek zónder die vermelding en geen NT-tekst koppelt het aan iets — een avondmaal-lezing is geleende traditie, buiten de typologie-laag. Een identificatie van Melchizedek (Sem, Christofanie, historische koning) valt buiten de typologie-laag; de tekst presenteert hem als historische figuur en Hebr 7:3 zegt "gelijk gemaakt aan de Zoon Gods", niet "is de Zoon".
 - **Tags:** Malki-Tzedek, Melchizedek, kohen-le-El-Elyon, melekh-Shalem, lechem-va-yayin, Ps-110:4, taxis-Melchisedek, eeuwig-priesterschap, Hebr-7
 - **Zie ook:** `./abraham.md` cluster B, `./david.md` cluster D (Ps 110), `../B_cijfer/10.md` cluster B (tienden)
 
@@ -5649,7 +5640,7 @@ Tekst-eigen feiten. Gen 14:18 noemt "Malki-Tzedek melekh Shalem hotzi lechem va-
 
 NT-eigen typologie-claims. **Hebr 5:6 + 5:10 + 7:17 + 7:21** citeren Ps 110:4 viervoudig met "kata tēn taxin Melchisedek". **Hebr 7:1-25** wijdt heel hoofdstuk aan typologische uitleg. **Hebr 7:9-10** stelt "Levi ho dekatas lambanōn dedekatōtai" (Levi-die-tienden-ontvangt heeft tienden gegeven) door Abraham — typologische argumentatie dat Levi-priesterschap onder Melchizedek-priesterschap staat. **Hebr 7:14** stelt expliciet "prodēlon gar hoti ex Iouda anatetalken ho kurios hēmōn" (uit Juda, niet Levi). **Hebr 7:16 + 7:24** stellen "kata dynamin zōēs akatalytou" en "aparabaton echei tēn hierōsynēn" (onveranderlijk priesterschap).
 
-Interpretatieve framings. Dat Melchizedeks "lechem va-yayin" (Gen 14:18) een avondmaal-typologie is: Hebr 7 hervat Melchizedek uitvoerig **zonder brood-wijn-vermelding**. **N2.** Dat Melchizedek = Sem (vroeg-Joodse traditie) of = pré-incarnatische Christus / Christofanie of = historische heidense koning: identificatie-debat valt buiten typologie-laag. Tekst Gen presenteert hem als historische figuur; Hebr 7:3 stelt "aphōmoiōmenos de tō huiō tou theou" ("gelijk gemaakt aan de Zoon Gods") — niet "is de Zoon Gods". **N3-clue.**
+Interpretatieve framings. Melchizedeks "lechem va-yayin" (Gen 14:18) blijft een kaal tekst-feit: Hebr 7 hervat Melchizedek uitvoerig **zonder brood-wijn-vermelding** en geen NT-tekst koppelt het ergens aan. Een avondmaal-lezing is geleende traditie en valt buiten de typologie-laag. Een identificatie van Melchizedek (Sem, Christofanie, of een historische koning) valt buiten de typologie-laag. Tekst Gen presenteert hem als historische figuur; Hebr 7:3 stelt "aphōmoiōmenos de tō huiō tou theou" ("gelijk gemaakt aan de Zoon Gods") — niet "is de Zoon Gods". Tekst-feit: de Hebr-auteur duidt typologisch zonder de figuur te identificeren.
 
 ## Voorkomens (per cluster)
 
@@ -5705,8 +5696,8 @@ Interpretatieve framings. Dat Melchizedeks "lechem va-yayin" (Gen 14:18) een avo
 3. **Wel door tekst expliciet gelegd:** Hebr 7:3 "aphōmoiōmenos tō huiō tou theou" + argument-uit-stilte over genealogie. **N1**.
 4. **Wel door tekst expliciet gelegd:** Hebr 7:9-10 Levi-priesterschap onder Melchizedek via Abraham-tiende. **N1**.
 5. **Wel door tekst expliciet gelegd:** Mat 22:43-45 Christus' eigen exegese Ps 110. **N1**.
-6. **Niet door tekst expliciet gelegd:** Brood-en-wijn Gen 14:18 = avondmaal-typologie. Hebr 7 noemt brood-wijn niet. **N2**.
-7. **Identificatie-debat:** Melchizedek = Sem / pré-incarnatische Christus / historische koning. **N3-clue, buiten typologie-laag**.
+6. **Niet door tekst gelegd:** brood-en-wijn Gen 14:18 als avondmaal-typologie. Hebr 7 noemt brood-wijn niet; geen NT-tekst koppelt het. Avondmaal-lezing valt buiten de typologie-laag.
+7. **Identificatie van Melchizedek** (Sem, Christofanie, historische koning) valt buiten de typologie-laag; de tekst identificeert hem niet.
 
 ## Watermerk-verbinding
 
@@ -5724,11 +5715,11 @@ Bij vragen over **drie ambten samenval (profeet-priester-koning) in Christus**: 
 
 **Cluster C Hebr 7:3 "apatōr amētōr agenealogētos"** — **bron-eigen argument-uit-stilte**. Tekst Gen vermeldt Melchizedek's afkomst niet; Hebr-auteur gebruikt deze afwezigheid als typologisch teken. Sleutelwoord **"aphōmoiōmenos" (G871, gelijk gemaakt aan)** — Hebr stelt niet "is de Zoon Gods" maar "gelijk gemaakt aan de Zoon Gods". Niet over-claimen op letterlijke onsterfelijkheid.
 
-**Melchizedek historiciteit/identificatie-debat** (was hij Sem? pré-incarnatische Christus / Christofanie? historisch heidens koning?) valt buiten typologie-laag. Tekst Gen presenteert hem als historische figuur; Hebr behandelt hem typologisch zonder identificatie te forceren. **N3-clue**.
+**Melchizedek historiciteit/identificatie** (Sem? Christofanie? historisch heidens koning?) valt buiten de typologie-laag. Tekst Gen presenteert hem als historische figuur; Hebr behandelt hem typologisch zonder identificatie te forceren.
 
 **Cluster B Ps 110:4 + 110:1 samen** — Christus als priester én koning-aan-rechterhand. Levi en David zijn verschillende stammen — gewone priester-koning-combinatie was wettelijk uitgesloten in Israel. Ps 110:4 anticipeert nieuwe orde. Niet vermengen met Levi-priesterschap-instelling Aäron.
 
-**Brood en wijn Gen 14:18** wordt soms gelezen als sacramenteel-typologisch met avondmaal. **Hebr 7 hervat Melchizedek uitvoerig zonder brood-wijn-vermelding** — geen tekst-eigen koppeling. **N2**.
+**Brood en wijn Gen 14:18** — een sacramenteel-typologische lezing (avondmaal) is geleende traditie en valt buiten de typologie-laag. **Hebr 7 hervat Melchizedek uitvoerig zonder brood-wijn-vermelding** — geen tekst-eigen koppeling. Tekst-feit: Melchizedek brengt brood en wijn voort, zonder verdere duiding in de tekst.
 
 **Cluster C Hebr 7:14 "ex Iouda anatetalken ho kyrios"** — bron-eigen feit dat Christus uit Juda is. Belangrijk voor priester-koning-combinatie: Christus erft koningschap via David-Juda + priesterschap via Melchizedek-orde, niet via Levi.
 
@@ -5737,23 +5728,17 @@ Bij vragen over **drie ambten samenval (profeet-priester-koning) in Christus**: 
 Alle 24 vers-references in deze entry op 2026-05-06 geverifieerd via `audit_v2.py` tegen `Kennis/strong/[boek].jsonl`. Existentie 100% (24/24). Steekproef-citaten Gen 14:18+19+20, Ps 110:4, Heb 5:6+10, Heb 7:1+2+3+4+9+10+11+14+16+17+21+23+24+25, Mat 22:43+44+45 woord-voor-woord met bron vergeleken (transliteratie + Strong-codes).
 
 Eerdere versie corrigeerd:
-- **Hypothese**: "Brengt brood en wijn (Gen 14:18, parallel avondmaal)" als impliciete N1-koppeling → corrigeerd; Hebr 7 hervat Melchizedek **zonder brood-wijn-vermelding**. **N2** voor avondmaal-typologie.
+- **Hypothese**: "Brengt brood en wijn (Gen 14:18, parallel avondmaal)" → avondmaal-typologie verwijderd als geleende traditie (zuivering 2026-06-15); alleen tekst-feit behouden (Hebr 7 hervat Melchizedek zonder brood-wijn-vermelding; geen NT-koppeling).
 - **Cluster A "tienden van Abraham — typologisch boven Levi"** als impliciete claim → expliciet via Hebr 7:9-10 als bron-feit gemarkeerd.
 - **Hebr 7:3 sleutelwoord "aphōmoiōmenos" (G871)** als bron-eigen typologisch nuance-woord toegevoegd ("gelijk gemaakt aan", niet "is").
 - **Mat 22:43-45 Christus' eigen exegese** als bron-feit toegevoegd voor cluster B (was niet eerder vermeld).
 - **Hebr 7:14 "ex Iouda anatetalken"** als bron-eigen Christus-uit-Juda-feit expliciet gemarkeerd voor priester-koning-combinatie.
 - **Hebr 7:16 "zōēs akatalytou"** + **Hebr 7:24 "aparabaton hierōsynēn"** + **Hebr 7:25 "sōzein eis to panteles"** als bron-eigen sleutel-formules gemarkeerd.
-- **Identificatie-debat (Sem/pré-incarnatische Christus/historisch)** expliciet als **N3-clue, buiten typologie-laag** gemarkeerd.
+- **Identificatie van Melchizedek (Sem/Christofanie/historisch)** verwijderd als geleende speculatie; alleen tekst-feit behouden (historische figuur; Hebr 7:3 "gelijk gemaakt aan", niet "is") (zuivering 2026-06-15).
 
 ## Vervolgvragen
 
-1. Cluster A brood-en-wijn → avondmaal-typologie verdient eigen sub-onderzoek (N2-status; geen Hebr 7-koppeling).
-2. Cluster C Hebr 7-10 als geheel verdient meta-entry over "Christus' priester-koning-typologie" naast `../G_rol/drie-ambten-priester.md` (Fase 8).
-3. Melchizedek + Salem (Jeruzalem-naam-oorsprong?) — past in toekomstige `A_entiteit/stad-jeruzalem.md` (Fase 4)?
-4. Drie ambten samenval (profeet-priester-koning) verdient gemeenschappelijke meta-entry — past in `G_rol/drie-ambten-samenval.md` (Fase 8).
-5. Hebr 7:3 "argument-uit-stilte"-methode — verdient eigen entry in `D_taal` of typologische-methode-meta-entry?
-6. Cluster B Ps 110:1 + 110:4 paar — verbinding `./david.md` cluster D + Mat 22:43-45.
-
+1. Cluster A brood-en-wijn blijft kaal tekst-feit (geen Hebr 7-koppeling, geen NT-tekst die het duidt); avond
 ---
 
 
@@ -5874,7 +5859,7 @@ Eerdere versie (sjabloon V1) corrigeerd:
 - **Bron-discipline:** uitsluitend `Kennis/puur/` en `Kennis/strong/`. Sola scriptura. Geen training-input.
 - **As 1 (categorieën):** A1 (christustypen via meervoudige NT-claims), G1 (drie ambten profeet raakvlak), G6 (knecht-heer raakvlak)
 - **As 2 (hermeneutische lagen):** L1, L2 (waar door tekst zelf bevestigd)
-- **As 3 (algemeen zekerheids-niveau):** **N1 voor cluster B** (Hand 3:22, 7:37, Joh 5:46 citeren Deu 18 letterlijk), **N1 voor cluster E koperen-slang** (Joh 3:14 expliciet) **+ rots-water** (1 Kor 10:4 expliciet "petra de ēn ho Christos") **+ doop-in-Mozes** (1 Kor 10:2 expliciet); N1 voor cluster A en C en D feiten; N2 voor "Mozes-baby-verberging Exo 2:2 ↔ Christus-baby-Mat 2"-parallel; N2 voor "manna-typologie" (Joh 6:31-51 hervat manna-thema, maar koppelt expliciet aan "ek tou ouranou"-claim, niet aan Mozes als persoon); N3-clue voor "Mozes-substitutie Exo 32:32 = Christus-substitutie".
+- **As 3 (algemeen zekerheids-niveau):** **N1 voor cluster B** (Hand 3:22, 7:37, Joh 5:46 citeren Deu 18 letterlijk), **N1 voor cluster E koperen-slang** (Joh 3:14 expliciet) **+ rots-water** (1 Kor 10:4 expliciet "petra de ēn ho Christos") **+ doop-in-Mozes** (1 Kor 10:2 expliciet); N1 voor cluster A en C en D feiten; N2 voor "Mozes-baby-verberging Exo 2:2 ↔ Christus-baby-Mat 2"-parallel; N2 voor "manna-typologie" (Joh 6:31-51 hervat manna-thema, maar koppelt expliciet aan "ek tou ouranou"-claim, niet aan Mozes als persoon). Tekst-feit Exo 32:32-33: Mozes biedt zelf-uitwissing aan, JHWH wijst het af; een koppeling aan een substitutie-leer is geleende doctrine en valt buiten de typologie-laag.
 - **Tags:** Mozes, Mōsēs, navi-kamoni, mesitēs, therapōn, drie-fasen-40-jaar, koperen-slang, manna, petra-Christos, doop-in-Mozes, Hebr-3, Hand-7, Joh-3:14, 1Kor-10
 - **Zie ook:** `./jozef.md`, `./jozua.md`, `../B_cijfer/40.md` cluster B + L, `../B_cijfer/120.md` cluster A en F, `../B_cijfer/3.md` cluster B (Sinai)
 
@@ -5884,7 +5869,7 @@ Tekst-eigen feiten. Deu 18:15 noemt JHWH-uitspraak "nbia m·qrb·k m·achi·k km
 
 NT-eigen typologie-claims. **Hand 3:22 + 7:37 + Joh 5:46** citeren Deu 18:15 letterlijk. **Joh 3:14** citeert Mozes' koperen slang expliciet: "kathōs Mōsēs hupsōsen ton ophin ... houtōs hupsōthēnai dei ton huion tou anthrōpou". **1 Kor 10:2** noemt expliciet "eis ton Mōsēn ebaptisanto en tē nephelē kai en tē thalassē". **1 Kor 10:4** noemt expliciet "hē de petra ēn ho Christos". **Hebr 3:5** noemt Mozes "therapōn" (G2324, dienaar) tegenover Christus "huios" (Hebr 3:6). **Joh 1:17** stelt "ho nomos dia Mōseōs edothē hē charis kai hē alētheia dia Iēsou Christou egeneto".
 
-Interpretatieve framings. Dat Mozes-baby-verborgen-3-maanden (Exo 2:2) typologisch parallel loopt met Christus-baby-Egypte-vlucht (Mat 2:13-15) is structurele parallel zonder NT-eigen-koppeling. **N2.** Dat Mozes' aangeboden substitutie (Exo 32:32 "delg mij uit Uw boek") = Christus' substitutie is interpretatieve framing. JHWH wijst Mozes' aanbod expliciet af (Exo 32:33). **N3-clue.** Dat Mat 17:3 verheerlijking-berg "Mozes tussen wet en profeten" een typologische heilshistorie-samenvoeging is: tekst noemt feit ("Mōsēs kai Ēlias met autou sullalountes") maar legt geen typologische uitleg.
+Interpretatieve framings. Dat Mozes-baby-verborgen-3-maanden (Exo 2:2) typologisch parallel loopt met Christus-baby-Egypte-vlucht (Mat 2:13-15) is structurele parallel zonder NT-eigen-koppeling. **N2.** Tekst-feit: Mozes biedt aan zichzelf uit Gods boek te laten delgen (Exo 32:32); JHWH wijst dit aanbod expliciet af (Exo 32:33). Een koppeling aan een substitutie-leer is geleende doctrine en valt buiten de typologie-laag. Dat Mat 17:3 verheerlijking-berg "Mozes tussen wet en profeten" een typologische heilshistorie-samenvoeging is: tekst noemt feit ("Mōsēs kai Ēlias met autou sullalountes") maar legt geen typologische uitleg.
 
 ## Voorkomens (per cluster)
 
@@ -5918,7 +5903,7 @@ Interpretatieve framings. Dat Mozes-baby-verborgen-3-maanden (Exo 2:2) typologis
 
 **Exodus 32:30** [N1] — translit "u·iei m·mchrth u·iamr Mshe al-e·om athm chtathm chta gdle u·othe aole al-ieue auli akphre bod chtath·km" (H4872+H5971a+H2398+H1419a+H3068+H3722b) — "Mozes zeide tot het volk: gij hebt grote zonde gezondigd, ik zal opklimmen tot JHWH; misschien kan ik verzoening (akhapperah, wortel kafar) doen voor uw zonde". **Wortel kafar (H3722b) — verzoenen**.
 
-**Exodus 32:32** [N1] — translit "u·othe am-thsha chtath·m u·am-ain mch·ni na m·sphr·k ashr kthbth" (H5375+H2403+H4229+H5612+H3789) — "indien Gij hun zonde wilt vergeven [...]; en zo niet, delg mij dan uit Uw boek dat Gij geschreven hebt". **Mozes biedt zelf-uitwissing aan**. JHWH wijst dit expliciet af in Exo 32:33: "wie tegen Mij zondigt, dien zal Ik uit Mijn boek delgen". Brug naar Christus-substitutie is interpretatieve typologie. **N3-clue**.
+**Exodus 32:32** [N1] — translit "u·othe am-thsha chtath·m u·am-ain mch·ni na m·sphr·k ashr kthbth" (H5375+H2403+H4229+H5612+H3789) — "indien Gij hun zonde wilt vergeven [...]; en zo niet, delg mij dan uit Uw boek dat Gij geschreven hebt". **Mozes biedt zelf-uitwissing aan**. JHWH wijst dit expliciet af in Exo 32:33: "wie tegen Mij zondigt, dien zal Ik uit Mijn boek delgen". Een brug naar een substitutie-leer is geleende doctrine en valt buiten de typologie-laag; tekst-feit is alleen het aanbod en de afwijzing.
 
 **Romeinen 9:3** [N1] — translit "ēuchomēn gar autos egō anathema einai apo tou Christou huper tōn adelphōn mou tōn suggenōn mou kata sarka" (G2172+G331+G5547+G80+G4773+G4561) — "ik zou wensen zelf vervloekt te zijn van Christus voor mijn broeders, mijn verwanten naar het vlees". **Paulus echoot Mozes' offer-aanbod-patroon**.
 
@@ -5966,7 +5951,7 @@ Interpretatieve framings. Dat Mozes-baby-verborgen-3-maanden (Exo 2:2) typologis
 5. **Wel door tekst expliciet gelegd:** Hebr 3:5-6 — Mozes therapōn / Christos huios contrast. **N1**.
 6. **Wel door tekst expliciet gelegd:** Joh 1:17 — wet-Mozes / genade-Christus. **N1**.
 7. **Niet door tekst expliciet gelegd:** Mozes-baby-3-maanden ↔ Christus-baby-Egypte. **N2**.
-8. **Niet door tekst expliciet gelegd:** Mozes-substitutie Exo 32:32 = Christus-substitutie. **N3-clue** (JHWH wijst Mozes' aanbod expliciet af).
+8. **Niet door tekst gelegd:** een koppeling Mozes-aanbod Exo 32:32 ↔ substitutie-leer. JHWH wijst Mozes' aanbod expliciet af (Exo 32:33); de koppeling valt buiten de typologie-laag.
 9. **Niet door tekst expliciet gelegd:** Mat 17:3 verheerlijking-berg "wet + profeten + Christus" als heilshistorie-typologie. **N2**.
 10. **Wel-thema-koppeling, niet-direct-Mozes-typos:** Joh 6:31-51 manna ↔ brood-des-levens. **N1 voor thema, N2 voor Mozes-als-persoonlijke-typos via manna**.
 
@@ -5986,7 +5971,7 @@ Bij vragen over **koperen slang verhoogd, manna brood des levens, rots-water pet
 
 **Mozes is "therapōn" (Hebr 3:5), Christus is "huios" (Hebr 3:6).** Onderscheid bron-eigen handhaven — Mozes-typologie is dienst-typologie, niet equivalentie-typologie.
 
-**Cluster C Mozes-substitutie Exo 32:32** — Mozes biedt aan; JHWH wijst expliciet af in Exo 32:33. Christus-substitutie wordt door God aanvaard. Geen NT-tekst legt brug Mozes-aanbod = Christus-substitutie. **N3-clue**.
+**Cluster C Mozes-aanbod Exo 32:32** — Mozes biedt aan; JHWH wijst expliciet af in Exo 32:33. Geen NT-tekst legt een brug van Mozes' aanbod naar een substitutie-leer; die koppeling valt buiten de typologie-laag. Tekst-feit blijft: het aanbod en de afwijzing.
 
 **Cluster A Mozes-baby-3-maanden Exo 2:2** — bron-feit. Brug naar Mat 2:13-15 (Christus-baby-Egypte) is structurele parallel zonder NT-eigen koppeling. **N2**.
 
@@ -6003,7 +5988,7 @@ Alle 25 vers-references in deze entry op 2026-05-06 geverifieerd via `audit_v2.p
 Eerdere versie corrigeerd:
 - **Hypothese**: "drie levensfasen ... totaal 120 jaar" als impliciet → corrigeerd; nu expliciet via Hand 7:23+30+36 + Deu 34:7 verankerd.
 - **Cluster A "Verberging-baby-typologie"** als impliciet N1 → corrigeerd naar **N2** (geen NT-eigen koppeling Exo 2:2 naar Mat 2:13-15).
-- **Cluster C Mozes-substitutie Exo 32:32 → Christus-substitutie**: was als typologisch raakvlak gepresenteerd → corrigeerd naar **N3-clue** (JHWH wijst Mozes' aanbod expliciet af in Exo 32:33; geen NT-tekst legt brug).
+- **Cluster C Mozes-aanbod Exo 32:32**: koppeling naar substitutie-leer verwijderd als geleende doctrine (zuivering 2026-06-15); alleen tekst-feit behouden (aanbod + afwijzing Exo 32:33).
 - **Cluster E manna**: was N1 als "Mozes-typos via manna" → corrigeerd naar **N1 voor manna-thema-koppeling, N2 voor Mozes-persoonlijke typos** (Christus is brood-tegenhanger van manna, niet van Mozes als persoon).
 - **Cluster E Mat 17:3 verheerlijking** "wet en profeten samenvoeging" → corrigeerd naar **N2** (tekst noemt Mozes-Elia-feit, geen typologische uitleg).
 - **1 Tim 2:5 + Heb 9:15** Christus-mesitēs-formule expliciet toegevoegd (was alleen verwezen).
@@ -6017,9 +6002,7 @@ Eerdere versie corrigeerd:
 3. Cluster E manna — verdient eigen entry `A_entiteit/manna.md` (Fase 4 voorwerpen).
 4. Cluster E rots — verdient eigen entry `A_entiteit/rots-water.md` (Fase 4).
 5. Cluster D Mozes-Christus contrast huis — verbinding met `H_contrast/twee-verbonden-oud-nieuw.md` (Fase 9).
-6. Verheerlijking-berg (Mat 17:3) Mozes + Elia — gemeenschappelijk met `./elia.md` (toekomstig). Cross-references aanvullen.
-7. Cluster C wortel kafar (H3722b Exo 32:30) — verbinding met `./noach.md` (Gen 6:14 ark-pek). Wortel-cluster in `D_taal` toekomstig?
-
+6. Verheerlijk
 ---
 
 
@@ -7185,7 +7168,7 @@ Interpretatieve framings. Dat Hagars twee Engel-JHWH-ontmoetingen (Gen 16:7-13 +
 4. **Wel door tekst expliciet gelegd:** Heb 11:11 + 1 Pet 3:6 — Sara als geloofs-prototype. **N1**.
 5. **Niet door tekst expliciet gelegd:** Hagars twee Engel-JHWH-ontmoetingen ↔ verschijning-aan-verlatene-typologie. **N3-clue**.
 6. **Niet door tekst expliciet gelegd:** Ismaël 12 vorsten Gen 17:20 ↔ Israel 12 stammen. **N3-clue** (gedeeld getal).
-7. **Niet door tekst expliciet gelegd:** Gen 18 drie-mannen ↔ trinitarische theofanie. **N3-clue, buiten cluster C-allegorie**.
+7. **Niet door tekst gelegd:** Gen 18 noemt drie mannen die JHWH vertegenwoordigen; de tekst geeft geen verdere duiding van het getal. Elke duiding ervan valt buiten de typologie-laag.
 
 ## Watermerk-verbinding
 
@@ -7229,8 +7212,7 @@ Eerdere versie corrigeerd:
 2. Hagar's twee Engel-JHWH-ontmoetingen (Gen 16, 21) verdienen eigen sub-onderzoek over verschijning-aan-verlatene-typologie (`F_verhaal` Fase 7).
 3. Cluster B wortel pala (H6381) — verbinding `./simson.md` + Jes 9:6. Past in `D_taal/wortel-pele.md` (Fase 5).
 4. Sara-Rebekka-Rachel patroon (drie patriarch-vrouwen alle drie onvruchtbaar tot belofte) — verdient eigen meta-entry over "onvruchtbare-moeder-typologie".
-5. Cluster A wortelpaar "metzacheq/Yitzchaq" Gen 21:9 — typologisch lading "Ismaël lacht namens Isaak" verdient sub-onderzoek?
-
+5. Cluster A wortelpaar "metzacheq/Yitzchaq" Gen 21:9 — typologisch ladin
 ---
 
 
@@ -7891,7 +7873,7 @@ Bij vragen over **Luk 2 / Jozef-Maria-Bethlehem / Joh 7 volk-twijfel**: cluster 
 
 **Cluster D — "alfei Yehudah"** — alfei betekent "duizendtallen" of "clans" (zie `../B_cijfer/1000.md` cluster H). **N1 voor woord-feit; N2 voor cijfer-context**.
 
-**Cluster D — "motza'otav me-qedem mi-yemei olam"** — uitgangen-vanouds-dagen-eeuwigheid. **N1 voor woord-feiten; N3-clue voor systematische pre-existentie-typologie**.
+**Cluster D — "motza'otav me-qedem mi-yemei olam"** — uitgangen-vanouds-dagen-eeuwigheid. **N1 voor de woord-feiten**. Een systematische pre-existentie-leer hieruit afleiden is geleende doctrine en valt buiten de typologie-laag; de tekst geeft alleen de woorden.
 
 **Cluster E — Mat 2:6 verschilt licht van Mi 5:2** — Mat voegt "poimanei ton laon mou" toe (uit 2 Sam 5:2 over David als herder van Israël). **N1 voor het feit van conflated-citaat; N2 voor literair-corpus-techniek**.
 
@@ -7920,8 +7902,7 @@ Eerdere versie (sjabloon V1) corrigeerd:
 2. Rachel-graf Gen 35 ↔ Mat 2:18 Rachel-weeklacht (Jer 31:15-citaat) — Fase 7 verhaal-typologie.
 3. Bethlehem-Efrata dubbele plaats-naam — Fase 5 D_taal of plaats-naam-overzicht.
 4. "Alfei Yehudah" ↔ duizendtallen-clans-tegenstelling — Fase 1 cijfer-typologie 1000 cluster H.
-5. Bethlehem ↔ Bethanië ↔ Bethel cluster (alle "Beit-X" namen) — Fase 5 D_taal beth-prefix-cluster.
-
+5. Bethlehem 
 ---
 
 

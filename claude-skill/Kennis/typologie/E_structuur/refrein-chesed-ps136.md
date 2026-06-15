@@ -38,7 +38,7 @@ Interpretatieve framings. Dat refrein = "liturgische antifoon-typologie" of "res
 
 **Bron-eigen 26 herhalingen** zonder enige variatie in formule. Volgens MorphHB-telling: **26 van 26 verzen bevatten "chsd·u"**. Dit is de meest extreme refrein-saturation van het Psalter.
 
-**Cluster-thema's** zijn tekst-eigen drie-deling: schepping (4-9), exodus (10-15), gevolgen (16-22). Niet alle commentatoren delen het zo; de drie-deling is bron-detecteerbaar via thema-clusters in vers-1ste-helften.
+**Cluster-thema's** zijn tekst-eigen drie-deling: schepping (4-9), exodus (10-15), gevolgen (16-22). De exacte grens-keuze is interpretatief; de drie-deling is bron-detecteerbaar via thema-clusters in vers-1ste-helften.
 
 ### Cluster B — Ps 107: dubbele refrein-structuur (4× cry-formule + 4× chesed-refrein) [N1]
 
@@ -198,4 +198,4 @@ Steekproef-voorkomens woord-voor-woord met bron vergeleken (Hebreeuwse karakters
 4. **Ezechiël "zij zullen weten dat Ik JHWH ben"-formule** — exacte teller, distributie over hoofdstukken, theologische functie. Verdient eigen entry `B_cijfer/refrein-Eze-70.md`.
 5. **Op 4:8 4× "agios" (Heilig) + Op 4-5 hymnen** — NT-vergelijking met OT-refrein-Psalmen. Past in toekomstige meta-entry `E_structuur/refrein-NT-openbaring.md`.
 6. **Ps 46 ieue tzbauth om·nu ↔ Jes 7:14 Immanuel** — bron-eigen wortel-paronomasie; typologische brug interpretatief. Past in `D_taal/paronomasie-immanuel.md` (toekomstig).
-7. **Cluster H — overig refrein-onderzoek**: Ps 49 vs 12+20 ("mens in eer blijft niet"); Ps 56 vs 4+10-11 ("op God vertrouw ik"); Ps 57 vs 5+11 ("verhef U boven hemel"); Ps 59 vs 9-10+17 (hoorvragen); Ps 99 vs 5+9 (qadosh-buigen). Buiten deze entry; verdient eigen ronde later.
+7. **Cluster H — overig refrein-onderzoek**: Ps 49 vs 12+20 ("mens in eer blijft niet"); Ps 56 vs 4+10-11 ("op God vertrouw ik"); Ps 57 vs 5+11 ("verhef U boven hemel"); Ps 59 vs 9-10+17 (hoorvragen); Ps 99 vs 5+9 (qadosh-buigen). Buiten deze entry; verdient eigen ronde late

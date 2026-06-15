@@ -1,11 +1,12 @@
 ---
 name: godstruegospel
-description: Concordante bijbelstudie vanuit Hebreeuwse, Aramese en Griekse grondtekst. Vijf lagen: tekst, vertaal (concordante master), diepte (zeven-ankers per kernwoord), omgekeerde index, LXX-mapping en protocollen. Geen vertaal-tradities, geen geheugen-input. Default-output: A4-samenvatting (max 1 A4, concreet antwoord met vers-verwijzingen). Opt-in via interview: Blok A (woord-Strong-tabel), B (etymologisch dieptedossier), C (cross-references), D (vers-lijst per Strong), E (taalkundige synthese), F (Instagram-tekst ~100 woorden). Talen NL, EN, ES operationeel; interview wordt altijd in de taal van de gebruiker gevoerd. Levering default als PDF. Triggeren bij /gtg, vragen over de grondtekst, een Strong-nummer, een Hebreeuws of Grieks woord, of bij vers-referenties (bv. Joh 3:16). Frase-triggers NL: "in de grondtekst", "wat staat er echt", "concordant". EN: "in the source text", "what does the text really say", "concordant". ES: "en el texto fuente", "qué dice realmente el texto", "concordante".
+description: Concordante bijbelstudie vanuit Hebreeuwse, Aramese en Griekse grondtekst. Vijf lagen: tekst, vertaal (concordante master), diepte (zeven-ankers per kernwoord), omgekeerde index, LXX-mapping en protocollen. Geen vertaal-tradities, geen geheugen-input. Default-output: A4-samenvatting (max 1 A4, concreet antwoord met vers-verwijzingen). Opt-in via interview: Blok A (woord-Strong-tabel), B (taalkundig dieptedossier), C (cross-references), D (vers-lijst per Strong), E (taalkundige synthese), F (Instagram-tekst ~100 woorden). Talen NL, EN, ES operationeel; interview wordt altijd in de taal van de gebruiker gevoerd. Levering default als PDF. Triggeren bij /gtg, vragen over de grondtekst, een Strong-nummer, een Hebreeuws of Grieks woord, of bij vers-referenties (bv. Joh 3:16). Frase-triggers NL: "in de grondtekst", "wat staat er echt", "concordant". EN: "in the source text", "what does the text really say", "concordant". ES: "en el texto fuente", "qué dice realmente el texto", "concordante".
 ---
 
-# godstruegospel — Skill v5.4.2
+# godstruegospel — Skill v5.5
 
 ## Versiehistorie
+- **v5.5 (2026-06-15)**: Sola-scriptura-zuivering van de ondersteunende lagen plus verankering op de grondtekst. (1) Typologie-laag (`Kennis/typologie/`, 170 entries) ontdaan van alle geleende doctrine, ook als N3-clue: Triniteit-duidingen, avondmaal-sacramentalisme, substitutie-leer, pre-existentie- en pre-incarnatie-christologie, dispensationalisme, eschatologie-scholen, en verwijzingen naar kerkvaders, commentatoren en rabbijnse traditie. Tekst-feiten en NT-eigen typologie (waar het NT zelf het OT duidt) behouden. (2) Diepte-laag (`Kennis/diepte/`, 1187 dossiers) en concordant-masters ontdaan van training-data: velden "Etymologie" en "Cognaten in zustertalen" verwijderd (proto-talen, niet-bijbelse cognaten, klassiek-Griekse etymologie), plus het bijvoeglijke "theologisch" als framing. Behouden: wortel-radicalen, morfologie, vindplaatsen, LXX-mapping en co-occurrence uit de tekst, en de concordante glossen. (3) Gezags-hiërarchie vastgelegd in Bron-discipline: de grondtekst-laag (`Kennis/strong/` + `Kennis/puur/`) is het enige verankerende gezag; diepte, typologie, vertaal- en LXX-laag zijn uitsluitend ondersteunend en nooit zelf bron van een uitspraak. Bundels 10-13, 20, 30-37, 60-62 hergenereerd. Volledig logboek in `Kennis/typologie/_zuivering-voortgang.md`.
 - **v5.4.2 (2026-05-11)**: Meertalige toegankelijkheid. Twee aanvullingen op v5.4.1. (1) Trigger-frases in de YAML-description uitgebreid met Engelse en Spaanse equivalenten naast de Nederlandse, zodat de skill ook betrouwbaar triggert bij Spaans- of Engelstalige vragen ("in the source text", "en el texto fuente", "concordant", "concordante"). (2) Expliciete spec-regel toegevoegd dat het interview altijd in de taal van de gebruiker wordt gevoerd: de Nederlandse zinnen in de interview-vragen-template zijn een sjabloon, geen dwingende formulering. Claude vertaalt het sjabloon naar de taal die de gebruiker spreekt voordat hij de AskUserQuestion-aanroepen doet. Achtergrond: een Spaans-sprekende test-gebruiker zou anders Nederlandse interview-schermen krijgen ondanks dat de output-laag (PROMPT_TEMPLATES, A4_TEMPLATES) wel NL/EN/ES beheerst.
 - **v5.4.1 (2026-05-11)**: Interview-UX-correctie op v5.4. De zes per-blok vragen MOETEN als zes losse AskUserQuestion-aanroepen worden gesteld, in vaste volgorde A, B, C, D, E, F, elk met ja/nee als enige antwoord-opties. Bundeling in één multi-select-scherm is verboden: in de praktijk leverde dat UI-truncatie op waarbij Blok D (vers-lijst per Strong) en Blok F (Instagram-tekst) werden weggelaten omdat de AskUserQuestion-tool maximaal vier zichtbare opties plus "Something else" toelaat. De skill-spec van v5.4 ("per blok één functionele vraag") wordt hiermee strikt afgedwongen.
 - **v5.4 (2026-05-11)**: Output-architectuur grondig herzien. A4-samenvatting (max 1 A4, concreet antwoord op de vraag in begrijpelijk Nederlands met directe vers-verwijzingen) wordt het default-resultaat van élke gtg-vraag. De Blokken A tot en met F worden expliciet opt-in via een uitgebreid per-blok interview, niet meer als één bundel. Interview-script `skill_v5_interview.py` accepteert nu een lijst `blocks_requested` (subset van {A, B, C, D, E, F}) in plaats van één output-type. Per blok stelt Claude in Stap 1 een functioneel geformuleerde ja/nee-vraag aan de gebruiker (zie sectie Interview-vragen-template). Talen-vraag expliciet als eerste interview-stap, met NL/EN/ES als operationele opties en fallback-waarschuwing voor de overige 14 talen. Output-formaat default PDF: scripts produceren markdown, Claude rendert de markdown via de pdf-skill naar PDF bij oplevering; beide bestanden gaan naar de werkmap. Blok F (Instagram of Reels-tekst van ~100 woorden voor ElevenLabs en Kling) wordt voortaan expliciet als opt-in genoemd in het interview, niet meer impliciet onder "dossier" of "transcript".
@@ -102,7 +103,7 @@ Open de zes-vraag-serie met een korte intro-zin in chat (geen AskUserQuestion): 
 Daarna één AskUserQuestion per blok met functionele uitleg:
 
 - AskUserQuestion 1 — "Blok A, woord-Strong-tabel: een rauwe tabel per vers met elk Grieks of Hebreeuws woord, transliteratie, Strong-code, parsing en NL-concordante betekenis. Geschikt als je het vers woord-voor-woord wilt nalopen. Wil je dit erbij?"
-- AskUserQuestion 2 — "Blok B, etymologisch dieptedossier: per kernwoord de wortel-analyse, semantische velden, cognaten in zustertalen en clusterverbanden uit de diepte-laag (zeven-ankers). Voor woorden zonder diepte-notitie krijg je een eerlijke ontbreking-markering plus de master-toelichting. Wil je dit erbij?"
+- AskUserQuestion 2 — "Blok B, taalkundig dieptedossier: per kernwoord de wortel-radicalen, morfologie, semantische velden en co-occurrence-clusters uit de tekst (diepte-laag). Uitsluitend corpus-afleidbare taalkunde; geen etymologie van buiten de Schrift en geen cognaten in niet-bijbelse talen. Voor woorden zonder diepte-notitie krijg je een eerlijke ontbreking-markering plus de master-toelichting. Wil je dit erbij?"
 - AskUserQuestion 3 — "Blok C, cross-references en LXX-bruggen: alle plekken in de Schrift waar dezelfde Strong-codes voorkomen, plus LXX-LIFT-scores die OT-Hebreeuws en NT-Grieks aan elkaar koppelen. Ook typologische coherentie-watermerken indien aanwezig. Wil je dit erbij?"
 - AskUserQuestion 4 — "Blok D, vers-lijst per Strong: de complete lijst van vers-referenties per kern-Strong via de omgekeerde index, gegroepeerd per genre. Geschikt als je zelf de hele verspreiding wilt nalopen. Wil je dit erbij?"
 - AskUserQuestion 5 — "Blok E, taalkundige synthese: een samenvattende analyse die A+B+C+D bij elkaar legt zonder theologische conclusies. Wil je dit erbij?"
@@ -188,6 +189,10 @@ De skill mag uitsluitend lezen uit:
 
 **Protocollen-laag (v5.1):** `Kennis/protocollen/chronologie.md`, `interpretatieve-keuzes.md`, `README.md`
 
+**Gezags-hiërarchie — verankering op de grondtekst (v5.5, HARDE REGEL).** De grondtekst-laag (`Kennis/strong/` + `Kennis/puur/`) is het enige verankerende gezag. Alle andere lagen (concordante vertaallaag, diepte-laag, typologie-laag, LXX-mapping) zijn uitsluitend ondersteunend: zij helpen de grondtekst ontsluiten, maar zijn nooit zelf de bron van een uitspraak. Bij elke conclusie geldt: de uitspraak moet herleidbaar zijn tot een vers in `Kennis/strong/[boek].jsonl`. Als een diepte- of typologie-laag iets beweert dat niet in de grondtekst staat, telt het niet mee. De grondtekst heeft altijd het laatste woord; de ondersteunende lagen hangen eronder, niet erboven.
+
+**Sola scriptura, geen training-data, geen theologie.** De ondersteunende lagen bevatten uitsluitend taalkundige beschrijving die uit het corpus zelf afleidbaar is: woord, concordante gloss, morfologie, wortel-radicalen, vindplaatsen, LXX-mapping en co-occurrence binnen de tekst. Geen vergelijkende taalkunde van buiten de 70 boeken (geen proto-talen, geen cognaten in niet-bijbelse zustertalen, geen klassiek-Griekse etymologie), en geen geleende doctrine (geen Triniteit-, verzoenings-, sacraments- of eschatologie-school-duiding). Tekst-glossen als "Heilige Geest" (pneuma hagion), "Messias" (christos) en "Godheid" (theos) blijven, want dat zijn concordante vertalingen van grondtekst-woorden, geen geleende leer.
+
 **Verboden bronnen:** alle traditionele vertalingen (KJV, ESV, NBG, NBV, SV-1977, HSV, Naardense, NIV), alle traditie-gebonden commentaren, en alle training-data herinnering. Als er geen entry is voor wat de gebruiker vraagt: zeg dat eerlijk.
 
 ---
@@ -257,39 +262,5 @@ De typologie-laag staat in `Kennis/typologie/` en levert coherentie-watermerken 
 **Opt-in blokken via interview (`blocks_requested`):**
 
 - **Blok A** — Vers-citatie + transliteratie + woord-Strong-tabel. Rauwe taalkundige laag: elk woord uit het vers met Grieks of Hebreeuws, transliteratie, Strong-code, parsing, NL-concordante betekenis uit de master.
-- **Blok B** — Per kernwoord: wortel, etymologie, basisbetekenis (uit diepte-laag). Voor ontbrekende diepte-notities: master-toelichting met expliciete markering `[diepte-notitie nog niet aanwezig in Kennis/diepte/]`.
-- **Blok C** — Cognaten in zustertalen + LXX cross-testament-koppeling + NT-OT cross-referenties. Bij actieve typologie-laag: vaste sub-sectie "Typologische cross-references" met de geraadpleegde entries uit `Kennis/typologie/`, hun zekerheids-niveau (N1/N2/N3), en relevante hermeneutische lagen (L1-L4).
-- **Blok D** — Volledige vers-lijst per Strong via omgekeerde index, gegroepeerd per genre.
-- **Blok E** — Taalkundige synthese A+B+C+D, geen theologische conclusies, geen geheugen-input. Bij actieve typologie-laag: vaste sub-sectie "Coherentie-watermerk" waar typologische patronen worden afgewogen tegen de directe lezing — bevestigend (patroon ondersteunt directe lezing), neutraal (geen relevante typologie), of signaal-gevend (typologie wijst naar mogelijke heroverweging). Watermerk is nooit bewijs, altijd coherentie-aanwijzing.
-- **Blok F** — Instagram of Reels-tekst van ~100-110 woorden geschikt voor ElevenLabs-voiceover en Kling 3.0 video. Korte, kernachtige formulering die in ongeveer 40 seconden uitgesproken kan worden.
-
-## Output-formaat
-
-**Default leveringsformaat: PDF.** Scripts produceren markdown-bestanden in de werkmap. Claude rendert de markdown vervolgens via de pdf-skill (`anthropic-skills:pdf`) naar PDF. Beide bestanden (`.md` en `.pdf`) blijven in de werkmap; de PDF is het primaire deliverable, de markdown het bronbestand voor eventuele bewerking.
-
-Bestandsnaam-conventie: `<onderwerp>-grondtekst-dossier.{md,pdf}` voor dossiers, `<onderwerp>-A4.{md,pdf}` voor de A4-samenvatting, `<onderwerp>-reels.{md,pdf}` voor Blok F.
-
-Bij grote dossiers (meer dan 5 A4 totaal) blijft de A4-samenvatting in een apart bestand, zodat de gebruiker meteen de samenvatting kan lezen zonder eerst door het volledige dossier te scrollen.
-
-## Betrouwbaarheids-discipline (v5.1)
-
-Elke uitspraak herleidbaar naar:
-1. Bron-vers (tekstlaag)
-2. Master-keuze (vertaallaag)
-3. Diepte-analyse (zeven-ankers)
-4. Cross-vers-bevestiging (omgekeerde index)
-5. Protocol-laag indien procedureel relevant (chronologie, kruisreferenties, hapax)
-
-Bij hapaxen of identiteit-onzekere woorden: eerlijke uncertainty-markering.
-Bij interpretatieve keuze: pas bron-weging uit `interpretatieve-keuzes.md` toe; werk-conclusie + zwakker alternatief vermelden. Geen pluralisme als verkapt diplomatieke positie.
-
----
-
-## Beslisregels
-
-- Bij conflict tussen master en diepte-notitie: master is leidend.
-- Bij vraag over taal die nog niet gebouwd is (alles buiten NL/EN/ES): meld eerlijk welke drie talen operationeel zijn en bied NL-fallback aan na bevestiging.
-- Bij `blocks_requested` leeg: lever alleen A4-samenvatting. Geen blokken erbij genereren zonder expliciete keuze.
-- Bij hapax: markeer als zodanig.
-- Bij Strong-code zonder diepte-notitie: in Blok B expliciete markering `[diepte-notitie nog niet aanwezig in Kennis/diepte/]` plus master-toelichting als surrogaat. In A4-samenvatting: ontbreking wordt niet genoemd tenzij het de kern van de uitspraak raakt — A4 hoort begrijpelijk te zijn voor de eindgebruiker, niet een audit-document.
-- Bij chronologie-vra
+- **Blok B** — Per kernwoord: wortel-radicalen, basisbetekenis, morfologie, semantische velden en co-occurrence-clusters uit de tekst (uit diepte-laag). Geen etymologie uit niet-bijbelse talen en geen cognaten in zustertalen — die zijn als training-data verwijderd; alleen corpus-afleidbare taalkunde blijft. Voor ontbrekende diepte-notities: master-toelichting met expliciete markering `[diepte-notitie nog niet aanwezig in Kennis/diepte/]`.
+- **Blok C** — LXX cross-testament-koppeling + NT-OT cross-ref

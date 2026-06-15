@@ -131,7 +131,7 @@ Bij vragen over **drievoudige herhaling als bevestigings-techniek in Schrift**: 
 
 **`anthrakia` G439 woord-paar** Joh 18:18 + 21:9 is bron-eigen unieke verbinding. Specifieke typologische lading (vuur-van-verloochening ↔ vuur-van-herstel) is **N2 structurele afleiding**, geen N1. Tekst legt geen formele formule.
 
-**`to triton` G5154** Joh 21:17 — bron-eigen tekst-uitleg. Niet over-claimen op specifieke "drie-eenheid"-typologie zonder bron.
+**`to triton` G5154** Joh 21:17 — bron-eigen tekst-uitleg. Een trinitarische duiding van het drievoud valt buiten de typologie-laag; niet over-claimen.
 
 **Niet over-claimen op specifieke chronologie** haan-kraaien (eerste of tweede haan, exacte uur). Bron-feiten alleen op `eutheōs alektōr ephōnēsen` (terstond kraaide een haan).
 
@@ -154,4 +154,4 @@ Alle vers-references in deze entry op 2026-05-08 geverifieerd via grep + woord-v
 3. **Markus `dis` haan-kraaien-variant** — past in toekomstige *synoptische-varianten* (Fase 6 uitbreiding).
 4. **Petrus = Simon bar-Iōna** Joh 21:15-17 — verdient cross-link met `../A_entiteit/jona.md` (drievoudig `Simōn Iōna` aanroep in herstel-cyclus).
 5. **Joh 21 drievoudig herstel** als afsluiting van Joh-evangelie ↔ Joh 21:11 153 vissen ↔ Joh 21:14 derde verschijning — past in update `../B_cijfer/153.md` Cluster A omgevings-typologie.
-6. **Drievoudig-herhaling-cluster Schrift** — verdient cross-link met `./drievoudige-herhaling-bileam.md` + `./drievoudige-herhaling-samuel.md` (toekomstige Fase 7 entries).
+6. **Drievoudig-herhaling-cluster Schrift** — verdient cross-link met `./drievoudige-herhaling-bileam.md` + `./drievoudige-herhaling-samuel.md` (toekom

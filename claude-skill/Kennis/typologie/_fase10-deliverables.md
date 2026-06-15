@@ -51,7 +51,9 @@
 - `B_cijfer/3.md` — vervangen "drie-eenheid van pneuma + water + bloed" door "drievoud van pneuma + water + bloed"
 - `D_taal/hapax-overzicht.md` — gebroken cross-ref `A_entiteit/8.md` gecorrigeerd naar `B_cijfer/8.md`
 
-### Acceptabel binnen typologie-discipline
+> **Achterhaald per 2026-06-15.** De onderstaande "acceptabel"-oordelen golden onder de oude norm (theologie mocht blijven mits gemarkeerd/afgewezen). De 0%-theologie-zuivering van 2026-06-15 heeft deze strenger gemaakt: doctrine-duidingen zijn overal verwijderd (ook N3-clues en "acceptabel"-gemarkeerde resten zoals in `kandelaar.md` en `153.md`), kerkvader-/school-namen zijn gegeneraliseerd. Zie `_zuivering-voortgang.md`.
+
+### Acceptabel binnen typologie-discipline (oude norm — zie waarschuwing hierboven)
 - "specific-doctrinal-position" — only as an anti-pattern in `_raamwerk.md`
 - "calvinistisch" — in `E_structuur/staircase-parallellisme.md` waarschuwing tegen Calvinistische TULIP-uitleg (correct gebruik)
 - "Hieronymus" + "Plinius" — in `B_cijfer/153.md` waarschuwing als buitenbijbels (correct gebruik)
@@ -84,14 +86,4 @@ Alle 8 D_taal entries volgen V1-sjabloon van 2026-05-05. Voor compleetheid van F
 - **Fase 8 rol-typologie** (G_rol): 0 entries — leeg, te starten
 - **Fase 9 contrast-typologie** (H_contrast): 0 entries — leeg, te starten
 
-54 toekomstige cross-references naar Fase 7-9 + uitbreidingen staan klaar in bestaande entries — wanneer deze fasen ingevuld worden, zullen veel `[N3-clue]`-vooruitwijzingen automatisch in N1-typologische bridges veranderen.
-
-## Reproduceerbaarheid
-
-Beide scripts (`build_index.py`, `check_xrefs.py`) staan in `skill/fase10/` en kunnen herhaald worden uitgevoerd om geüpdatete `_index.json` en `_xref_check.md` te produceren wanneer entries worden toegevoegd of gewijzigd.
-
-```bash
-cd <repo-root>/skill/fase10
-python3 build_index.py    # → _index.json
-python3 check_xrefs.py    # → _xref_check.md
-```
+54 toekomstige cross-references naar Fase 7-9 + uitbreidingen staan klaar in bestaande entries — wanneer deze fasen ingevuld worden, zu

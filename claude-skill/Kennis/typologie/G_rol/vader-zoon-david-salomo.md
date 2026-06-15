@@ -138,7 +138,7 @@ Bij vragen over **Mat 12:42 `pleion Solomōnos`**: cluster F + cross-link *salom
 
 **Cluster F 1 Kon 11 Salomo-afval** — bron-eigen historisch feit. **Niet over-claimen** op specifieke "Salomo verloor de belofte volledig" zonder 1 Kon 11:11-13 te integreren — bron-feit is verlies-tien-stammen-onder-Rehabeam, behoud-Juda-stam wegens David-belofte. **Bron-eigen N1 conditionele-uitwerking** binnen onvoorwaardelijke-belofte-context.
 
-**Niet over-claimen op systematisch "David-Salomo-typologie = Vader-Zoon-trinitarisch"** als overall-raster — bron-feit is dubbel-laag-vervulling-tekst-spanning, geen ontologische trinitarische uitleg in OT-bron-tekst.
+**Een "David-Salomo-typologie = Vader-Zoon-trinitarisch"-raster valt buiten de typologie-laag** — bron-feit is de dubbel-laag-vervulling-tekst-spanning; de tekst geeft geen trinitarische uitleg.
 
 ## Bron-verificatie
 

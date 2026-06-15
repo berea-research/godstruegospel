@@ -18,7 +18,7 @@ Tekst-eigen feiten. Gen 17:19 noemt naamgeving "Yitzchaq" (H3327) door God aan A
 
 NT-eigen typologie-claims. Heb 11:17 noemt Isaak expliciet "ton monogenē" (G3439). Heb 11:19 verklaart de typologische lading "ek nekrōn ... en parabolē ekomisato". Gal 4:28 noemt gelovigen "kata Isaak epaggelias tekna" ("naar Isaak kinderen der belofte"). Rom 9:7 citeert Gen 21:12 letterlijk: "en Isaak klēthēsetai soi sperma" ("in Isaak zal uw zaad genoemd worden"). Jak 2:21 noemt Abrahams Isaak-offer als geloofs-bewijs.
 
-Interpretatieve framings. Dat Isaaks dragen van het hout (Gen 22:6) een typologie is van Christus' kruis-dragen (Joh 19:17): geen NT-tekst legt deze brug. **N3-clue.** Dat Gen 22:7-8 "ha-seh" een type is van Joh 1:29 "amnos tou theou": gedeeld dier-motief, geen NT-citatie. **N3-clue.** Dat de akedah typologisch parallel loopt met Christus' Gethsemane-onderwerping (Mat 26:39): structurele framing zonder tekst-eigen brug. **N3-clue.** Dat Eliezer-zendt-voor-Rebekka (Gen 24) een Vader-Geest-Zoon-bruid-typologie is: structurele parallel zonder NT-koppeling. **N2.**
+Interpretatieve framings. Dat Isaaks dragen van het hout (Gen 22:6) een typologie is van Christus' kruis-dragen (Joh 19:17): geen NT-tekst legt deze brug. **N3-clue.** Dat Gen 22:7-8 "ha-seh" een type is van Joh 1:29 "amnos tou theou": gedeeld dier-motief, geen NT-citatie. **N3-clue.** Dat de akedah typologisch parallel loopt met Christus' Gethsemane-onderwerping (Mat 26:39): structurele framing zonder tekst-eigen brug. **N3-clue.** Gen 24 draagt een tekst-eigen structureel patroon (knecht wordt gezonden om een bruid voor de zoon te halen) zonder NT-koppeling; een rol-toewijzing van de personages aan latere figuren valt buiten de typologie-laag.
 
 ## Voorkomens (per cluster)
 
@@ -130,9 +130,9 @@ Bij vragen over **Rom 9 in-Isaak-zaad, Gal 4 kata-Isaak, monogenēs**: cluster E
 
 **Isaak-leeftijd Gen 22 onbekend.** Tekst noemt geen leeftijd. Sara-overlijden Gen 23:1 op 127 jaar; Sara was 90 bij Isaaks geboorte (Gen 17:17), dus Isaak ten hoogste 37 bij Sara's overlijden. Maar Gen 22 datering staat niet vast. Niet over-claimen.
 
-**Akedah-traditie** (joods, midrasj over Isaaks vrijwilligheid) valt buiten typologie-laag. Tekst-typologisch: Gen 22:9 zegt "u·ioqd" (hij bond hem) — vrijwilligheid is interpretatieve framing, geen tekst-eigen claim.
+**Isaaks vrijwilligheid bij de binding** valt buiten typologie-laag. Tekst-typologisch: Gen 22:9 zegt "u·ioqd" (hij bond hem) — vrijwilligheid is interpretatieve framing, geen tekst-eigen claim.
 
-**Cluster C Gen 24** (67 verzen, structureel) heeft **geen NT-eigen typologie-koppeling**. De Vader-Geest-Zoon-bruid-lezing is N2. Niet over-claimen op specifieke details (kameel-getallen, geschenken-soorten); wel het patroon-zelf benoemen met N2-status.
+**Cluster C Gen 24** (67 verzen, structureel) heeft **geen NT-eigen typologie-koppeling**. Een rol-toewijzing van de personages (knecht, Isaak, Rebekka) aan latere figuren valt buiten de typologie-laag; de tekst legt die koppeling niet. Alleen het structurele patroon (knecht zoekt bruid voor de zoon) is tekst-eigen. Niet over-claimen op specifieke details (kameel-getallen, geschenken-soorten).
 
 ## Bron-verificatie
 
@@ -154,5 +154,4 @@ Eerdere versie corrigeerd:
 2. Cluster C Gen 24 — knecht (Eliezer-rol) als Geest-typologie verdient eigen sub-entry in toekomstige `G_rol/knecht-heer-eliezer.md` (Fase 8).
 3. Twee zonen Isaak (Ezau + Jakob, Gen 25:21-26) — eerstgeborene-omkering. Past in `./jakob.md` (volgende entry) en `F_verhaal/eerstgeborene-omkering.md` (Fase 7).
 4. Isaak's blindheid Gen 27 — typologische lading voor zegen-verkeerde-handen-typologie? Past in `./jakob.md`.
-5. Gen 22:8 + 22:13 ram-in-struik / "ail" (H352a) — verbinding met `../A_entiteit/lam.md` (Fase 4) toekomstig.
-6. Yitzchaq-naam-spel Gen 21:6 (Sara's lachen na geboorte) — extra wortel-vermelding cluster A.
+5. Gen

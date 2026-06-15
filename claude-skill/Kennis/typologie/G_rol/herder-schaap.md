@@ -138,7 +138,7 @@ Bij vragen over **Mic 5:4 messiaans-herder + Bethlehem-koning**: cluster C + cro
 
 **Cluster B Eze 34** — bron-eigen N1 wee-formule tegen valse-herders. **Niet over-claimen** op specifieke "alle herders = priesters / koningen volledig" zonder Eze-context — bron-feit is breed-leiders-figuur (vs 4 + vs 16 wettelijke-rechtvaardigheids-functies).
 
-**Cluster C Zach 13:7 `gbr omith·i`** — bron-eigen unieke titel `man mijn-makker`. **Niet over-claimen** op specifieke trinitarische-uitwerking zonder NT-context — bron-feit is `omith` (H5997) hapax in deze context (zelfde Strong als Lev 6:2 + 18:20 + 19:11+15+17 + 24:19 + 25:14-15+17 als algemene-makker-term). Mat 26:31-citaat past op Christus.
+**Cluster C Zach 13:7 `gbr omith·i`** — bron-eigen unieke titel `man mijn-makker`. **Niet over-claimen** op een trinitarische uitwerking; die valt buiten de typologie-laag — bron-feit is `omith` (H5997) hapax in deze context (zelfde Strong als Lev 6:2 + 18:20 + 19:11+15+17 + 24:19 + 25:14-15+17 als algemene-makker-term). Mat 26:31-citaat past op Christus.
 
 **Cluster D `egō eimi ho poimēn ho kalos`** Joh 10:11+14 — bron-eigen Christus-zelf-claim. **Niet vermengen** met andere `egō eimi`-claims (Joh 6:35 brood + 8:12 licht + 8:58 absolute + 10:7 deur + 11:25 opstanding + 14:6 weg + 15:1 wijnstok). Bron-eigen N1 verschillende elementen binnen `egō eimi`-cluster.
 
@@ -173,4 +173,4 @@ Alle vers-references in deze entry op 2026-05-08 geverifieerd via grep + woord-v
 3. **Joh 10:1-18 volledige tekenen-werk-uitwerking** + verschillende `egō eimi`-formules + `archē tōn sēmeiōn`-cluster — past in toekomstige `../E_structuur/joh-egō-eimi-cluster.md` (Fase 6 uitbreiding).
 4. **Mozes-herder Exo 3:1 + David-herder + Christus-herder driedubbele-typologie** — past in toekomstige *herders-pre-roeping* (Fase 7 uitbreiding).
 5. **Op 7:17 `to arnion to ana meson tou thronou poimanei autous`** Lam-herder paradoxale-formule — past in toekomstige *lam-en-herder-paradox* (Fase 9).
-6. **`shevet u·mshonth` Ps 23:4** stok-en-staf herder-cluster — past in toekomstige *shevet-staf* (Fase 4 uitbreiding) of *wortel-shevet-koning-en-herder* (Fase 5).
+6. **`shevet u·mshonth` Ps 23:4** stok-en-staf herder-cluster — past in toekomstige *shevet-staf* (Fase 4 uitbreiding) of *wortel-shevet-koning-en-herder* 

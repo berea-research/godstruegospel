@@ -8,7 +8,7 @@
 - **Bron-discipline:** uitsluitend `Kennis/puur/` en `Kennis/strong/`. Sola scriptura. Geen training-input.
 - **As 1 (categorieën):** A1 (christustypen via naam-equivalentie + Hebr 4:8 expliciete contrast), G6 (knecht-heer raakvlak)
 - **As 2 (hermeneutische lagen):** L1, L2 (waar door tekst zelf bevestigd)
-- **As 3 (algemeen zekerheids-niveau):** **N1 voor cluster A naam-equivalentie** (Hand 7:45 + Hebr 4:8 noemen "Iēsous" voor Jozua identiek met Christus' naam); **N1 voor Hebr 4:8 expliciete contrast** Jozua-rust ↔ Christus-sabbatismos; N1 voor cluster B Joz-feiten en cluster D Zach 3+6 Tzemach-koppeling; N2 voor "Vorst van JHWH-leger Joz 5 = pré-incarnatische Christus" (theofanie-feit, geen christologische identificatie); N3-clue voor "Jozua-Jordaan-doortocht = doop-typologie" (1 Kor 10:1-2 koppelt aan Mozes-Rode-Zee, niet aan Jozua-Jordaan).
+- **As 3 (algemeen zekerheids-niveau):** **N1 voor cluster A naam-equivalentie** (Hand 7:45 + Hebr 4:8 noemen "Iēsous" voor Jozua identiek met Christus' naam); **N1 voor Hebr 4:8 expliciete contrast** Jozua-rust ↔ Christus-sabbatismos; N1 voor cluster B Joz-feiten en cluster D Zach 3+6 Tzemach-koppeling; N2 voor "Vorst van JHWH-leger Joz 5" als theofanie (tekst-feit: heilige grond, aanbidding aanvaard; geen identificatie van de figuur in de tekst); N3-clue voor "Jozua-Jordaan-doortocht = doop-typologie" (1 Kor 10:1-2 koppelt aan Mozes-Rode-Zee, niet aan Jozua-Jordaan).
 - **Tags:** Yehoshua, Iēsous, Hosea-naamsverandering, sōsei, Jordaan-doortocht, Jericho, sar-tzeva-JHWH, Tzemach, Hebr-4:8, Mat-1:21
 - **Zie ook:** `./mozes.md`, `../B_cijfer/3.md` cluster A (Joz 3 Jordaan), `../B_cijfer/7.md` cluster C (Joz 6 Jericho), `../C_tijd/dagen-zevende.md` cluster J (Hebr 4)
 
@@ -18,7 +18,7 @@ Tekst-eigen feiten. Num 13:16 noemt expliciete naamsverandering "u·iqra Mshe l�
 
 NT-eigen typologie-claims. **Mat 1:21** noemt "kaleseis to onoma autou Iēsoun autos gar sōsei ton laon autou apo tōn hamartiōn autōn" — naam-betekenis identiek aan Yehoshua. **Hand 7:45** gebruikt expliciet "meta Iēsou" voor Jozua in Grieks. **Hebr 4:8** legt expliciet contrast: "ei gar autous Iēsous katepausen ouk an peri allēs elalei meta tauta hēmeras" gevolgd door Hebr 4:9 "ara apoleipetai sabbatismos tō laō tou theou".
 
-Interpretatieve framings. Dat "Vorst-leger-JHWH" Joz 5:13-15 een pré-incarnatische Christus-theofanie is: tekst geeft theofanie-kenmerken (heilige grond, aanbidding aanvaard) maar maakt geen christologische identificatie. **N2.** Dat de Jordaan-doortocht (Joz 3-4) een doop-typologie is: 1 Kor 10:1-2 koppelt expliciet aan Mozes-Rode-Zee, niet aan Jozua-Jordaan. **N3-clue** voor Jozua-specifieke doop-koppeling.
+Interpretatieve framings. "Vorst-leger-JHWH" Joz 5:13-15 draagt tekst-eigen theofanie-kenmerken (heilige grond, aanbidding aanvaard); de tekst identificeert de figuur niet. Een identificatie valt buiten de typologie-laag. **N2 voor het theofanie-feit.** Dat de Jordaan-doortocht (Joz 3-4) een doop-typologie is: 1 Kor 10:1-2 koppelt expliciet aan Mozes-Rode-Zee, niet aan Jozua-Jordaan. **N3-clue** voor Jozua-specifieke doop-koppeling.
 
 ## Voorkomens (per cluster)
 
@@ -50,7 +50,7 @@ Interpretatieve framings. Dat "Vorst-leger-JHWH" Joz 5:13-15 een pré-incarnatis
 
 **Jozua 5:14** [N1] — translit "u·iamr la ki ani sar-tzeva-ieue othe bathi u·iphl Yehoshua al-phni·u artz·e u·ishthchu" (H8269+H6635+H3068+H5307+H6440+H7812) — "hij zeide: nee, ik ben de Vorst van het leger van JHWH (sar-tzeva-ieue), nu kom Ik. Toen viel Jozua op zijn aangezicht ter aarde en aanbad (vayyishtachu, H7812)". **Tekst-eigen aanbidding aanvaard door Vorst** — alleen JHWH komt aanbidding toe.
 
-**Jozua 5:15** [N1] — translit "u·iamr sar-tzeva-ieue al-Yehoshua shl-nol·k m·ol rgl·k ki e·mqum ashr athe omd oli·u qodesh eua u·iosh Yehoshua kn" (H8269+H6635+H3068+H5394+H5275+H7272+H4725+H6944) — "de Vorst van het leger van JHWH zeide tot Jozua: trek uw schoenen van uw voeten, want de plaats waarop gij staat is heilig". **Woordelijk identiek bevel aan Mozes Exo 3:5** ("shl-noli·k m·ol rgli·k ki e·mqum ashr athe oumd oli·u admth-qodesh eua"). Christologische identificatie van Vorst is interpretatief — **N2**.
+**Jozua 5:15** [N1] — translit "u·iamr sar-tzeva-ieue al-Yehoshua shl-nol·k m·ol rgl·k ki e·mqum ashr athe omd oli·u qodesh eua u·iosh Yehoshua kn" (H8269+H6635+H3068+H5394+H5275+H7272+H4725+H6944) — "de Vorst van het leger van JHWH zeide tot Jozua: trek uw schoenen van uw voeten, want de plaats waarop gij staat is heilig". **Woordelijk identiek bevel aan Mozes Exo 3:5** ("shl-noli·k m·ol rgli·k ki e·mqum ashr athe oumd oli·u admth-qodesh eua"). Een identificatie van de Vorst valt buiten de typologie-laag; tekst-feit is de theofanie zelf (heilige grond, aanbidding aanvaard) — **N2**.
 
 ### Cluster D — Hogepriester Jozua + Tzemach (Zacharia 3 + 6) [N1]
 
@@ -81,7 +81,7 @@ Interpretatieve framings. Dat "Vorst-leger-JHWH" Joz 5:13-15 een pré-incarnatis
 2. **Wel door tekst expliciet gelegd:** Hand 7:45 — Stefanus noemt Jozua "Iēsous". **N1**.
 3. **Wel door tekst expliciet gelegd:** Hebr 4:8 — Jozua-rust ≠ Christus-sabbatismos-rust. **N1**.
 4. **Wel door tekst expliciet gelegd:** Zach 3:8 + 6:12 — Jozua-hogepriester gekoppeld aan "obd·i tzemach" + "tzemach shm·u". **N1**.
-5. **Niet door tekst expliciet gelegd:** Vorst-leger-JHWH Joz 5 = pré-incarnatische Christus. **N2** (theofanie-feit, geen christologische identificatie).
+5. **Niet door tekst gelegd:** een identificatie van Vorst-leger-JHWH (Joz 5). Tekst-feit is de theofanie zelf (heilige grond, aanbidding aanvaard). **N2 voor het theofanie-feit**; identificatie valt buiten de typologie-laag.
 6. **Niet door tekst expliciet gelegd:** Jozua-Jordaan-doortocht = doop-typologie. **N3-clue** (1 Kor 10:1-2 koppelt alleen aan Mozes-zee).
 7. **Niet door tekst expliciet gelegd:** Joz 10:12-14 zon-stilstaan typologisch. Geen NT-koppeling.
 
@@ -101,7 +101,7 @@ Bij vragen over **Hebr 4 Jozua-rust niet voltooid, sabbatismos overgebleven**: c
 
 **Cluster A naam-equivalentie Yehoshua = Iēsous = Jezus** is taalkundig **N1** (zelfde naam in Grieks). Hand 7:45 + Hebr 4:8 maken het expliciet zichtbaar. Niet over-claimen op typologische gevolgen die tekst niet expliciet maakt.
 
-**Cluster C Joz 5:13-15** — "Vorst van JHWH-leger" als pré-incarnatische Christus is interpretatie. Tekst geeft theofanie-kenmerken (heilige grond, aanbidding aanvaard, identiek bevel als aan Mozes Exo 3:5) zonder christologische identificatie. **N2**.
+**Cluster C Joz 5:13-15** — een identificatie van "Vorst van JHWH-leger" valt buiten de typologie-laag. Tekst geeft theofanie-kenmerken (heilige grond, aanbidding aanvaard, identiek bevel als aan Mozes Exo 3:5) zonder de figuur te identificeren. **N2 voor het theofanie-feit**.
 
 **Cluster B Jordaan-doortocht doop-typologie** — Joz 3-4 is bron-feit (Jordaan-doortocht op droge bodem). Doop-typologische koppeling wordt door geen NT-tekst gelegd; 1 Kor 10:1-2 noemt alleen Mozes-Rode-Zee-doop. **N3-clue** voor Jozua-specifieke doop-koppeling.
 
@@ -115,7 +115,7 @@ Alle 22 vers-references in deze entry op 2026-05-06 geverifieerd via `audit_v2.p
 
 Eerdere versie corrigeerd:
 - **Hypothese**: "Jordaan-doortocht ... als doop-typologie" → corrigeerd naar **N3-clue** (1 Kor 10:1-2 koppelt expliciet aan Mozes-Rode-Zee, niet aan Jozua-Jordaan).
-- **Hypothese**: "ontmoeting Vorst-leger-JHWH ... als pré-incarnatische Christus-verschijning" → corrigeerd naar **N2** in waarschuwingen (theofanie-feit zonder christologische identificatie).
+- **Hypothese**: "ontmoeting Vorst-leger-JHWH ... als pré-incarnatische Christus-verschijning" → identificatie verwijderd; alleen het theofanie-feit (N2) behouden, identificatie buiten de typologie-laag (zuivering 2026-06-15).
 - **Cluster D status verbeterd**: Zach 3:8 + Zach 6:12 expliciete bron-eigen koppeling Jozua-Tzemach uitgewerkt; Jer 23:5 als derde tzemach-getuige toegevoegd.
 - **Joz 1:1 dienst-onderscheid bron-feit toegevoegd**: Mozes "obd" (H5650, knecht), Jozua "mshrth" (H8334, dienaar) — bron-eigen titel-verschil dat correspondeert met Hebr 3:5-6 therapōn-onderscheid.
 - **Joz 5:14 aanbidding aanvaard door Vorst** als bron-feit expliciet (was alleen "aanbidding"-vermelding).
@@ -128,5 +128,4 @@ Eerdere versie corrigeerd:
 1. Cluster D Tzemach-profetie verdient eigen entry in toekomstige `D_taal/wortel-tzemach.md` of in `G_rol/drie-ambten-priester.md` (Fase 8). Cross-references naar Jer 23:5 + 33:15 + Zach 3:8 + 6:12 + Jes 4:2 + 11:1 (netzer).
 2. Joz 6 Jericho zeven-dagen — past in `cycli-feesten.md` (al gedaan) of als eigen sub-onderzoek?
 3. Jozua + Kaleb (twee getrouwe verspieders Num 13-14) — typologisch raakvlak twee getuigen Op 11? Past in toekomstige eigen entry.
-4. Zonsverstoord-typologie Joz 10:12-14 — geen NT-koppeling. Buiten typologie-laag.
-5. Cluster B Joz 1:1 obd / mshrth dienst-titel-onderscheid — verbinding met `./mozes.md` cluster D Hebr 3:5-6 therapōn-typologie.
+4. Zonsverstoord-typol

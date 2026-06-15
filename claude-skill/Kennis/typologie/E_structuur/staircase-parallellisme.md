@@ -139,7 +139,7 @@ Bij vragen over **2 Pet 1 7-voudige geestelijk-vorming-keten**: cluster E (verdi
 
 **Cluster B Rom 5:3-5** is **4-traps staircase**. Niet over-claimen op een specifieke "stoïcijnse" of "psychologische" lezing — de keten gaat over **geestelijke vorming via verdrukking**, niet over generieke karakter-ontwikkeling. Bron-eigen context: vs 1-2 wijzen op gerechtvaardigd-zijn-uit-geloof, en vs 5 noemt expliciet `pneumatos hagiou tou dothentos` (pneuma hagion gegeven) als bron van keten-werking.
 
-**Cluster C Rom 8:29-30** is **5-traps staircase** in expliciete heils-orde. **Aoristus-tijd** in elke schakel is bron-feit; eschatologische interpretatie buiten typologie-laag. Niet als bewijs voor specifieke "Calvinistische TULIP-leer" of "Arminiaanse universele genade-leer" hanteren — bron geeft alleen de keten-volgorde, niet de logische volgorde van toepassing op individuele personen.
+**Cluster C Rom 8:29-30** is **5-traps staircase** in expliciete heils-orde. **Aoristus-tijd** in elke schakel is bron-feit; eschatologische interpretatie buiten typologie-laag. Niet als bewijs voor enige specifieke heils-leer of dogmatische school hanteren — bron geeft alleen de keten-volgorde, niet de logische volgorde van toepassing op individuele personen.
 
 **Cluster D Jak 1:14-15** is **3-traps staircase met geboorte-metafoor**. Bron-eigen werkwoord-paren `sullabousa tiktei` + `apotelestheisa apokuei` zijn vrouwelijk-geboorte-werkwoorden — niet als gewone metaforen behandelen. Niet over-claimen op specifieke "begeerte = vrouw" of "Eva-typologie" toepassing.
 

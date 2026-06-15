@@ -81,7 +81,7 @@ Bij vragen over **Op vierde trompet of vierde schaal of vierde zegel**: cluster 
 
 **Cluster A "twee grote lichten" niet bij naam.** Tekst noemt zon en maan niet expliciet — alleen "groot licht" en "klein licht". Niet inkleuren met astronomische details die tekst niet geeft. Latere paganistische zon-maan-cultussen worden door deze terughoudendheid impliciet gerelativeerd, maar dat is niet bron-eigen claim.
 
-**Cluster B Lazarus tetartaios is een tekst-eigen feit; de typologische lading "voorbij menselijke ommekeer-grens" of "voorbij joodse drie-dagen-conventie" is interpretatief.** Tekst Joh 11 maakt geen verbinding met Hos 6:2 of met rabbinale tradities. Sola-scriptura: Martha's "hij riekt al" geeft de eenvoudige reden van haar verzet tegen wegnemen van de steen — ontbinding. Geen midrasj-input. **N3-clue voor typologische lading**.
+**Cluster B Lazarus tetartaios is een tekst-eigen feit** (vier dagen dood). Tekst Joh 11 maakt geen verbinding met Hos 6:2; Martha's "hij riekt al" geeft de eenvoudige reden van haar verzet tegen wegnemen van de steen — ontbinding. Een typologische lading die steunt op een buitenbijbelse "drie-dagen-conventie" of midrasj valt buiten de typologie-laag; alleen het vier-dagen-feit blijft.
 
 **Cluster E (Op 8:12 als omkering Gen 1:16) is interpretatieve verbinding.** Niet door Op-tekst zelf gelegd. **N2 voor het verband**. Niet over-claimen dat Op 8:12 expliciet "scheppings-omkering" zegt; wel feitelijk dat dezelfde drie objecten (zon, maan, sterren) in beide passages voorkomen.
 

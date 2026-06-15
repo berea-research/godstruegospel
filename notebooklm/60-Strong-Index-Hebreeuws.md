@@ -534,7 +534,7 @@ Koning van Juda, zoon van Rehabeam (1 Kg 14:31; 15:1,7,8; 2 Kr 11:20,22; 12:16).
 ## H39 — אֲבִימָאֵל (Abimael) — "Abimael"
 *Woordsoort:* eign | *Voorkomens:* 2
 
-Gen-Joktan-verwekte-Oval-Abimael-Sheba en 1Kr-Abimael (Gen 10:28; 1Kr 1:22). Gehyphenateerd om Abimael-zoon-Joktan-Arabische-stam-aspect te onderscheiden van andere theofore-namen; 'mijn-vader-is-God'-patroniem-Joktanitisch.
+Gen-Joktan-verwekte-Oval-Abimael-Sheba en 1Kr-Abimael (Gen 10:28; 1Kr 1:22).
 
 **Vindplaatsen:**
 
@@ -1541,7 +1541,7 @@ Hifil-infinitief; Ik zal jouw ziel hartzeer doen; 1Sam 2:33.
 ## H110 — אַדְבְּאֵל (Adbeel) — "Adbeel"
 *Woordsoort:* eign | *Voorkomens:* 2
 
-Gen-zonen-Ismaël-Nebajot-Kedar-Adbeel-Mibsam en 1Kr-Ismaël-Adbeel (Gen 25:13; 1Kr 1:29). Gehyphenateerd om Adbeel-zoon-Ismaël-Arabische-stam-aspect te onderscheiden van andere; Noord-Arabische-stam-eponiem-assyrisch-Idiba'il.
+Gen-zonen-Ismaël-Nebajot-Kedar-Adbeel-Mibsam en 1Kr-Ismaël-Adbeel (Gen 25:13; 1Kr 1:29).
 
 **Vindplaatsen:**
 
@@ -2752,7 +2752,7 @@ Vader van muur-bouwer Palal Neh 3:25; korte eigennaam onzeker betekenis.
 ## H187 — אוּזָל (Uzal) — "Uzal"
 *Woordsoort:* eign | *Voorkomens:* 3
 
-Uzal-zoon-van-Joktan en Tyrus-handelspartner (Gen 10:27; 1 Kr 1:21; Ez 27:19). Dutch-traditie: Uzal. Mogelijk Arabisch-Sana (oude hoofdstad Jemen).
+Uzal-zoon-van-Joktan en Tyrus-handelspartner (Gen 10:27; 1 Kr 1:21; Ez 27:19). Dutch-traditie: Uzal.
 
 **Vindplaatsen:**
 
@@ -2822,7 +2822,7 @@ Morele dwaas in wijsheidsliteratuur, ruw en onbuigzaam; concordant 'dwaas' (onde
 ## H192 — אֱוִיל מְרֹדַךְ (Eveel-Merodak) — "Eveel-Merodak"
 *Woordsoort:* eign | *Voorkomens:* 2
 
-2K-en-het-geschiedde-in-het-zeven-en-dertigste-jaar-van-de-gevankelijke-wegvoering-van-Jojachin-den-koning-van-Juda-in-de-twaalfde-maand-toen-Evilmerodach-de-koning-van-Babel-het-koninkrijk-ontving en Jer-id (2K 25:27; Jer 52:31 par). Gehyphenateerd om Eveel-Merodak-Babylonisch-koning-Jojachin-vrijlating-aspect te onderscheiden van andere Mrdk-namen; Akkadisch-Amel-Marduk-zoon-Nebukadnezar-amnestie-Joodse-koning-37e-ballingsjaar-eretafel-koning-poort-eindvers-2K-hoop-rest.
+2K-en-het-geschiedde-in-het-zeven-en-dertigste-jaar-van-de-gevankelijke-wegvoering-van-Jojachin-den-koning-van-Juda-in-de-twaalfde-maand-toen-Evilmerodach-de-koning-van-Babel-het-koninkrijk-ontving en Jer-id (2K 25:27; Jer 52:31 par).
 
 **Vindplaatsen:**
 
@@ -3108,8 +3108,6 @@ Eigennaam Ufaz (legendarische goudbron) — in Jeremia 10:9 (uitgerekt zilver wo
 
 ## H211 — אוֹפִיר (ofir) — "Ofir"
 *Woordsoort:* eign | *Voorkomens:* 13
-
-Eigennaam; legendarisch goudland (Arabisch schiereiland/India), Salomo's handelsbestemming; concordant getranslitereerd.
 
 **Vindplaatsen:**
 
@@ -5288,8 +5286,6 @@ Eigennaam; protagonist Boek Job; concordant getranslitereerd.
 
 ## H348 — אִיזֶבֶל (izevel) — "Izebel"
 *Woordsoort:* eign | *Voorkomens:* 22
-
-Eigennaam; Fenicische vrouw van Achab; concordant getranslitereerd.
 
 **Vindplaatsen:**
 
@@ -9233,7 +9229,7 @@ Eigennaam Manasse-stamhoofd zoon Sjemida; 1Kron 7:19; concordant getranslitereer
 ## H594 — אֲנָךְ (anakh) — "paslood-schietlood-richtlood"
 *Woordsoort:* zn | *Voorkomens:* 4
 
-Paslood-beeld in Amos-visioen over oordeel aan muur (Am 7:7 tweemaal; 7:8 tweemaal). Gehyphenateerd om paslood-schietlood-aspect te onderscheiden van H4949 mishqeleth 'paslood-schietlood' en H6957a qav 'meetsnoer' (reeds toegewezen); leenwoord uit Akkadisch-annaku.
+Paslood-beeld in Amos-visioen over oordeel aan muur (Am 7:7 tweemaal; 7:8 tweemaal).
 
 **Vindplaatsen:**
 
@@ -11053,8 +11049,6 @@ Aramees-aanwijzend tussenwerpsel in visioenen (Dan 7:2,5,6,7,8,13). Gehyphenatee
 ## H719 — אַרְוַד (arwad) — "eigennaam-Arwad-Fenicische-eilandstad"
 *Woordsoort:* zn | *Voorkomens:* 2
 
-Eigennaam Arwad (Fenicische eilandstad, moderne Ruad) — in Ezechiël 27:8 (de inwoners van Sidon en Arvad waren uw roeiers) en Ezechiël 27:11 (de kinderen van Arvad en uw heir waren op uw muren rondom); zeevaartcentrum in Tyrus-handel.
-
 **Vindplaatsen:**
 
 - Ez: 27:8, 27:11
@@ -11075,7 +11069,7 @@ Eigennaam zoon Gad; Num 26:17; concordant getranslitereerd.
 ## H721 — אַרְוָדִי (Arwadi) — "Arwadi-Kanaänitisch-kustvolk"
 *Woordsoort:* eign | *Voorkomens:* 2
 
-Gen-Kanaän-verwekte-Sidon-Cheth-Jebusiet-Amoriet-Girgasiet-Heviet-Arkiet-Siniet-Arvadiet en 1Kr-Arvadiet (Gen 10:18; 1Kr 1:16). Gehyphenateerd om Arwadi-Kanaänitisch-kustvolk-aspect te onderscheiden van andere Kanaänitische-stammen; Fenicisch-eilandstad-nabij-noordkust.
+Gen-Kanaän-verwekte-Sidon-Cheth-Jebusiet-Amoriet-Girgasiet-Heviet-Arkiet-Siniet-Arvadiet en 1Kr-Arvadiet (Gen 10:18; 1Kr 1:16).
 
 **Vindplaatsen:**
 
@@ -14609,7 +14603,7 @@ Nominaal pendant van bazah (verachten, H959); toestand-of-object van in-geringsc
 ## H938 — בּוּז (Buz-eig) — "Buz-eigennaam"
 *Woordsoort:* eign | *Voorkomens:* 3
 
-Buz-zoon-van-Nahor en Israëls-oordeels-volk (Gen 22:21; Job 32:2,6; Jer 25:23). Dutch-traditie: Buz-eigennaam. Onderscheidt van homoniem H937 buz-'verachting' (reeds toegewezen); Arabisch-woestijnstamhoofd.
+Buz-zoon-van-Nahor en Israëls-oordeels-volk (Gen 22:21; Job 32:2,6; Jer 25:23). Dutch-traditie: Buz-eigennaam.
 
 **Vindplaatsen:**
 
@@ -15587,8 +15581,6 @@ Aramees voor versterkte vesting-paleis; Ezr 6:2.
 
 ## H1002 — בִּירָה (birah) — "burchtstad"
 *Woordsoort:* zn | *Voorkomens:* 16
-
-Leenwoord (Perzisch/Akkadisch); versterkt paleis/citadel (Susan, tempel-burcht); samengesteld NL markeert type.
 
 **Vindplaatsen:**
 
@@ -17140,7 +17132,7 @@ Aramees Pael; kleine-hoorn-zal-heiligen-uitputten; Dan 7:25.
 ## H1081 — בַּלְאֲדָן (Baladan-vader-Merodach) — "Baladan"
 *Woordsoort:* eign | *Voorkomens:* 2
 
-2K-te-dien-tijde-zond-Berodach-Baladan-de-zoon-van-Baladan-de-koning-van-Babel-brieven-en-een-geschenk-aan-Hizkia en Jes-te-dien-tijde-zond-Merodach-Baladan-de-zoon-van-Baladan-de-koning-van-Babel-brieven-en-een-geschenk-aan-Hizkia (2K 20:12; Jes 39:1 par). Gehyphenateerd om Baladan-vader-Merodach-Babylon-koningsbrief-Hizkia-aspect te onderscheiden van andere Bab-namen; Akkadisch-Bel-iddin-Marduk-apla-iddina-II-Chaldeeuws-koning-Babylonische-onafhankelijkheid-Sanherib-tegenstander-Hizkia-zonnewijzer-genezing-bezoek.
+2K-te-dien-tijde-zond-Berodach-Baladan-de-zoon-van-Baladan-de-koning-van-Babel-brieven-en-een-geschenk-aan-Hizkia en Jes-te-dien-tijde-zond-Merodach-Baladan-de-zoon-van-Baladan-de-koning-van-Babel-brieven-en-een-geschenk-aan-Hizkia (2K 20:12; Jes 39:1 par).
 
 **Vindplaatsen:**
 
@@ -17323,7 +17315,7 @@ Jer-onder-uw-armen-tussen-touwen-versleten-vodden-lompen-in-kuil-Jeremia-opgetro
 ## H1095 — בֵּלְטְשַׁאצַּר (belteshatsar-naam) — "eigennaam-Beltsazar-Daniëls-Aramese"
 *Woordsoort:* zn | *Voorkomens:* 2
 
-Origineel concordant: eigennaam-Beltsazar-Daniëls-Aramese-naam. Eigennaam Beltsazar, hofnaam van Daniël (Akkadisch Balatsu-usur 'bescherm zijn leven') — in Daniël 1:7 (de overste der kamerlingen gaf hun namen; Daniël noemde hij Beltsazar) en Daniël 10:1 (in het derde jaar van Kores, den koning van Perzië, werd aan Daniël, wiens naam genoemd werd Beltsazar, een zaak geopenbaard); Babylonische equivalent voor Daniël.
+Origineel concordant: eigennaam-Beltsazar-Daniëls-Aramese-naam.
 
 **Vindplaatsen:**
 
@@ -21580,7 +21572,7 @@ Onze-ziel is verzadigd van bespotting trots-mannen; Ps 123:4.
 ## H1350a — גאל (gaal) — "lossen"
 *Woordsoort:* ww | *Voorkomens:* 104
 
-Wortel g'l. Familieplicht: vrijkopen van schuld, slavernij, of bloedwraak. 'Lossen' bewaart de familie-juridische losmakings-actie; 'verlossen' is theologische breding, 'redden' botst met yasha (H3467).
+Wortel g'l. Familieplicht: vrijkopen van schuld, slavernij, of bloedwraak. 'Lossen' bewaart de familie-juridische losmakings-actie; 'verlossen' is ruimere toepassing, 'redden' botst met yasha (H3467).
 
 **Vindplaatsen:**
 
@@ -26105,7 +26097,7 @@ Zware neerslag, in droog seizoen kwaadaardig; onderscheiden van matar (gewone re
 ## H1654 — גֶּשֶׁם (Geshem) — "Gesem-Arabier"
 *Woordsoort:* eign | *Voorkomens:* 4
 
-Arabische-tegenstander van Nehemia bij muur-herbouw (Neh 2:19; 6:1,2,6). Dutch-traditie: Gesem. Onderscheidt van homoniem H1653 geshem 'regen' (reeds toegewezen); 'stortregen'.
+Dutch-traditie: Gesem. Onderscheidt van homoniem H1653 geshem 'regen' (reeds toegewezen); 'stortregen'.
 
 **Vindplaatsen:**
 
@@ -27080,8 +27072,6 @@ Statig schrijden of langzaam voortgaan in processie — in Psalm 42:5 (ik ging m
 ## H1719a — דְּדָן (Dedan) — "Dedan"
 *Woordsoort:* eign | *Voorkomens:* 10
 
-Kleinzoon van Cush (Gen 10:7, 1Kr 1:9) én zoon van Jokshan van Keturah (Gen 25:3, 1Kr 1:32); werd Arabische handels-volk geassocieerd met Teima (Jer 25:23, 49:8 'diep wegschuilen', Ez 25:13 'van Teman tot Dedan', 27:15,20 Tyrus-handel, 38:13 toeschouwer-bij-Gog-Magog); concordant getranslitereerd.
-
 **Vindplaatsen:**
 
 - Genesis: 10:7, 25:3, 25:3
@@ -27104,8 +27094,6 @@ Tweede zin Dedan; Edomitisch-handelsvolk Tyrus; Eze 27:15; concordant getranslit
 
 ## H1720 — דְּדָנִים (dedanim-eign) — "Dedaniten-eign-volk"
 *Woordsoort:* eign | *Voorkomens:* 1
-
-Eigennaam Arabische karavanen overnachten in struiken; Jes 21:13; concordant getranslitereerd.
 
 **Vindplaatsen:**
 
@@ -27442,7 +27430,7 @@ De stilte van het dodenrijk waar God niet wordt geprezen — Psalm 94:17 (mijn z
 ## H1746 — דּוּמָה (Dumah) — "Duma-streek"
 *Woordsoort:* eign | *Voorkomens:* 4
 
-Edomitische nakomeling en Arabische streek (Gen 25:14; 1 Kr 1:30; Joz 15:52; Jes 21:11). Dutch-traditie: Duma. 'Stilte-zwijgen'.
+Dutch-traditie: Duma. 'Stilte-zwijgen'.
 
 **Vindplaatsen:**
 
@@ -27575,7 +27563,7 @@ Uniek lexeem. Generatie als tijdseenheid en als groep mensen. 'Geslacht' dekt be
 ## H1756 — דּוֹר (Dor) — "Dor"
 *Woordsoort:* eign | *Voorkomens:* 7
 
-Fenicische kuststad aan Karmel-voet (Joz 11:2; 12:23; 17:11; Ri 1:27; 1 Kg 4:11; 1 Kr 7:29). Dutch-traditie: Dor.
+Dutch-traditie: Dor.
 
 **Vindplaatsen:**
 
@@ -29844,7 +29832,7 @@ India, de oostelijkste provincie van Ahasveros' rijk van 127 provincies — Esth
 ## H1913a — הֲדוֹרָם (Hadoram-I) — "Hadoram-volkszoon"
 *Woordsoort:* eign | *Voorkomens:* 3
 
-Hadoram-zoon-van-Joktan en Arabisch-stamhoofd (Gen 10:27; 1 Kr 1:21). Dutch-traditie: Hadoram-volkszoon. Onderscheidt van David's-gezant naar koning Tou H1913b Hadoram-II; 'Hadad-is-verheven'.
+Dutch-traditie: Hadoram-volkszoon. Onderscheidt van David's-gezant naar koning Tou H1913b Hadoram-II; 'Hadad-is-verheven'.
 
 **Vindplaatsen:**
 
@@ -30566,8 +30554,6 @@ Dan-toen-zond-de-koning-Daniël-en-zeide-tot-hem-hoe-zal-deze-knecht-mijns-heere
 
 ## H1964 — הֵיכָל (heikhal) — "paleis-tempel"
 *Woordsoort:* zn | *Voorkomens:* 81 | *Stamfamilie:* H3201
-
-Leenwoord uit Sumerisch/Akkadisch; zowel koninklijk paleis als JHWH-tempel; samengestelde NL behoudt beide.
 
 **Vindplaatsen:**
 
@@ -35853,7 +35839,7 @@ Zich verenigen of samenvoegen tot één — in Genesis 49:6 (in hun raad kome mi
 ## H2301 — חֲדַד (Chadad-Ismaël) — "Chadad"
 *Woordsoort:* eign | *Voorkomens:* 2
 
-Gen-zonen-Ismaël-Hadar-Tema en 1Kr-Ismaël-Hadad (Gen 25:15; 1Kr 1:30). Gehyphenateerd om Chadad-zoon-Ismaël-Arabische-stam-aspect te onderscheiden van H1908 Hadad-Edomiet-koning (reeds toegewezen) en andere Hadad-homoniemen; variant-spelling-Ismaël-lijn.
+Gen-zonen-Ismaël-Hadar-Tema en 1Kr-Ismaël-Hadad (Gen 25:15; 1Kr 1:30).
 
 **Vindplaatsen:**
 
@@ -39062,7 +39048,7 @@ Aramees werkwoord voor voorbijgaan of vervlieten — in Daniël 4:16 (en laat ze
 ## H2500 — חֵלֶף (chelef) — "in-ruil"
 *Woordsoort:* zn | *Voorkomens:* 2 | *Stamfamilie:* H2498
 
-Num-aan-Levieten-zal-Ik-in-ruil-geven en Num-loon-dienst-die-zij-doen-dienst-aan-tent-samenkomst (Num 18:21,31). Gehyphenateerd om in-ruil-voor-vergoeding-loon-aspect te onderscheiden van andere loon-termen; familie met H2498 chalaf 'veranderen' (reeds toegewezen) — Leviet-tiende-ruil-voor-erfdeel-theologisch.
+Num-aan-Levieten-zal-Ik-in-ruil-geven en Num-loon-dienst-die-zij-doen-dienst-aan-tent-samenkomst (Num 18:21,31). Gehyphenateerd om in-ruil-voor-vergoeding-loon-aspect te onderscheiden van andere loon-termen; familie met H2498 chalaf 'veranderen' (reeds toegewezen) — Leviet-tiende-ruil-voor-erfdeel.
 
 **Vindplaatsen:**
 
@@ -43274,8 +43260,6 @@ Ex-Aäron-vormde-kalf-met-stift en Jes-schrijf-met-stift-op-tafel (Ex 32:4; Jes 
 ## H2748 — חַרְטֹם (chartom) — "schrift-magiër"
 *Woordsoort:* zn | *Voorkomens:* 11
 
-Leenwoord Egyptisch/Akkadisch; priesterlijke scribenten-klasse die rituele divinatie en droomuitleg beoefende — Egyptische magiërs (Gen 41:8,24 Jozef, Ex 7:11,22, 8:7,18-19, 9:11 Mozes) en Babylonische magiërs (Dan 1:20, 2:2,10,27, 4:7,9, 5:11); samengesteld NL dekt schrift- én magie-functie.
-
 **Vindplaatsen:**
 
 - Genesis: 41:8, 41:24
@@ -46341,8 +46325,6 @@ Origineel concordant: aan-pleisteren-bedekken-leugen-aanwrijven. Jobs-vrienden-l
 ## H2951 — טִפְסַר (tifsar) — "bewindvoerder-schrijver-hoge-ambtenaar"
 *Woordsoort:* zn | *Voorkomens:* 2
 
-Akkadisch leenwoord voor schrijver of bewindvoerder (tupsharru) — in Jeremia 51:27 (roept tegen haar de koninkrijken van Ararat, Minni en Askenaz; stelt tegen haar een bevelhebber op) en Nahum 3:17 (uw vorsten zijn als sprinkhanen en uw oversten als grote kevers); hoge rijksambtenaar in Assyrische/Babylonische bureaucratie.
-
 **Vindplaatsen:**
 
 - Jer: 51:27
@@ -48422,7 +48404,7 @@ Meerdere Levieten: Gershoniet onder David (1Kr 6:21), Obed-Edoms zoon-poortwacht
 ## H3099 — יוֹאָחָז (Yoachaz-Achazja-Juda) — "Yoachaz-Achazja-jongste"
 *Woordsoort:* eign | *Voorkomens:* 4 | *Stamfamilie:* H3068, H270
 
-2Kr-en-de-Arabieren-doodden-al-zijn-zonen-behalve-Joahaz-den-jongste-van-zijn-zonen en 2Kr-en-zij-vonden-Achazja-die-zich-versteekt-had-in-Samaria (2 Kr 21:17; 25:23 vgl). Gehyphenateerd om Yoachaz-Achazja-jongste-zoon-Joram-Juda-aspect te onderscheiden van H3059 Joachaz-noord (reeds toegewezen) als naamvariant; familie met H3068 YHWH en H270 achaz 'grijpen' (beide reeds toegewezen) — 'YHWH-grijpt-volle-vorm'-Joahaz-Achazja-twee-namen-zelfde-koning-Filistijnse-Arabische-strooptocht-jongste-overlevende.
+2Kr-en-de-Arabieren-doodden-al-zijn-zonen-behalve-Joahaz-den-jongste-van-zijn-zonen en 2Kr-en-zij-vonden-Achazja-die-zich-versteekt-had-in-Samaria (2 Kr 21:17; 25:23 vgl).
 
 **Vindplaatsen:**
 
@@ -48478,7 +48460,7 @@ Eigennaam zoon van Issaschar; Gen 46:13; concordant getranslitereerd.
 ## H3103 — יוֹבָב (Yovav) — "Yovav"
 *Woordsoort:* eign | *Voorkomens:* 9
 
-Meerdere-personen: zoon-van-Joktan in Sem-geslachtsregister (Gen 10:29 = 1Kr 1:23 'Joktan verwekte... Yovav' — Arabische-stam in-woestijn-Zuid); Edomietische-koning (Gen 36:33-34 = 1Kr 1:44-45 'Yovav zoon-van-Zerach uit-Botsra werd-koning in-zijn-plaats' na-Bela), Kanaänische-koning van-Madon (Joz 11:1 'Yovav koning-van-Madon' in noord-coalitie-tegen-Jozua), Benjaminitische-hoofd (1Kr 8:9,18); concordant getranslitereerd.
+Meerdere-personen: zoon-van-Joktan in Sem-geslachtsregister (Gen 10:29 = 1Kr 1:23 'Joktan verwekte...
 
 **Vindplaatsen:**
 
@@ -52252,7 +52234,7 @@ Eigennaam zoon Mered-Juda-tak; 1Kron 4:18; concordant getranslitereerd.
 ## H3355 — יׇקְטָן (Yoqtan) — "Joktan"
 *Woordsoort:* eign | *Voorkomens:* 6
 
-Zoon van Eber, stamvader van Zuid-Arabische volken (Gen 10:25,26,29; 1 Kr 1:19,20,23). Dutch-traditie: Joktan.
+Dutch-traditie: Joktan.
 
 **Vindplaatsen:**
 
@@ -52877,7 +52859,7 @@ Maankring als tijdsmaat (30 dagen), onderscheiden van chodesh 'nieuwemaan-maand'
 ## H3392 — יֶרַח (Jerach-zoon-Joktan) — "Jerach"
 *Woordsoort:* eign | *Voorkomens:* 2 | *Stamfamilie:* H3394
 
-Gen-Joktan-verwekte-Chatsarmaveth-Jerach en 1Kr-Jerach (Gen 10:26; 1Kr 1:20). Gehyphenateerd om Jerach-zoon-Joktan-Arabische-stam-aspect te onderscheiden van H3394 yareach 'maan' (reeds toegewezen) als homograaf; Zuid-Arabië-eponiem-mogelijk-Saba-omgeving.
+Gen-Joktan-verwekte-Chatsarmaveth-Jerach en 1Kr-Jerach (Gen 10:26; 1Kr 1:20).
 
 **Vindplaatsen:**
 
@@ -53571,7 +53553,7 @@ Jasobeam-aanvoerder-der-dertig-helden-David en Jasobeam-hoofd-eerste-maanddivisi
 ## H3435 — יִשְׁבָּק (Jishbak) — "Jishbak"
 *Woordsoort:* eign | *Voorkomens:* 2
 
-Gen-Ketura-baarde-Zimran-Joksan-Medan-Midjan-Jisbak-en-Suah en 1Kr-zonen-Ketura-Jisbak (Gen 25:2; 1Kr 1:32). Gehyphenateerd om Jishbak-zoon-Abraham-Ketura-aspect te onderscheiden van andere eponiemen; Abrahams-Arabische-stam-naam-uncertain-betekenis.
+Gen-Ketura-baarde-Zimran-Joksan-Medan-Midjan-Jisbak-en-Suah en 1Kr-zonen-Ketura-Jisbak (Gen 25:2; 1Kr 1:32).
 
 **Vindplaatsen:**
 
@@ -56959,8 +56941,6 @@ Eigennaam stad in Shinar; Gen 10:10; concordant getranslitereerd.
 
 ## H3641b — כַּלְנוֹ (kalno) — "eigennaam-Kalno-ook-Kalne"
 *Woordsoort:* zn | *Voorkomens:* 2 | *Stamfamilie:* H3641a
-
-Eigennaam Kalno (Akkadisch Kullani, stad in Noord-Syrië) — in Jesaja 10:9 (is niet Kalno gelijk Karchemis?) en Amos 6:2 (gaat over naar Kalne en bezie het); variant van H3641a Kalneh (Gen 10:10 in Nimrods rijk).
 
 **Vindplaatsen:**
 

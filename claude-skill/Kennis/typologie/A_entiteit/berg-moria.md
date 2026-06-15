@@ -58,7 +58,7 @@ Interpretatieve framings. Dat Moria = Salomo-tempel = Golgotha een typologische 
 
 **Hebreeën 11:17-19** [N1] — Isaak-offer in geloofs-galerij (uitvoerig in `./abraham.md` cluster C + `./isaak.md` cluster B). Heb 11:19 noemt "ek nekrōn egeirein ... en parabolē ekomisato". Geen Moria-naam.
 
-[N3-clue] Geografische identificatie van Moria-tempel-locatie met Golgotha-kruisigings-plaats wordt door geen tekst expliciet gelegd. Joods-traditioneel zijn beide locaties op of nabij de tempel-berg, maar Heb 13:12 plaatst Christus' lijden expliciet **buiten de poort**. Niet over-claimen.
+Een geografische identificatie van Moria met de kruisigings-plaats wordt door geen tekst gelegd en valt buiten de typologie-laag. Tekst-feit: Heb 13:12 plaatst Christus' lijden expliciet **buiten de poort** (exō tēs pylēs), geografisch los van de Moria-tempel-berg. Niet over-claimen.
 
 ## Coherentie-toets
 
@@ -86,7 +86,7 @@ Bij vragen over **Moria = Golgotha, Heb 13:12 buiten poort**: cluster C (met exp
 
 **Cluster B 2 Sam 24:24 vs 1 Kron 21:25 prijs-verschil** — 2 Sam: 50 sikkels zilver voor dorsvloer + runderen; 1 Kron: 600 sikkels goud voor "de plaats" (b·makom). Verschillende elementen + verschillende metalen. Bron-feit, niet als "tegenstelling" inkleuren.
 
-**Cluster C "Moria = Golgotha"-identificatie** — joods-traditioneel/christelijk, niet bron-eigen. **Heb 13:12 noemt expliciet "exō tēs pylēs"** (buiten de poort) — geografisch los van Moria-tempel-berg. **N3-clue**, niet als typologische N1-claim presenteren.
+**Cluster C "Moria = Golgotha"-identificatie** — niet bron-eigen; valt buiten de typologie-laag. **Heb 13:12 noemt expliciet "exō tēs pylēs"** (buiten de poort) — geografisch los van Moria-tempel-berg. Niet als typologische claim presenteren.
 
 **Cluster A Gen 22:14 "ieue yireh asher yeamer ha-yom b·har ieue yera'eh"** — bron-eigen formule met **niphal yera'eh** (zal-worden-gezien, toekomstige passieve vorm). Suggereert toekomstige zichtbaar-wordings-gebeurtenis op de berg. Christologische lading is interpretatief — geen NT-citatie. **N2**.
 

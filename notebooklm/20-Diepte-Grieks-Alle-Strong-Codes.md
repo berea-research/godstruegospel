@@ -312,9 +312,7 @@
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √an-gg. Tweecletter-stam — aggelos van aggellō (verkondigen, berichten). Stam-cognaat-paar met euangelion (G2098 'goed-bericht') en archaggelos (G743 'aarts-bode'). Klassiek-Grieks 'bode' breder dan religieus.
-
-**Etymologie:** Klassiek-Grieks aggelos (bode, gezant — diplomatiek of religieus). Cognaten: aggellō (berichten), euaggelizō (goed-bericht-brengen), archaggelos (aarts-bode). LXX-Hebreeuws-tegenhanger H4397 malʾakh (~210x — bode-engel). NT-aggelos in twee-velden: hemelse-bode (engel, Yah-bode dominantie), en menselijke-bode (Mat 11:10 'mijn-bode-vóór-jouw-aangezicht', Jak 2:25 Rachab-context).
+**Wortel:** √an-gg. Tweecletter-stam — aggelos van aggellō (verkondigen, berichten). Stam-cognaat-paar met euangelion (G2098 'goed-bericht') en archaggelos (G743 'aarts-bode').
 
 **Basisbetekenis:** bode, gezant, engel. Master kiest concordant 'bode' voor alle voorkomens. Range: 1) cluster-bij-aggelos-kuriou (bode-van-de-Heer, narratief-formule — item 2962 paar via G2962, ~50x), 2) cluster-bij-aggelos-tou-theou (bode-van-de-Godheid — item 2316 paar via G2316), 3) cluster-bij-archaggelos-Michael (aarts-bode-Michael, Jud 9 — item 743 paar via G743), 4) cluster-bij-aggeloi-en-anthropoi-paar (engelen-en-mensen 1Co 4:9 — item 444 paar via G444), 5) cluster-bij-aggelos-prediker (Mat 11:10 LXX-Mal 3:1 'mijn-bode' = Johannes-de-Doper — item 4396 paar via G4396).
 
@@ -343,8 +341,6 @@
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G32`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks aggelos (Homerus en later, voor diplomatiek-bode of godheids-bode). Hebreeuws-LXX-bron-tegenhanger H4397 malʾakh (~210x — bode én engel én profeet 'bode-yhwh'). Aramees malʾaka. Latijn nuntius (bode) en angelus (leen-woord uit Grieks voor specifiek-religieus-engel). NT-aggelos-Christologisch in Heb 1 ('aan welke der engelen heeft Hij ooit gezegd... Mijn-zoon').
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -448,8 +444,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** h-a-g. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *h-a-g. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'heiligen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (heiligen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -477,8 +471,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G37`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -573,8 +565,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √a-d-e-l. Tweecletter-stam — adelphos = a-(samen-uit) + delphus (baarmoeder), letterlijk 'uit-zelfde-baarmoeder'. Stam-cognaat-paar met adelphe (zuster G79) en adelphotes (broederschap G81).
 
-**Etymologie:** Klassiek-Grieks adelphos van a-kopelativisch + delphus (baarmoeder). Cognaten: adelphe (zuster), adelphotes (broederschap-collectief). LXX-Hebreeuws-tegenhanger H251 ach (~625x). NT-adelphos dominant in twee-velden: directe biologische broer (synoptici-genealogie) en geestelijke broeder-mede-gelovige (Paulus, Hand, Joh).
-
 **Basisbetekenis:** broeder, naaste-mannelijke-verwant. Master kiest concordant 'broeder' voor alle voorkomens. Range: 1) cluster-bij-adelphoi-mede-gelovigen (Paulus' adres aan gemeente — item 1577 paar via G1577, ~120x), 2) cluster-bij-biologische-broer (Andreas-Petrus, Jakobus-Johannes — item 5207 paar via G5207, ~30x), 3) cluster-bij-broeders-Yah (allen-die-doen-de-wil-van-Vader = Mat 12:50 — item 3962 paar via G3962), 4) cluster-bij-adelphos-en-adelphe-paar (broeder-en-zuster — item 79 paar via G79), 5) cluster-bij-eerste-broeder-Christus (eerstgeborene-onder-vele-broederen Rom 8:29 — item 4416 paar via G4416 prototokos).
 
 **Semantische velden:** adelphoi-mede-gelovigen-cluster (primair); biologische-broer-cluster; broeders-Yah-cluster; broeder-en-zuster-paar-cluster; Christus-eerstgeborene-cluster.
@@ -602,8 +592,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G80`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks adelphos (Homerus en later). Hebreeuws-LXX-bron-tegenhanger H251 ach (~625x — biologisch én verwantschaps-collectief). Aramees acha (Daniel-Aramees). Latijn frater (andere wortel maar zelfde-functie). Vroeg-christelijke kerk-gebruik adelphos voor mede-gelovige is direct overgenomen uit Joods-LXX-traditie waar Israel-broederschap als verbonds-volk centraal is.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -705,9 +693,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √h-a-i-m. Klassiek-Grieks haima. LXX H1818 dam (~360x). NT-Christus-bloed cult-en-redemptief.
-
-**Etymologie:** Klassiek-Grieks haima (bloed). LXX H1818 dam (~360x). NT-haima in vier-velden: fysiek-bloed, cult-bloed-offer, bloed-Christus, en bloed-en-vlees-paar.
+**Wortel:** √h-a-i-m. LXX H1818 dam (~360x). NT-Christus-bloed cult-en-redemptief.
 
 **Basisbetekenis:** bloed. Master kiest concordant 'bloed' voor alle voorkomens. Range: 1) cluster-bij-haima-Christou (bloed-van-Christus Eph 1:7 — item 5547 paar via G5547, ~25x), 2) cluster-bij-haima-en-sarx-paar (bloed-en-vlees Mat 16:17 — item 4561 paar via G4561), 3) cluster-bij-cult-haima-offer (Heb 9:7 'niet-zonder-bloed' — item 2378 paar via G2378), 4) cluster-bij-pinō-to-haima (drinken-van-bloed Joh 6:53-56 — item 4095 paar via G4095), 5) cluster-bij-haima-tou-Lambdou (bloed-van-het-Lam Op 7:14 — item 286 paar via G286).
 
@@ -736,8 +722,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G129`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks haima (Homerus en later). LXX H1818 dam (~360x). NT-Heb 9-10 haima-Christou-cult-theologie ontwikkelt OT-bloed-cult naar Christologische-vervulling.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -837,8 +821,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** a-i-r. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *a-i-r. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'opnemen-wegnemen-dragen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (opnemen-wegnemen-dragen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -864,8 +846,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G142`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -947,9 +927,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √a-i-o-n. Klassiek-Grieks aiōn. LXX H5769 ʿolam. NT-eis-ton-aiōna en aionen-tijdperk-cluster.
-
-**Etymologie:** Klassiek-Grieks aiōn (eeuw-tijdperk). LXX H5769 ʿolam (~440x). NT-aiōn in twee-velden: tijdperk-onbepaald en aiōnen-pluraal-eschatologisch.
+**Wortel:** √a-i-o-n. LXX H5769 ʿolam. NT-eis-ton-aiōna en aionen-tijdperk-cluster.
 
 **Basisbetekenis:** aioon, tijdperk. Master kiest concordant 'aioon' voor alle voorkomens. Range: 1) cluster-bij-eis-ton-aiōna (tot-de-aioon, Joh-formule — item 1519 paar via G1519, ~30x), 2) cluster-bij-eis-tous-aiōnas-tōn-aiōnōn (tot-de-aionen-der-aionen Op-formule — item 165 paar dominant zelf via pluraal, ~20x), 3) cluster-bij-aiōn-houtos-en-aiōn-mellōn-paar (deze-aioon-tegenover-toekomende-aioon Mat 12:32 — item 3195 paar via G3195), 4) cluster-bij-pro-tōn-aiōnōn (vóór-de-aionen 1Co 2:7 — item 4253 paar via G4253), 5) cluster-bij-aiōn-tou-kosmou-toutou (aioon-van-deze-wereld Eph 2:2 — item 2889 paar via G2889).
 
@@ -978,8 +956,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G165`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks aiōn (mensenleven, generatie, tijdperk). Hebreeuws-LXX-bron H5769 ʿolam (~440x — onbepaalde-tijd, niet-noodzakelijk-eindeloos). Aramees ʿalam-NT-via Aramees-Joods-substraat. Joh-eis-ton-aiōna-formule herinterpreteert OT-le-ʿolam in christologische-eschatologische-context.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -1078,9 +1054,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √a-i-o-n. Klassiek-Grieks aiōnios. LXX H5769 ʿolam-derivaat.
-
-**Etymologie:** Klassiek-Grieks aiōnios (aionisch, betreffende-aioon), bijvoeglijk-derivaat van aiōn (G165). LXX H5769 ʿolam-bijvoeglijk-paar via vertaling.
+**Wortel:** √a-i-o-n. LXX H5769 ʿolam-derivaat.
 
 **Basisbetekenis:** aionisch (van-aioon). Master kiest concordant 'aionisch' voor alle voorkomens. Range: 1) cluster-bij-zōē-aiōnios (eeuwig-leven Joh 3:16 — item 2222 paar via G2222, ~40x), 2) cluster-bij-pur-aiōnios (eeuwig-vuur Mat 25:41 — item 4442 paar via G4442), 3) cluster-bij-aiōnios-Yah (Rom 16:26 'aiōnios-Godheid' — item 2316 paar via G2316), 4) cluster-bij-aiōnios-en-prosōrios-paar (aionisch-en-tijdelijk 2Co 4:18 — item 4340 paar via G4340), 5) cluster-bij-kolasis-aiōnios (aionische-bestraffing Mat 25:46 — item 2851 paar via G2851).
 
@@ -1109,8 +1083,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G166`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks aiōnios (Plato afgeleid). LXX H5769 ʿolam-derivaat. NT-Joh-zōē-aiōnios-theologie centraal.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -1211,8 +1183,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** a-k-o. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *a-k-o. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'horen-luisteren'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (horen-luisteren); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -1238,8 +1208,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G191`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -1326,9 +1294,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √h-a-m. Drie-radicaal-stam — hamartia van hamartanō (zondigen, het-doel-missen G264). Stam-cognaat-paar met hamartolos (zondaar G268) en anamartetos (zonder-zonde G361). Stam in klassiek-Grieks vocabulair voor 'doel-missen' (oorspronkelijk pijl-en-boog).
-
-**Etymologie:** Klassiek-Grieks hamartia (doel-missen, fout, zonde), van hamartanō. Cognaten: hamartolos (zondaar), anamartetos (zonder-zonde, Heb 4:15 over Christus). LXX-Hebreeuws-tegenhanger H2403 chattaʾt (~290x), H2399 chetʾ (~35x), H2398 chataʾ (~140x als werkwoord). NT-hamartia in vier-velden: persoonlijke-zonde-handeling, zonde-als-macht-Paulus (Rom 5-7), zonde-en-vergeving (Mat 1:21), en zonde-en-cult-offer (Heb 9-10).
+**Wortel:** √h-a-m. Drie-radicaal-stam — hamartia van hamartanō (zondigen, het-doel-missen G264). Stam-cognaat-paar met hamartolos (zondaar G268) en anamartetos (zonder-zonde G361).
 
 **Basisbetekenis:** zonde, doel-missen. Master kiest concordant 'zonde' voor alle voorkomens. Range: 1) cluster-bij-hamartia-en-Christus-droeg (1Pe 2:24 — item 5547 paar via G5547), 2) cluster-bij-hamartia-tou-kosmou (zonde-van-de-wereld Joh 1:29 — item 2889 paar via G2889), 3) cluster-bij-aphēsis-hamartiōn (vergeving-van-zonden — item 859 paar via G859), 4) cluster-bij-zonde-als-macht-Paulus (Rom 5-7 hamartia personificatie — item 3551 paar via G3551), 5) cluster-bij-hamartia-eis-thanaton (zonde-tot-de-dood 1Jo 5:16-17 — item 2288 paar via G2288).
 
@@ -1357,8 +1323,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G266`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks hamartia (Homerus pijl-en-boog 'doel-missen', later morele-fout). Hebreeuws-LXX-bron-tegenhanger H2403 chattaʾt (~290x — zonde én zonde-offer), H2398 chataʾ (~140x werkwoord 'doel-missen-zondigen', dezelfde basis-betekenis als Grieks!), H2399 chetʾ (~35x). Aramees chattaʾh. NT-Paulus-hamartia-personificatie (Rom 5-7) is Hellenistische literaire-techniek geprojecteerd op Joods-zonde-begrip.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -1460,9 +1424,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √an-a-s. Klassiek-Grieks anastasis. LXX H6965 qum-derivaat.
-
-**Etymologie:** Klassiek-Grieks anastasis (opstanding), van anistēmi (opstaan G450). LXX H6965 qum-derivaat-paar via vertaling. NT-anastasis centraal-Christen-belijdenis.
+**Wortel:** √an-a-s. LXX H6965 qum-derivaat.
 
 **Basisbetekenis:** opstanding. Master kiest concordant 'opstanding' voor alle voorkomens. Range: 1) cluster-bij-anastasis-Christou (opstanding-Christus 1Co 15 — item 5547 paar via G5547, ~25x), 2) cluster-bij-anastasis-en-anistēmi-paar (opstanding-en-opstaan — item 450 paar via G450), 3) cluster-bij-Joh-11-25-anastasis (Joh 11:25 'Ik-ben-de-anastasis-en-het-leven' — item 2222 paar via G2222), 4) cluster-bij-anastasis-en-egeiro-paar (opstanding-en-opwekken — item 1453 paar via G1453), 5) cluster-bij-anastasis-tōn-nekrōn (opstanding-der-doden Hand 17:32 — item 3498 paar via G3498).
 
@@ -1491,8 +1453,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G386`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks anastasis. LXX H6965 qum-derivaat-paar. NT-1Co 15 anastasis Christou kern-Christologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -1588,9 +1548,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √an-e-m. Klassiek-Grieks anemos. LXX H7307 ruach deels.
-
-**Etymologie:** Klassiek-Grieks anemos (wind). LXX H7307 ruach deels-paar via vertaling. NT-anemos in twee-velden: natuurkundig-wind en metaforisch-leer-windom-meegevoerd.
+**Wortel:** √an-e-m. LXX H7307 ruach deels.
 
 **Basisbetekenis:** wind. Master kiest concordant 'wind' voor alle voorkomens. Range: 1) cluster-bij-anemos-en-pneuma-paar (wind-en-geest — item 4151 paar via G4151, ~25x), 2) cluster-bij-anemos-en-kuma-paar (wind-en-golven Mat 8:24-26 — item 2949 paar via G2949), 3) cluster-bij-Christus-stilt-anemos (Mat 8:26 'epetimēsen tois anemois' — item 5547 paar via G5547, ~10x), 4) cluster-bij-anemos-leer-Eph-4-14 (windom-meegevoerd-elke-leer — item 1322 paar via G1322), 5) cluster-bij-anemos-en-LXX-bron H7307 ruach-deels-paar.
 
@@ -1619,8 +1577,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G417`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks anemos. LXX H7307 ruach deels. NT-Mat 8:26 Christus-stilt-storm Galilea.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -1713,9 +1669,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √an-r. Tweecletter-stam — anēr is primair zn voor 'man, mannelijke-volwassene, echtgenoot'. Stam in oudste laag van Indo-Europees vocabulair (PIE *h2nēr- 'vitale-mannelijke-kracht', vergelijk Latijn vir, Sanskriet nara, Engels neuter via *ner-).
-
-**Etymologie:** Klassiek-Grieks anēr (man, echtgenoot, mannelijke-volwassene). Cognaten: andreios (mannelijk-moedig), andrizomai (zich-mannelijk-gedragen), polyandros (veel-mannig). LXX-Hebreeuws-tegenhanger H376 ish (~720x). NT-anēr breed gebruik: echtgenoot-context (Paulus huwelijks-instructie), narratief-man, en eervolle-aanspreking 'andres adelphoi' (Hand 1:16 'mannen-broeders').
+**Wortel:** √an-r. Tweecletter-stam — anēr is primair zn voor 'man, mannelijke-volwassene, echtgenoot'.
 
 **Basisbetekenis:** man, echtgenoot. Master kiest concordant 'man' voor alle voorkomens. Range: 1) cluster-bij-anēr-en-gunē-paar (echtgenoot-en-echtgenote, Eph 5 — item 1135 paar via G1135, ~50x), 2) cluster-bij-andres-adelphoi (mannen-broeders, Hand-aanspreking — item 80 paar via G80, ~20x), 3) cluster-bij-anēr-Iosēph (Jozef-de-man-van-Maria — item 2501 paar via G2501), 4) cluster-bij-anēr-prophētēs (man-profeet Luc 24:19 — item 4396 paar via G4396), 5) cluster-bij-eis-anēr (één-man-één-vrouw monogame-Paulus 1Co 7 — item 1520 paar via G1520).
 
@@ -1744,8 +1698,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G435`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks anēr (Homerus en later, voor mannelijke-volwassene of echtgenoot). Indo-Europese-cognaten Latijn vir, Sanskriet nara, Welsh ner. Hebreeuws-LXX-bron-tegenhanger H376 ish (~720x — geslacht-specifiek-individu). Aramees gevar. NT-anēr-en-gunē-formules (Eph 5:22-33) volgen OT-ish-en-ishah-traditie (Gen 2:23-24 'man-zal-zijn-vader-en-moeder-verlaten'-paar).
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -1845,9 +1797,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √an-thr. Tweecletter-stam — anthropos is primair zn voor 'mens, mensheid, persoon'. Stam-cognaat-paar met aner (man G435) als geslacht-specifiek-tegenpaar. Etymologie-debat: van anthos (bloesem) + ops (gezicht) = 'bloeiend-gezicht', of van -thr-opos 'beneden-kijkend' wezen.
-
-**Etymologie:** Klassiek-Grieks anthropos (mens, persoon, mensheid). Etymologie-debat tussen Indo-Europese-stam *anthr- 'binnenwaarts-kijken' en samenstelling anthos+ops. Cognaten: theleia anthropoi (vrouwen-mensen, archaïsch). LXX-Hebreeuws-tegenhanger H120 adam (~530x), H376 ish (~135x), H582 enosh (~38x). NT-anthropos breed gebruik: huios tou anthropou (Mensenzoon-titel Jezus zelf-aanduiding ~80x).
+**Wortel:** √an-thr. Tweecletter-stam — anthropos is primair zn voor 'mens, mensheid, persoon'. Stam-cognaat-paar met aner (man G435) als geslacht-specifiek-tegenpaar.
 
 **Basisbetekenis:** mens, mensheid, persoon. Master kiest concordant 'mens' voor alle voorkomens. Range: 1) cluster-bij-huios-tou-anthropou (Mensenzoon-titel, Jezus zelf-aanduiding — item 5207 paar via G5207, ~80x in synoptici en Joh), 2) cluster-bij-pas-anthropos (elke-mens, universalisme Joh 1:9 — item 3956 paar via G3956), 3) cluster-bij-anthropos-en-theos-paar (mens-tegen-Godheid, christologisch — item 2316 paar via G2316), 4) cluster-bij-eerste-Adam-tweede-Adam (Paulus 1Co 15:45-47 — item 5207 paar via G5207 als christologische-Adam-typologie), 5) cluster-bij-palaios-anthropos (oude-mens, Paulus Eph 4:22 — item 3820 paar-via-Hebreeuws-substraat).
 
@@ -1876,8 +1826,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G444`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks anthropos (Homerus en later, voor mens-categorie versus dier of godheid). LXX-Hebreeuws-tegenhanger H120 adam (~530x — universele-mens-collectief), H376 ish (~135x — individuele-man), H582 enosh (~38x — mens-vergankelijk-poëtisch). Aramees barnasha (mensenzoon — Daniel 7:13 Aramees, achter Jezus' Mensenzoon-titel). Latijn homo (geslacht-neutraal-mens, andere wortel). Sanskriet manuṣya (mens, van Manu eerste-mens-figuur).
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -1978,9 +1926,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √a-x-i. Klassiek-Grieks axios. LXX H7737 shavah-paar.
-
-**Etymologie:** Klassiek-Grieks axios (waardig). LXX H7737 shavah-paar via vertaling. NT-axios in twee-velden: waardig-zijn-iets en waardig-Christus.
+**Wortel:** √a-x-i. LXX H7737 shavah-paar.
 
 **Basisbetekenis:** waardig. Master kiest concordant 'waardig' voor alle voorkomens. Range: 1) cluster-bij-axios-en-time-paar (waardig-en-eer — item 5092 paar via G5092, ~25x), 2) cluster-bij-axios-Christus (Op 5:9 'waardig-zijn-Lam-boek-te-openen' — item 5547 paar via G5547), 3) cluster-bij-axios-en-misthos-paar (waardig-en-loon Mat 10:10 'werker-loon-waardig' — item 3408 paar via G3408), 4) cluster-bij-axios-en-tēs-klēseōs-paulus (Eph 4:1 'waardig-wandelen-naar-roeping' — item 2821 paar via G2821), 5) cluster-bij-ouk-axios (niet-waardig Mat 8:8 hoofdman-formule — item 3756 paar via G3756).
 
@@ -2009,8 +1955,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G514`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks axios. LXX H7737 shavah deels. NT-Op 5:9 'axios ei labein to biblion'.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -2106,8 +2050,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** a-p-e. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *a-p-e. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'weggaan-heengaan'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (weggaan-heengaan); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -2135,8 +2077,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G565`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -2225,8 +2165,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** a-p-o. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *a-p-o. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'teruggeven'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (teruggeven); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -2254,8 +2192,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G591`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -2347,8 +2283,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** a-p-o. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *a-p-o. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'sterven-doodgaan'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (sterven-doodgaan); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -2376,8 +2310,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G599`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -2470,8 +2402,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** a-p-o. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *a-p-o. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'uitzenden-zenden'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (uitzenden-zenden); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -2497,8 +2427,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G649`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -2583,9 +2511,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √a-p-o-s. Klassiek-Grieks apostolos. NT-twaalf-apostelen en Paulus-zelfaanduiding centraal.
-
-**Etymologie:** Klassiek-Grieks apostolos (gezant), van apostellō (zenden G649). LXX H4397 malʾakh-deels via vertaling. NT-apostolos = gezonden-Christus-getuige.
+**Wortel:** √a-p-o-s. NT-twaalf-apostelen en Paulus-zelfaanduiding centraal.
 
 **Basisbetekenis:** apostel, gezonden-getuige. Master kiest concordant 'apostel' voor alle voorkomens. Range: 1) cluster-bij-dōdeka-apostoloi (twaalf-apostelen Mat 10:2 — item 1427 paar via G1427, ~10x), 2) cluster-bij-Paulus-apostolos (Rom 1:1 zelfaanduiding — item 3972 paar via G3972, ~30x), 3) cluster-bij-apostolos-en-prophētēs-paar (apostel-en-profeet Eph 4:11 — item 4396 paar via G4396), 4) cluster-bij-apostoloi-en-presbuteroi-paar (Hand 15-formule — item 4245 paar via G4245), 5) cluster-bij-pseudoapostoloi (valse-apostelen 2Co 11:13 — item 5570 paar via G5570).
 
@@ -2614,8 +2540,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G652`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks apostolos (gezant-met-volmacht). NT-Paulus-Rom 1:1 'klētos apostolos' (geroepen-apostel) en Mat 10 twaalf-apostelen-uitzending.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -2714,9 +2638,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √ap-ʾol. Klassiek-Grieks apōleia. LXX H6 abad deels-paar.
-
-**Etymologie:** Klassiek-Grieks apōleia (verderf, verlies, ondergang), van apollumi (vergaan-vernietigen G622). LXX H6 abad deels-paar. NT-apōleia in drie-velden: eschatologisch-eindtijd-Tegenstander (2Th 2-3 'huios tēs apōleias'), Christus-Judas (Joh 17-12), en weg-naar-apōleia (Mat 7-13).
+**Wortel:** √ap-ʾol. LXX H6 abad deels-paar.
 
 **Basisbetekenis:** verderf. Master kiest concordant 'verderf' voor alle voorkomens. Range: 1) cluster-bij-apōleia-en-apollumi-paar (verderf-en-vergaan — item 622 paar via G622, ~25x), 2) cluster-bij-apōleia-en-krisis-paar (verderf-en-oordeel — item 2920 paar via G2920), 3) cluster-bij-huios-tēs-apōleias-Joh-17-12 (Judas) en 2Th-2-3 (eindtijd-mens-der-zonde — item 5547 paar via G5547, ~10x), 4) cluster-bij-Christus-Mat-7-13 'pulē tēs apōleias' breed-weg (item 5547 paar via G5547), 5) cluster-bij-apōleia-en-LXX-bron H6 abad.
 
@@ -2745,8 +2667,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G684`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met apo+ollumi-vergaan. LXX-bron H6 abad. NT-2Pe 3:7, 16 'apōleias asebōn anthrōpōn' eindtijd-onder-eschatologisch-vuur-oordeel.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -2841,9 +2761,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √ar-g-m-n. Klassiek-Grieks porphura. LXX H713 argaman.
-
-**Etymologie:** Klassiek-Grieks porphura (purper). LXX H713 argaman-paar. Cult-stof-cluster.
+**Wortel:** √ar-g-m-n. LXX H713 argaman.
 
 **Basisbetekenis:** purper. Master kiest concordant 'purper' voor alle voorkomens. Range: 1) cluster-bij-purper-en-cult-mishkan-paar (cult-stof-tabernakel — item 4908 paar-via H4908, ~25x), 2) cluster-bij-purper-en-koninklijk (Mar 15:17 'purper-mantel-Christus' bespotting — item 5547 paar via G5547), 3) cluster-bij-purper-en-Lydia-Hand-16-14 (Lydia-purpur-handelaarster — item 3070 paar via G3070), 4) cluster-bij-purper-Op-17-4-Babylon (Op 17:4 'gunē-purper-en-scharlaken-bekleed' — item 1135 paar via G1135), 5) cluster-bij-purper-en-LXX-bron H713 argaman.
 
@@ -2872,8 +2790,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G713`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks porphura. LXX H713 argaman. NT-Op 17:4 hoer-Babylon-purper en Hand 16:14 Lydia-purpurhandelaarster.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -2959,8 +2875,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** a-r-n. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *a-r-n. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'verloochenen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (verloochenen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -2988,8 +2902,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G720`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -3081,8 +2993,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** h-a-r. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *h-a-r. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'rukken-roven'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (rukken-roven); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -3110,8 +3020,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G726`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -3196,9 +3104,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √ar-ch. Klassiek-Grieks archaios. LXX H6924 qedem deels-paar.
-
-**Etymologie:** Klassiek-Grieks archaios (oud, van-oudsher, oorspronkelijk), van archē (begin-aanvang G746). LXX H6924 qedem deels-paar. NT-archaios in drie-velden: oude-bedeling (Mat 5-21, 27, 33 'errethē tois archaiois'), Christus-pre-existentie (Op 12-9 'ophis ho archaios'), en eschatologisch-paulinisch (2Co 5-17 'ta archaia parēlthen').
+**Wortel:** √ar-ch. LXX H6924 qedem deels-paar.
 
 **Basisbetekenis:** ouds. Master kiest concordant 'ouds' (archaisch) voor alle voorkomens. Range: 1) cluster-bij-archaios-en-archē-paar (ouds-en-aanvang — item 746 paar via G746, ~25x), 2) cluster-bij-archaios-en-palaios-paar (ouds-en-oud — item 3820 paar via G3820), 3) cluster-bij-archaios-bergrede-Mat-5-21-27-33 ('errethē tois archaiois' Christus-formule-Mosaisch-overlevering — item 5547 paar via G5547, ~10x), 4) cluster-bij-Op-12-9-20-2 'ophis ho archaios' = oude-slang Eden-typologie-Tegenstander-binden-cluster (item 4567 paar via G4567), 5) cluster-bij-archaios-en-LXX-bron H6924 qedem.
 
@@ -3227,8 +3133,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G744`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met archē-stam. LXX-bron H6924 qedem. NT-2Co 5:17 'ta archaia parēlthen idou gegonen kaina' Paulus-nieuwe-schepping-cluster-Christus-eschaton-bedelings-overgang.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -3318,9 +3222,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √ar-ch. Klassiek-Grieks archē. LXX H7225 reshit.
-
-**Etymologie:** Klassiek-Grieks archē (begin, oorsprong, overheid). LXX H7225 reshit en H4761 niet-direct. NT-archē in twee-velden: tijds-begin (Joh 1:1) en gezags-overheden.
+**Wortel:** √ar-ch. LXX H7225 reshit.
 
 **Basisbetekenis:** begin, oorsprong, overheid. Master kiest concordant 'begin' voor alle voorkomens. Range: 1) cluster-bij-en-archē-Joh-1-1 (in-den-beginne Joh 1:1 LXX-Gen 1:1 — item 3056 paar via G3056), 2) cluster-bij-archē-en-telos-paar (begin-en-einde Op 21:6 — item 5056 paar via G5056), 3) cluster-bij-archai-overheden (Eph 6:12 'tegen-overheden' — item 1849 paar via G1849), 4) cluster-bij-Christus-archē-tēs-ktiseōs (begin-van-de-schepping Op 3:14 — item 5547 paar via G5547), 5) cluster-bij-archē-tou-euangeliou (begin-van-het-evangelie Mar 1:1 — item 2098 paar via G2098).
 
@@ -3349,8 +3251,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G746`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks archē. LXX H7225 reshit. NT-Joh 1:1 'en archē ēn ho logos' centraal-Christologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -3451,8 +3351,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** a-p-h. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *a-p-h. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'verlaten-vergeven-toelaten'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (verlaten-vergeven-toelaten); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -3478,8 +3376,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G863`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -3562,9 +3458,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √b-a-s. Tweecletter-stam — basileia van basileus (koning G935). Stam-cognaat-paar met basileuō (regeren G936) en basilikos (koninklijk G937). Klassiek-Grieks staats-vocabulair 'koningschap-koninkrijk'.
-
-**Etymologie:** Klassiek-Grieks basileia (koningschap, koninkrijk-territorium, koninklijke-waardigheid). Cognaten: basileus (koning), basileuō (regeren), basileion (paleis). LXX-Hebreeuws-tegenhanger H4467 mamlakah (~120x — koninkrijk-territorium) en H4438 malkut (~50x — koningschap-functie). NT-basileia is centraal-thema: hē basileia tou theou (synoptici), hē basileia tōn ouranōn (Mat-circumlocutie), basileia-Christou (Eph 5:5, 2Pe 1:11).
+**Wortel:** √b-a-s. Tweecletter-stam — basileia van basileus (koning G935). Stam-cognaat-paar met basileuō (regeren G936) en basilikos (koninklijk G937).
 
 **Basisbetekenis:** koninkrijk, koningschap. Master kiest concordant 'koninkrijk' voor alle voorkomens. Range: 1) cluster-bij-basileia-tou-theou (koninkrijk-van-de-Godheid synoptici-Paulus — item 2316 paar via G2316, ~70x), 2) cluster-bij-basileia-tōn-ouranōn (koninkrijk-der-hemelen Mat-formule — item 3772 paar via G3772, ~32x), 3) cluster-bij-eggiken-hē-basileia (koninkrijk-is-nabij-gekomen Mat 4:17 — item 1448 paar via G1448), 4) cluster-bij-basileia-Christou (Christus-koninkrijk Eph 5:5 — item 5547 paar via G5547), 5) cluster-bij-eis-tēn-basileian-eiserchomai (binnengaan-koninkrijk Joh 3:5 — item 1525 paar via G1525).
 
@@ -3572,7 +3466,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## C. Morfologische varianten (anker 2)
 
-**Vormen die voorkomen:** zn vrouwelijk verbuiging: nominatief basileia, genitief basileias, dativus basileia, accusatief basileian. Pluraal basileiai (~5x — meerdere-koninkrijken). Met lidwoord hē basileia doorgaans specifiek (het-Yah-koninkrijk). Mat-formule basileia tōn ouranōn (~32x) is uniek-Mat (rabbijns malkut shamayim parallel), terwijl Mar-Luc-Joh basileia tou theou prefereren.
+**Vormen die voorkomen:** zn vrouwelijk verbuiging: nominatief basileia, genitief basileias, dativus basileia, accusatief basileian. Pluraal basileiai (~5x — meerdere-koninkrijken). Met lidwoord hē basileia doorgaans specifiek (het-Yah-koninkrijk). Mat-formule basileia tōn ouranōn (~32x) is uniek-Mat, terwijl Mar-Luc-Joh basileia tou theou prefereren.
 
 **Stamfamilie uit master:** G932, G935, G936, G937
 
@@ -3593,8 +3487,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G932`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks basileia (Atheense-polis-context, Hellenistische monarchieën). Hebreeuws-LXX-bron-tegenhanger H4467 mamlakah (~120x) en H4438 malkut (~50x). Aramees malkutaʾ (Daniel-Aramees, eschatologisch in Dan 7:14, 7:27). NT-Joods-basileia-thema verbindt OT-Davidisch-koningschaps-belofte met Christologische-vervulling (Luc 1:32-33 'Hij-zal-regeren-over-het-huis-van-Jakob-tot-aionen').
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -3696,9 +3588,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √b-a-s. Klassiek-Grieks basileus. LXX H4428 melekh (~2520x). NT-basileus-Christus en aardse-koningen.
-
-**Etymologie:** Klassiek-Grieks basileus (koning). LXX H4428 melekh (~2520x). NT-basileus in twee-velden: aardse-koning en basileus-Christus.
+**Wortel:** √b-a-s. LXX H4428 melekh (~2520x). NT-basileus-Christus en aardse-koningen.
 
 **Basisbetekenis:** koning. Master kiest concordant 'koning' voor alle voorkomens. Range: 1) cluster-bij-basileus-en-basileia-paar (koning-en-koninkrijk — item 932 paar via G932, ~30x), 2) cluster-bij-basileus-tōn-Iudaiōn (Koning-der-Joden Mat 27:11 — item 2453 paar via G2453, ~10x), 3) cluster-bij-basileus-basileōn (Koning-der-koningen Op 17:14, 19:16 — item 935 paar dominant zelf), 4) cluster-bij-basileus-en-kurios-paar (Koning-en-Heer — item 2962 paar via G2962), 5) cluster-bij-OT-basileis-Israel-Iuda (OT-koningen narratief — item 2474 paar via G2474).
 
@@ -3727,8 +3617,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G935`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks basileus (Atheense polis-context). Hebreeuws-LXX-bron H4428 melekh (~2520x). NT-basileus-tōn-basileōn-Op (17:14, 19:16) is christologische-titel.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -3818,13 +3706,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 35
 
-**Master-toelichting:** Lasteren, godslasterlijk-spreken. Etymologie omstreden, vermoedelijk blapt- (schaden) + phēmi (spreken). Concordant: 'lasteren'. Tegen God: godslastering. Tegen mensen: schimpen, smaden. Substantief blasphēmia = lastering.
+**Master-toelichting:** Lasteren, godslasterlijk-spreken. Concordant: 'lasteren'. Tegen God: godslastering. Tegen mensen: schimpen, smaden. Substantief blasphēmia = lastering.
 
 ## B. Wortel-analyse (anker 1)
 
 **Wortel:** b-l-a. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
-
-**Etymologie:** Proto-Semitisch *b-l-a. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
 
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'lasteren'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
@@ -3853,8 +3739,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G987`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -3948,8 +3832,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-l-e. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *b-l-e. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'zien-kijken'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (zien-kijken); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -3975,8 +3857,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G991`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -4063,9 +3943,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √g-e-n. Klassiek-Grieks genos. LXX H4940 mishpachah deels-paar.
-
-**Etymologie:** Klassiek-Grieks genos (geslacht, afkomst, nakomeling), Indo-Europees met Latijn genus. LXX H4940 mishpachah deels-paar. NT-genos in drie-velden: etnisch-Israël (Hand 7), priesterlijk-genos (1Pe-2-9 'genos eklekton'), en biologisch-vissen-genos.
+**Wortel:** √g-e-n. LXX H4940 mishpachah deels-paar.
 
 **Basisbetekenis:** geslacht-afkomst. Master kiest samengesteld concordant 'geslacht-afkomst' om dubbel-veld af te dekken. Range: 1) cluster-bij-genos-en-genesis-paar (geslacht-en-oorsprong — item 1078 paar via G1078, ~25x), 2) cluster-bij-genos-en-phulē-paar (geslacht-en-stam — item 5443 paar via G5443), 3) cluster-bij-genos-Christus-Op-22-16 ('egō eimi hē rhiza kai to genos Dauid' — item 5547 paar via G5547, ~10x), 4) cluster-bij-genos-1Pe-2-9-priesterlijk-koninklijk ('genos eklekton, basileion hierateuma' Exo-19-6-citaat — item 2992 paar via G2992), 5) cluster-bij-genos-en-LXX-bron H4940 mishpachah.
 
@@ -4094,8 +3972,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1085`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met Latijn genus en gignō-stam. LXX-bron H4940 mishpachah. NT-Op 22:16 Christus-rhiza-en-genos-Davids-Wortel-Spruit-titel.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -4188,9 +4064,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √g-e. Eenletter-stam — ge is primair zn voor 'aarde, land, grond'. Stam in oudste laag van Indo-Europees aarde-vocabulair (PIE *gheH- 'aarde-grond'). Stam-cognaat-paar met geōrgos (landbouwer G1092) en epigeios (aards G1919).
-
-**Etymologie:** Klassiek-Grieks gē of ga (aarde, land, grond — Homerus en later). Cognaten: geōrgos (landbouwer = ge-werker), epigeios (aards), geōdēs (aardachtig). LXX-Hebreeuws-tegenhanger H776 erets (~2200x). NT-gē in drie-velden: kosmologisch-aarde, geografisch-land (gē Israel, gē Aigyptos), en gē-tegenpool-ouranos (aarde-tegenover-hemel).
+**Wortel:** √g-e. Eenletter-stam — ge is primair zn voor 'aarde, land, grond'. Stam-cognaat-paar met geōrgos (landbouwer G1092) en epigeios (aards G1919).
 
 **Basisbetekenis:** aarde, land, grond. Master kiest concordant 'aarde' voor alle voorkomens. Range: 1) cluster-bij-ouranos-kai-ge-paar (hemel-en-aarde-merisma — item 3772 paar via G3772, ~50x), 2) cluster-bij-kainos-ouranos-kai-kaine-ge (nieuwe-aarde Op 21:1 — item 2537 paar via G2537), 3) cluster-bij-gē-Israel (Mat 2:20-21 — item 2474 paar via G2474), 4) cluster-bij-pasa-gē (gehele-aarde Mat 28:18 — item 3956 paar via G3956), 5) cluster-bij-aarde-bewoners (hoi katoikountes epi tēs gēs Op-formule — item 2730 paar via G2730).
 
@@ -4219,8 +4093,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1093`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks gē (Homerus, Hesiodus oer-godheid Gaia). Hebreeuws-LXX-bron-tegenhanger H776 erets (~2200x — semantisch identiek-spectrum). Aramees ʾaraʿ (Daniel-Aramees, met /ts/→/ʿ/-klankverandering). Latijn terra (andere wortel). Sanskriet kṣam (aarde — andere wortel). NT-gē-tegenover-ouranos (aarde-tegenover-hemel) volgt OT-erets-tegenover-shamayim-merisma direct.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -4323,8 +4195,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-i-n. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *g-i-n. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'worden-geschieden-ontstaan'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (worden-geschieden-ontstaan); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -4350,8 +4220,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1096`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -4440,8 +4308,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-i-n. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *g-i-n. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'kennen-leren-weten'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (kennen-leren-weten); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -4467,8 +4333,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1097`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -4555,9 +4419,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √gl-o-s. Klassiek-Grieks glōssa (Homerus 'tong-en-taal'). LXX H3956 lashon.
-
-**Etymologie:** Klassiek-Grieks glōssa (tong, taal). LXX H3956 lashon (~115x). NT-glōssa in vier-velden: fysiek-tong, taal (Joh 5:2 Aramees Bethesda), Pinkster-tongen-Hand 2, en glossolalie-1Co 14.
+**Wortel:** √gl-o-s. LXX H3956 lashon.
 
 **Basisbetekenis:** tong, taal. Master kiest concordant 'tong' voor alle voorkomens. Range: 1) cluster-bij-glōssai-Pinkster-Hand-2 (vurige-tongen Hand 2:3-4 — item 4151 paar via G4151, ~10x), 2) cluster-bij-glōssa-en-stoma-paar (tong-en-mond — item 4750 paar via G4750, ~25x), 3) cluster-bij-glossolalie-1Co-14 (vreemde-tongen 1Co 14:5-39 — item 1577 paar via G1577), 4) cluster-bij-glōssa-Jak-3 (de-tong-vuur-Jak 3:6 — item 4442 paar via G4442), 5) cluster-bij-pasa-glōssa-Filp-2-11 (elke-tong-zal-belijden — item 3670 paar via G3670).
 
@@ -4586,8 +4448,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1100`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks glōssa. LXX H3956 lashon. NT-Hand 2:3-4 Pinkster-tongen-cluster en 1Co 14 glossolalie-instructie.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -4683,8 +4543,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-r-a. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *g-r-a. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'schrijven-opschrift'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (schrijven-opschrift); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -4710,8 +4568,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1125`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -4800,8 +4656,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-r-ē. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *g-r-ē. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'waken'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (waken); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -4829,8 +4683,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1127`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -4916,9 +4768,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √g-um-n. Klassiek-Grieks gumnos. LXX H6174 arom dominant.
-
-**Etymologie:** Klassiek-Grieks gumnos (naakt), Indo-Europees met Latijn nudus. LXX H6174 arom dominant-paar. NT-gumnos in drie-velden: literair-naakt (Mat 25-36, Hand 19-16), schaamte-cluster (Op 3-17, 16-15, 17-16), en eschatologisch-judica-stand (2Co 5-3 'ou gumnoi heurethēsometha').
+**Wortel:** √g-um-n. LXX H6174 arom dominant.
 
 **Basisbetekenis:** naakt. Master kiest concordant 'naakt' voor alle voorkomens. Range: 1) cluster-bij-gumnos-en-gumnotēs-paar (naakt-en-naaktheid — item 1132 paar via G1132, ~25x), 2) cluster-bij-gumnos-en-enduō-paar (naakt-en-bekleden antoniem — item 1746 paar via G1746), 3) cluster-bij-Christus-Mat-25-36-bergrede-discipelen-werken ('gumnos kai periebalete me' — item 5547 paar via G5547, ~10x), 4) cluster-bij-Op-3-17-Laodicea ('ouk oidas hoti su ei... gumnos') en Op-16-15 'makarios... mē gumnos peripatēi' (item 4151 paar via G4151), 5) cluster-bij-gumnos-en-LXX-bron H6174 arom (Gen 2:25 Adam-Eva).
 
@@ -4947,8 +4797,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1131`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met Latijn nudus en Sanskriet nagna. LXX-bron H6174 arom. NT-2Co 5:3 Paulus-eindtijd-niet-naakt-aangetroffen-onsterfelijkheid-bekleed-Jas-2-Levenshuis-cluster.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -5041,9 +4889,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √g-u-n. Drie-radicaal-stam — gunē is primair zn voor 'vrouw, echtgenote, vrouwelijke-persoon'. Stam in oudste laag van Indo-Europees vocabulair (PIE *gwen- 'vrouw', vergelijk Engels queen, Sanskriet jani, Iers ben).
-
-**Etymologie:** Klassiek-Grieks gunē (vrouw, echtgenote). Cognaten: gunaikeios (vrouwelijk), gunaikonomos. LXX-Hebreeuws-tegenhanger H802 ishah (~780x). NT-gunē breed gebruik: aer-vrouw-narratief, echtgenote-context (Eph 5 huwelijks-instructie), Maria-gunē-context (Mat 1, Luc 1), en metaforisch-gunē (Op 12 'vrouw-bekleed-met-zon').
+**Wortel:** √g-u-n. Drie-radicaal-stam — gunē is primair zn voor 'vrouw, echtgenote, vrouwelijke-persoon'.
 
 **Basisbetekenis:** vrouw, echtgenote. Master kiest concordant 'vrouw' voor alle voorkomens. Range: 1) cluster-bij-aner-en-gune-paar (man-en-vrouw-huwelijk Eph 5 — item 435 paar via G435, ~50x), 2) cluster-bij-Maria-gune-narratief (item 3137 paar via G3137 in geboorte-context), 3) cluster-bij-gune-en-paidia-paar (vrouw-en-kinderen-context — item 3813 paar via G3813), 4) cluster-bij-Op-12-gune (vrouw-bekleed-met-zon, eschatologisch — item 4982 paar via G4982 als verlossings-cluster), 5) cluster-bij-gune-en-andra-pol-paar (vrouw-en-vele-mannen Joh 4 Samaritaanse — item 4541 paar via G4541).
 
@@ -5072,8 +4918,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1135`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks gunē (Homerus en later). Indo-Europese-cognaten Engels queen, Sanskriet jani, Oud-Iers ben, Slavisch zhena. Hebreeuws-LXX-bron-tegenhanger H802 ishah (~780x). Aramees ittetaʾ. Latijn femina (andere wortel). Sanskriet stri (vrouw — andere wortel). NT-gune in twee-stand-velden: huwelijks-context (Paulus-Eph) en narratief (synoptici).
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -5175,8 +5019,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √d-a-v-i-d. Translitteratie-David. LXX H1732.
 
-**Etymologie:** Hellenistisch-Grieks David (translitteratie-Hebreeuws David). LXX H1732 david. NT-David-Christologisch en koningschaps-cluster.
-
 **Basisbetekenis:** David (eigennaam). Master kiest concordant 'David' voor alle voorkomens. Range: 1) cluster-bij-huios-Dauid (Zoon-van-David Mat 1:1 — item 5207 paar via G5207, ~15x), 2) cluster-bij-thronos-Dauid (troon-van-David Luc 1:32 — item 2362 paar via G2362), 3) cluster-bij-Bēthleem-polis-Dauid (Bethlehem-stad-van-David Luc 2:11 — item 4172 paar via G4172), 4) cluster-bij-Dauid-en-Christus-paar (Mat 22:42-45 'wie-is-Christus' — item 5547 paar via G5547), 5) cluster-bij-rhiza-Dauid (wortel-van-David Op 5:5 — item 4491 paar via G4491).
 
 **Semantische velden:** David-cluster (primair); Christus-David-cluster; israel-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -5204,8 +5046,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1138`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Translitteratie-David. LXX H1732. NT-Mat 1:1 'biblos geneseōs Iēsou Christou huiou Dauid' opening centraal.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -5298,9 +5138,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √d-a-i. Klassiek-Grieks daimonion. LXX H7700 shed.
-
-**Etymologie:** Klassiek-Grieks daimonion (lager-godheid, demon). Hellenistische context daimōn 'goddelijk-tussenwezen'. NT-pejoratief: demon-onreine-geest. LXX H7700 shed-paar via vertaling.
+**Wortel:** √d-a-i. LXX H7700 shed.
 
 **Basisbetekenis:** demon. Master kiest concordant 'demon' voor alle voorkomens. Range: 1) cluster-bij-daimonion-en-pneuma-akatharton-paar (demon-en-onreine-geest — item 169 paar via G169, ~25x), 2) cluster-bij-Christus-ekballei-daimonia (Christus-werpt-demonen-uit Mat 8:16 — item 1544 paar via G1544), 3) cluster-bij-archōn-tōn-daimoniōn (overste-der-demonen Mat 12:24 — item 758 paar via G758), 4) cluster-bij-daimonion-en-Beelzeboul-paar (Mat 12:24 — item 954 paar via G954), 5) cluster-bij-daimonion-eschatologisch (Op 16:14 'pneumata daimoniōn' — item 4151 paar via G4151).
 
@@ -5329,8 +5167,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1140`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks daimōn (Plato 'goddelijk-tussenwezen' neutraal). LXX-NT-pejoratief: demon-tegenpool-Heilige-Geest.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -5423,9 +5259,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √d-akr. Klassiek-Grieks dakruon. LXX H1832 dimʿah deels-paar.
-
-**Etymologie:** Klassiek-Grieks dakruon (traan), Indo-Europees met Latijn lacrima (l-cognaat-shift). LXX H1832 dimʿah deels-paar. NT-dakruon in drie-velden: berouwsvol-Mar-9-24-en-Lukas-7-38 (vrouw-tranen-voeten-Christus-zalving), pastoraal-Paulus-Hand-20-19-31 (tranen-onder-bediening), en eschatologisch-Op-7-17-21-4 (Yah-wist-elke-traan-af).
+**Wortel:** √d-akr. LXX H1832 dimʿah deels-paar.
 
 **Basisbetekenis:** traan. Master kiest concordant 'traan' voor alle voorkomens. Range: 1) cluster-bij-dakruon-en-klaiō-paar (traan-en-wenen-werkwoord — item 2799 paar via G2799, ~25x), 2) cluster-bij-dakruon-en-klauthmos-paar (traan-en-geween-luid — item 2805 paar via G2805), 3) cluster-bij-vrouw-Lukas-7-38 'tois dakrusin ērxato brechein tous podas autou' Christus-voeten-tranen-zalving (item 5547 paar via G5547, ~10x), 4) cluster-bij-Heb-5-7-Christus-Gethsemane 'meta krauges ischuras kai dakruōn' (item 4151 paar via G4151), 5) cluster-bij-Op-7-17-21-4 'exaleipsei pan dakruon ek tōn ophthalmōn autōn' Yah-Nieuwe-Jeruzalem-finale-troost (item 1242 paar via G1242).
 
@@ -5454,8 +5288,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1144`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met Latijn lacrima d/l-shift. LXX-bron H1832 dimʿah. NT-Op 21:4 finale-eschatologische-troost-Yah-eigenhandig-elk-traan-afwist Nieuwe-Jeruzalem-bedeling-cluster-zonder-rouw-zonder-pijn.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -5548,8 +5380,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** d-e-i. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *d-e-i. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'moet-is-nodig-onpersoonlijk'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (moet-is-nodig-onpersoonlijk); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -5575,8 +5405,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1163`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -5665,8 +5493,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** d-e-i. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *d-e-i. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'tonen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (tonen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -5694,8 +5520,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1166`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -5784,9 +5608,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √d-e-x. Klassiek-Grieks dexios. LXX H3225 yamin.
-
-**Etymologie:** Klassiek-Grieks dexios (rechts). LXX H3225 yamin (~140x). NT-dexios in twee-velden: positioneel-rechts en eer-positie (Mar 16:19 'rechterhand-Yah').
+**Wortel:** √d-e-x. LXX H3225 yamin.
 
 **Basisbetekenis:** rechts, rechter-zijde. Master kiest concordant 'rechts' voor alle voorkomens. Range: 1) cluster-bij-dexios-en-aristeros-paar (rechts-en-links — item 710 paar via G710, ~25x), 2) cluster-bij-en-dexia-tou-theou (aan-de-rechterhand-van-de-Godheid Mar 16:19, Hand 7:55 LXX-Ps 110:1 — item 2316 paar via G2316, ~15x), 3) cluster-bij-Christus-en-dexia (Christus-aan-rechterhand — item 5547 paar via G5547), 4) cluster-bij-Mat-25-eis-ta-dexia (rechts-in-laatste-oordeel-eer-zijde — item 2920 paar via G2920), 5) cluster-bij-dexios-cheir-paar (rechter-hand — item 5495 paar via G5495).
 
@@ -5815,8 +5637,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1188`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks dexios. LXX H3225 yamin. NT-Mar 16:19, Hand 7:55 'aan-rechterhand-Godheid' LXX-Ps 110:1-vervulling Christologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -5913,9 +5733,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √d-e-u-t. Klassiek-Grieks deuteros. LXX H8145 sheni.
-
-**Etymologie:** Klassiek-Grieks deuteros (tweede), van duo (G1417). LXX H8145 sheni (~150x). NT-deuteros in vier-velden: tweede-volgorde, tweede-keer, tweede-dood (Op 20), en deuteros-Adam.
+**Wortel:** √d-e-u-t. LXX H8145 sheni.
 
 **Basisbetekenis:** tweede. Master kiest concordant 'tweede' voor alle voorkomens. Range: 1) cluster-bij-deuteros-en-protos-paar (tweede-en-eerste — item 4413 paar via G4413, ~25x), 2) cluster-bij-Op-20-deuteros-thanatos (tweede-dood — item 2288 paar via G2288, ~5x), 3) cluster-bij-1Co-15-deuteros-anthrōpos (tweede-mens 1Co 15:47 'eerste-Adam-tweede-mens-uit-hemel' — item 444 paar via G444), 4) cluster-bij-deuteros-en-tritos-paar (tweede-en-derde Mat 22:26 — item 5154 paar via G5154), 5) cluster-bij-Heb-9-25-eapax (eens-en-niet-tweede-keer-Christus-offer — item 2378 paar via G2378).
 
@@ -5944,8 +5762,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1208`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks deuteros. LXX H8145 sheni. NT-Op 20:14 deuteros thanatos en 1Co 15:47 deuteros anthrōpos christologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -6043,9 +5859,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √d-i-a-b. Klassiek-Grieks diabolos. LXX H7854 satan-paar.
-
-**Etymologie:** Klassiek-Grieks diabolos (lasteraar, duivel), van diaballō (door-werpen, lasteren). LXX H7854 satan-paar via vertaling. NT-diabolos en satanas synoniem voor tegenstander.
+**Wortel:** √d-i-a-b. LXX H7854 satan-paar.
 
 **Basisbetekenis:** duivel, lasteraar. Master kiest concordant 'duivel' voor alle voorkomens. Range: 1) cluster-bij-diabolos-en-satanas-paar (duivel-en-Satan synoniem — item 7854 paar via G7854, ~25x), 2) cluster-bij-diabolos-Mat-4-verzoeking (Christus-verzoeking-woestijn — item 5547 paar via G5547, ~10x), 3) cluster-bij-diabolos-en-archē-tou-kosmou (Joh 12:31 'archōn-tou-kosmou' — item 746 paar via G746), 4) cluster-bij-Op-12-9-megas-drakōn (grote-draak-diabolos-Satan — item 1404 paar via G1404), 5) cluster-bij-NT-1Pe-5-8-leōn-omoraromenos (rondzwervend-leeuw — item 3023 paar via G3023).
 
@@ -6074,8 +5888,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1228`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks diabolos. Hebreeuws-LXX-bron H7854 satan. NT-Op 12:9 vier-namen-cluster 'megas-drakōn-archaios-ophis-kaloumenos-diabolos-kai-satanas'.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -6169,13 +5981,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 33
 
-**Master-toelichting:** Samenstelling dia (door, tussen) + tithēmi-stam (zetten): tussen-zetting, regeling, verbond, testament. Concordant: 'verbond' bij theologische context (oude / nieuwe verbond), 'testament' bij erfrechtelijke context (Heb 9:16-17 woordspel). Septuaginta gebruikt diathēkē consistent voor Hebreeuws berith. Niet G4934 sunthēkē (samen-zetting, contract tussen gelijken) want diathēkē = beschikking-door-meerdere.
+**Master-toelichting:** Samenstelling dia (door, tussen) + tithēmi-stam (zetten): tussen-zetting, regeling, verbond, testament. Concordant: 'verbond' bij geestelijk gebruik (oude / nieuwe verbond), 'testament' bij erfrechtelijke context (Heb 9:16-17 woordspel). Septuaginta gebruikt diathēkē consistent voor Hebreeuws berith. Niet G4934 sunthēkē (samen-zetting, contract tussen gelijken) want diathēkē = beschikking-door-meerdere.
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √d-i-a-th. Klassiek-Grieks diathēkē. LXX H1285 brit (~285x).
-
-**Etymologie:** Klassiek-Grieks diathēkē (verbond, testament). LXX H1285 brit (~280x). NT-diathēkē centraal-NT-Christus-verbond.
+**Wortel:** √d-i-a-th. LXX H1285 brit (~285x).
 
 **Basisbetekenis:** verbond. Master kiest concordant 'verbond' voor alle voorkomens. Range: 1) cluster-bij-diathēkē-en-LXX-brit-paar (verbond — item 207 paar via H1285, ~25x), 2) cluster-bij-kainē-diathēkē (nieuw-verbond Heb 8:8 LXX-Jer 31:31 — item 2537 paar via G2537, ~10x), 3) cluster-bij-diathēkē-Christou (verbond-Christus — item 5547 paar via G5547), 4) cluster-bij-diathēkē-en-haima-paar (verbond-en-bloed Mat 26:28 'haima tēs diathēkēs' — item 129 paar via G129), 5) cluster-bij-Heb-8-13-palaian-en-kainēn (oud-en-nieuw-verbond — item 3820 paar via G3820).
 
@@ -6204,8 +6014,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1242`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks diathēkē. LXX H1285 brit. NT-Heb 8-10 verbonds-cluster en Mat 26:28 avondmaal-formule.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -6300,9 +6108,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √d-i-a-k. Klassiek-Grieks diakonia. LXX H5656 ʿavodah-paar.
-
-**Etymologie:** Klassiek-Grieks diakonia (dienst), van diakoneō. NT-diakonia centraal vroeg-Christen-bediening.
+**Wortel:** √d-i-a-k. LXX H5656 ʿavodah-paar.
 
 **Basisbetekenis:** dienst. Master kiest concordant 'dienst' voor alle voorkomens. Range: 1) cluster-bij-diakonia-en-diakonos-paar (dienst-en-dienaar — item 1249 paar via G1249, ~25x), 2) cluster-bij-Hand-6-1-diakonia (dagelijkse-bediening-weduwen — item 5503 paar via G5503), 3) cluster-bij-diakonia-tou-logou (dienst-van-het-woord Hand 6:4 — item 3056 paar via G3056), 4) cluster-bij-diakonia-Christou (Eph 4:12 'eis ergon diakonias' — item 5547 paar via G5547), 5) cluster-bij-NT-LXX-bron H5656 ʿavodah-paar.
 
@@ -6331,8 +6137,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1248`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks diakonia. LXX H5656 ʿavodah. NT-Hand 6:1-7 vroege-diakonia-organisatie.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -6429,8 +6233,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** d-i-a. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *d-i-a. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'onderwijzen-leren'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (onderwijzen-leren); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -6456,8 +6258,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1321`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -6544,9 +6344,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √d-i-d-a. Klassiek-Grieks didachē. LXX H8451 torah deels.
-
-**Etymologie:** Klassiek-Grieks didachē (onderwijs), van didaskō (onderwijzen G1321). NT-didachē centraal-Christus-leer en vroege-Christen-onderwijs.
+**Wortel:** √d-i-d-a. LXX H8451 torah deels.
 
 **Basisbetekenis:** onderwijs. Master kiest concordant 'onderwijs' voor alle voorkomens. Range: 1) cluster-bij-didachē-en-didaskō-paar (onderwijs-en-onderwijzen — item 1321 paar via G1321, ~25x), 2) cluster-bij-didachē-Christou (onderwijs-Christus Mat 7:28 — item 5547 paar via G5547, ~10x), 3) cluster-bij-Hand-2-42-didachē-tōn-apostolōn (onderwijs-der-apostelen — item 652 paar via G652), 4) cluster-bij-didachē-en-LXX-bron-paar (item 8451 paar-via H8451 torah), 5) cluster-bij-Mat-16-12-didachē-tōn-Pharisaiōn (Christus-waarschuwing-Farizeeer-onderwijs — item 5330 paar via G5330).
 
@@ -6575,8 +6373,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1322`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks didachē. LXX H8451 torah deels-paar. NT-Mat 7:28 'exeplēssonto epi tē didachē autou'.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -6674,8 +6470,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** d-i-ō. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *d-i-ō. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'geven-overhandigen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (geven-overhandigen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -6701,8 +6495,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1325`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -6789,9 +6581,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √d-i-k. Klassiek-Grieks dikaiosunē. LXX H6664+H6666 tsedeq+tsedaqah. NT-Paulus-Rom 1:17 dikaiosunē-tou-theou kern.
-
-**Etymologie:** Klassiek-Grieks dikaiosunē (gerechtigheid). LXX H6664 tsedeq + H6666 tsedaqah (~250x samen). NT-Paulus-dikaiosunē-tou-theou-Christologie centraal.
+**Wortel:** √d-i-k. LXX H6664+H6666 tsedeq+tsedaqah. NT-Paulus-Rom 1:17 dikaiosunē-tou-theou kern.
 
 **Basisbetekenis:** gerechtigheid. Master kiest concordant 'gerechtigheid' voor alle voorkomens. Range: 1) cluster-bij-dikaiosunē-tou-theou (gerechtigheid-van-de-Godheid Rom 1:17 — item 2316 paar via G2316, ~25x), 2) cluster-bij-dikaiosunē-en-pistis-paar (gerechtigheid-en-geloof Rom 4 — item 4102 paar via G4102, ~25x), 3) cluster-bij-Paulus-rechtvaardigings-cluster (dikaioō G1344 — item 1344 paar via G1344, ~30x), 4) cluster-bij-dikaiosunē-Christus (1Co 1:30 'Christus-Jezus-die-ons-werd-tot-gerechtigheid' — item 5547 paar via G5547), 5) cluster-bij-Mat-Bergrede-dikaiosunē (Mat 5:6, 6:33 — item 932 paar via G932 in koninkrijk-paar).
 
@@ -6820,8 +6610,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1343`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks dikaiosunē. LXX H6664 tsedeq én H6666 tsedaqah (~250x). NT-Paulus-rechtvaardigings-theologie (Rom 1-8) centraal voor reformatie en NT-soteriologie.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -6922,8 +6710,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** d-i-k. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *d-i-k. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'rechtvaardigen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (rechtvaardigen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -6951,8 +6737,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1344`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -7044,8 +6828,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** d-i-ō. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *d-i-ō. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'najagen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (najagen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -7073,8 +6855,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1377`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -7168,9 +6948,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √d-ol. Klassiek-Grieks dolos. LXX H4820 mirmah dominant.
-
-**Etymologie:** Klassiek-Grieks dolos (list, bedrog, valsheid), van dolaō (verleiden-bedriegen). LXX H4820 mirmah dominant-paar. NT-dolos in drie-velden: vleesvruchten-Mar-7-22, Christus-Petrus-Nathanael (Joh 1-47 'en hōi dolos ouk estin'), en Christus-LXX-Jes-53-9-citaat (1Pe 2-22 'oude heurethē dolos en tōi stomati autou').
+**Wortel:** √d-ol. LXX H4820 mirmah dominant.
 
 **Basisbetekenis:** list-bedrog. Master kiest samengesteld concordant 'list-bedrog' voor de juridische-moraal-gelaagdheid. Range: 1) cluster-bij-dolos-en-doloō-paar (list-bedrog-en-bedriegen-werkwoord — item 1389 paar via G1389, ~25x), 2) cluster-bij-dolos-en-pseudos-paar (list-bedrog-en-leugen — item 5582 paar via G5582), 3) cluster-bij-Christus-1Pe-2-22-Jes-53-9-citaat 'hos hamartian ouk epoiēsen oude heurethē dolos en tōi stomati autou' — item 5547 paar via G5547, ~10x), 4) cluster-bij-Christus-Nathanael-Joh-1-47 ('Israelitēs en hōi dolos ouk estin' — item 2474 paar via G2474), 5) cluster-bij-dolos-en-LXX-bron H4820 mirmah (~39x in HB).
 
@@ -7199,8 +6977,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1388`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met dolaō-verleiden-stam. LXX-bron H4820 mirmah. NT-1Pe 2:1 'apothemenoi oun pasan kakian kai panta dolon kai hupokriseis' afleggen-vleesvruchten-cluster.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -7289,13 +7065,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 168
 
-**Master-toelichting:** Klassiek-Grieks 'mening/reputatie', in NT (via LXX voor Hebreeuws kavod) geëvolueerd tot: (1) goddelijke heerlijkheid-zichtbare-glorie (hē doxa kuriou = 'de heerlijkheid des Heren' — zichtbare godsgegenwaardigheid, Ex/Ez-parallel), (2) eer-roem (lambanein doxan = 'eer ontvangen'), (3) pracht-luister (pasa hē doxa autēs = 'al haar pracht'). Doxologie = 'heerlijkheid-toeschrijving'.
+**Master-toelichting:** Doxologie = 'heerlijkheid-toeschrijving'.
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √d-o-x. Tweecletter-stam — doxa van dokeō (denken-schijnen G1380). Stam-cognaat-paar met doxazō (verheerlijken G1392) en endoxos (heerlijk G1741). Klassiek-Grieks 'mening-reputatie' → LXX-doxa-Yah-glorie via Hebreeuws kavod-substraat.
-
-**Etymologie:** Klassiek-Grieks doxa (mening, reputatie, roem), van dokeō. Cognaten: doxazō (verheerlijken), endoxos (geëerd-heerlijk), paradoxos (tegen-mening). LXX-Hebreeuws-tegenhanger H3519 kavod (~200x — heerlijkheid-glorie-zwaarte). NT-doxa dominant in vier-velden: heerlijkheid-Yah (Joh 1:14, Hand 7:55), eer-tegenover-mens (Joh 5:44 doxa-anthrōpōn), christologische-doxa (Joh 17:5 doxa pro tou ton kosmon einai), en eschatologische-doxa-deelhebben.
+**Wortel:** √d-o-x. Tweecletter-stam — doxa van dokeō (denken-schijnen G1380). Stam-cognaat-paar met doxazō (verheerlijken G1392) en endoxos (heerlijk G1741).
 
 **Basisbetekenis:** heerlijkheid, eer. Master kiest concordant 'heerlijkheid' voor alle voorkomens. Range: 1) cluster-bij-doxa-tou-theou (heerlijkheid-van-de-Godheid — item 2316 paar via G2316, ~25x), 2) cluster-bij-doxa-Christus (Joh 17:5 'verheerlijk-Mij-met-de-doxa-die-Ik-bij-U-had-vóór-de-grondlegging' — item 5547 paar via G5547), 3) cluster-bij-doxa-en-time-paar (heerlijkheid-en-eer Heb 2:7 LXX-Ps 8 — item 5092 paar via G5092), 4) cluster-bij-doxazō-Yah (Yah-verheerlijken cult-werkwoord — item 1392 paar via G1392 als wortel-werkwoord), 5) cluster-bij-eschatologische-doxa-delen (Rom 8:18 'doxa-die-aan-ons-zal-geopenbaard-worden' — item 601 paar via G602).
 
@@ -7324,8 +7098,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1391`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks doxa (Homerus 'mening-reputatie', niet 'glorie' in oorspronkelijke-zin). LXX-vertaalkeuze van Hebreeuws kavod (zwaarte-glorie) als doxa is theologische-revolutie: Grieks 'reputatie' wordt nu Joods-Yah-glorie. Hebreeuws-LXX-bron-tegenhanger H3519 kavod (~200x). Aramees yeqar (Daniel-Aramees). Latijn gloria (zelfde-functie, andere wortel). NT-doxa-Christus-Joh 17 ontwikkelt Christus' deelname aan Yah-glorie-vóór-tijds.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -7429,8 +7201,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** d-o-x. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *d-o-x. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'verheerlijken'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (verheerlijken); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -7458,8 +7228,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1392`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -7551,9 +7319,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √d-o-u-l. Klassiek-Grieks doulos. LXX H5650 ʿeved (~800x). Paulus-Christus-doulos-zelfaanduiding.
-
-**Etymologie:** Klassiek-Grieks doulos (slaaf, dienaar). LXX H5650 ʿeved (~800x). NT-doulos in twee-velden: Israel-Yah-doulos en Christ-doulos.
+**Wortel:** √d-o-u-l. LXX H5650 ʿeved (~800x). Paulus-Christus-doulos-zelfaanduiding.
 
 **Basisbetekenis:** slaaf, dienaar. Master kiest concordant 'slaaf' voor alle voorkomens. Range: 1) cluster-bij-doulos-Iesou-Christou (slaaf-van-Christus, Paulus-zelf-aanduiding Rom 1:1, Filp 1:1 — item 5547 paar via G5547, ~10x), 2) cluster-bij-kurios-en-doulos-paar (heer-en-slaaf — item 2962 paar via G2962, ~30x), 3) cluster-bij-doulos-tou-theou (slaaf-van-de-Godheid Op 7:3 — item 2316 paar via G2316), 4) cluster-bij-doulos-en-eleutheros-paar (slaaf-en-vrije Gal 3:28 — item 1658 paar via G1658), 5) cluster-bij-eu-doule-agathe (goede-getrouwe-slaaf Mat 25:21 — item 18 paar via G18).
 
@@ -7582,8 +7348,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1401`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks doulos. Hebreeuws-LXX-bron H5650 ʿeved (~800x). Paulus-Christus-doulos-zelf-aanduiding (Rom 1:1, Filp 1:1, Tit 1:1) is christologisch-belangrijk.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -7684,8 +7448,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** d-u-n. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *d-u-n. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'kunnen-in-staat-zijn'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (kunnen-in-staat-zijn); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -7711,8 +7473,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1410`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -7799,9 +7559,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √d-u-n. Klassiek-Grieks dunamis. LXX H1369 gevurah. NT-dunamis-Yah-en-wonderen.
-
-**Etymologie:** Klassiek-Grieks dunamis (kracht, vermogen). LXX H1369 gevurah, H2428 chayil. NT-dunamis in vier-velden: Yah-kracht, wonderen, geest-kracht, en Christus-dunamis.
+**Wortel:** √d-u-n. LXX H1369 gevurah. NT-dunamis-Yah-en-wonderen.
 
 **Basisbetekenis:** kracht, vermogen. Master kiest concordant 'kracht' voor alle voorkomens. Range: 1) cluster-bij-dunamis-tou-theou (kracht-van-de-Godheid Rom 1:16 — item 2316 paar via G2316, ~30x), 2) cluster-bij-dunamis-en-exousia-paar (kracht-en-volmacht — item 1849 paar via G1849, ~10x), 3) cluster-bij-dunameis-wonderen-Mat (krachten=wonderen Mat 7:22 — item 4592 paar via G4592), 4) cluster-bij-dunamis-pneumatos-hagiou (kracht-van-Heilige-Geest Hand 1:8 — item 4151 paar via G4151), 5) cluster-bij-Christus-dunamis-theou (1Co 1:24 — item 5547 paar via G5547).
 
@@ -7830,8 +7588,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1411`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks dunamis. Hebreeuws-LXX-bron H1369 gevurah én H2428 chayil. NT-Hand 1:8 dunamis-pneumatos-hagiou is centrale Pinkster-formule.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -7930,9 +7686,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √d-u-n. Klassiek-Grieks dunatos. LXX H1369 gevurah-paar.
-
-**Etymologie:** Klassiek-Grieks dunatos (machtig, in-staat), van dunamai. NT-dunatos in twee-velden: machtig-Yah en machtig-mens.
+**Wortel:** √d-u-n. LXX H1369 gevurah-paar.
 
 **Basisbetekenis:** machtig, in-staat. Master kiest concordant 'machtig' voor alle voorkomens. Range: 1) cluster-bij-dunatos-en-dunamis-paar (machtig-en-kracht — item 1411 paar via G1411, ~25x), 2) cluster-bij-Yah-dunatos (Luc 1:49 'dunatos-Yah-grote-dingen' — item 2316 paar via G2316, ~10x), 3) cluster-bij-Christus-dunatos (Luc 24:19 'prophētēs-dunatos-en-ergō-kai-logō' — item 5547 paar via G5547), 4) cluster-bij-dunatos-en-asthenes-paar (machtig-en-zwak Rom 15:1 — item 772 paar via G772), 5) cluster-bij-dunatos-en-LXX-bron H1369 gevurah-paar.
 
@@ -7961,8 +7715,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1415`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks dunatos. LXX H1369 gevurah. NT-Luc 1:49 Magnificat 'dunatos epoiesen moi megala'.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -8059,9 +7811,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √d-u. Klassiek-Grieks duo. LXX H8147 shenayim. NT-narratief-paar.
-
-**Etymologie:** Klassiek-Grieks duo (twee). LXX H8147 shenayim (~770x). NT-duo dominant in narratief-paar (twee-discipelen, twee-getuigen) en symbolisch (twee-of-drie-bijeen Mat 18:20).
+**Wortel:** √d-u. LXX H8147 shenayim. NT-narratief-paar.
 
 **Basisbetekenis:** twee. Master kiest concordant 'twee' voor alle voorkomens. Range: 1) cluster-bij-duo-discipelen-uitgezonden (Mar 6:7 'twee-aan-twee' — item 3100 paar via G3100), 2) cluster-bij-duo-en-treis-paar (twee-of-drie Mat 18:20 — item 5140 paar via G5140), 3) cluster-bij-duo-martures (twee-getuigen Mat 18:16 LXX-Deu 19:15 — item 3144 paar via G3144), 4) cluster-bij-duo-aer-in-een-mat (Mat 24:40-41 — item 444 paar via G444), 5) cluster-bij-duo-elaiai (twee-olijfbomen Op 11:4 — item 1636 paar via G1636).
 
@@ -8090,8 +7840,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1417`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks duo (Indo-Europese-cognaten Latijn duo, Sanskriet dva, Engels two). Hebreeuws-LXX H8147 shenayim. NT-Mat 18 'twee-of-drie-bijeen-in-mijn-naam' is centrale-gemeente-formule.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -8188,9 +7936,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √d-o-d. Klassiek-Grieks dōdeka. LXX H8147+H6235.
-
-**Etymologie:** Klassiek-Grieks dōdeka (twaalf). LXX H8147+H6235 shenayim+ʿesreth (~520x). NT-dōdeka centraal: 12-apostelen, 12-stammen-Israel, 12-poorten Op 21.
+**Wortel:** √d-o-d. LXX H8147+H6235.
 
 **Basisbetekenis:** twaalf. Master kiest concordant 'twaalf' voor alle voorkomens. Range: 1) cluster-bij-dōdeka-apostoloi (twaalf-apostelen Mat 10:2 — item 652 paar via G652, ~10x), 2) cluster-bij-dōdeka-phulai-Israel (twaalf-stammen-Israel Mat 19:28 — item 5443 paar via G5443), 3) cluster-bij-dōdeka-thronoi (twaalf-tronen Mat 19:28 — item 2362 paar via G2362), 4) cluster-bij-dōdeka-pulōnai-Op-21 (twaalf-poorten Op 21:12 — item 4440 paar via G4440), 5) cluster-bij-dōdeka-jaren-Mar-5-25 (twaalf-jaar-bloedvloeiing — item 2094 paar via G2094).
 
@@ -8219,8 +7965,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1427`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks dōdeka. LXX shenayim-ʿasarah-formule. NT-Mat 19:28 twaalf-tronen-twaalf-stammen-eschatologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -8314,8 +8058,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-g-i. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-g-i. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'wekken-opwekken'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (wekken-opwekken); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -8341,8 +8083,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1453`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -8431,8 +8171,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √e-th-n. Drie-radicaal-stam — ethnos van ethos (gewoonte G1485) → 'mensen-met-gemeenschappelijke-gewoonte = volk-natie'. Stam-cognaat-paar met ethnikos (heidens G1482) en ethnarchēs (volksleider G1481).
 
-**Etymologie:** Klassiek-Grieks ethnos (volk, natie, klasse-mensen — neutraal-collectief). LXX-Hebreeuws-tegenhanger H1471 goy (~560x — natie, vooral heidense-natiën-tegenover-Israel-volk). NT-ethnos in twee-velden: heidense-natiën-tegenover-Israel (panta ta ethnē = alle-volken, missie-mandaat Mat 28:19), en ethnos-Israel als eigen-natie (Joh 11:50-52 'om-het-volk' = Israel).
-
 **Basisbetekenis:** volk, natie. Master kiest concordant 'volk-natie' voor alle voorkomens. Range: 1) cluster-bij-panta-ta-ethnē (alle-volken, missie-mandaat Mat 28:19 — item 3956 paar via G3956), 2) cluster-bij-ethnē-en-laos-paar (heidense-natiën-tegenover-Yah-volk — item 2992 paar via G2992, ~30x), 3) cluster-bij-hupakoē-pisteōs-en-pasin-tois-ethnesin (Rom 1:5 'gehoor-zaamheid-van-geloof-onder-alle-volken' — item 4102 paar via G4102), 4) cluster-bij-Paulus-apostolos-ethnōn (Paulus-apostel-der-volken Rom 11:13 — item 652 paar via G652), 5) cluster-bij-mētēr-ethnōn (moeder-der-natiën Op 17:5 — item 3137 paar via G3384 mētēr).
 
 **Semantische velden:** alle-volken-missie-mandaat-cluster (primair); ethnē-en-laos-paar-cluster; hupakoē-pisteōs-onder-volken-cluster; Paulus-apostolos-ethnōn-cluster; mētēr-ethnōn-Op-17-cluster.
@@ -8460,8 +8198,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1484`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks ethnos (Homerus 'menigte-mensen', later 'natie-stam-volk'). Hebreeuws-LXX-bron-tegenhanger H1471 goy (~560x — universele-natie, ook vaak heidense-natie tegenover Israel). Aramees ammema (Daniel-Aramees). Latijn natio (zelfde-functie, andere wortel). NT-Paulus-ethnē-Christologie ontwikkelt nieuwe theologische-betekenis: heidense-natiën-erfgenamen-met-Israel (Eph 3:6 sunklēronoma-en-summetocha).
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -8565,8 +8301,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-i. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-i. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'jij-bent'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (jij-bent); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -8594,8 +8328,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1488`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -8683,8 +8415,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-i-d. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-i-d. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'zien-waarnemen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (zien-waarnemen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -8712,8 +8442,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1492`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -8806,8 +8534,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-i-m. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-i-m. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'zijn-existentieel'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (zijn-existentieel); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -8833,8 +8559,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1510`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -8923,8 +8647,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-i-n. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-i-n. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'zijn-infinitief'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (zijn-infinitief); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -8952,8 +8674,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1511`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -9044,9 +8764,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √e-i-r. Klassiek-Grieks eirēnē. LXX H7965 shalom (~250x). NT-Paulus-charis-eirēnē-opening.
-
-**Etymologie:** Klassiek-Grieks eirēnē (vrede, gemoedsrust). LXX H7965 shalom (~250x). NT-Paulus-charis-kai-eirēnē formule en Joh-14-27 'mijn-vrede-laat-Ik-jullie'.
+**Wortel:** √e-i-r. LXX H7965 shalom (~250x). NT-Paulus-charis-eirēnē-opening.
 
 **Basisbetekenis:** vrede. Master kiest concordant 'vrede' voor alle voorkomens. Range: 1) cluster-bij-charis-kai-eirēnē (Paulus-brief-opening — item 5485 paar via G5485, ~15x), 2) cluster-bij-eirēnē-Christou (Joh 14:27 'mijn-vrede-laat-Ik-jullie' — item 5547 paar via G5547), 3) cluster-bij-eirēnē-tou-theou (vrede-van-de-Godheid Filp 4:7 — item 2316 paar via G2316), 4) cluster-bij-eirēnopoieō (vrede-stichten Mat 5:9 — item 1518 paar via G1518), 5) cluster-bij-shalom-LXX-bron-via-shalom (item 7965 paar-via-LXX, frequent in Joh-Heb).
 
@@ -9075,8 +8793,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1515`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks eirēnē (Hesiodus-Eirene godin-van-vrede). LXX H7965 shalom (~250x — vrede én totale-welzijn). NT-eirēnē-Christou-vrede (Joh 14:27, 16:33) ontwikkelt theologische-Yeshua-vrede-belofte.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -9175,9 +8891,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √h-e-n. Tweecletter-stam — heis is primair telwoord 'één'. Stam in oudste laag van Indo-Europees numeriek-vocabulair (PIE *sem- 'samen-één', vergelijk Latijn semel, Sanskriet sa-, Engels same). Stam-cognaat-paar met henotes (eenheid G1775) en monogenes (eniggeboren G3439).
-
-**Etymologie:** Klassiek-Grieks heis-mia-hen (één in m/v/o-flexie). Cognaten: heis, hen-onzijdig, mia-vrouwelijk. LXX-Hebreeuws-tegenhanger H259 echad (~970x). NT-heis dominant in drie-velden: numeriek-één, uniciteits-formule (heis theos = één-Godheid 1Co 8:6), en distributief (heis hekastos = ieder-één).
+**Wortel:** √h-e-n. Tweecletter-stam — heis is primair telwoord 'één'. Stam-cognaat-paar met henotes (eenheid G1775) en monogenes (eniggeboren G3439).
 
 **Basisbetekenis:** één. Master kiest concordant 'één' voor alle voorkomens. Range: 1) cluster-bij-heis-theos (één-Godheid, monotheisme — item 2316 paar via G2316, ~10x in 1Co 8:6 e.a.), 2) cluster-bij-heis-kurios (één-Heer, Eph 4:5 — item 2962 paar via G2962), 3) cluster-bij-heis-mediator (één-Bemiddelaar, 1Ti 2:5 — item 3316 paar via G3316), 4) cluster-bij-heis-soma (één-lichaam, Paulus-eenheid 1Co 12:13 — item 4983 paar via G4983), 5) cluster-bij-heis-pisitis-baptisma (één-geloof-één-doop, Eph 4:5 — item 4102 paar via G4102 in eenheids-formule).
 
@@ -9206,8 +8920,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1520`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks heis (Homerus en later). Latijn unus (andere wortel). Sanskriet eka (één-uniek, andere wortel). Hebreeuws-LXX-bron-tegenhanger H259 echad (~970x — telwoord-één én uniciteits-aanduiding). Aramees chad (Daniel-Aramees). NT-monotheistische-formules (1Co 8:6, Eph 4:4-6) volgen Hebreeuws-shemaʿ-Yisrael-traditie (Deu 6:4 yhwh-elohim-yhwh-echad LXX kurios-ho-theos-kurios-heis).
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -9310,8 +9022,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-i-s. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-i-s. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'binnengaan-ingaan'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (binnengaan-ingaan); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -9339,8 +9049,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1525`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -9430,8 +9138,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-i-s. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-i-s. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'zijn-zij-zijn'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (zijn-zij-zijn); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -9459,8 +9165,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1526`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -9553,8 +9257,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-k-b. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-k-b. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'uitwerpen-uitdrijven'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (uitwerpen-uitdrijven); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -9582,8 +9284,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1544`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -9669,9 +9369,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √e-k-e-i. Klassiek-Grieks ekei. LXX H8033 sham. NT-Mat 18:20 'daar-ben-Ik-in-hun-midden'.
-
-**Etymologie:** Klassiek-Grieks ekei (daar, op-die-plaats). LXX H8033 sham (~820x). NT-ekei plaats-bijwoord-narratief.
+**Wortel:** √e-k-e-i. LXX H8033 sham. NT-Mat 18:20 'daar-ben-Ik-in-hun-midden'.
 
 **Basisbetekenis:** daar, op-die-plaats. Master kiest concordant 'daar' voor alle voorkomens. Range: 1) cluster-bij-ekei-narratief (Mat-frequent 'daar-ginds' — item 4172 paar via G4172, ~80x), 2) cluster-bij-ekei-Christus-aanwezig (Mat 18:20 'waar-twee-of-drie... daar-ben-ik' — item 5547 paar via G5547), 3) cluster-bij-ekei-en-hopou-paar (daar-waar — item 3699 paar via G3699, ~25x), 4) cluster-bij-ekei-Yah-name (Mat 1:21 etc. 'daar' geboorte-context — item 2316 paar via G2316), 5) cluster-bij-ekei-eschatologisch-Op (Op 7:9 'daar-stond-een-grote-menigte' — item 4128 paar via G4128).
 
@@ -9700,8 +9398,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1563`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks ekei. LXX H8033 sham (~820x). NT-Mat 18:20 'waar-twee-of-drie-bijeen-daar-Ik-in-midden'-Yeshua-aanwezigheid is centraal.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -9792,13 +9488,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 118
 
-**Master-toelichting:** Letterlijk 'uit-geroepenen' (ek + kaleō — vergadering bijeengeroepen), Hellenistisch-klassiek reeds term voor burgerlijke volksvergadering (Hand 19:32). In NT theologisch: (1) lokale gemeente (hē ekklēsia hē en Korinthōi = 'de gemeente te Korinthe'), (2) universele-Kerk-Lichaam-van-Christus (hē ekklēsia, Ef 1:22-23), (3) volksvergadering-neutraal (Hand 19). Nuance 'uitgeroepenen' bewaart oorsprong, 'gemeente' courant-vertaling.
+**Master-toelichting:** Letterlijk 'uit-geroepenen' (ek + kaleō — vergadering bijeengeroepen), ook gebruikt voor een burgerlijke volksvergadering (Hand 19:32). In NT: (1) lokale gemeente (hē ekklēsia hē en Korinthōi = 'de gemeente te Korinthe'), (2) universele-Kerk-Lichaam-van-Christus (hē ekklēsia, Ef 1:22-23), (3) volksvergadering-neutraal (Hand 19). Nuance 'uitgeroepenen' bewaart oorsprong, 'gemeente' courant-vertaling.
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √e-k-k-l. Klassiek-Grieks ekklēsia. LXX H6951 qahal. NT-ekklēsia-Christou centraal-NT-ontwikkeling.
-
-**Etymologie:** Klassiek-Grieks ekklēsia (vergaderde-stad-bijeenkomst van ek+kaleō 'uit-geroepen'). LXX H6951 qahal (~125x) en H5712 ʿedah. NT-ekklēsia centraal: gemeente-Christus.
+**Wortel:** √e-k-k-l. LXX H6951 qahal. NT-ekklēsia-Christou centraal-NT-ontwikkeling.
 
 **Basisbetekenis:** gemeente, vergadering. Master kiest concordant 'gemeente' voor alle voorkomens. Range: 1) cluster-bij-ekklēsia-Christou (gemeente-van-Christus Mat 16:18 — item 5547 paar via G5547, ~25x), 2) cluster-bij-ekklēsia-tou-theou (gemeente-van-de-Godheid 1Co 1:2 — item 2316 paar via G2316, ~10x), 3) cluster-bij-ekklēsiai-tōn-hagiōn (gemeenten-van-de-heiligen 1Co 14:33 — item 40 paar via G40), 4) cluster-bij-Op-2-3-aggelos-tēs-ekklēsias (engel-der-gemeente — item 32 paar via G32), 5) cluster-bij-ekklēsia-sōma-Christou (gemeente-lichaam-van-Christus Eph 1:23 — item 4983 paar via G4983).
 
@@ -9827,8 +9521,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1577`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks ekklēsia (Atheense polis-vergadering). Hebreeuws-LXX-bron H6951 qahal én H5712 ʿedah. NT-ekklēsia-Christou (Mat 16:18) ontwikkelt nieuwe-theologische-betekenis: lichaam-van-Christus.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -9929,8 +9621,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-k-p. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-k-p. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'uit-vallen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (uit-vallen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -9958,8 +9648,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1601`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -10048,8 +9736,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-k-c. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-k-c. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'uit-storten'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (uit-storten); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -10077,8 +9763,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1632`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -10165,9 +9849,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √en-i-aut. Klassiek-Grieks eniautos. LXX H8141 shanah dominant.
-
-**Etymologie:** Klassiek-Grieks eniautos (jaar, jaar-kring), Indo-Europees met enos (in-zelf) cyclus-aanduiding. LXX H8141 shanah dominant-paar. NT-eniautos in drie-velden: hogepriester-jaarlijks (Heb 9-7, 9-25, 10-1, 10-3 'kat eniauton'), kalender-jaar (Lukas 4-19 'eniauton kuriou dekton' Christus-Jes-61-citaat), en cult-feest-jaar.
+**Wortel:** √en-i-aut. LXX H8141 shanah dominant.
 
 **Basisbetekenis:** jaar-kring. Master kiest samengesteld concordant 'jaar-kring' om af te grenzen van etos (lineair-jaar). Range: 1) cluster-bij-eniautos-en-etos-paar (cyclisch-jaar-en-lineair-jaar vaste-doublet — item 2094 paar via G2094, ~25x), 2) cluster-bij-eniautos-en-kairos-paar (jaar-kring-en-tijd — item 2540 paar via G2540), 3) cluster-bij-Christus-Lukas-4-19-Jes-61-2-citaat ('eniauton kuriou dekton' = welbehagen-jaar Christus-zelfaankondiging — item 5547 paar via G5547, ~10x), 4) cluster-bij-Heb-9-7-hogepriester-Yom-Kippur-jaarlijks 'kat eniauton... eis tēn deuteran ... hapax tou eniautou' (item 749 paar via G749), 5) cluster-bij-eniautos-en-LXX-bron H8141 shanah.
 
@@ -10196,8 +9878,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1763`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met en+autos cyclus-binnen-zichzelf. LXX-bron H8141 shanah. NT-Lukas 4:19 Christus-Nazareth-synagoge-Jes-61-rolopen-Messiaans-zelfaankondiging-eniautos-kuriou-dekton-Jubeljaar-typologie.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -10288,9 +9968,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √e-n-t-o-l. Klassiek-Grieks entolē. LXX H4687 mitsvah.
-
-**Etymologie:** Klassiek-Grieks entolē (gebod-bevel), van entellomai (bevelen). LXX H4687 mitsvah (~180x). NT-entolē in twee-velden: OT-geboden en entolē-Christus.
+**Wortel:** √e-n-t-o-l. LXX H4687 mitsvah.
 
 **Basisbetekenis:** gebod, bevel. Master kiest concordant 'gebod' voor alle voorkomens. Range: 1) cluster-bij-entolai-tou-theou (geboden-van-de-Godheid 1Jo 5:3 — item 2316 paar via G2316, ~25x), 2) cluster-bij-entolē-kainē (nieuw-gebod Joh 13:34 — item 2537 paar via G2537), 3) cluster-bij-entolē-en-nomos-paar (gebod-en-wet — item 3551 paar via G3551, ~10x), 4) cluster-bij-megalē-entolē (groot-gebod Mat 22:36 — item 3173 paar via G3173), 5) cluster-bij-entolē-Christou (1Jo 3:23 'dit-is-zijn-gebod' — item 5547 paar via G5547).
 
@@ -10319,8 +9997,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1785`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks entolē. LXX H4687 mitsvah. NT-Joh 13:34 'entolē kainē' en 1Jo-cluster centraal.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -10421,8 +10097,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-x-r. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-x-r. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'uitgaan-uittrekken'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (uitgaan-uittrekken); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -10450,8 +10124,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1831`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -10545,8 +10217,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-x-o. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-x-o. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'openlijk-belijden'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (openlijk-belijden); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -10574,8 +10244,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1843`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -10661,9 +10329,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √e-x. Klassiek-Grieks exousia. LXX H4910 mashal-derivaten. NT-Christus-volmacht en Joh-exousia-tot-kinderen-worden.
-
-**Etymologie:** Klassiek-Grieks exousia (volmacht-gezag). LXX H4910 mashal-derivaten. NT-exousia in vier-velden: politieke-macht, Christus-volmacht, geestelijke-overheden, en gemeente-volmacht.
+**Wortel:** √e-x. LXX H4910 mashal-derivaten. NT-Christus-volmacht en Joh-exousia-tot-kinderen-worden.
 
 **Basisbetekenis:** volmacht, gezag. Master kiest concordant 'volmacht' voor alle voorkomens. Range: 1) cluster-bij-Christus-exousia (Christus-volmacht Mat 28:18 — item 5547 paar via G5547, ~25x), 2) cluster-bij-exousia-en-dunamis-paar (volmacht-en-kracht Luc 4:36 — item 1411 paar via G1411), 3) cluster-bij-exousiai-overheden (overheden-Rom 13:1 — item 758 paar via G758), 4) cluster-bij-exousia-tou-skotous (volmacht-der-duisternis Luc 22:53 — item 4655 paar via G4655), 5) cluster-bij-Yah-gaf-exousia (Joh 1:12 'gaf-volmacht-tot-kinderen-Yah-te-worden' — item 2316 paar via G2316).
 
@@ -10692,8 +10358,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1849`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks exousia (Atheense politiek). Hebreeuws-LXX-bron H4910 mashal-derivaten. NT-Mat 28:18 'edothē moi pasa exousia' (Mij-is-gegeven-alle-volmacht) is centraal-christologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -10792,9 +10456,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √e-x-o. Klassiek-Grieks exō. LXX H2351 chuts.
-
-**Etymologie:** Klassiek-Grieks exō (buiten). LXX H2351 chuts-derivaat (~165x). NT-exō plaats-bijwoord en eschatologisch-exō (Mat 25:30 'in-de-buitenste-duisternis-uitwerpen').
+**Wortel:** √e-x-o. LXX H2351 chuts.
 
 **Basisbetekenis:** buiten. Master kiest concordant 'buiten' voor alle voorkomens. Range: 1) cluster-bij-exō-en-eso-paar (buiten-en-binnen — item 2080 paar via G2080, ~25x), 2) cluster-bij-exō-tēs-poleōs (buiten-de-stad-context Heb 13:12 Christus-buiten-poort-geleden — item 4172 paar via G4172), 3) cluster-bij-eis-to-skotos-to-exōteron (in-de-buitenste-duisternis-werpen Mat 8:12, 22:13, 25:30 — item 4655 paar via G4655), 4) cluster-bij-exō-balō (uitwerpen Joh 6:37 'wie-tot-Mij-komt-zal-Ik-niet-uitwerpen' — item 906 paar via G906), 5) cluster-bij-exō-stas (buiten-staan Mat 12:46 — item 2476 paar via G2476).
 
@@ -10823,8 +10485,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1854`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks exō. LXX H2351 chuts. NT-Mat 8:12, 22:13, 25:30 'eis-to-skotos-to-exōteron' (in-buitenste-duisternis-werpen) eschatologisch-belangrijk.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -10922,8 +10582,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-p-i. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-p-i. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'be-geren'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (be-geren); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -10951,8 +10609,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1937`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -11038,13 +10694,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 39
 
-**Master-toelichting:** Samenstelling epi (op, toe) + strephō (draaien): zich-toekeren, omkeren. Concordant: 'om-keren' waar stam-getrouw, 'bekeren' bij theologische context. Onderscheid van G3340 metanoeō (van-mening-veranderen) — epistrephō is de richting-verandering-handeling, metanoeō is de denk-verandering. Beide vaak 'bekeren'.
+**Master-toelichting:** Samenstelling epi (op, toe) + strephō (draaien): zich-toekeren, omkeren. Concordant: 'om-keren' waar stam-getrouw, 'bekeren' bij geestelijk gebruik. Onderscheid van G3340 metanoeō (van-mening-veranderen) — epistrephō is de richting-verandering-handeling, metanoeō is de denk-verandering. Beide vaak 'bekeren'.
 
 ## B. Wortel-analyse (anker 1)
 
 **Wortel:** e-p-i. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
-
-**Etymologie:** Proto-Semitisch *e-p-i. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
 
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'om-keren'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
@@ -11073,8 +10727,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G1994`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -11167,8 +10819,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-i-p. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-i-p. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'zei-aorist-spreken'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (zei-aorist-spreken); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -11196,8 +10846,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2036`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -11290,8 +10938,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-r-g. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-r-g. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'werken'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (werken); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -11319,8 +10965,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2038`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -11413,9 +11057,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √er-g. Tweecletter-stam — ergon van ergazomai (werken G2038). Stam-cognaat-paar met energeia (G1753 'in-werking') en ergates (G2040 'werker'). Stam in oudste laag van Indo-Europees arbeids-vocabulair (PIE *werǵ- 'werken').
-
-**Etymologie:** Klassiek-Grieks ergon (werk, daad, prestatie), van ergazomai. Cognaten: energeia (in-werking), ergates (werker), energēs (werkzaam). LXX-Hebreeuws-tegenhanger H4639 maaseh (~235x), H4399 melakhah (~165x). NT-ergon dominant in vier-velden: vervaardigde-arbeid, daad-handeling, Yah's werken (Joh 5:36 erga tou patros), en Paulus' erga-nomou (werken-der-wet) tegenover pistis.
+**Wortel:** √er-g. Tweecletter-stam — ergon van ergazomai (werken G2038). Stam-cognaat-paar met energeia (G1753 'in-werking') en ergates (G2040 'werker').
 
 **Basisbetekenis:** werk, daad. Master kiest concordant 'werk' voor alle voorkomens. Range: 1) cluster-bij-erga-tou-theou (werken-van-de-Godheid Joh 5:36 — item 2316 paar via G2316, ~25x), 2) cluster-bij-erga-nomou (werken-der-wet, Paulus rechtvaardigings-context — item 3551 paar via G3551, ~10x in Rom-Gal), 3) cluster-bij-erga-en-pistis-paar (werken-en-geloof Jak 2 — item 4102 paar via G4102, ~10x), 4) cluster-bij-kala-erga (goede-werken Mat 5:16 — item 2570 paar via G2570), 5) cluster-bij-erga-Christou (Christus-werken Mat 11:2 — item 5547 paar via G5547).
 
@@ -11444,8 +11086,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2041`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks ergon (Homerus en later, voor arbeid en prestatie). Indo-Europese-cognaten Engels work, Duits Werk, Iers ferc. Hebreeuws-LXX-bron-tegenhanger H4639 maaseh (~235x — werk-resultaat) en H4399 melakhah (~165x — werk-bezigheid). Aramees ʿavidah (Daniel-Aramees). Latijn opus (zelfde-functie, andere wortel). NT-Paulus-erga-nomou (werken-der-wet) ontwikkelt nieuwe theologische-betekenis tegenover OT-Joods-werken-van-de-wet als verbond-trouw.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -11549,8 +11189,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-r-ō. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-r-ō. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'zeggen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (zeggen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -11578,8 +11216,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2046`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -11668,9 +11304,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √e-r-e-m. Klassiek-Grieks erēmos (Homerus 'eenzaam-woest'). LXX H4057b midbar.
-
-**Etymologie:** Klassiek-Grieks erēmos (eenzaam, woest, woestijn). LXX H4057b midbar (~270x). NT-erēmos in twee-velden: geografisch-woestijn (Mat 4 verzoeking) en metaforisch-woest.
+**Wortel:** √e-r-e-m. LXX H4057b midbar.
 
 **Basisbetekenis:** woestijn, eenzaam. Master kiest concordant 'woestijn' voor alle voorkomens. Range: 1) cluster-bij-Mat-4-erēmos-Christus-verzoeking (Mat 4:1 'in-de-woestijn' — item 5547 paar via G5547, ~10x), 2) cluster-bij-erēmos-en-oros-paar (woestijn-en-berg — item 3735 paar via G3735), 3) cluster-bij-Iōannēs-erēmos-prediking (Mat 3:1 'Johannes-prediking-in-woestijn' — item 2491 paar via G2491), 4) cluster-bij-Op-12-erēmos-vrouw (Op 12:6 'vrouw-vlucht-in-woestijn' — item 1135 paar via G1135), 5) cluster-bij-fonē-bowntos-en-tē-erēmō (stem-roepende-in-de-woestijn Mar 1:3 LXX-Jes 40:3 — item 5456 paar via G5456).
 
@@ -11699,8 +11333,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2048`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks erēmos. LXX H4057b midbar (~270x). NT-Mat 4 Christus-verzoeking-cluster en Joh-de-Doper-prediking-Mar 1:3 LXX-Jes 40:3.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -11795,8 +11427,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-r-c. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-r-c. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'komen-gaan'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (komen-gaan); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -11822,8 +11452,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2064`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -11912,8 +11540,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-s-o. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-s-o. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'zal-zijn-futurum'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (zal-zijn-futurum); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -11941,8 +11567,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2071`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -12035,8 +11659,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-s-t. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-s-t. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'is-hij-is'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (is-hij-is); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -12064,8 +11686,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2076`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -12156,9 +11776,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √e-s-ch. Klassiek-Grieks eschatos. LXX H319 acharit.
-
-**Etymologie:** Klassiek-Grieks eschatos (laatste). LXX H319 acharit en H310 achar-derivaat. NT-eschatos in eschatologische-context.
+**Wortel:** √e-s-ch. LXX H319 acharit.
 
 **Basisbetekenis:** laatste. Master kiest concordant 'laatste' voor alle voorkomens. Range: 1) cluster-bij-eschatos-en-prōtos-paar (laatste-en-eerste Mat 19:30, 20:16 — item 4413 paar via G4413, ~25x), 2) cluster-bij-eschatē-hēmera (laatste-dag Joh 6:39-40-44-54 — item 2250 paar via G2250, ~7x), 3) cluster-bij-eschatos-Adam (1Co 15:45 'laatste-Adam = Christus' — item 76 paar via G76), 4) cluster-bij-en-tais-eschatais-hēmerais (in-de-laatste-dagen Hand 2:17 LXX-Joel — item 2250 paar via G2250), 5) cluster-bij-eschatos-en-prōtos-Christus (Op 1:17 'Ik-ben-de-Eerste-en-de-Laatste' — item 5547 paar via G5547).
 
@@ -12187,8 +11805,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2078`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks eschatos (Homerus en later). LXX H319 acharit. NT-Op 1:17 'egō eimi ho prōtos kai ho eschatos' (Ik-ben-de-Eerste-en-de-Laatste) centraal-Christologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -12286,9 +11902,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √e-t. Klassiek-Grieks eti. LXX H5750 ʿod.
-
-**Etymologie:** Klassiek-Grieks eti (nog, verder). LXX H5750 ʿod (~490x). NT-eti in tijds-deeltje 'nog'.
+**Wortel:** √e-t. LXX H5750 ʿod.
 
 **Basisbetekenis:** nog, verder. Master kiest concordant 'nog' voor alle voorkomens. Range: 1) cluster-bij-eti-narratief (nog-zonder-iets Mat 12:46 — item 4133 paar via G4133, ~30x), 2) cluster-bij-eti-en-palin-paar (nog-en-wederom — item 3825 paar via G3825), 3) cluster-bij-eti-eschatologisch-Heb (Heb 12:26 'nog-eenmaal' LXX-Hag 2:6 — item 530 paar via G530), 4) cluster-bij-eti-bestaan-Yah (Op 16:5 'die-is-en-die-was-en-eti-die-komt' — item 2316 paar via G2316), 5) cluster-bij-eti-niet-meer-Op (Op 21:1 'eti-de-zee-was-niet-meer' — item 3756 paar via G3756).
 
@@ -12317,8 +11931,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2089`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks eti. LXX H5750 ʿod (~490x). NT-Heb 12:26 LXX-Hag 2:6 'nog-eenmaal-zal-ik-bewegen-niet-alleen-de-aarde-maar-ook-de-hemel'.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -12417,8 +12029,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** h-e-t. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *h-e-t. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'bereid-maken'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (bereid-maken); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -12446,8 +12056,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2090`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -12535,9 +12143,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √e-t. Klassiek-Grieks etos. LXX H8141 shanah (~880x).
-
-**Etymologie:** Klassiek-Grieks etos (jaar). LXX H8141 shanah (~880x). NT-etos in twee-velden: tijds-eenheid en eschatologische-jaren (Op 20).
+**Wortel:** √e-t. LXX H8141 shanah (~880x).
 
 **Basisbetekenis:** jaar. Master kiest concordant 'jaar' voor alle voorkomens. Range: 1) cluster-bij-etē-narratief (Luc 2:42 'twaalf-jaren' — item 1427 paar via G1427, ~25x), 2) cluster-bij-chilia-etē (duizend-jaren Op 20:2-7 — item 5507 paar via G5507), 3) cluster-bij-etos-en-hēmera-paar (jaar-en-dag — item 2250 paar via G2250), 4) cluster-bij-eniautos-en-etos-paar (jaarcyclus-en-jaar — item 1763 paar via G1763), 5) cluster-bij-Christus-30-etē (Luc 3:23 'Jezus-was-ongeveer-30-jaar' — item 5547 paar via G5547).
 
@@ -12566,8 +12172,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2094`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks etos. LXX H8141 shanah. NT-Op 20 chilia-etē (duizend-jaren) eschatologisch-debat.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -12665,8 +12269,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-u-a. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-u-a. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'goed-boodschappen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (goed-boodschappen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -12694,8 +12296,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2097`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -12783,13 +12383,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 77
 
-**Master-toelichting:** Letterlijk 'goede-boodschap' (eu + angelion): Hellenistisch-origineel politiek-term voor keizers-triomf-bericht, in NT-technisch voor het Christus-heil-bericht: (1) euangelion tēs basileias = 'evangelie van het koninkrijk' (synoptici), (2) to euangelion tou Christou = 'het evangelie van Christus' (Paulinisch), (3) to euangelion tou theou = 'het evangelie van God'. Kern van apostolische-kerugma. Stamfamilie G2097 euangelizō (evangelie-verkondigen), G2099 euangelistēs (evangelist).
+**Master-toelichting:** Letterlijk 'goede-boodschap' (eu + angelion): in NT-technisch voor het Christus-heil-bericht: (1) euangelion tēs basileias = 'evangelie van het koninkrijk' (synoptici), (2) to euangelion tou Christou = 'het evangelie van Christus' (Paulinisch), (3) to euangelion tou theou = 'het evangelie van God'. Kern van apostolische-kerugma. Stamfamilie G2097 euangelizō (evangelie-verkondigen), G2099 euangelistēs (evangelist).
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √e-u-a-n. Klassiek-Grieks euangelion. NT-Christen-centraal.
-
-**Etymologie:** Klassiek-Grieks euangelion (goed-bericht), van eu+angelion. LXX-Hebreeuws-substraat H1319 basar (10x). NT-euangelion centrale-Christen-term.
+**Wortel:** √e-u-a-n. NT-Christen-centraal.
 
 **Basisbetekenis:** evangelie, goed-bericht. Master kiest concordant 'evangelie' voor alle voorkomens. Range: 1) cluster-bij-euangelion-Christou (evangelie-van-Christus Mar 1:1 — item 5547 paar via G5547, ~25x), 2) cluster-bij-euangelion-tou-theou (evangelie-van-de-Godheid Rom 1:1 — item 2316 paar via G2316), 3) cluster-bij-kerusso-to-euangelion (evangelie-prediken — item 2784 paar via G2784, ~25x), 4) cluster-bij-pisteuō-tō-euangeliō (in-evangelie-geloven Mar 1:15 — item 4102 paar via G4102), 5) cluster-bij-euangelion-tēs-basileias (evangelie-van-het-koninkrijk Mat 4:23 — item 932 paar via G932).
 
@@ -12818,8 +12416,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2098`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks euangelion (Augustus-evangeliebericht-keizer-cult). NT-omkering: niet-keizer maar Yeshua-Messias is goed-bericht-bron.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -12918,9 +12514,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √e-u-th. Klassiek-Grieks eutheōs. NT-Mar-staccato.
-
-**Etymologie:** Klassiek-Grieks eutheōs (onmiddellijk). NT-Mar-formule frequent (Mar's narratief-stijl). LXX-substraat geen-direct-paar.
+**Wortel:** √e-u-th. NT-Mar-staccato.
 
 **Basisbetekenis:** onmiddellijk, terstond. Master kiest concordant 'onmiddellijk' voor alle voorkomens. Range: 1) cluster-bij-Mar-narratief-snelheid (Mar's eutheos-staccato-formule — item 3779 paar via G3779, ~40x in Mar), 2) cluster-bij-eutheos-Christus-handelen (Mat 8:3 — item 5547 paar via G5547), 3) cluster-bij-eutheos-genezen-narratief (Mat 8:13 — item 2390 paar via G2390), 4) cluster-bij-eutheos-en-tijds-deeltjes-paar (item 2089 paar via G2089), 5) cluster-bij-eutheos-eschatologisch (Op 4:2 — item 1849 paar via G1849).
 
@@ -12949,8 +12543,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2112`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks eutheōs. Hebreeuws-LXX H6258 ʿattah-paar via vertaling. NT-Mar-eutheōs-staccato is unieke-Marcus-narratief-stijl-formule (~40x in Mar).
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -13045,8 +12637,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** h-e-u. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *h-e-u. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'vinden-aantreffen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (vinden-aantreffen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -13072,8 +12662,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2147`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -13160,9 +12748,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √e-ch-th. Klassiek-Grieks echthros. LXX H341 oyev (~280x).
-
-**Etymologie:** Klassiek-Grieks echthros (vijand). LXX H341 oyev (~280x). NT-echthros in vier-velden: vijand-narratief, vijand-Yah, Christus-tegenpool, en eschatologische-vijand.
+**Wortel:** √e-ch-th. LXX H341 oyev (~280x).
 
 **Basisbetekenis:** vijand. Master kiest concordant 'vijand' voor alle voorkomens. Range: 1) cluster-bij-echthros-en-LXX-oyev-paar (vijand-LXX-bron — item 7 paar via H341, ~25x), 2) cluster-bij-Mat-5-44-agapate-tous-echthrous (vijanden-liefhebben Christus-Bergrede — item 25 paar via G25, ~10x), 3) cluster-bij-echthros-en-miseo-paar (vijand-en-haten — item 3404 paar via G3404), 4) cluster-bij-eschatologische-echthros-Christus (1Co 15:25-26 'laatste-vijand-dood-tenietgedaan' — item 5547 paar via G5547), 5) cluster-bij-Op-echthros-cluster (item 7854 paar via G7854).
 
@@ -13191,8 +12777,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2190`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks echthros. LXX H341 oyev. NT-Mat 5:44 vijanden-liefhebben en 1Co 15:26 laatste-vijand-dood.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -13291,8 +12875,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** e-c-h. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *e-c-h. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'hebben-bezitten-houden'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (hebben-bezitten-houden); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -13318,8 +12900,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2192`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -13408,8 +12988,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** z-a-ō. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *z-a-ō. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'leven'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (leven); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -13435,8 +13013,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2198`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -13525,8 +13101,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** z-ē-t. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *z-ē-t. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'zoeken-nastreven'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (zoeken-nastreven); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -13552,8 +13126,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2212`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -13640,9 +13212,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √z-o-e. Klassiek-Grieks zōē. LXX H2416 chai. NT-zōē-aionios theologisch-belangrijk Joh-Paulus.
-
-**Etymologie:** Klassiek-Grieks zōē (leven). LXX H2416 chai (~500x). NT-zōē in twee-velden: fysiek-leven en zōē-aionios (eeuwig-leven, Joh-Paulus-thema).
+**Wortel:** √z-o-e. LXX H2416 chai. NT-zōē-aionios belangrijk Joh-Paulus.
 
 **Basisbetekenis:** leven, levensbeginsel. Master kiest concordant 'leven' voor alle voorkomens. Range: 1) cluster-bij-zōē-aionios (eeuwig-leven Joh 3:16 — item 166 paar via G166, ~40x), 2) cluster-bij-zōē-en-thanatos-paar (leven-en-dood — item 2288 paar via G2288, ~25x), 3) cluster-bij-zōē-en-phōs-paar (Joh 1:4 'in-Hem-was-leven-en-het-leven-was-licht' — item 5457 paar via G5457), 4) cluster-bij-Christus-zōē (Joh 14:6 'Ik-ben-de-weg-en-de-waarheid-en-het-leven' — item 5547 paar via G5547), 5) cluster-bij-zōē-aiōnios-Iēsou-Christou (Rom 6:23 — item 2424 paar via G2424).
 
@@ -13671,8 +13241,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2222`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks zōē (fysiek-leven, tegenover bios voor 'levensloop-rijkdom'). LXX H2416 chai. Joh-zōē-aiōnios-theologie ontwikkelt nieuwe-NT-betekenis: leven-in-Christus-nu-en-eindeloos.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -13773,8 +13341,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** h-ē-k. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *h-ē-k. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'gekomen-zijn'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (gekomen-zijn); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -13802,8 +13368,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2240`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -13889,9 +13453,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √h-e-l. Klassiek-Grieks hēlios. LXX H8121 shemesh.
-
-**Etymologie:** Klassiek-Grieks hēlios (zon). LXX H8121 shemesh (~130x). NT-hēlios in twee-velden: fysiek-zon en eschatologisch-teken (Mat 24:29 'zon-verduisterd').
+**Wortel:** √h-e-l. LXX H8121 shemesh.
 
 **Basisbetekenis:** zon. Master kiest concordant 'zon' voor alle voorkomens. Range: 1) cluster-bij-hēlios-en-LXX-shemesh-paar (zon-LXX-bron — item 145 paar via H8121, ~25x), 2) cluster-bij-hēlios-en-selēnē-paar (zon-en-maan — item 4582 paar via G4582), 3) cluster-bij-Mat-24-29-eschatologische-zon-verduisterd (LXX-Joel 2:31 — item 1565 paar via G1565, ~10x), 4) cluster-bij-Mat-13-43-rechtvaardigen-stralen-als-zon (— item 1342 paar via G1342), 5) cluster-bij-Op-hēlios-cluster (Op 6:12, 8:12 etc. — item 5457 paar via G5457).
 
@@ -13920,8 +13482,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2246`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks hēlios. LXX H8121 shemesh. NT-Mat 13:43 'dikaioi eklampsousin hōs ho hēlios' rechtvaardigen-stralen-als-zon.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -14013,9 +13573,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √h-e-m. Drie-radicaal-stam — hemera is primair zn voor 'dag, dagperiode, tijdseenheid'. Stam in oudste laag van Indo-Europees tijds-vocabulair (PIE *am- 'dag'). Stam-cognaat-paar met hemerinos (dagelijks G2250 zelf-cognaat) en ephemeros (van-de-dag).
-
-**Etymologie:** Klassiek-Grieks hemera (dag, dag-periode). Cognaten: hemerinos (dagelijks, van-overdag), ephemeros (van-één-dag, kortstondig), authemeron (zelfde-dag). LXX-Hebreeuws-tegenhanger H3117 yom (~2300x). NT-gebruik dominant in drie-velden: 24-uur-dag-narratief, eschatologische-Dag-van-de-Heer, en symbolische-tijdsperiode.
+**Wortel:** √h-e-m. Drie-radicaal-stam — hemera is primair zn voor 'dag, dagperiode, tijdseenheid'. Stam-cognaat-paar met hemerinos (dagelijks G2250 zelf-cognaat) en ephemeros (van-de-dag).
 
 **Basisbetekenis:** dag, dagperiode. Master kiest concordant 'dag' voor alle voorkomens. Range: 1) cluster-bij-hemera-tou-kuriou (dag-van-de-Heer, eschatologisch — item 2962 paar via G2962, ~20x in NT), 2) cluster-bij-eschate-hemera (laatste-dag, Joh 6:39-40 — item 2078 paar via G2078), 3) cluster-bij-hemera-Iesou-Christou (dag-van-Jezus-Christus, Paulus — item 2424 paar via G2424), 4) cluster-bij-narratief-hemera (in-die-dagen, Mat 3:1, Luc 2:1 — item 1565 paar via G1565), 5) cluster-bij-zes-dagen-en-zevende-rust (heks hemerai, sabbats-context — item 1803 paar via G1803).
 
@@ -14044,8 +13602,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2250`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks hemera (Homerus en later). Hebreeuws-LXX-bron-tegenhanger H3117 yom (~2300x — kosmologische-dag, kalender-dag, eschatologische-Dag-yhwh). Aramees yoma (Daniel-Aramees). Latijn dies (andere wortel maar zelfde-functie). Sanskriet ahar (dag). NT-pera-eschatologische gebruik volgt OT-Yom-yhwh-traditie via LXX-Yom-Kurios-formule (Joel 2 LXX, Amos 5 LXX).
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -14148,8 +13704,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ē-n. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *ē-n. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'was-hij-was'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (was-hij-was); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -14177,8 +13731,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2258`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -14269,9 +13821,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √th-a-l. Klassiek-Grieks thalassa. LXX H3220 yam (~390x).
-
-**Etymologie:** Klassiek-Grieks thalassa (zee). LXX H3220 yam (~390x). NT-thalassa in twee-velden: geografisch-zee (Galilea, Middellandse) en eschatologisch-zee (Op 21:1 'zee-was-niet-meer').
+**Wortel:** √th-a-l. LXX H3220 yam (~390x).
 
 **Basisbetekenis:** zee. Master kiest concordant 'zee' voor alle voorkomens. Range: 1) cluster-bij-thalassa-tēs-Galilaias (Zee-van-Galilea, Mat-Mar narratief — item 1056 paar via G1056, ~25x), 2) cluster-bij-thalassa-en-ge-en-ouranos-paar (kosmologische-merisma Op 10:6 — item 1093 paar via G1093), 3) cluster-bij-Christus-loopt-op-zee (Mat 14:25-26 — item 5547 paar via G5547), 4) cluster-bij-Op-thalassa-niet-meer (Op 21:1 — item 2537 paar via G2537), 5) cluster-bij-LXX-Yam-Suph-paar (Heb 11:29 Rode-Zee LXX-via H3220 — item 2474 paar via G2474).
 
@@ -14300,8 +13850,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2281`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks thalassa (Egeïsche-context). LXX H3220 yam. NT-Op 21:1 'thalassa eti ouk estin' (zee-niet-meer) is unieke-eschatologische-formule.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -14397,9 +13945,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √th-a-n. Klassiek-Grieks thanatos. LXX H4194 mavet (~155x). NT-Paulus-Christus-dood-en-tweede-dood-Op.
-
-**Etymologie:** Klassiek-Grieks thanatos (dood). LXX H4194 mavet (~155x). NT-thanatos in drie-velden: fysiek-dood, geestelijke-dood-Paulus, en thanatos-tweede-dood Op.
+**Wortel:** √th-a-n. LXX H4194 mavet (~155x). NT-Paulus-Christus-dood-en-tweede-dood-Op.
 
 **Basisbetekenis:** dood. Master kiest concordant 'dood' voor alle voorkomens. Range: 1) cluster-bij-thanatos-en-zoē-paar (dood-en-leven Paulus — item 2222 paar via G2222, ~25x), 2) cluster-bij-thanatos-Christou (Christus-dood Rom 5:10 — item 5547 paar via G5547, ~25x), 3) cluster-bij-deuteros-thanatos (tweede-dood Op 2:11, 20:14 — item 1208 paar via G1208), 4) cluster-bij-pulai-haidou (poorten-van-de-Hades Mat 16:18 — item 86 paar via G86), 5) cluster-bij-thanatos-en-hamartia-paar (dood-en-zonde Paulus Rom 6:23 — item 266 paar via G266).
 
@@ -14428,8 +13974,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2288`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks thanatos (Hades-cluster). Hebreeuws-LXX-bron H4194 mavet. NT-Op-deuteros-thanatos-formule (Op 20:14) is unieke-eschatologische-NT-ontwikkeling.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -14530,8 +14074,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** t-h-a. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *t-h-a. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'verwonderen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (verwonderen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -14559,8 +14101,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2296`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -14648,9 +14188,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √th-e-l. Klassiek-Grieks thelēma. LXX H7522 ratson.
-
-**Etymologie:** Klassiek-Grieks thelēma (wil), van thelō (willen G2309). LXX H7522 ratson (~55x) en H2656 chephets. NT-thelēma centraal: thelēma-tou-theou-Onze-Vader.
+**Wortel:** √th-e-l. LXX H7522 ratson.
 
 **Basisbetekenis:** wil. Master kiest concordant 'wil' voor alle voorkomens. Range: 1) cluster-bij-thelēma-tou-theou (wil-van-de-Godheid Mat 6:10 — item 2316 paar via G2316, ~25x), 2) cluster-bij-thelēma-tou-patros (wil-van-de-Vader Joh 6:39-40 — item 3962 paar via G3962, ~10x), 3) cluster-bij-genēthētō-to-thelēma-sou (uw-wil-geschiede Onze-Vader — item 1096 paar via G1096), 4) cluster-bij-Christus-en-thelēma (Joh 4:34 'mijn-spijze-doe-de-wil-van-Hem-die-Mij-zond' — item 5547 paar via G5547), 5) cluster-bij-thelēma-en-eudokia-paar (welbehagen Eph 1:5-9 — item 2107 paar via G2107).
 
@@ -14679,8 +14217,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2307`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks thelēma. LXX H7522 ratson. NT-Mat 6:10 'genēthētō to thelēma sou' (uw-wil-geschiede) Onze-Vader centraal.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -14781,8 +14317,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** t-h-e. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *t-h-e. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'willen-wensen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (willen-wensen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -14808,8 +14342,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2309`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -14896,9 +14428,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √th-em. Klassiek-Grieks themelion. LXX H4143 mosadot deels-paar.
-
-**Etymologie:** Klassiek-Grieks themelion (fundament, grondsteen), van tithēmi (plaatsen G5087). LXX H4143 mosadot deels-paar. NT-themelion in drie-velden: literair-bouw (Lukas 6-48 huis-rotsfundament), Christus-fundament (1Co 3-11 'themelion gar allon oudeis dunatai theinai'), en Op-21-14-Nieuwe-Jeruzalem-twaalf-fundamenten.
+**Wortel:** √th-em. LXX H4143 mosadot deels-paar.
 
 **Basisbetekenis:** fundament. Master kiest concordant 'fundament' voor alle voorkomens. Range: 1) cluster-bij-themelion-en-tithēmi-paar (fundament-en-plaatsen — item 5087 paar via G5087, ~25x), 2) cluster-bij-themelion-en-lithos-paar (fundament-en-steen — item 3037 paar via G3037), 3) cluster-bij-Christus-themelion-1Co-3-11 ('themelion gar allon oudeis dunatai theinai para ton keimenon hos estin Iēsous Christos' — item 5547 paar via G5547, ~10x), 4) cluster-bij-themelion-Eph-2-20 'epoikodomēthentes epi tōi themeliōi tōn apostolōn kai prophētōn' Christus-akrogōniaios — item 1137 paar via G1137), 5) cluster-bij-themelion-Op-21-14-twaalf-fundamentstenen-Nieuwe-Jeruzalem-twaalf-apostelen (item 1085 paar via G1085).
 
@@ -14927,8 +14457,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2310`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met tithēmi-stam. LXX-bron H4143 mosadot. NT-Heb 11:10 Abraham-themelion-polin Yah-architekton-Nieuwe-Jeruzalem-eschatologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -15021,9 +14549,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √th-e-os. Drie-radicaal-stam — theos is primair zn voor 'godheid, Machtige'. Stam-cognaat-paar met theios (goddelijk, G2304) en theiotes (godheid-staat). Stam in oudste laag van Indo-Europees godheids-vocabulair (PIE *dheh1- 'plaatsen-stellen' of *dyeu- 'hemellicht', vergelijk Latijn deus, Sanskriet deva).
-
-**Etymologie:** Proto-Indo-Europees *dyeu- of *dheh1- 'hemellicht / plaatsen'. Cognaten: Latijn deus en divus (godheid-goddelijk), Sanskriet deva (godheid), Avestisch daeva (godheid), Lithouws dievas (god), Oud-Iers dia. In LXX wordt theos overheersend gebruikt om Hebreeuws elohim (H430) en el (H410) weer te geven.
+**Wortel:** √th-e-os. Drie-radicaal-stam — theos is primair zn voor 'godheid, Machtige'. Stam-cognaat-paar met theios (goddelijk, G2304) en theiotes (godheid-staat).
 
 **Basisbetekenis:** Godheid, Machtige. Master kiest concordant 'Godheid' voor alle voorkomens. Range: 1) cluster-bij-Yah-Vader (ho theos kai pater = de-Godheid-en-Vader — item 3962 paar via G3962, ~50x in Paulus), 2) cluster-bij-Christus-Godheid (ho theos en christo — item 5547 paar via G5547), 3) cluster-bij-Heer-Godheid-paar (kurios kai theos — item 2962 paar via G2962, ~40x), 4) cluster-bij-zonen-van-de-Godheid (huioi theou — item 5207 paar via G5207, ~30x in NT), 5) cluster-bij-koninkrijk-van-de-Godheid (basileia tou theou — item 932 paar via G932, ~80x in synoptici).
 
@@ -15052,8 +14578,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2316`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks theos (Homerus en later, voor olympische-godheden). Latijn deus (algemene godheids-aanduiding), divus (geval-godheid). Sanskriet deva (lichtende-godheid). Hebreeuws-LXX-bron-tegenhanger H430 elohim (~2200x in LXX-vertaling) en H410 el (~250x). In Aramees-Daniël gebruikt LXX theos voor elahʾ. Ugaritisch ʾil-pantheon kent geen directe theos-cognaat (semitisch versus indo-europees).
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -15085,7 +14609,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 Cluster I — Yah-titulatuur-cluster: G2962 kurios (Heer — item 2962 paar via G2962, ~40x in 'kurios-kai-theos'-paar), G3962 pater (Vader — item 3962 paar via G3962, ~50x), G5547 christos (Christus — item 5547 paar via G5547), G3841 pantokrator (Almachtige), G5310 hupsistos (Allerhoogste — item 5945 paar-paar via H5945).
 
-Cluster II — Trinitarische-cluster: G4151 pneuma (geest — item 4151 paar via G4151), G2424 iesous (Jezus — item 2424 paar via G2424), G3962 pater (Vader — item 3962 paar via G3962), G5547 christos (Christus — item 5547 paar via G5547), G40 hagios (heilig — item 40 paar via G40 in 'pneuma-hagion-theou'-paar).
+Cluster II — drievoudige-cluster: G4151 pneuma (geest — item 4151 paar via G4151), G2424 iesous (Jezus — item 2424 paar via G2424), G3962 pater (Vader — item 3962 paar via G3962), G5547 christos (Christus — item 5547 paar via G5547), G40 hagios (heilig — item 40 paar via G40 in 'pneuma-hagion-theou'-paar).
 
 Cluster III — koninkrijk-van-Godheid-cluster: G932 basileia (koninkrijk — item 932 paar via G932, ~80x), G935 basileus (koning — item 935 paar via G935), G2316 zelf (zelfde-cluster), G3772 ouranos (hemel — item 3772 paar via G3772 in 'koninkrijk-der-hemelen'-Mat-formule), G1577 ekklesia (gemeente — item 1577 paar via G1577).
 
@@ -15154,9 +14678,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √th-e-r. Klassiek-Grieks thērion. LXX H2416b chayyah.
-
-**Etymologie:** Klassiek-Grieks thērion (wild-beest), van thēr. LXX H2416b chayyah (~95x). NT-thērion in twee-velden: wild-dier-narratief (Mar 1:13 woestijn-beesten) en eschatologische-beest-Op 13.
+**Wortel:** √th-e-r. LXX H2416b chayyah.
 
 **Basisbetekenis:** wild-beest. Master kiest concordant 'beest' voor alle voorkomens. Range: 1) cluster-bij-Op-13-thērion (beest-uit-zee Op 13:1 — item 2362 paar via G2362, ~30x in Op), 2) cluster-bij-thēria-en-anthrōpoi-paar (beesten-en-mensen 1Co 15:32 — item 444 paar via G444), 3) cluster-bij-Mar-1-13-thēria-Christus (Christus-met-beesten-in-woestijn — item 5547 paar via G5547), 4) cluster-bij-thērion-en-pseudoprophētēs-paar (beest-en-valse-profeet Op 16:13, 19:20 — item 5578 paar via G5578), 5) cluster-bij-thērion-en-charagma-paar (beest-en-merkteken Op 13:16-18 — item 5480 paar via G5480).
 
@@ -15185,8 +14707,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2342`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks thērion. LXX H2416b chayyah. NT-Op 13 het-beest centraal-eschatologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -15276,9 +14796,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √th-l-i-p. Klassiek-Grieks thlipsis. LXX H6862 tsar.
-
-**Etymologie:** Klassiek-Grieks thlipsis (verdrukking, druk), van thlibō (drukken). LXX H6862 tsar (~70x). NT-thlipsis in twee-velden: lijden-Christen en eschatologische-thlipsis (Mat 24:21 'megalē thlipsis').
+**Wortel:** √th-l-i-p. LXX H6862 tsar.
 
 **Basisbetekenis:** verdrukking. Master kiest concordant 'verdrukking' voor alle voorkomens. Range: 1) cluster-bij-Mat-24-21-megalē-thlipsis (grote-verdrukking eschatologisch — item 3173 paar via G3173, ~10x), 2) cluster-bij-thlipsis-en-stenochōria-paar (verdrukking-en-benauwdheid Rom 2:9 — item 4730 paar via G4730), 3) cluster-bij-Christus-thlipsis (Joh 16:33 'in-de-wereld-thlipsis-maar-Ik-overwon' — item 5547 paar via G5547), 4) cluster-bij-thlipsis-en-makarios-paar (Mat 5:10 zalig-vervolgden — item 3107 paar via G3107), 5) cluster-bij-Op-7-14-megalē-thlipsis (Op 7:14 uit-grote-verdrukking-komenden — item 4982 paar via G4982).
 
@@ -15307,8 +14825,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2347`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks thlipsis. LXX H6862 tsar. NT-Mat 24:21 megalē thlipsis eschatologisch en Op 7:14 hē thlipsis hē megalē.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -15407,9 +14923,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √th-r-o. Klassiek-Grieks thronos. LXX H3678 kisseʾ.
-
-**Etymologie:** Klassiek-Grieks thronos (troon). LXX H3678 kisseʾ (~135x). NT-thronos in twee-velden: aardse-koningstroon en Yah-troon (Mat 5:34, Op-troon-cluster).
+**Wortel:** √th-r-o. LXX H3678 kisseʾ.
 
 **Basisbetekenis:** troon. Master kiest concordant 'troon' voor alle voorkomens. Range: 1) cluster-bij-Yah-thronos (Mat 5:34, 23:22 'troon-Yah' — item 2316 paar via G2316, ~25x), 2) cluster-bij-Op-thronos (Op 4 'troon-cluster' — item 932 paar via G932), 3) cluster-bij-thronos-Dauid (troon-van-David Luc 1:32 — item 1138 paar via G1138), 4) cluster-bij-twaalf-thronoi-apostoloi (Mat 19:28 — item 1427 paar via G1427), 5) cluster-bij-thronos-tēs-charitos (troon-der-genade Heb 4:16 — item 5485 paar via G5485).
 
@@ -15438,8 +14952,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2362`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks thronos. LXX H3678 kisseʾ. NT-Op 4 vier-en-twintig-tronen-rond-Yah-troon en Heb 4:16 troon-der-genade.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -15529,9 +15041,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √th-um. Klassiek-Grieks thumos. LXX H2534 chemah dominant.
-
-**Etymologie:** Klassiek-Grieks thumos (opwellings-toorn, hartstocht), van thuō (opwallen-bruisen). LXX H2534 chemah dominant-paar. NT-thumos in twee-velden: menselijk-affect (Eph 4-31, Kol 3-8 vleesvruchten) en Yah-toorn-eindtijd (Op 14-10, 14-19, 15-1, 15-7, 16-1, 16-19, 19-15 zeven-fialen-thumou).
+**Wortel:** √th-um. LXX H2534 chemah dominant.
 
 **Basisbetekenis:** opwellings-toorn. Master kiest samengesteld concordant 'opwellings-toorn' om af te grenzen van orgē (gevestigde-toorn). Range: 1) cluster-bij-thumos-en-orgē-paar (opwellings-toorn-en-gevestigde-toorn vaste-paar Op 16:19 'thumos tēs orgēs autou' — item 3709 paar via G3709, ~25x), 2) cluster-bij-thumos-vleesvruchten-Eph-4-31 'pasa pikria kai thumos kai orgē' (item 4561 paar via G4561), 3) cluster-bij-Christus-thumos-Op-14-10 ('to oinon tou thumou tou theou tou kekerasmenou akratou en tōi potēriōi tēs orgēs autou' — item 5547 paar via G5547, ~10x), 4) cluster-bij-zeven-fialen-thumou-Op-15-7-16-1 (item 4151 paar via G4151), 5) cluster-bij-thumos-en-LXX-bron H2534 chemah (~120x in HB).
 
@@ -15560,8 +15070,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2372`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met thuō-opwallen. LXX-bron H2534 chemah. NT-Op 19:15 'patei tēn lēnon tou oinou tou thumou tēs orgēs tou theou tou pantokratoros' Christus-wijnpers-Yah-toorn-Op-14-19-cluster.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -15654,9 +15162,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √th-u-r. Klassiek-Grieks thura. LXX H1817 delet.
-
-**Etymologie:** Klassiek-Grieks thura (deur). LXX H1817 delet (~80x). NT-thura in twee-velden: fysiek-deur en metaforisch-deur (Joh 10:7 'Ik-ben-de-deur').
+**Wortel:** √th-u-r. LXX H1817 delet.
 
 **Basisbetekenis:** deur. Master kiest concordant 'deur' voor alle voorkomens. Range: 1) cluster-bij-thura-en-LXX-delet-paar (deur — item 1817 paar via H1817, ~25x), 2) cluster-bij-Joh-10-7-9-Christus-thura ('Ik-ben-de-deur-der-schapen' — item 5547 paar via G5547, ~10x), 3) cluster-bij-thura-en-hodos-paar (deur-en-weg — item 3598 paar via G3598), 4) cluster-bij-Op-3-20-Christus-pros-tēn-thuran (Christus-aan-deur-staan-en-kloppen — item 5547 paar via G5547), 5) cluster-bij-thura-en-anoigō-paar (deur-en-openen — item 455 paar via G455).
 
@@ -15685,8 +15191,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2374`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks thura. LXX H1817 delet. NT-Joh 10:7-9 'egō eimi hē thura' Christologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -15782,8 +15286,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √i-d. Eenletter-stam — idou is een onveranderlijk attentie-deeltje 'zie!, let op!' van imperatief-aoristus van eidon (zien). Cognaat-paar met ide (kortere-vorm 'zie' G1492-derivaat) en horao (zien G3708).
 
-**Etymologie:** Klassiek-Grieks idou (interjectie-attentie 'zie!'), van imperatief-aoristus van eidon ('zien'). Cognaten: ide ('zie!', kortere-vorm), eidon (zag), oida (weten via 'gezien-hebben'). LXX-Hebreeuws-tegenhanger H2009 hineh (~1080x — Hebreeuws-attentie-deeltje 'zie!'). NT-idou dominant in vier-velden: narratief-overgang ('zie, een-engel'), profetische-aankondiging ('zie, de-maagd-zal-zwanger-zijn' Mat 1:23 LXX-Jes 7:14), uitnodigende-attentie ('zie het Lam Yah's' Joh 1:29), en eschatologische-aankondiging ('zie ik kom spoedig' Op 22:7).
-
 **Basisbetekenis:** zie!, let op! Master kiest concordant 'zie' voor alle voorkomens. Range: 1) cluster-bij-Mat-narratief-overgang (idou aggelos kuriou = zie-bode-van-Heer Mat 1:20 etc. — item 32 paar via G32), 2) cluster-bij-LXX-profetische-aankondiging (Mat 1:23 idou hē parthenos = zie-de-maagd LXX-Jes 7:14 — item 3933 paar via G3933), 3) cluster-bij-Joh-attentieve-uitnodiging (Joh 1:29 idou ho amnos tou theou = zie-het-Lam-van-de-Godheid — item 286 paar via G286), 4) cluster-bij-eschatologische-Op-aankondiging (Op 22:7 idou erchomai tachu = zie-ik-kom-spoedig — item 2064 paar via G2064), 5) cluster-bij-prediking-uitroep (Hand-formule 'kai idou' — item 2532 paar via G2532).
 
 **Semantische velden:** Mat-narratief-overgang-cluster (primair); LXX-profetische-aankondigings-cluster; Joh-attentieve-uitnodiging-cluster; eschatologische-Op-aankondigings-cluster; Hand-prediking-uitroep-cluster.
@@ -15811,8 +15313,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2400`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks idou (Homerus en later, attentie-uitroep). Hebreeuws-LXX-bron-tegenhanger H2009 hineh (~1080x — extreem-frequent attentie-deeltje, basis voor Joods-narratief-stijl). Aramees haʾ (Daniel-Aramees). Latijn ecce (zelfde-functie). NT-idou-gebruik volgt direct LXX-hineh-traditie (Mat-evangelie heeft de hoogste frequentie ~63x als bewust Joods-narratief-stijl).
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -15908,13 +15408,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 83
 
-**Master-toelichting:** Eigennaam Jeruzalem — onverbogen Semitische vorm (naast verbogen Grieks Hierosoluma G2414). Ierousalēm-vorm vaker in Luk/Hand, theologisch-symbolisch (hagia polis = 'heilige stad'), in evangeliën-lijdens-context (Jezus trekt op naar Ierousalēm, Luk 9:51). In Paulus tweevoudig: aardse Ierousalēm-nu tegenover hē anō Ierousalēm = 'het Jeruzalem-boven' (Gal 4:26). Openb hē hagia Ierousalēm kainē = 'het Nieuwe Jeruzalem'.
+**Master-toelichting:** Eigennaam Jeruzalem — onverbogen Semitische vorm (naast verbogen Grieks Hierosoluma G2414). Ierousalēm-vorm vaker in Luk/Hand, symbolisch (hagia polis = 'heilige stad'), in evangeliën-lijdens-context (Jezus trekt op naar Ierousalēm, Luk 9:51). In Paulus tweevoudig: aardse Ierousalēm-nu tegenover hē anō Ierousalēm = 'het Jeruzalem-boven' (Gal 4:26). Openb hē hagia Ierousalēm kainē = 'het Nieuwe Jeruzalem'.
 
 ## B. Wortel-analyse (anker 1)
 
 **Wortel:** √i-e-r. Translitteratie-Hebreeuws Yerushalayim. LXX H3389.
-
-**Etymologie:** Hellenistisch-Grieks Ierousalem (translitteratie-Hebreeuws Yerushalayim). LXX H3389 yerushalayim. NT-Joods-Christen-cluster.
 
 **Basisbetekenis:** Jeruzalem (eigennaam-stad). Master kiest concordant 'Jeruzalem' voor alle voorkomens. Range: 1) cluster-bij-eis-Iērousalēm-Christus (Jezus-naar-Jeruzalem Mat 21 — item 5547 paar via G5547, ~25x), 2) cluster-bij-anabaino-eis-Iērousalēm (opgaan-naar-Jeruzalem cult-bedevaart — item 305 paar via G305), 3) cluster-bij-pater-en-Iērousalēm (Mat 23:37 'Jeruzalem-Jeruzalem-die-de-profeten-doodt' — item 4396 paar via G4396), 4) cluster-bij-hagia-polis-Iērousalēm (heilige-stad — item 40 paar via G40), 5) cluster-bij-kainē-Iērousalēm (nieuwe-Jeruzalem Op 21:2 — item 2537 paar via G2537).
 
@@ -15943,8 +15441,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2419`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Translitteratie-Yerushalayim. LXX H3389. NT-cluster Mat 23:37 klaagzang en Op 21 nieuwe-Jeruzalem-eschatologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -16039,8 +15535,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √y-h-s. Greek-translitteratie van Hebreeuws Yhoshua / Yeshua (H3091 / H3442). Stam-cognaat-paar met yashaʿ (redden H3467) en yeshuʿah (redding H3444) via Hebreeuws-substraat 'Yah-redt'.
 
-**Etymologie:** Hellenistisch-Grieks Iesous als translitteratie van Hebreeuws Yeshua (verkorte-vorm van Yhoshua = 'Yah-redt'). Cognaten in Hebreeuws-substraat: H3091 yhoshua (Jozua), H3442 yeshua (post-exilisch Yeshua), H3467 yashaʿ (redden), H3444 yeshuʿah (redding). LXX-Yhoshua-tegenhanger Iesous (Hand 7:45, Heb 4:8 voor Jozua-zoon-van-Nun). NT-Iesous als naam-van-Christus.
-
 **Basisbetekenis:** Jezus (Yeshua = Yah-redt). Master kiest concordant 'Jezus' voor alle voorkomens. Range: 1) cluster-bij-Iesous-Christos (Jezus-Christus-koppel-naam — item 5547 paar via G5547, ~125x), 2) cluster-bij-Iesous-naam-betekenis (Mat 1:21 'jij-zult-zijn-naam-Iesous-noemen-want-hij-zal-zijn-volk-redden' — item 4982 paar via G4982 sozo), 3) cluster-bij-Iesous-Nazoraios (Jezus-Nazarener Joh 19:19 — item 3478 paar-context), 4) cluster-bij-Heer-Jezus (kurios Iesous — item 2962 paar via G2962, ~110x), 5) cluster-bij-Iesous-zoon-van-Godheid (Iesous huios tou theou — item 5207 paar via G5207).
 
 **Semantische velden:** Iesous-Christos-koppel-naam-cluster (primair); Iesous-naam-betekenis-redden-cluster; Iesous-Nazoraios-cluster; Heer-Jezus-cluster; Iesous-zoon-van-Godheid-cluster.
@@ -16068,8 +15562,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2424`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Hebreeuws-Aramees substraat: H3091 yhoshua (Jozua, post-exilisch verkort tot Yeshua, H3442). LXX-Iesous (~250x voor Jozua-zoon-van-Nun). Andere bekende Yeshua-naamdragers in NT: Iesous Barabbas (Mat 27:16-17, sommige manuscripten), Iesous Justus (Kol 4:11). Latijn Jesus (vulgata-translitteratie). Aramees-Yeshu (rabbijns-gebruik). Geen Indo-Europees-cognaat (Hebreeuws-leen).
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -16171,8 +15663,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √i-s-r. Translitteratie-Yisrael. LXX H3478.
 
-**Etymologie:** Translitteratie-Hebreeuws Yisrael. LXX H3478 yisrael dominant. NT-Israel in twee-velden: Israel-volk-OT-Joods en Israel-tou-theou (Gal 6:16).
-
 **Basisbetekenis:** Israel (eigennaam-volk). Master kiest concordant 'Israel' voor alle voorkomens. Range: 1) cluster-bij-laos-Israel (volk-Israel — item 2992 paar via G2992, ~25x), 2) cluster-bij-Israel-en-Iudaiōn-paar (Israel-en-Joden — item 2453 paar via G2453), 3) cluster-bij-twaalf-stammen-Israel (Mat 19:28 — item 1427 paar via G1427), 4) cluster-bij-Israel-tou-theou (Gal 6:16 'Israel-van-de-Godheid' = Christen-collectief — item 2316 paar via G2316), 5) cluster-bij-Iērousalēm-en-Israel-paar (item 2419 paar via G2419).
 
 **Semantische velden:** Israel-cluster (primair); Christus-Israel-cluster; jerusalem-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -16200,8 +15690,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2474`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Translitteratie-Yisrael. LXX H3478 (~2510x). NT-Gal 6:16 'Israel-van-de-Godheid' interpretatie-debat (etnisch-Israel of Christen-collectief).
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -16300,8 +15788,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** h-i-s. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *h-i-s. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'staan-stellen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (staan-stellen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -16327,8 +15813,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2476`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -16417,8 +15901,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** i-s-c. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *i-s-c. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'krachtig-zijn'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (krachtig-zijn); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -16446,8 +15928,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2480`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -16535,9 +16015,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √k-th-r. Klassiek-Grieks katharos. LXX H2889 tahor dominant-paar.
-
-**Etymologie:** Klassiek-Grieks katharos (rein, schoon, zuiver), Indo-Europees met Latijn castus (kuis). LXX H2889 tahor dominant-paar. NT-katharos in drie-velden: rituele-reinheid (Mat 23), morele-reinheid (Mat 5:8 'makarioi hoi katharoi tēi kardiai'), en cult-vasje-reinheid.
+**Wortel:** √k-th-r. LXX H2889 tahor dominant-paar.
 
 **Basisbetekenis:** rein. Master kiest concordant 'rein' voor alle voorkomens. Range: 1) cluster-bij-katharos-en-katharizō-paar (rein-en-reinigen — item 2511 paar via G2511, ~25x), 2) cluster-bij-katharos-en-hagnos-paar (rein-en-cultisch-rein — item 53 paar via G53), 3) cluster-bij-katharos-bergrede-Mat-5-8 ('makarioi hoi katharoi tēi kardiai hoti autoi ton theon opsontai' — item 5547 paar via G5547, ~10x), 4) cluster-bij-katharos-Christus-Joh-13 voetwassing (Joh 13:10-11 'humeis katharoi este all ouchi pantes' — item 4151 paar via G4151), 5) cluster-bij-katharos-en-LXX-bron H2889 tahor (~94x in HB).
 
@@ -16566,8 +16044,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2513`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met Latijn castus. LXX-bron H2889 tahor. NT-Joh 15:3 'humeis katharoi este dia ton logon hon lelalēka humin' Christus-discipelen-rein-door-woord.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -16665,8 +16141,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** k-a-t. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *k-a-t. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'zitten-gezeten-zijn'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (zitten-gezeten-zijn); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -16692,8 +16166,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2521`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -16777,8 +16249,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** k-a-t. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *k-a-t. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'neerzetten'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (neerzetten); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -16806,8 +16276,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2523`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -16896,9 +16364,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √k-a-i-n. Klassiek-Grieks kainos. LXX H2319 chadash.
-
-**Etymologie:** Klassiek-Grieks kainos (nieuw, vers, niet-vóór-bestaand). Tegenpool palaios (oud G3820). LXX H2319 chadash. NT-kainos in vier-velden: kainos-anthrōpos (Eph 4:24 'nieuwe-mens'), kainos-diatheke (Heb 8:8), kainos-ouranos-en-ge (Op 21:1), en kainos-Iērousalēm (Op 21:2).
+**Wortel:** √k-a-i-n. LXX H2319 chadash.
 
 **Basisbetekenis:** nieuw, vers. Master kiest concordant 'nieuw' voor alle voorkomens. Range: 1) cluster-bij-kainos-en-neos-paar (nieuw-vers-nieuw-jong — item 3501 paar via G3501, ~25x), 2) cluster-bij-kainos-diathēkē (nieuw-verbond Heb 8:8 LXX-Jer 31:31 — item 1242 paar via G1242, ~10x), 3) cluster-bij-kainos-anthrōpos (nieuwe-mens Eph 4:24 — item 444 paar via G444), 4) cluster-bij-kainos-ouranos-kai-kainē-ge (Op 21:1 — item 3772 paar via G3772), 5) cluster-bij-Christus-kainos-entolē (Joh 13:34 'nieuw-gebod' — item 5547 paar via G5547).
 
@@ -16927,8 +16393,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2537`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks kainos. LXX H2319 chadash. NT-Heb 8:8 LXX-Jer 31:31 'nieuw-verbond' centraal.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -17026,9 +16490,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √k-a-i-r. Klassiek-Grieks kairos. LXX H6256 ʿet.
-
-**Etymologie:** Klassiek-Grieks kairos (passend-moment, vastgestelde-tijd). LXX H6256 ʿet (~290x). NT-kairos in twee-velden: passend-moment en eschatologische-kairos.
+**Wortel:** √k-a-i-r. LXX H6256 ʿet.
 
 **Basisbetekenis:** passend-moment, vastgestelde-tijd. Master kiest concordant 'tijd' voor alle voorkomens. Range: 1) cluster-bij-kairos-en-chronos-paar (qualitatief-kwantitatief Hand 1:7 — item 5550 paar via G5550, ~10x), 2) cluster-bij-eschatologische-kairos (Mat 8:29 'kairos-eindtijd' — item 2078 paar via G2078), 3) cluster-bij-Christus-kairos (Joh 7:6 'mijn-kairos-is-nog-niet-gekomen' — item 5547 paar via G5547), 4) cluster-bij-kairos-touto (deze-tijd Rom 8:18 — item 3778 paar via G3778), 5) cluster-bij-pleroma-tou-kairou (vervulling-van-de-tijd Eph 1:10 — item 4138 paar via G4138).
 
@@ -17057,8 +16519,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2540`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks kairos (passend-moment versus chronos kwantitatief-tijd). LXX H6256 ʿet.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -17157,9 +16617,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √k-a-k. Klassiek-Grieks kakos (Homerus 'slecht-laag'). LXX H7451a raʿ. NT-tegenpool agathos.
-
-**Etymologie:** Klassiek-Grieks kakos (kwaad), tegenpool van agathos. LXX H7451a raʿ (~660x). NT-kakos in twee-velden: moreel-kwaad en negatief-resultaat.
+**Wortel:** √k-a-k. LXX H7451a raʿ. NT-tegenpool agathos.
 
 **Basisbetekenis:** kwaad, slecht. Master kiest concordant 'kwaad' voor alle voorkomens. Range: 1) cluster-bij-kakos-en-poneros-paar (kwaad-en-boos — item 4190 paar via G4190, ~25x), 2) cluster-bij-kakos-niet-vergelden (Rom 12:17 'mē apodidotes kakon anti kakou' — item 591 paar via G591), 3) cluster-bij-kakos-en-agathos-paar (kwaad-en-goed — item 18 paar via G18, ~25x), 4) cluster-bij-kakos-en-hamartia-paar (kwaad-en-zonde — item 266 paar via G266), 5) cluster-bij-Rom-7-Paulus-kakos (Rom 7:19 'het-kwaad-dat-ik-niet-wil' — item 5547 paar via G5547).
 
@@ -17188,8 +16646,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2556`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks kakos. LXX H7451a raʿ (~660x). Aramees biʾsh-paar via Daniel-Aramees. NT-Rom 12:17 'kwaad-niet-met-kwaad-vergelden'.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -17290,8 +16746,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** k-a-l. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *k-a-l. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'roepen-noemen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (roepen-noemen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -17317,8 +16771,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2564`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -17405,9 +16857,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √k-a-r-d. Drie-radicaal-stam — kardia is primair zn voor 'hart, binnenste, centrum-van-persoonlijkheid'. Stam in oudste laag van Indo-Europees lichaams-vocabulair (PIE *ḱerd- 'hart', vergelijk Latijn cor, Sanskriet hṛd, Engels heart).
-
-**Etymologie:** Klassiek-Grieks kardia (hart-orgaan en zetel-van-emotie-en-denken). Cognaten: kardiognōstes (hartenkenner G2589), kardia-derivaten in samenstellingen. LXX-Hebreeuws-tegenhanger H3820 lev (~600x) en H3824 levav (~250x). NT-kardia in vier-velden: hart-als-zetel-emotie-denken-besluit, hart-Yah-kennen (Mat 5:8 'reine-van-hart'), hart-besneden (Rom 2:29), en hart-en-mond-belijden (Rom 10:9-10).
+**Wortel:** √k-a-r-d. Drie-radicaal-stam — kardia is primair zn voor 'hart, binnenste, centrum-van-persoonlijkheid'.
 
 **Basisbetekenis:** hart, binnenste. Master kiest concordant 'hart' voor alle voorkomens. Range: 1) cluster-bij-katharos-tē-kardia (zuiver-van-hart Mat 5:8 — item 2513 paar via G2513), 2) cluster-bij-en-tē-kardia-pisteuein (in-het-hart-geloven Rom 10:9-10 — item 4102 paar via G4102), 3) cluster-bij-Onze-Vader-hart-zoekt (Mat 6:21 'waar-jouw-schat-is-daar-zal-jouw-hart-zijn' — item 2344 paar via G2344), 4) cluster-bij-besneden-hart (Rom 2:29 LXX-Deu 30:6 — item 4061 paar via G4061), 5) cluster-bij-Yah-kent-harten (kardiognōstes Hand 1:24 — item 2316 paar via G2316).
 
@@ -17436,8 +16886,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2588`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks kardia (Homerus en later, fysiek-orgaan en metaforisch-binnenste). Indo-Europese-cognaten Latijn cor, Sanskriet hṛd, Engels heart. Hebreeuws-LXX-bron-tegenhanger H3820 lev (~600x) en H3824 levav (~250x — semantisch-identiek-spectrum: orgaan, gevoel, denken, besluit). Aramees libba (Daniel-Aramees). NT-kardia volgt Joods-Hebreeuws-spectrum (niet alleen emotie zoals modern-westers, maar volledige innerlijke-persoonlijkheid).
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -17537,9 +16985,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √k-a-r-p. Klassiek-Grieks karpos. LXX H6529 pri.
-
-**Etymologie:** Klassiek-Grieks karpos (vrucht). LXX H6529 pri (~120x). NT-karpos in vier-velden: fysiek-vrucht, vrucht-Geest (Gal 5:22), goede-werk-vruchten, en vrucht-Christus.
+**Wortel:** √k-a-r-p. LXX H6529 pri.
 
 **Basisbetekenis:** vrucht. Master kiest concordant 'vrucht' voor alle voorkomens. Range: 1) cluster-bij-karpos-tou-pneumatos (vrucht-van-de-Geest Gal 5:22-23 — item 4151 paar via G4151, ~10x), 2) cluster-bij-karpos-en-dendron-paar (vrucht-en-boom Mat 7:16-20 — item 1186 paar via G1186), 3) cluster-bij-Joh-15-karpos-pheronto (vrucht-dragen Joh 15:1-8 — item 5547 paar via G5547, ~10x), 4) cluster-bij-karpos-en-erga-paar (vrucht-en-werken — item 2041 paar via G2041), 5) cluster-bij-karpos-tēs-koilias (vrucht-van-de-baarmoeder Luc 1:42 — item 2836 paar via G2836).
 
@@ -17568,8 +17014,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2590`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks karpos. LXX H6529 pri. NT-Gal 5:22-23 vrucht-van-de-Geest en Joh 15 vrucht-dragen-in-Christus centraal.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -17669,8 +17113,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** k-a-t. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *k-a-t. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'neerdalen-afdalen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (neerdalen-afdalen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -17698,8 +17140,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2597`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -17787,8 +17227,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** k-a-t. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *k-a-t. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'op-branden'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (op-branden); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -17816,8 +17254,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2618`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -17904,8 +17340,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** k-a-t. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *k-a-t. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'bewonen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (bewonen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -17933,8 +17367,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2730`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -18022,9 +17454,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √k-e-ph. Klassiek-Grieks kephalē. LXX H7218 rosh.
-
-**Etymologie:** Klassiek-Grieks kephalē (hoofd). LXX H7218 rosh (~600x). NT-kephalē in vier-velden: fysiek-hoofd, kephalē-anēr huwelijk, kephalē-Christus-ekklēsia (Eph 1:22), en kephalē-gōnias (hoeksteen).
+**Wortel:** √k-e-ph. LXX H7218 rosh.
 
 **Basisbetekenis:** hoofd. Master kiest concordant 'hoofd' voor alle voorkomens. Range: 1) cluster-bij-Christus-kephalē-ekklēsias (Eph 1:22, Kol 1:18 — item 5547 paar via G5547, ~10x), 2) cluster-bij-anēr-kephalē-gunaikos (man-hoofd-vrouw Eph 5:23 — item 435 paar via G435), 3) cluster-bij-kephalē-en-pous-paar (hoofd-en-voet — item 4228 paar via G4228, ~25x), 4) cluster-bij-kephalē-gōnias (hoeksteen Mat 21:42 LXX-Ps 118:22 — item 1137 paar via G1137), 5) cluster-bij-Yah-kephalē-Christou (1Co 11:3 'Godheid-hoofd-van-Christus' — item 2316 paar via G2316).
 
@@ -18053,8 +17483,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2776`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks kephalē. LXX H7218 rosh. NT-Eph 1:22 Christus-kephalē-ekklēsias en 1Co 11:3 'kephalē-trio'.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -18151,8 +17579,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** k-ē-r. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *k-ē-r. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'verkondigen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (verkondigen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -18180,8 +17606,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2784`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -18276,8 +17700,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** k-l-a. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *k-l-a. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'wenen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (wenen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -18305,8 +17727,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2799`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -18395,15 +17815,13 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √k-o-s-m. Drie-radicaal-stam — kosmos van kosmeo (ordenen, sieren) → 'geordend-geheel, sierlijk-systeem'. Wortel-paar met kosmios (geordend G2887) en kosmeo (sieren G2885).
 
-**Etymologie:** Klassiek-Grieks kosmos (orde, sierraad, kosmische-orde, wereld-als-geordend-geheel — Pythagorese kosmologie). Cognaten kosmos-rijk-van-Plato. LXX-Hebreeuws-tegenhanger H8398 tevel (~36x — bewoonde-aarde-geordend) en H6635a tsava (~15x als 'leger-des-hemels'). NT-kosmos in vier-velden: kosmologisch-universum, mensheid-collectief (Joh 3:16), morele-kosmos-tegenover-Yah (Joh 17:14, 1Jo 2:15), en aarde-bewoond-systeem.
-
 **Basisbetekenis:** kosmos, wereld, geordend-geheel. Master kiest concordant 'kosmos' voor alle voorkomens. Range: 1) cluster-bij-Joh-3-16-kosmos (mensheid-Yah-liefheeft — item 25 paar via G25), 2) cluster-bij-kosmos-tegenover-Yah (Joh 17:14, 1Jo 2:15 morele-tegenpool — item 2316 paar via G2316), 3) cluster-bij-archē-kosmou (oorsprong-kosmos Mat 24:21 — item 746 paar via G746), 4) cluster-bij-kosmos-en-Christus-overwint (Joh 16:33 — item 5547 paar via G5547), 5) cluster-bij-eschatologische-kosmos-vergaat (1Jo 2:17 — item 3855 paar via G3855).
 
 **Semantische velden:** Joh-3-16-kosmos-cluster (primair); kosmos-Yah-tegenpool-cluster; archē-kosmou-cluster; Christus-overwint-kosmos-cluster; eschatologische-kosmos-vergaat-cluster.
 
 ## C. Morfologische varianten (anker 2)
 
-**Vormen die voorkomen:** zn mannelijk verbuiging: nominatief kosmos, genitief kosmou, dativus kosmo, accusatief kosmon. Geen meervoud (collectief-uniek). Met lidwoord ho kosmos doorgaans specifiek (de-bekende-wereld, de-mensheid). Frequente Paulus-formule en to kosmo (in-de-wereld). Joh-evangelie heeft hoogste frequentie (~78x) als bewust-theologisch-thema.
+**Vormen die voorkomen:** zn mannelijk verbuiging: nominatief kosmos, genitief kosmou, dativus kosmo, accusatief kosmon. Geen meervoud (collectief-uniek). Met lidwoord ho kosmos doorgaans specifiek (de-bekende-wereld, de-mensheid). Frequente Paulus-formule en to kosmo (in-de-wereld). Joh-evangelie heeft hoogste frequentie (~78x) als bewust-thema.
 
 **Stamfamilie uit master:** G2889, G2885, G2887
 
@@ -18424,8 +17842,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2889`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks kosmos (Pythagoras, Plato kosmische-orde-betekenis). LXX-Hebreeuws-tegenhanger H8398 tevel (~36x — bewoonde-aarde) en H776 erets in collectief-gebruik. Aramees alma (wereld-aioon-betekenis-overlap). Latijn mundus (zelfde-spectrum). NT-Joh-kosmos-theologie (kosmos als verloren-mensheid die Yah liefheeft) ontwikkelt morele-dimensie boven Hellenistische kosmologie.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -18528,8 +17944,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** k-r-a. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *k-r-a. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'schreeuwen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (schreeuwen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -18557,8 +17971,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2896`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -18647,8 +18059,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** k-r-a. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *k-r-a. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'vastgrijpen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (vastgrijpen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -18676,8 +18086,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2902`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -18764,9 +18172,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √kr-at. Klassiek-Grieks kratos. LXX H1369 gevurah deels-paar.
-
-**Etymologie:** Klassiek-Grieks kratos (kracht-uitoefening, heerschappij), van krateō (vasthouden-machtig-zijn G2902). LXX H1369 gevurah deels-paar. NT-kratos in drie-velden: machts-uitoefening (Lukas 1-51), Tegenstander-doods-heerschappij (Heb 2-14 'ho to kratos echōn tou thanatou'), en doxologie-formule 'autōi to kratos' (1Pe 4-11, 5-11; Jud 1-25; Op 1-6, 5-13).
+**Wortel:** √kr-at. LXX H1369 gevurah deels-paar.
 
 **Basisbetekenis:** kracht-heerschappij. Master kiest samengesteld concordant 'kracht-heerschappij' om de drie-laagse-spanning te dekken. Range: 1) cluster-bij-kratos-en-krateō-paar (kracht-en-vasthouden-werkwoord — item 2902 paar via G2902, ~25x), 2) cluster-bij-kratos-en-dunamis-paar (kracht-en-vermogen — item 1411 paar via G1411), 3) cluster-bij-Christus-Heb-2-14 ('hina dia tou thanatou katargēsēi ton to kratos echonta tou thanatou tout estin ton diabolon' — item 5547 paar via G5547, ~10x), 4) cluster-bij-doxologie-formule 'autōi hē doxa kai to kratos eis tous aiōnas tōn aiōnōn' 1Pe 4:11, 5:11; Jud 1:25; Op 1:6, 5:13 (item 165 paar via G165), 5) cluster-bij-kratos-en-LXX-bron H1369 gevurah.
 
@@ -18795,8 +18201,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2904`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met krateō-stam. Basis -kratie in moderne Nederlands (democratie, theocratie, autocratie). LXX-bron H1369 gevurah. NT-Eph 6:10 'endunamousthe en kuriōi kai en tōi kratei tēs ischuos autou' Yah-Christus-pantser-volledige-uitrusting.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -18889,9 +18293,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √k-r-i-m. Klassiek-Grieks krima. LXX H4941 mishpat dominant-paar.
-
-**Etymologie:** Klassiek-Grieks krima (vonnis, oordeel-uitspraak), van krinō (oordelen G2919). LXX H4941 mishpat dominant-paar. NT-krima in drie-velden: gerechtelijk-vonnis (Hand 24:25), Yah-oordeel (Rom 2:2), en eindtijd-Op-20.
+**Wortel:** √k-r-i-m. LXX H4941 mishpat dominant-paar.
 
 **Basisbetekenis:** vonnis. Master kiest concordant 'vonnis' voor alle voorkomens. Range: 1) cluster-bij-krima-en-krinō-paar (vonnis-en-oordelen — item 2919 paar via G2919, ~25x), 2) cluster-bij-krima-en-krisis-paar (vonnis-uitspraak-en-oordeels-proces — item 2920 paar via G2920), 3) cluster-bij-krima-Christus-Joh-9-39 ('eis krima egō eis ton kosmon touton ēlthon' — item 5547 paar via G5547, ~10x), 4) cluster-bij-krima-Yah-Rom-2-Paulus (Rom 2:2-3 'krima tou theou kata alētheian' — item 2316 paar via G2316), 5) cluster-bij-krima-en-LXX-bron H4941 mishpat (~422x in HB).
 
@@ -18920,8 +18322,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2917`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met krinō-stam. LXX-bron H4941 mishpat. NT-Op 20:4 thronen-krima-edothē tot oordeel-toebedeeld.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -19016,13 +18416,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 114
 
-**Master-toelichting:** Werkwoord van oordelen-onderscheiden: (1) beslissen-voornemen (ekrina touto = 'ik besloot dit'), (2) rechterlijk-oordelen-veroordelen (mē krinete = 'oordeelt niet', Matt 7:1), (3) onderscheiden-evalueren, (4) eschatologisch God-oordeelt (ho theos krinei = 'God oordeelt'). Stamfamilie G2920 krisis (oordeel-gericht), G2917 krima (vonnis), G2923 kritēs (rechter). Kernwerkwoord van juridisch-theologisch-veld.
+**Master-toelichting:** Werkwoord van oordelen-onderscheiden: (1) beslissen-voornemen (ekrina touto = 'ik besloot dit'), (2) rechterlijk-oordelen-veroordelen (mē krinete = 'oordeelt niet', Matt 7:1), (3) onderscheiden-evalueren, (4) eschatologisch God-oordeelt (ho theos krinei = 'God oordeelt'). Stamfamilie G2920 krisis (oordeel-gericht), G2917 krima (vonnis), G2923 kritēs (rechter). Kernwerkwoord van juridisch-veld.
 
 ## B. Wortel-analyse (anker 1)
 
 **Wortel:** k-r-i. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
-
-**Etymologie:** Proto-Semitisch *k-r-i. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
 
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'oordelen-beslissen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
@@ -19049,8 +18447,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2919`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -19137,9 +18533,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √k-r-i. Klassiek-Grieks krisis. LXX H4941 mishpat (~420x).
-
-**Etymologie:** Klassiek-Grieks krisis (oordeel-handeling), van krinō (oordelen G2919). LXX H4941 mishpat (~420x). NT-krisis in twee-velden: juridisch-oordeel en eschatologisch-oordeel.
+**Wortel:** √k-r-i. LXX H4941 mishpat (~420x).
 
 **Basisbetekenis:** oordeel, gerichtshandeling. Master kiest concordant 'oordeel' voor alle voorkomens. Range: 1) cluster-bij-hēmera-krisēōs (dag-van-oordeel Mat 10:15 etc. — item 2250 paar via G2250, ~10x), 2) cluster-bij-krisis-en-krima-paar (oordeel-handeling-en-vonnis — item 2917 paar via G2917, ~25x), 3) cluster-bij-Yah-krisis (Joh 5:22 'Vader-oordeelt-niemand-maar-heeft-alle-oordeel-aan-Zoon-gegeven' — item 5547 paar via G5547), 4) cluster-bij-krisis-en-eleos-paar (oordeel-en-barmhartigheid Mat 23:23 — item 1656 paar via G1656), 5) cluster-bij-krisis-tou-puros (oordeels-vuur Mat 5:22 — item 4442 paar via G4442).
 
@@ -19168,8 +18562,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2920`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks krisis. LXX H4941 mishpat. NT-Joh 5:22 christologisch-oordeel-aan-Zoon en Mat 23:23 'gerechtigheid-en-barmhartigheid'.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -19266,9 +18658,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √k-u-r. Tweecletter-stam — kurios is primair zn voor 'heer, meester, eigenaar'. Stam-cognaat-paar met kuros (kracht-autoriteit) en kurieuo (heersen G2961). Stam in oudste laag van Indo-Europees autoriteits-vocabulair.
-
-**Etymologie:** Klassiek-Grieks kurios (heer, eigenaar, beslissende-instantie), van wortel kuros 'kracht, autoriteit'. Cognaten: Sanskriet sura (machtig), Latijn cura (zorg-toezicht). In LXX dominant gebruikt voor Hebreeuws yhwh (~6800x — vrijwel alle Tetragrammaton-voorkomens) en voor adonai (H136). Vroeg-christelijke-kerk neemt kurios over als belijdenis-titel voor Christus.
+**Wortel:** √k-u-r. Tweecletter-stam — kurios is primair zn voor 'heer, meester, eigenaar'. Stam-cognaat-paar met kuros (kracht-autoriteit) en kurieuo (heersen G2961).
 
 **Basisbetekenis:** Heer, meester. Master kiest concordant 'Heer' voor alle voorkomens. Range: 1) cluster-bij-kurios-Iesous (Heer-Jezus, vroege belijdenis 1Co 12:3 — item 2424 paar via G2424, ~110x), 2) cluster-bij-kurios-LXX-Yah (Heer-als-Yah-vertaling — item 3068 paar-bron via H3068, ~6800x in LXX), 3) cluster-bij-kurios-tou-sabaoth (Heer-der-heirscharen — item 6635 paar via H6635a tsava), 4) cluster-bij-kurios-en-theos-paar (Heer-en-Godheid — item 2316 paar via G2316, ~40x), 5) cluster-bij-kurios-doulos-paar (heer-en-slaaf — item 1401 paar via G1401, ~30x in Paulus-instructies).
 
@@ -19297,8 +18687,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2962`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks kurios (heer, eigenaar). Sanskriet sura (machtig). Latijn dominus (heer-equivalent — andere wortel maar zelfde-functie). LXX-Hebreeuws-tegenhanger H3068 yhwh (~6800x, dominant), H136 adonai (~440x), H113 adon (~310x). Aramees mara/marya (Heer — bewaard in maranatha 1Co 16:22). Geen pre-Hellenistische theofore-naamcomponent als bij Hebreeuws yhwh.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -19402,8 +18790,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** l-a-e. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *l-a-e. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'spreken-praten'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (spreken-praten); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -19429,8 +18815,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2980`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -19519,8 +18903,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** l-a-m. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *l-a-m. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'nemen-ontvangen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (nemen-ontvangen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -19546,8 +18928,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2983`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -19630,13 +19010,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 143
 
-**Master-toelichting:** Volk — technisch-theologisch gebruik: (1) Israël als Gods-verkoren-volk (ho laos tou theou = 'het volk van God', laos mou = 'mijn volk' — LXX-Hebreeuws 'am-formule), (2) uitbreiding naar gemeente als nieuw-laos (1 Pet 2:9-10), (3) algemene 'volksmenigte' (zeldzaam). Onderscheiden van G1484 ethnos (heidenen/volken) en G3793 ochlos (menigte).
+**Master-toelichting:** Volk — technisch gebruik: (1) Israël als Gods-verkoren-volk (ho laos tou theou = 'het volk van God', laos mou = 'mijn volk' — LXX-Hebreeuws 'am-formule), (2) uitbreiding naar gemeente als nieuw-laos (1 Pet 2:9-10), (3) algemene 'volksmenigte' (zeldzaam). Onderscheiden van G1484 ethnos (heidenen/volken) en G3793 ochlos (menigte).
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √l-a-o. Klassiek-Grieks laos. LXX H5971a ʿam (~1860x dominant). NT-Israel-en-Christen-laos.
-
-**Etymologie:** Klassiek-Grieks laos (volk-collectief). LXX H5971a ʿam (~1860x dominant — verbond-volk). NT-laos in twee-velden: Israel-Yah-volk en Christen-laos.
+**Wortel:** √l-a-o. LXX H5971a ʿam (~1860x dominant). NT-Israel-en-Christen-laos.
 
 **Basisbetekenis:** volk, Yah-volk, Israel. Master kiest concordant 'volk' voor alle voorkomens. Range: 1) cluster-bij-laos-Israel (Israel-als-Yah-volk — item 2474 paar via G2474, ~25x), 2) cluster-bij-laos-tou-theou (volk-van-de-Godheid Heb 4:9 — item 2316 paar via G2316), 3) cluster-bij-laos-en-ethnē-paar (volk-en-natiën — item 1484 paar via G1484, ~30x), 4) cluster-bij-eklektoi-laos (uitverkoren-volk 1Pe 2:9 — item 1588 paar via G1588), 5) cluster-bij-laos-Christou (volk-van-Christus — item 5547 paar via G5547).
 
@@ -19665,8 +19043,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G2992`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks laos (volk-versus-elite). LXX-bron H5971a ʿam (~1860x — verbonds-volk-Israel). NT-1Pe 2:9-10 toepassing van OT-Israel-formules op Christen-collectief is theologisch-belangrijk.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -19766,8 +19142,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** l-a-t. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *l-a-t. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'cultisch-dienen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (cultisch-dienen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -19795,8 +19169,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3000`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -19883,8 +19255,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** l-e-g. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *l-e-g. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'zeggen-spreken'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (zeggen-spreken); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -19910,8 +19280,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3004`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -19998,9 +19366,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √l-i-th. Klassiek-Grieks lithos. LXX H68 even.
-
-**Etymologie:** Klassiek-Grieks lithos (steen). LXX H68 even (~270x). NT-lithos in vier-velden: fysiek-steen, hoeksteen-Christus (Mat 21:42), aanstoot-steen, en levende-stenen-1Pe.
+**Wortel:** √l-i-th. LXX H68 even.
 
 **Basisbetekenis:** steen. Master kiest concordant 'steen' voor alle voorkomens. Range: 1) cluster-bij-lithos-akrogōniaios (hoeksteen-Christus Eph 2:20, 1Pe 2:6 LXX-Jes 28:16 — item 5547 paar via G5547, ~5x), 2) cluster-bij-lithos-en-petra-paar (steen-en-rotssteen — item 4073 paar via G4073, ~25x), 3) cluster-bij-lithos-zōntes (levende-stenen 1Pe 2:5 gelovigen — item 2198 paar via G2198), 4) cluster-bij-lithos-en-skandalon-paar (steen-des-aanstoots Rom 9:32-33 LXX-Jes 8:14 — item 4625 paar via G4625), 5) cluster-bij-Mat-21-42-LXX-Ps-118-22 (steen-die-bouwers-verwierpen — item 1137 paar via G1137).
 
@@ -20029,8 +19395,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3037`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks lithos. LXX H68 even. NT-1Pe 2:4-8 cluster van vier-OT-citaten (Jes 28:16, Ps 118:22, Jes 8:14, Hos 2:23) Christologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -20124,9 +19488,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √l-o-g. Drie-radicaal-stam — logos van lego (zeggen-spreken G3004) → wat-gesproken-wordt-of-rede-rationaliteit. Stam-cognaat-paar met logikos (rationeel G3050) en logizomai (rekenen G3049). Stam in Indo-Europees spreek-vocabulair (PIE *leg- 'verzamelen-spreken').
-
-**Etymologie:** Klassiek-Grieks logos van lego ('zeggen, verzamelen, opnoemen'). Cognaten: lego (zeggen), logikos (rationeel), logismos (overweging), eulogeo (zegen-uitspreken). LXX-Hebreeuws-tegenhanger H1697 davar (~1400x — woord en zaak). NT-logos dominant in vier-velden: gesproken-woord, prediking-evangelie, Joh-Logos-Christologie, en logos-Yah als profetisch-woord.
+**Wortel:** √l-o-g. Drie-radicaal-stam — logos van lego (zeggen-spreken G3004) → wat-gesproken-wordt-of-rede-rationaliteit. Stam-cognaat-paar met logikos (rationeel G3050) en logizomai (rekenen G3049).
 
 **Basisbetekenis:** woord, rede. Master kiest concordant 'woord' voor alle voorkomens. Range: 1) cluster-bij-Joh-Logos-Christus (ho logos = de-Logos, Joh 1:1-14 — item 5547 paar via G5547, ~5x specifiek-Christologisch), 2) cluster-bij-logos-tou-theou (woord-van-de-Godheid — item 2316 paar via G2316, ~50x), 3) cluster-bij-prediking-logos (logos kerusso = woord-verkondigen — item 2784 paar via G2784, ~30x), 4) cluster-bij-logos-tou-staurou (woord-van-het-kruis 1Co 1:18 — item 4716 paar via G4716), 5) cluster-bij-logos-tes-zoes (woord-van-het-leven 1Jo 1:1 — item 2222 paar via G2222).
 
@@ -20155,8 +19517,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3056`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks logos (Heraclitus rationaliteits-principe, Stoa kosmische-Logos, Plato dialogische-rede). Hebreeuws-LXX-bron-tegenhanger H1697 davar (~1400x — semantisch breder dan logos: woord én zaak). Aramees memra (Targum-Joods voor Yah's actieve-woord, parallel aan Joh's Logos-Christologie). Latijn verbum (andere wortel maar zelfde-functie). Joh's Logos-Christologie (Joh 1:1-14) verbindt Hellenistische Logos-traditie met Joods-Targum-memra.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -20258,9 +19618,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √l-o-i. Klassiek-Grieks loipos. LXX H7611 sheerit deels.
-
-**Etymologie:** Klassiek-Grieks loipos (overig, rest), van leipō (achterlaten G3007). LXX H7611 sheerit deels-paar via vertaling.
+**Wortel:** √l-o-i. LXX H7611 sheerit deels.
 
 **Basisbetekenis:** overig, rest. Master kiest concordant 'overig' voor alle voorkomens. Range: 1) cluster-bij-loipos-en-allos-paar (overig-en-andere — item 243 paar via G243, ~25x), 2) cluster-bij-loipos-en-heteros-paar (overig-en-andere-heteros — item 2087 paar via G2087), 3) cluster-bij-Op-2-24-loipoi (Op 2:24 'overigen' = trouwen-Tyatira — item 5546 paar via G5546), 4) cluster-bij-loipoi-tōn-anthrōpōn (overigen-der-mensen Op 9:20 — item 444 paar via G444), 5) cluster-bij-loipos-en-LXX-bron H7611 sheerit (rest-Israel-paar).
 
@@ -20289,8 +19647,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3062`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks loipos. LXX H7611 sheerit deels-paar. NT-Op-loipoi en Paulus-formule to loipon.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -20390,8 +19746,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** l-u-ō. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *l-u-ō. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'losmaken'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (losmaken); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -20419,8 +19773,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3089`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -20510,9 +19862,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √m-a-k. Klassiek-Grieks makarios (Homerus 'godenkenmerk-gelukkig'). LXX H835 ashre.
-
-**Etymologie:** Klassiek-Grieks makarios (gelukkig-zalig). LXX H835 ashre (~45x — psalm-formule 'gelukkig-de-mens-die'). NT-Mat-Bergrede-zaligsprekingen kern-Christus-onderwijs.
+**Wortel:** √m-a-k. LXX H835 ashre.
 
 **Basisbetekenis:** zalig, gelukkig. Master kiest concordant 'zalig' voor alle voorkomens. Range: 1) cluster-bij-Mat-5-makarioi (Bergrede-zaligsprekingen Mat 5:3-12 — item 5547 paar via G5547, ~9x), 2) cluster-bij-makarios-en-eulogētos-paar (zalig-en-gezegend — item 2128 paar via G2128, ~10x), 3) cluster-bij-Op-makarioi (Op 1:3, 14:13, 20:6, 22:7-14 zeven-zaligsprekingen — item 2378 paar via G2378), 4) cluster-bij-Yah-makarios (1Ti 1:11 'makarios theos' — item 2316 paar via G2316), 5) cluster-bij-makarios-pisteuō (Joh 20:29 'zalig-die-niet-zien-en-toch-geloven' — item 4102 paar via G4102).
 
@@ -20541,8 +19891,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3107`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks makarios (homerische-godenkenmerk). LXX H835 ashre. NT-Mat 5:3-12 zaligsprekingen-Bergrede-cluster centraal.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -20639,8 +19987,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** m-a-n. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *m-a-n. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'leren'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (leren); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -20668,8 +20014,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3129`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -20757,13 +20101,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 79
 
-**Master-toelichting:** Werkwoord van getuigenis-afleggen: (1) juridisch-bevestigend-getuigen (martureō peri = 'getuig over'), (2) Johanneïsch-theologisch-getuigenis-van-Christus (egō ho marturōn = 'Ik ben Mijn eigen getuige', Joh 8:18 en ho patēr martureō = 'de Vader getuigt', veelvuldig Joh 5), (3) bevestigen-bewijzen (memartuēkas kai ēxeis = 'gij hebt getuigd en zult getuigen', Hand 23:11). Stamfamilie G3144 martus (getuige), G3141 marturia (getuigenis), G3142 marturion (bewijs).
+**Master-toelichting:** Werkwoord van getuigenis-afleggen: (1) juridisch-bevestigend-getuigen (martureō peri = 'getuig over'), (2) Johanneïsch-getuigenis-van-Christus (egō ho marturōn = 'Ik ben Mijn eigen getuige', Joh 8:18 en ho patēr martureō = 'de Vader getuigt', veelvuldig Joh 5), (3) bevestigen-bewijzen (memartuēkas kai ēxeis = 'gij hebt getuigd en zult getuigen', Hand 23:11). Stamfamilie G3144 martus (getuige), G3141 marturia (getuigenis), G3142 marturion (bewijs).
 
 ## B. Wortel-analyse (anker 1)
 
 **Wortel:** m-a-r. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
-
-**Etymologie:** Proto-Semitisch *m-a-r. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
 
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'getuigen-getuigenis-geven'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
@@ -20790,8 +20132,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3140`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -20878,9 +20218,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √m-a-r-t. Klassiek-Grieks marturia. LXX H5713 ʿedut deels.
-
-**Etymologie:** Klassiek-Grieks marturia (getuigenis), van martus (getuige G3144). NT-marturia centraal-Joh-evangelie thema (vroeg-Christelijk-getuigenis-traditie).
+**Wortel:** √m-a-r-t. LXX H5713 ʿedut deels.
 
 **Basisbetekenis:** getuigenis. Master kiest concordant 'getuigenis' voor alle voorkomens. Range: 1) cluster-bij-marturia-en-martus-paar (getuigenis-en-getuige — item 3144 paar via G3144, ~25x), 2) cluster-bij-marturia-Christou (getuigenis-van-Christus Op 1:9 — item 5547 paar via G5547, ~25x), 3) cluster-bij-Joh-1-7-Iōannēs-marturia (Johannes-de-Doper-getuigenis-Christus — item 2491 paar via G2491), 4) cluster-bij-marturia-en-aletheia-paar (getuigenis-en-waarheid Joh 5:32-33 — item 225 paar via G225), 5) cluster-bij-LXX-bron H5713 ʿedut-paar (cult-getuigenis).
 
@@ -20909,8 +20247,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3141`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks marturia. LXX H5713 ʿedut. NT-Joh-evangelie marturia-thema centraal.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -21003,9 +20339,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √m-r-t. Klassiek-Grieks marturion. LXX H5715 ʿedut dominant.
-
-**Etymologie:** Klassiek-Grieks marturion (getuigenis, bewijs), van martus (getuige G3144). LXX H5715 ʿedut dominant-paar. NT-marturion in drie-velden: cult-getuigenis-tabernakel (Hand 7-44), Christus-getuigenis (1Co 1-6, 2-1), en eindtijd-getuigenis-volken (Mat 24-14).
+**Wortel:** √m-r-t. LXX H5715 ʿedut dominant.
 
 **Basisbetekenis:** getuigenis-bewijs. Master kiest samengesteld concordant 'getuigenis-bewijs' voor de juridische-en-cultische dubbel-laag. Range: 1) cluster-bij-marturion-en-martus-paar (getuigenis-en-getuige-persoon — item 3144 paar via G3144, ~25x), 2) cluster-bij-marturion-en-marturia-paar (getuigenis-objectief-en-getuigenis-subjectief — item 3141 paar via G3141), 3) cluster-bij-Christus-Mat-24-14 ('to euangelion tēs basileias en holēi tēi oikoumenēi eis marturion pasin tois ethnesin' — item 5547 paar via G5547, ~10x), 4) cluster-bij-marturion-cult-tabernakel-Hand-7-44 ('hē skēnē tou marturiou' Mosaisch-tabernakel-Yah-Wet-getuigenis — item 4633 paar via G4633), 5) cluster-bij-marturion-en-LXX-bron H5715 ʿedut.
 
@@ -21034,8 +20368,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3142`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met martus-stam. LXX-bron H5715 ʿedut. NT-Op 15:5 'ho naos tēs skēnēs tou marturiou' eindtijd-tempel-Yah-toorn-fialen.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -21127,13 +20459,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 34
 
-**Master-toelichting:** Getuige. Concordant: 'getuige' — wie verklaart wat hij heeft waargenomen. In NT ook 'martelaar' in ontwikkeling (Hand 22:20 Stefanus, Op 2:13 Antipas) — basis van Nederlands 'martelaar' = getuige-tot-de-dood. Stam mart- = onthouden, gedenken (Indo-Europese stam mer-).
+**Master-toelichting:** Getuige. Concordant: 'getuige' — wie verklaart wat hij heeft waargenomen. In NT ook 'martelaar' in ontwikkeling (Hand 22:20 Stefanus, Op 2:13 Antipas) — basis van Nederlands 'martelaar' = getuige-tot-de-dood.
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √m-a-r-t. Klassiek-Grieks martus. LXX H5707 ʿed.
-
-**Etymologie:** Klassiek-Grieks martus (getuige). LXX H5707 ʿed (~70x). NT-martus centraal-Christen-getuigenis (vroeg-marteldood-betekenis).
+**Wortel:** √m-a-r-t. LXX H5707 ʿed.
 
 **Basisbetekenis:** getuige. Master kiest concordant 'getuige' voor alle voorkomens. Range: 1) cluster-bij-martus-en-marturia-paar (getuige-en-getuigenis — item 3141 paar via G3141, ~25x), 2) cluster-bij-martus-Christou (getuige-Christus Hand 1:8 — item 5547 paar via G5547, ~10x), 3) cluster-bij-pistos-martus-Op-1-5 (Christus-trouwe-getuige — item 4103 paar via G4103), 4) cluster-bij-Stefanos-prōtos-martus-Hand-22-20 (eerste-marteldood — item 4413 paar via G4413), 5) cluster-bij-NT-LXX-bron H5707 ʿed-paar.
 
@@ -21162,8 +20492,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3144`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks martus. LXX H5707 ʿed. NT-Op 1:5 'pistos martus' Christus-titel.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -21260,9 +20588,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √m-ch-r. Klassiek-Grieks machaira. LXX H2719 chereb dominant.
-
-**Etymologie:** Klassiek-Grieks machaira (zwaard, mes), van machomai (vechten G3164). LXX H2719 chereb dominant-paar. NT-machaira in drie-velden: natuurlijk-wapen, Geest-zwaard (Eph 6:17), en oordeel-Op.
+**Wortel:** √m-ch-r. LXX H2719 chereb dominant.
 
 **Basisbetekenis:** zwaard, mes. Master kiest concordant 'zwaard' voor alle voorkomens. Range: 1) cluster-bij-machaira-en-machomai-paar (zwaard-en-vechten — item 3164 paar via G3164, ~25x), 2) cluster-bij-machaira-en-rhomphaia-paar (zwaard-en-groot-zwaard parallel-paar — item 4501 paar via G4501), 3) cluster-bij-Petrus-Gethsemane-machaira (Mat 26:51-52 'pantes hoi labontes machairan en machairē apolountai' — item 5547 paar via G5547, ~10x), 4) cluster-bij-machaira-Geest-zwaard-Eph-6-17 ('machaira tou pneumatos ho estin rhēma theou' — item 4151 paar via G4151), 5) cluster-bij-machaira-en-LXX-bron H2719 chereb (~407x in HB).
 
@@ -21291,8 +20617,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3162`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met machomai-vechten. LXX-bron H2719 chereb. NT-Eph 6:17 Geest-zwaard = woord-Yah; Op 1:16, 19:15 Christus-mond-zwaard.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -21387,8 +20711,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** m-e-l. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *m-e-l. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'op-punt-staan-voornemen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (op-punt-staan-voornemen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -21414,8 +20736,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3195`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -21504,8 +20824,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** m-e-n. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *m-e-n. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'blijven-wonen-verblijven'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (blijven-wonen-verblijven); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -21531,8 +20849,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3306`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -21619,9 +20935,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √m-e-r. Klassiek-Grieks meros. LXX H2506 cheleq.
-
-**Etymologie:** Klassiek-Grieks meros (deel), van meiroō. LXX H4521 niet-direct (~50x via verschillende H-tegenhangers). NT-meros in twee-velden: deel-aandeel en geografisch-streek.
+**Wortel:** √m-e-r. LXX H2506 cheleq.
 
 **Basisbetekenis:** deel, aandeel. Master kiest concordant 'deel' voor alle voorkomens. Range: 1) cluster-bij-meros-en-meris-paar (deel-en-aandeel — item 3310 paar via G3310, ~25x), 2) cluster-bij-meros-en-kleros-paar (deel-en-erf-deel — item 2819 paar via G2819), 3) cluster-bij-meros-en-Christus (Joh 13:8 'als-Ik-jou-niet-was-hebt-jij-geen-meros-met-Mij' — item 5547 paar via G5547), 4) cluster-bij-meros-Galilea (Mat 2:22 'merē-Galilea' — item 1056 paar via G1056), 5) cluster-bij-meros-en-LXX-cheleq-paar (H2506 cheleq Hebreeuws-bron).
 
@@ -21650,8 +20964,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3313`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks meros. LXX H2506 cheleq. NT-Joh 13:8 'meros met-Mij' soteriologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -21748,9 +21060,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √m-e-s. Klassiek-Grieks mesos. LXX H8432 tavek.
-
-**Etymologie:** Klassiek-Grieks mesos (midden, in-het-midden). LXX H8432 tavek (~415x). NT-mesos plaats-positioneel.
+**Wortel:** √m-e-s. LXX H8432 tavek.
 
 **Basisbetekenis:** midden, in-het-midden. Master kiest concordant 'midden' voor alle voorkomens. Range: 1) cluster-bij-en-mesō-Christus (Mat 18:20 'in-hun-midden' — item 5547 paar via G5547, ~10x), 2) cluster-bij-mesos-en-positioneel (Mat-narratief 'in-het-midden-van' — item 4172 paar via G4172, ~25x), 3) cluster-bij-Christus-en-mesō-tōn-luchnostatōn (Op 1:13 'in-midden-der-kandelaars' — item 3087 paar via G3087), 4) cluster-bij-mesos-en-saviv-paar (midden-en-rondom — item 5439 paar via H5439), 5) cluster-bij-mesonuktion (middennacht Mat 25:6 — item 3317 paar via G3317).
 
@@ -21779,8 +21089,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3319`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks mesos. LXX H8432 tavek. NT-Mat 18:20 'en mesō autōn' (in-hun-midden) Christologisch-belangrijk.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -21877,9 +21185,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √m-ē-n. Klassiek-Grieks mēn. LXX H2320 chodesh dominant.
-
-**Etymologie:** Klassiek-Grieks mēn (maand), Indo-Europees met Latijn mēnsis. LXX H2320 chodesh dominant-paar. NT-mēn in drie-velden: maand-temporeel (Lukas 1-24-36 zes-maand), eindtijd-vijf-maand (Op 9-5-10 sprinkhanen-pijniging), en boom-twaalf-maand (Op 22-2 boom-vrucht-elke-maand).
+**Wortel:** √m-ē-n. LXX H2320 chodesh dominant.
 
 **Basisbetekenis:** maand. Master kiest concordant 'maand' voor alle voorkomens. Range: 1) cluster-bij-mēn-en-kairos-paar (maand-en-tijd — item 2540 paar via G2540, ~25x), 2) cluster-bij-mēn-en-etos-paar (maand-en-jaar — item 2094 paar via G2094), 3) cluster-bij-Lukas-1-24-36-zes-maand-Maria-Elisabeth (Maria-Bezoek-Elisabeth — item 5547 paar via G5547, ~10x), 4) cluster-bij-Op-9-5-10-vijf-maand-sprinkhaan-pijniging (item 4151 paar via G4151), 5) cluster-bij-mēn-en-LXX-bron H2320 chodesh.
 
@@ -21908,8 +21214,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3376`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met Latijn mēnsis en mēnē-maan. LXX-bron H2320 chodesh. NT-Op 22:2 'kata mēna hekaston' boom-des-levens-twaalf-vruchten-twaalf-maand-eindtijd-paradijs-hersteld.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -21998,9 +21302,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √m-i-k. Klassiek-Grieks mikros. LXX H6996 qaton-paar.
-
-**Etymologie:** Klassiek-Grieks mikros (klein). LXX H6996 qaton-paar. NT-mikros in twee-velden: kwantitatief-klein en moreel-klein-belangrijk (Mat 18:6 'mikrōn touton').
+**Wortel:** √m-i-k. LXX H6996 qaton-paar.
 
 **Basisbetekenis:** klein. Master kiest concordant 'klein' voor alle voorkomens. Range: 1) cluster-bij-mikros-en-megas-paar (klein-en-groot — item 3173 paar via G3173, ~25x), 2) cluster-bij-mikros-en-oligos-paar (klein-en-weinig — item 3641 paar via G3641), 3) cluster-bij-Mat-18-6-mikrōn-touton (kleinen-belangrijke-Christus-bescherming — item 5547 paar via G5547, ~10x), 4) cluster-bij-mikros-Op-mikrōn-en-megalōn-paar (Op 11:18, 13:16, 19:5, 18, 20:12 — item 3173 paar via G3173), 5) cluster-bij-mikros-en-LXX-qaton-paar (item 6996 paar-via H6996a).
 
@@ -22029,8 +21331,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3398`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks mikros. LXX H6996 qaton-paar. NT-Mat 18:6 'mikrōn touton ... molensteen-om-nek'.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -22124,9 +21424,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √m-i-s-th. Klassiek-Grieks misthos. LXX H7939 sakar deels-paar.
-
-**Etymologie:** Klassiek-Grieks misthos (loon, vergoeding), Indo-Europees met Sanskriet midha (loon). LXX H7939 sakar deels-paar. NT-misthos in twee-velden: natuurlijk-loon (arbeider-eten) en eschatologisch-loon (cluster-Mat-5-12, Op 22-12).
+**Wortel:** √m-i-s-th. LXX H7939 sakar deels-paar.
 
 **Basisbetekenis:** loon. Master kiest concordant 'loon' voor alle voorkomens. Range: 1) cluster-bij-misthos-en-misthoo-paar (loon-en-huren-werkwoord — item 3409 paar via G3409, ~25x), 2) cluster-bij-misthos-en-misthotos-paar (loon-en-loonarbeider — item 3406 paar via G3406), 3) cluster-bij-misthos-eschatologisch-bergrede (Mat 5:12 'misthos polus en ouranois' — item 5547 paar via G5547, ~10x), 4) cluster-bij-misthos-Christus-Op-22-12 ('idou erchomai tachu kai ho misthos mou met emou' — item 4151 paar via G4151), 5) cluster-bij-misthos-en-LXX-bron H7939 sakar.
 
@@ -22155,8 +21453,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3408`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met Sanskriet midha. LXX-bron H7939 sakar. NT-Op 22:12 Christus-rechtvaardige-loon-toedeling-eschatologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -22255,8 +21551,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** m-i-n. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *m-i-n. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'ge-denken'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (ge-denken); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -22284,8 +21578,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3415`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -22376,8 +21668,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** m-n-ē. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *m-n-ē. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'in-herinnering-houden'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (in-herinnering-houden); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -22405,8 +21695,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3421`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -22499,8 +21787,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √m-o-s. Translitteratie-Mosheh. LXX H4872.
 
-**Etymologie:** Translitteratie-Hebreeuws Mosheh. LXX H4872 mosheh dominant. NT-Mōusēs in twee-velden: OT-Mozes-narratief en Mōusēs-Christus-paar (Joh 1:17).
-
 **Basisbetekenis:** Mozes (eigennaam). Master kiest concordant 'Mozes' voor alle voorkomens. Range: 1) cluster-bij-Mōusēs-en-nomos (Mozes-en-wet Joh 7:19 — item 3551 paar via G3551, ~25x), 2) cluster-bij-Mōusēs-en-Iēsous-paar (Joh 1:17 'wet-via-Mozes-genade-en-waarheid-via-Christus' — item 5547 paar via G5547), 3) cluster-bij-Mōusēs-prophētēs (Mozes-profeet Joh 6:14 — item 4396 paar via G4396), 4) cluster-bij-Mōusēs-en-Elias-paar (transfiguratie Mat 17:3 — item 2243 paar via G2243), 5) cluster-bij-Mōusēs-LXX-bron (Hand 7 Stefanus-rede — item 4396 paar via G4396).
 
 **Semantische velden:** Mozes-cluster (primair); Christus-Mozes-cluster; nomos-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -22528,8 +21814,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3475`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Translitteratie-Hebreeuws Mosheh. LXX H4872 (~770x). NT-Joh 1:17 'ho nomos dia Mōuseōs edothē hē charis kai hē alētheia dia Iēsou Christou egeneto' centrale-formule.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -22625,9 +21909,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √n-a-i. Klassiek-Grieks nai. LXX H3651c ken-paar.
-
-**Etymologie:** Klassiek-Grieks nai (ja, voorzeker), bevestigings-deeltje. NT-nai centraal-Christen-bevestiging.
+**Wortel:** √n-a-i. LXX H3651c ken-paar.
 
 **Basisbetekenis:** ja, voorzeker. Master kiest concordant 'ja' voor alle voorkomens. Range: 1) cluster-bij-nai-en-amen-paar (ja-en-amen 2Co 1:20 'in-Christus-nai-en-amen' — item 281 paar via G281, ~25x), 2) cluster-bij-nai-en-Christus-bevestiging (Op 22:20 'nai erchomai tachu' — item 5547 paar via G5547), 3) cluster-bij-nai-en-ou-paar (ja-en-nee Mat 5:37 'esto de ho logos humōn nai nai ou ou' — item 3756 paar via G3756), 4) cluster-bij-nai-Mat-15-27-Kanaanitisch-vrouw (geloof-bevestiging — item 4102 paar via G4102), 5) cluster-bij-nai-en-LXX-bron H3651c ken-paar.
 
@@ -22656,8 +21938,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3483`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks nai. LXX-paar via vertaling. NT-2Co 1:20 'tou theou epaggeliai en autō to nai' Christus-bevestiging.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -22751,9 +22031,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √n-e-ph. Klassiek-Grieks nephelē. LXX H6051 ʿanan dominant.
-
-**Etymologie:** Klassiek-Grieks nephelē (wolk), Indo-Europees met Latijn nubēs. LXX H6051 ʿanan dominant-paar. NT-nephelē in drie-velden: theofanie (verheerlijking-Mat-17), Christus-wederkomst (Mat-24-30, Hand-1-9), en doop-typologie (1Co-10-1).
+**Wortel:** √n-e-ph. LXX H6051 ʿanan dominant.
 
 **Basisbetekenis:** wolk. Master kiest concordant 'wolk' voor alle voorkomens. Range: 1) cluster-bij-nephelē-en-nephos-paar (wolk-en-wolkenmenigte — item 3508 paar via G3508, ~25x), 2) cluster-bij-nephelē-en-ouranos-paar (wolk-en-hemel — item 3772 paar via G3772), 3) cluster-bij-nephelē-Christus-Tabor-Mat-17-5 ('nephelē phōteinē epeskiasen autous' — item 5547 paar via G5547, ~10x), 4) cluster-bij-nephelē-wederkomst-Hand-1-9-1Th-4-17 ('en nephelais eis apantēsin tou kuriou eis aera' — item 4151 paar via G4151), 5) cluster-bij-nephelē-en-LXX-bron H6051 ʿanan (~87x in HB).
 
@@ -22782,8 +22060,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3507`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met Latijn nubēs en Sanskriet nabhas. LXX-bron H6051 ʿanan. NT-Op 1:7 'idou erchetai meta tōn nephelōn kai opsetai auton pas ophthalmos' Christus-wederkomst-Daniel-7-13-citaat.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -22876,9 +22152,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √n-u-x. Klassiek-Grieks nux. LXX H3915 laylah.
-
-**Etymologie:** Klassiek-Grieks nux (nacht). LXX H3915 laylah (~230x). NT-nux in twee-velden: fysiek-nacht en metaforisch-nacht (Joh 9:4, Rom 13:12).
+**Wortel:** √n-u-x. LXX H3915 laylah.
 
 **Basisbetekenis:** nacht. Master kiest concordant 'nacht' voor alle voorkomens. Range: 1) cluster-bij-nux-en-hemera-paar (nacht-en-dag — item 2250 paar via G2250, ~25x), 2) cluster-bij-Mat-12-40-tres-hemerai-treis-nuktes (drie-dagen-en-drie-nachten — item 5140 paar via G5140), 3) cluster-bij-Joh-3-nux-Nikodemus (Nikodemus-bij-nacht — item 3530 paar via G3530), 4) cluster-bij-en-tē-nukti-Christus (in-die-nacht-laatste-Pesach 1Co 11:23 — item 5547 paar via G5547), 5) cluster-bij-nux-eschatologisch (Op 21:25 'geen-nacht-meer' — item 3756 paar via G3756).
 
@@ -22907,8 +22181,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3571`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks nux. LXX H3915 laylah. NT-Op 21:25 'nux ouk estai eti' (geen-nacht-meer) eschatologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -23005,9 +22277,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √x-ul. Klassiek-Grieks xulon. LXX H6086 ʿets dominant.
-
-**Etymologie:** Klassiek-Grieks xulon (hout, paal, boom), Indo-Europees. LXX H6086 ʿets dominant-paar. NT-xulon in drie-velden: martelpaal-Christus (Hand 5-30, 10-39, 13-29; 1Pe 2-24), boom-des-levens (Op 22-2,14), en algemeen-hout-tempel.
+**Wortel:** √x-ul. LXX H6086 ʿets dominant.
 
 **Basisbetekenis:** hout-paal. Master kiest samengesteld concordant 'hout-paal' voor de cluster-spanning tussen normaal-hout en martel-paal-Christus. Range: 1) cluster-bij-xulon-en-xulinos-paar (paal-en-houten-voorwerp — item 3585 paar via G3585, ~25x), 2) cluster-bij-xulon-en-dendron-paar (paal-en-boom — item 1186 paar via G1186), 3) cluster-bij-Christus-xulon-Hand-5-30 ('Iēsoun hon humeis diecheirisasthe kremasantes epi xulou' — item 5547 paar via G5547, ~10x), 4) cluster-bij-xulon-Op-22-2 'xulon zōēs' boom-des-levens-paradijs-hersteld (item 4151 paar via G4151), 5) cluster-bij-xulon-en-LXX-bron H6086 ets (~329x in HB, Gen 2:9 ʿets-hachayyim Eden).
 
@@ -23036,8 +22306,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3586`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees. LXX-bron H6086 ets. NT-Gal 3:13 'epikataratos pas ho kremamenos epi xulou' LXX-Deu-21-23-citaat-Christus-vervloekte-paal-typologie-rechtvaardigings-leer.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -23129,9 +22397,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √h-o-d. Klassiek-Grieks hodos. LXX H1870 derekh (~700x). NT-Joh-Christus-Hodos en Hand-de-Weg-Christen-aanduiding.
-
-**Etymologie:** Klassiek-Grieks hodos (weg, reis-route). LXX H1870 derekh (~700x). NT-hodos in twee-velden: fysieke-weg en metaforische-weg (Joh 14:6 'Ik-ben-de-weg').
+**Wortel:** √h-o-d. LXX H1870 derekh (~700x). NT-Joh-Christus-Hodos en Hand-de-Weg-Christen-aanduiding.
 
 **Basisbetekenis:** weg, reis-route. Master kiest concordant 'weg' voor alle voorkomens. Range: 1) cluster-bij-Christus-hodos (Joh 14:6 'Ik-ben-de-weg-en-de-waarheid-en-het-leven' — item 5547 paar via G5547, ~10x), 2) cluster-bij-hodos-en-aletheia-en-zoe-paar (drie-formule Joh 14:6 — item 225 paar via G225 en item 2222 paar via G2222), 3) cluster-bij-hodos-Yah (Hand 18:25-26 'de-weg-van-de-Heer' — item 2962 paar via G2962), 4) cluster-bij-hodos-eis-zoen (Mat 7:14 'weg-die-ten-leven-leidt' — item 2222 paar via G2222), 5) cluster-bij-hē-hodos-NT-Christen-aanduiding (Hand 9:2, 19:9 'volgers-van-de-Weg' — item 1577 paar via G1577).
 
@@ -23160,8 +22426,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3598`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks hodos (Homerus en later 'reis-en-route'). Hebreeuws-LXX-bron H1870 derekh (~700x — fysiek-en-ethisch-weg). NT-Hand 9:2, 19:9 'hē hodos'-aanduiding van Christen-beweging is unieke-vroeg-NT-zelf-aanduiding.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -23258,9 +22522,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √k-h-k. Klassiek-Grieks modaliteits-deeltjes-cluster.
-
-**Etymologie:** Klassiek-Grieks houtōs en alternatieve modaliteits-deeltjes-cluster (kakhah-paar). Tijds-of-modaliteits-deeltje.
+**Wortel:** √k-h-k.
 
 **Basisbetekenis:** aldus, op-deze-wijze (variant). Master kiest concordant 'aldus' voor alle voorkomens. Range: 1) cluster-bij-modaliteit-en-ken-paar (aldus-en-zo — item 3779 paar via G3779, ~25x), 2) cluster-bij-modaliteit-en-koh-paar (aldus-en-zo-vorm — item 3541 paar via H3541), 3) cluster-bij-modaliteit-NT-narratief (Mar-Joh 'aldus' frequent — item 5547 paar via G5547), 4) cluster-bij-modaliteit-en-Mat-formule (Mat 5-7 Bergrede 'aldus-zal' — item 932 paar via G932), 5) cluster-bij-modaliteit-en-LXX-bron H3602 kakhah.
 
@@ -23289,8 +22551,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3602`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks modaliteit. LXX-bron H3602 kakhah.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -23374,9 +22634,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √o-ik. Klassiek-Grieks oikoumenē. LXX H8398 tevel deels-paar.
-
-**Etymologie:** Klassiek-Grieks oikoumenē (bewoonde-aarde, Romeinse-rijksaarde), van oikeō (wonen G3611). LXX H776 erets en H8398 tevel deels-paar. NT-oikoumenē in drie-velden: politiek-Romeinse-rijk (Lukas 2-1, Hand 24-5), eschatologisch (Mat 24-14 'eis marturion pasin tois ethnesin'), en cosmologische-aionische-eindtijd (Heb 2-5 'tēn oikoumenēn tēn mellousan').
+**Wortel:** √o-ik. LXX H8398 tevel deels-paar.
 
 **Basisbetekenis:** bewoonde-aarde. Master kiest samengesteld concordant 'bewoonde-aarde' om af te grenzen van kosmos (geordende-wereld) en gē (aarde-bodem). Range: 1) cluster-bij-oikoumenē-en-oikeō-paar (bewoonde-aarde-en-wonen — item 3611 paar via G3611, ~25x), 2) cluster-bij-oikoumenē-en-kosmos-paar (bewoonde-aarde-en-geordende-wereld — item 2889 paar via G2889), 3) cluster-bij-Christus-Mat-24-14 'to euangelion tēs basileias en holēi tēi oikoumenēi' (item 5547 paar via G5547, ~10x), 4) cluster-bij-Heb-2-5 'oikoumenēn tēn mellousan' aionische-cluster (item 165 paar via G165), 5) cluster-bij-oikoumenē-en-LXX-bron H8398 tevel.
 
@@ -23405,8 +22663,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3625`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met oikos-stam. LXX-bron H8398 tevel. NT-Op 12:9 'ho planōn tēn oikoumenēn holēn' Tegenstander-Op-16-14-koningen-oikoumenē-Armageddon-eindtijd-cluster.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -23496,9 +22752,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √o-l-i. Klassiek-Grieks oligos. LXX H4592 meʿat.
-
-**Etymologie:** Klassiek-Grieks oligos (klein, weinig). LXX H4592 meʿat (~120x). NT-oligos in twee-velden: kwantitatief-weinig en moreel-klein-geloof.
+**Wortel:** √o-l-i. LXX H4592 meʿat.
 
 **Basisbetekenis:** klein, weinig. Master kiest concordant 'weinig' voor alle voorkomens. Range: 1) cluster-bij-oligos-en-polus-paar (weinig-en-veel — item 4183 paar via G4183, ~25x), 2) cluster-bij-oligopistos (klein-geloof Mat 6:30, 8:26 etc. — item 4102 paar via G4102, ~5x), 3) cluster-bij-oligos-en-mikros-paar (weinig-en-klein — item 3398 paar via G3398), 4) cluster-bij-Mat-9-37-oligoi-ergatai (weinig-werkers — item 2040 paar via G2040), 5) cluster-bij-oligos-en-Yah-uitverkiezing (Mat 22:14 'velen-geroepen-weinig-uitverkoren' — item 2316 paar via G2316).
 
@@ -23527,8 +22781,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3641`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks oligos. LXX H4592 meʿat. NT-Mat-Bergrede 'oligopistos' kleingelovige.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -23623,9 +22875,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √h-o-m. Klassiek-Grieks homoios. LXX H1819 damah-derivaat.
-
-**Etymologie:** Klassiek-Grieks homoios (gelijk, gelijksoortig). LXX H1819 damah-derivaat. NT-homoios in twee-velden: gelijkenissen-Mat 13 'het-koninkrijk-is-gelijk' en gelijksoortigheid.
+**Wortel:** √h-o-m. LXX H1819 damah-derivaat.
 
 **Basisbetekenis:** gelijk, gelijksoortig. Master kiest concordant 'gelijk' voor alle voorkomens. Range: 1) cluster-bij-Mat-13-homoios-basileia (koninkrijk-gelijk-aan, gelijkenis-formule — item 932 paar via G932, ~10x), 2) cluster-bij-homoios-en-isos-paar (gelijk-en-gelijkwaardig — item 2470 paar via G2470), 3) cluster-bij-Christus-homoios-anthrōpōn (Filp 2:7 'gelijk-aan-mensen-geworden' — item 5547 paar via G5547), 4) cluster-bij-homoios-en-kata-paar (gelijk-volgens — item 2596 paar via G2596, ~25x), 5) cluster-bij-pas-homoios-Yah (1Jo 3:2 'wij-zullen-Hem-gelijk-zijn' — item 2316 paar via G2316).
 
@@ -23654,8 +22904,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3664`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks homoios. LXX H1819 damah-derivaat. NT-Mat 13 'koninkrijk-is-gelijk-aan'-formule en Filp 2:7 christologische-incarnatie.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -23748,9 +22996,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √o-n-o-m. Drie-radicaal-stam — onoma is primair zn voor 'naam, naamgeving, reputatie'. Stam in oudste laag van Indo-Europees identiteits-vocabulair (PIE *h1noh3-mn 'naam', vergelijk Latijn nomen, Sanskriet naman, Engels name).
-
-**Etymologie:** Klassiek-Grieks onoma (naam, persoonsnaam, reputatie). Cognaten: onomazo (noemen G3687), eponumos (naamgenoot). LXX-Hebreeuws-tegenhanger H8034 shem (~830x). NT-onoma dominant in vier-velden: persoonsnaam-narratief, naam-Yah (Mat 6:9 'jouw-naam-geheiligd-worde'), naam-Iesou-Christou (cult-en-doop-formule), en naam-als-volmacht (Hand 3:6 'in-de-naam-van-Jezus').
+**Wortel:** √o-n-o-m. Drie-radicaal-stam — onoma is primair zn voor 'naam, naamgeving, reputatie'.
 
 **Basisbetekenis:** naam, reputatie. Master kiest concordant 'naam' voor alle voorkomens. Range: 1) cluster-bij-naam-Iesou (in-de-naam-van-Jezus, doop-en-genezings-formule — item 2424 paar via G2424, ~50x), 2) cluster-bij-naam-Yah-Vader (Mat 6:9 'naam-Vader-geheiligd' — item 3962 paar via G3962), 3) cluster-bij-naam-boven-elke-naam (Filp 2:9 christologische-verhoging — item 5547 paar via G5547), 4) cluster-bij-naam-in-boek-des-levens (Op 13:8 — item 975 paar via G975 boek), 5) cluster-bij-naam-Yah-loven (item 2316 paar via G2316 in cult-context).
 
@@ -23779,8 +23025,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3686`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks onoma (Homerus en later). Latijn nomen, Sanskriet naman, Engels name (Indo-Europese-cognaten). Hebreeuws-LXX-bron-tegenhanger H8034 shem (~830x — naam én reputatie én cult-aanwezigheid). Aramees shema. NT-naam-Iesou-formules (Hand 3:6 'in-de-naam-van-Jezus-Christus-de-Nazarener-loop') ontwikkelen christologische-volmacht-betekenis op basis van OT-naam-Yah-cult-traditie (Deu 12 'plaats-die-Yah-zal-kiezen-om-zijn-naam-daar-te-doen-wonen').
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -23881,9 +23125,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √h-o-p. Klassiek-Grieks hopou. LXX H834-asher-paar.
-
-**Etymologie:** Klassiek-Grieks hopou (waar). LXX H834-asher-derivaten via Hebreeuws-substraat. NT-hopou plaats-relatief.
+**Wortel:** √h-o-p. LXX H834-asher-paar.
 
 **Basisbetekenis:** waar (plaats-relatief). Master kiest concordant 'waar' voor alle voorkomens. Range: 1) cluster-bij-hopou-en-ekei-paar (waar-daar — item 1563 paar via G1563, ~25x), 2) cluster-bij-hopou-Christus (Joh 14:3 'waar-Ik-ben-daar-zullen-jullie-ook-zijn' — item 5547 paar via G5547), 3) cluster-bij-hopou-narratief (Mar 2:4 'op-de-plaats-waar' — item 4172 paar via G4172), 4) cluster-bij-hopou-eschatologisch (Op 12:6 — item 1093 paar via G1093), 5) cluster-bij-hopou-en-Yah-aanwezig (Mat 18:20 'waar-twee-of-drie' — item 2316 paar via G2316).
 
@@ -23912,8 +23154,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3699`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks hopou. LXX-substraat H834 asher-derivaat. NT-Joh 14:3 'hopou eimi egō' theologisch-belangrijk.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -24011,8 +23251,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** o-p-t. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *o-p-t. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'zich-laten-zien'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (zich-laten-zien); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -24040,8 +23278,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3700`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -24133,8 +23369,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** h-o-r. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *h-o-r. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'zien'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (zien); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -24162,8 +23396,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3708`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -24257,9 +23489,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √o-r-o. Klassiek-Grieks oros. LXX H2022 har.
-
-**Etymologie:** Klassiek-Grieks oros (berg). LXX H2022 har (~520x). NT-oros in twee-velden: geografisch-berg (Sinai, Sion, Olijfberg) en eschatologisch-berg (Op 21).
+**Wortel:** √o-r-o. LXX H2022 har.
 
 **Basisbetekenis:** berg. Master kiest concordant 'berg' voor alle voorkomens. Range: 1) cluster-bij-Mat-Bergrede-oros (Mat 5:1 'opging-tot-de-berg' — item 305 paar via G305, ~10x), 2) cluster-bij-Olijfberg-oros-elaiōn (Mat 21:1 — item 1636 paar via G1636), 3) cluster-bij-Sinai-en-Sion-paar (Heb 12 — item 4622 paar via G4622), 4) cluster-bij-oros-en-bouna (berg-en-heuvel Luc 23:30 — item 1015 paar via G1015), 5) cluster-bij-oros-Op-21 (Op 21:10 'grote-en-hoge-berg' — item 3173 paar via G3173).
 
@@ -24288,8 +23518,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3735`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks oros. LXX H2022 har. NT-Mat 5:1 Bergrede-context en Heb 12 Sinai-Sion-tegenstelling-cluster.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -24383,9 +23611,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √o-u-k-e. Klassiek-Grieks ouketi. Samenstelling ouk+eti.
-
-**Etymologie:** Klassiek-Grieks ouketi (niet-meer), samenstelling ouk+eti. NT-ouketi tijds-deeltje 'niet-meer'.
+**Wortel:** √o-u-k-e. Samenstelling ouk+eti.
 
 **Basisbetekenis:** niet-meer. Master kiest concordant 'niet-meer' voor alle voorkomens. Range: 1) cluster-bij-ouketi-en-ou-paar (niet-meer-en-niet — item 3756 paar via G3756, ~25x), 2) cluster-bij-Joh-15-15-ouketi-doulous (Christus 'jullie-niet-meer-slaven-vrienden' — item 5547 paar via G5547), 3) cluster-bij-Op-21-1-ouketi-thalassa (zee-niet-meer — item 2281 paar via G2281), 4) cluster-bij-Op-21-4-ouketi-thanatos (dood-niet-meer — item 2288 paar via G2288), 5) cluster-bij-Rom-6-9-ouketi-apothnesko (Christus-niet-meer-sterft — item 599 paar via G599).
 
@@ -24414,8 +23640,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3765`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks ouketi. NT-Op 21:1, 21:4 ouketi-eschatologisch-cluster.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -24511,9 +23735,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √o-up. Klassiek-Grieks oupō samengesteld ou+pō.
-
-**Etymologie:** Klassiek-Grieks oupō (nog-niet, samengesteld ou+pō partikel). NT-oupō in twee-velden: chronologisch-temporeel (Joh-7-30 'oupō elēluthei hē hōra autou') en eschatologisch-onvervuld (Heb 2-8 'nun de oupō horōmen autōi ta panta hupotetagmena').
+**Wortel:** √o-up.
 
 **Basisbetekenis:** nog-niet. Master kiest concordant 'nog-niet' voor alle voorkomens. Range: 1) cluster-bij-oupō-en-ou-paar (nog-niet-en-niet-absoluut — item 3756 paar via G3756, ~25x), 2) cluster-bij-oupō-en-mēpō-paar (nog-niet-objectief-en-nog-niet-subjectief — item 3380 paar via G3380), 3) cluster-bij-oupō-Christus-uur-Joh-evangelie ('oupō elēluthei hē hōra autou' Joh 2:4, 7:6, 7:8, 7:30, 8:20 — item 5547 paar via G5547, ~10x), 4) cluster-bij-oupō-Heb-2-8-eschatologisch-onvervuld-cluster (item 165 paar via G165), 5) cluster-bij-oupō-Op-17-12-tien-koningen-eschatologisch (item 1242 paar via G1242).
 
@@ -24542,8 +23764,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3768`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks samengesteld. LXX-bron Hebreeuws-paar via vertaling. NT-Joh-evangelie Christus-uur-niet-gekomen-cluster zes-keer-formule.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -24635,9 +23855,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √o-u-r. Drie-radicaal-stam — ouranos is primair zn voor 'hemel, firmament'. Stam in oudste laag van Indo-Europees kosmologisch-vocabulair (PIE *werH- 'bedekken-bewolken'). Stam-cognaat-paar met ouranios (hemels G3770) en epouranios (over-hemels G2032).
-
-**Etymologie:** Klassiek-Grieks ouranos (hemel, firmament — Homerische olympische-godheidszetel). Cognaten: ouranios (hemels), epouranios (over-hemels), Ouranos (oer-godheid van hemel). LXX-Hebreeuws-tegenhanger H8064 shamayim (~420x — frequent in dualis-vorm 'twee-hemelen'). NT-ouranos dominant in drie-velden: kosmologisch-firmament, Yah-zetel, en koninkrijk-der-hemelen (Mat-formule).
+**Wortel:** √o-u-r. Drie-radicaal-stam — ouranos is primair zn voor 'hemel, firmament'. Stam-cognaat-paar met ouranios (hemels G3770) en epouranios (over-hemels G2032).
 
 **Basisbetekenis:** hemel, firmament. Master kiest concordant 'hemel' voor alle voorkomens. Range: 1) cluster-bij-basileia-tōn-ouranōn (koninkrijk-der-hemelen, Mat-formule — item 932 paar via G932, ~32x in Mat-evangelie), 2) cluster-bij-pater-en-ouranois (Vader-in-de-hemelen, Mat-Onze-Vader — item 3962 paar via G3962), 3) cluster-bij-ouranos-en-ge-paar (hemel-en-aarde-merisma — item 1093 paar via G1093, ~50x), 4) cluster-bij-Christus-anabasis-ouranon (Christus-opvaart-naar-hemel Hand 1:11 — item 305 paar via G305), 5) cluster-bij-kainos-ouranos-kai-kaine-ge (nieuwe-hemel-en-nieuwe-aarde Op 21:1 — item 2537 paar via G2537).
 
@@ -24666,8 +23884,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3772`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks ouranos (Homerus, Hesiodus oer-godheid). Hebreeuws-LXX-bron-tegenhanger H8064 shamayim (~420x — dualis-vorm wijst op 'twee-hemelen'-kosmologie, mogelijk wateren-boven-en-onder Gen 1). Aramees shemayya (Daniel-Aramees). Latijn caelum (andere wortel). Sanskriet svar (hemel-licht). Mat-formule basileia tōn ouranōn = circumlocutie voor basileia tou theou uit Joods respect voor Yah-naam (parallel rabbijns 'malkut shamayim').
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -24768,9 +23984,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √o-u-s. Klassiek-Grieks ous. LXX H241 ozen.
-
-**Etymologie:** Klassiek-Grieks ous (oor). LXX H241 ozen (~185x). NT-ous in twee-velden: fysiek-oor en metaforisch-oor (Mat 11:15 'wie-ous-heeft-laat-horen').
+**Wortel:** √o-u-s. LXX H241 ozen.
 
 **Basisbetekenis:** oor. Master kiest concordant 'oor' voor alle voorkomens. Range: 1) cluster-bij-ous-en-akouo-paar (oor-en-horen — item 191 paar via G191, ~25x), 2) cluster-bij-ous-en-LXX-ozen-paar (item 241 paar via H241), 3) cluster-bij-Mat-11-15-ous-akouein (wie-ous-heeft-laat-hem-horen Christus-formule — item 5547 paar via G5547, ~10x), 4) cluster-bij-ous-en-ophthalmos-paar (oor-en-oog 1Co 12:16-17 — item 3788 paar via G3788), 5) cluster-bij-Op-2-3-aggelos-tēs-ekklēsias-ous (Op 2:7, 11, 17 etc. 'wie-ous-heeft-laat-horen-wat-Geest-zegt' — item 32 paar via G32).
 
@@ -24799,8 +24013,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3775`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks ous. LXX H241 ozen. NT-Mat 11:15 'ho echōn ōta akouetō' Christus-onderwijs-formule.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -24895,8 +24107,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √h-o-u-t. Drie-radicaal-stam — houtōs (modaal-bijwoord 'aldus, zo, op-deze-wijze') van houtos (deze G3778). Stam-cognaat-paar met houtos en hode (deze-hier G3592).
 
-**Etymologie:** Klassiek-Grieks houtōs (modaliteit-bijwoord), van houtos-pronominaal-stam. Cognaten: houtos (deze), tauta (deze-dingen). LXX-Hebreeuws-tegenhanger H3651c ken (~770x — modaliteit-bijwoord) en H3541 koh (~580x — profetische-formule-deeltje 'zo-spreekt-yhwh'). NT-houtos dominant in drie-velden: vergelijking-modaliteit, instemmings-bevestiging, en consecutief-resultaat.
-
 **Basisbetekenis:** aldus, zo, op-deze-wijze. Master kiest concordant 'zo' voor alle voorkomens. Range: 1) cluster-bij-houtos-egapesen-ho-theos (zo-heeft-de-Godheid-liefgehad Joh 3:16 — item 25 paar via G25), 2) cluster-bij-houtos-en-Mat-Bergrede (Mat 5-7 frequent als formule — item 932 paar via G932 in koninkrijk-paar), 3) cluster-bij-vergelijkend-houtos-houtos-paar (item 3779 paar dominant zelf), 4) cluster-bij-bevestigend-houtos (item 3779 paar dominant zelf), 5) cluster-bij-houtos-kai-humeis (zo-ook-jullie, Paulus-toepassing-formule — item 5210 paar via G5210).
 
 **Semantische velden:** Joh-3-16-houtos-egapesen-cluster (primair); Mat-Bergrede-houtos-cluster; vergelijkend-houtos-houtos-paar-cluster; bevestigend-houtos-cluster; toepassings-formule-cluster.
@@ -24924,8 +24134,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3779`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks houtōs (Homerus en later — modaliteit-bijwoord). Hebreeuws-LXX-bron-tegenhanger H3651c ken (~770x als modaliteits-bijwoord 'zo-aldus') en H3541 koh (~580x als profetische-formule 'zo-spreekt'). Aramees ken (Daniel-Aramees). Latijn sic (zelfde-functie, andere wortel). NT-houtōs in Mat-Bergrede frequent als instructieve-modaliteit ('zo-zal-elke-goede-boom-goede-vruchten-dragen' Mat 7:17).
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -25026,9 +24234,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √o-ph. Klassiek-Grieks ophthalmos. LXX H5869 ʿayin.
-
-**Etymologie:** Klassiek-Grieks ophthalmos (oog). LXX H5869 ʿayin (~870x). NT-ophthalmos in vier-velden: fysiek-oog, geestelijke-oog (Mat 6:22), oog-Yah, en metaforisch-oog-stilte.
+**Wortel:** √o-ph. LXX H5869 ʿayin.
 
 **Basisbetekenis:** oog. Master kiest concordant 'oog' voor alle voorkomens. Range: 1) cluster-bij-ophthalmos-en-blepō-paar (oog-en-zien — item 991 paar via G991, ~25x), 2) cluster-bij-Mat-6-22-ophthalmos-haplous (eenvoudig-oog — item 573 paar via G573), 3) cluster-bij-oog-Yah (Heb 4:13 'alle-dingen-naakt-voor-zijn-ogen' — item 2316 paar via G2316), 4) cluster-bij-ophthalmos-skandalon (oog-aanstoot Mat 18:9 — item 4625 paar via G4625), 5) cluster-bij-eis-ophthalmous-zien (Joh 9 genezen-blinden-cluster — item 5185 paar via G5185).
 
@@ -25057,8 +24263,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3788`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks ophthalmos. LXX H5869 ʿayin (~870x). NT-Mat 18:9 'beter-met-één-oog-in-leven-dan-met-twee-ogen-in-Gehenna' is centrale-eschatologische-formule.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -25158,8 +24362,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** p-a-i. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *p-a-i. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'op-voeden'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (op-voeden); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -25187,8 +24389,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3811`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -25276,9 +24476,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √p-a-l. Klassiek-Grieks palin. LXX H7725 shuv. NT-Joh-narratief frequente palin.
-
-**Etymologie:** Klassiek-Grieks palin (terug-wederom). LXX H7725 shuv-derivaat-paar via vertaling. NT-palin frequent in Joh-narratief en Paulus-toepassings-formule.
+**Wortel:** √p-a-l. LXX H7725 shuv. NT-Joh-narratief frequente palin.
 
 **Basisbetekenis:** wederom, opnieuw, terug. Master kiest concordant 'wederom' voor alle voorkomens. Range: 1) cluster-bij-palin-narratief-overgang (Joh-formule 'palin-erchetai' — item 2064 paar via G2064, ~50x in Joh), 2) cluster-bij-palin-genothenai (wedergeboren Joh 3:3 — item 1080 paar via G1080), 3) cluster-bij-palin-erōtēsō (opnieuw-vragen Joh 16:23 — item 2065 paar via G2065), 4) cluster-bij-Paulus-toepassings-formule (palin gegraptai 'er-staat-wederom-geschreven' — item 1125 paar via G1125), 5) cluster-bij-palin-eis-deuteron-aposteilai (Heb-formule — item 1208 paar via G1208).
 
@@ -25307,8 +24505,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3825`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks palin (Homerus en later). Hebreeuws-LXX-shuv-paar via H7725 als achtergrond voor 'wederom-zien-doen-keren'-spectrum.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -25409,8 +24605,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** p-a-r. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *p-a-r. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'voorbij-gaan'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (voorbij-gaan); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -25438,8 +24632,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3928`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -25528,8 +24720,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** p-a-s. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *p-a-s. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'lijden'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (lijden); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -25557,8 +24747,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3958`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -25646,13 +24834,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 419
 
-**Master-toelichting:** Vader — natuurlijk (patēr kata sarka = 'vader naar het vlees'), geestelijk (patēr pneumatikos), voorvader (patēr hēmōn Abraam = 'onze vader Abraham'), en theologisch God-de-Vader (ho patēr, ho patēr mou, patēr tou kuriou hēmōn). Context en lidwoord bepaalt referent.
+**Master-toelichting:** Vader — natuurlijk (patēr kata sarka = 'vader naar het vlees'), geestelijk (patēr pneumatikos), voorvader (patēr hēmōn Abraam = 'onze vader Abraham'), en God-de-Vader (ho patēr, ho patēr mou, patēr tou kuriou hēmōn). Context en lidwoord bepaalt referent.
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √p-a-t-r. Drie-radicaal-stam — pater is primair zn voor 'vader, voorvader, oprichter'. Stam in oudste laag van Indo-Europees verwantschaps-vocabulair (PIE *pH2-ter-, vergelijk Latijn pater, Sanskriet pitar, Engels father, Duits Vater). Stam-cognaat-paar met patria (familie-stam G3965) en patrios (vaderlijk G3971).
-
-**Etymologie:** Proto-Indo-Europees *pH2-ter- 'vader'. Cognaten: Latijn pater, Sanskriet pitar, Engels father, Duits Vater, Lithouws teve, Iers athair. LXX-Hebreeuws-tegenhanger H1 av (~1200x). NT-pater dominant in twee-betekenis-velden: directe-aardse-vader-en-voorvader (synoptici, geslachtslijsten) en Yah-de-Vader (Jezus' kenmerkende Vader-aanspreking, Paulinische theologie).
+**Wortel:** √p-a-t-r. Drie-radicaal-stam — pater is primair zn voor 'vader, voorvader, oprichter'. Stam-cognaat-paar met patria (familie-stam G3965) en patrios (vaderlijk G3971).
 
 **Basisbetekenis:** Vader, voorvader, oprichter. Master kiest concordant 'Vader' voor alle voorkomens. Range: 1) cluster-bij-Yah-de-Vader (ho pater = Yah-Vader-titel, Joh-formule — item 2316 paar via G2316, ~245x in NT), 2) cluster-bij-Pater-en-Huios (Vader-en-Zoon, christologische-paar — item 5207 paar via G5207, ~80x), 3) cluster-bij-Onze-Vader (pater hemon, Mat 6:9 gebed-formule — item 3771 paar via G3771 in liturgisch), 4) cluster-bij-aarde-vader (biologische-vader van X — item 5043 paar via G5043), 5) cluster-bij-vaderen-Israel (hoi pateres = de-vaderen-Israel als Abraham-Izak-Jakob-collectief — item 11 paar via G11 abraham).
 
@@ -25681,8 +24867,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3962`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks pater (Homerus en later, voor zowel familie-vader als godheid-titulair Zeus pater). Latijn pater (Jupiter = 'Iuv-pater' = Zeus-vader). Sanskriet pitar. Hebreeuws-LXX-bron-tegenhanger H1 av (~1200x). Aramees abba (intieme-vader-aanspreking, behouden in Mar 14:36, Rom 8:15, Gal 4:6 als Yeshua's Aramese-Vader-aanroep). Geen pre-Hellenistische Joodse-vader-titulair-voor-Yah in OT-LXX (Yah-Vader-titel is bewuste-NT-ontwikkeling).
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -25715,7 +24899,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 Cluster I — Yah-titulatuur-cluster: G2316 theos (Godheid — item 2316 paar via G2316, ~245x in 'theos-pater'-paar), G2962 kurios (Heer — item 2962 paar via G2962), G5547 christos (Christus — item 5547 paar via G5547), G3841 pantokrator (Almachtige), G2424 iesous (Jezus — item 2424 paar via G2424).
 
-Cluster II — Pater-en-Huios-cluster: G5207 huios (zoon — item 5207 paar via G5207, ~80x in 'Vader-en-Zoon'-paar), G3439 monogenes (eniggeboren — item 3439 paar via G3439 in 'eniggeboren-Zoon-van-de-Vader'-Joh 1:14), G4151 pneuma (geest — item 4151 paar via G4151 in trinitarische-formules), G2424 iesous (Jezus — item 2424 paar via G2424), G5547 christos (Christus — item 5547 paar via G5547).
+Cluster II — Pater-en-Huios-cluster: G5207 huios (zoon — item 5207 paar via G5207, ~80x in 'Vader-en-Zoon'-paar), G3439 monogenes (eniggeboren — item 3439 paar via G3439 in 'eniggeboren-Zoon-van-de-Vader'-Joh 1:14), G4151 pneuma (geest — item 4151 paar via G4151 in drievoudige-formules), G2424 iesous (Jezus — item 2424 paar via G2424), G5547 christos (Christus — item 5547 paar via G5547).
 
 Cluster III — Onze-Vader-gebed-cluster (Mat 6:9-13): G3771 hemon (van-ons — possessief in pater-hemon), G3771 zelfde, G37 hagiazo (heiligen — item 37 paar via G37 in 'jouw-naam-geheiligd-worde'), G932 basileia (koninkrijk — item 932 paar via G932 in 'jouw-koninkrijk-kome'), G2307 thelema (wil — item 2307 paar via G2307 in 'jouw-wil-geschiede').
 
@@ -25786,8 +24970,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** p-e-i. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *p-e-i. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'beproeven'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (beproeven); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -25815,8 +24997,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3985`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -25906,9 +25086,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √p-i-r. Klassiek-Grieks peirasmos. LXX H4531 massah deels-paar.
-
-**Etymologie:** Klassiek-Grieks peirasmos (beproeving, verzoeking), van peirazō (proberen-verzoeken G3985). LXX H4531 massah deels-paar. NT-peirasmos in drie-velden: dagelijks-verzoeking (Mat 6:13 'mē eisenenkēis hēmas eis peirasmon'), Yah-toetsing (Jak 1-2-12), en eindtijd-grote-peirasmos (Op 3:10 'tēs hōras tou peirasmou').
+**Wortel:** √p-i-r. LXX H4531 massah deels-paar.
 
 **Basisbetekenis:** beproeving. Master kiest concordant 'beproeving' voor alle voorkomens. Range: 1) cluster-bij-peirasmos-en-peirazō-paar (beproeving-en-beproeven — item 3985 paar via G3985, ~25x), 2) cluster-bij-peirasmos-en-thlipsis-paar (beproeving-en-verdrukking — item 2347 paar via G2347), 3) cluster-bij-Christus-Onze-Vader-Mat-6-13 ('mē eisenenkēis hēmas eis peirasmon alla rusai hēmas apo tou ponērou' — item 5547 paar via G5547, ~10x), 4) cluster-bij-Christus-Gethsemane-Mat-26-41 ('grēgoreite kai proseuchesthe hina mē eiselthēte eis peirasmon' — item 4151 paar via G4151), 5) cluster-bij-peirasmos-en-LXX-bron H4531 massah (~3x in HB, Massah-Meriba-Exo-17).
 
@@ -25937,8 +25115,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3986`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met peirao-stam. LXX-bron H4531 massah. NT-Jak 1:12 'makarios anēr hos hupomenei peirasmon' bergrede-spiegel-eschatologische-loon.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -26036,8 +25212,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** p-e-m. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *p-e-m. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'zenden'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (zenden); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -26063,8 +25237,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G3992`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -26153,8 +25325,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** p-e-r. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *p-e-r. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'rondwandelen-wandelen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (rondwandelen-wandelen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -26182,8 +25352,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4043`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -26276,8 +25444,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** p-i-n. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *p-i-n. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'drinken'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (drinken); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -26303,8 +25469,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4095`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -26387,8 +25551,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** p-i-t. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *p-i-t. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'vallen-neervallen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (vallen-neervallen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -26414,8 +25576,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4098`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -26497,9 +25657,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √p-i-s-t. Drie-radicaal-stam — pistis van peithō (overtuigen G3982) → vertrouwen-resultaat. Stam-cognaat-paar met pistos (trouw G4103), pisteuō (geloven G4100), apistos (ongelovig G571). Centraal NT-theologisch begrip.
-
-**Etymologie:** Klassiek-Grieks pistis (vertrouwen, geloof, betrouwbaarheid), van peithō (overtuigen). Cognaten: pistos (trouw), pisteuō (geloven), apistos (ongelovig), apistia (ongeloof). LXX-Hebreeuws-tegenhanger H530 emunah (~50x — trouw-vastheid) en H539 aman (~12x via afgeleide). NT-pistis dominant in drie-velden: vertrouwens-relatie-Yah, christologisch-geloof-in-Christus, en pistis als verbond-trouw.
+**Wortel:** √p-i-s-t. Drie-radicaal-stam — pistis van peithō (overtuigen G3982) → vertrouwen-resultaat. Stam-cognaat-paar met pistos (trouw G4103), pisteuō (geloven G4100), apistos (ongelovig G571). Centraal NT begrip.
 
 **Basisbetekenis:** geloof, vertrouwen, trouw. Master kiest concordant 'geloof' voor alle voorkomens. Range: 1) cluster-bij-pistis-eis-Christon (geloof-in-Christus, Paulus-formule — item 5547 paar via G5547, ~25x), 2) cluster-bij-pistis-Iesou-Christou (geloof-van-Jezus-Christus, dubbelzinnige-genitief Paulus — item 2424 paar via G2424), 3) cluster-bij-pistis-en-erga-paar (geloof-en-werken, Jak 2 — item 2041 paar via G2041, ~10x), 4) cluster-bij-pistis-en-charis-paar (geloof-en-genade Eph 2:8 — item 5485 paar via G5485), 5) cluster-bij-pistis-trouw-aspect (Yah's trouw, Rom 3:3 — item 2316 paar via G2316).
 
@@ -26528,8 +25686,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4102`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks pistis (vertrouwen tussen mensen, juridische-betrouwbaarheid). Hebreeuws-LXX-bron-tegenhanger H530 emunah (~50x — meer 'trouw-vastheid' dan 'geloofs-acceptatie'). Aramees haymanuta. Latijn fides (zelfde-spectrum). NT-pistis-Christou-Iesou (Rom 3:22, Gal 2:16) ontwikkelt nieuwe theologisch-relationele-betekenis: vertrouwende-overgave-aan-Christus als heilsweg. Joh-pisteuō (~100x in Joh-evangelie) als relationeel-werkwoord-gebeuren.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -26631,9 +25787,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √p-i-s-t. Klassiek-Grieks pistos. LXX H539 aman-derivaat.
-
-**Etymologie:** Klassiek-Grieks pistos (trouw, betrouwbaar), bijvoeglijk-derivaat van peithō. LXX H539 aman-derivaat. NT-pistos in twee-velden: Yah-trouw-aspect en mens-pistos.
+**Wortel:** √p-i-s-t. LXX H539 aman-derivaat.
 
 **Basisbetekenis:** trouw, betrouwbaar. Master kiest concordant 'trouw' voor alle voorkomens. Range: 1) cluster-bij-pistos-en-pistis-paar (trouw-en-geloof — item 4102 paar via G4102, ~25x), 2) cluster-bij-Yah-pistos (1Co 1:9 'pistos-de-Godheid' — item 2316 paar via G2316), 3) cluster-bij-pistos-doulos (trouw-slaaf Mat 25:21 — item 1401 paar via G1401), 4) cluster-bij-pistos-logos (betrouwbaar-woord 1Ti 1:15 'pistos-ho-logos' — item 3056 paar via G3056), 5) cluster-bij-Christus-pistos-marturōn (Op 1:5 'pistos-getuige-Christus' — item 3144 paar via G3144).
 
@@ -26662,8 +25816,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4103`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks pistos. LXX H539 aman-derivaat. NT-1Co 1:9 'pistos-de-Godheid' en Op 19:11 'pistos-en-aletinos' Christus-titulair.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -26762,9 +25914,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √pl-e-i. Klassiek-Grieks pleion. LXX H7227 rav-derivaat.
-
-**Etymologie:** Klassiek-Grieks pleion (meer, vergrotende-trap van polus G4183). LXX H7227 rav-derivaat. NT-pleion vergelijkings-bijvoeglijk.
+**Wortel:** √pl-e-i. LXX H7227 rav-derivaat.
 
 **Basisbetekenis:** meer (vergelijkend). Master kiest concordant 'meer' voor alle voorkomens. Range: 1) cluster-bij-pleion-en-polus-paar (meer-en-veel — item 4183 paar via G4183, ~25x), 2) cluster-bij-pleion-houtos (meer-dan-deze Mat 12:6 'meer-dan-tempel' — item 3485 paar via G3485), 3) cluster-bij-pleionai-vergelijkend-Christus (Mat 12:41-42 'meer-dan-Jona/Salomo' — item 5547 paar via G5547), 4) cluster-bij-pleion-en-elasson-paar (meer-en-minder Rom 9:11-12 — item 1640 paar via G1640), 5) cluster-bij-pleion-erga (meer-werken Joh 14:12 — item 2041 paar via G2041).
 
@@ -26793,8 +25943,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4119`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks pleion. LXX H7227 rav-derivaat. NT-Mat 12:6, 41-42 'pleion-houtos' Christus-claim-context.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -26891,8 +26039,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** p-l-ē. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *p-l-ē. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'vervullen-vol-maken'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (vervullen-vol-maken); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -26918,8 +26064,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4137`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -27002,13 +26146,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 385
 
-**Master-toelichting:** Drielagig basisbegrip: (1) wind-beweging (pneuma pneon = 'een waaiende wind'), (2) adem-levensbeginsel (pneuma zōēs = 'levensadem'), (3) geest-persoonskern menselijk (to pneuma mou = 'mijn geest') of bovennatuurlijk (pneuma akatharton = 'onreine geest'). Theologisch to pneuma to hagion = 'de Heilige Geest'. Context-disambiguatie essentieel.
+**Master-toelichting:** Drielagig basisbegrip: (1) wind-beweging (pneuma pneon = 'een waaiende wind'), (2) adem-levensbeginsel (pneuma zōēs = 'levensadem'), (3) geest-persoonskern menselijk (to pneuma mou = 'mijn geest') of bovennatuurlijk (pneuma akatharton = 'onreine geest'). to pneuma to hagion = 'de Heilige Geest'. Context-disambiguatie essentieel.
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √p-n-e-u. Drie-radicaal-stam — pneuma is primair zn voor 'geest, adem, wind'. Stam-cognaat-paar met pneo (waaien G4154) en pneumatikos (geestelijk G4152). Stam in oudste laag van Indo-Europees adem-vocabulair (PIE *pneu- 'ademen').
-
-**Etymologie:** Klassiek-Grieks pneuma (adem, wind, geest), van pneo 'waaien-ademen'. Cognaten: pneumon (long), apopneo (uitademen), empneo (inademen). LXX-Hebreeuws-tegenhanger H7307 ruach (~370x — adem, wind, geest, levensgeest). NT-pneuma dominant in vier-velden: Heilige-Geest (pneuma hagion), menselijke-geest (pneuma anthropou), wind-natuurkundig (Joh 3:8), en boze-geest (pneuma akatharton).
+**Wortel:** √p-n-e-u. Drie-radicaal-stam — pneuma is primair zn voor 'geest, adem, wind'. Stam-cognaat-paar met pneo (waaien G4154) en pneumatikos (geestelijk G4152).
 
 **Basisbetekenis:** geest, adem, wind. Master kiest concordant 'geest' voor alle voorkomens. Range: 1) cluster-bij-pneuma-hagion (Heilige-Geest, ~95x — item 40 paar via G40), 2) cluster-bij-pneuma-tou-theou (geest-van-de-Godheid, item 2316 paar via G2316), 3) cluster-bij-pneuma-Christou (geest-van-Christus, item 5547 paar via G5547 Rom 8:9), 4) cluster-bij-pneuma-akatharton (onreine-geest, demon-context, item 169 paar via G169, ~25x), 5) cluster-bij-pneuma-en-sarx-paar (geest-tegenover-vlees, Paulus — item 4561 paar via G4561, ~25x in Rom 8 en Gal 5).
 
@@ -27037,8 +26179,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4151`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks pneuma (Homerus en later, voor adem-wind-geest-spectrum). Latijn spiritus (zelfde-functie, andere wortel). Sanskriet atman (geest-zelf, andere wortel). Hebreeuws-LXX-bron-tegenhanger H7307 ruach (~370x — semantisch identiek-spectrum: adem-wind-geest). Aramees ruchaʾ (Daniel-Aramees). NT-pneuma-hagion-formule volgt LXX-Yah-ruach-traditie maar specificeert tot triniteits-derde-persoon (christologische-ontwikkeling).
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -27069,7 +26209,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Verwante semantische velden:**
 
-Cluster I — trinitarische-cluster: G2316 theos (Godheid — item 2316 paar via G2316, ~30x), G3962 pater (Vader — item 3962 paar via G3962), G2424 iesous (Jezus — item 2424 paar via G2424), G5547 christos (Christus — item 5547 paar via G5547 in pneuma-Christou-paar), G40 hagios (heilig — item 40 paar via G40 in pneuma-hagion-formule, ~95x).
+Cluster I — drievoudige-cluster: G2316 theos (Godheid — item 2316 paar via G2316, ~30x), G3962 pater (Vader — item 3962 paar via G3962), G2424 iesous (Jezus — item 2424 paar via G2424), G5547 christos (Christus — item 5547 paar via G5547 in pneuma-Christou-paar), G40 hagios (heilig — item 40 paar via G40 in pneuma-hagion-formule, ~95x).
 
 Cluster II — natuurkundig-spectrum-cluster (wind-adem-geest): G417 anemos (wind — item 417 paar via G417 in pneuma-natuurkundig-Joh 3:8), G4157 pnoe (waai-adem — derivaat-paar), G4154 pneo (waaien — wortel-paar), G2222 zoe (leven — item 2222 paar via G2222 in 'levensgeest'-paar Gen 2:7 LXX), G5590 psuche (ziel — item 5590 paar via G5590).
 
@@ -27142,8 +26282,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** p-o-i. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *p-o-i. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'doen-maken-verrichten'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (doen-maken-verrichten); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -27169,8 +26307,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4160`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -27259,8 +26395,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** p-o-i. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *p-o-i. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'weiden'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (weiden); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -27288,8 +26422,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4165`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -27372,13 +26504,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 164
 
-**Master-toelichting:** Stad als bestuurlijke-omsloten-nederzetting (hē polis Dauid = 'de stad van David' = Betlehem of Jeruzalem). In NT meer dan louter geografie: (1) Ierousalēm als theologische-centrum (hē hagia polis = 'de heilige stad'), (2) toekomende-stad-Gods (hē polis tou theou = 'de stad van God', Heb/Openb Nieuw-Jeruzalem). Onderscheiden van G2968 kōmē (dorp).
+**Master-toelichting:** Stad als bestuurlijke-omsloten-nederzetting (hē polis Dauid = 'de stad van David' = Betlehem of Jeruzalem). In NT meer dan louter geografie: (1) Ierousalēm als geestelijk centrum (hē hagia polis = 'de heilige stad'), (2) toekomende-stad-Gods (hē polis tou theou = 'de stad van God', Heb/Openb Nieuw-Jeruzalem). Onderscheiden van G2968 kōmē (dorp).
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √p-o-l-i. Drie-radicaal-stam — polis is primair zn voor 'stad, civitas, gemenebest'. Stam in oudste laag van Indo-Europees stedelijk-vocabulair (PIE *pelh1- 'vesting'). Stam-cognaat-paar met politēs (burger G4177) en politeuma (gemenebest G4175).
-
-**Etymologie:** Klassiek-Grieks polis (stad-staat, het-Atheense polis-concept). Cognaten: politēs (burger), politeuma (gemenebest), politikos (politiek). LXX-Hebreeuws-tegenhanger H5892b ʿir (~1090x). NT-polis dominant in drie-velden: geografisch-stad (Bethlehem, Jeruzalem, Nazaret), heilige-stad-Jeruzalem-eschatologisch (Op 21 nieuwe-Jeruzalem), en aionisch-gemenebest (Heb 11:10 'stad-die-fundamenten-heeft').
+**Wortel:** √p-o-l-i. Drie-radicaal-stam — polis is primair zn voor 'stad, civitas, gemenebest'. Stam-cognaat-paar met politēs (burger G4177) en politeuma (gemenebest G4175).
 
 **Basisbetekenis:** stad. Master kiest concordant 'stad' voor alle voorkomens. Range: 1) cluster-bij-Iēsous-eis-Iērousalēm (Jezus-naar-Jeruzalem Mat 21 — item 2419 paar via G2419), 2) cluster-bij-Bethleem-polis-Dauid (Bethlehem-stad-van-David Luc 2:4, Joh 7:42 — item 1138 paar via G1138), 3) cluster-bij-hagia-polis (heilige-stad Mat 4:5, Op 21:2 — item 40 paar via G40), 4) cluster-bij-polis-en-kome-paar (stad-en-dorp Mat 9:35 — item 2968 paar via G2968), 5) cluster-bij-aionisch-polis (Heb 11:10, Op 21 — item 2537 paar via G2537 als nieuwe-stad).
 
@@ -27407,8 +26537,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4172`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks polis (Atheense polis-democratie). Latijn civitas (zelfde-functie, andere wortel). Hebreeuws-LXX-bron-tegenhanger H5892b ʿir (~1090x). Aramees qiriya (Daniel-Aramees). NT-polis-cluster Jeruzalem-Bethlehem volgt Joods-OT-traditie waar steden cult-en-koninklijk-centrum zijn. Heb 11:10 'stad-die-fundamenten-heeft' is uniek-eschatologisch-gebruik.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -27507,9 +26635,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √p-o-d. Klassiek-Grieks pous. LXX H7272 regel.
-
-**Etymologie:** Klassiek-Grieks pous (voet). LXX H7272 regel (~245x). NT-pous in vier-velden: fysiek-voet, voeten-wassen-Joh 13, voeten-onder (Mat 22:44 LXX-Ps 110 'voetbank'), en voeten-evangelie-prediken.
+**Wortel:** √p-o-d. LXX H7272 regel.
 
 **Basisbetekenis:** voet. Master kiest concordant 'voet' voor alle voorkomens. Range: 1) cluster-bij-podes-en-cheires-paar (voeten-en-handen — item 5495 paar via G5495, ~25x), 2) cluster-bij-Joh-13-niptō-tous-podas (voeten-wassen — item 3538 paar via G3538), 3) cluster-bij-hupopodion-tōn-podōn (voetbank-van-voeten Mat 22:44 LXX-Ps 110:1 — item 5286 paar via G5286), 4) cluster-bij-podes-evangelium (Rom 10:15 LXX-Jes 52:7 'mooi-de-voeten-die-evangelie-brengen' — item 2098 paar via G2098), 5) cluster-bij-podes-Christus-stigma (Joh 20:25-27 — item 5547 paar via G5547).
 
@@ -27538,8 +26664,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4228`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks pous. LXX H7272 regel. NT-Joh 13 voeten-wassen Yeshua-Diakonia-formule en Mat 22:44 LXX-Ps 110:1 voetbank-formule christologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -27634,9 +26758,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √pr-e-s. Klassiek-Grieks presbuteros. LXX H2205 zaqen.
-
-**Etymologie:** Klassiek-Grieks presbuteros (oudere). LXX H2205 zaqen (~180x). NT-presbuteros in twee-velden: leeftijds-oudere en gemeente-oudste-leider.
+**Wortel:** √pr-e-s. LXX H2205 zaqen.
 
 **Basisbetekenis:** oudere, presbyter. Master kiest concordant 'oudere' voor alle voorkomens. Range: 1) cluster-bij-NT-presbuteroi-leiders (Hand 14:23, 1Ti 5:17 gemeente-oudsten — item 1577 paar via G1577, ~25x), 2) cluster-bij-presbuteros-en-episkopos-paar (Tit 1:5-7 oudste-en-opziener — item 1985 paar via G1985), 3) cluster-bij-twenty-four-presbuteroi-Op (Op 4:4 — item 2474 paar via G2474), 4) cluster-bij-presbuteroi-Israel (oudsten-Israel-NT-Hand 4:5 — item 2474 paar via G2474), 5) cluster-bij-Christus-en-presbuteroi (Mat 16:21 'lijden-onder-presbuteroi' — item 5547 paar via G5547).
 
@@ -27665,8 +26787,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4245`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks presbuteros (vergelijkende-vorm presbus). LXX H2205 zaqen. NT-Op 4:4 vier-en-twintig-oudsten-eschatologisch en Hand 14:23 vroege-gemeente-leiderschap.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -27763,9 +26883,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √pr-o-b. Klassiek-Grieks probaton. LXX H6629 tson.
-
-**Etymologie:** Klassiek-Grieks probaton (schaap). LXX H6629 tson (~270x). NT-probaton centraal-Christen-symboliek (Joh 10 schapen-en-herder, Mat 25 schapen-en-bokken).
+**Wortel:** √pr-o-b. LXX H6629 tson.
 
 **Basisbetekenis:** schaap. Master kiest concordant 'schaap' voor alle voorkomens. Range: 1) cluster-bij-probaton-en-poimen-paar (schaap-en-herder Joh 10 — item 4166 paar via G4166, ~25x), 2) cluster-bij-Mat-25-32-probata-en-erifoi-paar (schapen-en-bokken laatste-oordeel — item 2056 paar via G2056), 3) cluster-bij-probaton-Christus (Joh 1:29 'amnos-Lam' alternatief Joh 10 'kalos-poimen' — item 5547 paar via G5547), 4) cluster-bij-probaton-en-apolōlos-paar (verloren-schaap Luc 15:4 — item 622 paar via G622), 5) cluster-bij-Yah-en-probata-Israel (Ps 100:3 LXX 'wij-zijn-zijn-volk-en-schapen-zijner-weide' — item 2992 paar via G2992).
 
@@ -27794,8 +26912,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4263`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks probaton. LXX H6629 tson. NT-Joh 10 ho poimen ho kalos en Mat 25 schapen-en-bokken-oordeel.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -27888,9 +27004,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √pr-o-s. Klassiek-Grieks proseuchē. LXX H8605 tefillah.
-
-**Etymologie:** Klassiek-Grieks proseuchē (gebed), van proseuchomai (G4336). LXX H8605 tefillah (~75x). NT-proseuchē centraal-Christen-praktijk.
+**Wortel:** √pr-o-s. LXX H8605 tefillah.
 
 **Basisbetekenis:** gebed. Master kiest concordant 'gebed' voor alle voorkomens. Range: 1) cluster-bij-proseuchē-en-deēsis-paar (gebed-en-smeekgebed Filp 4:6 — item 1162 paar via G1162, ~25x), 2) cluster-bij-proseuchē-en-Yah (Hand 12:5 'gebed-werd-vurig-tot-Yah-voor-Petrus' — item 2316 paar via G2316), 3) cluster-bij-Mat-21-13-oikos-proseuchēs (huis-van-gebed LXX-Jes 56:7 — item 3624 paar via G3624), 4) cluster-bij-NT-Christus-proseuchē (Joh 17 hogepriesterlijk-gebed — item 5547 paar via G5547), 5) cluster-bij-LXX-bron H8605 tefillah-paar.
 
@@ -27919,8 +27033,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4335`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks proseuchē. LXX H8605 tefillah. NT-Mat 21:13 'oikos mou oikos proseuchēs klēthēsetai' LXX-Jes 56:7.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -28021,8 +27133,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** p-r-o. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *p-r-o. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'neerbuigen-voor'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (neerbuigen-voor); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -28050,8 +27160,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4352`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -28138,9 +27246,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √pr-o-s. Klassiek-Grieks prosōpon. LXX H6440 panim (~2120x).
-
-**Etymologie:** Klassiek-Grieks prosōpon (aangezicht, gezicht), van pros+ops. LXX H6440 panim (~2120x). NT-prosōpon in twee-velden: fysiek-gezicht en aangezicht-Yah-theofanie.
+**Wortel:** √pr-o-s. LXX H6440 panim (~2120x).
 
 **Basisbetekenis:** aangezicht, gezicht. Master kiest concordant 'aangezicht' voor alle voorkomens. Range: 1) cluster-bij-prosōpon-Yah (theofanie 2Co 4:6 'aangezicht-van-Christus-voor-aangezicht-van-de-Godheid' — item 2316 paar via G2316, ~25x), 2) cluster-bij-pesō-eis-prosōpon (op-aangezicht-vallen aanbidding-formule — item 4098 paar via G4098), 3) cluster-bij-en-prosōpō-Christou (in-aangezicht-van-Christus 2Co 2:10 — item 5547 paar via G5547), 4) cluster-bij-prosōpolēmpsia (aanzien-des-persoons Rom 2:11 — item 4382 paar via G4382), 5) cluster-bij-pro-prosōpou (vóór-het-aangezicht Mar 1:2 LXX-Mal 3:1 — item 4396 paar via G4396).
 
@@ -28169,8 +27275,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4383`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks prosōpon. LXX H6440 panim. NT-2Co 4:6 'aangezicht-van-Christus' centraal-Pauliaans.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -28271,8 +27375,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** p-r-o. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *p-r-o. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'profeteren'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (profeteren); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -28300,8 +27402,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4395`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -28388,9 +27488,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √pr-o-ph. Klassiek-Grieks prophētēs (Delphi-orakel). LXX H5030 navi. NT-OT-en-NT-prophētēs.
-
-**Etymologie:** Klassiek-Grieks prophētēs (voor-spreker), van pro+phēmi. LXX H5030 navi (~315x). NT-prophētēs gebruikt voor OT-profeten en NT-charisma-profeet.
+**Wortel:** √pr-o-ph. LXX H5030 navi. NT-OT-en-NT-prophētēs.
 
 **Basisbetekenis:** profeet, voor-spreker. Master kiest concordant 'profeet' voor alle voorkomens. Range: 1) cluster-bij-OT-prophētai (oud-testamentische-profeten Mat 5:12 — item 2316 paar via G2316, ~30x), 2) cluster-bij-prophētai-en-nomos (profeten-en-wet samenvatting-OT — item 3551 paar via G3551, ~10x), 3) cluster-bij-Iōannēs-de-Doper-prophētēs (Mat 11:9 — item 2491 paar via G2491), 4) cluster-bij-NT-prophētēs (Hand 11:27, 1Co 12:28 — item 1577 paar via G1577), 5) cluster-bij-pseudoprophētēs (valse-profeet Mat 7:15 — item 5578 paar via G5578).
 
@@ -28419,8 +27517,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4396`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks prophētēs (Delphi-orakel-context). LXX H5030 navi (~315x). NT-prophētai-en-Iōannēs-de-Doper als 'meer-dan-profeet'-Mat 11.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -28515,13 +27611,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 74
 
-**Master-toelichting:** Vuur — letterlijk en theologisch-symbolisch: (1) natuurlijk-vuur (anaptein pur = 'vuur ontsteken'), (2) reinigend-louterings-vuur (pur dokimaseis = 'vuur zal beproeven', 1 Kor 3:13), (3) oordeelsvuur (gehennē tou puros = 'Gehenna-des-vuurs' — eschatologisch-oordeel, Matt 5:22), (4) Heilige-Geest-vuur (glōssai hōsei puros = 'tongen als van vuur', Hand 2:3 Pinksteren), (5) God-zelf-vuur (ho theos hēmōn pur katanaliskon = 'onze God is een verterend vuur', Heb 12:29 — Deut 4:24-citaat).
+**Master-toelichting:** Vuur — letterlijk en symbolisch: (1) natuurlijk-vuur (anaptein pur = 'vuur ontsteken'), (2) reinigend-louterings-vuur (pur dokimaseis = 'vuur zal beproeven', 1 Kor 3:13), (3) oordeelsvuur (gehennē tou puros = 'Gehenna-des-vuurs' — eschatologisch-oordeel, Matt 5:22), (4) Heilige-Geest-vuur (glōssai hōsei puros = 'tongen als van vuur', Hand 2:3 Pinksteren), (5) God-zelf-vuur (ho theos hēmōn pur katanaliskon = 'onze God is een verterend vuur', Heb 12:29 — Deut 4:24-citaat).
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √p-u-r. Klassiek-Grieks pur. LXX H784 esh.
-
-**Etymologie:** Klassiek-Grieks pur (vuur). LXX H784 esh (~380x). NT-pur in vier-velden: fysiek-vuur, cult-vuur-offer, eschatologisch-vuur, en pur-Geest (Mat 3:11 doop-met-vuur).
+**Wortel:** √p-u-r. LXX H784 esh.
 
 **Basisbetekenis:** vuur. Master kiest concordant 'vuur' voor alle voorkomens. Range: 1) cluster-bij-pur-eschatologisch (Mat 13:42 'pur-aionios' — item 166 paar via G166, ~25x), 2) cluster-bij-pur-en-pneuma-paar (vuur-en-Geest Mat 3:11 doop — item 4151 paar via G4151), 3) cluster-bij-baptisma-en-pur (doop-en-vuur — item 907 paar via G907), 4) cluster-bij-Op-pur-tartaros (Op 19:20, 20:10 — item 2920 paar via G2920), 5) cluster-bij-pur-en-thanatos-paar (vuur-en-tweede-dood Op 20:14 — item 2288 paar via G2288).
 
@@ -28550,8 +27644,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4442`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks pur. LXX H784 esh (~380x). NT-Mat 3:11 'doop-met-Heilige-Geest-en-vuur' centraal-pneumatologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -28649,9 +27741,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √p-o-s. Klassiek-Grieks pōs. LXX H349 ek. NT-pōs-Joh-Paulus-vraag-formules.
-
-**Etymologie:** Klassiek-Grieks pōs (hoe-vraag-deeltje). LXX H349 ek-tegenhanger via vragend-deeltje. NT-pōs in narratief-vraag, retorisch-vraag, en hoe-formules.
+**Wortel:** √p-o-s. LXX H349 ek. NT-pōs-Joh-Paulus-vraag-formules.
 
 **Basisbetekenis:** hoe, op-welke-wijze. Master kiest concordant 'hoe' voor alle voorkomens. Range: 1) cluster-bij-pōs-narratief-vraag (Mat-Joh dialoog — item 5101 paar via G5101, ~50x), 2) cluster-bij-pōs-retorisch (Paulus-Rom 'hoe-zal-Hij...' — item 4225 paar via G4225), 3) cluster-bij-pōs-instructie-paulus (1Co 14:7 'hoe-zal-bekend-worden' — item 1097 paar via G1097), 4) cluster-bij-pōs-Christus-vraag (Joh 6:42 'hoe-zegt-Hij' — item 5547 paar via G5547), 5) cluster-bij-pōs-Yah-vraag (Rom 10:14 'hoe-zullen-zij-aanroepen-de-Heer' — item 2962 paar via G2962).
 
@@ -28680,8 +27770,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4459`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks pōs (Homerus en later vragend-deeltje). Hebreeuws-LXX-bron H349 ek. NT-pōs-formules in Paulus en Joh.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -28780,9 +27868,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √rh-e-m. Klassiek-Grieks rhēma. LXX H1697 davar deels.
-
-**Etymologie:** Klassiek-Grieks rhēma (uitspraak), van rheō (zeggen). LXX H1697 davar deels (~280x deels-via vertaling). NT-rhēma als specifiek-uitgesproken-woord, parallel-en-naast logos.
+**Wortel:** √rh-e-m. LXX H1697 davar deels.
 
 **Basisbetekenis:** uitspraak. Master kiest concordant 'uitspraak' voor alle voorkomens. Range: 1) cluster-bij-rhēma-tou-theou (uitspraak-van-de-Godheid Mat 4:4 LXX-Deu 8:3 — item 2316 paar via G2316, ~25x), 2) cluster-bij-rhēma-Christou (Joh 5:47 'mijn-uitspraken' — item 5547 paar via G5547), 3) cluster-bij-rhēma-en-logos-paar (uitspraak-en-woord — item 3056 paar via G3056, ~25x), 4) cluster-bij-rhēma-prophētikon (profetisch-uitspraak — item 4396 paar via G4396), 5) cluster-bij-rhēma-pisteōs (uitspraak-van-geloof Rom 10:8-9 — item 4102 paar via G4102).
 
@@ -28811,8 +27897,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4487`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks rhēma. LXX H1697 davar deels. NT-Mat 4:4 LXX-Deu 8:3 'mens-leeft-niet-bij-brood-alleen-maar-bij-elke-rhēma-uit-mond-Yah' centraal.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -28909,9 +27993,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √s-a-r-x. Klassiek-Grieks sarx. LXX H1320 basar. NT-Paulus-sarx-tegenpool-pneuma theologisch-belangrijk.
-
-**Etymologie:** Klassiek-Grieks sarx (vlees-orgaan). LXX H1320 basar (~270x). NT-Paulus-sarx-tegenpool-pneuma (Rom 8 en Gal 5) is theologisch-ontwikkeling.
+**Wortel:** √s-a-r-x. LXX H1320 basar. NT-Paulus-sarx-tegenpool-pneuma belangrijk.
 
 **Basisbetekenis:** vlees, lichaam-vergankelijk, menselijke-natuur. Master kiest concordant 'vlees' voor alle voorkomens. Range: 1) cluster-bij-sarx-en-pneuma-paar (Rom 8, Gal 5 Paulus-tegenpool — item 4151 paar via G4151, ~25x), 2) cluster-bij-Christus-sarx (logos-werd-vlees Joh 1:14 — item 3056 paar via G3056), 3) cluster-bij-pasa-sarx (alle-vlees=alle-mensheid LXX-via-H1320 — item 444 paar via G444), 4) cluster-bij-sarx-en-haima-paar (vlees-en-bloed Mat 16:17 — item 129 paar via G129), 5) cluster-bij-sarx-tegen-nomos (vlees-tegenover-wet Paulus Gal 3:3 — item 3551 paar via G3551).
 
@@ -28940,8 +28022,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4561`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks sarx. LXX-bron H1320 basar (~270x). Paulus-Joh-incarnatie-formule logos sarx egeneto (Joh 1:14) en Paulus-sarx-pneuma-tegenstelling zijn unieke-NT-theologie.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -29040,9 +28120,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √s-e-m. Klassiek-Grieks sēmeion. LXX H226 ot.
-
-**Etymologie:** Klassiek-Grieks sēmeion (teken). LXX H226 ot (~80x). NT-sēmeion in vier-velden: aankondigings-teken, wonder-teken-Christus, eschatologisch-teken, en valse-tekenen.
+**Wortel:** √s-e-m. LXX H226 ot.
 
 **Basisbetekenis:** teken. Master kiest concordant 'teken' voor alle voorkomens. Range: 1) cluster-bij-sēmeia-en-terata-paar (tekenen-en-wonderen Mat 24:24 — item 5059 paar via G5059, ~15x), 2) cluster-bij-Joh-7-tekenen (sēmeia-Joh-evangelie 7-cluster — item 5547 paar via G5547, ~25x), 3) cluster-bij-sēmeion-tou-prophētou-Iōna (Mat 12:39 — item 2495 paar via G2495), 4) cluster-bij-sēmeia-tōn-kairōn (tekenen-der-tijden Mat 16:3 — item 2540 paar via G2540), 5) cluster-bij-pseudo-sēmeia (valse-tekenen 2Th 2:9 — item 5570 paar via G5570).
 
@@ -29071,8 +28149,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4592`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks sēmeion. LXX H226 ot. NT-Joh-7-tekenen-evangelie-structuur centraal.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -29167,9 +28243,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √sk-ʾu. Klassiek-Grieks skeuos. LXX H3627 keli dominant.
-
-**Etymologie:** Klassiek-Grieks skeuos (vat, gereedschap, instrument), Indo-Europees met Sanskriet skava. LXX H3627 keli dominant-paar. NT-skeuos in drie-velden: cult-tempel-vaten (Heb 9), uitverkoren-vat (Hand 9-15), en eer-versus-oneer-vaten (Rom-9-21, 2Ti-2-20).
+**Wortel:** √sk-ʾu. LXX H3627 keli dominant.
 
 **Basisbetekenis:** vat. Master kiest concordant 'vat' voor alle voorkomens. Range: 1) cluster-bij-skeuos-en-skēnē-paar (vat-en-tabernakel-cult-cluster — item 4633 paar via G4633, ~25x), 2) cluster-bij-skeuos-cult-tempel-Mar-11-16 ('ouk ēphien hina tis dienenkēi skeuos dia tou hierou' — item 4151 paar via G4151), 3) cluster-bij-Paulus-skeuos-eklogēs-Hand-9-15 ('skeuos eklogēs estin moi houtos' Yah-uitverkoren-vat — item 5547 paar via G5547, ~10x), 4) cluster-bij-skeuos-Rom-9-21-pottenbakker-eer-en-oneer-vaten (item 2316 paar via G2316), 5) cluster-bij-skeuos-en-LXX-bron H3627 keli (~325x in HB).
 
@@ -29198,8 +28272,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4632`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met Sanskriet skava. LXX-bron H3627 keli. NT-1Th 4:4 'eidenai hekaston humōn to heautou skeuos' eigen-vat-lichaam-vrouw-uitleg.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -29295,9 +28367,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √s-o-ph. Klassiek-Grieks sophia. LXX H2451 chokmah.
-
-**Etymologie:** Klassiek-Grieks sophia (wijsheid). LXX H2451 chokmah (~150x). NT-sophia in vier-velden: praktische-wijsheid, sophia-tou-theou (Yah-wijsheid), Christus-sophia, en sophia-tou-kosmou-tegenpool.
+**Wortel:** √s-o-ph. LXX H2451 chokmah.
 
 **Basisbetekenis:** wijsheid. Master kiest concordant 'wijsheid' voor alle voorkomens. Range: 1) cluster-bij-sophia-tou-theou (Yah-wijsheid 1Co 2:7 — item 2316 paar via G2316, ~25x), 2) cluster-bij-sophia-Christou (1Co 1:24 'Christus-Yah-kracht-en-Yah-wijsheid' — item 5547 paar via G5547), 3) cluster-bij-sophia-en-sunesis-paar (wijsheid-en-verstand Eph 1:8 — item 4907 paar via G4907), 4) cluster-bij-sophia-tou-kosmou (wijsheid-van-de-wereld 1Co 1:20 — item 2889 paar via G2889), 5) cluster-bij-Salomon-sophia-Mat-12-42 (LXX-1Kg 10 — item 4672 paar via G4672).
 
@@ -29326,8 +28396,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4678`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks sophia. LXX H2451 chokmah. NT-1Co 1-2 cluster Paulus-sophia-tou-theou-tegenover-sophia-tou-kosmou centraal.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -29423,9 +28491,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √sp-e-r. Klassiek-Grieks sperma. LXX H2233 zera.
-
-**Etymologie:** Klassiek-Grieks sperma (zaad), van speirō (zaaien G4687). LXX H2233 zera (~225x). NT-sperma in twee-velden: fysiek-zaad en nageslacht-zaad-Christus (Gal 3:16).
+**Wortel:** √sp-e-r. LXX H2233 zera.
 
 **Basisbetekenis:** zaad, nageslacht. Master kiest concordant 'zaad-nageslacht' voor alle voorkomens. Range: 1) cluster-bij-sperma-Abraam (zaad-Abraham Rom 4:13 — item 11 paar via G11, ~25x), 2) cluster-bij-Gal-3-16-sperma-Christus (Paulus' interpretatie 'aan-Abraham-en-zijn-zaad-Christus' — item 5547 paar via G5547), 3) cluster-bij-sperma-en-spora-paar (zaad-en-zaaiing 1Pe 1:23 — item 4701 paar via G4701), 4) cluster-bij-sperma-Dauid (zaad-David Rom 1:3 — item 1138 paar via G1138), 5) cluster-bij-sperma-tou-theou (zaad-van-de-Godheid 1Jo 3:9 — item 2316 paar via G2316).
 
@@ -29454,8 +28520,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4690`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks sperma. LXX H2233 zera. NT-Gal 3:16 Paulus' singulier-zaad-interpretatie christologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -29552,9 +28616,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √s-t-o-m. Klassiek-Grieks stoma. LXX H6310 peh.
-
-**Etymologie:** Klassiek-Grieks stoma (mond). LXX H6310 peh (~500x). NT-stoma in twee-velden: fysiek-mond en mond-als-spreek-orgaan.
+**Wortel:** √s-t-o-m. LXX H6310 peh.
 
 **Basisbetekenis:** mond. Master kiest concordant 'mond' voor alle voorkomens. Range: 1) cluster-bij-stoma-en-logos-paar (mond-en-woord — item 3056 paar via G3056, ~25x), 2) cluster-bij-Mat-12-34-stoma-en-kardia (uit-overvloed-van-hart-spreekt-mond — item 2588 paar via G2588), 3) cluster-bij-stoma-en-cheilos-paar (mond-en-lippen — item 5491 paar via G5491), 4) cluster-bij-stoma-Yah-prophētēs (Hand 3:18 'mond-van-zijn-profeten' — item 4396 paar via G4396), 5) cluster-bij-stoma-Christus (Mat 4:4 'elk-woord-uit-mond-van-Yah' — item 5547 paar via G5547).
 
@@ -29583,8 +28645,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4750`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks stoma. LXX H6310 peh (~500x). NT-Mat 12:34 'uit-overvloed-van-hart-spreekt-mond' is centrale-Mat-Bergrede-formule.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -29679,13 +28739,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 110
 
-**Master-toelichting:** Werkwoord van redden-behouden: (1) fysiek-bewaren-uit-gevaar (sōson hēmas = 'red ons', Matt 8:25), (2) genezen-gezond-maken (hē pistis sou sesōken se = 'uw geloof heeft u gered/genezen'), (3) theologisch-redden-uit-zonde-en-oordeel (sōthēsesthe = 'gij zult gered worden'). Stamfamilie G4991 sōtēria (redding), G4990 sōtēr (redder), G4992 sōtērion (reddingmiddel).
+**Master-toelichting:** Werkwoord van redden-behouden: (1) fysiek-bewaren-uit-gevaar (sōson hēmas = 'red ons', Matt 8:25), (2) genezen-gezond-maken (hē pistis sou sesōken se = 'uw geloof heeft u gered/genezen'), (3) redden-uit-zonde-en-oordeel (sōthēsesthe = 'gij zult gered worden'). Stamfamilie G4991 sōtēria (redding), G4990 sōtēr (redder), G4992 sōtērion (reddingmiddel).
 
 ## B. Wortel-analyse (anker 1)
 
 **Wortel:** s-ō-i. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
-
-**Etymologie:** Proto-Semitisch *s-ō-i. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
 
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'redden-bewaren-genezen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
@@ -29712,8 +28770,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4982`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -29800,9 +28856,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √s-o-m. Klassiek-Grieks sōma. LXX H1320 basar. NT-Paulus-sōma-Christou-theologie 1Co 12.
-
-**Etymologie:** Klassiek-Grieks sōma (lichaam-organisme). LXX H1320 basar en H1472 geviyyah. NT-Paulus-sōma-Christou-ekklēsia (1Co 12) ontwikkelt theologische-metafoor.
+**Wortel:** √s-o-m. LXX H1320 basar. NT-Paulus-sōma-Christou-theologie 1Co 12.
 
 **Basisbetekenis:** lichaam, organisch-geheel. Master kiest concordant 'lichaam' voor alle voorkomens. Range: 1) cluster-bij-sōma-Christou (lichaam-van-Christus 1Co 12 — item 5547 paar via G5547, ~25x), 2) cluster-bij-sōma-tēs-ekklēsias (lichaam-van-de-gemeente — item 1577 paar via G1577), 3) cluster-bij-sōma-en-haima-paar (avondmaal-formule Mat 26:26 — item 129 paar via G129), 4) cluster-bij-sōma-en-melos-paar (lichaam-en-leden 1Co 12:12 — item 3196 paar via G3196), 5) cluster-bij-sōma-en-sarx-paar (lichaam-en-vlees Eph 5:29 — item 4561 paar via G4561).
 
@@ -29831,8 +28885,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4983`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks sōma (Plato lichaam-tegenover-ziel-dualisme). LXX-vertaling H1320 basar maar ook H1472 geviyyah. Paulus-sōma-Christou-ekklēsia is unieke NT-metafoor.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -29931,9 +28983,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √s-o-t. Klassiek-Grieks sōtēria. LXX H3444 yeshuʿah.
-
-**Etymologie:** Klassiek-Grieks sōtēria (redding), van sōzō (G4982). LXX H3444 yeshuʿah en H8668 teshuʿah. NT-sōtēria in twee-velden: redding-Yeshua-Christus en sōtēria-eschatologisch.
+**Wortel:** √s-o-t. LXX H3444 yeshuʿah.
 
 **Basisbetekenis:** redding. Master kiest concordant 'redding' voor alle voorkomens. Range: 1) cluster-bij-sōtēria-en-sōzō-paar (redding-en-redden — item 4982 paar via G4982, ~25x), 2) cluster-bij-sōtēria-Christou (Eph 1:13 'evangelie-van-jullie-redding' — item 5547 paar via G5547, ~25x), 3) cluster-bij-Yah-sōtēria (Hand 4:12 'in-niemand-anders-sōtēria' — item 2316 paar via G2316), 4) cluster-bij-sōtēria-en-pistis-paar (redding-en-geloof — item 4102 paar via G4102), 5) cluster-bij-eschatologische-sōtēria (1Pe 1:5 'redding-bereid-om-in-laatste-tijd-geopenbaard' — item 2078 paar via G2078).
 
@@ -29962,8 +29012,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G4991`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks sōtēria. LXX H3444 yeshuʿah. NT-Hand 4:12 'sōtēria in niemand-anders' centraal-Christologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -30062,9 +29110,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √t-e-k. Klassiek-Grieks teknon. LXX H1121a ben.
-
-**Etymologie:** Klassiek-Grieks teknon (kind), van tikto (baren G5088). LXX H1121a ben en H3206 yeled. NT-teknon in twee-velden: biologisch-kind en theologisch-tekna-tou-theou.
+**Wortel:** √t-e-k. LXX H1121a ben.
 
 **Basisbetekenis:** kind, nakomeling. Master kiest concordant 'kind' voor alle voorkomens. Range: 1) cluster-bij-tekna-tou-theou (kinderen-van-de-Godheid Joh 1:12 — item 2316 paar via G2316, ~25x), 2) cluster-bij-Paulus-tekna-mou (mijn-kind 1Co 4:14 paterneel-paulus — item 3962 paar via G3962, ~10x), 3) cluster-bij-teknon-en-pater-paar (kind-en-vader Eph 6:1-4 — item 3962 paar via G3962), 4) cluster-bij-teknia-1Jo (kindjes-Joh 1Jo 2:1 — item 5040 paar via G5040), 5) cluster-bij-Christus-teknon (Christus-als-kind-Maria Luc 2 — item 2424 paar via G2424).
 
@@ -30093,8 +29139,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5043`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks teknon (Homerus en later). LXX H1121a ben (~5000x dominant) én H3206 yeled. NT-Joh 1:12 tekna-tou-theou is theologisch-belangrijk.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -30195,8 +29239,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** t-e-l. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *t-e-l. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'voltooien'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (voltooien); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -30224,8 +29266,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5055`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -30313,9 +29353,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √t-s-r. Klassiek-Grieks tessarakonta. LXX H705 arbaim dominant.
-
-**Etymologie:** Klassiek-Grieks tessarakonta (veertig), telwoord. LXX H705 arbaim dominant-paar. NT-tessarakonta in drie-typologische-velden: Mozes-veertig-jaar (Hand 7), woestijn-veertig-jaar (Heb 3), en Christus-vasten-en-opstandings-cluster (Mat 4, Hand 1-3).
+**Wortel:** √t-s-r. LXX H705 arbaim dominant.
 
 **Basisbetekenis:** veertig. Master kiest concordant 'veertig' voor alle voorkomens. Range: 1) cluster-bij-tessarakonta-en-duo-paar (veertig-en-twee-getalsystem — item 1417 paar via G1417, ~25x), 2) cluster-bij-tessarakonta-en-hekaton-paar (veertig-en-honderd-getalsystem — item 1812 paar via G1812), 3) cluster-bij-Christus-tessarakonta-vasten-Mat-4-2 ('nēsteusas hēmeras tessarakonta kai nuktas tessarakonta' Mozes-Sinai-typologie — item 5547 paar via G5547, ~10x), 4) cluster-bij-tessarakonta-na-opstanding-Hand-1-3 ('di hēmerōn tessarakonta optanomenos autois') Christus-instructie-Geest-belofte (item 4151 paar via G4151), 5) cluster-bij-tessarakonta-en-LXX-bron H705 arbaim (~135x in HB).
 
@@ -30344,8 +29382,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5062`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met tessares-vier+kontades-tienen. LXX-bron H705 arbaim. NT-Heb 3:9-17 LXX-Ps-95-citaat veertig-jaar-woestijn-Israël-typologie.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -30439,8 +29475,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** t-ē-r. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *t-ē-r. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'bewaren-houden-onderhouden'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (bewaren-houden-onderhouden); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -30466,8 +29500,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5083`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -30556,8 +29588,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** t-i-h. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *t-i-h. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'plaatsen-stellen-leggen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (plaatsen-stellen-leggen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -30583,8 +29613,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5087`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -30671,9 +29699,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √t-i-m. Klassiek-Grieks timē. LXX H3519 kavod deels.
-
-**Etymologie:** Klassiek-Grieks timē (eer, prijs). LXX H3519 kavod (~165x deels) en H3366 yqar. NT-timē in twee-velden: eer-aan-Yah/Christus en prijs-koopwaarde.
+**Wortel:** √t-i-m. LXX H3519 kavod deels.
 
 **Basisbetekenis:** eer, prijs. Master kiest concordant 'eer' voor alle voorkomens. Range: 1) cluster-bij-timē-en-doxa-paar (eer-en-heerlijkheid — item 1391 paar via G1391, ~25x), 2) cluster-bij-Heb-2-7-9-doxa-kai-timē (LXX-Ps 8 christologisch — item 5547 paar via G5547), 3) cluster-bij-timē-tou-pater (eer-aan-Vader Joh 5:23 — item 3962 paar via G3962), 4) cluster-bij-timē-koopprijs (Mat 27:6 'timē tou aimatos' Judas-zilver — item 129 paar via G129), 5) cluster-bij-timē-tōn-presbuterōn (1Ti 5:17 'eer-dubbele-aan-presbuteroi' — item 4245 paar via G4245).
 
@@ -30702,8 +29728,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5092`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks timē. LXX H3519 kavod deels. NT-Heb 2:7-9 LXX-Ps 8 'doxa kai timē' christologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -30800,9 +29824,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √t-o-p. Klassiek-Grieks topos. LXX H4725 maqom (~400x).
-
-**Etymologie:** Klassiek-Grieks topos (plaats, locatie). LXX H4725 maqom (~400x). NT-topos in twee-velden: geografisch-plaats en cult-plaats (Joh 11:48 'topos-en-ethnos').
+**Wortel:** √t-o-p. LXX H4725 maqom (~400x).
 
 **Basisbetekenis:** plaats, locatie. Master kiest concordant 'plaats' voor alle voorkomens. Range: 1) cluster-bij-topos-narratief (Mat-Mar 'op-die-plaats' — item 1565 paar via G1565, ~50x), 2) cluster-bij-cult-topos (Joh 11:48 'topos-en-ethnos'-tempel-context — item 1484 paar via G1484), 3) cluster-bij-topos-Yah-cult (LXX-bron H4725 maqom 'plaats-die-Yah-zal-kiezen' — item 2316 paar via G2316), 4) cluster-bij-topos-en-chora-paar (plaats-en-gebied — item 5561 paar via G5561), 5) cluster-bij-eis-idion-topon (naar-eigen-plaats Hand 1:25 Judas-context — item 2398 paar via G2398).
 
@@ -30831,8 +29853,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5117`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks topos. LXX H4725 maqom (~400x — Joods-cult-plaats vooral). NT-Joh 11:48 'plaats-en-natie' = 'tempel-en-Israel'-Joods-leiders-zorg.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -30930,9 +29950,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √tr-e-i. Klassiek-Grieks treis. LXX H7969 shalosh.
-
-**Etymologie:** Klassiek-Grieks treis (drie). LXX H7969 shalosh (~580x). NT-treis centraal: drie-dagen-Christus, drie-getuigen, en triadische-formules.
+**Wortel:** √tr-e-i. LXX H7969 shalosh.
 
 **Basisbetekenis:** drie. Master kiest concordant 'drie' voor alle voorkomens. Range: 1) cluster-bij-treis-hēmerai (drie-dagen-Christus-grafrust — item 2250 paar via G2250, ~10x in 'na-drie-dagen-opwekken'-Mat 16:21), 2) cluster-bij-treis-martures (drie-getuigen Mat 18:16 LXX-Deu 19:15 — item 3144 paar via G3144), 3) cluster-bij-treis-en-duo-paar (drie-en-twee — item 1417 paar via G1417), 4) cluster-bij-treis-en-pater-huios-pneuma (triadische-formule Mat 28:19 — item 3962 paar via G3962), 5) cluster-bij-treis-en-Petrus-Jakobus-Joh (transfiguratie-trio Mat 17:1 — item 4074 paar via G4074).
 
@@ -30961,8 +29979,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5140`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks treis. LXX H7969 shalosh. NT-Mat 16:21 drie-dagen-opwekking en Mat 28:19 triadische-doop-formule.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -31059,9 +30075,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √t-u-ph. Klassiek-Grieks tuphlos. LXX H5787 ʿiwwer.
-
-**Etymologie:** Klassiek-Grieks tuphlos (blind). LXX H5787 ʿiwwer-derivaat. NT-tuphlos in twee-velden: fysiek-blind (Christus-genezings-narratief) en geestelijk-blind (Mat 15:14, Joh 9).
+**Wortel:** √t-u-ph. LXX H5787 ʿiwwer.
 
 **Basisbetekenis:** blind. Master kiest concordant 'blind' voor alle voorkomens. Range: 1) cluster-bij-Christus-genezen-tuphloi (Mat 11:5 LXX-Jes 35:5 'blinden-zien' — item 5547 paar via G5547, ~25x), 2) cluster-bij-tuphlos-leider (Mat 15:14 'blinde-leiders-van-blinden' — item 3595 paar via G3595), 3) cluster-bij-Joh-9-blindgeborene (Joh 9-narratief — item 1080 paar via G1080), 4) cluster-bij-tuphlos-en-kakos-paar (1Co 5:11) niet-direct, G2540 zelfde-cluster niet-via, G2540 niet-direct.
 
@@ -31090,8 +30104,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5185`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks tuphlos. LXX H5787 ʿiwwer. NT-Mat 11:5 'tuphloi anablepousin' (blinden-zien) LXX-Jes 35:5-vervulling messianisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -31183,9 +30195,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √h-u-d-o. Klassiek-Grieks hudōr. LXX H4325 mayim.
-
-**Etymologie:** Klassiek-Grieks hudōr (water). LXX H4325 mayim (~580x). NT-hudōr in vier-velden: fysiek-water, doop-water, levend-water-Joh 4, en eschatologische-water-Op 22.
+**Wortel:** √h-u-d-o. LXX H4325 mayim.
 
 **Basisbetekenis:** water. Master kiest concordant 'water' voor alle voorkomens. Range: 1) cluster-bij-hudōr-zōn (levend-water Joh 4:10-11 — item 2222 paar via G2222), 2) cluster-bij-doop-hudōr (Mat 3:16 — item 907 paar via G907, ~25x), 3) cluster-bij-hudōr-en-pneuma-paar (water-en-Geest Joh 3:5 — item 4151 paar via G4151), 4) cluster-bij-hudōr-en-haima-paar (water-en-bloed Joh 19:34 — item 129 paar via G129), 5) cluster-bij-Op-22-hudōr-zōēs (water-des-levens Op 22:1 — item 2222 paar via G2222).
 
@@ -31214,8 +30224,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5204`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks hudōr. LXX H4325 mayim (~580x). NT-Joh 4 levend-water Samaritaanse en Op 22 water-des-levens.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -31311,9 +30319,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √h-u-i. Drie-radicaal-stam — huios is primair zn voor 'zoon, kind-mannelijk, nakomeling'. Stam in oudste laag van Indo-Europees verwantschaps-vocabulair (PIE *suHnu- 'zoon', vergelijk Sanskriet sunu, Engels son, Duits Sohn). Stam-cognaat-paar met huiothesia (zoonschap-aanname G5206).
-
-**Etymologie:** Klassiek-Grieks huios (zoon, mannelijke-nakomeling). Cognaten: Sanskriet sunu (zoon), Engels son, Duits Sohn, Lithouws sunus, Oud-Slavisch synu. LXX-Hebreeuws-tegenhanger H1121a ben (~5000x). NT-huios dominant in vier-velden: directe-zoon-narratief, huios-tou-anthropou (Mensenzoon), huios-tou-theou (Zoon-van-de-Godheid), en geestelijke-zoonschap (Paulus-Joh).
+**Wortel:** √h-u-i. Drie-radicaal-stam — huios is primair zn voor 'zoon, kind-mannelijk, nakomeling'. Stam-cognaat-paar met huiothesia (zoonschap-aanname G5206).
 
 **Basisbetekenis:** zoon, kind-mannelijk, nakomeling. Master kiest concordant 'zoon' voor alle voorkomens. Range: 1) cluster-bij-huios-tou-theou (Zoon-van-de-Godheid, christologische-titel — item 2316 paar via G2316, ~80x), 2) cluster-bij-huios-tou-anthropou (Mensenzoon, Jezus' zelf-aanduiding — item 444 paar via G444, ~80x), 3) cluster-bij-huios-Dauid (Zoon-van-David, messiaanse-titel Mat — item 1138 paar via G1138, ~15x), 4) cluster-bij-huioi-tou-theou (zonen-van-de-Godheid, gelovigen Rom 8:14 — item 2316 paar via G2316), 5) cluster-bij-huios-monogenes (eniggeboren-Zoon, Joh 3:16 — item 3439 paar via G3439).
 
@@ -31342,8 +30348,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5207`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks huios (Homerus en later, voor mannelijke-nakomeling). Latijn filius (andere wortel). Sanskriet sunu, Engels son, Duits Sohn (Indo-Europese-cognaten). Hebreeuws-LXX-bron-tegenhanger H1121a ben (~5000x — semantisch identiek). Aramees bar (zoon, in NT bar-Iona, bar-Tholomaios, bar-Nabba). LXX-vertaling van bnei-elohim (Job 1:6, 2:1) als huioi tou theou (engelen-context).
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -31444,9 +30448,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √h-ups. Klassiek-Grieks hupsēlos. LXX H1364 gavoah dominant.
-
-**Etymologie:** Klassiek-Grieks hupsēlos (hoog, verheven), van hupsos (hoogte G5311). LXX H1364 gavoah dominant-paar. NT-hupsēlos in drie-velden: literair-hoog-berg (Mat 4-8, 17-1; Op 21-10), kritisch-mensen-trots (Lukas 16-15 'to en anthrōpois hupsēlon bdelugma enōpion tou theou'), en doxologisch-Yah (Heb 1-3 'en dexiai tēs megalōsunēs en hupsēlois').
+**Wortel:** √h-ups. LXX H1364 gavoah dominant.
 
 **Basisbetekenis:** hoog. Master kiest concordant 'hoog' voor alle voorkomens. Range: 1) cluster-bij-hupsēlos-en-hupsos-paar (hoog-bn-en-hoogte-zn — item 5311 paar via G5311, ~25x), 2) cluster-bij-hupsēlos-en-hupsistos-paar (hoog-en-allerhoogste — item 5310 paar via G5310), 3) cluster-bij-Christus-verheerlijking-Mat-17-1 'eis oros hupsēlon kat idian' Tabor-cluster-Mozes-Elia (item 5547 paar via G5547, ~10x), 4) cluster-bij-Lukas-16-15-trotse-mensen 'to en anthrōpois hupsēlon bdelugma enōpion tou theou' (item 4567 paar via G4567 als-tegenpool), 5) cluster-bij-hupsēlos-en-LXX-bron H1364 gavoah.
 
@@ -31475,8 +30477,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5308`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met hupsi-omhoog. LXX-bron H1364 gavoah. NT-Heb 7:26 Christus-hogepriester 'hagios akakos amiantos kechōrismenos apo tōn hamartōlōn kai hupsēloteros tōn ouranōn genomenos' eindstand-verheven-Christus.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -31569,8 +30569,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** p-h-a. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *p-h-a. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'eten-aorist'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (eten-aorist); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -31598,8 +30596,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5315`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -31688,8 +30684,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** p-h-e. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *p-h-e. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'dragen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (dragen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -31717,8 +30711,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5342`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -31814,8 +30806,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** p-h-e. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *p-h-e. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'vluchten'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (vluchten); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -31843,8 +30833,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5343`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -31937,8 +30925,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** p-h-o. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *p-h-o. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'vrezen-bang-zijn'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (vrezen-bang-zijn); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -31964,8 +30950,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5399`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -32051,9 +31035,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √ph-o-b. Klassiek-Grieks phobos. LXX H3374 yirah.
-
-**Etymologie:** Klassiek-Grieks phobos (vrees), van phobeō. LXX H3374 yirah en H6343 pachad-derivaat. NT-phobos in twee-velden: vrees-Yah (positief) en vrees-mens (negatief).
+**Wortel:** √ph-o-b. LXX H3374 yirah.
 
 **Basisbetekenis:** vrees. Master kiest concordant 'vrees' voor alle voorkomens. Range: 1) cluster-bij-phobos-tou-theou (vrees-Yah Hand 9:31 — item 2316 paar via G2316, ~25x), 2) cluster-bij-phobos-en-tromos-paar (vrees-en-beven 1Co 2:3 — item 5156 paar via G5156), 3) cluster-bij-Joh-bange-discipelen (Joh 20:19 'uit-vrees-voor-de-Joden' — item 2453 paar via G2453), 4) cluster-bij-1Jo-4-18-vrees-en-liefde (volkomen-liefde-werpt-vrees-uit — item 25 paar via G25), 5) cluster-bij-phobos-en-pisteuō-paar (Mar 5:36 'vrees-niet-geloof-alleen' — item 4102 paar via G4102).
 
@@ -32082,8 +31064,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5401`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks phobos. LXX H3374 yirah én H6343 pachad-derivaat. NT-1Jo 4:18 'volkomen-liefde-werpt-vrees-uit' centraal.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -32182,9 +31162,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √ph-u-l. Klassiek-Grieks phulakē. LXX H4929 mishmar.
-
-**Etymologie:** Klassiek-Grieks phulakē (wacht, gevangenis), van phulassō (bewaken G5442). LXX H4929 mishmar (~22x). NT-phulakē in twee-velden: gevangenis (Hand 5:18) en wacht-tijd (Mat 14:25 'derde-nachtwacht').
+**Wortel:** √ph-u-l. LXX H4929 mishmar.
 
 **Basisbetekenis:** gevangenis, wacht. Master kiest concordant 'wacht' voor alle voorkomens. Range: 1) cluster-bij-phulakē-en-desmios-paar (gevangenis-en-gevangene — item 1198 paar via G1198, ~25x), 2) cluster-bij-Hand-Petrus-phulakē (Hand 5:18, 12:4 — item 4074 paar via G4074), 3) cluster-bij-tetartē-phulakē-tēs-nuktos (vierde-nachtwacht Mat 14:25 — item 3571 paar via G3571), 4) cluster-bij-phulakē-en-Christus (Heb 13:3 'gedenken-aan-gevangenen' — item 5547 paar via G5547), 5) cluster-bij-Op-2-10-phulakē (Op 2:10 'satan-zal-jullie-in-gevangenis-werpen' — item 7854 paar via G7854).
 
@@ -32213,8 +31191,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5438`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks phulakē. LXX H4929 mishmar. NT-Hand-12 Petrus-bevrijding-uit-gevangenis cluster.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -32307,9 +31283,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √ph-u-l. Klassiek-Grieks phulē. LXX H7626 shevet (~190x).
-
-**Etymologie:** Klassiek-Grieks phulē (stam). LXX H7626 shevet (~190x). NT-phulē centraal: 12-stammen-Israel en eschatologisch.
+**Wortel:** √ph-u-l. LXX H7626 shevet (~190x).
 
 **Basisbetekenis:** stam. Master kiest concordant 'stam' voor alle voorkomens. Range: 1) cluster-bij-phulē-en-LXX-shevet-paar (stam-LXX-bron — item 80 paar via H7626, ~25x), 2) cluster-bij-dōdeka-phulai-Israel (twaalf-stammen Mat 19:28, Op 7:4-8 — item 1427 paar via G1427, ~10x), 3) cluster-bij-phulē-Iouda-Op-5-5 (stam-Juda-Christus 'Leeuw-uit-stam-Juda' — item 5547 paar via G5547), 4) cluster-bij-phulē-en-genos-paar (stam-en-geslacht — item 1085 paar via G1085), 5) cluster-bij-pasai-hai-phulai-Op (alle-stammen-volken-talen Op-formule — item 2992 paar via G2992).
 
@@ -32338,8 +31312,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5443`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks phulē. LXX H7626 shevet. NT-Op 7:4-8 144000 uit-twaalf-stammen-Israel.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -32431,9 +31403,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √ph-o-n. Klassiek-Grieks phōnē. LXX H6963 qol (~500x). NT-Yah-theofanie-stem en profetisch-stem-cluster.
-
-**Etymologie:** Klassiek-Grieks phōnē (stem, geluid). LXX H6963 qol (~500x). NT-phōnē in vier-velden: stem-Yah-theofanie, profetisch-stem, narratief-stem, en eschatologische-stem.
+**Wortel:** √ph-o-n. LXX H6963 qol (~500x). NT-Yah-theofanie-stem en profetisch-stem-cluster.
 
 **Basisbetekenis:** stem, geluid. Master kiest concordant 'stem' voor alle voorkomens. Range: 1) cluster-bij-phōnē-Yah-theofanie (Mat 3:17, 17:5 'stem-uit-de-hemel' — item 3772 paar via G3772, ~10x), 2) cluster-bij-phōnē-prophēteuein (profetisch-stem — item 4396 paar via G4396), 3) cluster-bij-phōnē-megalē (luide-stem narratief Mar 1:26 — item 3173 paar via G3173, ~30x), 4) cluster-bij-phōnē-bowntos-en-tē-erēmō (stem-roepende-in-de-woestijn Mar 1:3 LXX-Jes 40:3 — item 2048 paar via G2048), 5) cluster-bij-phōnē-tou-haimatos (stem-van-bloed Heb 12:24 — item 129 paar via G129).
 
@@ -32462,8 +31432,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5456`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks phōnē. Hebreeuws-LXX-bron H6963 qol (~500x — stem-en-geluid). Mat-Mar-Yah-theofanie-stem (3:17, 17:5) volgt OT-Sinai-stem-traditie.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -32558,9 +31526,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √ph-o-s. Klassiek-Grieks phōs. LXX H216 or.
-
-**Etymologie:** Klassiek-Grieks phōs (licht). LXX H216 or (~120x) en H3974 maor (~20x). NT-phōs in twee-velden: fysiek-licht en theologisch-licht-Christus (Joh 1:9, 8:12).
+**Wortel:** √ph-o-s. LXX H216 or.
 
 **Basisbetekenis:** licht. Master kiest concordant 'licht' voor alle voorkomens. Range: 1) cluster-bij-phōs-en-skotos-paar (licht-en-duisternis — item 4655 paar via G4655, ~25x), 2) cluster-bij-Christus-phōs (Joh 8:12 'Ik-ben-het-licht-der-wereld' — item 5547 paar via G5547, ~10x), 3) cluster-bij-phōs-en-zōē-paar (licht-en-leven Joh 1:4 — item 2222 paar via G2222), 4) cluster-bij-pater-tōn-phōtōn (Vader-der-lichten Jak 1:17 — item 3962 paar via G3962), 5) cluster-bij-phōs-en-aletheia-paar (licht-en-waarheid 1Jo 1 — item 225 paar via G225).
 
@@ -32589,8 +31555,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5457`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks phōs. LXX H216 or. NT-Joh 1:9 'het-ware-licht-dat-elke-mens-verlicht' en Joh 8:12 'Ik-ben-het-licht'.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -32685,13 +31649,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 74
 
-**Master-toelichting:** Werkwoord van verheugen — stamfamilie G5485 charis (genade-gunst-dank), G5479 chara (vreugde): (1) blij-zijn-verheugen (chairō = 'ik verheug mij'), (2) imperatief-begroetings-formule chaire/chairete = 'gegroet!/wees-blij!' (nieuw-Testamentische brief-openings- en slotformule), (3) theologisch-NT-vreugde-in-heil (chairete en kuriōi pantote = 'verheugt u in de Heer te allen tijde', Fil 4:4 — Paulinisch-thematiek).
+**Master-toelichting:** Werkwoord van verheugen — stamfamilie G5485 charis (genade-gunst-dank), G5479 chara (vreugde): (1) blij-zijn-verheugen (chairō = 'ik verheug mij'), (2) imperatief-begroetings-formule chaire/chairete = 'gegroet!/wees-blij!' (nieuw-Testamentische brief-openings- en slotformule), (3) NT-vreugde-in-heil (chairete en kuriōi pantote = 'verheugt u in de Heer te allen tijde', Fil 4:4 — Paulinisch-thematiek).
 
 ## B. Wortel-analyse (anker 1)
 
 **Wortel:** c-h-a. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
-
-**Etymologie:** Proto-Semitisch *c-h-a. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
 
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'zich-verheugen-blij-zijn'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
@@ -32720,8 +31682,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5463`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -32812,11 +31772,9 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √ch-a-r. Klassiek-Grieks charis 'gunst-welwillendheid'. LXX H2580 chen. Paulus-theologisch ontwikkelt onverdiende-genade-in-Christus.
+**Wortel:** √ch-a-r. LXX H2580 chen. Paulus ontwikkelt onverdiende-genade-in-Christus.
 
-**Etymologie:** Klassiek-Grieks charis (welwillendheid, gunst), van chairō (zich-verheugen). LXX-Hebreeuws-tegenhanger H2580 chen (~70x — gunst-welwillendheid). NT-Paulus-charis ontwikkelt theologische-betekenis: onverdiende-Yah-gunst-in-Christus (Eph 2:8 'door-genade-zijt-gij-behouden').
-
-**Basisbetekenis:** genade, gunst. Master kiest concordant 'genade' voor alle voorkomens. Range: 1) cluster-bij-charis-tou-theou (genade-van-de-Godheid Paulus-formule — item 2316 paar via G2316, ~25x), 2) cluster-bij-charis-en-eirēnē-paar (Paulus-brief-opening — item 1515 paar via G1515, ~10x), 3) cluster-bij-charis-en-aletheia-paar (Joh 1:14 'genade-en-waarheid' — item 225 paar via G225), 4) cluster-bij-eis-charin-Christou (in-de-genade-van-Christus — item 5547 paar via G5547), 5) cluster-bij-charis-Pater-Christus-trinitarisch (2Co 13:13 — item 3962 paar via G3962).
+**Basisbetekenis:** genade, gunst. Master kiest concordant 'genade' voor alle voorkomens. Range: 1) cluster-bij-charis-tou-theou (genade-van-de-Godheid Paulus-formule — item 2316 paar via G2316, ~25x), 2) cluster-bij-charis-en-eirēnē-paar (Paulus-brief-opening — item 1515 paar via G1515, ~10x), 3) cluster-bij-charis-en-aletheia-paar (Joh 1:14 'genade-en-waarheid' — item 225 paar via G225), 4) cluster-bij-eis-charin-Christou (in-de-genade-van-Christus — item 5547 paar via G5547), 5) cluster-bij-charis-Pater-Christus-drievoudig (2Co 13:13 — item 3962 paar via G3962).
 
 **Semantische velden:** genade-cluster (primair); Christus-genade-cluster; eleos-paar-cluster; eschatologische-cluster; cult-cluster.
 
@@ -32843,8 +31801,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5485`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks charis. Hebreeuws-LXX-bron H2580 chen ~70x én H2617a chesed in beperktere-context. Paulus-charis-Christus-theologisch is NT-ontwikkeling boven LXX-traditie.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -32943,9 +31899,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √ch-e-r. Tweecletter-stam — cheir is primair zn voor 'hand'. Stam in oudste laag van Indo-Europees lichaams-vocabulair (PIE *ǵhes-r-). Stam-cognaat-paar met cheirotoneō (handen-uitsteken-aanstellen G5500).
-
-**Etymologie:** Klassiek-Grieks cheir (hand). Cognaten: cheirotoneō (aanstellen-door-hand-uitsteken), cheirographon (handgeschrift G5498). LXX-Hebreeuws-tegenhanger H3027 yad (~1620x). NT-cheir in vier-velden: fysiek-hand-narratief (handen-leggen, hand-uitsteken), volmacht-en-gezag (be-yad-formule), hand-Yah (theofanie-en-macht), en sturen-via-hand (boodschappen-formule Hand 7:35).
+**Wortel:** √ch-e-r. Tweecletter-stam — cheir is primair zn voor 'hand'. Stam-cognaat-paar met cheirotoneō (handen-uitsteken-aanstellen G5500).
 
 **Basisbetekenis:** hand. Master kiest concordant 'hand' voor alle voorkomens. Range: 1) cluster-bij-handen-leggen-cult (epitithēmi tēs cheiras = cult-handoplegging — item 2007 paar via G2007, ~30x in Hand-Paulus voor cult-zegening en wijding), 2) cluster-bij-cheir-kuriou (hand-van-de-Heer, theofanie-formule LXX-via H3027 — item 2962 paar via G2962, ~10x in Luc-Hand), 3) cluster-bij-en-cheiri-X (door-de-hand-van-X, instrument-formule — item 2424 paar via G2424 in 'door-de-hand-van-Mozes'-Hand 7:35), 4) cluster-bij-uitstrekken-hand-Christus-genezen (Mat 8:3 — item 1614 paar via G1614 ekteinō), 5) cluster-bij-handen-en-voeten-paar (Joh 20:25-27 stigma-Christus — item 4228 paar via G4228).
 
@@ -32974,8 +31928,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5495`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks cheir (Homerus en later). Indo-Europese-cognaten Latijn manus (andere wortel maar zelfde-functie). Hebreeuws-LXX-bron-tegenhanger H3027 yad (~1620x — fysiek én autoriteit én instrument). Aramees yad (Daniel-Aramees). NT-handoplegging-cult (Hand 6:6, 8:17, 13:3 etc.) volgt OT-Levitische-handoplegging-traditie (Lev 1:4, Num 8:10).
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -33076,9 +32028,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √ch-ē-r. Klassiek-Grieks chēra. LXX H490 almanah dominant-paar.
-
-**Etymologie:** Klassiek-Grieks chēra (weduwe), Indo-Europees met Latijn cariēre (verlaten). LXX H490 almanah dominant-paar. NT-chēra in drie-velden: cult-zorg-weduwe (Hand 6:1, 1Ti 5), arme-armoedig-staat (Mar 12:42 'lepta duo'), en pastoraal-onderzoek (1Ti 5:3-16 'tēn ontōs chēran').
+**Wortel:** √ch-ē-r. LXX H490 almanah dominant-paar.
 
 **Basisbetekenis:** weduwe. Master kiest concordant 'weduwe' voor alle voorkomens. Range: 1) cluster-bij-chēra-en-orphanos-paar (weduwe-en-wees vaste-OT-LXX-doublet — item 3737 paar via G3737, ~25x), 2) cluster-bij-chēra-en-penēs-paar (weduwe-en-arme — item 3993 paar via G3993), 3) cluster-bij-chēra-Christus-bezorgdheid-Mar-12-42 ('mia chēra ptōchē ebalen lepta duo' — item 5547 paar via G5547, ~10x), 4) cluster-bij-chēra-Anna-Lukas-2-37 'chēra heōs etōn ogdoēkonta tessarōn' (item 4151 paar via G4151), 5) cluster-bij-chēra-en-LXX-bron H490 almanah.
 
@@ -33107,8 +32057,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5503`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met Latijn cariēre. LXX-bron H490 almanah. NT-Jak 1:27 'thrēskeia kathara... episkeptesthai orphanous kai chēras' rein-cult-zorg.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -33200,9 +32148,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √ch-r-e. Klassiek-Grieks chreia. LXX-paar via vertaling.
-
-**Etymologie:** Klassiek-Grieks chreia (behoefte, noodzaak), van chrē (nodig). LXX H1862 nahash-paar via vertaling. NT-chreia praktisch-behoefte.
+**Wortel:** √ch-r-e. LXX-paar via vertaling.
 
 **Basisbetekenis:** behoefte, noodzaak. Master kiest concordant 'behoefte' voor alle voorkomens. Range: 1) cluster-bij-chreia-tinos-echein (behoefte-aan-iets Mat 9:12 'gezonden-niet-rechtvaardige-maar-zondaars' — item 5101 paar via G5101, ~25x), 2) cluster-bij-chreia-en-deēsis-paar (behoefte-en-gebed Filp 4:6 — item 1162 paar via G1162), 3) cluster-bij-Rom-12-13-tais-chreiais-tōn-hagiōn (in-de-behoeften-der-heiligen — item 40 paar via G40), 4) cluster-bij-pasa-chreia (alle-behoefte Filp 4:19 — item 3956 paar via G3956), 5) cluster-bij-chreian-echein-Mat-6-32 (uw-Vader-weet-wat-jullie-nodig-hebben — item 3962 paar via G3962).
 
@@ -33231,8 +32177,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5532`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks chreia. LXX-vertaling-paar. NT-Mat 6:32 'uw-Vader-weet-wat-jullie-nodig-hebben' centraal.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -33332,8 +32276,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ch-r-s. Wortel-paar met chrio (zalven G5548). Christos is verbaal-bijvoeglijk (gepriest-of-gezalfd) → titulair-zn. Stam-cognaat-paar met chrisma (zalving G5545) en antichristos (anti-gezalfde G500). Hellenistisch-Grieks-vertaling van Hebreeuws mashiach (gezalfde, H4899).
 
-**Etymologie:** Klassiek-Grieks christos (gezalfd, ingewreven met olie), verbaal-bijvoeglijk van chrio (zalven). Cognaten: chrisma (zalfolie), chrisis (zalving-handeling). LXX-Hebreeuws-tegenhanger H4899 mashiach (~38x, voor zoutpriesters, koningen, en in Dan 9:25-26 Messias-figuur). NT-overname als titel voor Jezus (Iesous Christos = Jezus-Messias). Vroeg-christelijke kerk gebruikt Christos beide titulair en eigennaam-element.
-
 **Basisbetekenis:** Christus, Gezalfde, Messias. Master kiest concordant 'Christus' voor alle voorkomens. Range: 1) cluster-bij-Iesous-Christos (Jezus-Christus-koppel — item 2424 paar via G2424, ~125x), 2) cluster-bij-Christos-Iesous (Christus-Jezus-omkering, Paulus — item 2424 paar via G2424, ~90x), 3) cluster-bij-en-Christo (in-Christus, Paulus mystieke-eenheid — item 2424 paar via G2424, ~80x), 4) cluster-bij-Christos-kurios (Christus-Heer Luc 2:11 — item 2962 paar via G2962), 5) cluster-bij-Christos-huios-theou (Christus-zoon-van-Godheid, christologische-belijdenis — item 5207 paar via G5207, ~30x).
 
 **Semantische velden:** Iesous-Christos-cluster (primair); Christos-Iesous-Paulus-cluster; en-Christo-mystieke-cluster; Christos-kurios-cluster; Christos-huios-theou-belijdenis-cluster.
@@ -33361,8 +32303,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5547`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks christos (gezalfd-met-olie). Hebreeuws-LXX-bron-tegenhanger H4899 mashiach (~38x in OT, voor zoutpriesters Lev, koningen Sam-Kg, en eschatologisch Dan 9:25-26). Aramees-mashiach (Daniel-Aramees). Vroeg-christelijke kerk past mashiach-functie christologisch-toe op Jezus van Nazaret. Geen klassiek-Grieks pre-LXX-titulair-gebruik (christos in Homerus = 'gezalfd-met-olie' alledaags).
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -33464,9 +32404,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √ch-r-o. Klassiek-Grieks chronos. LXX H6256 ʿet-deels.
-
-**Etymologie:** Klassiek-Grieks chronos (kwantitatief-tijd). LXX H6256 ʿet-deels-via vertaling. NT-chronos-kairos-paar.
+**Wortel:** √ch-r-o. LXX H6256 ʿet-deels.
 
 **Basisbetekenis:** chronos-tijd, kwantitatieve-tijd. Master kiest concordant 'tijd' voor alle voorkomens. Range: 1) cluster-bij-chronos-en-kairos-paar (Hand 1:7 'chronos-en-kairos' — item 2540 paar via G2540, ~10x), 2) cluster-bij-pleroma-tou-chronou (vervulling-van-de-tijd Gal 4:4 — item 4138 paar via G4138), 3) cluster-bij-pas-ho-chronos (gehele-tijd Hand 1:21 — item 3956 paar via G3956), 4) cluster-bij-chronoi-aionioi (aionische-tijden Rom 16:25 — item 166 paar via G166), 5) cluster-bij-chronos-narratief (Mat 25:19 'na-veel-tijd' — item 4183 paar via G4183).
 
@@ -33495,8 +32433,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5550`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks chronos (kwantitatief-tijds-tegenpool kairos kwalitatief). LXX H6256 ʿet-deels. NT-Gal 4:4 'pleroma tou chronou' centraal-Christologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -33595,9 +32531,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √ch-r-us. Klassiek-Grieks chrusos. LXX H2091 zahav dominant.
-
-**Etymologie:** Klassiek-Grieks chrusos (goud), Indo-Europees met Hebreeuws-cognaat charuts (pure-goud H2742). LXX H2091 zahav dominant-paar. NT-chrusos in drie-velden: cult-tempel-goud (Mat 23-16-17), Wijzen-geschenk (Mat 2-11), en eindtijd-Nieuwe-Jeruzalem (Op 21-18,21 'plateia tēs poleōs chrusion katharon hōs hualos diaugēs').
+**Wortel:** √ch-r-us. LXX H2091 zahav dominant.
 
 **Basisbetekenis:** goud. Master kiest concordant 'goud' voor alle voorkomens. Range: 1) cluster-bij-chrusos-en-arguros-paar (goud-en-zilver vaste-doublet OT-NT — item 696 paar via G696, ~25x), 2) cluster-bij-chrusos-en-chruseos-paar (goud-zn-en-gouden-bn — item 5552 paar via G5552), 3) cluster-bij-Christus-Wijzen-Mat-2-11 ('prosēnenkan autōi dōra chruson kai libanon kai smurnan' — item 5547 paar via G5547, ~10x), 4) cluster-bij-Op-21-18-21-Nieuwe-Jeruzalem-goud (item 4151 paar via G4151), 5) cluster-bij-chrusos-en-LXX-bron H2091 zahav (~389x in HB, tabernakel-tempel-cult).
 
@@ -33626,8 +32560,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5557`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Indo-Europees met Hebreeuws-cognaat charuts. LXX-bron H2091 zahav. NT-1Pe 1:7 'to dokimion humōn tēs pisteōs polutimoteron chrusiou tou apollumenou' beproefde-geloof-kostbaarder-dan-vergankelijk-goud.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -33719,8 +32651,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** p-s-e. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *p-s-e. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'lie-gen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (lie-gen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -33748,8 +32678,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5574`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -33838,9 +32766,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √p-s-u-ch. Klassiek-Grieks psuchē. LXX H5315 nefesh. NT-ziel-en-leven-en-redden-cluster.
-
-**Etymologie:** Klassiek-Grieks psuchē (ziel, levensbeginsel). LXX H5315 nefesh (~750x). NT-psuchē in drie-velden: ziel-leven, ziel-eeuwig, en psuchē-soma-paar.
+**Wortel:** √p-s-u-ch. LXX H5315 nefesh. NT-ziel-en-leven-en-redden-cluster.
 
 **Basisbetekenis:** ziel, levensbeginsel. Master kiest concordant 'ziel' voor alle voorkomens. Range: 1) cluster-bij-psuchē-en-zōē-paar (ziel-en-leven — item 2222 paar via G2222, ~30x), 2) cluster-bij-psuchē-redden (sōzō psuchēn Mat 16:25 — item 4982 paar via G4982), 3) cluster-bij-psuchē-en-soma-paar (ziel-en-lichaam Mat 10:28 — item 4983 paar via G4983), 4) cluster-bij-psuchē-Christou-paradidomi (Mat 20:28 'Mensenzoon-geeft-zijn-psuchē-tot-losprijs' — item 5547 paar via G5547), 5) cluster-bij-shēmaʿ-Yisrael-psuchē (Mat 22:37 'liefhebben-met-heel-jouw-ziel' — item 25 paar via G25).
 
@@ -33869,8 +32795,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5590`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks psuchē (Plato dualisme ziel-tegenover-lichaam). Hebreeuws-LXX-bron H5315 nefesh (semitisch holistisch geen-dualisme). NT-psuchē in synoptici Joods-holistisch (Mat 22:37), in Paulus iets-meer-dualistisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -33969,9 +32893,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √h-o-d. Klassiek-Grieks hōde. LXX H6311 poh.
-
-**Etymologie:** Klassiek-Grieks hōde (hier, op-deze-plaats). LXX H6311 poh-paar via vertaling. NT-hōde plaats-bijwoord-narratief.
+**Wortel:** √h-o-d. LXX H6311 poh.
 
 **Basisbetekenis:** hier. Master kiest concordant 'hier' voor alle voorkomens. Range: 1) cluster-bij-hōde-en-ekei-paar (hier-daar — item 1563 paar via G1563, ~25x), 2) cluster-bij-hōde-Christus-aanwezig (Mat 17:4 Petrus-tabernakel — item 5547 paar via G5547), 3) cluster-bij-hōde-narratief-Mat (Mat 12:6 'iets-meer-dan-tempel-is-hier' — item 3485 paar via G3485), 4) cluster-bij-hōde-eschatologisch (Op 13:18 'hōde-sophia-estin' — item 4678 paar via G4678), 5) cluster-bij-hōde-en-houtos-paar (item 3778 paar via G3778).
 
@@ -34000,8 +32922,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5602`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks hōde. LXX H6311 poh. NT-Mat 12:6 'meizon tou hierou hōde' (hier-iets-groter-dan-tempel) Christologisch.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 
@@ -34096,8 +33016,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ō-n. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *ō-n. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'zijnd-participium'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (zijnd-participium); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -34125,8 +33043,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5607`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Hebreeuwse LXX-tegenhangers:** raadpleeg `AP/Kennis/lxx-mapping.json` voor mappings.
 
@@ -34217,9 +33133,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √h-o-r. Klassiek-Grieks hōra. LXX H6256 ʿet. NT-Joh-hōra-Christus en Op-eschatologische-hōra.
-
-**Etymologie:** Klassiek-Grieks hōra (uur, tijds-eenheid). LXX H6256 ʿet (~290x). NT-hōra in drie-velden: kloks-uur narratief, hōra-Christus (Joh 2:4 'mijn-uur-is-nog-niet-gekomen'), en eschatologische-hōra (Op 14:7).
+**Wortel:** √h-o-r. LXX H6256 ʿet. NT-Joh-hōra-Christus en Op-eschatologische-hōra.
 
 **Basisbetekenis:** uur, tijds-eenheid. Master kiest concordant 'uur' voor alle voorkomens. Range: 1) cluster-bij-hōra-Christou-Joh (Joh 2:4, 7:30, 12:23 'mijn-uur' — item 5547 paar via G5547, ~10x), 2) cluster-bij-narratief-hōra (Mat 27:46 'het-9e-uur' — item 1766 paar via G1766), 3) cluster-bij-hōra-en-kairos-paar (uur-en-tijd — item 2540 paar via G2540, ~10x), 4) cluster-bij-eschatologische-hōra (Op 14:7 'het-uur-van-zijn-oordeel-is-gekomen' — item 2920 paar via G2920), 5) cluster-bij-hōra-tēs-peirasmou (uur-der-verzoeking Op 3:10 — item 3986 paar via G3986).
 
@@ -34248,8 +33162,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-grieks.json` onder key `G5610`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Klassiek-Grieks hōra (Hesiodus seizoenen-godinnen). Hebreeuws-LXX-bron H6256 ʿet. Joh-hōra-Christus-thema (Joh 2:4 → 17:1) is unieke-Joh-narratieve-spanning.
 
 **Hebreeuwse LXX-bron-tegenhangers (top 5 via LIFT-score):**
 

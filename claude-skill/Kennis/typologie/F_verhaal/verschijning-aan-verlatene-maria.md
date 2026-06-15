@@ -65,7 +65,7 @@ Interpretatieve framings. Dat Maria-Magdalena-eerste-getuige typologisch model i
 3. **`poreuou de pros tous adelphous mou`** — ga tot Mijn broeders. **Bron-eigen N1 expliciete `adelphous`-aanduiding** voor discipelen — eerste keer in Joh-evangelie dat Jezus discipelen `mijn broeders` noemt. Cross-link Hebr 2:11-12 (`ouk epaischunetai adelphous autous kalein`).
 4. **`patera mou kai patera humōn kai theon mou kai theon humōn`** — Mijn Vader en uw Vader, Mijn God en uw God. **Bron-eigen N1 viervoudige formule** met persoonlijke-suffixen-onderscheid (`mou` versus `humōn`).
 
-**Bron-eigen N1 viervoudig persoonlijk-suffix-paar** in één formule. Niet over-claimen op specifieke "Christus-pre-existentie versus discipel-relatie" zonder eigen analyse.
+**Bron-eigen N1 viervoudig persoonlijk-suffix-paar** in één formule. Niet over-claimen op een specifieke theologische uitleg van het suffix-onderscheid; dat valt buiten de typologie-laag.
 
 ### Cluster E — Joh 20:18 Maria's getuigenis-uitvoering [N1]
 
@@ -140,7 +140,7 @@ Bij vragen over **vier-evangelie-graf-narratieven** (Mat 28 + Mar 16 + Luk 24 + 
 
 **Cluster D `adelphous mou`** — bron-eigen feit. Niet vermengen met Mat 12:46-50 / Mar 3:31-35 / Luk 8:19-21 (vleselijke-broers-versus-discipelen-broers-context) zonder eigen analyse — beide bron-eigen tekst-feiten.
 
-**Cluster D `theon humōn` versus `theon mou`** — bron-eigen onderscheid persoonlijke-suffixen. **Niet over-claimen** op specifieke trinitarische of subordinationistische uitleg. **N1 op woord-feit**, specifieke theologische uitwerking is **N3-clue**.
+**Cluster D `theon humōn` versus `theon mou`** — bron-eigen onderscheid persoonlijke-suffixen. **N1 op woord-feit.** Een specifieke theologische uitwerking (trinitarisch, subordinationistisch, e.d.) is geleende uitleg en valt buiten de typologie-laag.
 
 **Cluster F Mar 16:9-20** — tekstuele kwestie: vele oude handschriften eindigen bij Mar 16:8 zonder de "lange-slot" 16:9-20. **Bron-eigen tekst-traditie-onderscheid**. Voor `prōton`-formule cluster F: bron-feit alleen indien Mar 16:9-20 als bron-tekst aanvaard wordt. Niet over-claimen.
 
@@ -170,4 +170,4 @@ Alle vers-references in deze entry op 2026-05-08 geverifieerd via grep + woord-v
 5. **Mar 16:9-20 tekstuele traditie-kwestie** — past in toekomstige *lange-slot-markus* (toekomstig).
 6. **Vier-evangelie-graf-narratieven** Mat 28 + Mar 16 + Luk 24 + Joh 20 — past in toekomstige meta-entry `./vier-evangelie-opstandings-narratief.md`.
 7. **Maria Magdalena = 7-demonen-uitgedreven Luk 8:2 ↔ eerste-opstandings-getuige** — bron-eigen verworpene-eerst-genoemd-typologische omkering. Past in toekomstige update `../A_entiteit/hannah-maria.md`.
-8. **`mē mou haptou` Joh 20:17 ↔ Joh 20:27 `phere ton daktulon sou hōde`** (Thomas: ja-aanraken) — bron-eigen twee-instructie-tegenstelling. Past in toekomstige `./twee-aanraking-instructies.md` (toekomstig).
+8. **`mē mou haptou` Joh 20:17 ↔ Joh 20:27 `phere ton daktulon sou hōde`** (Thomas: ja-aanraken) — bron-eigen twee-instructie-tegenstelling. Past in toekomstige `./twee-aanraking-instructies.md

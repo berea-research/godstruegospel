@@ -140,7 +140,7 @@ Bij vragen over **Edom-volk-typologie**: cross-link *edom* (toekomstig — bron-
 
 **Cluster A `rb iobd tzoir`** Gen 25:23 — bron-eigen pre-nataal orakel. **Niet over-claimen** op specifieke "altijd jongste-uitverkoren-altijd" zonder kruis-check `../F_verhaal/eerstgeborene-omkering.md` — bron-feit is dat dit patroon ook bij Kain-Abel (Abel jongere uitverkoren), Isaak-Ismaël (Isaak jongere uitverkoren), Efraïm-Manasse (Gen 48:14 `va-iqrah ath-iemin·u u-iash ol-rash aphrim u-eua e·tzoir u-ath-shmal·u ol-rash mnshe shkl ath-idi·u ki mnshe e·bkur`), David-broers (1 Sam 16:11 jongste).
 
-**Cluster B `oshu` ↔ `Edom`** Gen 25:25+30 — bron-eigen drievoudige rossig-cluster. **Niet over-claimen** op specifieke "Edom = Rome / Edom = Christendom" zoals latere joodse-rabbijnse uitwerkingen — bron-feit is uitsluitend Esau-volkenaam-Edom binnen Schrift-bron.
+**Cluster B `oshu` ↔ `Edom`** Gen 25:25+30 — bron-eigen drievoudige rossig-cluster. **Niet over-claimen** op een "Edom = Rome / Edom = Christendom"-lezing; die valt buiten de typologie-laag — bron-feit is uitsluitend Esau-volkenaam-Edom binnen Schrift-bron.
 
 **Cluster C `u·ibz oshu ath-e·bkre`** Gen 25:34 — bron-eigen verteller-evaluatie. **Niet over-claimen** op specifieke "Esau is volledig verworpen tot kwaadaardigheid" — bron-feit is concrete handeling-evaluatie (verachten van eerstgeboorterecht), niet algemene-totaliteits-veroordeling.
 

@@ -8,7 +8,7 @@
 - **Bron-discipline:** uitsluitend `Kennis/puur/` en `Kennis/strong/`. Sola scriptura. Geen training-input.
 - **As 1 (categorieën):** A1 (christustypen via Hebr 7 expliciet), G1 (drie ambten priester-koning samenval)
 - **As 2 (hermeneutische lagen):** L1, L2 (waar door tekst zelf bevestigd)
-- **As 3 (algemeen zekerheids-niveau):** **N1 voor cluster C Hebr 7 christologische uitleg** (sterkste sola-scriptura-uitwerking van NT op één OT-figuur); **N1 voor Hebr 7:3 typologische argument-uit-stilte** (Hebr-auteur zelf benoemt afwezigheid van genealogie als typologisch teken); **N1 voor Ps 110:4 + Mat 22:43-45 + Heb 5:6 + 5:10 + 7:17 + 7:21 priester-koning-eed-keten**; N1 voor cluster A Gen-feiten; **N2** voor "brood-en-wijn Gen 14:18 = avondmaal-typologie" (Hebr 7 noemt brood-wijn niet); N3-clue voor "Melchizedek = Sem / pré-incarnatische Christus / historische koning" identificatie-debat.
+- **As 3 (algemeen zekerheids-niveau):** **N1 voor cluster C Hebr 7 christologische uitleg** (sterkste sola-scriptura-uitwerking van NT op één OT-figuur); **N1 voor Hebr 7:3 typologische argument-uit-stilte** (Hebr-auteur zelf benoemt afwezigheid van genealogie als typologisch teken); **N1 voor Ps 110:4 + Mat 22:43-45 + Heb 5:6 + 5:10 + 7:17 + 7:21 priester-koning-eed-keten**; N1 voor cluster A Gen-feiten. Het brood-wijn (Gen 14:18) blijft een kaal tekst-feit; Hebr 7 hervat Melchizedek zónder die vermelding en geen NT-tekst koppelt het aan iets — een avondmaal-lezing is geleende traditie, buiten de typologie-laag. Een identificatie van Melchizedek (Sem, Christofanie, historische koning) valt buiten de typologie-laag; de tekst presenteert hem als historische figuur en Hebr 7:3 zegt "gelijk gemaakt aan de Zoon Gods", niet "is de Zoon".
 - **Tags:** Malki-Tzedek, Melchizedek, kohen-le-El-Elyon, melekh-Shalem, lechem-va-yayin, Ps-110:4, taxis-Melchisedek, eeuwig-priesterschap, Hebr-7
 - **Zie ook:** `./abraham.md` cluster B, `./david.md` cluster D (Ps 110), `../B_cijfer/10.md` cluster B (tienden)
 
@@ -18,7 +18,7 @@ Tekst-eigen feiten. Gen 14:18 noemt "Malki-Tzedek melekh Shalem hotzi lechem va-
 
 NT-eigen typologie-claims. **Hebr 5:6 + 5:10 + 7:17 + 7:21** citeren Ps 110:4 viervoudig met "kata tēn taxin Melchisedek". **Hebr 7:1-25** wijdt heel hoofdstuk aan typologische uitleg. **Hebr 7:9-10** stelt "Levi ho dekatas lambanōn dedekatōtai" (Levi-die-tienden-ontvangt heeft tienden gegeven) door Abraham — typologische argumentatie dat Levi-priesterschap onder Melchizedek-priesterschap staat. **Hebr 7:14** stelt expliciet "prodēlon gar hoti ex Iouda anatetalken ho kurios hēmōn" (uit Juda, niet Levi). **Hebr 7:16 + 7:24** stellen "kata dynamin zōēs akatalytou" en "aparabaton echei tēn hierōsynēn" (onveranderlijk priesterschap).
 
-Interpretatieve framings. Dat Melchizedeks "lechem va-yayin" (Gen 14:18) een avondmaal-typologie is: Hebr 7 hervat Melchizedek uitvoerig **zonder brood-wijn-vermelding**. **N2.** Dat Melchizedek = Sem (vroeg-Joodse traditie) of = pré-incarnatische Christus / Christofanie of = historische heidense koning: identificatie-debat valt buiten typologie-laag. Tekst Gen presenteert hem als historische figuur; Hebr 7:3 stelt "aphōmoiōmenos de tō huiō tou theou" ("gelijk gemaakt aan de Zoon Gods") — niet "is de Zoon Gods". **N3-clue.**
+Interpretatieve framings. Melchizedeks "lechem va-yayin" (Gen 14:18) blijft een kaal tekst-feit: Hebr 7 hervat Melchizedek uitvoerig **zonder brood-wijn-vermelding** en geen NT-tekst koppelt het ergens aan. Een avondmaal-lezing is geleende traditie en valt buiten de typologie-laag. Een identificatie van Melchizedek (Sem, Christofanie, of een historische koning) valt buiten de typologie-laag. Tekst Gen presenteert hem als historische figuur; Hebr 7:3 stelt "aphōmoiōmenos de tō huiō tou theou" ("gelijk gemaakt aan de Zoon Gods") — niet "is de Zoon Gods". Tekst-feit: de Hebr-auteur duidt typologisch zonder de figuur te identificeren.
 
 ## Voorkomens (per cluster)
 
@@ -74,8 +74,8 @@ Interpretatieve framings. Dat Melchizedeks "lechem va-yayin" (Gen 14:18) een avo
 3. **Wel door tekst expliciet gelegd:** Hebr 7:3 "aphōmoiōmenos tō huiō tou theou" + argument-uit-stilte over genealogie. **N1**.
 4. **Wel door tekst expliciet gelegd:** Hebr 7:9-10 Levi-priesterschap onder Melchizedek via Abraham-tiende. **N1**.
 5. **Wel door tekst expliciet gelegd:** Mat 22:43-45 Christus' eigen exegese Ps 110. **N1**.
-6. **Niet door tekst expliciet gelegd:** Brood-en-wijn Gen 14:18 = avondmaal-typologie. Hebr 7 noemt brood-wijn niet. **N2**.
-7. **Identificatie-debat:** Melchizedek = Sem / pré-incarnatische Christus / historische koning. **N3-clue, buiten typologie-laag**.
+6. **Niet door tekst gelegd:** brood-en-wijn Gen 14:18 als avondmaal-typologie. Hebr 7 noemt brood-wijn niet; geen NT-tekst koppelt het. Avondmaal-lezing valt buiten de typologie-laag.
+7. **Identificatie van Melchizedek** (Sem, Christofanie, historische koning) valt buiten de typologie-laag; de tekst identificeert hem niet.
 
 ## Watermerk-verbinding
 
@@ -93,11 +93,11 @@ Bij vragen over **drie ambten samenval (profeet-priester-koning) in Christus**: 
 
 **Cluster C Hebr 7:3 "apatōr amētōr agenealogētos"** — **bron-eigen argument-uit-stilte**. Tekst Gen vermeldt Melchizedek's afkomst niet; Hebr-auteur gebruikt deze afwezigheid als typologisch teken. Sleutelwoord **"aphōmoiōmenos" (G871, gelijk gemaakt aan)** — Hebr stelt niet "is de Zoon Gods" maar "gelijk gemaakt aan de Zoon Gods". Niet over-claimen op letterlijke onsterfelijkheid.
 
-**Melchizedek historiciteit/identificatie-debat** (was hij Sem? pré-incarnatische Christus / Christofanie? historisch heidens koning?) valt buiten typologie-laag. Tekst Gen presenteert hem als historische figuur; Hebr behandelt hem typologisch zonder identificatie te forceren. **N3-clue**.
+**Melchizedek historiciteit/identificatie** (Sem? Christofanie? historisch heidens koning?) valt buiten de typologie-laag. Tekst Gen presenteert hem als historische figuur; Hebr behandelt hem typologisch zonder identificatie te forceren.
 
 **Cluster B Ps 110:4 + 110:1 samen** — Christus als priester én koning-aan-rechterhand. Levi en David zijn verschillende stammen — gewone priester-koning-combinatie was wettelijk uitgesloten in Israel. Ps 110:4 anticipeert nieuwe orde. Niet vermengen met Levi-priesterschap-instelling Aäron.
 
-**Brood en wijn Gen 14:18** wordt soms gelezen als sacramenteel-typologisch met avondmaal. **Hebr 7 hervat Melchizedek uitvoerig zonder brood-wijn-vermelding** — geen tekst-eigen koppeling. **N2**.
+**Brood en wijn Gen 14:18** — een sacramenteel-typologische lezing (avondmaal) is geleende traditie en valt buiten de typologie-laag. **Hebr 7 hervat Melchizedek uitvoerig zonder brood-wijn-vermelding** — geen tekst-eigen koppeling. Tekst-feit: Melchizedek brengt brood en wijn voort, zonder verdere duiding in de tekst.
 
 **Cluster C Hebr 7:14 "ex Iouda anatetalken ho kyrios"** — bron-eigen feit dat Christus uit Juda is. Belangrijk voor priester-koning-combinatie: Christus erft koningschap via David-Juda + priesterschap via Melchizedek-orde, niet via Levi.
 
@@ -106,19 +106,14 @@ Bij vragen over **drie ambten samenval (profeet-priester-koning) in Christus**: 
 Alle 24 vers-references in deze entry op 2026-05-06 geverifieerd via `audit_v2.py` tegen `Kennis/strong/[boek].jsonl`. Existentie 100% (24/24). Steekproef-citaten Gen 14:18+19+20, Ps 110:4, Heb 5:6+10, Heb 7:1+2+3+4+9+10+11+14+16+17+21+23+24+25, Mat 22:43+44+45 woord-voor-woord met bron vergeleken (transliteratie + Strong-codes).
 
 Eerdere versie corrigeerd:
-- **Hypothese**: "Brengt brood en wijn (Gen 14:18, parallel avondmaal)" als impliciete N1-koppeling → corrigeerd; Hebr 7 hervat Melchizedek **zonder brood-wijn-vermelding**. **N2** voor avondmaal-typologie.
+- **Hypothese**: "Brengt brood en wijn (Gen 14:18, parallel avondmaal)" → avondmaal-typologie verwijderd als geleende traditie (zuivering 2026-06-15); alleen tekst-feit behouden (Hebr 7 hervat Melchizedek zonder brood-wijn-vermelding; geen NT-koppeling).
 - **Cluster A "tienden van Abraham — typologisch boven Levi"** als impliciete claim → expliciet via Hebr 7:9-10 als bron-feit gemarkeerd.
 - **Hebr 7:3 sleutelwoord "aphōmoiōmenos" (G871)** als bron-eigen typologisch nuance-woord toegevoegd ("gelijk gemaakt aan", niet "is").
 - **Mat 22:43-45 Christus' eigen exegese** als bron-feit toegevoegd voor cluster B (was niet eerder vermeld).
 - **Hebr 7:14 "ex Iouda anatetalken"** als bron-eigen Christus-uit-Juda-feit expliciet gemarkeerd voor priester-koning-combinatie.
 - **Hebr 7:16 "zōēs akatalytou"** + **Hebr 7:24 "aparabaton hierōsynēn"** + **Hebr 7:25 "sōzein eis to panteles"** als bron-eigen sleutel-formules gemarkeerd.
-- **Identificatie-debat (Sem/pré-incarnatische Christus/historisch)** expliciet als **N3-clue, buiten typologie-laag** gemarkeerd.
+- **Identificatie van Melchizedek (Sem/Christofanie/historisch)** verwijderd als geleende speculatie; alleen tekst-feit behouden (historische figuur; Hebr 7:3 "gelijk gemaakt aan", niet "is") (zuivering 2026-06-15).
 
 ## Vervolgvragen
 
-1. Cluster A brood-en-wijn → avondmaal-typologie verdient eigen sub-onderzoek (N2-status; geen Hebr 7-koppeling).
-2. Cluster C Hebr 7-10 als geheel verdient meta-entry over "Christus' priester-koning-typologie" naast `../G_rol/drie-ambten-priester.md` (Fase 8).
-3. Melchizedek + Salem (Jeruzalem-naam-oorsprong?) — past in toekomstige `A_entiteit/stad-jeruzalem.md` (Fase 4)?
-4. Drie ambten samenval (profeet-priester-koning) verdient gemeenschappelijke meta-entry — past in `G_rol/drie-ambten-samenval.md` (Fase 8).
-5. Hebr 7:3 "argument-uit-stilte"-methode — verdient eigen entry in `D_taal` of typologische-methode-meta-entry?
-6. Cluster B Ps 110:1 + 110:4 paar — verbinding `./david.md` cluster D + Mat 22:43-45.
+1. Cluster A brood-en-wijn blijft kaal tekst-feit (geen Hebr 7-koppeling, geen NT-tekst die het duidt); avond

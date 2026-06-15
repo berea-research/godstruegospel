@@ -63,14 +63,6 @@ Web-integratie geleverd:
 - `_fase10-deliverables.md` — overzichtsdocument
 - Negatieve-patronen sweep uitgevoerd: theologische school-termen gecontroleerd, "drie-eenheid" → "drie-groep" / "drievoud" gefixed in 40.md + 3.md, "Drie-eenheid" + "kerkvader"-discipline behouden.
 
-Reproduceerbare scripts: `../skill/fase10/build_index.py` + `../skill/fase10/check_xrefs.py`.
+> **Update 2026-06-15 — 0%-theologie-zuivering.** Een strengere zuivering is uitgevoerd over alle acht categorieën: élke geleende doctrine/duiding (Triniteit, avondmaal-sacramentalisme, substitutie-leer, pre-existentie/pre-incarnatie-christologie, dispensationalisme, eschatologie-scholen, kerkvaders/commentatoren/rabbijnse traditie) is verwijderd, ook als N3-clue. Tekst-feiten blijven. De eerdere "acceptabel"-oordelen hieronder zijn hierdoor achterhaald. Zie `_zuivering-voortgang.md` voor het volledige logboek.
 
-## Werkwijze toekomstige sessies
-
-1. Kies een patroon-kandidaat uit het raamwerk.
-2. Run `python3 skill/typologie_zoek.py` voor bron-zoek.
-3. Doorloop de zeven stappen uit `protocollen/typologie-detectie.md`.
-4. Schrijf de entry volgens `_entry-sjabloon.md` in de juiste submap.
-5. Update cross-references in bestaande entries waar relevant.
-6. Werk de status-tabel hierboven bij.
-7. Run `python3 ../skill/fase10/build_index.py` en `check_xrefs.py` om indexen te updaten.
+Reproduceerbare scripts: `../skill/fase10/bui

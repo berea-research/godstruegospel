@@ -175,7 +175,7 @@ Bij vragen over **Edom-volk-typologie**: cross-link *edom* (toekomstig — bron-
 
 **Cluster A `rb iobd tzoir`** Gen 25:23 — bron-eigen pre-nataal orakel. **Niet over-claimen** op specifieke "altijd jongste-uitverkoren-altijd" zonder kruis-check `../F_verhaal/eerstgeborene-omkering.md` — bron-feit is dat dit patroon ook bij Kain-Abel (Abel jongere uitverkoren), Isaak-Ismaël (Isaak jongere uitverkoren), Efraïm-Manasse (Gen 48:14 `va-iqrah ath-iemin·u u-iash ol-rash aphrim u-eua e·tzoir u-ath-shmal·u ol-rash mnshe shkl ath-idi·u ki mnshe e·bkur`), David-broers (1 Sam 16:11 jongste).
 
-**Cluster B `oshu` ↔ `Edom`** Gen 25:25+30 — bron-eigen drievoudige rossig-cluster. **Niet over-claimen** op specifieke "Edom = Rome / Edom = Christendom" zoals latere joodse-rabbijnse uitwerkingen — bron-feit is uitsluitend Esau-volkenaam-Edom binnen Schrift-bron.
+**Cluster B `oshu` ↔ `Edom`** Gen 25:25+30 — bron-eigen drievoudige rossig-cluster. **Niet over-claimen** op een "Edom = Rome / Edom = Christendom"-lezing; die valt buiten de typologie-laag — bron-feit is uitsluitend Esau-volkenaam-Edom binnen Schrift-bron.
 
 **Cluster C `u·ibz oshu ath-e·bkre`** Gen 25:34 — bron-eigen verteller-evaluatie. **Niet over-claimen** op specifieke "Esau is volledig verworpen tot kwaadaardigheid" — bron-feit is concrete handeling-evaluatie (verachten van eerstgeboorterecht), niet algemene-totaliteits-veroordeling.
 
@@ -873,7 +873,7 @@ Bij vragen over **Hosea-Gomer narratief**: cluster E + cross-link *hosea* (toeko
 
 ## Waarschuwingen
 
-**Cluster A `arshthi·k`** Hos 2:19-20 — bron-eigen drievoudig herhaald. **Niet over-claimen** op specifieke "drie-voudig betekent drie-eenheid" of vergelijkbare lezingen — bron-feit is herhalings-emphasis volgens Hebreeuwse stijl-conventie (vergelijkbaar Jes 6:3 `qadosh qadosh qadosh` driemaal). Bron-eigen N1 herhaling met progressieve attributen (ewig + gerechtigheid + trouw).
+**Cluster A `arshthi·k`** Hos 2:19-20 — bron-eigen drievoudig herhaald. **Niet over-claimen** op een trinitarische lezing van het drievoud; die valt buiten de typologie-laag — bron-feit is herhalings-emphasis volgens Hebreeuwse stijl-conventie (vergelijkbaar Jes 6:3 `qadosh qadosh qadosh` driemaal). Bron-eigen N1 herhaling met progressieve attributen (ewig + gerechtigheid + trouw).
 
 **Cluster B `bo·li·k oshi·k`** Jes 54:5 — bron-eigen `ba'al`-werkwoord. **Niet vermengen** met Baal-cult-naam (zelfde wortel maar bron-eigen verschillende toepassing — `ba'al` = `meester/echtgenoot`-functie in OT-Hebreeuws). Bron-feit: Hos 2:16-17 (NL: 2:18-19) levert bron-eigen `tiqra·i ish·i u·la-thqra·i l·i oud bo·l·i` (gij zult Mij `Mijn man` noemen en niet meer `Mijn Baal`) — bron-eigen wordt gespeeld met dubbel-betekenis.
 
@@ -910,8 +910,7 @@ Alle vers-references in deze entry op 2026-05-08 geverifieerd via grep + woord-v
 3. **Eze 16:1-43 + 23 overspel-narratieven volledige uitwerking** — past in toekomstige *oholah-oholiba* (Fase 3 uitbreiding negatief type) of *twee-zusters* (Fase 9).
 4. **Hos 1-3 Gomer-Loruchamah-Loammi naamgeving + herroeping cyclus** — past in toekomstige *hosea* (Fase 3 uitbreiding) of *naamgeving-omkering* (Fase 7 uitbreiding).
 5. **`chephtzi-bah` Jes 62:4 ↔ Sion-naamgeving + Op 21:2** Nieuw-Jeruzalem-bruid-formule — past in `./bruidegom-bruid-christus-gemeente.md` of *sion-jeruzalem* (bestaand).
-6. **Sinai-huwelijks-verbond typologie Exo 19-24 + Hebr 8 + Hebr 12:18-24 contrast** — past in toekomstige *twee-verbonden* (Fase 9) — Sinai versus Sion.
-
+6. **Sinai-huwelijks-verbond typologie Exo 19-24 + Hebr 8 + Hebr 12:18-24 contrast** — past in toekomstige *twee-verbonden* (Fase 9) — Sinai versus Si
 ---
 
 
@@ -1334,7 +1333,7 @@ Interpretatieve framings. Dat de Aäron-Christus-parallel uitstrekt buiten Hebr 
 
 **Bron-eigen N1 drievoudige negatie-formule** in NT-tekst over Melchizedek: zonder vader, zonder moeder, zonder geslachtslijn. **Bron-eigen tekst-eigen NT-feit**: NT-auteur leidt dit af uit Gen 14:18-20 stilte (geen genealogie, geen ouders, geen begin- of eind-dag). **Bron-eigen N1 expliciete `aphōmoiōmenos tō huiō tou theou`** (gelijkgemaakt aan de Zoon van God) — bron-eigen NT-typologische formule in passieve voltooide deelwoord. **Bron-eigen `menei hiereus eis to diēnekes`** (blijft priester voor immer) als gevolg.
 
-**Bron-eigen waarschuwing**: NT-tekst zegt `aphōmoiōmenos` (gelijkgemaakt) — niet `homoios` (gelijk-aan) of `tupos` (type-van). **Niet over-claimen op specifieke ontologische identiteit Melchizedek = pre-incarnatie-Christus** zonder eigen analyse. Bron-feit: NT-tekst behandelt Gen 14:18-20 stilte als typologisch-passend bij Christus-Zoon.
+**Bron-eigen waarschuwing**: NT-tekst zegt `aphōmoiōmenos` (gelijkgemaakt) — niet `homoios` (gelijk-aan) of `tupos` (type-van). Een identificatie van Melchizedek valt buiten de typologie-laag. Bron-feit: NT-tekst behandelt Gen 14:18-20 stilte als typologisch-passend bij Christus-Zoon.
 
 ### Cluster E — Hebr 7:11-22 priester-orde-overgang [N1]
 
@@ -1413,7 +1412,7 @@ Bij vragen over **Ps 110:4 JHWH-eed `kohen le-olam`**: cluster B + waarschuwing 
 
 Bij vragen over **Hebr 5:4 Aäron-roeping-principe**: cluster C + cross-link `./drie-ambten-samenval.md` (toekomstig — voor synthese-element).
 
-Bij vragen over **Hebr 7:1-3 `aphōmoiōmenos tō huiō tou theou`**: cluster D + waarschuwing tegen ontologische over-claim Melchizedek = pre-incarnatie-Christus.
+Bij vragen over **Hebr 7:1-3 `aphōmoiōmenos tō huiō tou theou`**: cluster D + waarschuwing dat een identificatie van Melchizedek buiten de typologie-laag valt.
 
 Bij vragen over **Hebr 7:14 `ex Iouda anatetalken`**: cluster E + cross-link `./drie-ambten-koning.md` (Juda-stam koningschap — bron-eigen Gen 49:10 + Op 5:5 `leōn ek phulēs Iouda`).
 
@@ -1425,7 +1424,7 @@ Bij vragen over **Aäron-Christus narratief-parallel-elementen**: cluster G + cr
 
 ## Waarschuwingen
 
-**Cluster A `kohen le-El Elyon`** Gen 14:18 — bron-eigen unieke titel buiten Aaronisch verband. **Niet over-claimen** op specifieke "Melchizedek = pre-incarnatie-Christus" zonder eigen analyse. Bron-feit: Gen 14:18 introduceert hem zonder genealogie, zonder vader-moeder-vermelding, zonder einde-vermelding — Hebr 7:3 leidt typologische passing daaruit af, niet ontologische identiteit.
+**Cluster A `kohen le-El Elyon`** Gen 14:18 — bron-eigen unieke titel buiten Aaronisch verband. Een identificatie van Melchizedek valt buiten de typologie-laag. Bron-feit: Gen 14:18 introduceert hem zonder genealogie, zonder vader-moeder-vermelding, zonder einde-vermelding — Hebr 7:3 leidt typologische passing daaruit af, niet ontologische identiteit.
 
 **Cluster A `melekh shalem`** Gen 14:18 — bron-eigen plaatsnaam Salem. **Cross-link** met latere Yerushalayim-naam (Ps 76:3 `Shalem`); Hebr 7:2 levert bron-eigen NT-etymologie `basileus eirēnēs`. **Niet over-claimen** op specifieke geografische identificatie zonder cross-link `../A_entiteit/stad-jeruzalem.md`.
 
@@ -2070,7 +2069,7 @@ Bij vragen over **Mic 5:4 messiaans-herder + Bethlehem-koning**: cluster C + cro
 
 **Cluster B Eze 34** — bron-eigen N1 wee-formule tegen valse-herders. **Niet over-claimen** op specifieke "alle herders = priesters / koningen volledig" zonder Eze-context — bron-feit is breed-leiders-figuur (vs 4 + vs 16 wettelijke-rechtvaardigheids-functies).
 
-**Cluster C Zach 13:7 `gbr omith·i`** — bron-eigen unieke titel `man mijn-makker`. **Niet over-claimen** op specifieke trinitarische-uitwerking zonder NT-context — bron-feit is `omith` (H5997) hapax in deze context (zelfde Strong als Lev 6:2 + 18:20 + 19:11+15+17 + 24:19 + 25:14-15+17 als algemene-makker-term). Mat 26:31-citaat past op Christus.
+**Cluster C Zach 13:7 `gbr omith·i`** — bron-eigen unieke titel `man mijn-makker`. **Niet over-claimen** op een trinitarische uitwerking; die valt buiten de typologie-laag — bron-feit is `omith` (H5997) hapax in deze context (zelfde Strong als Lev 6:2 + 18:20 + 19:11+15+17 + 24:19 + 25:14-15+17 als algemene-makker-term). Mat 26:31-citaat past op Christus.
 
 **Cluster D `egō eimi ho poimēn ho kalos`** Joh 10:11+14 — bron-eigen Christus-zelf-claim. **Niet vermengen** met andere `egō eimi`-claims (Joh 6:35 brood + 8:12 licht + 8:58 absolute + 10:7 deur + 11:25 opstanding + 14:6 weg + 15:1 wijnstok). Bron-eigen N1 verschillende elementen binnen `egō eimi`-cluster.
 
@@ -2105,8 +2104,7 @@ Alle vers-references in deze entry op 2026-05-08 geverifieerd via grep + woord-v
 3. **Joh 10:1-18 volledige tekenen-werk-uitwerking** + verschillende `egō eimi`-formules + `archē tōn sēmeiōn`-cluster — past in toekomstige `../E_structuur/joh-egō-eimi-cluster.md` (Fase 6 uitbreiding).
 4. **Mozes-herder Exo 3:1 + David-herder + Christus-herder driedubbele-typologie** — past in toekomstige *herders-pre-roeping* (Fase 7 uitbreiding).
 5. **Op 7:17 `to arnion to ana meson tou thronou poimanei autous`** Lam-herder paradoxale-formule — past in toekomstige *lam-en-herder-paradox* (Fase 9).
-6. **`shevet u·mshonth` Ps 23:4** stok-en-staf herder-cluster — past in toekomstige *shevet-staf* (Fase 4 uitbreiding) of *wortel-shevet-koning-en-herder* (Fase 5).
-
+6. **`shevet u·mshonth` Ps 23:4** stok-en-staf herder-cluster — past in toekomstige *shevet-staf* (Fase 4 uitbreiding) of *wortel-shevet-koning-en-herder* 
 ---
 
 
@@ -2478,7 +2476,7 @@ Bij vragen over **Rebekka-bruids-keuze**: cluster B + D + cross-link *rebekka* (
 
 **Cluster A `yad tachat yarekh`** Gen 24:2+9 — bron-eigen unieke eed-positie. **Niet over-claimen** op specifieke betekenis (besnijdenis-element of eerstgeboren-belofte) zonder bron-context-uitwerking — bron-feit is dat zelfde formule in Gen 47:29 (Jakob-Jozef) bestaat als levens-zware eed.
 
-**Cluster B `mlak·u l·phni·k`** Gen 24:7+40 — bron-eigen engel-vóór-knecht-formule. **Niet over-claimen** op specifieke "engel = Christus pre-incarnatie" zonder bron-bridge — bron-feit is `mal'akh` (H4397) algemene engelen-titel.
+**Cluster B `mlak·u l·phni·k`** Gen 24:7+40 — bron-eigen engel-vóór-knecht-formule. Een identificatie "engel = Christus pre-incarnatie" valt buiten de typologie-laag — bron-feit is `mal'akh` (H4397) algemene engelen-titel.
 
 **Cluster B tekens-gebed** Gen 24:12-14 — bron-eigen knecht-tekens-verzoek. **Niet over-claimen** op specifieke "elke gelovige mag tekens vragen" zonder NT-context — bron-feit is dit specifieke missie-element binnen Abrahamic-belofte-context. Vergelijk Mat 12:39 `genea ponēra kai moichalis sēmeion epizētei`.
 
@@ -3000,7 +2998,7 @@ Bij vragen over **Mat 12:42 `pleion Solomōnos`**: cluster F + cross-link *salom
 
 **Cluster F 1 Kon 11 Salomo-afval** — bron-eigen historisch feit. **Niet over-claimen** op specifieke "Salomo verloor de belofte volledig" zonder 1 Kon 11:11-13 te integreren — bron-feit is verlies-tien-stammen-onder-Rehabeam, behoud-Juda-stam wegens David-belofte. **Bron-eigen N1 conditionele-uitwerking** binnen onvoorwaardelijke-belofte-context.
 
-**Niet over-claimen op systematisch "David-Salomo-typologie = Vader-Zoon-trinitarisch"** als overall-raster — bron-feit is dubbel-laag-vervulling-tekst-spanning, geen ontologische trinitarische uitleg in OT-bron-tekst.
+**Een "David-Salomo-typologie = Vader-Zoon-trinitarisch"-raster valt buiten de typologie-laag** — bron-feit is de dubbel-laag-vervulling-tekst-spanning; de tekst geeft geen trinitarische uitleg.
 
 ## Bron-verificatie
 

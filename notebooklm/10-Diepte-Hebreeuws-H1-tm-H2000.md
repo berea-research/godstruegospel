@@ -238,8 +238,6 @@
 
 **Wortel:** Geen onderscheidbare verbale wortel. ʾav is primair zelfstandig naamwoord, een tweecletter-stam (alef-bet) zonder werkwoordelijke afleiding. Stam in oudste laag van semitisch verwantschaps-vocabulair.
 
-**Etymologie:** Proto-Semitisch *ʾ-b 'vader'. Klanknabootsend voor babbelende kindertaal (parallel aan 'papa, baba'). Cognaten: Aramees ʾav (vader — direct cognaat, frequent in Daniel-Aramees als ʾavahati 'mijn-vaderen'), Akkadisch abu (vader-voorvader-leider), Ugaritisch ab (vader, in El-pantheon ook godheids-titel), Fenicisch ʾb (vader), Arabisch ʾab (vader, productief in eigennamen via Abu-X).
-
 **Basisbetekenis:** vader, voorvader, oprichter-van-geslacht. Master kiest concordant 'vader' voor alle voorkomens. Range: 1) cluster-bij-directe-vader (avi-X als patroniem — item 1121 paar via H1121a), 2) cluster-bij-voorouder (avot-Yisrael = patriarchen — item 60 paar via H3478), 3) cluster-bij-Yah-vader (avi-Yisrael 'vader-van-Israel' = Yah — item 23 paar via H3068), 4) cluster-bij-oprichter (av-X als bezigheid-introducer Gen 4:20-22 — item 4 paar via H6213a ʿasah), 5) cluster-bij-eer-titulair (avi! als respect-aanspreking voor leraar — item 7 paar via H7200 in 2Kg 2:12).
 
 **Semantische velden:** directe-vader-cluster (primair); voorouder-cluster; Yah-vader-cluster; oprichter-cluster; eer-titulair-cluster.
@@ -266,8 +264,6 @@
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾav (vader — direct cognaat, in Daniel-Aramees als ʾavahati 'mijn-vaderen'). Akkadisch abu (vader-voorvader-leider — semantische gelaagdheid identiek aan Hebreeuws). Ugaritisch ab (vader, in El-pantheon ook godheids-titel als ab-adm 'vader-van-mensen'). Fenicisch ʾb (vader). Arabisch ʾab (vader, productief in Abu-X-eigennamen).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -369,8 +365,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-b-d. Drie-radicaal werkwoordelijke wortel voor 'vergaan, verloren-gaan, te-gronde-gaan'. Centraal-werkwoord van vernietiging-en-verlies.
 
-**Etymologie:** Proto-Semitisch *ʾ-b-d 'vergaan'. Cognaten: Aramees ʾavad (vergaan), Akkadisch abatu (vernietigen), Ugaritisch ʾbd (vergaan), Fenicisch ʾbd (vergaan), Arabisch ʾabada (eeuwig-zijn — semantische tegenpool).
-
 **Basisbetekenis:** vergaan, verloren-gaan, te-gronde-gaan. Master kiest concordant 'vergaan' voor alle voorkomens. Range: 1) cluster-bij-volk-vergaan (Yisrael yo-ʾavad = Israel-zal-vergaan — item 60 paar via H3478, ~30x in profetisch-oordeel), 2) cluster-bij-Yah-doet-vergaan (Hiphil heʾbid = vernietigen — item 23 paar via H3068, ~30x), 3) cluster-bij-verloren-schap (avadah als 'verloren-gegaan-iets' — item 6 paar dominant zelf), 4) cluster-bij-vergaan-uit-aandenken (avad zekher = naam-vergaat — item 78 paar via H2142, ~10x), 5) cluster-bij-rechtvaardige-vergaat (avad tsadiq = rechtvaardige-vergaat Pred 7:15 — item 6662 paar via H6662).
 
 **Semantische velden:** volk-vergaan-cluster (primair); Yah-doet-vergaan-cluster; verloren-schap-cluster; vergaan-uit-aandenken-cluster; rechtvaardige-vergaat-cluster.
@@ -397,8 +391,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H6`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾavad (vergaan — direct cognaat). Akkadisch abatu (vernietigen — directe cognaat). Ugaritisch ʾbd (vergaan). Fenicisch ʾbd (vergaan). Arabisch ʾabada (eeuwig-zijn — semantische tegenpool).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -501,8 +493,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-v-h. Holle-wortel.
 
-**Etymologie:** Proto-Semitisch *ʾ-w-y. Cognaten: Aramees ʾava, Akkadisch awû via parallel, Ugaritisch ʾwy, Arabisch awa (cluster).
-
 **Basisbetekenis:** willen-of-instemmen. Range: 1) cluster-bij-modaal-willen (vast paar item 191 paar via H3201 yakol in willen-en-kunnen-cluster), 2) cluster-bij-cluster-bij-godheids-willen, 3) cluster-bij-niet-willen (negatie-cluster — vast in lo'-ʾavah-formule), 4) cluster-bij-cult-instemming-cluster, 5) cluster-bij-overdrachtelijk-cluster.
 
 **Semantische velden:** willen-cluster (primair); modaal-cluster; instemmings-cluster; antoniem-cluster (weigeren); juridisch-cluster.
@@ -529,8 +519,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H14`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾava. Akkadisch awû. Ugaritisch ʾwy. Arabisch awa. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -633,8 +621,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-v-y. Drie-radicaal nominale wortel.
 
-**Etymologie:** Proto-Semitisch *ʾ-b-y. Cognaten: Aramees ʾavyon, Akkadisch via parallel, Ugaritisch ʾby.
-
 **Basisbetekenis:** behoeftige-of-arme. Range: 1) cluster-bij-armen-cluster (vast paar item 403 paar via H6041 ʿani), 2) cluster-bij-cult-zorg-cluster (Deu 15:7 cluster), 3) cluster-bij-juridisch-cluster, 4) cluster-bij-godheids-zorg-cluster, 5) overdrachtelijk-cluster.
 
 **Semantische velden:** armen-cluster (primair); sociaal-zorg-cluster; juridisch-cluster; godheids-bescherm-cluster; profetisch-cluster.
@@ -661,8 +647,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H34`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾavyon. Akkadisch via parallel. Ugaritisch ʾby.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -761,8 +745,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** a-v-l. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *a-v-l. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'rouwen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (rouwen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -789,8 +771,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H56`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -892,8 +872,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-b-n. Drie-radicaal-stam — ʾeven is primair zn voor 'steen, rotsblok'. Stam-cognaat-paar met bana (bouwen, H1129) — wat-bouwt-met-stenen. Stam in oudste laag van semitisch geografisch-en-bouwkundig-vocabulair.
 
-**Etymologie:** Proto-Semitisch *ʾ-b-n 'steen'. Cognaten: Aramees ʾeven (steen), Akkadisch abnu (steen), Ugaritisch ʾbn (steen), Fenicisch ʾbn (steen, in koninklijke-inscripties), Arabisch ibn (zoon — wortel-overlap met ben H1121a, niet met steen).
-
 **Basisbetekenis:** steen, rotsblok. Master kiest concordant 'steen' voor alle voorkomens. Range: 1) cluster-bij-fysieke-steen (ʾeven als materiaal — item 68 paar dominant zelf), 2) cluster-bij-altaar-steen (ʾavnei mizbeach = altaarstenen — item 71 paar via H4196), 3) cluster-bij-tien-geboden-tafelen (luchot ʾavanim = stenen-tafelen — item 27 paar via H4687), 4) cluster-bij-Yah-rotssteen (ʾeven Yisrael Gen 49:24 = steen-van-Israel = Yah — item 60 paar via H3478), 5) cluster-bij-grafsteen (ʾeven ʿal-pi-ha-borah = steen-op-de-mond-van-de-put — item 875 paar via H875 in put-context).
 
 **Semantische velden:** fysieke-steen-cluster (primair); altaar-steen-cluster; geboden-tafelen-cluster; Yah-rotssteen-cluster; grafsteen-cluster.
@@ -920,8 +898,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H68`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾeven (steen — direct cognaat). Akkadisch abnu (steen — directe cognaat). Ugaritisch ʾbn (steen). Fenicisch ʾbn (steen, in koninklijke-inscripties als 'monument-steen'). Arabisch — geen directe cognaat met dezelfde stam (Arabisch ibn 'zoon' is via andere wortel; voor steen ḥajar).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -1022,8 +998,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-d-n. Drie-radicaal werkwoordelijke wortel — wortel-cognaat-paar bij H136 ʾadonay (mijn-Heer-godsnaam).
 
-**Etymologie:** Proto-Semitisch *ʾ-d-n. Cognaten: zie H136.
-
 **Basisbetekenis:** heer of meester of bezitter. Range: 1) cluster-bij-cult-godheids-cluster (vast paar item 113 paar via H136 ʾadonay in zelfde batch in cluster), 2) cluster-bij-koninklijk-heer-cluster (vast paar item 25 paar via H4428 melekh in cluster), 3) cluster-bij-slaaf-meester-cluster (Gen 24:9-10 — ʾadon-ʿavdo), 4) cluster-bij-cluster-bij-Mozes-tot-zijn-Heer-cluster (Exo 4:13), 5) cluster-bij-cluster-bij-eer-en-aanspreek-cluster.
 
 **Semantische velden:** heer-cluster (primair); cult-godheids-cluster; koninklijk-cluster; slaaf-meester-cluster; eer-cluster.
@@ -1041,6 +1015,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Distributie per genre:**
 
 | Genre |
+
 
 ---
 
@@ -1074,8 +1049,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-d-r. Klassiek-Hebreeuws addir. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws addir (machtig, edel-machtig), van adar (verheerlijkt-zijn H142). Stam-cognaat-paar met Yah-machtig-en-Mosaisch-lied-Exo-15-vocabulair.
-
 **Basisbetekenis:** machtig. Master kiest concordant 'machtig' voor alle voorkomens. Range: 1) cluster-bij-addir-en-adar-paar (machtig-en-verheerlijkt — item 142 paar via H142, ~25x), 2) cluster-bij-addir-en-gadol-paar (machtig-en-groot — item 76 paar via H1419), 3) cluster-bij-Yah-addir-Mosaisch-lied-Exo-15-11 ('mi-kamokha-baelim-Yah-mi-kamokha-neʾdar-baqodesh' — item 23 paar via H3068, ~10x), 4) cluster-bij-addir-Christus-Ps-8-2-9 ('Yah adoneinu mah-addir-shimkha bechol-haʾaretz' Christus-Naam-Heb-2-citaat — item 5547 paar-via-NT G5547), 5) cluster-bij-addir-koningen-en-leiders-Richt-5-13 (item 7626 paar via H7626).
 
 **Semantische velden:** kracht-cluster (primair); Yah-kracht-cluster; gadol-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -1102,8 +1075,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H117`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G1741 endoxos. Heb 2:6-9 LXX-Ps-8-citaat Christus-glorieerd-uitnemend-Naam.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -1200,8 +1171,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-d-m. Drie-radicaal werkwoordelijke wortel — wortel-cognaat-paar met H127 ʾadamah (aardgrond) en wortel bij H119 ʾadom (rood-zijn). Adam = mens-uit-rode-aarde-gemaakt.
 
-**Etymologie:** Proto-Semitisch *ʾ-d-m 'rood-zijn, mens'. Cognaten: Aramees ʾadam (mens), Akkadisch admu (jonge-stier), Ugaritisch ʾdm (mens), Fenicisch ʾdm (mens, in koninklijke-inscripties), Arabisch ʾadam (mens — wortel-overlap met aardgrond ʾadim).
-
 **Basisbetekenis:** mens, mensheid, Adam. Master kiest concordant 'mens' voor alle voorkomens. Range: 1) cluster-bij-scheppings-cluster (Gen 1:26-27 naʿaseh ʾadam be-tsalmenu — item 4 paar via H6213a), 2) cluster-bij-cluster-bij-cult-vergankelijk (Ps 8:5 mah-ʾenosh ki-tizkrenu u-ben-ʾadam — item 1121 paar via H1121a), 3) cluster-bij-eigennaam-Adam (Gen 2-5), 4) cluster-bij-zoon-mens-Eze (ben-ʾadam-vocatief in Ezechiel-93x), 5) cluster-bij-mensheid-tegenover-godheid (Num 23:19 lo-ʾish ʾel — item 376 paar via H376).
 
 **Semantische velden:** scheppings-cluster (primair); cult-vergankelijk-cluster; eigennaam-Adam-cluster; ben-ʾadam-cluster (Eze); mensheid-tegenover-godheid-cluster.
@@ -1228,8 +1197,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H120`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾadam (mens — direct cognaat). Akkadisch admu (jonge-stier — semantische verschuiving naar dier-aanduiding). Ugaritisch ʾdm (mens, in mythologische teksten als 'ʾab-ʾadm 'vader-van-mensen' bij El). Fenicisch ʾdm (mens, in koninklijke-inscripties). Arabisch ʾadam (mens, met wortel-overlap met aardgrond).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -1331,9 +1298,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √ʾ-d-m. Wortel-paar met ʾadam (mens, H120) en ʾadom (rood, H119). ʾAdamah is afgeleid zn voor 'aardgrond, akkergrond, vasteland'. Etymologisch verbonden met de roodbruine kleur van Levantijnse-aarde.
-
-**Etymologie:** Proto-Semitisch *ʾ-d-m 'roodbruine-aarde'. Cognaten: Aramees ʾadamah (aarde), Akkadisch admatu (aardgrond), Ugaritisch ʾadm (aardgrond), Fenicisch ʾdmh (aardgrond), Arabisch ʾadim (oppervlak-aarde).
+**Wortel:** √ʾ-d-m. Wortel-paar met ʾadam (mens, H120) en ʾadom (rood, H119). ʾAdamah is afgeleid zn voor 'aardgrond, akkergrond, vasteland'.
 
 **Basisbetekenis:** aardgrond, akkergrond, vasteland. Master kiest concordant 'aardgrond' voor alle voorkomens. Range: 1) cluster-bij-mens-uit-aarde (Gen 2:7 yatsar yhwh ʾafar min-ha-ʾadamah — item 35 paar via H120), 2) cluster-bij-vervloekte-aarde (ʾarurah ha-ʾadamah — item 119 paar via H119 cluster, Gen 3:17), 3) cluster-bij-aarde-belofte (ʾadamah-X als beloofde-akkergrond — item 6 paar via H776), 4) cluster-bij-aarde-vrucht (peri ha-ʾadamah = vrucht-van-de-aarde — item 41 paar via H6529 als opbrengst-formule), 5) cluster-bij-tot-stof-terugkeren (ʾel ʿafar tashuv = tot-stof-zul-je-terugkeren Gen 3:19 — item 24 paar via H7725).
 
@@ -1361,8 +1326,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H127`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾadamah (aarde — direct cognaat). Akkadisch admatu (aardgrond — directe cognaat). Ugaritisch ʾadm (aardgrond, in mythologische teksten als 'aarde-bij-mensheid'-paar). Fenicisch ʾdmh (aardgrond, in koninklijke-inscripties). Arabisch ʾadim (oppervlak-aarde).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -1465,8 +1428,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-d-n. Drie-radicaal werkwoordelijke wortel — wortel-cognaat-paar met H113 ʾadon (heer-meester).
 
-**Etymologie:** Proto-Semitisch *ʾ-d-n. Cognaten: Aramees ʾadon, Akkadisch via parallel, Ugaritisch ʾdn, Fenicisch ʾdn.
-
 **Basisbetekenis:** mijn-Heer (godsnaam-eponymie, eerbiedig spreken-vorm). Range: 1) cluster-bij-cult-godsnaam-cluster (vast paar item 23 paar via H3068 YHWH in formule ʾadonay-YHWH), 2) cluster-bij-aanspreek-cluster (Gen 18:3 — bidd-vorm Abraham), 3) cluster-bij-profetisch-cluster (vast paar Eze formule), 4) cluster-bij-cult-eer-cluster (Ps 8:2 — ʾadonenu mah-ʾaddir shimkha), 5) cluster-bij-cluster-bij-tweede-tempel-substitutie-cluster.
 
 **Semantische velden:** cult-godsnaam-cluster (primair); aanspreek-cluster; profetisch-cluster; cult-eer-cluster; substitutie-cluster.
@@ -1474,6 +1435,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 ## C. Morfologische varianten (anker 2)
 
 **Vormen die voorkomen:** zn mannelijk-pluralis-met-suffix-1ps (gestold-vorm) ʾădōnāy (basisvorm). Geen verbuiging — gestold lexeem. Verwante vormen in stamfamilie: H113 ʾādôn (heer-meester, gewone-vorm 335x), met possessief-suffixen ʾădōnî (mijn heer — voor menselijke meester), ʾădōnênû (onze heer), ʾădōnêkha (uw heer). De vorm ʾădōnay specifiek-me
+
 
 ---
 
@@ -1507,8 +1469,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-h-b. Drie-radicaal werkwoordelijke wortel voor 'liefhebben, beminnen, gehecht-zijn'. Centraal-relationeel werkwoord met semantische gelaagdheid: huwelijks-liefde → familie-liefde → vriendschap → ethisch-liefhebben (naaste) → cult-Yah-liefhebben.
 
-**Etymologie:** Proto-Semitisch *ʾ-h-b 'liefhebben'. Cognaten: Aramees ʾehav (liefhebben), Akkadisch ahabu (liefhebben — directe cognaat), Ugaritisch ʾhb (liefhebben), Fenicisch ʾhb (liefhebben, in koninklijke-inscripties), Arabisch — geen directe cognaat.
-
 **Basisbetekenis:** liefhebben, beminnen, gehecht-zijn. Master kiest concordant 'liefhebben' voor alle voorkomens. Range: 1) cluster-bij-Yah-liefhebben (we-ʾahavta et-yhwh = en-liefhebben-yhwh — item 60 paar via H3478 in shemaʿ-Yisrael, ~10x), 2) cluster-bij-naaste-liefhebben (we-ʾahavta le-reʿecha = jouw-naaste-liefhebben Lev 19:18 — item 7453 paar via H7453), 3) cluster-bij-Yah-liefheeft-Israel (yhwh ʾahav et-Yisrael — item 60 paar via H3478, ~25x), 4) cluster-bij-huwelijks-liefde (Jakob-Rachel-context — item 802 paar via H802), 5) cluster-bij-vriendschap-en-broederliefde (David-en-Jonatan — item 1732 paar via H1732).
 
 **Semantische velden:** Yah-liefhebben-cluster (primair); naaste-liefhebben-cluster; Yah-liefheeft-Israel-cluster; huwelijks-liefde-cluster; vriendschap-cluster.
@@ -1535,8 +1495,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H157`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾehav (liefhebben — direct cognaat). Akkadisch ahabu (liefhebben — directe cognaat). Ugaritisch ʾhb (liefhebben, in mythologische teksten als godheids-liefde). Fenicisch ʾhb (liefhebben, in koninklijke-inscripties). Arabisch — geen directe cognaat (Arabisch hubb 'liefde' is wortel-overlap maar betekent veelal 'genegenheid').
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -1639,8 +1597,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-h-b. Klassiek-Hebreeuws ahavah. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws ahavah (liefde), van ahav (liefhebben H157). Stam-cognaat-paar met dod (geliefde H1730).
-
 **Basisbetekenis:** liefde. Master kiest concordant 'liefde' voor alle voorkomens. Range: 1) cluster-bij-ahavah-en-ahav-paar (liefde-en-liefhebben — item 209 paar via H7812 niet-direct, ~25x), 2) cluster-bij-Yah-ahavat-Israel (Deu 7:8 'uit-Yah-liefde-tot-Israel' — item 60 paar via H3478), 3) cluster-bij-ahavah-en-chesed-paar (liefde-en-goedheid — item 22 paar via H2617a), 4) cluster-bij-ahavah-Hooglied (Hgl 2:4-5 'liefde-vlag-bedekt' — item 1730 paar via H1730), 5) cluster-bij-NT-LXX-paar G26 agape (centraal-NT 'agape-tou-theou').
 
 **Semantische velden:** liefde-cluster (primair); Yah-liefde-cluster; racham-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -1667,8 +1623,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H160`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G26 agape (~115x in NT). 1Co 13 'agape-hoofdstuk' centraal.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -1768,8 +1722,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-h-l. Drie-radicaal werkwoordelijke wortel.
 
-**Etymologie:** Proto-Semitisch *ʾ-h-l. Cognaten: Aramees ʾuhal, Akkadisch ālu (cluster-aspect), Ugaritisch ʾhl, Fenicisch ʾhl, Arabisch ʾahl.
-
 **Basisbetekenis:** tent of woon-tent of bedevaarts-tent. Range: 1) cluster-bij-cult-ʾohel-moed-cluster (vast paar item 165 paar via H4150 moed in cluster bij tabernakel-tent), 2) cluster-bij-patriarchaal-tent-cluster (Gen 18:1 — Abraham bij tent-ingang), 3) cluster-bij-cult-tabernakel-cluster (vast paar item 434 paar via H4908 mishkan in eerdere batches in ʾohel-en-mishkan-cluster), 4) cluster-bij-cluster-bij-Jakob-tent-cluster (Gen 31:25), 5) cluster-bij-cluster-bij-bedoeïnen-tent-cluster.
 
 **Semantische velden:** cult-ʾohel-moed-cluster (primair); patriarchaal-tent-cluster; tabernakel-cluster; cluster-bij-Jakob-cluster; bedoeïnen-cluster.
@@ -1792,6 +1744,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 | Vroege Profeten | 54 |
 | Late Profeten | 20 |
 | Gesch
+
 
 ---
 
@@ -1825,8 +1778,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** a-v-h. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *a-v-h. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'begeren'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (begeren); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -1853,8 +1804,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H183`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -1954,8 +1903,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-w-l. Tweecletter-stam met -w-. ʾUlai is primair vraag-deeltje 'misschien, mogelijk, indien'. Stam in oudste laag van semitisch modaal-vocabulair.
 
-**Etymologie:** Proto-Semitisch *ʾ-w-l 'misschien'. Cognaten: Aramees ʾulaʾ (misschien), Akkadisch ulla (misschien), Ugaritisch ʾl (misschien), Fenicisch ʾl (misschien), Arabisch ʾaw (of — andere wortel).
-
 **Basisbetekenis:** misschien, mogelijk, indien. Master kiest concordant 'misschien' voor alle voorkomens. Range: 1) cluster-bij-Abraham-onderhandelt-Sodom (Gen 18 ulai yesh chamishshim = misschien-zijn-er-vijftig-rechtvaardigen — item 6662 paar via H6662, ~6x in onderhandelings-trap), 2) cluster-bij-vertrouwen-of-twijfel (ulai yarcham yhwh = misschien-zal-yhwh-ontfermen — item 23 paar via H3068, ~5x in profetisch-toekomst), 3) cluster-bij-Mosheh-Yom-Kippur-bemiddel (Exo 32:30 ulai akhpra'ah = misschien-zal-ik-verzoening-doen — item 91 paar via H3548), 4) cluster-bij-niet-Yah-redt-misschien-Yah-redt (Eli ʾol Sam-1, 1Sa 6:5 ulai yaqel = misschien-zal-hij-de-hand-verlichten — item 4428 paar via H4428), 5) cluster-bij-vluchtelinge-misschien-veiligheid (eich-na ulai-X = wie-weet-misschien-X als toekomst-twijfel-deeltje).
 
 **Semantische velden:** Abraham-onderhandelt-Sodom-cluster (primair); vertrouwen-of-twijfel-cluster; Mozes-Yom-Kippur-cluster; misschien-Yah-redt-cluster; vluchtelinge-veiligheid-cluster.
@@ -1982,8 +1929,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H194`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾulaʾ (misschien — direct cognaat). Akkadisch ulla (misschien — directe cognaat). Ugaritisch ʾl (misschien). Fenicisch ʾl (misschien). Arabisch ʾaw (of — andere wortel).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -2084,8 +2029,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-w-n. Drie-radicaal nominale wortel. Master rangschikt H205 als zelfstandig ʾaven kwaad-onrecht.
 
-**Etymologie:** Proto-Semitisch *ʾ-w-n. Cognaten: Aramees ʾawen, Akkadisch via parallel, Ugaritisch ʾn, Arabisch via parallel.
-
 **Basisbetekenis:** kwaad of onrecht of ijdelheid. Range: 1) cult-overtreding-cluster (vast paar item 152 paar via H2403b chataʾat), 2) cluster-bij-bedrog-en-leugen (vast paar item 309 paar via H8267 sheqer), 3) cluster-bij-afgoderij (Hos 4:15 Beth-ʾaven — Bethel-cluster), 4) cluster-bij-onbillijkheid-rechtsspraak, 5) overdrachtelijk-cluster.
 
 **Semantische velden:** kwaad-cluster (primair); onrecht-cluster; afgods-cluster (Beth-ʾaven); leugen-cluster; sapientiale-cluster.
@@ -2112,8 +2055,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H205`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾawen. Akkadisch via parallel. Ugaritisch ʾn. Arabisch via parallel. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -2213,8 +2154,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-w-p-n. Klassiek-Hebreeuws ofan. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws ofan (rad), Hebreeuws-stam. Stam-cognaat-paar met wagen-en-vervoer-vocabulair.
-
 **Basisbetekenis:** rad. Master kiest concordant 'rad' voor alle voorkomens. Range: 1) cluster-bij-ofan-en-merkavah-paar (rad-en-wagen — item 4818 paar via H4818, ~25x), 2) cluster-bij-ofan-en-rekev-paar (rad-en-strijdwagen — item 7393 paar via H7393), 3) cluster-bij-Eze-1-cherubim-ofan (Eze 1:15-21 'wielen-bij-cherubim' visioen — item 23 paar via H3068, ~10x), 4) cluster-bij-ofan-Salomo-zee (1Kg 7:30 'koperen-zee-met-ofanim' — item 8010 paar via H8010), 5) cluster-bij-NT-LXX-paar G5164 trochos (Jak 3:6 'trochos tēs geneseōs').
 
 **Semantische velden:** wagen-cluster (primair); Yah-wagen-cluster; rekev-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -2241,8 +2180,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H212`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G5164 trochos. NT-Jak 3:6 'rad-van-natuur-aanvallen'.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -2334,8 +2271,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-ts-r. Drie-radicaal werkwoordelijke en nominale wortel. Master rangschikt H214 als zelfstandig ʾotsar schat-schatkamer.
 
-**Etymologie:** Proto-Semitisch *ʾ-ṣ-r. Cognaten: Aramees ʾotsar, Akkadisch via parallel, Ugaritisch ʾṣr, Arabisch via parallel.
-
 **Basisbetekenis:** schat-of-schatkamer of opslag. Range: 1) cult-schatkamer (vast paar item 12 paar via H1004 bayit in beit-ha-ʾotsaroth-formule), 2) cluster-bij-koninklijke-schat, 3) cluster-bij-natuur-schat (Deu 28:12 ʾotsar ha-shamayim — schatkamer-van-de-hemelen), 4) cluster-bij-cult-tabernakel-cluster, 5) overdrachtelijk-cluster.
 
 **Semantische velden:** schat-cluster (primair); cult-schatkamer-cluster; koninklijk-cluster; cluster-bij-natuur-schat; overdrachtelijk-cluster.
@@ -2362,8 +2297,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H214`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾotsar. Akkadisch via parallel. Ugaritisch ʾṣr. Arabisch via parallel. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -2464,8 +2397,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** o-r. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *o-r. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'licht-geven'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (licht-geven); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -2492,8 +2423,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H215`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -2595,8 +2524,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-w-r (aleph-vav-resh). Holle-wortel met vav als zwakke middelste radicaal. Master rangschikt H216 als zelfstandig ʾor licht.
 
-**Etymologie:** Proto-Semitisch *ʾ-w-r. Cognaten: Aramees ʾor (licht), Akkadisch urru (licht-cluster), Ugaritisch ʾr (licht-cluster), Fenicisch ʾr (licht in cult-inscripties), Arabisch ʾūr (vuur-licht-cluster). De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** licht-of-glans of dag-licht. Range: 1) astronomisch-licht (Gen 1:3-5 yhi ʾor — er-zij-licht, schepping-cluster), 2) cult-licht (vast bij cult-tabernakel-cluster, item 192 paar via H8081 in olie-en-licht-cluster), 3) overdrachtelijk-godheids-licht (Ps 27:1 YHWH ʾori — YHWH mijn-licht), 4) heils-cluster (Isa 9:1, item 187 paar via H3467 in licht-en-redding-cluster), 5) levens-cluster (Job 3:20 — leven-en-licht-cluster).
 
 **Semantische velden:** licht-cluster (primair); cult-licht-cluster (menorah); godheids-attribuut-cluster (YHWH-ʾori); heils-en-redding-cluster (Isa); leven-cluster (antoniem-tegen-duisternis).
@@ -2623,8 +2550,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H216`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾor (licht). Akkadisch urru (licht). Ugaritisch ʾr. Fenicisch ʾr. Arabisch ʾūr. De wortel is West-Semitisch breed.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -2726,8 +2651,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-w-t. Holle-wortel. Master rangschikt H226 als zelfstandig ʾoth teken.
 
-**Etymologie:** Proto-Semitisch *ʾ-w-t. Cognaten: Aramees ʾath, Akkadisch ittu (cluster), Ugaritisch ʾt, Arabisch ʾāyah (teken-onveranderd).
-
 **Basisbetekenis:** teken of merkteken of zinnebeeld. Range: 1) cult-verbonds-teken (vast paar item 51 paar via H1285 berit in ʾoth-berit-formule), 2) cluster-bij-besnijdenis-teken (Gen 17:11), 3) cluster-bij-Pesach-teken (Exo 12:13 dam-cluster, item 41 paar via H1818), 4) cluster-bij-rainbow-teken (Gen 9:13), 5) cluster-bij-cult-tekenen-en-wonderen.
 
 **Semantische velden:** verbonds-teken-cluster (primair); cult-cluster (besnijdenis-pesach-rainbow); cluster-bij-tekenen-en-wonderen; cluster-bij-cult-bewaring; overdrachtelijk-cluster.
@@ -2752,8 +2675,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H226`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾath. Akkadisch ittu (cluster). Ugaritisch ʾt. Arabisch ʾāyah (onveranderd). De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -2849,8 +2770,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-z (aleph-zayin). Twee-radicaal partikel met tijds-functie. Master rangschikt H227a als bijwoord ʾaz toen-dan.
 
-**Etymologie:** Proto-Semitisch *ʾ-z. Cognaten: Aramees ʾadayin (toen — andere stam-formatie), Akkadisch via parallel, Ugaritisch ʾz (toen-cluster), Arabisch ʾidhā (wanneer — gerelateerd-cluster). De wortel is West-Semitisch breed in tijds-functie.
-
 **Basisbetekenis:** toen-of-dan-of-tijdsmarker. Range: 1) verleden-tijd-marker (Gen 4:26 ʾaz huchal — toen begon men), 2) gevolg-marker (Joz 8:30 ʾaz yibneh Yehoshua — toen bouwde Jozua), 3) sapientiale-tijds-marker (Pro 1:28 cluster), 4) ʾaz yashir-formule (vast in cult-cluster Exo 15:1), 5) profetisch-toekomst-cluster (Isa 35:5).
 
 **Semantische velden:** tijds-cluster (primair); gevolg-cluster (dan); cult-cluster (ʾaz yashir-formule); profetisch-cluster (toekomst); sapientiaal-cluster.
@@ -2881,8 +2800,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H227a`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾadayin (toen). Akkadisch via parallel. Ugaritisch ʾz (toen). Arabisch ʾidhā (wanneer). De wortel is West-Semitisch met tijds-functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -2979,8 +2896,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** a-z-n. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *a-z-n. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'oor-lenen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (oor-lenen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -3007,8 +2922,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H238`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -3108,8 +3021,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-z-n. Drie-radicaal-stam — ʾozen is primair zn voor 'oor'. Stam-cognaat-paar met heʾezin-werkwoord ('oren-spitsen' H238). Stam in oudste laag van semitisch lichaams-vocabulair.
 
-**Etymologie:** Proto-Semitisch *ʾ-z-n 'oor'. Cognaten: Aramees ʾozen (oor), Akkadisch uzn (oor), Ugaritisch ʾdn (oor — met klankverschuiving), Fenicisch ʾzn (oor), Arabisch ʾudhn (oor).
-
 **Basisbetekenis:** oor. Master kiest concordant 'oor' voor alle voorkomens. Range: 1) cluster-bij-fysiek-oor (ʾozen lichaamsdeel — item 8 paar dominant via H8085 als wortel-paar shamea), 2) cluster-bij-Yah-oor (ʾozen-yhwh = oor-van-yhwh = Yah-luistert — item 23 paar via H3068, ~25x), 3) cluster-bij-oor-doorbreken-slaaf (ratsaʿ ʾozen Exo 21:6 = oor-met-priem-doorbreken-slaaf — item 5650 paar via H5647), 4) cluster-bij-be-ʾozen (be-ʾozen-X = in-oor-van-X als 'in-aanwezigheid-van' — item 6440 paar via H6440), 5) cluster-bij-oor-niet-luisterend (ʾozen kvedah = doof-oor — item 71 paar via H3513 in profetische-aanklacht).
 
 **Semantische velden:** fysiek-oor-cluster (primair); Yah-oor-cluster; slaaf-oor-doorbreken-cluster; in-aanwezigheid-cluster; doof-oor-cluster.
@@ -3136,8 +3047,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H241`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾozen (oor — direct cognaat). Akkadisch uzn (oor — directe cognaat). Ugaritisch ʾdn (oor — met klankverschuiving). Fenicisch ʾzn (oor). Arabisch ʾudhn (oor — direct cognaat).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -3240,8 +3149,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-ch. Twee-radicaal cluster — primaire vorm voor broeder-relatie.
 
-**Etymologie:** Proto-Semitisch *ʾ-ḥ. Cognaten: Aramees ʾach, Akkadisch achu, Ugaritisch ʾḥ, Fenicisch ʾḥ, Arabisch ʾakh.
-
 **Basisbetekenis:** broer of broeder of stamgenoot of medegenoot. Range: 1) cluster-bij-familie-cluster (vast paar item 87 paar via H1323 bat en item 16 paar via H1121a ben), 2) cluster-bij-Esau-Jakob-cluster (Gen 25-33), 3) cluster-bij-Jozef-broers-cluster (Gen 37-50), 4) cluster-bij-stamgenoot-cluster (Lev 25:25 — ʾach-X), 5) cluster-bij-cluster-bij-naasten-liefde-cluster (Lev 19:17).
 
 **Semantische velden:** familie-cluster (primair); patriarchaal-cluster; stamgenoot-cluster; sapientiale-cluster; cult-naastenliefde-cluster.
@@ -3257,6 +3164,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 ## D. Parallelplaatsen-overzicht (anker 3)
 
 **Distributi
+
 
 ---
 
@@ -3290,8 +3198,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-ch-d. Drie-radicaal-stam — ʾechad is primair telwoord voor 'één'. Stam-cognaat-paar met yachid (eenig, H3173) als 'enig-zijn-uniek'. Centrale ordinaal en ook gebruikt in Yah-uniciteits-formule.
 
-**Etymologie:** Proto-Semitisch *w-ch-d 'één-zijn, uniek-zijn'. Cognaten: Aramees chad (één), Akkadisch edu (één — andere wortel), Ugaritisch ʾchd (één), Fenicisch ʾchd (één), Arabisch waahid (één) en ʾahad (één-uniek).
-
 **Basisbetekenis:** één, eenig, eerste. Master kiest concordant 'één' voor alle voorkomens. Range: 1) cluster-bij-numerieke-aanduiding (ʾechad = 'één' in tellings-context — item 259 paar dominant zelf), 2) cluster-bij-Yah-uniciteits-formule (yhwh ʾechad = yhwh-één Deu 6:4 — item 23 paar via H3068, ~5x), 3) cluster-bij-eerste-dag (yom ʾechad = 'eerste-dag' Gen 1:5 — item 40 paar via H3117), 4) cluster-bij-eenheid-formule (ʾechad-le-ʾechad 'één-tot-één' = bij-elkaar — item 259 paar dominant zelf), 5) cluster-bij-iemand-anonimiteit (ʾechad me-X = iemand-uit-X als generiek — item 376 paar via H376).
 
 **Semantische velden:** numerieke-aanduiding-cluster (primair); Yah-uniciteits-cluster; eerste-dag-cluster; eenheid-formule-cluster; anonimiteits-cluster.
@@ -3318,8 +3224,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H259`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees chad (één — direct cognaat). Akkadisch edu (één — andere wortel met klankverandering). Ugaritisch ʾchd (één, in mythologische teksten als godheids-uniciteit). Fenicisch ʾchd (één, in koninklijke-inscripties). Arabisch waahid (één) en ʾahad (één-uniek — directe cognaat).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -3422,8 +3326,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-ch-r. Klassiek-Hebreeuws achor. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws achor (achter, achterkant), van achar (na H310). Stam-cognaat-paar met achar-werkwoord en acharit (uiteinde H319).
-
 **Basisbetekenis:** achter, achterkant. Master kiest concordant 'achter' voor alle voorkomens. Range: 1) cluster-bij-achor-en-achar-paar (achter-en-na — item 310 paar via H310, ~25x), 2) cluster-bij-achor-en-panim-paar (achter-en-aangezicht-tegenpool — item 6440 paar via H6440), 3) cluster-bij-Yah-achor-Mosheh (Exo 33:23 'achterkant-Yah-zien' — item 23 paar via H3068), 4) cluster-bij-shuv-achor (terugkeren-achter Ps 9:4 — item 24 paar via H7725), 5) cluster-bij-NT-LXX-paar G3694 opisō ('achter' Mar 1:7 'achter-mij-komt-die-sterker-is').
 
 **Semantische velden:** achter-cluster (primair); Yah-achter-cluster; panim-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -3450,8 +3352,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H268`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G3694 opisō (~35x in NT). Mar 8:33 'hupage opisō mou satana'.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -3550,8 +3450,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-ch (aleph-chet) basis-stam, met -ot suffix vrouwelijk. Master rangschikt H269 als zelfstandig ʾachoth zus-zuster. Verwant met H251 ʾach (broer — item 49 paar) via stamfamilie.
 
-**Etymologie:** Proto-Semitisch *ʾ-ch-w. Cognaten: Aramees ʾachat (zuster), Akkadisch ʾaḫātu (zuster), Ugaritisch ʾcht (zuster-cluster), Fenicisch ʾcht (zuster in inscripties), Arabisch ʾukht (zuster — onveranderd). De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** zuster of vrouwelijke-verwante. Range: 1) zus-bloedverwante (Gen 12:13 — Sara als ʾachoth Abraham), 2) volks-collectief-cluster (Eze 16:46 ʾachoth ha-gedolah — de-grote-zuster Samaria), 3) cluster-bij-bondgenoten (Joh 6:30 — sub-sense), 4) cult-bruid-cluster (Hooglied — Sjir-cluster), 5) cult-overspels-tegen-cluster (vast in profetisch corpus van twee-zusters-Jeremia-Ezechiël).
 
 **Semantische velden:** familie-cluster (primair); volks-collectief-cluster (Eze); cult-bruid-cluster (Hooglied); profetisch-cluster (twee-zusters-cluster); idiomatisch-zus-en-broer-cluster.
@@ -3578,8 +3476,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H269`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾachat (zuster — Targumim). Akkadisch ʾaḫātu (zuster). Ugaritisch ʾcht (zuster). Fenicisch ʾcht (cult-en-familie-cluster). Arabisch ʾukht (zuster — onveranderd). De wortel is breed-stabiel.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -3681,8 +3577,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-ch-z. Drie-radicaal werkwoordelijke wortel. Master rangschikt H270 als hoofd-werkwoord ʾachaz grijpen-vasthouden.
 
-**Etymologie:** Proto-Semitisch *ʾ-ch-z. Cognaten: Aramees ʾachad, Akkadisch aḫāzu (vasthouden), Ugaritisch ʾchz, Arabisch ʾakhadha (nemen-onveranderd).
-
 **Basisbetekenis:** grijpen-of-vasthouden. Range: 1) fysiek-grijpen (vast paar item 17 paar via H3947 laqach in cluster), 2) cluster-bij-vasthouden-aan-bezit (vast paar item 165 paar via H272 ʾachuzah in bezit-cluster), 3) cluster-bij-vrees-en-paniek (Exo 15:14 ʾachazem ral-yoshvei Pelashet — paniek-greep-de-bewoners-van-Filistea), 4) cluster-bij-cult-cluster, 5) cluster-bij-eigennaam-Achaz.
 
 **Semantische velden:** grijp-cluster (primair); bezit-cluster; vrees-cluster; cult-cluster; eigennaam-cluster (Achaz).
@@ -3709,8 +3603,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H270`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾachad. Akkadisch aḫāzu. Ugaritisch ʾchz. Arabisch ʾakhadha (onveranderd). De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -3813,8 +3705,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-ch-z. Verwant met H270 ʾachaz (item 467 paar). Master rangschikt H272 als zn ʾachuzah bezit-erfdeel.
 
-**Etymologie:** Proto-Semitisch *ʾ-ch-z. Cognaten: zie H270 (item 467 paar).
-
 **Basisbetekenis:** vast-bezit of erfdeel-grond. Range: 1) cluster-bij-erfdeel (vast paar item 165 paar via H5159 nachalah), 2) cluster-bij-Kanaan-belofte (Gen 17:8), 3) cluster-bij-grafs-bezit (Gen 23 Machpela), 4) cluster-bij-Levieten-stadsweide (item 303 paar via H4054 migrash), 5) cluster-bij-overdrachtelijk-cluster.
 
 **Semantische velden:** bezit-cluster (primair); erfdeel-cluster; cult-cluster; jubeljaar-cluster; patriarchaal-cluster.
@@ -3841,8 +3731,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H272`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Zie H270.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -3940,8 +3828,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-ch-r (aleph-chet-resh). Drie-radicaal sterke wortel met kern achter-of-volgend. De wortel heeft brede ruimtelijk-en-tijds-functie. Master rangschikt H312 als bn ʾacher andere-volgende.
 
-**Etymologie:** Proto-Semitisch *ʾ-ch-r. Cognaten: Aramees ʾacharin (anderen-volgenden), Akkadisch achru (volgend-cluster), Ugaritisch ʾchr (na-cluster), Arabisch ʾakhar (ander) en ʾakhir (laatste). De wortel is West-Semitisch breed-stabiel in volgende-en-andere-cluster.
-
 **Basisbetekenis:** andere-of-volgende. Range: 1) ander-tegenover-eigen (Exo 23:13 ʾelohim ʾacherim andere-machtigen, vast cult-cluster), 2) volgende-in-tijd (yom ʾacher volgende-dag), 3) tweede-of-andere-rang (zelden, sub-sense), 4) eigennamen-en-typeringen (Joz 24:2 ʿavar mi-ʿever ha-nahar — andere-zijde), 5) idiomatisch met ʾacharit-formules (latere-uitkomst-cluster). Cult-tegenstellings-cluster (ʾelohim-ʾacherim) is dominant.
 
 **Semantische velden:** andere-of-vreemde-cluster (primair, vooral cult-context); volgorde-en-tijds-cluster; godsdienst-tegenstellings-cluster (negatief in Pent en Profeten); naasten-cluster (zelden); identiteits-tegenstellings-cluster.
@@ -3968,8 +3854,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H312`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾacharin (anderen-volgenden — Targumim). Akkadisch achru (volgend). Ugaritisch ʾchr (na-cluster). Arabisch ʾakhar (ander) en ʾakhir (laatste). De wortel is breed-stabiel in volgende-en-andere-cluster.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -4071,8 +3955,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-ch-r. Verwant met H310a ʾachar (achter) en H312 ʾacher (item 217 paar). Master rangschikt H314 als bn ʾacharon laatste.
 
-**Etymologie:** Proto-Semitisch *ʾ-ch-r. Cognaten: zie H312.
-
 **Basisbetekenis:** laatste-of-volgende. Range: 1) cluster-bij-tegenstellings-paar rishon-acharon (vast paar item 204 paar via H7223 rishon), 2) cluster-bij-godheids-titel ʾani-rishon-wa-ani-acharon (Isa 41:4), 3) cluster-bij-eindtijd-cluster (yom-ha-acharon), 4) cluster-bij-volgende-generaties (Deu 29:21), 5) cluster-bij-overdrachtelijk-cluster.
 
 **Semantische velden:** volgorde-cluster (primair); godheids-titel-cluster (rishon-acharon); eindtijd-cluster; profetisch-cluster; cluster-bij-tijds.
@@ -4099,8 +3981,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H314`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Zie H312.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -4203,8 +4083,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-y. Klassiek-Hebreeuws ay. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws ay (waar?-kortere-vraag-deeltje). Variant van ayyeh (H346). Plaats-vraag.
-
 **Basisbetekenis:** waar? (vraag-deeltje, korte-vorm). Master kiest concordant 'waar' voor alle voorkomens. Range: 1) cluster-bij-ay-en-ayyeh-paar (waar-vraag-varianten — item 346 paar via H346, ~25x), 2) cluster-bij-ay-en-mi-paar (waar-en-wie — item 4310 paar via H4310), 3) cluster-bij-ay-en-Yah-vraag (Mal 1:6 'waar-is-mijn-eer?' — item 23 paar via H3068), 4) cluster-bij-ay-en-ze-paar (waar-en-deze 'wat-is-dit?' — item 2088 paar via H2088), 5) cluster-bij-ay-NT-LXX-paar G4226 pou.
 
 **Semantische velden:** plaats-vraag-cluster (primair); Yah-plaats-vraag-cluster; ayyeh-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -4231,8 +4109,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H335`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ai. NT-LXX-bron G4226 pou.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -4333,8 +4209,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-y-v. Drie-radicaal werkwoordelijke wortel — wortel-cognaat-paar bij H340 ʾayav (vijandig-zijn-ww).
 
-**Etymologie:** Proto-Semitisch *ʾ-y-b. Cognaten: Aramees ʾeyev, Akkadisch ayyabu, Ugaritisch ʾyb, Fenicisch ʾyb.
-
 **Basisbetekenis:** vijand of tegenstander. Range: 1) cluster-bij-strijd-cluster (vast paar item 158 paar via H4421 milchamah in zelfde batch in cluster), 2) cluster-bij-godheids-tegen-vijand-cluster (Exo 23:22 — ve-ʾayavti ʾet-ʾoyveikha), 3) cluster-bij-Ps-vijand-cluster (Ps 18:18 — yatsileni me-ʾoyvi), 4) cluster-bij-cluster-bij-Saul-David-cluster (1Sa 18:29), 5) cluster-bij-cluster-bij-eindtijds-vijand-cluster.
 
 **Semantische velden:** vijand-cluster (primair); strijd-cluster; godheids-bescherm-cluster; Ps-vijand-cluster; eindtijds-cluster.
@@ -4390,8 +4264,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-y-h. Klassiek-Hebreeuws ayyeh.
 
-**Etymologie:** Klassiek-Hebreeuws ayyeh (waar?-vraag-deeltje). Wortel-paar met eifoh (waar H375). NT-niet-direct-cognaat (Greek-tegenhanger pou).
-
 **Basisbetekenis:** waar (vraag-deeltje). Master kiest concordant 'waar' voor alle voorkomens. Range: 1) cluster-bij-ayyeh-narratief-vraag (Gen 3:9 'waar-ben-jij?' Yah-tot-Adam — item 120 paar via H120), 2) cluster-bij-ayyeh-en-mi-paar (waar-en-wie — item 4310 paar via H4310, ~25x), 3) cluster-bij-ayyeh-en-mah-paar (waar-en-wat — item 4100 paar via H4100), 4) cluster-bij-ayyeh-Yah (Job 35:10 'waar-is-Yah-mijn-Maker?' — item 23 paar via H3068), 5) cluster-bij-ayyeh-eschatologisch (1Co 15:55 LXX-Hos 13:14 'waar-is-jouw-overwinning-dood' — item 5 paar via H4194).
 
 **Semantische velden:** waar-vraag-cluster (primair); Yah-waar-vraag-cluster; mah-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -4418,8 +4290,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H346`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-Daniel ayyeh. Akkadisch ayyu-tegenhanger via vertaling. NT-LXX-Hos 13:14 'pou sou thanate to nikos' citaat 1Co 15:55.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -4520,8 +4390,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-y-k. Tweecletter-stam met -y- voor 'hoe, hoezeer'. Centraal-vraag-of-uitroep-deeltje. Stam-cognaat-paar met ʾekha (klacht-formule).
 
-**Etymologie:** Proto-Semitisch *ʾ-y-k 'hoe'. Cognaten: Aramees ʾekha (hoe), Akkadisch eka (hoe), Ugaritisch ʾyk (hoe), Fenicisch ʾyk (hoe), Arabisch kayfa (hoe — andere wortel).
-
 **Basisbetekenis:** hoe, hoezeer. Master kiest concordant 'hoe' voor alle voorkomens. Range: 1) cluster-bij-Klaagliederen-formule (eichah als openings-formule Klaagliederen-1, 2, 4 — item 6726 paar via H6726 in Sions-rouw-cluster), 2) cluster-bij-vraag-hoe (eich = hoe — item 4310 paar via H4310 als vraag-paar), 3) cluster-bij-uitroep-bewondering (eich nafal = hoe-is-gevallen Klaag-formule), 4) cluster-bij-eich-Esau-Jakob (Gen 27 'hoe-zo-snel-mijn-zoon' — item 1121 paar via H1121a), 5) cluster-bij-Yah-eich (yhwh-eich = hoe-yhwh-X — item 23 paar via H3068 in retorisch-vraag).
 
 **Semantische velden:** Klaagliederen-formule-cluster (primair); vraag-hoe-cluster; uitroep-bewondering-cluster; Esau-Jakob-eich-cluster; Yah-retorisch-cluster.
@@ -4548,8 +4416,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H349a`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾekha (hoe — direct cognaat). Akkadisch eka (hoe — directe cognaat). Ugaritisch ʾyk (hoe). Fenicisch ʾyk (hoe). Arabisch kayfa (hoe — andere wortel).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -4651,15 +4517,13 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-y-l (aleph-yod-lamed) of ʾ-l met yod-uitbreiding. Master rangschikt H352a als zelfstandig ʾayil ram-of-pilaar-of-eik. Mogelijk drie-betekenis-takken vanuit gedeelde-wortel-cluster sterk-en-rechtopstaand.
 
-**Etymologie:** Proto-Semitisch *ʾ-y-l. Cognaten: Aramees ʾeyal (kracht-cluster), Akkadisch alu (zwakker via parallel) en aylu (ram), Ugaritisch ʾyl (ram in cult-context), Arabisch ʾiyāl (kracht) en ʾāl (groot), Fenicisch ʾyl (ram in cult-formules). De wortel is West-Semitisch met dubbele-functie kracht-en-ramdier.
-
 **Basisbetekenis:** ram-as-cult-dier of pilaar-of-grote-eik. Range: 1) ram-cluster cult-offer-dier (vast in Pent-cult, Gen 22:13 Abraham-rampel-cluster), 2) ram-als-cult-symbool (Lev 5:15 ʾasham-offer-cluster), 3) pilaar-deurpost-cluster (Eze 40-41 — architecturaal-cluster bij tempel-beschrijving), 4) eik-grote-boom (Isa 1:29 cult-eiken-cluster), 5) leider-of-machtige (Eze 17:13 — overdrachtelijk-cluster). Ram-cult-sub-sense en architecturaal-cluster zijn beide dominant via verschillende contexten.
 
 **Semantische velden:** cult-offer-cluster (primair, ram-cult); architecturaal-cluster (pilaar-deurpost); cult-boom-cluster (eiken); leiderschap-cluster (overdrachtelijk-zelden); cult-symbool-cluster (verbonds-en-tabernakel-context).
 
 ## C. Morfologische varianten (anker 2)
 
-**Vormen die voorkomen:** zn, masculien, vast vorm ʾayil, meervoud ʾeylim. Constructus ʾeyl- in vaste verbindingen ʾeyl-ʾasham (schuldoffer-ram), ʾeyl-meluʾim (wijdings-ram), ʾeylim of ʾeylonim (eiken-cluster). Verwante stamfamilie: H352b ʾayil (deurpost-cluster — homonym-of-cognaat), H361 ʾeyl-poetisch (kracht-cluster), H410 ʾel (god-cluster — etymologische-mogelijk via kracht-pool item 4 paar), H352a zelf.
+**Vormen die voorkomen:** zn, masculien, vast vorm ʾayil, meervoud ʾeylim. Constructus ʾeyl- in vaste verbindingen ʾeyl-ʾasham (schuldoffer-ram), ʾeyl-meluʾim (wijdings-ram), ʾeylim of ʾeylonim (eiken-cluster). Verwante stamfamilie: H352b ʾayil (deurpost-cluster — homonym-of-cognaat), H361 ʾeyl-poetisch (kracht-cluster), H410 ʾel (god-cluster — mogelijk-wortelverwant via kracht-pool item 4 paar), H352a zelf.
 
 **Stamfamilie uit master:** H352a
 
@@ -4685,8 +4549,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H352a`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾeyal (kracht-cluster — Targumim, Daniel-cluster). Akkadisch alu en aylu (ram). Ugaritisch ʾyl (ram in cult-corpus). Fenicisch ʾyl (cult-ram). Arabisch ʾiyāl (kracht) en ʾāl (groot). De wortel is West-Semitisch met polariteit kracht-en-ramdier.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -4714,7 +4576,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Verwante semantische velden:**
 
-Cluster I — wortel-derivaten: H352b ʾayil (deurpost — homonym-of-cognaat), H361 ʾeyl-poetisch (kracht), H410 ʾel (god — item 4 paar via mogelijk-etymologisch verband), H352a zelf.
+Cluster I — wortel-derivaten: H352b ʾayil (deurpost — homonym-of-cognaat), H361 ʾeyl-poetisch (kracht), H410 ʾel (god — item 4 paar via mogelijk-wortelverband), H352a zelf.
 
 Cluster II — cult-offer-dier-cluster: H6499 par (stier — vast paar in cult-cluster), H3532 keves (lam — vast paar in lam-en-ram-cluster), H7716 seh (kleinvee-individueel — vast paar), H1241 baqar (rundvee — item 202 zelfde batch), H6629 tson (kleinvee — vast paar bij cult-vee-cluster).
 
@@ -4787,8 +4649,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-y-l. Klassiek-Hebreeuws ayil. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws ayil (ram), van ayil-stam. Stam-cognaat-paar met cult-en-offer-vocabulair (ram-Abraham-Isaak).
-
 **Basisbetekenis:** ram. Master kiest concordant 'ram' voor alle voorkomens. Range: 1) cluster-bij-ayil-en-seh-paar (ram-en-lam — item 7716 paar via H7716, ~25x), 2) cluster-bij-ayil-en-zevach-paar (ram-en-offer — item 269 paar via H2076), 3) cluster-bij-ayil-Abraham-Isaak-Gen-22-13 (ram-Moria-substituut — item 85 paar via H85, ~5x), 4) cluster-bij-ayil-cult-priester-wijding (Exo 29:15-22 — item 91 paar via H3548), 5) cluster-bij-Dan-8-ram-Persische-rijk (Dan 8:3-7 — item 1840 paar via H1840).
 
 **Semantische velden:** cult-dier-cluster (primair); Yah-cult-dier-cluster; zevach-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -4815,8 +4675,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H352b`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G(geen-direct), maar via cult-context. Gen 22:13 ram-Moria-Christologisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -4904,8 +4762,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-y-p-h. Klassiek-Hebreeuws ephah. Egyptisch-leen-woord.
 
-**Etymologie:** Klassiek-Hebreeuws ephah (graan-maat), Egyptisch-leen-woord. Stam in oudste laag van semitisch maat-vocabulair.
-
 **Basisbetekenis:** efa (graan-maat). Master kiest concordant 'efa' voor alle voorkomens. Range: 1) cluster-bij-ephah-en-dagan-paar (efa-en-graan — item 16 paar via H1715, ~25x), 2) cluster-bij-ephah-cult-offer (Lev 5:11 'tiende-deel-efa' — item 211 paar via H6944), 3) cluster-bij-ephah-en-andere-maten-paar (item 1324 paar via H1324 hin), 4) cluster-bij-rechtvaardige-ephah (Lev 19:36 'rechtvaardige-balansen-en-efa' — item 6664 paar via H6664), 5) cluster-bij-NT-LXX-paar G3358 metron (Op 6:6 'metron-tarwe-denarius').
 
 **Semantische velden:** maat-cluster (primair); Yah-maat-cluster; middah-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -4932,8 +4788,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H374`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Egyptisch-leen-woord. NT-LXX-bron G3358 metron (~14x). NT-Op 6:6 cluster.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -5032,8 +4886,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-y-sh of √ʾ-n-sh. Drie-radicaal-stam — ʾish is primair zn voor 'man, persoon, individu'. Mogelijk afleiding van √ʾ-n-sh (sterfelijk-zijn, H582 ʾenosh). Stam-cognaat-paar met ʾishah (vrouw, H802) als tegenpool.
 
-**Etymologie:** Proto-Semitisch *ʾ-n-sh of *ʾ-y-sh 'persoon, man'. Cognaten: Aramees ʾish (man), Akkadisch isu (er-is — semantische verschuiving in Akkadisch), Ugaritisch ʾiš (man), Fenicisch ʾš (man — in koninklijke-inscripties), Arabisch ʾins (mens) en ʾins-an (mens).
-
 **Basisbetekenis:** man, persoon, individu. Master kiest concordant 'man' voor alle voorkomens. Range: 1) cluster-bij-individuele-aanduiding (ʾish-X als bezigheid-aanduiding, ~200x), 2) cluster-bij-distributie-formule (ʾish-le-rea-hu = man-tot-zijn-naaste — item 7453 paar via H7453, ~30x), 3) cluster-bij-Yah-man-cluster (ʾish ha-elohim = man-van-de-Machtige als profeet-aanduiding — item 7 paar via H430), 4) cluster-bij-eigenschap-aanduiding (ʾish-chayil 'krachtige-man' — item 58 paar via H2428), 5) cluster-bij-getrouwde-man-cluster (ʾish-le-ʾishah = man-tot-vrouw — item 802 paar via H802).
 
 **Semantische velden:** individuele-aanduiding-cluster (primair); distributie-formule-cluster; profeet-aanduiding-cluster; eigenschap-aanduiding-cluster; getrouwde-man-cluster.
@@ -5060,8 +4912,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H376`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾish (man — direct cognaat). Akkadisch isu (er-is — semantische verschuiving naar existentiële-aanduiding). Ugaritisch ʾiš (man, in mythologische teksten). Fenicisch ʾš (man, in koninklijke-inscripties als zelf-aanduiding). Arabisch ʾins/ʾins-an (mens, met -an-uitgang).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -5164,8 +5014,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-k-l. Drie-radicaal werkwoordelijke wortel.
 
-**Etymologie:** Proto-Semitisch *ʾ-k-l. Cognaten: Aramees ʾakhal, Akkadisch akālu, Ugaritisch ʾkl, Fenicisch ʾkl, Arabisch ʾakala.
-
 **Basisbetekenis:** eten of verteren of consumeren. Range: 1) cluster-bij-spijs-cluster (vast paar item 177 paar via H3899 lechem), 2) cluster-bij-cult-eet-offer-cluster (Lev 7:15 — eten-van-vrede-offer), 3) cluster-bij-pesach-eet-cluster (Exo 12 — ʾakhalu ha-pesach), 4) cluster-bij-vuur-vertering-cluster (ʾakhlah-ʾesh — Lev 9:24), 5) cluster-bij-cluster-bij-decreet-cluster (lo-tokhal — boom-der-kennis Gen 2:17).
 
 **Semantische velden:** spijs-cluster (primair); cult-eet-offer-cluster; pesach-cluster; vuur-vertering-cluster; geboden-cluster.
@@ -5193,7 +5041,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## E. Cognaten en LXX-koppeling (anker 4)
 
-**Cognaten in zustertalen:** Aramees ʾakhal (eten, identiek), Bijbels-Aramees in Daniel-Ezra met gelijke flexie. Akkadisch akālu (eten) — basisstam met passief- en causatief-vormen parallel aan H
 
 ---
 
@@ -5227,8 +5074,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-l. Tweecletter-stam (alef-lamed) — ʾel is primair zn voor 'godheid, kracht-godheid'. Stam in oudste laag van semitisch godheids-vocabulair. Stam-cognaat-paar met elohim (Machtige H430) als verlengde-vorm.
 
-**Etymologie:** Proto-Semitisch *ʾ-l 'godheid, kracht'. Cognaten: Aramees ʾel (godheid), Akkadisch ilu (godheid), Ugaritisch ʾil (godheid, hoofdgod-El in pantheon), Fenicisch ʾl (godheid, in koninklijke-inscripties), Arabisch ʾilah (godheid — vandaar Allah).
-
 **Basisbetekenis:** Machtige, godheid. Master kiest concordant 'Machtige' voor alle voorkomens. Range: 1) cluster-bij-eigennaam-El (Gen 14:18-22 ʾel ʿelyon = de-Allerhoogste-Machtige — item 5945 paar via H5945), 2) cluster-bij-El-Shaddai (ʾel-shaddai = Almachtige-titulair Gen 17:1 — item 7706 paar via H7706), 3) cluster-bij-El-bet-El (ʾel beit-el = de-Machtige-van-Beth-El — item 12 paar via H1004 in eigennaam), 4) cluster-bij-El-olam (ʾel-ʿolam = aioonse-Machtige — item 56 paar via H5769), 5) cluster-bij-poëtisch-Machtige (ʾel als poëtisch-equivalent-aan-elohim, frequent in Job — item 430 paar via H430).
 
 **Semantische velden:** eigennaam-El-cluster (primair); El-Shaddai-cluster; El-bet-El-cluster; El-ʿolam-cluster; poëtisch-Machtige-cluster.
@@ -5255,8 +5100,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H410`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾel (godheid — direct cognaat). Akkadisch ilu (godheid — basisvorm). Ugaritisch ʾil (godheid, in El-pantheon dominante hoofdgodheid). Fenicisch ʾl (godheid, in koninklijke-inscripties). Arabisch ʾilah (godheid, vandaar al-ʾilah → Allah).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -5359,8 +5202,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-l-h. Klassiek-Hebreeuws alah. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws alah (vloek, eed-vloek), van alah-werkwoord (vloeken). Stam-cognaat-paar met shevuah (eed H7621) en qelalah (vloek H7045).
-
 **Basisbetekenis:** vloek, eed-vloek. Master kiest concordant 'vloek' voor alle voorkomens. Range: 1) cluster-bij-alah-en-shevuah-paar (vloek-en-eed-formule 'eed-met-vloek' — item 622 paar via H7621, ~25x), 2) cluster-bij-alah-en-qelalah-paar (vloek-en-vervloeking — item 7045 paar via H7045), 3) cluster-bij-Yah-alah-verbond (Deu 29:11-20 'verbond-en-zijn-alah' — item 23 paar via H3068, ~10x), 4) cluster-bij-alah-Joz-23-15 (Joshua-vloek-vermaning-volk — item 3091 paar via H3091), 5) cluster-bij-NT-LXX-paar G685 ara (~1x in NT, Rom 3:14 'oratio en pikrias').
 
 **Semantische velden:** vloek-cluster (primair); Yah-vloek-cluster; qelalah-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -5387,8 +5228,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H423`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G685 ara. Rom 3:14 LXX-Ps 10:7 citaat.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -5489,8 +5328,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-l-h. Drie-radicaal-stam in jongere lagen, mogelijk afgeleid van ʾel (H410) met -hé-uitbreiding. Elohim is een meervoud-vorm-met-enkelvoud-betekenis (pluralis-majestatis of pluralis-amplitudinis) en functioneert als titulair voor godheid.
 
-**Etymologie:** Proto-Semitisch *ʾ-l (basis-godheidsterm) met latere uitbreiding *ʾ-l-h. Cognaten: Aramees ʾelahʾ (godheid — Daniel-Aramees), Akkadisch ilu (godheid — basisvorm), Ugaritisch ʾil (godheid in El-pantheon), Fenicisch ʾl (godheid, in inscripties), Arabisch ʾilah (godheid, vandaar Allah als al-ʾilah).
-
 **Basisbetekenis:** Machtige, Goden, Godheid. Master kiest concordant 'Machtige' voor alle voorkomens, ook in pluraal-betekenis ('Machtigen' bij heidense goden). Range: 1) cluster-bij-Yah-Machtige-cluster (yhwh-elohim — item 23 paar via H3068, ~960x), 2) cluster-bij-vader-Machtige-cluster (elohei-avoteinu 'Machtige onzer vaderen' — item 1 paar via H1), 3) cluster-bij-volken-Machtigen-cluster (elohei-ha-goyim 'machtigen-van-de-volken' — item 35 paar via H1471 als heiden-godheden), 4) cluster-bij-scheppings-Machtige-cluster (Gen 1 — elohim-bara — item 5 paar via H1254), 5) cluster-bij-zoon-van-Machtige-cluster (bnei-elohim — item 1121 paar via H1121a).
 
 **Semantische velden:** Yah-Machtige-cluster (primair); vader-Machtige-cluster; volken-Machtigen-cluster; scheppings-Machtige-cluster; zoon-van-Machtige-cluster.
@@ -5517,8 +5354,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H430`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾelahʾ (godheid — Daniel-Aramees, parallel-functie aan Hebreeuws ʾelohim). Akkadisch ilu (godheid — basisvorm zonder -hé-uitbreiding). Ugaritisch ʾil (godheid in El-pantheon). Fenicisch ʾl (godheid, frequent in koninklijke-inscripties). Arabisch ʾilah (godheid, vandaar Allah).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -5621,8 +5456,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-l. Wortel-uitbreiding van H410 ʾel. Master rangschikt H433 als zn ʾeloah godheid (poëtische-vorm).
 
-**Etymologie:** Proto-Semitisch *ʾ-l. Cognaten: Aramees ʾelah, Akkadisch ilu, Ugaritisch ʾl, Arabisch ʾilāh (godheid-onveranderd).
-
 **Basisbetekenis:** godheid (poëtische- en archaïsche-vorm). Range: 1) cluster-bij-godheids-cluster (vast paar item 4 paar via H410 ʾel), 2) cluster-bij-Job-cluster (frequent in Job-poëzie), 3) cluster-bij-cult-cluster, 4) cluster-bij-cluster-bij-overdrachtelijk-cult, 5) cluster-bij-Aramees-Daniel-cluster.
 
 **Semantische velden:** godheids-cluster (primair); poëtisch-cluster (Job); profetisch-cluster; cult-cluster; archaïsch-cluster.
@@ -5649,8 +5482,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H433`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾelah (Daniel-cluster). Akkadisch ilu. Ugaritisch ʾl. Arabisch ʾilāh (onveranderd). De wortel is West-Semitisch breed.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -5748,8 +5579,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-l-m. Wortel-cluster.
 
-**Etymologie:** Proto-Semitisch *ʾ-l-m. Cognaten: Aramees ʾalmana, Akkadisch almattu, Ugaritisch ʾlmnt, Arabisch ʾarmal (cluster).
-
 **Basisbetekenis:** weduwe. Range: 1) cluster-bij-cult-zorg-cluster (vast paar item 357 paar via H1616 ger en item 3490 paar bij yathom in vast triade ger-yathom-ʾalmanah), 2) cluster-bij-godheids-bescherm-weduwe (Deu 10:18), 3) cluster-bij-juridisch-cluster, 4) cluster-bij-profetisch-onrecht-cluster (Isa 1:17 cluster), 5) cluster-bij-Ruth-Naomi-cluster.
 
 **Semantische velden:** weduwen-cluster (primair); cult-zorg-cluster; juridisch-cluster (rechten-van-weduwe); profetisch-cluster; sociaal-cluster.
@@ -5776,8 +5605,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H490`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾalmana. Akkadisch almattu. Ugaritisch ʾlmnt. Arabisch ʾarmal. De wortel is breed-stabiel.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -5879,8 +5706,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-l-f. Drie-radicaal werkwoordelijke wortel — wortel-stam-aspect bij H441b ʾalluf-II (stamhoofd) via stam-cluster.
 
-**Etymologie:** Proto-Semitisch *ʾ-l-p. Cognaten: Aramees ʾalef, Akkadisch alpu (jong-rund — cluster), Ugaritisch ʾlp, Fenicisch ʾlp.
-
 **Basisbetekenis:** duizend (kardinaal getal). Range: 1) cluster-bij-getals-cluster (vast paar item 93 paar via H3967 meah in zelfde batch in honderd-en-duizend-cluster), 2) cluster-bij-leger-cluster (vast paar item 188 paar via H6635a tsava in tsavaʾoth-ʾalafim-cluster), 3) cluster-bij-volkstellings-cluster (Num 1 — ʾalafim per stam), 4) cluster-bij-godheids-loyaal-cluster (Deu 7:9 — chesed-le-ʾalafim), 5) cluster-bij-cluster-bij-eindtijds-cluster (Eze 47:6 — ʾalef ʾallayim).
 
 **Semantische velden:** getals-cluster (primair); militair-cluster; volkstellings-cluster; cult-loyaliteits-cluster; eindtijds-cluster.
@@ -5888,6 +5713,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 ## C. Morfologische varianten (anker 2)
 
 **Vormen die voorkomen:** zn mannelijk enkelvoud ʾeleph; status constructus ʾeleph-X. Duaal ʾalpayim (= 2000, oude duaal-vorm behouden). Meervoud ʾalāphîm (= "duizendtallen", in samengestelde getallen). Status constructus meervoud ʾalpê-X. Met possessief-suffix zelden. Gebruikt in samengestelde getallen door juxtapositie (chamēsh ʾalāphîm = 5000) of met voegwoord û- (ʾeleph û-mēʾāh = 1100). Niet werkwoordelijk-deriveerbaar binnen H505 zelf; H504 ʾeleph (rund) is pa
+
 
 ---
 
@@ -5921,8 +5747,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** Geen onderscheidbare verbale wortel. ʾem is primair zelfst nw, een tweecletter-stam (alef-mem) zonder werkwoordelijke afleiding. Behoort tot oudste laag van semitisch verwantschaps-vocabulair, klanknabootsend voor babbelende kindertaal.
 
-**Etymologie:** Proto-Semitisch *ʾ-m 'moeder'. Cognaten: Aramees ʾimma (moeder), Akkadisch ummu (moeder), Ugaritisch ʾum (moeder), Fenicisch ʾm (moeder, in koninklijke-inscripties), Arabisch ʾumm (moeder).
-
 **Basisbetekenis:** moeder, voormoeder, oprichtster. Master kiest concordant 'moeder' voor alle voorkomens. Range: 1) cluster-bij-fysieke-moeder (em als directe-ouder — item 70 paar dominant zelf), 2) cluster-bij-vader-en-moeder-paar (av wa-em = vader-en-moeder — item 1 paar via H1, ~32x in vijfde-gebod-context), 3) cluster-bij-moeder-stam (em-Yisrael = moeder-Israel — Israel-als-moederstad-formule, item 60 paar via H3478), 4) cluster-bij-koningin-moeder (em-ha-melekh = koningin-moeder — item 4428 paar via H4428 in koningenboeken), 5) cluster-bij-stamhoofd-moeder (em-shevatim Israel-Lea-Rachel-Bilha-Zilpa als 4 moeders — item 80 paar via H7626).
 
 **Semantische velden:** fysieke-moeder-cluster (primair); vader-en-moeder-paar-cluster; moeder-stam-cluster; koningin-moeder-cluster; stamhoofd-moeder-cluster.
@@ -5949,8 +5773,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H517`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾimma (moeder — direct cognaat met dubbel-mem). Akkadisch ummu (moeder — directe cognaat). Ugaritisch ʾum (moeder, in mythologische teksten als godheids-titel ʾum-il 'moeder-El'). Fenicisch ʾm (moeder, in koninklijke-inscripties). Arabisch ʾumm (moeder, productief in eigennamen via Umm-X).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -6052,8 +5874,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-m-h. Drie-radicaal-stam — ʾammah is primair zn voor 'el, lengtemaat'. Stam-cognaat-paar met em (moeder, H517) — el-maat-als-'moeder-meting'. Centrale lengtemaat in Bijbelse-architectuur en cult-bouw.
 
-**Etymologie:** Proto-Semitisch *ʾ-m-h 'lengtemaat-el'. Cognaten: Aramees ʾammah (el), Akkadisch ammatu (el), Ugaritisch ʾmh (lengtemaat), Fenicisch ʾmh (lengtemaat, in bouw-inscripties), Arabisch ʾummah (gemeenschap — semantische verschuiving).
-
 **Basisbetekenis:** el, lengtemaat (~50 cm). Master kiest concordant 'el' voor alle voorkomens. Range: 1) cluster-bij-tabernakel-afmetingen (Exo 25-31 mishkan-mate — item 255 paar via H4908, ~80x), 2) cluster-bij-tempel-Salomo-afmetingen (1Kg 6 — item 8010 paar via H8010), 3) cluster-bij-Ezechiel-tempel (Eze 40-48 — item 168 paar via H168 als geanalogiseerde-cult-formule), 4) cluster-bij-ark-en-cult-meubel-afmetingen (kapporet, qodesh-ha-qodashim — item 211 paar via H6944), 5) cluster-bij-Goliath-lengte (shesh ʾammot wa-zeret 'zes-el-en-een-span' 1Sa 17:4 — item 8337 paar via H8337).
 
 **Semantische velden:** tabernakel-afmetingen-cluster (primair); tempel-Salomo-cluster; Ezechiel-tempel-cluster; cult-meubel-afmetingen-cluster; lengte-Goliath-cluster.
@@ -6080,8 +5900,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H520a`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾammah (el — direct cognaat). Akkadisch ammatu (el — directe cognaat). Ugaritisch ʾmh (lengtemaat). Fenicisch ʾmh (lengtemaat, in bouw-inscripties). Arabisch ʾummah (gemeenschap — semantische verschuiving).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -6183,8 +6001,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-m-n. Verwant met H539 ʾaman (item 321 paar) en H571 ʾemet (item 275 paar). Master rangschikt H530 als zn ʾemunah trouw.
 
-**Etymologie:** Proto-Semitisch *ʾ-m-n. Cognaten: zie H571.
-
 **Basisbetekenis:** trouw of betrouwbaarheid. Range: 1) cluster-bij-godheids-attribuut-cluster (vast paar item 143 paar via H2617a chesed in chesed-emunah-formule), 2) cluster-bij-cult-cluster (Hab 2:4 — tsaddiq be-emunato yichyeh — rechtvaardige zal door zijn trouw leven), 3) cluster-bij-godheids-trouw (Ps 89:2-3, 9), 4) cluster-bij-cluster-bij-priester-en-levieten-trouw, 5) cluster-bij-Mozes-cluster (Num 12:7 — neʾeman be-bayit-i).
 
 **Semantische velden:** trouw-cluster (primair); godheids-attribuut-cluster (Ps 89); cult-cluster; profetisch-cluster (Hab); sapientiale-cluster.
@@ -6211,8 +6027,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H530`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Zie H571.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -6307,13 +6121,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 107
 
-**Master-toelichting:** Wortel 'mn. Stamgerelateerd emet (trouw, H571). Hifil: betrouwbaar-houden, vertrouwen. 'Geloven' bewaart de vertrouwens-dimensie; deelt met batach (H982) semantisch maar etymologisch onderscheiden.
+**Master-toelichting:** Wortel 'mn. Stamgerelateerd emet (trouw, H571). Hifil: betrouwbaar-houden, vertrouwen. 'Geloven' bewaart de vertrouwens-dimensie; deelt met batach (H982) semantisch maar qua wortel onderscheiden.
 
 ## B. Wortel-analyse (anker 1)
 
 **Wortel:** ʾ-m-n (aleph-mem-nun). Drie-radicaal werkwoordelijke wortel met sterke vertrouwens-en-trouw-functie. Master rangschikt H539 als hoofd-werkwoord ʾaman vast-zijn-vertrouwen. Verwant met H571 ʾemet (item 275 paar) via stamfamilie.
-
-**Etymologie:** Proto-Semitisch *ʾ-m-n. Cognaten: Aramees ʾaman (vast-zijn), Akkadisch via parallel zwakker, Ugaritisch ʾmn (cluster), Arabisch ʾāmana (geloven-vertrouwen — onveranderd) en ʾiman (geloof). De wortel is West-Semitisch breed.
 
 **Basisbetekenis:** vast-zijn-of-vertrouwen-of-geloven. Range: 1) godheids-vertrouwen (Gen 15:6 we-heʾemin be-YHWH wa-yachsheveha lo tsedaqah — Abraham vertrouwde-op-YHWH en het werd hem tot rechtvaardigheid gerekend, item 280 paar via H2803), 2) menselijk-trouw-cluster (Spr 11:13 cluster), 3) opvoedend-cluster (Num 11:12 ka-ʾasher yissa ha-ʾomen — zoals een opvoeder draagt — sub-sense), 4) cluster-bij-bevestiging-amen, 5) vast-stand-houden.
 
@@ -6341,8 +6153,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H539`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾaman (vast-zijn). Akkadisch via parallel. Ugaritisch ʾmn. Arabisch ʾāmana (geloven — onveranderd). De wortel is breed-stabiel.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -6441,8 +6251,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-m-n. Klassiek-Hebreeuws amen. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws amen (waarlijk, instemmend), van aman (geloven H539). Stam-cognaat-paar met emet (waarheid H571).
-
 **Basisbetekenis:** amen, waarlijk. Master kiest concordant 'amen' voor alle voorkomens. Range: 1) cluster-bij-amen-en-aman-paar (amen-en-geloven — item 539 paar via H539, ~25x), 2) cluster-bij-amen-en-emet-paar (amen-en-waarheid — item 5707 paar via H5707), 3) cluster-bij-amen-cult-respons (Deu 27:15-26 twaalf-vervloekingen-volk-zegt-amen — item 14 paar via H5971a, ~12x), 4) cluster-bij-amen-Yah-belofte (item 23 paar via H3068), 5) cluster-bij-NT-LXX-paar G281 amēn (~150x in NT, Mat-Bergrede-formule 'amēn legō humin').
 
 **Semantische velden:** instemming-cluster (primair); Yah-instemming-cluster; emet-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -6469,8 +6277,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H543`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G281 amēn (~150x). Mat-Bergrede 'amēn legō humin' Christus-formule. Op 3:14 'ho amēn' = Christus-titel.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -6564,8 +6370,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** a-m-e. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *a-m-e. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'sterk-zijn'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (sterk-zijn); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -6590,8 +6394,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H553`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -6687,8 +6489,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-m-r. Drie-radicaal werkwoordelijke wortel die in West-Semitisch breed het spreek-veld dekt; onderscheidt zich van √d-b-r (H1696 dabar) doordat ʾamar de inhoud-uiting markeert (wat wordt gezegd) terwijl dabar het spreek-handeling-perspectief markeert.
 
-**Etymologie:** Proto-Semitisch *ʾ-m-r 'uitbrengen, naar buiten zeggen'. Cognaten: Aramees ʾamar (zeggen), Akkadisch amaru (zien-meedelen), Ugaritisch ʾmr (zeggen-bevelen), Fenicisch ʾmr (zeggen), Arabisch ʾamara (bevelen).
-
 **Basisbetekenis:** zeggen, uitspreken, vermelden. Master kiest concordant 'zeggen' voor alle voorkomens. Range: 1) cluster-bij-narratieve-dialoog (vast paar va-yomer/va-tomer cluster — item 1 paar dominant zelf), 2) cluster-bij-profetische-formule (koh-amar-yhwh — item 23 paar via H3068), 3) cluster-bij-innerlijke-uiting (amar-be-libo — item 49 paar via H3820), 4) cluster-bij-formele-decreten (item 14 paar via H4428 melekh in koninklijke-uitspraak), 5) cluster-bij-citatie-formule (le-mor — infinitief-construct als citaat-inleider).
 
 **Semantische velden:** narratieve-dialoog-cluster (primair, ~5000 van 5303); profetische-formule-cluster; innerlijke-uiting-cluster; formele-decreten-cluster; citatie-formule-cluster.
@@ -6715,8 +6515,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H559`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾamar (zeggen, frequent in Daniel-Aramees parallel aan Hebreeuws-gebruik). Akkadisch amaru ('zien' primair, 'meedelen' secundair — semantische vertakking afwezig in Hebreeuws). Ugaritisch ʾmr (zeggen-bevelen, frequent in El-cyclus). Fenicisch ʾmr in inscripties. Arabisch ʾamara (bevelen — semantische verschuiving naar imperatief).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -6820,8 +6618,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-m-r. Verwant met H559 ʾamar (zeggen-ww — item 2 paar). Master rangschikt H561 als zn ʾemer woord.
 
-**Etymologie:** Proto-Semitisch *ʾ-m-r. Cognaten: zie H559.
-
 **Basisbetekenis:** woord of uitspraak (poëtisch). Range: 1) cluster-bij-cult-cluster (vast paar item 7 paar via H1697 davar), 2) cluster-bij-poëtisch-Ps-cluster (Ps 19:3-4), 3) cluster-bij-godheids-uitspraak (Job 22:22), 4) cluster-bij-cluster-bij-onderwijs-cluster, 5) cluster-bij-overdrachtelijk-cluster.
 
 **Semantische velden:** woord-cluster (primair); poëtisch-cluster; cult-cluster; godheids-uitspraak-cluster; sapientiale-cluster.
@@ -6848,8 +6644,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H561`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Zie H559.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -6946,8 +6740,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-m-r. Klassiek-Hebreeuws imrah. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws imrah (uitspraak), van amar (zeggen H559). Stam-cognaat-paar met davar (woord H1697).
-
 **Basisbetekenis:** uitspraak, woord. Master kiest concordant 'uitspraak' voor alle voorkomens. Range: 1) cluster-bij-imrah-en-amar-paar (uitspraak-en-zeggen — item 1 paar dominant via H559, ~25x), 2) cluster-bij-imrah-en-davar-paar (uitspraak-en-woord — item 16 paar via H1697), 3) cluster-bij-imrah-Yah (Ps 119:11 'imrat-Yah-in-mijn-hart' — item 23 paar via H3068, ~25x), 4) cluster-bij-imrah-en-cult-Sinai (item 211 paar via H6944), 5) cluster-bij-NT-LXX-paar G3056 logos en G4487 rhema (~50x in NT).
 
 **Semantische velden:** spreken-cluster (primair); Yah-spreken-cluster; davar-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -6974,8 +6766,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H565a`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G3056 logos én G4487 rhema. NT-Heb 11:3 'rhēmati theou'.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -7067,8 +6857,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-m-n (aleph-mem-nun). Drie-radicaal werkwoordelijke wortel met sterke betrouwbaarheids-functie. Master rangschikt H571 als zelfstandig of bn ʾemet waarheid-betrouwbaarheid.
 
-**Etymologie:** Proto-Semitisch *ʾ-m-n. Cognaten: Aramees ʾemet (waarheid), Akkadisch ammu (betrouwbaar-cluster), Ugaritisch ʾmnt (cluster betrouwbaarheid), Fenicisch ʾmn (vast-cluster), Arabisch ʾāmana (vertrouwen-geloven — onveranderd) en ʾiman (geloof). De wortel is West-Semitisch breed.
-
 **Basisbetekenis:** vastheid-of-betrouwbaarheid-of-trouw. Range: 1) waarheid-tegenover-leugen (vast paar antoniem-cluster met sheqer), 2) godheids-attribuut-cluster (vast in chesed-we-ʾemet-formule item 143 paar via H2617a), 3) trouw-of-betrouwbaarheid-mens (Pro 11:18), 4) waarachtigheid-rechtsspraak (Zec 7:9 cluster), 5) eed-en-verbonds-cluster.
 
 **Semantische velden:** betrouwbaarheids-cluster (primair); waarheids-cluster (tegenover-leugen); godheids-attribuut-cluster (chesed-emet); juridisch-cluster (waarachtigheids-rechtsspraak); verbonds-cluster.
@@ -7095,8 +6883,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H571`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾemet (waarheid — Targumim, Daniel-cluster). Akkadisch ammu (betrouwbaar). Ugaritisch ʾmnt (cluster). Fenicisch ʾmn (vast-cluster). Arabisch ʾāmana (vertrouwen-geloven) en ʾiman (geloof). De wortel is breed-stabiel.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -7198,8 +6984,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-n-h. Klassiek-Hebreeuws anah. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws anah (waarheen?-vraag-deeltje). Tijds-richting-vraag.
-
 **Basisbetekenis:** waarheen? (richtings-vraag). Master kiest concordant 'waarheen' voor alle voorkomens. Range: 1) cluster-bij-anah-en-maqom-paar (waarheen-en-plaats — item 38 paar via H4725, ~25x), 2) cluster-bij-anah-en-derekh-paar (waarheen-en-weg — item 1870 paar via H1870), 3) cluster-bij-anah-Yah (Ps 139:7 'waarheen-vluchten-van-Uw-Geest?' — item 23 paar via H3068), 4) cluster-bij-anah-NT-LXX-pou-paar (G4226 pou 'waar-heen' Joh 7:35), 5) cluster-bij-anah-eschatologisch-richting (item 6258 paar via H6258).
 
 **Semantische velden:** richting-cluster (primair); Yah-richting-cluster; derekh-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -7226,8 +7010,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H575`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G4226 pou (~48x in NT). Joh 7:35, 13:36 'waar-heen-jij-jij-gaat?'.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -7328,8 +7110,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-n-y. Klassiek-Hebreeuws oniyyah. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws oniyyah (schip), Hebreeuws-stam. Stam-cognaat-paar met zee-en-handel-vocabulair.
-
 **Basisbetekenis:** schip. Master kiest concordant 'schip' voor alle voorkomens. Range: 1) cluster-bij-oniyyah-en-yam-paar (schip-en-zee — item 47 paar via H3220, ~25x), 2) cluster-bij-oniyyah-Tarshish (1Kg 10:22 'oniyyot-Tarshish' Salomo-handel — item 8659 paar via H8659, ~10x), 3) cluster-bij-oniyyah-en-cult-niet-Yah-vertrouwen (Jona 1 — item 3124 paar via H3124), 4) cluster-bij-oniyyah-en-NT-LXX-paar G4143 ploion (~67x in NT, evangeliën-zee-Galilea-cluster), 5) cluster-bij-oniyyot-en-Salomo-handel (item 8010 paar via H8010).
 
 **Semantische velden:** transport-cluster (primair); Yah-transport-cluster; choph-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -7356,8 +7136,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H591`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G4143 ploion. Mat-Mar Galilea-zee-narratief frequent.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -7455,8 +7233,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-s-p. Drie-radicaal werkwoordelijke wortel voor 'verzamelen, samenbrengen, achter-zich-laten-bijeen'. Centraal-werkwoord met semantische gelaagdheid: fysiek-verzamelen → verenigen-tot-rust → sterven-en-bij-vaderen-verzameld-worden.
 
-**Etymologie:** Proto-Semitisch *ʾ-s-p 'verzamelen'. Cognaten: Aramees ʾasaph (verzamelen), Akkadisch esepu (verzamelen — wortel-overlap met yasaf), Ugaritisch ʾsp (verzamelen), Fenicisch ʾsp (verzamelen, in koninklijke-inscripties), Arabisch ʾasifa (treuren — semantische verschuiving).
-
 **Basisbetekenis:** verzamelen, samenbrengen, terug-trekken. Master kiest concordant 'verzamelen' voor alle voorkomens. Range: 1) cluster-bij-fysiek-verzamelen (asaf et-X = X-verzamelen — item 622 paar dominant zelf, ~80x), 2) cluster-bij-volk-bijeen (asaf ha-ʿam = volk-bijeen-roepen — item 14 paar via H5971a, ~30x), 3) cluster-bij-sterven-bij-vaderen (ne-ʾesaph el-ʿammav = verzameld-worden-tot-zijn-volk = sterven-formule — item 14 paar via H5971a, ~10x), 4) cluster-bij-Yah-verzamelt (yhwh-yʾsoph = yhwh-zal-verzamelen — item 23 paar via H3068, ~20x in eschatologische-context), 5) cluster-bij-oogst-verzamelen (asaf qatsir = oogst-verzamelen — item 7105 paar via H7105).
 
 **Semantische velden:** fysiek-verzamelen-cluster (primair); volk-bijeen-cluster; sterven-bij-vaderen-cluster; Yah-verzamelt-cluster; oogst-verzamelen-cluster.
@@ -7483,8 +7259,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H622`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾasaph (verzamelen — direct cognaat). Akkadisch esepu (verzamelen — wortel-overlap). Ugaritisch ʾsp (verzamelen). Fenicisch ʾsp (verzamelen). Arabisch ʾasifa (treuren — semantische verschuiving).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -7586,8 +7360,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-s-r. Drie-radicaal werkwoordelijke wortel. Master rangschikt H631 als hoofd-werkwoord ʾasar binden.
 
-**Etymologie:** Proto-Semitisch *ʾ-s-r. Cognaten: Aramees ʾasar, Akkadisch esēru (binden), Ugaritisch ʾsr, Arabisch ʾasara (binden-onveranderd).
-
 **Basisbetekenis:** binden-of-vastmaken-of-gevangen-zetten. Range: 1) cluster-bij-gevangen-zetten (vast paar bij ʾasir gevangene-cluster), 2) cluster-bij-cult-binding-cluster, 3) cluster-bij-huwelijks-cluster (Num 30 — gelofte-binding), 4) cluster-bij-strijdwagen-binden (Gen 46:29 cluster), 5) cluster-bij-eed-binding.
 
 **Semantische velden:** binding-cluster (primair); gevangenschaps-cluster; cult-gelofte-cluster; juridisch-cluster (eed-binding); militair-cluster (strijdwagen-binden).
@@ -7614,8 +7386,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H631`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾasar. Akkadisch esēru. Ugaritisch ʾsr. Arabisch ʾasara (onveranderd). De wortel is breed-stabiel.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -7718,8 +7488,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-n-f. Twee-radicaal cluster — wortel-cognaat-paar bij H599 ʾanaph (toornen-ww).
 
-**Etymologie:** Proto-Semitisch *ʾ-n-p. Cognaten: Aramees ʾanaph, Akkadisch via parallel, Ugaritisch ʾp, Fenicisch ʾp, Arabisch ʾanf.
-
 **Basisbetekenis:** neus of (in cult-context) toorn (de neus zwellend in toorn). Range: 1) cluster-bij-anatomie-cluster (vast paar item 28 paar via H6440 panim in zelfde batch in cluster), 2) cluster-bij-cult-godheids-toorn-cluster (vast paar item 23 paar via H3068 YHWH in charah-ʾaph-formule), 3) cluster-bij-narratief-toorn-cluster (Exo 32:10 — yichar ʾappi), 4) cluster-bij-cluster-bij-cult-vergevings-cluster (Ps 103:9 — lo' lā-netsach yariv we-lo' le-ʿolam yiṭṭor), 5) cluster-bij-cluster-bij-overdrachtelijk-langzaam-tot-toorn-cluster (Exo 34:6 — ʾerek-ʾappayim).
 
 **Semantische velden:** godheids-toorn-cluster (primair); anatomie-cluster; cult-vergevings-cluster; narratief-toorn-cluster; cluster-bij-langzaam-tot-toorn-cluster.
@@ -7733,6 +7501,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Sub-sense vertakkingen:** geen
 
 ## D.
+
 
 ---
 
@@ -7766,8 +7535,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-p-d. Drie-radicaal nominale wortel.
 
-**Etymologie:** Proto-Semitisch *ʾ-p-d. Cognaten: Aramees ephod, Akkadisch via parallel, Ugaritisch ʾpd, Arabisch via parallel.
-
 **Basisbetekenis:** cult-priester-borststuk. Range: 1) cluster-bij-priester-kledij (vast paar item 109 paar via H3548 kohen), 2) cluster-bij-orakel-cluster (vast paar item 224 cluster met urim-en-tummim), 3) cluster-bij-Mozes-en-Aaron-cluster (Exo 28), 4) cluster-bij-cult-tegen-cluster (Jdg 8:27 — Gideon-ephod), 5) cluster-bij-cluster-bij-David-cluster (1Sa 23:9).
 
 **Semantische velden:** cult-priester-cluster (primair); orakel-cluster; cult-bouw-cluster (Exo 28); cult-tegen-cluster (Gideon); David-cluster.
@@ -7792,8 +7559,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H646`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ephod. Akkadisch via parallel. Ugaritisch ʾpd. Arabisch via parallel.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -7883,8 +7648,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-p-s. Klassiek-Hebreeuws ephes. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws ephes (einde, niet-meer), van apes-werkwoord (eindigen). Stam-cognaat-paar met qatseh (einde H7097).
-
 **Basisbetekenis:** einde. Master kiest concordant 'einde' voor alle voorkomens. Range: 1) cluster-bij-ephes-eretz (einden-der-aarde Ps 22:28 'alle-einden-der-aarde-Yah-gedenken' — item 6 paar via H776, ~25x), 2) cluster-bij-ephes-en-qatseh-paar (einde-en-uiteinde — item 7097 paar via H7097), 3) cluster-bij-Yah-en-ephes-eretz (universele-Yah-koningschap-formule — item 23 paar via H3068), 4) cluster-bij-ephes-NT-Mat-24-31 (LXX-paar G4009 peras 'einde-der-aarde'), 5) cluster-bij-ephes-bilti-Yah (Jes 45:6 'er-is-niemand-buiten-Mij' — item 4310 paar via H4310).
 
 **Semantische velden:** einde-cluster (primair); Yah-einde-cluster; qatseh-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -7911,8 +7674,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H657a`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G4009 peras (~4x). Mat 24:31 'einden-der-aarde-engelen-verzamelen'.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -8013,8 +7774,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-ts-b-ʿ. Klassiek-Hebreeuws etsbaʿ. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws etsbaʿ (vinger), Hebreeuws-stam. Stam-cognaat-paar met lichaamsdeel-en-meting-vocabulair.
-
 **Basisbetekenis:** vinger. Master kiest concordant 'vinger' voor alle voorkomens. Range: 1) cluster-bij-etsbaʿ-en-yad-paar (vinger-en-hand — item 30 paar via H3027, ~25x), 2) cluster-bij-etsbaʿ-Yah (Yah-vinger Exo 8:19 'etsbaʿ-elohim' — item 23 paar via H3068, ~10x), 3) cluster-bij-etsbaʿ-en-stenen-Sinai (Deu 9:10 'tafelen-geschreven-met-vinger-Yah' — item 68 paar via H68), 4) cluster-bij-etsbaʿ-Daniel-5-5-Mene-Tekel (Daniel-vinger-schrift-aan-muur — item 1840 paar via H1840), 5) cluster-bij-NT-LXX-paar G1147 daktulos (~8x in NT, Luc 11:20 'en daktulō theou' Christus-uitwerpen-demonen).
 
 **Semantische velden:** lichaam-cluster (primair); Yah-lichaam-cluster; even-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -8041,8 +7800,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H676`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G1147 daktulos. Luc 11:20 LXX-Exo 8:19 'vinger-Yah'-Christologisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -8139,8 +7896,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** a-r-v. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *a-r-v. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'belagen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (belagen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -8167,8 +7922,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H693`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -8268,8 +8021,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-r-b-ʿ. Vier-radicaal getals-stam.
 
-**Etymologie:** Proto-Semitisch *ʾ-r-b-ʿ. Cognaten: Aramees ʾarbaʿ, Akkadisch erbu, Ugaritisch ʾrbʿ, Fenicisch ʾrbʿ, Arabisch ʾarbaʿ.
-
 **Basisbetekenis:** vier (kardinaal getal). Range: 1) cluster-bij-getals-cluster (vast paar item 117 paar via H7969 shalosh en item 149 paar via H2568 chamesh in zelfde batch in cluster), 2) cluster-bij-cult-vier-windrichtingen-cluster (Eze 7:2 — ʾarbaʿ kanphoth ha-ʾarets), 3) cluster-bij-vier-rivieren-Eden-cluster (Gen 2:10 — le-ʾarbaʿah-rashim), 4) cluster-bij-cluster-bij-cult-vier-hoofd-cluster (Exo 27:1 — vier-hoorns-altaar), 5) cluster-bij-cluster-bij-vier-vier-vier-cluster.
 
 **Semantische velden:** getals-cluster (primair); cult-vier-windrichtingen-cluster; cult-Eden-rivieren-cluster; cult-altaar-cluster; topografisch-cluster.
@@ -8296,6 +8047,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H702`.
 
 ## E. Cognaten en LXX-koppel
+
 
 ---
 
@@ -8329,8 +8081,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-r-b-ʿ. Wortel-paar met ʾarbaʿ (vier H702). Tweecletter-stam-uitbreiding voor 'veertig'. Stam in oudste laag van semitisch numeriek-vocabulair.
 
-**Etymologie:** Proto-Semitisch *ʾ-r-b-ʿ-y-m 'veertig'. Cognaten: Aramees ʾarbʿin (veertig), Akkadisch erbu-shu (veertig), Ugaritisch ʾrbʿm (veertig), Fenicisch ʾrbʿm (veertig), Arabisch ʾarbaʿuna (veertig).
-
 **Basisbetekenis:** veertig. Master kiest concordant 'veertig' voor alle voorkomens. Range: 1) cluster-bij-veertig-dagen-vloed (Gen 7:4 ʾarbaʿim yom — item 40 paar via H3117, ~10x), 2) cluster-bij-veertig-jaren-woestijn (Israel-veertig-jaren — item 30 paar via H8141, ~30x in Numeri-Deu), 3) cluster-bij-veertig-dagen-Mozes-Sinai (Exo 24:18 — item 4872 paar via H4872), 4) cluster-bij-veertig-jaren-Richters (rust-tijdperken — item 60 paar via H3478, ~10x), 5) cluster-bij-veertig-jaren-koning (40-jaars-regering David Salomo — item 4428 paar via H4428).
 
 **Semantische velden:** veertig-dagen-vloed-cluster (primair); veertig-jaren-woestijn-cluster; veertig-dagen-Sinai-cluster; veertig-jaren-Richters-cluster; veertig-jaren-koning-cluster.
@@ -8357,8 +8107,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H705`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾarbʿin (veertig — direct cognaat). Akkadisch erbu-shu (veertig — directe cognaat). Ugaritisch ʾrbʿm (veertig). Fenicisch ʾrbʿm (veertig). Arabisch ʾarbaʿuna (veertig — direct cognaat).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -8458,9 +8206,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √ʾ-r-g-m-n. Drie-radicaal werkwoordelijke wortel; stam-cognaat-paar met leen-woord-Akkadisch (purper-rood).
-
-**Etymologie:** Proto-Semitisch *ʾ-r-g-m-n 'paars-cult-stof'. Cognaten: Aramees, Akkadisch, Ugaritisch, Fenicisch, Arabisch.
+**Wortel:** √ʾ-r-g-m-n.
 
 **Basisbetekenis:** paars-purper. Master kiest concordant 'paars-purper' voor alle voorkomens. Range: 1) cluster-bij-cult-kleur-cluster (item 4908 paar via H4908), 2) cluster-bij-Yah-cult-kleur-cluster (item 23 paar via H3068), 3) cluster-bij-paars-purper-en-qodesh-paar (item 6944 paar via H6944), 4) cluster-bij-eindtijd-cult-kleur (item 56 paar via H5769), 5) cluster-bij-cult-cult-kleur (item 211 paar via H6944).
 
@@ -8488,8 +8234,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H713`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees, Akkadisch, Ugaritisch, Fenicisch, Arabisch — directe cognaten in West-Semitische-taalgroep.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -8584,8 +8328,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-r-w. Drie-radicaal-stam — ʾaron is primair zn voor 'kist, ark'. Specifiek-cult-zn voor twee primaire-objecten: tabernakel-ark (ʾaron-ha-brit) en grafkist-Yozef (ʾaron-be-mitsrayim Gen 50:26).
 
-**Etymologie:** Proto-Semitisch *ʾ-r-n 'kist, container'. Cognaten: Aramees ʾaron (kist), Akkadisch aranu (kist), Ugaritisch ʾrn (kist), Fenicisch ʾrn (kist, in koninklijke-graf-inscripties), Arabisch ʾaran (kist).
-
 **Basisbetekenis:** kist, ark. Master kiest concordant 'ark' voor alle voorkomens. Range: 1) cluster-bij-tabernakel-ark (ʾaron-ha-brit = ark-van-het-verbond — item 207 paar via H1285, ~70x), 2) cluster-bij-Yah-troon-op-cherubim-ark (yhwh yoshev ha-keruvim ʿal-ha-aron — item 23 paar via H3068), 3) cluster-bij-getuigenis-ark (ʾaron-ha-edut = ark-van-het-getuigenis — item 5715 paar via H5715, ~30x), 4) cluster-bij-ark-bij-Pelistim (1Sa 4-7 — item 6430 paar via H6430), 5) cluster-bij-Yozef-grafkist (ʾaron-Yosef Gen 50:26 — item 1004 paar via H1004 in 'Yosefs-graf'-formule).
 
 **Semantische velden:** tabernakel-ark-cluster (primair); Yah-troon-cluster; getuigenis-ark-cluster; ark-bij-Pelistim-cluster; Yozef-grafkist-cluster.
@@ -8612,8 +8354,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H727`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾaron (kist — direct cognaat). Akkadisch aranu (kist — directe cognaat). Ugaritisch ʾrn (kist). Fenicisch ʾrn (kist, in koninklijke-graf-inscripties als 'kist-van-koning'). Arabisch ʾaran (kist).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -8714,8 +8454,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-r-z. Drie-radicaal nominale wortel. Master rangschikt H730 als zelfstandig ʾerez ceder.
 
-**Etymologie:** Proto-Semitisch *ʾ-r-z. Cognaten: Aramees ʾarza, Akkadisch erēnu (cluster), Ugaritisch ʾrz, Arabisch ʾarz (ceder-onveranderd).
-
 **Basisbetekenis:** ceder-boom of cederhout. Range: 1) cluster-bij-cult-tabernakel-en-tempel-cluster (vast paar item 255 paar via H4908 mishkan en item 12 paar via H1004 bayit), 2) cluster-bij-Libanon-cluster (vast paar bij ʾarzei ha-Levanon-formule), 3) cluster-bij-cult-reinigings-rite (Lev 14:4 cult-cluster), 4) overdrachtelijk-koninklijk-en-trots-cluster (Eze 31:3 cluster), 5) cluster-bij-cult-zang.
 
 **Semantische velden:** plant-cluster (primair); cult-bouw-cluster; geografisch-Libanon-cluster; cult-reinigings-cluster; overdrachtelijk-koninklijk-cluster.
@@ -8740,8 +8478,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H730`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾarza. Akkadisch erēnu. Ugaritisch ʾrz. Arabisch ʾarz (onveranderd). De wortel is breed-stabiel.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -8839,8 +8575,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-r-ch. Drie-radicaal werkwoordelijke wortel.
 
-**Etymologie:** Proto-Semitisch *ʾ-r-ch. Cognaten: Aramees ʾoraḥ, Akkadisch arḫu (weg-pad), Ugaritisch ʾrch, Arabisch ʾurāḥ (cluster).
-
 **Basisbetekenis:** pad of weg. Range: 1) cluster-bij-weg-cluster (vast paar item 44 paar via H1870 derek), 2) cluster-bij-cult-pad-cluster (Ps 25:4), 3) cluster-bij-sapientiaal-pad-cluster (Pro-cluster bij ʾorach-chayyim — pad-van-leven), 4) cluster-bij-godheids-pad (Ps 25:10 cluster), 5) cluster-bij-eigennaam-cluster.
 
 **Semantische velden:** weg-cluster (primair); sapientiaal-cluster; godheids-pad-cluster; cult-pad-cluster; reis-cluster.
@@ -8867,8 +8601,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H734`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾoraḥ. Akkadisch arḫu. Ugaritisch ʾrch. Arabisch ʾurāḥ. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -8963,8 +8695,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-r-y. Klassiek-Hebreeuws ari. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws ari (leeuw), Hebreeuws-stam. Stam-cognaat-paar met andere roofdier-en-symboliek-vocabulair.
-
 **Basisbetekenis:** leeuw. Master kiest concordant 'leeuw' voor alle voorkomens. Range: 1) cluster-bij-ari-en-roofdier-paar (leeuw-en-andere-roofdieren — item 1677 paar via H1677, ~25x), 2) cluster-bij-ari-en-dov-paar (leeuw-en-beer 1Sa 17:34-37 David-cluster — item 1732 paar via H1732), 3) cluster-bij-ari-Juda-Gen-49-9 (leeuw-Juda-stam-symbool — item 3063 paar via H3063), 4) cluster-bij-ari-Yah-veroordeling (Hos 5:14 'als-leeuw-Efraim-verscheuren' — item 23 paar via H3068, ~10x), 5) cluster-bij-NT-LXX-paar G3023 leōn (~9x in NT, Op 5:5 'leōn ek tēs phulēs Iouda').
 
 **Semantische velden:** dier-cluster (primair); Yah-dier-cluster; dov-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -8991,8 +8721,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H738a`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees aryah. NT-LXX-bron G3023 leōn. Op 5:5 'Leeuw-uit-stam-Juda-overwon'.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -9093,8 +8821,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-r-y-ʾ-l. Klassiek-Hebreeuws Ariʾel. Samenstelling-naam.
 
-**Etymologie:** Klassiek-Hebreeuws Ariʾel (eigennaam, leeuw-El). Samenstelling-naam met ari (leeuw H738a) + el (Machtige H410). NT-niet-direct.
-
 **Basisbetekenis:** Ariël (eigennaam = leeuw-El). Master kiest concordant 'Ariel' voor alle voorkomens. Range: 1) cluster-bij-Ariel-Jeruzalem (Jes 29:1-7 'Ariel-stad-waar-David-kampeerde' = Jeruzalem — item 3389 paar via H3389, ~5x), 2) cluster-bij-Ariel-en-El-paar (samenstelling — item 410 paar via H410), 3) cluster-bij-Ariel-en-leeuw-paar (item 738 paar via H738a), 4) cluster-bij-Ariel-en-Yah (Jes 29 oordeels-en-redding-cluster — item 23 paar via H3068), 5) cluster-bij-Ariel-Ezra (eigennaam-persoon Ezra 8:16 — item 5830 paar via H5830).
 
 **Semantische velden:** eigennaam-cluster-cluster (primair); Yah-eigennaam-cluster-cluster; el-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -9121,8 +8847,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H738b`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Hebreeuws-Aramees samenstellings-naam. NT-niet-direct.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -9223,8 +8947,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** a-r-c. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *a-r-c. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'lang-zijn'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (lang-zijn); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -9251,8 +8973,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H748`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -9353,8 +9073,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-r-k. Drie-radicaal werkwoordelijke en nominale wortel. Master rangschikt H753 als zelfstandig ʾorek lengte.
 
-**Etymologie:** Proto-Semitisch *ʾ-r-k. Cognaten: Aramees ʾerek (lengte), Akkadisch arāku (lang-zijn), Ugaritisch ʾrk, Arabisch ʾarak via parallel.
-
 **Basisbetekenis:** lengte-of-uitgestrektheid. Range: 1) cijfermatig-lengte cluster bij maat-formules (vast paar item 335 paar zelfde batch via H7341 rochav), 2) cluster-bij-tabernakel-en-tempel-meet (item 255 paar via H4908), 3) overdrachtelijk-langheid-tijd (cluster bij ʾorek-yamim — lengte-van-dagen, item 18 paar via H3117), 4) cluster-bij-leven-lang (Ps 91:16 ʾorek-yamim ʾasbiʿehu — lengte-van-dagen-zal-Ik-hem-verzadigen), 5) idiomatisch-cluster.
 
 **Semantische velden:** maat-cluster (primair); cult-meet-cluster (tabernakel-tempel); tijds-cluster (lengte-dagen); overdrachtelijk-leven-cluster; geografisch-cluster.
@@ -9381,8 +9099,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H753`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾerek. Akkadisch arāku (lang-zijn). Ugaritisch ʾrk. Arabisch ʾarak via parallel. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -9481,8 +9197,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-r-ts. Drie-radicaal-stam — ʾerets is primair zn met breed semantisch veld 'land, aarde, gebied'. Geen onderscheidbare verbale wortel. Stam in oudste laag van semitisch geografisch vocabulair.
 
-**Etymologie:** Proto-Semitisch *ʾ-r-ts 'aarde, land'. Cognaten: Aramees ʾaraʿ (aarde — klankverandering /ts/→/ʿ/), Akkadisch erṣetu (aarde-onderwereld), Ugaritisch ʾrṣ (aarde), Fenicisch ʾrṣ (land), Arabisch ʾarḍ (aarde).
-
 **Basisbetekenis:** land, aarde, gebied. Master kiest concordant 'land' voor alle voorkomens. Range: 1) cluster-bij-belofte-land (ʾerets-Yisrael / ʾerets ha-mevuʿadet — item 60 paar via H3478), 2) cluster-bij-aarde-tegenover-hemel (shamayim wa-ʾarets — item 28 paar via H8064), 3) cluster-bij-volken-land (ʾerets-X als nationaal-gebied — item 35 paar via H1471), 4) cluster-bij-aarde-bewoners (yoshvei-ha-ʾarets 'bewoners-van-de-aarde' — item 41 paar via H3427), 5) cluster-bij-eind-der-aarde (qatsei-ha-ʾarets — universele-reikwijdte-formule).
 
 **Semantische velden:** belofte-land-cluster (primair); aarde-tegenover-hemel-cluster; volken-land-cluster; aarde-bewoners-cluster; eind-der-aarde-cluster.
@@ -9509,8 +9223,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H776`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾaraʿ (aarde — klankverandering /ts/ → /ʿ/, frequent in Daniel-Aramees voor aarde-tegenover-hemel-paar). Akkadisch erṣetu (aarde-onderwereld — semantische uitbreiding naar dodenrijk afwezig in Hebreeuws). Ugaritisch ʾrṣ (aarde, in El-cyclus). Fenicisch ʾrṣ in inscripties. Arabisch ʾarḍ (aarde, productief in eigennamen).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -9611,8 +9323,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-r-r. Wortel met geminaat-cluster.
 
-**Etymologie:** Proto-Semitisch *ʾ-r-r. Cognaten: Aramees ʾarar, Akkadisch arāru, Ugaritisch ʾrr.
-
 **Basisbetekenis:** vervloeken. Range: 1) cluster-bij-cult-vervloeking (vast paar item 7045 paar via H7045 qelalah), 2) cluster-bij-Bileam-cluster (Num 22-24), 3) cluster-bij-Genesis-vervloekings-cluster (Gen 3:14, 9:25), 4) cluster-bij-cult-tegen, 5) overdrachtelijk-cluster.
 
 **Semantische velden:** vervloekings-cluster (primair); cult-tegen-cluster; Bileam-cluster; Genesis-cluster; profetisch-cluster.
@@ -9639,8 +9349,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H779`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾarar. Akkadisch arāru. Ugaritisch ʾrr.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -9739,8 +9447,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-sh. Twee-radicaal cluster — primaire vorm voor vuur.
 
-**Etymologie:** Proto-Semitisch *ʾ-sh. Cognaten: Aramees ʾesh, Akkadisch ishātu, Ugaritisch ʾisht, Fenicisch ʾsh.
-
 **Basisbetekenis:** vuur of vlam of brand. Range: 1) cluster-bij-cult-altaar-vuur-cluster (vast paar item 125 paar via H4196 mizbeach in zelfde batch in cluster), 2) cluster-bij-godheids-vuur-cluster (Deu 4:24 — ʾesh ʾokhelah hu), 3) cluster-bij-Sinai-vuur-cluster (Exo 19:18 — Sinai be-ʾesh), 4) cluster-bij-cluster-bij-vreemd-vuur-cluster (Lev 10:1 — ʾesh-zarah), 5) cluster-bij-cluster-bij-oordeels-vuur-cluster (Ps 50:3 — ʾesh-pi-tokhel).
 
 **Semantische velden:** cult-altaar-vuur-cluster (primair); godheids-vuur-cluster; Sinai-cluster; cult-vreemd-vuur-cluster; oordeels-vuur-cluster.
@@ -9754,6 +9460,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Sub-sense vertakkingen:** geen
 
 ## D. Parallelplaatsen-overzicht (anker
+
 
 ---
 
@@ -9787,8 +9494,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** ʾ-sh-h. Wortel-stam met -h-suffix in vrouwelijke vorm — gerelateerd aan ʾish (man — H376) via gemeenschappelijk wortel-stam-aspect.
 
-**Etymologie:** Proto-Semitisch *ʾ-n-th of *ʾ-sh-h. Cognaten: Aramees ʾittetha, Akkadisch ashshatu, Ugaritisch ʾatt, Fenicisch ʾsht, Arabisch unt̲ā (cluster-aspect).
-
 **Basisbetekenis:** vrouw of echtgenote. Range: 1) cluster-bij-huwelijks-cluster (vast paar item 27 paar via H376 ʾish in ʾish-en-ʾishshah-formule), 2) cluster-bij-Gen-2:23-cluster (zoth happaʿam ʿetsem me-ʿatsmai), 3) cluster-bij-cult-vrouw-cluster (Lev 18-20 — ʾeshet-ʾish), 4) cluster-bij-overdrachtelijk-vrouw-Sion-cluster, 5) cluster-bij-cluster-bij-eshet-chayil-cluster (Spr 31).
 
 **Semantische velden:** huwelijks-cluster (primair); patriarchaal-cluster; cult-decaloog-cluster; sapientiale-cluster; overdrachtelijk-Sion-cluster.
@@ -9802,6 +9507,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Sub-sense vertakkingen:** geen
 
 ## D. Parallelplaa
+
 
 ---
 
@@ -9835,8 +9541,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** a-s-h. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *a-s-h. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'schuldig-zijn'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (schuldig-zijn); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -9863,8 +9567,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H816`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -9963,8 +9665,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-sh-m. Klassiek-Hebreeuws asham. Aramees ashma-paar.
 
-**Etymologie:** Klassiek-Hebreeuws asham (schuld-offer), van asham-werkwoord (schuldig-zijn H816). Stam-cognaat-paar met chataʾt (zonde-offer H2403).
-
 **Basisbetekenis:** schuld-offer, schuld-handeling. Master kiest concordant 'schuld' voor alle voorkomens. Range: 1) cluster-bij-asham-en-chattaʾt-paar (schuld-offer-en-zonde-offer — item 95 paar via H2398, ~25x), 2) cluster-bij-asham-Lev-5 (schuld-offer-instructies Lev 5:14-19 — item 211 paar via H6944), 3) cluster-bij-asham-en-kapper-paar (schuld-en-verzoening — item 91 paar via H3548), 4) cluster-bij-Jes-53-10-asham (Mijn-Knecht-tot-asham Jes 53:10 messianisch — item 5650 paar via H5647), 5) cluster-bij-asham-en-cult-Yah (item 23 paar via H3068).
 
 **Semantische velden:** schuld-cluster (primair); Yah-schuld-cluster; kapper-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -9991,8 +9691,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H817`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ashma. Akkadisch ashamtu-paar. NT-LXX-bron G4131 plemmeleia, ook G2434 hilasmos. Jes 53:10 LXX-vertaling messianisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -10088,8 +9786,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-sh-r. Klassiek-Hebreeuws ashre. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws ashre (gelukzalig-formule), van asher-werkwoord. Stam-cognaat-paar met asher (eigennaam-stam H836). Centraal-psalm-formule.
-
 **Basisbetekenis:** gelukzalig (formule). Master kiest concordant 'zalig' voor alle voorkomens. Range: 1) cluster-bij-Ps-1-1-ashre-haish (zalig-de-mens Ps 1:1 — item 376 paar via H376, ~25x), 2) cluster-bij-ashre-en-barak-paar (zalig-en-zegenen — item 78 paar via H1288), 3) cluster-bij-ashre-Yah-cluster (Ps 33:12 'zalig-volk-wiens-Yah' — item 23 paar via H3068, ~25x), 4) cluster-bij-ashre-en-tsadiq-paar (zalig-en-rechtvaardig — item 6662 paar via H6662), 5) cluster-bij-NT-Mat-5-makarioi-LXX-paar (item 3107 paar via G3107).
 
 **Semantische velden:** zaligheid-cluster (primair); Yah-zaligheid-cluster; tsadiq-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -10116,8 +9812,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H835`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat-paar. NT-LXX-bron G3107 makarios. NT-Mat 5:3-12 zaligsprekingen-Bergrede direct LXX-Ps-paar.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -10212,8 +9906,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-sh-r. Eigennaam Asher. Theofore-naam 'gelukzalig'.
 
-**Etymologie:** Klassiek-Hebreeuws Asher (eigennaam-stam, 'gelukzalig'). Wortel-paar met asher (gelukkig H835). Een van de twaalf-stammen-Israel.
-
 **Basisbetekenis:** Aser (eigennaam-stam Israel). Master kiest concordant 'Aser' voor alle voorkomens. Range: 1) cluster-bij-shevet-Asher (stam-Aser — item 80 paar via H7626, ~25x), 2) cluster-bij-bnei-Asher (zonen-Aser — item 1121 paar via H1121a), 3) cluster-bij-Zilpa-Asher (Gen 30:13 'Lea-Zilpa-baart-Aser' — item 2153 paar via H2153), 4) cluster-bij-Asher-Mozes-zegen (Deu 33:24 'gezegend-onder-zonen-Aser' — item 4872 paar via H4872), 5) cluster-bij-NT-Anna-stam-Aser-Luc-2-36 (item 451 paar via G451).
 
 **Semantische velden:** eigennaam-stam-cluster (primair); Yah-eigennaam-stam-cluster; yisrael-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -10240,8 +9932,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H836`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G768 Aser. Luc 2:36 Anna-Phanuel-stam-Aser.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -10337,8 +10027,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-sh-r. Eigennaam Asherah. Kanaanitisch-cognaat-godin.
 
-**Etymologie:** Klassiek-Hebreeuws Asherah (eigennaam-godin én cult-paal). Kanaanitisch-cognaat. Stam-cognaat-paar met andere afgoderij-cult-vocabulair.
-
 **Basisbetekenis:** Asjera (godinnen-naam én cult-paal). Master kiest concordant 'Asjera' voor alle voorkomens. Range: 1) cluster-bij-Asherah-en-Baal-paar (Asjera-en-Baal Ri 6:25 etc. — item 1167 paar via H1167, ~25x), 2) cluster-bij-Asherah-en-pesel-paar (Asjera-en-gesneden-beeld — item 6459 paar via H6459), 3) cluster-bij-Asherah-en-Yah-veroordeling (Deu 16:21 'geen-Asjera-bij-altaar-Yah' — item 23 paar via H3068, ~10x), 4) cluster-bij-Asherah-koningen-Israel-Juda-cluster (1Kg 14:23, 16:33 etc. — item 4428 paar via H4428), 5) cluster-bij-Asherah-en-LXX-alsos-paar (LXX-vertaling 'heilig-bos').
 
 **Semantische velden:** afgoderij-cluster (primair); Yah-afgoderij-cluster; pesel-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -10365,8 +10053,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H842`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Kanaanitisch-Ugaritisch-cognaat (Athirat-Ugarit-godin). NT-niet-direct.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -10461,8 +10147,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √ʾ-t-n. Klassiek-Hebreeuws aton. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws aton (ezelin), van aton-stam. Stam-cognaat-paar met dieren-en-rijdier-vocabulair.
-
 **Basisbetekenis:** ezelin. Master kiest concordant 'ezelin' voor alle voorkomens. Range: 1) cluster-bij-aton-en-chamor-paar (ezelin-en-ezel — item 2543 paar via H2543, ~25x), 2) cluster-bij-Bileam-aton (Bileam-ezelin Num 22 — item 1109 paar via H1109, ~10x), 3) cluster-bij-aton-Mashiach-Zec-9-9 (intocht-Messias-op-ezel-veulen — item 5547 paar-via-NT G5547), 4) cluster-bij-aton-en-rakav-paar (ezelin-en-rijden — item 7392 paar via H7392), 5) cluster-bij-NT-LXX-paar G3688 onos (Mat 21:2-7 intocht-Christus-Jeruzalem-op-ezel).
 
 **Semantische velden:** dier-cluster (primair); Yah-dier-cluster; rakav-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -10489,8 +10173,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H860`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G3688 onos. Mat 21:2-7 LXX-Zec 9:9-vervulling intocht-Jeruzalem.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -10584,8 +10266,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-ʾ-r-sh-b-ʿ. Eigennaam Beer-Sheva. Samenstelling-naam.
 
-**Etymologie:** Eigennaam Beer-Sheva ('put-van-eed'), samenstelling beer (put H875) + sheva (zeven H7651 of eed H7621).
-
 **Basisbetekenis:** Beerseba (eigennaam-stad). Master kiest concordant 'Beerseba' voor alle voorkomens. Range: 1) cluster-bij-Beerseba-en-Abraham-eed-paar (Gen 21:31 'Beerseba-want-zij-zwoeren-daar' — item 85 paar via H85, ~25x), 2) cluster-bij-Beerseba-en-Dan-paar (Mi-Dan-tot-Beerseba grenzen-Israel-formule — item 1835 paar via H1835), 3) cluster-bij-Beerseba-en-Yah (Yah-verschijnt-aan-Isaak-Beerseba Gen 26:23-25 — item 23 paar via H3068, ~10x), 4) cluster-bij-Beerseba-en-Jakob-droom (Gen 28:10 vertrek-vanaf-Beerseba — item 3290 paar via H3290), 5) cluster-bij-Beerseba-tot-Dan (van-Dan-tot-Beerseba grens-formule — item 60 paar via H3478).
 
 **Semantische velden:** eigennaam-stad-cluster (primair); Yah-eigennaam-stad-cluster; shevuah-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -10612,8 +10292,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H884`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Hebreeuws-cognaat-cluster. NT-niet-direct.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -10710,8 +10388,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-ʾ-r-sh-b-ʿ. Variant Beer-Sheva-uitgebreid.
 
-**Etymologie:** Beer-Sheva-uitgebreide-vorm (variant van H884). Zelfde-eigennaam-stad.
-
 **Basisbetekenis:** Beerseba-uitgebreid. Master kiest concordant 'Beerseba' voor alle voorkomens. Range: 1) cluster-bij-Beerseba-uitgebreid-vorm-Gen-narratief (item 85 paar via H85, ~25x), 2) cluster-bij-Beerseba-en-zegen-cluster (Gen 26-Isaak-zegen — item 6664 paar via H6662 niet-direct), 3) cluster-bij-Beerseba-en-Yah-belofte (item 23 paar via H3068), 4) cluster-bij-Beerseba-en-Israel-cluster (item 60 paar via H3478), 5) cluster-bij-Beerseba-eschatologisch (Am 5:5 'naar-Beerseba-niet-overgaan'-veroordeling — item 23 paar via H3068).
 
 **Semantische velden:** eigennaam-stad-cluster (primair); Yah-eigennaam-stad-cluster; shevuah-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -10738,8 +10414,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H884+`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Hebreeuws-cognaat-cluster.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -10836,8 +10510,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-g-d. Drie-radicaal werkwoordelijke wortel.
 
-**Etymologie:** Proto-Semitisch *b-g-d. Cognaten: Aramees begad, Akkadisch via parallel, Ugaritisch bgd, Arabisch baghada (cluster).
-
 **Basisbetekenis:** verraden-of-trouweloos-handelen. Range: 1) cluster-bij-cult-tegen-cluster (vast paar item 295 paar via H8441 toʿevah), 2) cluster-bij-huwelijks-overspel-cluster (Mal 2:14), 3) cluster-bij-cluster-bij-broeder-verraad, 4) cluster-bij-cluster-bij-cult-cluster-vrouw-tegen-jeugdvrouw, 5) cluster-bij-overdrachtelijk-cluster.
 
 **Semantische velden:** verraads-cluster (primair); huwelijks-overspels-cluster; cult-tegen-cluster; broeder-verraad-cluster; profetisch-cluster.
@@ -10864,8 +10536,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H898`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees begad. Akkadisch via parallel. Ugaritisch bgd. Arabisch baghada.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -10964,8 +10634,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-g-d. Drie-radicaal werkwoordelijke wortel via wortel-paar met bagad (verraderlijk-handelen H898). Beged is afgeleid zn voor 'kledingstuk, mantel, gewaad' — wat-bedekt-en-verbergt. Stam-paar legt verband tussen 'kleding-bedekt' en 'verraderlijk-handelen-onder-bedekking'.
 
-**Etymologie:** Proto-Semitisch *b-g-d 'bedekken, verraden'. Cognaten: Aramees beged (kleed), Akkadisch bagdu (kleed), Ugaritisch bgd (kleed), Fenicisch bgd (kleed, in koninklijke-inscripties), Arabisch bajada (verraden).
-
 **Basisbetekenis:** kledingstuk, mantel, gewaad. Master kiest concordant 'kledingstuk' voor alle voorkomens. Range: 1) cluster-bij-priesterlijke-kleding (bigdei kohen = priesterkleding — item 91 paar via H3548), 2) cluster-bij-rouw-kleding-scheuren (qaraʿ begadav = zijn-kleren-scheuren — item 7167 paar via H7167), 3) cluster-bij-Yozef-kleed (ketonet passim Yozef — item 60 paar via H3478), 4) cluster-bij-koninklijke-kleed (bigdei-melekh — item 4428 paar via H4428), 5) cluster-bij-witte-kleed-rein (begadim levanim als reinheid-symbool — item 211 paar via H6944).
 
 **Semantische velden:** priesterlijke-kleding-cluster (primair); rouw-kleding-scheuren-cluster; Yozef-kleed-cluster; koninklijke-kleed-cluster; reinheids-witte-kleed-cluster.
@@ -10992,8 +10660,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H899b`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees beged (kleed — direct cognaat). Akkadisch bagdu (kleed — directe cognaat). Ugaritisch bgd (kleed). Fenicisch bgd (kleed, in koninklijke-inscripties). Arabisch bajada (verraden — semantische verschuiving via wortel-paar).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -11095,8 +10761,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-d-d. Drie-radicaal-stam — bad is primair zn voor 'deel, alleen, behalve'. Stam in oudste laag van semitisch ruimtelijk-en-isolatie-vocabulair. Stam-cognaat-paar met badad (geïsoleerd-zijn H909).
 
-**Etymologie:** Proto-Semitisch *b-d-d 'gescheiden-zijn, alleen-zijn'. Cognaten: Aramees bad (alleen), Akkadisch baddu (gescheiden), Ugaritisch bd (alleen), Fenicisch bd (alleen), Arabisch badd (uitsluitend).
-
 **Basisbetekenis:** deel, alleen, behalve. Master kiest concordant 'alleen' voor alle voorkomens. Range: 1) cluster-bij-le-vad = alleen-isolatie (le-vad-X = X-alleen — item 905 paar dominant zelf), 2) cluster-bij-mil-vad = behalve (mille-vad-X = behalve-X als uitzondering — item 4480 paar via H4480), 3) cluster-bij-niet-goed-alleen-zijn (Gen 2:18 lo-tov heyot ha-ʾadam le-vaddo — item 35 paar via H120), 4) cluster-bij-Yah-alleen (yhwh le-vaddo = yhwh-alleen-zonder-andere-Machtigen — item 23 paar via H3068, ~5x), 5) cluster-bij-stam-onderdeel (badim als 'staf-of-stang-deel' tabernakel-cluster — item 255 paar via H4908).
 
 **Semantische velden:** le-vad-isolatie-cluster (primair); mil-vad-uitzondering-cluster; niet-goed-alleen-cluster; Yah-alleen-cluster; tabernakel-stang-cluster.
@@ -11123,8 +10787,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H905`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees bad (alleen — direct cognaat). Akkadisch baddu (gescheiden — directe cognaat). Ugaritisch bd (alleen). Fenicisch bd (alleen). Arabisch badd (uitsluitend — direct cognaat).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -11226,8 +10888,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-a-d. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *b-a-d. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'scheiden'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (scheiden); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -11252,8 +10912,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H914`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -11347,8 +11005,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-a-h. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *b-a-h. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'verschrikt-zijn'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (verschrikt-zijn); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -11373,8 +11029,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H926`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -11471,8 +11125,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-h-m. Drie-radicaal-stam — behemah is primair zn voor 'beest, gedomesticeerd-vee'. Stam in oudste laag van semitisch landbouw-en-cult-vocabulair. Onderscheidt zich van chayyah (wild-beest, H2416b) door de domesticatie-grens.
 
-**Etymologie:** Proto-Semitisch *b-h-m 'beest'. Cognaten: Aramees behemah (beest), Akkadisch buhāmu (lastdier), Ugaritisch bhmt (beest), Fenicisch bhm (beest, in koninklijke-inscripties), Arabisch bahima (beest).
-
 **Basisbetekenis:** beest, gedomesticeerd-vee. Master kiest concordant 'beest' voor alle voorkomens. Range: 1) cluster-bij-vee-domesticatie (mens-en-beest-paar Gen 1 — item 35 paar via H120, ~30x), 2) cluster-bij-cult-rein-en-onrein-vee (Lev 11 onderscheid behemot-tehorot/temeʾot — item 211 paar via H6944), 3) cluster-bij-eerstgeborene-vee (bekor behemah — item 1069 paar via H1069), 4) cluster-bij-vee-en-mens-oordeel (mens-en-beest-getroffen-bij-Yah-oordeel Eze — item 35 paar via H120, ~10x), 5) cluster-bij-Behemoth-mythologisch (Job 40:15 reuzen-beest — item 929 paar dominant zelf in poëtisch).
 
 **Semantische velden:** vee-domesticatie-cluster (primair); cult-rein-onrein-vee-cluster; eerstgeborene-vee-cluster; vee-en-mens-oordeel-cluster; Behemoth-cluster.
@@ -11499,8 +11151,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H929`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees behemah (beest — direct cognaat). Akkadisch buhāmu (lastdier — directe cognaat). Ugaritisch bhmt (beest). Fenicisch bhm (beest). Arabisch bahima (beest — direct cognaat).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -11601,8 +11251,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-w-ʾ. Drie-radicaal werkwoordelijke wortel voor 'komen, ingaan, binnentreden'. Hol-medeklinker (mediae-waw). Onderscheidt zich van √y-ts-ʾ (H3318 uitgaan) als tegenpool en van √h-l-k (H3212 gaan) door directionaliteit: boʾ markeert de aankomst-richting (binnen-richting), holekh markeert de beweging-zonder-eindpunt.
 
-**Etymologie:** Proto-Semitisch *b-w-ʾ 'komen, ingaan'. Cognaten: Aramees ʾatah (komen — andere wortel, deels gebruik in Aramees), Akkadisch baʾu (komen-passeren), Ugaritisch bʾ (komen), Fenicisch bʾ (komen), Arabisch baaʾa (terugkeren — semantische verschuiving).
-
 **Basisbetekenis:** komen, ingaan, binnentreden. Master kiest concordant 'komen' voor alle voorkomens. Range: 1) cluster-bij-aankomst (boʾ-el-X 'aankomen-bij-X' — item 5 paar dominant zelf), 2) cluster-bij-cult-toegang (boʾ-el-mishkan 'binnengaan-tabernakel' — item 255 paar via H4908), 3) cluster-bij-zonsondergang (boʾ-ha-shemesh = de-zon-gaat-onder, item 145 paar via H8121), 4) cluster-bij-vervulling (boʾ-davar = woord-komt-uit, item 16 paar via H1697), 5) cluster-bij-toekomst-aankondiging (yamim-baim = dagen-komen-aan, item 40 paar via H3117).
 
 **Semantische velden:** aankomst-cluster (primair); cult-toegang-cluster; zonsondergang-cluster; vervulling-cluster; toekomst-aankondiging-cluster.
@@ -11629,8 +11277,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H935`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees ʾatah (komen — Aramees gebruikt overwegend √ʾ-t-h voor komen-functie). Akkadisch baʾu (komen-passeren — directe wortel-cognaat). Ugaritisch bʾ (komen, in mythologische binnen-treden-context). Fenicisch bʾ (komen, in koninklijke-inscripties). Arabisch baaʾa (terugkeren — semantische verschuiving).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -11731,8 +11377,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-w-r. Holle-wortel met dubbele-pool put-graf en uitleggen-cluster. Master rangschikt H953a als zn bor-I put-bron-graf.
 
-**Etymologie:** Proto-Semitisch *b-w-r. Cognaten: Aramees bor (put), Akkadisch būru, Ugaritisch br, Arabisch biʾr (put-cluster).
-
 **Basisbetekenis:** cisterne-of-put of graf-overdrachtelijk. Range: 1) cisterne-water-bewaring (Gen 37:24 cluster Jozef-cluster), 2) cluster-bij-graf-of-onderwereld-cluster (vast paar item 478 paar via H7585 sheʾol), 3) cluster-bij-cult-onreinheid-cluster, 4) overdrachtelijk-bron-of-vrouw-cluster (Pro 5:15), 5) cluster-bij-redding-uit-de-put.
 
 **Semantische velden:** cisterne-cluster (primair); graf-cluster (overdrachtelijk); onderwereld-cluster; cult-onreinheids-cluster; bron-cluster.
@@ -11761,8 +11405,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H953a`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees bor. Akkadisch būru. Ugaritisch br. Arabisch biʾr. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -11860,8 +11502,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-w-sh (bet-vav-sjin). Holle-wortel met vav als zwakke middelste radicaal. Master rangschikt H954 als hoofd-werkwoord bosh beschaamd-zijn.
 
-**Etymologie:** Proto-Semitisch *b-w-sh. Cognaten: Aramees bahēth (cluster), Akkadisch bāshu (cluster zwakker), Ugaritisch bsh (cluster schande), Arabisch bahta via parallel zwak. De wortel is West-Semitisch met centrale schaamte-functie.
-
 **Basisbetekenis:** beschaamd-zijn-of-zich-schamen. Range: 1) sociaal-beschaamd (vast paar item 287 paar via H982 in baṭach-bosh-cluster Ps 22:6 — zij-vertrouwden-en-werden-niet-beschaamd), 2) cult-cluster bij YHWH-nooit-beschaamd-laten-worden (Ps 25:3), 3) profetisch-cluster (Jer 17:13 cluster), 4) overdrachtelijk-vertraagd-zijn (Exo 32:1 — sub-sense), 5) godheids-cluster (Joel 2:26-27 cluster met lo'-yevoshu).
 
 **Semantische velden:** schaamte-cluster (primair); cult-vertrouwens-cluster (Ps); profetisch-cluster; sociaal-cluster; godheids-bescherm-cluster.
@@ -11888,8 +11528,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H954`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees bahēth (cluster). Akkadisch bāshu via parallel. Ugaritisch bsh (cluster). Arabisch bahta via parallel zwak. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -11990,8 +11628,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-a-z. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *b-a-z. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'verachten'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (verachten); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -12018,8 +11654,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H959`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -12120,8 +11754,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-a-z. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *b-a-z. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'buit-nemen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (buit-nemen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -12148,8 +11780,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H962`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -12250,8 +11880,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-ch-r. Klassiek-Hebreeuws bachur. Aramees bechir-paar.
 
-**Etymologie:** Klassiek-Hebreeuws bachur (jongeman-gekozene), van bachar (kiezen H977). Stam-cognaat-paar met bachir (uitverkorene H972).
-
 **Basisbetekenis:** jongeman, gekozen-jonge-man. Master kiest concordant 'jongeman' voor alle voorkomens. Range: 1) cluster-bij-bachur-en-naʿar-paar (jongeman-en-knaap — item 76 paar via H5288, ~25x), 2) cluster-bij-bachur-en-betulah-paar (jongeman-en-maagd Pred 11:9 — item 1330 paar via H1330), 3) cluster-bij-bachur-en-zaqen-paar (jongeman-en-oudere — item 30 paar via H8141), 4) cluster-bij-Yah-bachur (Israel-Yah-uitverkoren-jeugd Hos 11:1 — item 60 paar via H3478), 5) cluster-bij-bachurei-Israel (jongelingen-Israel-leger 1Sa 24:3 — item 60 paar via H3478).
 
 **Semantische velden:** jongeman-cluster (primair); Yah-jongeman-cluster; zaqen-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -12278,8 +11906,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H970`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees bechir. Akkadisch bahuru-paar via cognaat. NT-LXX-bron G3495 neaniskos (~10x).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -12378,9 +12004,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √b-ch-r. Drie-radicaal werkwoordelijke wortel voor 'kiezen, verkiezen, uitzoeken'. Centraal-werkwoord met theologische lading: Yah's-verkiezing-van-volk-en-leiders.
-
-**Etymologie:** Proto-Semitisch *b-ch-r 'kiezen'. Cognaten: Aramees beʿar (kiezen — andere wortel), Akkadisch beheru (kiezen — directe cognaat), Ugaritisch bchr (kiezen), Fenicisch bchr (kiezen, in koninklijke-inscripties), Arabisch bahara (testen — semantische verschuiving).
+**Wortel:** √b-ch-r. Drie-radicaal werkwoordelijke wortel voor 'kiezen, verkiezen, uitzoeken'. Centraal-werkwoord met geestelijke lading: Yah's-verkiezing-van-volk-en-leiders.
 
 **Basisbetekenis:** kiezen, verkiezen, uitzoeken. Master kiest concordant 'kiezen' voor alle voorkomens. Range: 1) cluster-bij-Yah-kiest-Israel (yhwh bachar et-Yisrael = yhwh-koos-Israel — item 60 paar via H3478, ~30x), 2) cluster-bij-Yah-kiest-plaats (yhwh yivchar maqom = yhwh-zal-plaats-kiezen Deu 12 — item 38 paar via H4725, ~30x), 3) cluster-bij-Yah-kiest-koning (yhwh bachar be-X = yhwh-koos-X-tot-koning — item 4428 paar via H4428, ~10x), 4) cluster-bij-rechtvaardige-kiezen-leven (Deu 30:19 bachar ba-chayyim — item 39 paar via H2421), 5) cluster-bij-uitverkoren-knecht (bechiri = mijn-uitverkorene Jes 42:1 — item 5650 paar via H5647).
 
@@ -12408,8 +12032,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H977`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees beʿar (kiezen — andere wortel). Akkadisch beheru (kiezen — directe cognaat). Ugaritisch bchr (kiezen). Fenicisch bchr (kiezen). Arabisch bahara (testen — semantische verschuiving).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -12512,8 +12134,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-ṭ-ch (bet-tet-chet). Drie-radicaal werkwoordelijke wortel met sterke vertrouwens-functie. Master rangschikt H982 als hoofd-werkwoord baṭach vertrouwen.
 
-**Etymologie:** Proto-Semitisch *b-ṭ-ch. Cognaten: Aramees beṭach (cluster), Akkadisch via parallel zwakker, Ugaritisch bṭch (vertrouwen-cluster), Arabisch baṭaha via parallel. De wortel is West-Semitisch met centrale vertrouwens-functie in cult-cluster.
-
 **Basisbetekenis:** vertrouwen-of-zich-veilig-voelen-of-steunen-op. Range: 1) godheids-vertrouwen (vast in Ps-cluster, baṭach be-YHWH), 2) menselijk-vertrouwen-misplaatst (vast in profetisch-cluster, Jer 17:5 baṭach be-ʾadam vervloekt-de-mens-die-op-mens-vertrouwt), 3) zich-veilig-voelen-cluster (Gen 34:25 cluster), 4) steunen-op-iets (Jer 7:4 baṭach ʾel-divrey ha-sheqer), 5) overdrachtelijk-zelfvertrouwen.
 
 **Semantische velden:** vertrouwens-cluster (primair); godheids-vertrouwen-cluster (Ps); menselijk-misplaatst-vertrouwen-cluster (profetisch); cluster-zich-veilig-voelen; sapientiale-cluster.
@@ -12540,8 +12160,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H982`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees beṭach (cluster). Akkadisch via parallel. Ugaritisch bṭch (vertrouwen). Arabisch baṭaha (parallel zwakker). De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -12642,8 +12260,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-t-ch. Klassiek-Hebreeuws betach. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws betach (veiligheid), van batach (vertrouwen H982). Stam-cognaat-paar met mibtach (vertrouwen-zn H4009).
-
 **Basisbetekenis:** veiligheid, vertrouwens-staat. Master kiest concordant 'veiligheid' voor alle voorkomens. Range: 1) cluster-bij-betach-en-batach-paar (veiligheid-en-vertrouwen — item 982 paar via H982, ~25x), 2) cluster-bij-betach-en-shalom-paar (veiligheid-en-vrede — item 65 paar via H7965), 3) cluster-bij-betach-be-Yah (vertrouwen-in-Yah Ps 4:9 'in-betach-zal-ik-liggen' — item 23 paar via H3068, ~10x), 4) cluster-bij-betach-en-eretz (veiligheid-in-land Lev 25:18-19 — item 6 paar via H776), 5) cluster-bij-NT-LXX-paar G803 asphaleia (Luc 1:4, Hand 5:23).
 
 **Semantische velden:** vertrouwen-veiligheid-cluster (primair); Yah-vertrouwen-veiligheid-cluster; shalom-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -12670,8 +12286,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H983`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G803 asphaleia (~3x in NT).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -12772,8 +12386,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-ṭ-n. Drie-radicaal nominale wortel. Master rangschikt H990 als zelfstandig beten buik-baarmoeder.
 
-**Etymologie:** Proto-Semitisch *b-ṭ-n. Cognaten: Aramees biṭnah, Akkadisch baṭnu (cluster), Ugaritisch bṭn, Arabisch baṭn (buik-onveranderd).
-
 **Basisbetekenis:** buik of baarmoeder. Range: 1) anatomische-buik (vast paar item 134 paar via H1320 basar), 2) cluster-bij-baarmoeder (Gen 25:23 cluster), 3) cluster-bij-eersteling-cluster peri-beten — vrucht-van-de-buik (item 289 paar via H6529 peri), 4) cluster-bij-godheids-formering (Job 31:15 cluster), 5) overdrachtelijk-binnenste-cluster.
 
 **Semantische velden:** anatomisch-cluster (primair); baarmoeder-cluster; vrucht-van-buik-cluster; cluster-bij-godheids-formering; overdrachtelijk-binnenste-cluster.
@@ -12798,8 +12410,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H990`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees biṭnah. Akkadisch baṭnu. Ugaritisch bṭn. Arabisch baṭn (onveranderd). De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -12896,8 +12506,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-y-n. Drie-radicaal werkwoordelijke wortel voor 'verstaan, onderscheiden, inzien'. Hol-medeklinker (mediae-yod). Stam-cognaat-paar met binah (verstand H998).
 
-**Etymologie:** Proto-Semitisch *b-y-n 'verstaan, onderscheiden'. Cognaten: Aramees byan (verstaan), Akkadisch banu (waarnemen), Ugaritisch byn (verstaan), Fenicisch byn (verstaan, in koninklijke-inscripties), Arabisch baana (verklaren — semantische uitbreiding).
-
 **Basisbetekenis:** verstaan, onderscheiden, inzien. Master kiest concordant 'verstaan' voor alle voorkomens. Range: 1) cluster-bij-mentaal-onderscheiden (bin bein-X u-vein-X = onderscheiden-tussen-X-en-X — item 38 paar via H4941, ~30x), 2) cluster-bij-Yah-doet-verstaan (Hiphil heviyn = doen-verstaan — item 23 paar via H3068, ~30x), 3) cluster-bij-wijze-en-verstandige (chakham u-mevin = wijs-en-verstandig — item 35 paar via H2451), 4) cluster-bij-verstand-uit-Yah (binah me-yhwh = verstand-uit-yhwh — item 23 paar via H3068), 5) cluster-bij-mevin (verstandige-leerling als titulair — item 1245 paar via H1245).
 
 **Semantische velden:** mentaal-onderscheiden-cluster (primair); Yah-doet-verstaan-cluster; wijze-en-verstandige-cluster; verstand-uit-Yah-cluster; mevin-leerling-cluster.
@@ -12924,8 +12532,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H995`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees byan (verstaan — direct cognaat). Akkadisch banu (waarnemen — directe cognaat). Ugaritisch byn (verstaan). Fenicisch byn (verstaan). Arabisch baana (verklaren — semantische uitbreiding).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -13028,8 +12634,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-n-h. Drie-radicaal werkwoordelijke wortel voor 'bouwen' (H1129) — bayit is afgeleid zn voor 'gebouwd-iets, huis'. Stam-cognaat-paar met ben (zoon, H1121a) als 'die-het-huis-bouwt'.
 
-**Etymologie:** Proto-Semitisch *b-y-t 'huis, woning'. Cognaten: Aramees beyt (huis), Akkadisch bitu (huis), Ugaritisch bt (huis), Fenicisch bt (huis, in koninklijke-inscripties), Arabisch bayt (huis).
-
 **Basisbetekenis:** huis, woning, gezin, dynastie. Master kiest concordant 'huis' voor alle voorkomens. Range: 1) cluster-bij-fysiek-gebouw (bayit als woning — item 12 paar dominant zelf), 2) cluster-bij-tempel (beyt-yhwh = huis-van-yhwh — item 23 paar via H3068, ~270x), 3) cluster-bij-dynastie (beyt-David — item 1732 paar via H1732), 4) cluster-bij-gezin (beyt-av = vaders-huis — item 1 paar via H1, ~600x), 5) cluster-bij-Israel-huis (beyt-Yisrael — item 60 paar via H3478, ~145x).
 
 **Semantische velden:** fysiek-gebouw-cluster (primair); tempel-cluster (beyt-yhwh); dynastie-cluster (beyt-David); gezin-cluster (beyt-av); Israel-huis-cluster.
@@ -13056,8 +12660,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1004b`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees beyt (huis — direct cognaat). Akkadisch bitu (huis, ook tempel — semantische uitbreiding parallel). Ugaritisch bt (huis, in mythologische teksten als godheids-residentie bt-bʿl 'huis-van-Baal'). Fenicisch bt (huis, in koninklijke-inscripties). Arabisch bayt (huis, ook poëtische versregel — semantische uitbreiding).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -13161,8 +12763,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** Identieke wortel als H1008+ (Beth-El). Master rangschikt H1008 als parallelvorm.
 
-**Etymologie:** Zie H1008+.
-
 **Basisbetekenis:** plaats-naam Beth-El parallel-vorm. Range: zelfde als H1008+.
 
 **Semantische velden:** plaats-naam-cluster (primair); zelfde clusters als H1008+.
@@ -13193,8 +12793,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1008`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Zie H1008+.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -13295,8 +12893,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-y-t + ʾ-l. Samengestelde-vorm van H1004 bayith (huis) en H410 ʾel (godheid). Master rangschikt H1008+ als eigennaam Beth-El.
 
-**Etymologie:** Proto-Semitisch samenstelling van *b-y-t + *ʾ-l. Cognaten: Aramees Beth-El, Ugaritisch bt-il (cult-locatie), Fenicisch bytʾl (cult-cluster).
-
 **Basisbetekenis:** plaats-naam Beth-El (huis-van-El). Range: 1) cluster-bij-Jakob-cluster (Gen 28 — Jakobs-droom-en-Beth-El-naamgeving), 2) cluster-bij-koninklijk-cult (1Kg 12 — Jerobeam cluster), 3) cluster-bij-cult-stenen-pijler (item 4676 cluster met matstsevah), 4) cluster-bij-Hosea-veroordeling (Hos 4:15 Beth-ʾaven-cluster, item 397 paar via H205), 5) cluster-bij-noord-rijk-cult.
 
 **Semantische velden:** plaats-naam-cluster (primair); cult-locatie-cluster; patriarchaal-cluster (Jakob); koninklijk-cluster; profetisch-veroordeel-cluster.
@@ -13327,8 +12923,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1008+`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees Beth-El (Targumim). Ugaritisch bt-il. Fenicisch bytʾl. De plaatsnaam is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -13429,8 +13023,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-y-t-l-ch-m. Eigennaam Beit-Lechem. Samenstellings-naam.
 
-**Etymologie:** Eigennaam Beit-Lechem ('huis-van-brood'), samenstelling bayit (huis H1004b) + lechem (brood H3899). Geboorteplaats David en Yeshua.
-
 **Basisbetekenis:** Beth-Lechem (eigennaam-stad). Master kiest concordant 'Beth-Lechem' voor alle voorkomens. Range: 1) cluster-bij-Beth-Lechem-en-David-paar (Beth-Lechem-stad-van-David — item 1732 paar via H1732, ~25x), 2) cluster-bij-Beth-Lechem-en-bayit-paar (samenstellings-paar — item 12 paar via H1004), 3) cluster-bij-Mi-5-2-Beth-Lechem-Christus-belofte (Mi 5:1 'uit-jou-zal-uitgaan-die-zal-heersen' — item 5547 paar-via-NT G5547), 4) cluster-bij-NT-Mat-2-1-Christus-geboorte (Mat 2:1 'Iesous in Bēthleem'), 5) cluster-bij-Ruth-Beth-Lechem (Ruth 1:1 — item 7327 paar via H7327).
 
 **Semantische velden:** eigennaam-stad-cluster (primair); Yah-eigennaam-stad-cluster; lechem-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -13457,8 +13049,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1035`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Hebreeuws-cognaat-cluster. NT-LXX-bron G965 Bēthleem. Mat 2:1-6 LXX-Mi 5:1 christologisch-vervulling.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -13556,8 +13146,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-y-t-l-ch-m. Variant Beit-Lechem-uitgebreid.
 
-**Etymologie:** Beth-Lechem-uitgebreide-vorm (variant van H1035). Zelfde-eigennaam-Beit-Lechem.
-
 **Basisbetekenis:** Beth-Lechem-uitgebreid. Master kiest concordant 'Beth-Lechem' voor alle voorkomens. Range: 1) cluster-bij-Beth-Lechem-en-Yehudah (Beth-Lechem-Juda Ri 17:7 — item 35 paar via H3063, ~25x), 2) cluster-bij-Beth-Lechem-en-Ruth (Ruth-Naomi-Beth-Lechem-cluster — item 7327 paar via H7327), 3) cluster-bij-Beth-Lechem-Mi-5-2 (eschatologische-belofte — item 5547 paar-via-NT G5547), 4) cluster-bij-Beth-Lechem-en-NT-Christus (Mat 2 — item 2424 paar via G2424), 5) cluster-bij-Beth-Lechem-stad-Davids (item 1732 paar via H1732).
 
 **Semantische velden:** eigennaam-stad-cluster (primair); Yah-eigennaam-stad-cluster; lechem-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -13584,8 +13172,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1035+`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Hebreeuws-cognaat-cluster. NT-LXX-bron G965.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -13683,8 +13269,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-k-h (bet-kaf-he). Drie-radicaal werkwoordelijke wortel met he als zwakke derde radicaal. Master rangschikt H1058 als hoofd-werkwoord bakhah huilen.
 
-**Etymologie:** Proto-Semitisch *b-k-y. Cognaten: Aramees bekha (huilen-cluster), Akkadisch bakû (huilen), Ugaritisch bky (huilen-cluster), Arabisch baka (huilen — onveranderd). De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** huilen-of-wenen-of-rouwen-met-tranen. Range: 1) rouw-na-overlijden (vast bij begrafenis-cluster, item 265 paar via H6912 qavar in cluster), 2) klagen-bij-onheils-cluster (vast in profetisch-corpus, Jer 9:1 yittenu roshi mayim), 3) berouw-en-bidden (vast bij Ps-cluster), 4) klacht-bij-cult (Joel 1:5 bakhu shikkorim — huilt-dronkaards-cluster), 5) overdrachtelijk-emotie-cluster.
 
 **Semantische velden:** rouw-cluster (primair); klacht-cluster (profetisch); berouw-cluster (Ps); cult-klacht-cluster; emotionele-cluster.
@@ -13711,8 +13295,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1058`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees bekha (huilen). Akkadisch bakû (huilen). Ugaritisch bky (huilen). Arabisch baka (huilen — onveranderd). De wortel is breed-stabiel.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -13812,8 +13394,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-k-r (bet-kaf-resh). Drie-radicaal werkwoordelijke en nominale wortel met sterke eerstgeboren-functie. Master rangschikt H1060 als zelfstandig bekor eerstgeborene.
 
-**Etymologie:** Proto-Semitisch *b-k-r. Cognaten: Aramees bukhra (eerstgeborene), Akkadisch bukru (zoon-eerstgeboren), Ugaritisch bkr (eerstgeborene-cluster), Fenicisch bkr (cult-en-koninklijk-cluster), Arabisch bikr (eerstgeborene — onveranderd). De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** eerstgeboren-zoon of eerstelings-vrucht. Range: 1) eerstgeboren-zoon-mens (vast paar Gen 25:31, met-bekorah-cluster — eerstgeboorterecht), 2) cult-eerstgeboren-cluster (vast in Pent — Exo 13:2 qaddesh kol-bekor), 3) eerstgeboren-vee (vast cult-cluster Lev 27:26), 4) eerstgeboorterecht-juridisch (Deu 21:17 mishpaṭ ha-bekorah, item 78 paar via H4941), 5) overdrachtelijk-eerste-rangs-cluster (Job 18:13 mavet-bekor).
 
 **Semantische velden:** eerstgeboren-cluster (primair); cult-eerstelings-cluster (Pent); juridisch-eerstgeboorterecht-cluster (Deu); patriarchaal-cluster; overdrachtelijk-eerste-rangs-cluster.
@@ -13840,8 +13420,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1060`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees bukhra (eerstgeborene — Targumim). Akkadisch bukru (zoon-eerstgeboren). Ugaritisch bkr (eerstgeborene). Fenicisch bkr (cult-en-koninklijk). Arabisch bikr (eerstgeborene — onveranderd). De wortel is breed-stabiel.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -13943,8 +13521,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-k-h. Klassiek-Hebreeuws bechi. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws bechi (geween, weeklacht), van bakah (wenen H1058). Stam-cognaat-paar met klaag-en-rouw-vocabulair; Rachel-bechi-Jeremia-Mat-2-18.
-
 **Basisbetekenis:** geween. Master kiest concordant 'geween' voor alle voorkomens. Range: 1) cluster-bij-bechi-en-bakah-paar (geween-en-wenen — item 1058 paar via H1058, ~25x), 2) cluster-bij-bechi-en-misped-paar (geween-en-rouwklacht — item 4553 paar via H4553), 3) cluster-bij-Rachel-bechi-Rama-Jer-31-15 ('qol-be-Ramah-nishmaʿ... Rachel-mevakah-ʿal-baneha' — item 7354 paar via H7354, ~5x), 4) cluster-bij-Petrus-Christus-verloochening-bechi (Mat 26:75 'eklausen pikrōs' parallel-OT-bechi-typologie — item 5547 paar-via-NT G5547), 5) cluster-bij-NT-LXX-paar G2805 klauthmos (~9x in NT, Mat 2:18 LXX-Jer-31-15-citaat-Rachel-Bethlehem-kindermoord-typologie).
 
 **Semantische velden:** emotie-cluster (primair); Yah-emotie-cluster; misped-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -13971,8 +13547,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1065`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G2805 klauthmos. Mat 2:18 Rachel-Rama-bechi-Jeremia-citaat-Bethlehem-kindermoord.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -14070,8 +13644,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-l-y. Klassiek-Hebreeuws beliyaʿal. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws beliyaʿal (verderfelijk, onnut), van bli (zonder)-derivaat. Stam-cognaat-paar met kwaad-en-tegenstander-vocabulair.
-
 **Basisbetekenis:** verderfelijk, onnut. Master kiest concordant 'verderfelijk' voor alle voorkomens. Range: 1) cluster-bij-beliyaʿal-en-raʿ-paar (verderfelijk-en-kwaad — item 63 paar via H7451a, ~25x), 2) cluster-bij-bnei-beliyaʿal (zonen-van-beliyaʿal Deu 13:14, Ri 19:22 — item 1121 paar via H1121a, ~15x), 3) cluster-bij-beliyaʿal-en-shachat-paar (verderfelijk-en-verderven — item 89 paar via H3772), 4) cluster-bij-beliyaʿal-en-cult-veroordeling (item 23 paar via H3068), 5) cluster-bij-NT-LXX-paar G955 Belial (1Co 6:15 enige-NT-voorkomen).
 
 **Semantische velden:** verderfelijk-cluster (primair); Yah-verderfelijk-cluster; shachat-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -14098,8 +13670,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1100`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G955 Belial. 2Co 6:15 'tis sumphōnēsis Christou pros Belial?'.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -14195,8 +13765,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-l-ʿ. Drie-radicaal werkwoordelijke wortel.
 
-**Etymologie:** Proto-Semitisch *b-l-ʿ. Cognaten: Aramees belaʿ, Akkadisch balāʿu via parallel, Ugaritisch blʿ, Arabisch balaʿa (cluster).
-
 **Basisbetekenis:** verslinden of inslokken. Range: 1) cluster-bij-cluster-bij-aarde-spleet-cluster (Num 16:30-32 — Korach-cluster), 2) cluster-bij-zee-cluster (Exo 15:12), 3) cluster-bij-godheids-vernietigen (Isa 25:8 — beklat-mavet la-netsach), 4) cluster-bij-cluster-bij-overdrachtelijk-cluster, 5) cluster-bij-cult-cluster.
 
 **Semantische velden:** verslindings-cluster (primair); Korach-cluster; godheids-vernietigings-cluster; profetisch-cluster (Isa); cluster-bij-cluster.
@@ -14223,8 +13791,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1104`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees belaʿ. Akkadisch balāʿu. Ugaritisch blʿ. Arabisch balaʿa. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -14326,8 +13892,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** Eigennaam Bilʿam. Master rangschikt H1109a als persoonsnaam.
 
-**Etymologie:** Hebreeuws-eigen, mogelijk uit b-l-ʿ (verslinden) en ʿam (volk).
-
 **Basisbetekenis:** plaats- en persoonsnaam Bileam-de-ziener. Range: 1) cluster-bij-Num 22-24 (vast paar item 4124 cluster met H4124 moav), 2) cluster-bij-vloek-cluster (item 779 paar via H779 ʾarar), 3) cluster-bij-zegen-cluster (item 1288 paar via H1288 barakh), 4) cluster-bij-profetisch-cluster (item 168 paar via H5030 navi), 5) cluster-bij-Bileam-en-ezel-cluster (item 342 paar via H2543 chamor).
 
 **Semantische velden:** persoonsnaam-cluster (primair); cult-tegen-cluster (zegen-en-vloek); profetisch-cluster (Pethor); Moab-cluster; ezel-cluster.
@@ -14356,8 +13920,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1109a`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Hebreeuws-eigen, mogelijk samengesteld.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -14445,8 +14007,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-m-h (bet-mem-he). Drie-radicaal nominale wortel met he als zwakke derde radicaal. Master rangschikt H1116 als zelfstandig bamah hoogte-cult-hoogte.
 
-**Etymologie:** Proto-Semitisch *b-m-h. Cognaten: Aramees bamta (cluster), Akkadisch bāmtu (cluster), Ugaritisch bmt (rug-cluster), Fenicisch bmt (cult-hoogte). De wortel verbindt verheffing-en-cult-locatie.
-
 **Basisbetekenis:** verhoogde-plaats of cult-hoogte. Range: 1) cult-hoogte-afgods-cluster (vast in profetisch-corpus, dominant negatief — Num 33:52 bamotam), 2) berg-rug-of-hoogte (item 165 paar via H4150 in geografische-cluster), 3) cluster-bij-Salomo-en-koningen-cult-hoogten, 4) overdrachtelijk-cult-tegen-cluster (Lev 26:30 cluster), 5) cult-locatie-binnen-of-buiten-stad.
 
 **Semantische velden:** cult-hoogte-cluster (primair, dominant negatief); geografisch-hoogte-cluster; afgods-cult-locatie-cluster; profetisch-veroordeel-cluster; cluster-bij-koninklijk-cult-tegen.
@@ -14473,8 +14033,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1116`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees bamta (cluster). Akkadisch bāmtu (cluster). Ugaritisch bmt. Fenicisch bmt (cult-hoogte). De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -14575,8 +14133,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-n-h (bouwen — H1129) + √b-n (zoon-stam). Ben is een primair zelfstandig naamwoord met semantische verbinding tot bouwen; zoon = degene-die-het-huis-bouwt of degene-via-wie-het-huis-doorgebouwd-wordt. Tweecletter-stam in oudste laag.
 
-**Etymologie:** Proto-Semitisch *bn 'zoon, nakomeling'. Cognaten: Aramees bar (zoon, klankverandering n→r), Akkadisch binu (zoon), Ugaritisch bn (zoon, frequent in geslachtslijsten), Fenicisch bn (zoon — patroniem-formule), Arabisch ibn (zoon).
-
 **Basisbetekenis:** zoon, nakomeling, telg. Master kiest concordant 'zoon' voor alle voorkomens. Range: 1) cluster-bij-genealogie-cluster (ben-X als patroniem — item 1121 paar dominant via H1 av), 2) cluster-bij-natie-aanduiding (bnei-Yisrael — item 60 paar via H3478), 3) cluster-bij-leeftijds-aanduiding (ben-X-shanah — item 30 paar via H8141 shanah), 4) cluster-bij-eigenschap-aanduiding (ben-chayil 'krachtige zoon' — item 58 paar via H2428), 5) cluster-bij-Yah-zoon-cluster (Israel als zoon van Yah — item 23 paar via H3068).
 
 **Semantische velden:** genealogie-cluster (primair); natie-aanduiding-cluster (bnei-X); leeftijds-aanduiding-cluster; eigenschap-aanduiding-cluster (ben-chayil etc); Yah-zoon-cluster.
@@ -14607,8 +14163,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1121a`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees bar (zoon — Hebreeuws-bn → Aramees-br door /n/-spirantisering, parallel aan barnaš 'mensenzoon' in Aramees). Akkadisch binu (zoon, frequent in patroniemen). Ugaritisch bn (zoon, in mythologische teksten als bn ʾil 'zoon-van-El'). Fenicisch bn (vast in koninklijke-inscripties als 'bn-X' patroniem). Arabisch ibn (zoon, productief in eigennamen via Ibn-X).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -14712,8 +14266,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-n-h. Drie-radicaal werkwoordelijke wortel.
 
-**Etymologie:** Proto-Semitisch *b-n. Cognaten: Aramees bena, Akkadisch banū, Ugaritisch bn, Fenicisch bn, Arabisch banā.
-
 **Basisbetekenis:** bouwen of opbouwen of voortbrengen. Range: 1) cluster-bij-cult-altaar-bouw-cluster (vast paar item 125 paar via H4196 mizbeach in zelfde batch in bana-mizbeach-formule), 2) cluster-bij-stad-bouw-cluster (vast paar item 43 paar via H5892b ʿir in cluster), 3) cluster-bij-tempel-bouw-cluster (1Kg 6 — Salomo bouwt-tempel), 4) cluster-bij-cluster-bij-vrouw-bouw-cluster (Gen 16:2 — ʾivvane mimennah), 5) cluster-bij-cluster-bij-natie-bouw-cluster (Jer 18:9 — bana le-natiyoth).
 
 **Semantische velden:** bouw-cluster (primair); cult-altaar-bouw-cluster; stad-bouw-cluster; tempel-bouw-cluster; cluster-bij-overdrachtelijk-cluster.
@@ -14738,6 +14290,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 | Geschriften | 149 |
 
 **Volledi
+
 
 ---
 
@@ -14771,8 +14324,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-ʿ-l. Drie-radicaal werkwoordelijke en nominale wortel. Master rangschikt H1167 als zelfstandig baʿal heer-bezitter.
 
-**Etymologie:** Proto-Semitisch *b-ʿ-l. Cognaten: Aramees baʿal (heer-bezitter), Akkadisch bēlu (heer), Ugaritisch bʿl (Baal-godheid en heer), Fenicisch bʿl (cult-en-koninklijk), Arabisch baʿl (heer-onveranderd).
-
 **Basisbetekenis:** heer of bezitter of echtgenoot. Range: 1) cluster-bij-bezitter-of-eigenaar (Exo 21:28 cluster), 2) cluster-bij-echtgenoot (Hos 2:18 ki-tiqr'i ʾishi we-lo'-tiqr'i ʿod baʿli), 3) cluster-bij-Baal-afgodscluster (vast paar item 116 paar via H1116 in bamoth-baʿal-cluster), 4) cluster-bij-stadsheer-cluster, 5) cluster-bij-bonds-genoot.
 
 **Semantische velden:** bezit-cluster (primair); huwelijks-cluster (echtgenoot); afgods-cluster (Baal); cult-tegen-cluster; sociaal-cluster.
@@ -14799,8 +14350,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1167`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees baʿal. Akkadisch bēlu (heer). Ugaritisch bʿl (Baal). Fenicisch bʿl. Arabisch baʿl (onveranderd). De wortel is breed-stabiel.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -14902,8 +14451,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-ʿ-r. Drie-radicaal werkwoordelijke wortel met sterke brand-functie. Master rangschikt H1197a als hoofd-werkwoord baʿar branden.
 
-**Etymologie:** Proto-Semitisch *b-ʿ-r. Cognaten: Aramees beʿar (cluster), Akkadisch buʾāru via parallel, Ugaritisch bʿr, Arabisch via parallel.
-
 **Basisbetekenis:** branden-of-doen-branden of weiden. Range: 1) cult-vuur-branden (vast paar item 145 paar via H784 ʾesh in vuur-en-baʿar-cluster), 2) cluster-bij-godheids-toorn-branden (vast paar item 369 paar zelfde batch via H2734), 3) cluster-bij-uitroeien (Deu 13:6 baʿarta ha-raʿ), 4) cluster-bij-vee-laten-grazen (sub-sense — Exo 22:4), 5) cluster-bij-vlam.
 
 **Semantische velden:** vuur-cluster (primair); cult-vuur-cluster; godheids-toorn-cluster; uitroeings-cluster (kwaad uitbranden); weide-cluster (sub-sense).
@@ -14934,8 +14481,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1197a`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees beʿar. Akkadisch buʾāru via parallel. Ugaritisch bʿr. Arabisch via parallel. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -15036,8 +14581,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-a-t. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *b-a-t. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'afsnijden-versterken'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (afsnijden-versterken); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -15062,8 +14605,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1219`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -15160,8 +14701,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-q-ʿ. Drie-radicaal werkwoordelijke wortel.
 
-**Etymologie:** Proto-Semitisch *b-q-ʿ. Cognaten: Aramees beqaʿ, Akkadisch baqāʿu via parallel, Ugaritisch bqʿ, Arabisch baqaʿa (cluster).
-
 **Basisbetekenis:** splijten-of-doorbreken. Range: 1) cluster-bij-zee-splijten-cluster (vast paar item 116 paar via H3220 yam — Exo 14:21 — Schelfzee-splijten), 2) cluster-bij-rots-en-water-cluster (Ps 78:15 — rots-splijten-water), 3) cluster-bij-stad-doorbreken-cluster (oorlog), 4) cluster-bij-cluster-bij-baar-pijn-baren (Pred 11:5), 5) cluster-bij-overdrachtelijk-cluster.
 
 **Semantische velden:** splij-cluster (primair); cult-zee-splijting-cluster (uittocht); rots-en-water-cluster; militair-cluster; profetisch-cluster.
@@ -15188,8 +14727,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1234`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees beqaʿ. Akkadisch baqāʿu. Ugaritisch bqʿ. Arabisch baqaʿa. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -15291,8 +14828,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-q-r (bet-qof-resh). Drie-radicaal sterke wortel met dubbele-pool: nominaal baqar (rundvee) en werkwoordelijk biqqer (onderzoeken-controleren). Master rangschikt H1241 als zelfstandig rundvee.
 
-**Etymologie:** Proto-Semitisch *b-q-r. Cognaten: Aramees beʿir (vee — andere stam-cluster), Akkadisch baqāru via parallel, Ugaritisch bqr (rundvee in administratief), Arabisch baqar (runderen — onveranderd), Fenicisch bqr (vee in tempelinventarissen). De wortel is West-Semitisch breed met stabiele zoölogische functie voor rundvee.
-
 **Basisbetekenis:** groot-vee-rundvee (in tegenstelling tot tson kleinvee). Range: 1) rundvee als bezit (Gen 12:16 patriarchale-rijkdom-cluster), 2) cult-offer-vee (vast in Lev-Num-cluster — par-ben-baqar-formule rundoffer), 3) ploeg-en-arbeids-vee (Deu 22:10, item 219 zelfde batch H4399 paar via arbeids-cluster), 4) maaltijds-cluster (vlees-cluster), 5) collectief-naam (be-baqar-formule). Bezits-en-cult-sub-senses zijn dominant.
 
 **Semantische velden:** vee-bezit-cluster (primair); cult-offer-cluster (rundoffer); arbeids-en-ploeg-cluster; maaltijds-en-vlees-cluster; rijkdoms-cluster (patriarchaal).
@@ -15320,8 +14855,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## E. Cognaten en LXX-koppeling (anker 4)
 
-**Cognaten in zustertalen:** Aramees beʿir (vee — andere stam-formatie). Akkadisch via parallel. Ugaritisch bqr (rundvee in administratief corpus). Arabisch baqar (rundvee — onveranderd). Fenicisch bqr (cult-vee). De wortel is breed-stabiel zoölogisch.
-
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
 | Grieks | Co-voorkomens | Co-score | Lift |
@@ -15348,7 +14881,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Verwante semantische velden:**
 
-Cluster I — wortel-cluster: H1242 boqer (morgen — item 167 paar via etymologische verband), H1243 baqqarah (kudde-zn), H1241 zelf, H1239 baqar (onderzoeken-piel andere-stamfamilie via parallel).
+Cluster I — wortel-cluster: H1242 boqer (morgen — item 167 paar via wortelverband), H1243 baqqarah (kudde-zn), H1241 zelf, H1239 baqar (onderzoeken-piel andere-stamfamilie via parallel).
 
 Cluster II — vee-en-kudde-cluster: H6629 tson (kleinvee — item kan parallel via cluster), H929 behemah (vee-algemeen — item 195 zelfde batch), H7716 seh (kleinvee-individueel), H6499 par (stier-individueel), H5739 ʿeder (kudde-cluster).
 
@@ -15421,8 +14954,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-q-r. Drie-radicaal werkwoordelijke wortel voor 'splijten, openen, scheiden' → 'morgen-zijn-tijd-van-splijting-licht-en-donker'. Boqer is afgeleid zn voor 'morgen, dageraad, ochtend'. Stam-cognaat-paar met biqqer (onderzoeken H1239) als ander-semantisch-veld.
 
-**Etymologie:** Proto-Semitisch *b-q-r 'splijten' → 'morgen'. Cognaten: Aramees boqer (morgen), Akkadisch beqru (morgen), Ugaritisch bqr (morgen), Fenicisch bqr (morgen), Arabisch bukrah (morgen-vroeg).
-
 **Basisbetekenis:** morgen, dageraad, ochtend. Master kiest concordant 'morgen' voor alle voorkomens. Range: 1) cluster-bij-erev-en-boqer (avond-en-morgen-paar — item 169 paar dominant zelf), 2) cluster-bij-scheppings-dag (va-yhi ʿerev va-yhi boqer = en-er-werd-avond-en-er-werd-morgen Gen 1 — item 1961 paar via H1961), 3) cluster-bij-cult-offer-tijd (ba-boqer = in-de-morgen als cult-tijd — item 92 paar via H5930 in dagelijks-offer), 4) cluster-bij-Yah-luistert-morgen (ba-boqer ʾeshma qolecha = in-de-morgen-zal-ik-jouw-stem-horen — item 23 paar via H3068 in psalm-context), 5) cluster-bij-vroeg-opstaan (hashkim ba-boqer = vroeg-opstaan-in-morgen — item 6965 paar via H6965 in patriarchen-formule).
 
 **Semantische velden:** erev-en-boqer-cluster (primair); scheppings-dag-cluster; cult-offer-tijd-cluster; Yah-luistert-cluster; vroeg-opstaan-cluster.
@@ -15449,8 +14980,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1242`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees boqer (morgen — direct cognaat). Akkadisch beqru (morgen — directe cognaat). Ugaritisch bqr (morgen). Fenicisch bqr (morgen). Arabisch bukrah (morgen-vroeg — direct cognaat).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -15552,8 +15081,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-q-sh. Drie-radicaal werkwoordelijke wortel voor 'zoeken, verlangen, opzoeken'. Centraal-werkwoord met semantische gelaagdheid: fysiek-zoeken → mentaal-zoeken-met-verlangen → ethisch-streven-naar.
 
-**Etymologie:** Proto-Semitisch *b-q-sh 'zoeken'. Cognaten: Aramees beʿa (zoeken — andere wortel), Akkadisch bashû (zoeken — directe cognaat), Ugaritisch bqsh (zoeken), Fenicisch bqsh (zoeken, in koninklijke-inscripties), Arabisch baqasha (uitvragen).
-
 **Basisbetekenis:** zoeken, verlangen, opzoeken. Master kiest concordant 'zoeken' voor alle voorkomens. Range: 1) cluster-bij-Yah-zoeken (biqqesh et-yhwh = yhwh-zoeken — item 23 paar via H3068, ~80x), 2) cluster-bij-aangezicht-zoeken (biqqesh panim = aangezicht-zoeken — item 6440 paar via H6440, ~25x), 3) cluster-bij-leven-zoeken (biqqesh nefesh = leven-zoeken-vijandig = trachten-naar-leven — item 19 paar via H5315), 4) cluster-bij-Yah-eist (yhwh yevaqqesh = yhwh-zal-onderzoeken-eisen — item 23 paar via H3068 in profetische-context), 5) cluster-bij-bemiddelaar-zoeken (biqqesh bein-X u-vein-X = tussen-X-en-X-bemiddelen).
 
 **Semantische velden:** Yah-zoeken-cluster (primair); aangezicht-zoeken-cluster; leven-zoeken-cluster; Yah-eist-cluster; bemiddelings-cluster.
@@ -15580,8 +15107,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1245`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees beʿa (zoeken — andere wortel). Akkadisch bashû (zoeken — directe cognaat). Ugaritisch bqsh (zoeken, in mythologische teksten). Fenicisch bqsh (zoeken, in koninklijke-inscripties). Arabisch baqasha (uitvragen — semantische verschuiving naar verbaal-onderzoek).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -15683,8 +15208,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-r-ʾ. Drie-radicaal werkwoordelijke wortel.
 
-**Etymologie:** Proto-Semitisch *b-r-ʾ. Cognaten: Aramees bera, Akkadisch banû via parallel, Ugaritisch brʾ, Arabisch baraʾa (cluster).
-
 **Basisbetekenis:** scheppen of voortbrengen. Range: 1) cluster-bij-schepping-cluster (vast paar Gen 1:1 — bereshit bara ʾelohim, item 4 paar via H4 ʾelohim), 2) cluster-bij-godheids-uniek-attribuut-cluster (alleen YHWH bara), 3) cluster-bij-mens-en-cluster-bij-vlees, 4) cluster-bij-overdrachtelijk-cluster (Isa 65:17 nieuw-hemel-en-aarde), 5) cluster-bij-cult-cluster.
 
 **Semantische velden:** schepping-cluster (primair); godheids-attribuut-cluster (alleen-YHWH); cult-en-tabernakel-cluster; profetisch-nieuw-cluster (Isa 65); Gen-1-cluster.
@@ -15715,8 +15238,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1254a`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees bera. Akkadisch banû. Ugaritisch brʾ. Arabisch baraʾa. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -15815,8 +15336,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-r-d. Klassiek-Hebreeuws barad. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws barad (hagel), Hebreeuws-stam. Stam-cognaat-paar met natuur-en-Egypte-plaag-vocabulair.
-
 **Basisbetekenis:** hagel. Master kiest concordant 'hagel' voor alle voorkomens. Range: 1) cluster-bij-barad-en-Egypte-plaag (Exo 9:18-26 zevende-plaag — item 4714 paar via H4714, ~25x), 2) cluster-bij-barad-en-matar-paar (hagel-en-regen — item 4306 paar via H4306), 3) cluster-bij-Yah-barad-eschatologisch (Joz 10:11 'Yah-grote-stenen-uit-hemel-bij-Beth-Horon' — item 23 paar via H3068, ~10x), 4) cluster-bij-Op-cluster-NT-LXX-paar (item 5464 paar-via G5464), 5) cluster-bij-barad-en-shamayim (item 28 paar via H8064).
 
 **Semantische velden:** natuur-cluster (primair); Yah-natuur-cluster; mater-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -15843,8 +15362,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1259`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G5464 chalaza (~4x in NT, Op 8:7, 11:19, 16:21 zevenden-bekers-en-bazuinen-eschatologisch).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -15936,8 +15453,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-r-z-l. Wortel met vier-radicaal-cluster, mogelijk leen. Master rangschikt H1270 als zelfstandig barzel ijzer.
 
-**Etymologie:** Proto-Semitisch *p-r-z-l. Cognaten: Aramees parzel (ijzer), Akkadisch parzillu (ijzer — vroege ijzer-tijd), Ugaritisch brzl (cluster), Arabisch firzil (cluster). De wortel is wijd verspreid in het Oude-Nabije-Oosten via metaal-handel.
-
 **Basisbetekenis:** ijzer als grondstof of bewerkt-ijzer. Range: 1) cluster-bij-ijzer-werktuig (vast paar item 254 paar via H5178a nechosheth in metaal-cluster), 2) cluster-bij-cult-tegen (vast in profetisch-corpus — Eze 22:18), 3) cluster-bij-ijzer-strijdwagen (Joz 17:16, item 292 paar via H7393 rekev), 4) overdrachtelijk-hard (Lev 26:19 — barzel-shamayim cluster), 5) cluster-bij-juk (Deu 28:48).
 
 **Semantische velden:** metaal-cluster (primair); militair-cluster (ijzeren-strijdwagen); juridisch-cluster (juk); overdrachtelijk-hardheid-cluster; cluster-bij-cult-tegen.
@@ -15962,8 +15477,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1270`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees parzel (Targumim, Daniel-cluster). Akkadisch parzillu (administratief en militair). Ugaritisch brzl. Arabisch firzil. De wortel is breed-stabiel via metaal-handel.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -16061,8 +15574,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-r-ch. Drie-radicaal werkwoordelijke wortel.
 
-**Etymologie:** Proto-Semitisch *b-r-ch. Cognaten: Aramees berach, Akkadisch barāḫu via parallel, Ugaritisch brch, Arabisch baraha (cluster).
-
 **Basisbetekenis:** vluchten of zich-uitsluipen. Range: 1) cluster-bij-vlucht-cluster (vast paar item 225 paar via H5127 nus in vlucht-en-vluchts-cluster), 2) cluster-bij-Jakob-Esau-cluster (Gen 27:43 cluster), 3) cluster-bij-Mozes-vlucht-Egypte (Exo 2:15 cluster), 4) cluster-bij-strijd-vlucht, 5) overdrachtelijk-cluster.
 
 **Semantische velden:** vlucht-cluster (primair); Jakob-cluster; Mozes-cluster (Egypte); militair-cluster; cluster-bij-toevlucht.
@@ -16089,8 +15600,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1272`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees berach. Akkadisch barāḫu. Ugaritisch brch. Arabisch baraha. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -16192,8 +15701,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-r-ch. Klassiek-Hebreeuws beriach. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws beriach (grendel-balk), van baruach-stam. Stam-cognaat-paar met poort-en-deur-vocabulair.
-
 **Basisbetekenis:** grendel-balk. Master kiest concordant 'grendel' voor alle voorkomens. Range: 1) cluster-bij-beriach-en-shaʿar-paar (grendel-en-poort — item 80 paar via H8179, ~25x), 2) cluster-bij-beriach-en-delet-paar (grendel-en-deur — item 1817 paar via H1817), 3) cluster-bij-beriach-Jeruzalem-cult (Neh 7:3 'sluiten-met-grendel' — item 23 paar via H3068), 4) cluster-bij-beriach-en-cult-tabernakel (Exo 26:26-29 'beriach-balken-tabernakel' — item 255 paar via H4908), 5) cluster-bij-Op-NT-deur-cluster (item 2374 paar via G2374).
 
 **Semantische velden:** poort-cluster (primair); Yah-poort-cluster; shaʿar-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -16220,8 +15727,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1280`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-niet-direct-LXX-paar maar concept-tegenpool aan deur-poort-cluster.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -16316,13 +15821,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 283
 
-**Master-toelichting:** Uniek lexeem. Etymologie omstreden (mogelijk brh = afsnijden). Juridisch bindende overeenkomst. 'Verbond' standaard.
+**Master-toelichting:** Uniek lexeem. Juridisch bindende overeenkomst. 'Verbond' standaard.
 
 ## B. Wortel-analyse (anker 1)
 
 **Wortel:** b-r-h. Drie-radicaal werkwoordelijke wortel.
-
-**Etymologie:** Proto-Semitisch *b-r-h. Cognaten: Aramees brith, Akkadisch birītu, Ugaritisch brt, Fenicisch brt.
 
 **Basisbetekenis:** verbond of plechtige overeenkomst. Range: 1) cluster-bij-cult-godheids-verbond-cluster (vast paar item 23 paar via H3068 YHWH in brit-YHWH-formule), 2) cluster-bij-cult-Sinai-verbond-cluster (Exo 24 — sefer-ha-brit), 3) cluster-bij-Abraham-verbond-cluster (Gen 15, 17 — brit-ben-ha-betarim), 4) cluster-bij-cluster-bij-aioon-verbond-cluster (Gen 17:7 — brit-ʿolam), 5) cluster-bij-cluster-bij-nieuw-verbond-cluster (Jer 31:31 — brit-chadashah).
 
@@ -16335,6 +15838,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Stamfamilie uit master:** H1285
 
 **Sub-sense ve
+
 
 ---
 
@@ -16368,8 +15872,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-r-k. Drie-radicaal werkwoordelijke wortel.
 
-**Etymologie:** Proto-Semitisch *b-r-k. Cognaten: Aramees barek, Akkadisch karābu (cluster-aspect), Ugaritisch brk, Fenicisch brk, Arabisch baraka.
-
 **Basisbetekenis:** zegenen of knielen of (cult-)gunst-uitspreken. Range: 1) cluster-bij-cult-zegen-cluster (vast paar item 28 paar via H6440 panim in nasaʾ-panim-en-barakh-cluster Num 6), 2) cluster-bij-Abraham-belofte-cluster (Gen 12:2-3 — barekh ʾavarekh u-megaddel shemekha), 3) cluster-bij-godheids-zegen-cluster (Ps 67), 4) cluster-bij-cluster-bij-tafelzegen-cluster (Deu 8:10 — u-verakht ʾet-YHWH ʾelohekha), 5) cluster-bij-cluster-bij-knielen-cluster (Ps 95:6).
 
 **Semantische velden:** cult-zegen-cluster (primair); patriarchaal-belofte-cluster; godheids-zegens-cluster; tafelzegen-cluster; cluster-bij-knielen-cluster.
@@ -16377,6 +15879,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 ## C. Morfologische varianten (anker 2)
 
 **Vormen die voorkomen:** ww in qal bārakh (knielen-zelden), nifal nivrak (gezegend-worden-passief), piel bērakh (zegenen, dominante stam), pual zelden, hithpael hithbārakh (zich-zegenen-of-laten-zegenen, frequent in Gen 12:3, 22:18, 26:4, 28:14 — patriarchen-belofte). Imperatief barekh. Imperfectum yebārekh (piel). Participium piel mevārekh (de zegenende), passief-participium bārûkh (gezegend, frequent in segenformules). Nominale derivaten: H1293 berākhāh (zegen, 71x), H1290 berekh (knie, 25x), H1289 berekh-A
+
 
 ---
 
@@ -16410,8 +15913,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-r-k. Klassiek-Hebreeuws berech. Aramees-cognaat berakh.
 
-**Etymologie:** Klassiek-Hebreeuws berech (knie), Hebreeuws-stam met Aramees-cognaat berakh. Stam-cognaat-paar met cult-aanbidding-en-onderwerping-knielings-vocabulair.
-
 **Basisbetekenis:** knie. Master kiest concordant 'knie' voor alle voorkomens. Range: 1) cluster-bij-berech-en-barakh-paar (knie-en-zegenen-knielen-stam-veld — item 1288 paar via H1288, ~25x), 2) cluster-bij-berech-en-rosh-paar (knie-en-hoofd lichaamspolen — item 35 paar via H7218), 3) cluster-bij-berech-knielen-Yah-1Ko-19-18 ('shivʿath-alaphim-asher-loʾ-karʿu-baʾerek-laBaʿal' — item 23 paar via H3068, ~10x), 4) cluster-bij-Solomon-tempelinwijding-knie (1Ko 8:54, 2Kr 6:13 'al-birkayw-baruch-Yah' — item 8010 paar via H8010), 5) cluster-bij-NT-LXX-paar G1119 gonu (~12x in NT, Phi 2:10 LXX-Jes-45-23 'pan gonu kampsei... pasa glōssa exomologēsetai').
 
 **Semantische velden:** lichaam-cluster (primair); Yah-lichaam-cluster; rosh-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -16438,8 +15939,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1290`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat berakh (Dan 6:11 'birkohi'). NT-LXX-bron G1119 gonu. Phi 2:10 alle-knie-buigen-Christus-Naam-Jes-45-23-citaat.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -16538,8 +16037,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-r-kh. Verwant met H1288 barakh (zegenen). Master rangschikt H1293 als zn berakhah zegen.
 
-**Etymologie:** Proto-Semitisch *b-r-k. Cognaten: Aramees berakhah, Akkadisch karābu via parallel, Ugaritisch brkt, Fenicisch brkt, Arabisch barakah (zegen-onveranderd).
-
 **Basisbetekenis:** zegen of zegens-vermogen. Range: 1) godheids-zegen (vast paar item 1288 cluster met H1288 barakh in zegens-cluster), 2) cluster-bij-vader-zegen-zoon (Gen 27 cluster), 3) cluster-bij-volk-zegen (Deu 28 cluster antoniem-paar item 7045 paar via H7045 qelalah), 4) cluster-bij-cult-en-priester-zegen, 5) cluster-bij-cluster-bij-overvloed-zegen.
 
 **Semantische velden:** zegen-cluster (primair); patriarchaal-cluster; cult-zegens-cluster; verbonds-cluster; cluster-bij-overvloed.
@@ -16566,8 +16063,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1293`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees berakhah. Akkadisch karābu. Ugaritisch brkt. Fenicisch brkt. Arabisch barakah (onveranderd). De wortel is breed-stabiel.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -16669,8 +16164,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-a-s. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *b-a-s. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'gaarkoken'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (gaarkoken); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -16695,8 +16188,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1310`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -16792,8 +16283,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-w-sh. Klassiek-Hebreeuws bsam. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws bsam (reuk-aroma), van bawsem-stam (geur-cult). Stam-cognaat-paar met cult-wierook-en-zalfolie-vocabulair.
-
 **Basisbetekenis:** reuk, aroma. Master kiest concordant 'reuk' voor alle voorkomens. Range: 1) cluster-bij-bsam-en-qetoret-paar (reuk-en-wierook — item 7004 paar via H7004, ~25x), 2) cluster-bij-bsam-en-mizbeach-paar (reuk-en-altaar-cult — item 71 paar via H4196), 3) cluster-bij-bsam-en-cult-Yah-aanvaarden (reuk-Yah-welbehagen Lev 1:9 — item 23 paar via H3068, ~10x), 4) cluster-bij-bsamim-Hooglied (Hgl 4:10 'reuk-zalfolie-meer-dan-alle-aroma' — item 1730 paar via H1730), 5) cluster-bij-NT-LXX-paar G2175 euōdia (~3x in NT, Eph 5:2 'osmēn euōdias').
 
 **Semantische velden:** cult-reuk-cluster (primair); Yah-cult-reuk-cluster; mizbeach-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -16820,8 +16309,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1314`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G2175 euōdia. Eph 5:2 'osmēn euōdias' Christus-offer-cult.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -16916,8 +16403,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** Eigennaam Bashan. Master rangschikt H1316 als plaatsnaam.
 
-**Etymologie:** Hebreeuws-eigen, mogelijk uit b-sh-n (cluster).
-
 **Basisbetekenis:** plaatsnaam Basan (Trans-Jordaans gebied). Range: 1) cluster-bij-Trans-Jordaan-cluster (vast paar item 5676 paar via H5676 ʿever), 2) cluster-bij-Og-cluster (Num 21:33), 3) cluster-bij-Bashan-rundvee-cluster (Ps 22:13 — abire-Bashan), 4) cluster-bij-erfdeel-cluster (item 165 paar via H272 ʾachuzah), 5) cluster-bij-Manasse-cluster.
 
 **Semantische velden:** plaatsnaam-cluster (primair); Trans-Jordaan-cluster; cult-en-Og-cluster; veebezit-cluster; profetisch-cluster.
@@ -16942,8 +16427,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1316`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Hebreeuws-eigen.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -17041,8 +16524,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √b-s-r. Drie-radicaal-stam — basar is primair zn voor 'vlees, lichaam, sterfelijkheid'. Stam-cognaat-paar met basar-werkwoord (boodschappen-brengen, H1319) als homograaf met ander semantisch-veld.
 
-**Etymologie:** Proto-Semitisch *b-s-r 'vlees, lichaam'. Cognaten: Aramees besra (vlees), Akkadisch shiru (vlees — andere wortel), Ugaritisch bshr (vlees), Fenicisch bshr (vlees), Arabisch bashar (mens, vlees).
-
 **Basisbetekenis:** vlees, lichaam, sterfelijkheid. Master kiest concordant 'vlees' voor alle voorkomens. Range: 1) cluster-bij-fysiek-vlees (basar als lichaamsmateriaal — item 1320 paar dominant zelf), 2) cluster-bij-mensheid-totaliteit (kol-basar = alle-vlees = alle-mensheid — item 35 paar via H120, ~40x), 3) cluster-bij-vlees-en-bloed (basar wa-dam — item 6256 paar via H1818 dam, ~6x als parallel-paar), 4) cluster-bij-cult-offer-vlees (basar zevach — item 269 paar via H2076 zevach), 5) cluster-bij-vlees-tegenover-geest (kol-basar enosh = alle-vlees-mens-vergankelijk — item 7307 paar via H7307 ruach in profetisch-poëtisch-paar Jes 40:6).
 
 **Semantische velden:** fysiek-vlees-cluster (primair); mensheid-totaliteit-cluster; vlees-en-bloed-cluster; cult-offer-cluster; vlees-tegenover-geest-cluster.
@@ -17069,8 +16550,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1320`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees besra (vlees — direct cognaat). Akkadisch shiru (vlees — andere wortel). Ugaritisch bshr (vlees, in mythologische teksten). Fenicisch bshr (vlees). Arabisch bashar (mens, vlees — semantische uitbreiding naar 'mensheid' als 'wezens-van-vlees').
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -17172,8 +16651,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-n-h. Drie-radicaal werkwoordelijke wortel — wortel-stam-aspect bij H1129 banah (bouwen) en H1121 ben (zoon-cluster).
 
-**Etymologie:** Proto-Semitisch *b-n. Cognaten: Aramees bratta, Akkadisch bintu, Ugaritisch bt, Fenicisch bt, Arabisch bint.
-
 **Basisbetekenis:** dochter of meisje of vrouwelijk-nakomeling. Range: 1) cluster-bij-familie-cluster (vast paar item 16 paar via H1121a ben), 2) cluster-bij-cult-volken-personificatie-cluster (bath-tsiyyon — Sion gepersonifieerd), 3) cluster-bij-Mara-cluster (Klaag 4:21-22 — bath-Edom), 4) cluster-bij-Lot-dochters-cluster (Gen 19), 5) cluster-bij-cluster-bij-Jozua-erfdeel-dochters-cluster (Num 27).
 
 **Semantische velden:** familie-cluster (primair); cult-Sion-personificatie-cluster; profetisch-cluster (volken-personificatie); juridisch-erfdeel-cluster; patriarchaal-cluster.
@@ -17189,6 +16666,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 ## D. Parallelplaatsen-overzicht (anker 3)
 
 **Di
+
 
 ---
 
@@ -17222,8 +16700,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** b-th-l. Drie-radicaal nominale wortel.
 
-**Etymologie:** Proto-Semitisch *b-th-l. Cognaten: Aramees bethulta, Akkadisch batultu, Ugaritisch btlt, Arabisch batul (cluster).
-
 **Basisbetekenis:** maagd-of-jongedame. Range: 1) cluster-bij-cult-en-juridisch-cluster (vast paar item 415 paar via H5291 naʿarah), 2) cluster-bij-overdrachtelijk-volk-Israel-cluster (Jer 18:13 — bethulath-Yisraʾel), 3) cluster-bij-priester-en-huwelijks-cluster (Lev 21:13-14), 4) cluster-bij-cult-cluster, 5) cluster-bij-rouw-cluster (Joel 1:8 — als-een-maagd-rouwen).
 
 **Semantische velden:** jeugd-vrouwelijk-cluster (primair); juridisch-cluster (Deu 22); cult-priester-cluster; metaforisch-volk-cluster (profetisch); rouw-cluster.
@@ -17248,8 +16724,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1330`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees bethulta. Akkadisch batultu. Ugaritisch btlt. Arabisch batul. De wortel is breed-stabiel.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -17341,13 +16815,11 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Voorkomens (corpus):** 104
 
-**Master-toelichting:** Wortel g'l. Familieplicht: vrijkopen van schuld, slavernij, of bloedwraak. 'Lossen' bewaart de familie-juridische losmakings-actie; 'verlossen' is theologische breding, 'redden' botst met yasha (H3467).
+**Master-toelichting:** Wortel g'l. Familieplicht: vrijkopen van schuld, slavernij, of bloedwraak. 'Lossen' bewaart de familie-juridische losmakings-actie; 'verlossen' is ruimere toepassing, 'redden' botst met yasha (H3467).
 
 ## B. Wortel-analyse (anker 1)
 
 **Wortel:** g-ʾ-l (gimel-aleph-lamed). Drie-radicaal werkwoordelijke wortel met aleph als zwakke middelste radicaal. Master rangschikt H1350a als hoofd-werkwoord gaʾal lossen-verlossen.
-
-**Etymologie:** Proto-Semitisch *g-ʾ-l. Cognaten: Aramees geʾal (cluster), Akkadisch via parallel zwakker, Ugaritisch gʾl (cluster), Arabisch jaʾala via parallel zwak. De wortel is West-Semitisch met centrale verlossings-functie in juridisch-cult-cluster.
 
 **Basisbetekenis:** lossen-of-loskopen-of-bloedwreker-zijn. Range: 1) familie-lossen (vast in juridisch-cluster Lev 25:25 — naaste-lost-zijn-broeder-cluster), 2) bloedwreker-cluster (Num 35:19 goʾel ha-dam), 3) godheids-verlosser (vast in profetisch-cluster Isa 41:14 goʾel-Yisraʾel — verlosser-Israels), 4) cult-eerstgeborenen-loskopen (Lev 27:13 cluster), 5) cluster-bij-Boaz-Ruth-cluster.
 
@@ -17379,8 +16851,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1350a`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees geʾal (cluster). Akkadisch via parallel. Ugaritisch gʾl (cluster). Arabisch jaʾala via parallel. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -17481,8 +16951,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √g-b-h. Klassiek-Hebreeuws gavoah. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws gavoah (hoog), van gavah-werkwoord (hoog-zijn H1361). Stam-cognaat-paar met rum (hoog-zijn H7311a).
-
 **Basisbetekenis:** hoog. Master kiest concordant 'hoog' voor alle voorkomens. Range: 1) cluster-bij-gavoah-en-rum-paar (hoog-en-verheven — item 75 paar via H7311a, ~25x), 2) cluster-bij-gavoah-en-shamayim-paar (hoog-en-hemel — item 28 paar via H8064), 3) cluster-bij-gavoah-en-Yah-troon (Jes 6:1 'Yah-zit-op-hoge-troon' — item 23 paar via H3068, ~10x), 4) cluster-bij-gavoah-en-har-paar (hoog-en-berg — item 5927 paar via H5927), 5) cluster-bij-NT-LXX-paar G5308 hupselos (Mat 4:8 'oros hupselon').
 
 **Semantische velden:** hoogte-cluster (primair); Yah-hoogte-cluster; shamayim-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -17509,8 +16977,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1364`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G5308 hupselos. Mat 4:8 verzoekings-berg.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -17610,8 +17076,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √g-b-l. Drie-radicaal werkwoordelijke wortel voor 'begrenzen, omsluiten'. Gevul is afgeleid zn voor 'grens, gebied, territorium'. Stam-cognaat-paar met geviul-werkwoord (samenhang-vormen, H1379).
 
-**Etymologie:** Proto-Semitisch *g-b-l 'grens'. Cognaten: Aramees gevul (grens), Akkadisch gabalu (grens), Ugaritisch gbl (gebied), Fenicisch gbl (gebied), Arabisch jabal (berg-grens — semantische uitbreiding).
-
 **Basisbetekenis:** grens, gebied, territorium. Master kiest concordant 'grens' voor alle voorkomens. Range: 1) cluster-bij-stam-grenzen (gevul-X als stam-territorium Numeri-Jozua — item 80 paar via H7626), 2) cluster-bij-Israel-grens (gevul-Yisrael — item 60 paar via H3478), 3) cluster-bij-grens-niet-verleggen (lo-tassig gvul = grens-niet-verleggen-Deu 19:14 — item 5414 paar via H5414), 4) cluster-bij-Yah-stelt-grenzen (yhwh hitsiv gvulot = yhwh-zette-grenzen — item 23 paar via H3068 in Deu 32:8), 5) cluster-bij-volk-grens (gvulot ʿammim = volk-grenzen — item 14 paar via H5971a).
 
 **Semantische velden:** stam-grenzen-cluster (primair); Israel-grens-cluster; grens-niet-verleggen-cluster; Yah-stelt-grenzen-cluster; volk-grens-cluster.
@@ -17638,8 +17102,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1366`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees gevul (grens — direct cognaat). Akkadisch gabalu (grens — directe cognaat). Ugaritisch gbl (gebied). Fenicisch gbl (gebied — Byblos = gevul-stad-naam). Arabisch jabal (berg-grens).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -17741,8 +17203,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-b-r (gimel-bet-resh). Drie-radicaal sterke wortel met sterke kracht-of-overwinningsfunctie. Master rangschikt H1368 als zelfstandig of bn gibbor held-machtige.
 
-**Etymologie:** Proto-Semitisch *g-b-r. Cognaten: Aramees gibbar (held-machtige), Akkadisch gabru (held-strijder), Ugaritisch gbr (held in koninklijk-cult), Fenicisch gbr (sterk-cluster), Arabisch jabbar (machtige — onveranderd via parallel-stam) en jabara (sterk-zijn). De wortel is West-Semitisch met sterke martiaal-en-koninklijk-cult-functie.
-
 **Basisbetekenis:** sterke-machtige-of-held-in-strijd. Range: 1) militaire-held (Gen 6:4 ha-gibborim ʾasher me-ʿolam — helden-vanaf-eeuwig), 2) David-held-cluster (vast in 2Sa-cluster, gibborey-david David-helden), 3) godheids-attribuut-cluster (ʾel-gibbor — Isa 9:5, item 4 paar), 4) jacht-en-vermogen-cluster (Gen 10:9 Nimrod als gibbor-tsayid jachtheld), 5) algemeen-machtige-mens (vast paar in koninklijk-cluster). Militair-held-sub-sense en godheids-titel-sub-sense zijn dominant.
 
 **Semantische velden:** helden-cluster (primair); martiaal-cluster (David-helden); godheids-titel-cluster (ʾel-gibbor); jacht-en-vermogen-cluster; koninklijk-elite-cluster.
@@ -17769,8 +17229,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1368`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees gibbar (held — Daniel-cluster). Akkadisch gabru (held-strijder). Ugaritisch gbr (held in cult-context). Fenicisch gbr (sterk-cluster). Arabisch jabbar (machtige) en jabara (sterk-zijn). De wortel is West-Semitisch met sterke martiaal-functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -17872,8 +17330,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-v-r. Verwant met H1368 gibbor (item 226).
 
-**Etymologie:** Proto-Semitisch *g-b-r. Cognaten: zie H1368.
-
 **Basisbetekenis:** kracht-of-vermogen. Range: 1) cluster-bij-godheids-kracht (vast paar item 226 paar via H1368 in gevurah-en-gibbor-cluster), 2) cluster-bij-koninklijke-macht, 3) cluster-bij-cult-attribuut, 4) cluster-bij-overdrachtelijk-vermogen, 5) cluster-bij-werken-van-godheid.
 
 **Semantische velden:** kracht-cluster (primair); godheids-attribuut-cluster; militair-cluster; koninklijk-cluster; sapientiaal-cluster.
@@ -17900,8 +17356,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1369`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Zie H1368.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -18004,8 +17458,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-v-ʿ. Drie-radicaal nominale wortel. Master rangschikt H1389 als zelfstandig givʿah heuvel.
 
-**Etymologie:** Proto-Semitisch *g-b-ʿ. Cognaten: Aramees givʿa, Akkadisch via parallel, Ugaritisch gbʿ, Arabisch jubʿa (cluster).
-
 **Basisbetekenis:** heuvel of kleine-berg. Range: 1) geografisch-heuvel (vast paar item 2022 cluster met H2022 har in heuvel-en-berg-formule), 2) cluster-bij-cult-locatie (vast paar item 1116 paar via H1116 bamah in givʿah-en-bamah-cluster — afgods-cluster), 3) cluster-bij-cult-tegen-cluster (vast in profetisch-corpus), 4) cluster-bij-Givʿah-eigennaam (Jdg 19 — Benjamin-Givʿah), 5) overdrachtelijk-cluster.
 
 **Semantische velden:** geografisch-cluster (primair); cult-locatie-cluster (afgods); profetisch-cluster; eigennaam-cluster (Benjamin-Givʿah); cluster-bij-har-cluster.
@@ -18032,8 +17484,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1389`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees givʿa. Akkadisch via parallel. Ugaritisch gbʿ. Arabisch jubʿa. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -18136,8 +17586,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-v-r. Verwant met H1368 gibbor (item 226 paar). Master rangschikt H1397 als zn gever man-jongeman.
 
-**Etymologie:** Proto-Semitisch *g-b-r. Cognaten: zie H1368.
-
 **Basisbetekenis:** sterke-man of jongeman. Range: 1) cluster-bij-mens-cluster (vast paar item 5 paar via H376 ʾish), 2) cluster-bij-jongelings-cluster (Spr 1:8), 3) cluster-bij-cluster-bij-held-cluster (item 226 paar via H1368), 4) cluster-bij-onderscheidings-cluster (mens-tegenover-vrouw of kind), 5) overdrachtelijk-cluster.
 
 **Semantische velden:** mens-cluster (primair); jongelings-cluster; held-cluster; onderscheidings-cluster (geslacht-of-leeftijd); poëtisch-cluster.
@@ -18164,8 +17612,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1397`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Zie H1368.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -18265,8 +17711,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √g-g. Klassiek-Hebreeuws gag. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws gag (dak), Hebreeuws-stam. Stam-cognaat-paar met huis-en-architectuur-vocabulair.
-
 **Basisbetekenis:** dak. Master kiest concordant 'dak' voor alle voorkomens. Range: 1) cluster-bij-gag-en-bayit-paar (dak-en-huis — item 12 paar via H1004, ~25x), 2) cluster-bij-gag-en-rosh-paar (dak-en-hoofd-bovenkant — item 35 paar via H7218), 3) cluster-bij-Mozes-gag-cluster (Deu 22:8 'maakheling-aan-dak-tegen-vallen' — item 4872 paar via H4872, ~10x), 4) cluster-bij-Rachab-gag (Joz 2:6 'verbergde-Rachab-spionnen-op-dak' — item 7343 paar via H7343), 5) cluster-bij-NT-LXX-paar G1430 dōma (~7x in NT, Mat 24:17 'op-dak-niet-naar-beneden').
 
 **Semantische velden:** huis-cluster (primair); Yah-huis-cluster; rosh-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -18293,8 +17737,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1406`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G1430 dōma. Mat 24:17 eindtijd-vlucht-formule.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -18394,8 +17836,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** Eigennaam Gad. Master rangschikt H1410 als eigennaam-stamnaam.
 
-**Etymologie:** Hebreeuws-eigen. Geen significante cognaten.
-
 **Basisbetekenis:** stamnaam Gad. Range: 1) cluster-bij-12-stammen (vast paar item 193 paar via H7626 shevet), 2) cluster-bij-Zilpa-zonen (Gen 30:11 cluster), 3) cluster-bij-Trans-Jordaan-stam (Num 32 cluster), 4) cluster-bij-Mozes-zegen (Deu 33:20-21), 5) cluster-bij-overgang-Jordaan-cluster.
 
 **Semantische velden:** stamnaam-cluster (primair); 12-stammen-cluster; geografisch-cluster (Trans-Jordaan); patriarchaal-cluster (Zilpa); cluster-bij-Mozes-zegen.
@@ -18420,8 +17860,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1410`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Hebreeuws-eigen.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -18515,8 +17953,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √g-d-d. Klassiek-Hebreeuws gedud. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws gedud (bende, troep), van gadad (binden-zich-verzamelen). Stam-cognaat-paar met militair-en-rover-vocabulair.
-
 **Basisbetekenis:** bende, troep. Master kiest concordant 'bende' voor alle voorkomens. Range: 1) cluster-bij-gedud-en-tsava-paar (bende-en-heir — item 6635 paar via H6635a, ~25x), 2) cluster-bij-gedud-en-milchamah-paar (bende-en-oorlog — item 35 paar via H4421), 3) cluster-bij-gedud-Amalek-1Sa-30-15 (David-Amalek-bende-achtervolgen — item 6002 paar via H6002, ~10x), 4) cluster-bij-gedud-Yah-cluster (item 23 paar via H3068), 5) cluster-bij-gedud-en-Mat-Christus-soldaat-context (NT-LXX-paar G2827 deels).
 
 **Semantische velden:** bende-cluster (primair); Yah-bende-cluster; milchamah-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -18543,8 +17979,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1416`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-paar via vertaling.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -18642,8 +18076,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-d-l. Drie-radicaal werkwoordelijke wortel — wortel-cognaat-paar met H1431 gadal ww (groot-zijn).
 
-**Etymologie:** Proto-Semitisch *g-d-l. Cognaten: zie H1431.
-
 **Basisbetekenis:** groot of belangrijk of geweldig. Range: 1) cluster-bij-godheids-groot-cluster (vast paar item 23 paar via H3068 YHWH in YHWH-gadol-formule Deu 7:21), 2) cluster-bij-cult-grote-Naam-cluster (Eze 36:23), 3) cluster-bij-grote-volk-cluster (Gen 12:2 — goy-gadol), 4) cluster-bij-cluster-bij-grote-stad-cluster (Jon 1:2 — Ninevee-grote-stad), 5) cluster-bij-cluster-bij-overdrachtelijk-cluster (gadol-be-X).
 
 **Semantische velden:** godheids-grootheid-cluster (primair); cult-grote-Naam-cluster; volkenkundig-cluster; topografisch-cluster; overdrachtelijk-cluster.
@@ -18661,7 +18093,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 | H1419b | Gadol-eign-persoon | 1 |
 
 ## D. Parallelplaatsen-overzicht (anker 3)
-
 
 
 ---
@@ -18696,8 +18127,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-d-l (gimel-dalet-lamed). Drie-radicaal werkwoordelijke wortel met sterke groei-en-grootheids-functie. Master rangschikt H1431 als hoofd-werkwoord gadal groot-zijn.
 
-**Etymologie:** Proto-Semitisch *g-d-l. Cognaten: Aramees gedal (groeien-cluster), Akkadisch gadalu via parallel, Ugaritisch gdl (groeien-cluster), Arabisch jadala (cluster zwakker). De wortel is West-Semitisch met centrale grootheids-functie.
-
 **Basisbetekenis:** groot-worden-of-groot-maken-of-zich-verheffen. Range: 1) lichamelijk-groeien (Gen 21:8 wa-yigdal ha-yeled), 2) godheids-groot-zijn (Ps 70:5 yigdal YHWH cluster), 3) verheffen-mens (vast bij koninklijk-cluster), 4) zich-verheffen-trots (Ob 1:12 cluster), 5) cluster-bij-grote-werken-van-godheid (Joel 2:21 cluster).
 
 **Semantische velden:** groei-cluster (primair); godheids-attribuut-cluster; verheffings-cluster; trots-cluster (negatief); werken-van-godheid-cluster.
@@ -18724,8 +18153,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1431`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees gedal (groeien). Akkadisch gadalu via parallel. Ugaritisch gdl (groeien). Arabisch jadala via parallel zwak. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -18827,8 +18254,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-w-y. Drie-radicaal werkwoordelijke wortel met waw als middelste radicaal.
 
-**Etymologie:** Proto-Semitisch *g-w-y. Cognaten: Aramees gōy (cluster), Akkadisch via parallel, Ugaritisch gw, Fenicisch gw.
-
 **Basisbetekenis:** volk of natie of heidenvolk. Range: 1) cluster-bij-volken-cluster (vast paar item 32 paar via H5971a ʿam — Israël tegenover de volken), 2) cluster-bij-cult-tegen-volken-cluster (Lev 18:24-30 — toʿavoth-ha-goyim), 3) cluster-bij-Sion-en-volken-cluster (Jes 2 — wijken-naar-Sion-volken), 4) cluster-bij-uitkiezings-cluster (Deu 7:6 — ʿam-segullah uit-de-volken), 5) cluster-bij-cluster-bij-volken-personificatie-cluster (Klaag).
 
 **Semantische velden:** volken-cluster (primair); cult-tegen-cluster; profetisch-Sion-cluster; uitkiezings-cluster; eindtijds-cluster.
@@ -18836,6 +18261,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 ## C. Morfologische varianten (anker 2)
 
 **Vormen die voorkomen:** zn mannelijk enkelvoud gôy; status constructus enkelvoud gôy-X (gôy-qādôsh = "heilig volk"). Meervoud gôyim (zeer frequent — kol-ha-gôyim "alle volkeren" als macro-formule). Met possessief-suffix gôyêhem (hun volken). Vrouwelijke vorm afwezig. Het verschil tussen gôy en H5971a ʿam ("volk") is taalkundig betekenisvol: gôy benadrukt etnisch-politieke-massa met land e
+
 
 ---
 
@@ -18869,8 +18295,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-w-r. Holle-wortel. Master rangschikt H1481a als hoofd-werkwoord gur verkeren-als-vreemdeling-wonen. Verwant met H1616 ger (item 357 paar) via stamfamilie.
 
-**Etymologie:** Proto-Semitisch *g-w-r. Cognaten: Aramees gur (cluster), Akkadisch via parallel, Ugaritisch gr, Arabisch jara (cluster).
-
 **Basisbetekenis:** als-vreemdeling-verkeren-of-tijdelijk-wonen. Range: 1) cluster-bij-vreemdeling (vast paar item 357 paar via H1616 ger), 2) cluster-bij-tijdelijk-wonen-cluster (Gen 12:10 ger be-X), 3) cluster-bij-cult-toelating-cluster, 4) cluster-bij-Abraham-en-de-patriarchen, 5) overdrachtelijk-cluster.
 
 **Semantische velden:** vreemdelings-cluster (primair); tijdelijk-wonen-cluster; patriarchaal-cluster; cult-grens-cluster; sociaal-cluster.
@@ -18902,8 +18326,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1481a`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees gur. Akkadisch via parallel. Ugaritisch gr. Arabisch jara. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -19005,8 +18427,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-r-l (gimel-resh-lamed). Drie-radicaal nominale wortel met sterke lots-functie. Master rangschikt H1486 als zelfstandig goral lot.
 
-**Etymologie:** Proto-Semitisch *g-r-l. Cognaten: Aramees garol (cluster), Akkadisch (gerelateerd via parallel), Ugaritisch grl (cluster lot-cult), Fenicisch grl (cult-loting), Arabisch via parallel. De wortel verbindt steen-of-pebble met loot-uitkomst.
-
 **Basisbetekenis:** lot of door-loting-toegewezen-deel. Range: 1) cult-loting-cluster (vast in cult-cluster, dominant), 2) erfdeel-bij-lot-toegewezen (vast in Joz-corpus bij landverdeling, item 165 paar via H272 ʾachuzah), 3) cluster-bij-cult-priester-loting (Lev 16:8 — yom-kippur-cluster), 4) cluster-bij-Achan-cluster (Joz 7:14 — schuld-cluster, item 285 paar via H3920 lakhad), 5) overdrachtelijk-bestemd-deel.
 
 **Semantische velden:** loot-cluster (primair); erfdeel-toedeel-cluster (Joz); cult-loting-cluster (yom-kippur); juridisch-cluster (cult-onderzoeks-loting); overdrachtelijk-bestemmings-cluster.
@@ -19033,8 +18453,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1486`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees garol. Akkadisch via parallel. Ugaritisch grl (cult-loting). Fenicisch grl (cult-cluster). Arabisch via parallel. De wortel is West-Semitisch met cult-lot-functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -19136,8 +18554,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-a-z. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *g-a-z. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'roven'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (roven); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -19162,8 +18578,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1497`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -19259,8 +18673,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √g-y-ʾ. Drie-radicaal-stam — gay is primair zn voor 'vallei, dal'. Hol-medeklinker (mediae-yod). Stam in oudste laag van semitisch geografisch-vocabulair.
 
-**Etymologie:** Proto-Semitisch *g-y-ʾ 'vallei'. Cognaten: Aramees gayyaʾ (vallei), Akkadisch ge'u (vallei), Ugaritisch g (vallei), Fenicisch g (vallei), Arabisch ghayy (vallei).
-
 **Basisbetekenis:** vallei, dal. Master kiest concordant 'vallei' voor alle voorkomens. Range: 1) cluster-bij-Hinnom-vallei (gei-Hinnom = Gehenna-vallei — item 7843 paar via H7843 in afgoderij-context), 2) cluster-bij-zout-vallei (gei-melach = Zout-vallei — item 4417 paar via H4417 als militair-locatie), 3) cluster-bij-vallei-en-berg (gay we-har = vallei-en-berg — item 5927 paar via H5927 in scheppings-cluster), 4) cluster-bij-vallei-doodsschaduw (gei-tsalmavet Ps 23:4 — item 6757 paar via H6757), 5) cluster-bij-Megiddo-vallei (biqʿat-Megiddo eschatologisch).
 
 **Semantische velden:** Hinnom-vallei-cluster (primair); zout-vallei-cluster; vallei-en-berg-merisma-cluster; doodsschaduw-vallei-cluster; eschatologische-Megiddo-cluster.
@@ -19287,8 +18699,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1516`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees gayyaʾ (vallei — direct cognaat). Akkadisch ge'u (vallei — directe cognaat). Ugaritisch g (vallei). Fenicisch g (vallei). Arabisch ghayy (vallei — direct cognaat).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -19389,8 +18799,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √g-l-l. Klassiek-Hebreeuws gal. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws gal (hoop-stenen, puin), van galal (rollen). Stam-cognaat-paar met puin-en-vernietiging-vocabulair.
-
 **Basisbetekenis:** hoop-stenen, puin. Master kiest concordant 'hoop-stenen' voor alle voorkomens. Range: 1) cluster-bij-gal-en-even-paar (hoop-stenen-en-steen — item 68 paar via H68, ~25x), 2) cluster-bij-gal-en-shemamah-paar (puin-en-verwoesting — item 8077 paar via H8077), 3) cluster-bij-gal-Achan-Joz-7-26 (puin-Achan-graf-getuigenis — item 5912 paar via H5912, ~5x), 4) cluster-bij-gal-Yah-oordeel (Jer 9:11 'maak-Jeruzalem-tot-puin' — item 23 paar via H3068, ~10x), 5) cluster-bij-gal-en-cult-getuigenis (Joz 8:29 Ai-koning-puin — item 5857 paar via H5857).
 
 **Semantische velden:** puin-cluster (primair); Yah-puin-cluster; shemamah-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -19417,8 +18825,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1530`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-paar via vertaling.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -19517,8 +18923,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √g-l-l. Eigennaam Gilgal. Stam-cognaat-paar met galal.
 
-**Etymologie:** Klassiek-Hebreeuws Gilgal (eigennaam-stad, 'cirkel'), van galal (rollen H1556). Stam-cognaat-paar met andere geografische-cirkels.
-
 **Basisbetekenis:** Gilgal (eigennaam-stad). Master kiest concordant 'Gilgal' voor alle voorkomens. Range: 1) cluster-bij-Gilgal-en-Joz-4-cluster (twaalf-stenen-cirkel-Gilgal — item 68 paar via H68, ~25x), 2) cluster-bij-Gilgal-en-Yericho (Joz-cluster — item 3405 paar via H3405), 3) cluster-bij-Gilgal-Saul-zalving (1Sa 11:14-15 'Saul-koning-maken-Gilgal' — item 7586 paar via H7586), 4) cluster-bij-Gilgal-Hosea-Amos-veroordeling (Hos 4:15, 9:15, 12:11; Am 4:4, 5:5 cult-afgoderij — item 23 paar via H3068), 5) cluster-bij-Gilgal-Elia-Elisa (2Kg 2:1, 4:38 — item 452 paar via H452).
 
 **Semantische velden:** eigennaam-stad-cluster (primair); Yah-eigennaam-stad-cluster; even-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -19545,8 +18949,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1537`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Hebreeuws-cognaat-cluster. NT-niet-direct.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -19642,8 +19044,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √g-l-h. Drie-radicaal werkwoordelijke wortel voor 'onthullen, openbaren, in-ballingschap-gaan'. Centraal-werkwoord met dubbele semantiek: openbaring (positief) en ballingschap (negatief).
 
-**Etymologie:** Proto-Semitisch *g-l-y 'onthullen'. Cognaten: Aramees gela (onthullen-ballingschap), Akkadisch galu (overlopen-ballingschap), Ugaritisch gly (onthullen), Fenicisch gly (onthullen), Arabisch jala (verhuizen).
-
 **Basisbetekenis:** onthullen, openbaren, in-ballingschap-gaan. Master kiest concordant 'onthullen' voor alle voorkomens. Range: 1) cluster-bij-Yah-onthult (yhwh galah = yhwh-openbaarde — item 23 paar via H3068, ~30x), 2) cluster-bij-oor-openen (galah ʾozen = oor-openen-openbaren — item 8 paar via H241, ~25x), 3) cluster-bij-naaktheid-bloot-leggen (galah ʿervah = naaktheid-bloot-leggen Lev 18 — item 5783 paar via H5783, ~25x), 4) cluster-bij-volk-in-ballingschap (Hiphil higlah = doen-in-ballingschap-gaan — item 60 paar via H3478, ~50x in 2Kg-Jer-Eze), 5) cluster-bij-Yah-openbaart-zich (nigleh yhwh = yhwh-verscheen — item 23 paar via H3068).
 
 **Semantische velden:** Yah-onthult-cluster (primair); oor-openen-cluster; naaktheid-bloot-leggen-cluster; ballingschap-cluster; theofanie-cluster.
@@ -19670,8 +19070,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1540`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees gela (onthullen-ballingschap — direct cognaat). Akkadisch galu (overlopen-ballingschap — directe cognaat). Ugaritisch gly (onthullen). Fenicisch gly (onthullen). Arabisch jala (verhuizen — semantische uitbreiding).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -19775,8 +19173,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-a-m. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *g-a-m. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'vergelden'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (vergelden); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -19803,8 +19199,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1580`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -19902,8 +19296,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-m-l. Drie-radicaal nominale wortel.
 
-**Etymologie:** Proto-Semitisch *g-m-l. Cognaten: Aramees gamla, Akkadisch gammalu, Ugaritisch gml, Arabisch jamal (kameel-onveranderd).
-
 **Basisbetekenis:** kameel als rij-of-trekdier. Range: 1) cluster-bij-Abraham-cluster (vast paar Gen 24 cluster), 2) cluster-bij-handel-en-transport-cluster, 3) cluster-bij-Midianieten-cluster (Jdg 6:5 cluster, item 514 paar via H4080), 4) cluster-bij-cult-cluster (Lev 11:4 onreine-cluster), 5) cluster-bij-overdrachtelijk-cluster.
 
 **Semantische velden:** vee-en-transport-cluster (primair); patriarchaal-cluster (Abraham); militair-cluster (Midian); cult-onreinheids-cluster; handels-cluster.
@@ -19928,8 +19320,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1581`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees gamla. Akkadisch gammalu. Ugaritisch gml. Arabisch jamal (onveranderd). De wortel is breed-stabiel.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -20027,8 +19417,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √g-n-n. Klassiek-Hebreeuws gan. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws gan (tuin), van ganan (beschermen H1598). Stam-cognaat-paar met ginnah (tuin-vrouwelijk H1593).
-
 **Basisbetekenis:** tuin. Master kiest concordant 'tuin' voor alle voorkomens. Range: 1) cluster-bij-gan-Eden (tuin-Eden Gen 2:8-15 — item 5731 paar via H5731, ~10x), 2) cluster-bij-gan-en-ets-paar (tuin-en-boom — item 6086 paar via H6086, ~25x), 3) cluster-bij-Hooglied-gan (Hgl 4:12-16 'gan-naʿul' = afgesloten-tuin — item 1730 paar via H1730), 4) cluster-bij-gan-Yah (Jes 51:3 'maakt-haar-woestijn-als-Eden-haar-woestenij-als-tuin-Yah' — item 23 paar via H3068), 5) cluster-bij-NT-Joh-19-41-kepos (Christus-graf-in-tuin LXX-paar G2779).
 
 **Semantische velden:** tuin-cluster (primair); Yah-tuin-cluster; pri-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -20055,8 +19443,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1588`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G2779 kepos (~5x). Joh 19:41 graf-in-tuin christologisch-Eden-typologie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -20153,8 +19539,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-a-n. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *g-a-n. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'stelen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (stelen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -20181,8 +19565,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1589`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -20282,8 +19664,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-p-n. Drie-radicaal nominale wortel.
 
-**Etymologie:** Proto-Semitisch *g-p-n. Cognaten: Aramees guphna, Akkadisch via parallel, Ugaritisch gpn, Arabisch via parallel.
-
 **Basisbetekenis:** wijnstok. Range: 1) cluster-bij-wijngaard-cluster (vast paar item 354 paar via H3754 kerem), 2) cluster-bij-vrucht-en-druif-cluster (item 6025 cluster met H6025 ʿenav druif), 3) cluster-bij-Israel-als-wijnstok (Hos 10:1 cluster), 4) cluster-bij-cult-cluster (Num 6:4 — Nazireeer en wijnstok), 5) cluster-bij-Noach-cluster (Gen 9:20).
 
 **Semantische velden:** plant-cluster (primair); vruchtbaarheids-cluster; profetisch-Israel-cluster; cult-Nazireeer-cluster; Noach-cluster.
@@ -20308,8 +19688,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1612`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees guphna. Akkadisch via parallel. Ugaritisch gpn. Arabisch via parallel.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -20407,8 +19785,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-r. Drie-radicaal nominale wortel. Master rangschikt H1616 als zelfstandig ger vreemdeling-bijwoner.
 
-**Etymologie:** Proto-Semitisch *g-r. Cognaten: Aramees giyyora (cluster), Akkadisch gēru (vreemdeling), Ugaritisch gr (cluster), Arabisch jar (buurman-cluster).
-
 **Basisbetekenis:** vreemdeling of bijwoner. Range: 1) verbonds-ethiek-cluster (vast paar item 73 paar via H73 cluster bij vreemdeling-en-jezelf-formule), 2) cluster-bij-gerim-en-toshavim, 3) cluster-bij-cult-grens (rein-en-onrein), 4) cluster-bij-eten-formule (Lev 17 cluster), 5) overdrachtelijk-cluster.
 
 **Semantische velden:** verbonds-ethiek-cluster (primair); juridisch-cluster (gerim); cult-grens-cluster; ouder-bewoners-cluster; overdrachtelijk-cluster.
@@ -20435,8 +19811,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1616`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees giyyora. Akkadisch gēru (vreemdeling). Ugaritisch gr. Arabisch jar. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -20538,8 +19912,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √g-r-n. Klassiek-Hebreeuws goren. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws goren (dorsvloer), Hebreeuws-stam. Stam-cognaat-paar met landbouw-en-cult-vocabulair.
-
 **Basisbetekenis:** dorsvloer. Master kiest concordant 'dorsvloer' voor alle voorkomens. Range: 1) cluster-bij-goren-en-dagan-paar (dorsvloer-en-graan — item 16 paar via H1715, ~25x), 2) cluster-bij-goren-en-qatsir-paar (dorsvloer-en-oogst — item 7105 paar via H7105), 3) cluster-bij-Aravna-goren (David-altaar-bouw 2Sa 24:18 — item 1732 paar via H1732), 4) cluster-bij-goren-en-cult-eerstelingen (Num 18:30 — item 211 paar via H6944), 5) cluster-bij-NT-LXX-paar G257 halōn (Mat 3:12 'halōna kai sunaxei ton siton').
 
 **Semantische velden:** cult-locatie-cluster (primair); Yah-cult-locatie-cluster; qatsir-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -20566,8 +19938,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1637`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G257 halōn (~2x in NT). Mat 3:12 Doper-formule 'dorsvloer-zuiveren'.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -20668,8 +20038,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** g-a-r. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *g-a-r. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'verdrijven'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (verdrijven); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -20694,8 +20062,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1644`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -20792,8 +20158,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √g-sh-m. Klassiek-Hebreeuws geshem. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws geshem (regenbui), van geshem-stam. Stam-cognaat-paar met regen-en-zegen-vocabulair.
-
 **Basisbetekenis:** regenbui. Master kiest concordant 'regenbui' voor alle voorkomens. Range: 1) cluster-bij-geshem-en-matar-paar (regenbui-en-regen — item 4306 paar via H4306, ~25x), 2) cluster-bij-geshem-en-shamayim-paar (regen-en-hemel — item 28 paar via H8064), 3) cluster-bij-Yah-geshem (zegen-formule Lev 26:4 — item 23 paar via H3068, ~15x), 4) cluster-bij-Elia-geshem-1Kg-18 (Elia-bidt-regen-na-droogte — item 452 paar via H452), 5) cluster-bij-NT-LXX-paar G3655 ombros (~1x in NT, Luc 12:54 'ombros erchetai').
 
 **Semantische velden:** regen-cluster (primair); Yah-regen-cluster; shamayim-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -20820,8 +20184,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1653`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G3655 ombros.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -20922,8 +20284,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** d-v-q. Drie-radicaal werkwoordelijke wortel.
 
-**Etymologie:** Proto-Semitisch *d-b-q. Cognaten: Aramees devaq, Akkadisch dabāqu, Ugaritisch dbq, Arabisch dabaqa (cluster).
-
 **Basisbetekenis:** aanhangen-of-zich-vasthechten. Range: 1) cluster-bij-huwelijks-cluster (Gen 2:24 cluster — devaq be-ʾishtho), 2) cluster-bij-godheids-aanhangen (Deu 10:20 vast paar item 153 paar via H8104 shamar), 3) cluster-bij-cluster-bij-vervolg-cluster, 4) cluster-bij-cult-trouw-cluster, 5) cluster-bij-Ruth-Naomi-cluster.
 
 **Semantische velden:** aanhang-cluster (primair); huwelijks-cluster (Gen 2); cult-trouw-cluster; verbonds-cluster; profetisch-cluster.
@@ -20950,8 +20310,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1692`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees devaq. Akkadisch dabāqu. Ugaritisch dbq. Arabisch dabaqa. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -21054,8 +20412,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √d-b-r. Drie-radicaal werkwoordelijke wortel voor 'spreken, uitspreken, vertellen'. Wortel-paar met davar (woord, H1697 zelf-derivaat). Onderscheidt zich van √ʾ-m-r (H559 amar) door spreek-handeling-perspectief (proces) versus inhoud-uiting-perspectief (product).
 
-**Etymologie:** Proto-Semitisch *d-b-r 'in-rij-uitspreken' (basis-betekenis 'achter-zijn, gerangschikt-zijn' → 'in-volgorde-uitspreken'). Cognaten: Aramees devar (woord-zaak — gebruikt vooral als zn), Akkadisch dabaru (verdrijven — semantische verschuiving), Ugaritisch dbr (woord-spreken), Arabisch dabbara (regelen-besturen).
-
 **Basisbetekenis:** spreken, uitspreken, vertellen. Master kiest concordant 'spreken' voor alle voorkomens. Range: 1) cluster-bij-Yah-spreken (yhwh-dibber = yhwh-heeft-gesproken — item 23 paar via H3068, ~400x in profetische-formule), 2) cluster-bij-narratief-spreken (va-yedabber X — item 16 paar dominant via H1697, ~310x), 3) cluster-bij-tegen-spreken (dibber be-X = spreken-tegen-X als oppositioneel — item 1697 paar dominant zelf), 4) cluster-bij-spreken-met-hart (dibber ʿal-lev — vertroostings-formule, item 49 paar via H3820), 5) cluster-bij-vrede-spreken (dibber shalom — item 65 paar via H7965).
 
 **Semantische velden:** Yah-spreken-cluster (primair); narratief-spreken-cluster; oppositioneel-spreken-cluster (dibber be); vertroostings-cluster (dibber ʿal-lev); vrede-spreken-cluster.
@@ -21082,8 +20438,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1696`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees devar/devar (woord-zaak — meer als zn dan ww in Aramees). Akkadisch dabaru (verdrijven — semantische verschuiving naar verwijdering). Ugaritisch dbr (woord-spreken — directe cognaat in mythologische teksten). Arabisch dabbara (regelen-besturen — semantische uitbreiding naar bestuurlijk-spreken).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -21187,8 +20541,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √d-b-r. Drie-radicaal werkwoordelijke wortel voor 'spreken-uitspreken' (H1696). Davar is afgeleid zn dat zowel 'woord' (gesproken-uitspraak) als 'zaak' (object-van-spreken) dekt. Stam-cognaat-paar met amar (zeggen, H559).
 
-**Etymologie:** Proto-Semitisch *d-b-r 'achter-zijn, gerangschikt-zijn' → 'in-rij-uitspreken'. Cognaten: Aramees devar (woord-zaak), Akkadisch dabaru (verdrijven — semantische verschuiving), Ugaritisch dbr (woord-spreken), Arabisch dabbara (regelen — semantische uitbreiding).
-
 **Basisbetekenis:** woord, zaak, ding. Master kiest concordant 'woord' voor alle voorkomens, ook in 'zaak'-betekenis. Range: 1) cluster-bij-Yah-woord (devar-yhwh = woord-van-yhwh — item 23 paar via H3068, ~390x), 2) cluster-bij-profetisch-woord (devar nevuʾah — item 50 paar via H5030), 3) cluster-bij-zaak-aanduiding (davar als 'zaak, ding, gebeurtenis' — item 1697 paar dominant zelf), 4) cluster-bij-tien-woorden (ʿaseret ha-devarim = tien-geboden — item 8337 paar via H6235 in deca-formule), 5) cluster-bij-koninklijk-woord (devar-ha-melekh — item 4428 paar via H4428).
 
 **Semantische velden:** Yah-woord-cluster (primair); profetisch-woord-cluster; zaak-aanduiding-cluster; tien-geboden-cluster; koninklijk-woord-cluster.
@@ -21215,8 +20567,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1697`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees devar (woord-zaak — direct cognaat). Akkadisch dabaru (verdrijven — semantische verschuiving naar verwijdering). Ugaritisch dbr (woord-spreken). Arabisch dabbara (regelen — semantische uitbreiding naar bestuurlijk-handelen).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -21320,8 +20670,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** d-v-r. Drie-radicaal nominale wortel.
 
-**Etymologie:** Proto-Semitisch *d-b-r. Cognaten: Aramees devar, Akkadisch dabru via parallel, Ugaritisch dbr, Arabisch dabar (cluster).
-
 **Basisbetekenis:** pest of plaag. Range: 1) cluster-bij-cult-oordeels-cluster (vast paar item 213 paar via H3898a lacham in cherev-raʿav-dever-triade), 2) cluster-bij-Egypte-plagen (Exo 9:3), 3) cluster-bij-profetisch-oordeels-cluster (Eze 5:12), 4) cluster-bij-cluster-bij-godheids-toorn-cluster, 5) cluster-bij-cluster-bij-cluster.
 
 **Semantische velden:** plaag-cluster (primair); oordeels-cluster (cherev-raʿav-dever-triade); profetisch-cluster (Eze, Jer); Egypte-cluster; cult-tegen-cluster.
@@ -21346,8 +20694,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1698`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees devar. Akkadisch dabru. Ugaritisch dbr. Arabisch dabar.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -21444,8 +20790,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** d-v-sh. Drie-radicaal nominale wortel.
 
-**Etymologie:** Proto-Semitisch *d-b-sh. Cognaten: Aramees devsha, Akkadisch dishpu, Ugaritisch dbsh, Arabisch dibs (cluster).
-
 **Basisbetekenis:** honing. Range: 1) cluster-bij-melk-cluster (vast paar item 2461 cluster met H2461 chalav in vloeiend-melk-en-honing-formule), 2) cluster-bij-Kanaan-belofte-cluster (Exo 3:8 — ʾerets-zavath-chalav-u-devash), 3) cluster-bij-Simson-cluster (Jdg 14:8-9), 4) cluster-bij-cult-cluster (Lev 2:11 verbod tegen honing in graan-offer), 5) cluster-bij-overdrachtelijk-zoetheid-cluster.
 
 **Semantische velden:** voedsel-cluster (primair); Kanaan-belofte-cluster; cult-cluster (verbod-cluster); Simson-cluster; sapientiale-cluster.
@@ -21470,8 +20814,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1706`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees devsha. Akkadisch dishpu. Ugaritisch dbsh. Arabisch dibs. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -21569,8 +20911,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √d-g-n. Klassiek-Hebreeuws dagan. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws dagan (graan), van dagan-stam. Stam-cognaat-paar met graan-en-zegen-vocabulair.
-
 **Basisbetekenis:** graan. Master kiest concordant 'graan' voor alle voorkomens. Range: 1) cluster-bij-dagan-en-tirosh-en-yitshar-paar (graan-most-olie zegen-trio Deu 7:13, 11:14 — item 8492 paar via H8492, ~25x), 2) cluster-bij-dagan-en-shemen-paar (graan-en-olie — item 8081 paar via H8081), 3) cluster-bij-dagan-Yah-zegen (Gen 27:28 Izaak-zegen-Jakob — item 23 paar via H3068), 4) cluster-bij-dagan-en-cult-eerstelingen (Lev 23:14 'eerste-graan-Yah-aanbieden' — item 211 paar via H6944), 5) cluster-bij-NT-LXX-paar G4621 sitos (~14x in NT).
 
 **Semantische velden:** graan-cluster (primair); Yah-graan-cluster; tirosh-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -21597,8 +20937,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1715`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cognaat. NT-LXX-bron G4621 sitos. NT-Mat 13 graan-en-onkruid-gelijkenis.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -21699,8 +21037,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** d-w-d. Wortel met geminaat-cluster.
 
-**Etymologie:** Proto-Semitisch *d-w-d. Cognaten: Aramees dod, Akkadisch dādu (geliefde), Ugaritisch dd, Arabisch via parallel.
-
 **Basisbetekenis:** oom-of-geliefde. Range: 1) cluster-bij-familie-relatie (oom-cluster), 2) cluster-bij-geliefde-cluster (Hooglied dominant — vast paar item 47 paar via H802 ʾishshah), 3) cluster-bij-godheids-geliefde, 4) cluster-bij-eigennaam-David-cluster, 5) overdrachtelijk-cluster.
 
 **Semantische velden:** familie-cluster (primair); huwelijks-cluster (Hooglied); godheids-cluster; eigennaam-David-cluster; affectie-cluster.
@@ -21725,8 +21061,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1730`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees dod. Akkadisch dādu. Ugaritisch dd.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -21821,8 +21155,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √d-w-r. Drie-radicaal-stam — dor is primair zn voor 'geslacht, generatie, tijd-cyclus'. Hol-medeklinker (mediae-waw). Stam-cognaat-paar met dur-werkwoord 'wonen-cyclisch'.
 
-**Etymologie:** Proto-Semitisch *d-w-r 'cyclus, generatie'. Cognaten: Aramees dor (geslacht), Akkadisch duru (cyclus-tijdperk), Ugaritisch dr (geslacht), Fenicisch dr (geslacht, in koninklijke-inscripties), Arabisch dawr (cyclus).
-
 **Basisbetekenis:** geslacht, generatie, tijd-cyclus. Master kiest concordant 'geslacht' voor alle voorkomens. Range: 1) cluster-bij-le-doroteichem (voor-jullie-geslachten — cult-formule perpetueel, item 60 paar via H3478, ~120x), 2) cluster-bij-dor-le-dor (geslacht-na-geslacht = generatie-na-generatie — item 1755 paar dominant zelf, ~25x), 3) cluster-bij-vroege-geslachten (dorot rishonim = vroegere-geslachten — item 7223 paar via H7223), 4) cluster-bij-tot-aioon-geslacht (le-dor wa-dor = van-geslacht-tot-geslacht = aioon — item 56 paar via H5769), 5) cluster-bij-rebelse-geslacht (dor zar = vreemd-geslacht of dor moreh = opstandig-geslacht Deu 32:5 — item 4775 paar via H4775).
 
 **Semantische velden:** le-doroteichem-cluster (primair, perpetueel-cult); dor-le-dor-cluster; vroege-geslachten-cluster; le-dor-wa-dor-aioon-cluster; rebelse-geslacht-cluster.
@@ -21849,8 +21181,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1755`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees dor (geslacht — direct cognaat). Akkadisch duru (cyclus-tijdperk — directe cognaat). Ugaritisch dr (geslacht). Fenicisch dr (geslacht, in koninklijke-inscripties). Arabisch dawr (cyclus — direct cognaat).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -21951,8 +21281,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √d-y. Klassiek-Hebreeuws dai. Aramees-cognaat-paar.
 
-**Etymologie:** Klassiek-Hebreeuws dai (genoeg, voldoende), van dy-deeltje. Onveranderlijk-vorm. Stam in oudste laag van semitisch genoeg-vocabulair.
-
 **Basisbetekenis:** voldoende, genoeg. Master kiest concordant 'voldoende' voor alle voorkomens. Range: 1) cluster-bij-dai-en-male-paar (voldoende-en-vol — item 91 paar via H4390, ~25x), 2) cluster-bij-dai-en-rav-paar (voldoende-en-veel — item 75 paar via H7227), 3) cluster-bij-mi-dai-en-Yah-genoeg (Job 27:8 'wat-baat-de-goddeloze-als-Yah-zijn-leven-eist' — item 23 paar via H3068), 4) cluster-bij-dai-en-zegen-Yah (Mal 3:10 'beproef-mij-of-Ik-niet-zegen-tot-er-niet-meer-ruimte-genoeg' — item 1293 paar via H1288), 5) cluster-bij-NT-LXX-paar G2425 hikanos ('genoeg-voldoende' Mat 8:8 'niet-hikanos').
 
 **Semantische velden:** genoeg-cluster (primair); Yah-genoeg-cluster; rav-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -21979,8 +21307,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1767`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees dai. NT-LXX-bron G2425 hikanos.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -22081,8 +21407,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √d-l-l. Drie-radicaal werkwoordelijke wortel voor 'zwak-zijn, gering-zijn'. Dal is bijvoeglijk-zn 'zwakke, geringe, arme'. Stam-cognaat-paar met ʿani (arme H6041) als parallel-sociale-aanduiding.
 
-**Etymologie:** Proto-Semitisch *d-l-l 'zwak-zijn'. Cognaten: Aramees dalil (zwak), Akkadisch dalalu (laag-zijn), Ugaritisch dl (zwak), Fenicisch dl (zwak), Arabisch dalla (gering-zijn).
-
 **Basisbetekenis:** zwakke, geringe, arme. Master kiest concordant 'zwakke' voor alle voorkomens. Range: 1) cluster-bij-arme-en-zwakke-paar (dal we-ʾevyon = zwakke-en-behoeftige — item 34 paar via H34 in sociale-context), 2) cluster-bij-rechtspreken-voor-zwakke (mishpat-dal = recht-voor-zwakke Spr 29:7 — item 38 paar via H4941, ~10x), 3) cluster-bij-Yah-helpt-zwakke (yhwh-magen-dallim = yhwh-schild-van-zwakken — item 23 paar via H3068), 4) cluster-bij-zwak-vee (dallot tsʾon = zwakke-schapen — item 7716 paar via H7716), 5) cluster-bij-Gideon-clan-zwakste (Ri 6:15 mishpachti dallah = mijn-clan-de-zwakste — item 39 paar via H4940).
 
 **Semantische velden:** arme-en-zwakke-paar-cluster (primair); rechtspreken-voor-zwakke-cluster; Yah-helpt-zwakke-cluster; zwak-vee-cluster; Gideon-clan-zwakste-cluster.
@@ -22109,8 +21433,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1800`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees dalil (zwak — direct cognaat). Akkadisch dalalu (laag-zijn — directe cognaat). Ugaritisch dl (zwak). Fenicisch dl (zwak). Arabisch dalla (gering-zijn — direct cognaat).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -22210,8 +21532,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** d-l-t. Drie-radicaal nominale wortel. Master rangschikt H1817c als zelfstandig delet deur.
 
-**Etymologie:** Proto-Semitisch *d-l-t. Cognaten: Aramees dalta (deur), Akkadisch daltu (deur), Ugaritisch dlt, Fenicisch dlt, Arabisch via parallel.
-
 **Basisbetekenis:** deur-of-deurpaneel. Range: 1) huis-deur (vast paar item 222 paar via H8179 shaʿar in poort-en-deur-cluster), 2) cluster-bij-cult-tabernakel-deur (vast paar item 12 paar via H1004 bayit), 3) cluster-bij-paleis-deur, 4) cluster-bij-rol-of-perkament-paneel (Jer 36:23), 5) overdrachtelijk-cluster.
 
 **Semantische velden:** architecturaal-cluster (primair); cult-deur-cluster; paleis-cluster; cluster-bij-rol; overdrachtelijk-cluster.
@@ -22243,8 +21563,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1817c`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees dalta. Akkadisch daltu. Ugaritisch dlt. Fenicisch dlt. Arabisch via parallel. De wortel is West-Semitisch breed.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -22345,8 +21663,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** d-m. Twee-radicaal cluster — primaire vorm voor bloed.
 
-**Etymologie:** Proto-Semitisch *d-m. Cognaten: Aramees dama, Akkadisch dāmu, Ugaritisch dm, Fenicisch dm, Arabisch dam.
-
 **Basisbetekenis:** bloed of bloed-vergieting. Range: 1) cluster-bij-cult-bloed-offer-cluster (vast paar item 125 paar via H4196 mizbeach in zelfde batch in dam-ʿal-mizbeach-formule), 2) cluster-bij-cult-zoen-cluster (Lev 17:11 — nefesh-be-dam), 3) cluster-bij-bloedwreker-cluster (Num 35:19 — geʾel ha-dam), 4) cluster-bij-Pesach-bloed-cluster (Exo 12:7 — dam-ha-pesach), 5) cluster-bij-cluster-bij-Abel-bloed-cluster (Gen 4:10 — qol deme-ʾachikha).
 
 **Semantische velden:** cult-bloed-offer-cluster (primair); cult-zoen-cluster; juridisch-bloedwreker-cluster; pesach-bloed-cluster; profetisch-cluster.
@@ -22368,7 +21684,8 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 | Tora | 166 |
 | Vroege Profeten | 52 |
 | Late Profeten | 98 |
-| Geschriften | 45 
+| Geschriften | 45
+
 
 ---
 
@@ -22402,8 +21719,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** d-a-m. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *d-a-m. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'gelijken'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (gelijken); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -22430,8 +21745,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1819`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -22527,8 +21840,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** d-a-m. Drie-radicaal werkwoordelijke wortel met gangbare West-Semitische morfologie.
 
-**Etymologie:** Proto-Semitisch *d-a-m. Cognaten: Aramees, Akkadisch via parallel-cluster, Ugaritisch, Arabisch via parallel-cluster. De wortel is West-Semitisch breed-stabiel.
-
 **Basisbetekenis:** basisbetekenis aansluitend bij NL-concordant 'stilvallen'. Range: 1) primaire-sense letterlijk, 2) cluster-bij-cult-cluster, 3) cluster-bij-sociale-cluster, 4) overdrachtelijk-cluster, 5) idiomatisch-cluster.
 
 **Semantische velden:** primaire-cluster (stilvallen); cult-cluster; sociaal-cluster; juridisch-cluster (waar relevant); overdrachtelijk-cluster.
@@ -22559,8 +21870,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1826a`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees-cluster, Akkadisch via parallel, Ugaritisch via koninklijk-cluster, Arabisch via parallel-stam. De wortel is West-Semitisch met stabiele functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -22656,8 +21965,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √d-m-s-q. Eigennaam Dammeseq. Aramees Dimashqa-cognaat.
 
-**Etymologie:** Klassiek-Hebreeuws Dammeseq (eigennaam-stad), niet-Hebreeuwse-leen-naam (Aramees Dimashqa). Stam-cognaat-paar met andere Aram-stadsnamen.
-
 **Basisbetekenis:** Damascus (eigennaam-stad). Master kiest concordant 'Damascus' voor alle voorkomens. Range: 1) cluster-bij-Damascus-en-Aram-paar (Damascus-en-Aram — item 758 paar via H758, ~25x), 2) cluster-bij-melekh-Damascus (koning-Damascus Aram-Damascus 1Kg 11:24 — item 4428 paar via H4428), 3) cluster-bij-Damascus-en-Israel-paar (item 60 paar via H3478), 4) cluster-bij-Damascus-en-Yah-oordeel (Jes 17:1, Amos 1:3-5 — item 23 paar via H3068), 5) cluster-bij-Damascus-en-NT-Paulus-conversion (NT-Hand 9 — item 3972 paar via G3972).
 
 **Semantische velden:** Damascus-cluster (primair); Yah-Damascus-cluster; aram-paar-cluster; eschatologische-cluster; cult-cluster.
@@ -22684,8 +21991,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1834`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees Dimashqa. Akkadisch Dimashqu-paar in Aram-context. NT-LXX-bron G1154 Damaskos. Hand 9 Paulus-Damascus-conversion.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -22783,8 +22088,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** Eigennaam Dan. Master rangschikt H1835 als eigennaam-stamnaam.
 
-**Etymologie:** Hebreeuws-eigen, mogelijk via wortel d-y-n (rechtspreken — naamgevings-cluster Gen 30:6).
-
 **Basisbetekenis:** stamnaam Dan. Range: 1) cluster-bij-12-stammen (vast paar item 193 paar via H7626 shevet), 2) cluster-bij-Bilha-zonen (Gen 30:5-6 cluster), 3) cluster-bij-noord-grens-stam (vast in Joz-corpus), 4) cluster-bij-cult-tegen-cluster (Jdg 18 — Dan-en-cult-tegen, vast paar item 116 paar via H1116 bamah), 5) cluster-bij-jakob-zegen.
 
 **Semantische velden:** stamnaam-cluster (primair); 12-stammen-cluster; geografisch-cluster (noord); cult-tegen-cluster (Jdg 17-18); patriarchaal-cluster.
@@ -22811,8 +22114,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1835`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Hebreeuws-eigen.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -22914,8 +22215,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** y-d-ʿ. Wortel verbonden met H3045 yadaʿ (kennen — item 27 paar). Master rangschikt H1847 als zelfstandig daʿat kennis.
 
-**Etymologie:** Proto-Semitisch *y-d-ʿ. Cognaten: Aramees daʿat (cluster), Akkadisch idû via parallel, Ugaritisch ydʿ (cluster), Fenicisch ydʿ. De wortel is West-Semitisch met centrale kennis-functie.
-
 **Basisbetekenis:** kennis-of-inzicht-of-bekendheid-met. Range: 1) cult-kennis-godheid (vast paar Hos 4:6, item 27 paar via H3045 yadaʿ), 2) sapientiale-kennis (Pro 1:7 reshit daʿat yir'at-YHWH — vrees-van-YHWH-aanvang-van-kennis), 3) cluster-bij-cult-onderwijzing, 4) cluster-bij-godheids-attribuut, 5) intieme-kennis-cluster.
 
 **Semantische velden:** sapientiale-cluster (primair); cult-kennis-cluster (Hos); godheids-attribuut-cluster; onderwijs-cluster; intieme-kennis-cluster (zelden).
@@ -22942,8 +22241,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1847`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees daʿat. Akkadisch idû via parallel. Ugaritisch ydʿ. Fenicisch ydʿ. De wortel is West-Semitisch breed.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -23045,8 +22342,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** d-r-kh. Drie-radicaal werkwoordelijke wortel.
 
-**Etymologie:** Proto-Semitisch *d-r-k. Cognaten: Aramees derakh, Akkadisch darāku, Ugaritisch drk.
-
 **Basisbetekenis:** treden-of-de-boog-spannen. Range: 1) cluster-bij-treden-cluster (vast paar item 86 paar via H7272 regel), 2) cluster-bij-boog-spannen (item 420 paar via H7198), 3) cluster-bij-wijngaard-treden (vast paar item 354 paar via H3754 kerem), 4) cluster-bij-bezit-betreden (Deu 11:24), 5) overdrachtelijk-cluster.
 
 **Semantische velden:** treed-cluster (primair); boog-cluster; wijnpers-cluster; bezit-betreden-cluster; cult-cluster.
@@ -23073,8 +22368,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1869`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees derakh. Akkadisch darāku. Ugaritisch drk.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -23176,8 +22469,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** d-r-k. Drie-radicaal werkwoordelijke wortel — wortel-cognaat-paar met H1869 darakh ww (betreden).
 
-**Etymologie:** Proto-Semitisch *d-r-k. Cognaten: Aramees darka, Akkadisch via parallel, Ugaritisch drk, Fenicisch drk.
-
 **Basisbetekenis:** weg of pad of wandel (overdrachtelijk: levenswandel). Range: 1) cluster-bij-pad-cluster (vast paar item 639 paar via H734 ʾorach in zelfde batch eerder), 2) cluster-bij-cult-wandel-cluster (Deu 8:2 — ha-derekh-ʾasher heholikhka), 3) cluster-bij-godheids-weg-cluster (Ps 25:4 — derakhe YHWH), 4) cluster-bij-twee-wegen-cluster (Ps 1 — derekh tsaddiqim ve-derekh reshaʿim), 5) cluster-bij-overdrachtelijk-gedrag-cluster.
 
 **Semantische velden:** pad-cluster (primair); cult-wandel-cluster; godheids-weg-cluster; sapientiale-cluster; profetisch-cluster.
@@ -23196,6 +22487,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 | Genre | Voorkomens |
 |---|--
+
 
 ---
 
@@ -23227,9 +22519,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 ## B. Wortel-analyse (anker 1)
 
-**Wortel:** √d-r-sh. Drie-radicaal werkwoordelijke wortel voor 'zoeken-met-vraag, raadplegen, navorsen'. Centraal-werkwoord met theologische gelaagdheid: Yah-zoeken → Yah-raadplegen → cult-bevragen.
-
-**Etymologie:** Proto-Semitisch *d-r-sh 'zoeken-vragen'. Cognaten: Aramees daresh (zoeken), Akkadisch dareshu (zoeken-onderzoeken), Ugaritisch drsh (zoeken), Fenicisch drsh (zoeken, in cult-inscripties), Arabisch darasa (studeren).
+**Wortel:** √d-r-sh. Drie-radicaal werkwoordelijke wortel voor 'zoeken-met-vraag, raadplegen, navorsen'. Centraal-werkwoord met geestelijke gelaagdheid: Yah-zoeken → Yah-raadplegen → cult-bevragen.
 
 **Basisbetekenis:** raadplegen, navorsen, zoeken. Master kiest concordant 'raadplegen' voor alle voorkomens. Range: 1) cluster-bij-Yah-raadplegen (darash et-yhwh = yhwh-zoeken — item 23 paar via H3068, ~50x), 2) cluster-bij-niet-Yah-raadplegen (lo-darash et-yhwh = afgoderij-context — item 23 paar via H3068, ~30x), 3) cluster-bij-Yah-eist (yhwh yidrosh = yhwh-zal-eisen-onderzoeken — item 23 paar via H3068 in juridische-context), 4) cluster-bij-bloed-eisen (darash dam = bloed-eisen — item 6256 paar via H1818, ~10x), 5) cluster-bij-vrede-zoeken (darash shalom = vrede-zoeken — item 65 paar via H7965 in Jer 29:7).
 
@@ -23257,8 +22547,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1875`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees daresh (zoeken — direct cognaat). Akkadisch dareshu (zoeken-onderzoeken — directe cognaat). Ugaritisch drsh (zoeken). Fenicisch drsh (zoeken, in cult-inscripties). Arabisch darasa (studeren — semantische uitbreiding naar systematisch-onderzoek).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -23359,8 +22647,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** h-v-l. Drie-radicaal nominale wortel. Master rangschikt H1892 als zelfstandig hevel ijdelheid-damp.
 
-**Etymologie:** Proto-Semitisch *h-b-l. Cognaten: Aramees havel, Akkadisch via parallel, Ugaritisch hbl, Arabisch habila (cluster).
-
 **Basisbetekenis:** damp of vluchtige-ijdelheid of leegheid. Range: 1) Pred-cluster hevel havalim — ijdelheid-der-ijdelheden (vast Pred 1:2), 2) cluster-bij-afgods-cluster (Deu 32:21 — afgoden-als-hevel), 3) cluster-bij-leeg-en-vluchtig (Ps 39:6 cluster), 4) cluster-bij-eigennaam-Abel (Gen 4 — sub-sense), 5) cluster-bij-cult-tegen-cluster.
 
 **Semantische velden:** vluchtigheids-cluster (primair, Pred); afgods-cluster (negatief); cult-tegen-cluster; sapientiale-cluster; cluster-bij-eigennaam.
@@ -23385,8 +22671,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1892`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees havel. Akkadisch via parallel. Ugaritisch hbl. Arabisch habila. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -23481,8 +22765,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** √h-y-h. Drie-radicaal werkwoordelijke wortel voor 'worden, geschieden, zijn'. Onderscheidt zich van √h-w-h (verouderde nevenvorm met /w/-radicaal in mid-positie) door /y/-radicaal in jongere lagen. Bevat het volledige zijn-veld: ontstaan, gebeuren, blijven, behoren-tot.
 
-**Etymologie:** Proto-Semitisch *h-w-y/h-y-y 'worden, gebeuren, zijn'. Cognaten: Aramees hawah (zijn, in Daniel-Aramees frequent), Akkadisch ewu (worden — semantische verschuiving), Ugaritisch hwy (leven), Fenicisch hwy/hyy (zijn-leven), Arabisch hawiya (vallen-zijn).
-
 **Basisbetekenis:** worden, geschieden, zijn. Master kiest concordant 'worden' voor alle voorkomens. Range: 1) cluster-bij-narratieve-overgang (va-yhi cluster — item 1961 paar dominant zelf, ~3500 wayyiqtol), 2) cluster-bij-scheppings-fiat (yehi-X = laat-X-worden — item 14 paar via H430 in Gen 1), 3) cluster-bij-tijds-aanduiding (va-yhi be-yom = en-het-was-op-de-dag — item 40 paar via H3117), 4) cluster-bij-naamgevings-formule (va-yikra-shemo X = en-noemde-zijn-naam-X gevolgd door we-hayah formule — item 99 paar via H8034), 5) cluster-bij-Yah-vergaderings-cluster (yhwh-immanu = yhwh-met-ons — item 23 paar via H3068).
 
 **Semantische velden:** narratieve-overgang-cluster (primair va-yhi); scheppings-fiat-cluster; tijds-aanduiding-cluster; naamgevings-formule-cluster; Yah-vergaderings-cluster.
@@ -23509,8 +22791,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1961`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees hawah (zijn — frequent in Daniel-Aramees, parallel aan Hebreeuwse functie). Akkadisch ewu (worden — semantische verschuiving naar transformatie). Ugaritisch hwy (leven — primair levensveld in mythologische teksten). Fenicisch hwy/hyy (zijn-leven — in koninklijke-inscripties). Arabisch hawiya (vallen-zijn — semantische verschuiving naar negatieve toestand).
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -23613,8 +22893,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** h-l-k. Drie-radicaal werkwoordelijke wortel.
 
-**Etymologie:** Proto-Semitisch *h-l-k. Cognaten: Aramees halak, Akkadisch alāku, Ugaritisch hlk, Fenicisch hlk.
-
 **Basisbetekenis:** wandelen of voortgaan of leven (ethisch). Range: 1) cluster-bij-cult-wandel-cluster (vast paar item 80 paar via H1870 derek in halakh-be-derekh-formule in zelfde batch), 2) cluster-bij-godheids-wandel-cluster (Gen 5:22 — Henoch wandelde-met-de-machtige), 3) cluster-bij-narratief-bewegings-cluster, 4) cluster-bij-cluster-bij-volg-cluster (halakh ʾachare X — afgodendienst-cluster), 5) cluster-bij-cluster-bij-strijd-uittrek-cluster (halakh-le-milchamah).
 
 **Semantische velden:** wandel-cluster (primair); cult-godheids-wandel-cluster; narratief-cluster; afgoden-cluster; militair-cluster.
@@ -23624,6 +22902,7 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Vormen die voorkomen:** ww in qal halakh (basis wandelen — dominant), niphal cluster zelden, piel hillekh (intensief), hithpael hithallekh (zich-rondbewegen, wandelen — dominant in godheids-wandel-cluster), hifil holikh (causatief — leiden, doen-gaan). Imperatief lek. Imperfectum yelek. Participium qal holekh. Verwante stamfamilie: H3212 yalak (gaan — item 46 paar via H3212 wortel-cognaat-paar — synoniem-aspect dominant), H4108 cluster bij wandel-mehlakh, H1980 zelf.
 
 **Stamfamilie uit master:** H1980, H3212, H
+
 
 ---
 
@@ -23657,8 +22936,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** h-l-l (he-lamed-lamed). Drie-radicaal werkwoordelijke wortel met geminaat-tweede-radicaal. Master rangschikt H1984b als hoofd-werkwoord halal loven of dwaas-zijn (afhankelijk van stam). De wortel heeft polysemische tak licht-stralen-loven en negatieve-tak waanzin-en-trots.
 
-**Etymologie:** Proto-Semitisch *h-l-l. Cognaten: Aramees halal (loven), Akkadisch halālu (jubelen), Ugaritisch hll (jubelen-cluster, ook in cult-context), Fenicisch hll (jubel-cluster in cult), Arabisch hallala (loven-jubelen — onveranderd via parallel-stam) en halal (krankzinnig-cluster — andere tak). De wortel is West-Semitisch met polysemische cult-en-waanzin-cluster.
-
 **Basisbetekenis:** loven-stralen of dwaas-handelen (afhankelijk van stam). Range: 1) cult-loven (vast in piel-stam halallu-yah halleluja-formule, dominant in Ps-cluster), 2) jubelen-of-roemen (qal — Job 29:3 be-hillo nero — toen-zijn-licht-straalde, lichtsymbool-cluster), 3) zich-beroemen (hitpael — vast met be- bij beroem-context Ps 34:3), 4) waanzinnig-handelen (poel-stam — vast in Job-Pred-cluster, item 174 paar via H7451c bij raʿ), 5) ophemelen-prijzen-mens (Pro 27:2 idiomatisch). Cult-loven-piel-sub-sense dominant.
 
 **Semantische velden:** cult-lof-cluster (primair, halleluja-formule); licht-stralen-cluster (qal-zelden); zelf-beroem-cluster (hitpael); waanzin-cluster (poel — negatieve pool); cult-feest-cluster.
@@ -23690,8 +22967,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1984b`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees halal (loven — Targumim). Ugaritisch hll (jubelen-cluster). Akkadisch halālu (jubelen — administratief). Fenicisch hll (cult-cluster). Arabisch hallala (loven-jubelen — onveranderd). De wortel is West-Semitisch met cult-loven-functie.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 
@@ -23791,8 +23066,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 
 **Wortel:** h-m-h. Wortel met geminaat-tweede-radicaal-cluster. Master rangschikt H1995a als zelfstandig hamon menigte-gedruis.
 
-**Etymologie:** Proto-Semitisch *h-m-h. Cognaten: Aramees hama (cluster), Akkadisch hamû via parallel, Ugaritisch hm, Arabisch via parallel.
-
 **Basisbetekenis:** menigte of gedruis-en-tumult. Range: 1) volks-menigte (vast paar item 230 paar via H7227a rav cluster), 2) cluster-bij-leger-menigte (item 188 paar via H6635a tsava), 3) cluster-bij-water-gedruis (Isa 17:12 cluster), 4) cluster-bij-rijkdoms-overvloed (Pred 5:9), 5) cluster-bij-cult-vergaderings-tumult.
 
 **Semantische velden:** menigte-cluster (primair); leger-menigte-cluster; water-tumult-cluster; rijkdoms-overvloeds-cluster; cult-tumult-cluster.
@@ -23823,8 +23096,6 @@ _Sjabloon-velden gemarkeerd met `_[handmatig invullen]_` moeten via zeven-ankers
 **Volledige vers-lijst:** zie omgekeerde index `AP/Kennis/index/strong-vers-hebreeuws.json` onder key `H1995a`.
 
 ## E. Cognaten en LXX-koppeling (anker 4)
-
-**Cognaten in zustertalen:** Aramees hama. Akkadisch hamû via parallel. Ugaritisch hm. Arabisch via parallel. De wortel is West-Semitisch.
 
 **Griekse LXX-tegenhangers (top 5 via LIFT-score):**
 

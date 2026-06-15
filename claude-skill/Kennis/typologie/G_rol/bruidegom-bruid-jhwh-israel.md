@@ -124,7 +124,7 @@ Bij vragen over **Hosea-Gomer narratief**: cluster E + cross-link *hosea* (toeko
 
 ## Waarschuwingen
 
-**Cluster A `arshthi·k`** Hos 2:19-20 — bron-eigen drievoudig herhaald. **Niet over-claimen** op specifieke "drie-voudig betekent drie-eenheid" of vergelijkbare lezingen — bron-feit is herhalings-emphasis volgens Hebreeuwse stijl-conventie (vergelijkbaar Jes 6:3 `qadosh qadosh qadosh` driemaal). Bron-eigen N1 herhaling met progressieve attributen (ewig + gerechtigheid + trouw).
+**Cluster A `arshthi·k`** Hos 2:19-20 — bron-eigen drievoudig herhaald. **Niet over-claimen** op een trinitarische lezing van het drievoud; die valt buiten de typologie-laag — bron-feit is herhalings-emphasis volgens Hebreeuwse stijl-conventie (vergelijkbaar Jes 6:3 `qadosh qadosh qadosh` driemaal). Bron-eigen N1 herhaling met progressieve attributen (ewig + gerechtigheid + trouw).
 
 **Cluster B `bo·li·k oshi·k`** Jes 54:5 — bron-eigen `ba'al`-werkwoord. **Niet vermengen** met Baal-cult-naam (zelfde wortel maar bron-eigen verschillende toepassing — `ba'al` = `meester/echtgenoot`-functie in OT-Hebreeuws). Bron-feit: Hos 2:16-17 (NL: 2:18-19) levert bron-eigen `tiqra·i ish·i u·la-thqra·i l·i oud bo·l·i` (gij zult Mij `Mijn man` noemen en niet meer `Mijn Baal`) — bron-eigen wordt gespeeld met dubbel-betekenis.
 
@@ -161,4 +161,4 @@ Alle vers-references in deze entry op 2026-05-08 geverifieerd via grep + woord-v
 3. **Eze 16:1-43 + 23 overspel-narratieven volledige uitwerking** — past in toekomstige *oholah-oholiba* (Fase 3 uitbreiding negatief type) of *twee-zusters* (Fase 9).
 4. **Hos 1-3 Gomer-Loruchamah-Loammi naamgeving + herroeping cyclus** — past in toekomstige *hosea* (Fase 3 uitbreiding) of *naamgeving-omkering* (Fase 7 uitbreiding).
 5. **`chephtzi-bah` Jes 62:4 ↔ Sion-naamgeving + Op 21:2** Nieuw-Jeruzalem-bruid-formule — past in `./bruidegom-bruid-christus-gemeente.md` of *sion-jeruzalem* (bestaand).
-6. **Sinai-huwelijks-verbond typologie Exo 19-24 + Hebr 8 + Hebr 12:18-24 contrast** — past in toekomstige *twee-verbonden* (Fase 9) — Sinai versus Sion.
+6. **Sinai-huwelijks-verbond typologie Exo 19-24 + Hebr 8 + Hebr 12:18-24 contrast** — past in toekomstige *twee-verbonden* (Fase 9) — Sinai versus Si

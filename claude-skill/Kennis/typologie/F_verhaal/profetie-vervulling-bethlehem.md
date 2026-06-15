@@ -80,7 +80,7 @@ Interpretatieve framings. Dat de profetie-vervulling-typologie op andere bredere
 1. **Mat 2:5 expliciete profetie-vervulling-formule** `houtōs gegraptai dia tou prophētou`. **N1**.
 2. **Mat 2:6 woord-voor-woord-citaat van Mi 5:2** (semantisch identiek met polysemie-keuze elef → hēgemosin). **N1**.
 3. **Mat 2:6 samengesteld citaat** met 2 Sam 5:2 / 1 Kr 11:2 herder-formule. **N1 expliciete tekst-techniek** (citaat-combinatie binnen NT).
-4. **Niet door tekst expliciet gelegd:** uitgangen-vanouds-formule (Mi 5:2b `m·qdm m·imi oulm`) als pre-existentie-claim — Mat citeert dit niet. **N3-clue** als interpretatieve framing.
+4. **Niet door tekst gelegd:** een pre-existentie-claim uit de uitgangen-vanouds-formule (Mi 5:2b `m·qdm m·imi oulm`) — Mat citeert dit niet. De claim valt buiten de typologie-laag; alleen het woord-feit (Mi 5:2b in MT aanwezig) blijft.
 5. **Niet door tekst expliciet gelegd:** Bethlehem als typologische plaats voor bredere thema's buiten messias-geboorte. **N3-clue**.
 
 ## Watermerk-verbinding
@@ -125,4 +125,4 @@ Alle vers-references in deze entry op 2026-05-08 geverifieerd via grep + woord-v
 3. **Polysemie elef → hēgemosin** Mat 2:6 — al uitgewerkt in `../B_cijfer/1000.md` Cluster H als modelgeval.
 4. **Mi 5:2b `m·qdm m·imi oulm`** uitgangen-vanouds — past in toekomstige *m-qdm-m-imi-oulm* of *oulm-cluster*.
 5. **Bethlehem-Efratha naam-paar** Gen 35:19 + 48:7 + Ruth 4:11 + Mi 5:2 — past in toekomstige update van `../A_entiteit/stad-bethlehem.md`.
-6. **Mat 2:6 herder-formule `poimanei`** — past in toekomstige `../G_rol/herder-schaap.md` (Fase 8) als christologische bron-koppeling.
+6. **Mat 2:6 herder-formule `poimanei`** — past in toekomstige `../G_rol/herder-schaa

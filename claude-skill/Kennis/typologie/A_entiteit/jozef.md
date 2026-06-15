@@ -14,7 +14,7 @@
 
 ## Hypothese (terughoudend gemaakt)
 
-Tekst-eigen feiten. Gen 37:3 noemt "u·oshe l·u kthnth phsim" ("hij maakte hem een veelkleurige rok", H3801+H6446). Gen 37:4 noemt expliciet "u·ishnau ath·u" ("zij haatten hem"). Gen 37:28 noemt "u·imkru ath-iusph ... b·oshrim ksph" ("zij verkochten Jozef voor twintig zilver"). Gen 41:14 noemt "u·iritz·eu mn-e·bur" ("zij brachten hem ijlings uit de put", H953 "bor"). Gen 41:46 noemt "u·iusph bn-shlshim shne" ("Jozef was zoon van dertig jaar"). Gen 50:20 noemt "u·athm chshbthm ol·i roe aleim chshb·e l·tbe ... l·echith om-rb" — bron-eigen theologische sleutel (kwaad → goed → behoud-volk).
+Tekst-eigen feiten. Gen 37:3 noemt "u·oshe l·u kthnth phsim" ("hij maakte hem een veelkleurige rok", H3801+H6446). Gen 37:4 noemt expliciet "u·ishnau ath·u" ("zij haatten hem"). Gen 37:28 noemt "u·imkru ath-iusph ... b·oshrim ksph" ("zij verkochten Jozef voor twintig zilver"). Gen 41:14 noemt "u·iritz·eu mn-e·bur" ("zij brachten hem ijlings uit de put", H953 "bor"). Gen 41:46 noemt "u·iusph bn-shlshim shne" ("Jozef was zoon van dertig jaar"). Gen 50:20 noemt "u·athm chshbthm ol·i roe aleim chshb·e l·tbe ... l·echith om-rb" — tekst-eigen sleutel (kwaad → goed → behoud-volk).
 
 NT-eigen typologie-claim. **Hand 7:13** noemt expliciet "en tō deuterō anegnōristhē Iōsēph tois adelphois autou" — "bij de tweede keer werd Jozef bekend aan zijn broers" (G1208+G319). Stefanus' eigen formule: bekendmaking-bij-tweede-keer is bron-bevestigd. Hand 7:9-16 hervat het Jozef-narratief uitvoerig. Heb 11:22 noemt Jozef in geloofs-galerij.
 
@@ -98,7 +98,7 @@ Interpretatieve framings. Dat "leeftijd 30 Jozef (Gen 41:46) = leeftijd 30 Chris
 
 **Verspreiding.** Pentateuch (Gen) sterk + Psalm 105 + Handelingen + Hebreeën + structurele NT-echo's zonder citaat.
 
-**Wegnemingstoets.** Bij wegnemen Hand 7:13 valt **expliciete tweede-keer-bekendmaking-claim** weg en wordt cluster E N2-structureel. Hand 7:13 is de sleutel die cluster E op N1 houdt. Bij wegnemen Gen 50:20 valt theologische sleutel weg, maar Hand 7:9-10 dragen "redder-via-lijden"-patroon door.
+**Wegnemingstoets.** Bij wegnemen Hand 7:13 valt **expliciete tweede-keer-bekendmaking-claim** weg en wordt cluster E N2-structureel. Hand 7:13 is de sleutel die cluster E op N1 houdt. Bij wegnemen Gen 50:20 valt de tekst-eigen sleutel weg, maar Hand 7:9-10 dragen "redder-via-lijden"-patroon door.
 
 **NT-OT verbinding (eerlijke beoordeling).**
 1. **Wel door tekst expliciet gelegd:** Hand 7:13 "en tō deuterō anegnōristhē" — bekendmaking-bij-tweede-keer. **N1**.

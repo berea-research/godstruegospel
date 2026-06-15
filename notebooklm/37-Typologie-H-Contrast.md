@@ -144,7 +144,7 @@ Cross-references in `adam.md` cluster B verbinden naar deze entry; vooruitwijzin
 
 **1 Kor 15:46 volgorde-uitspraak.** "Het geestelijke is niet eerst, maar het zielige; daarna het geestelijke." De tekst markeert hier de chronologische volgorde Adam-eerst, Christus-daarna. Niet inverteren naar een platonische voor-existentie.
 
-**Geen koppeling aan kerkvaders of moderne typologen.** De skill leest de structuur uitsluitend uit de tekst zelf. Rom 5:14 + 1 Kor 15:45 + Gen 2:7 zijn voldoende fundament. Geen ondersteuning vanuit Irenaeus' recapitulatio, Augustinus' Adam-leer, Federal-Headship constructies, of welke moderne typologe dan ook nodig of toegestaan.
+**Geen koppeling aan buitenbijbelse bronnen.** De skill leest de structuur uitsluitend uit de tekst zelf. Rom 5:14 + 1 Kor 15:45 + Gen 2:7 zijn voldoende fundament. Geen ondersteuning vanuit kerkvaders, dogmatische constructies of moderne typologen nodig of toegestaan.
 
 ## Bron-verificatie
 

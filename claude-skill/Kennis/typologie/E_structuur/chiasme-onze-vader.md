@@ -99,7 +99,7 @@ Bij vragen over **Mat 6:13b doxologie tekstkritisch**: cluster E.
 
 ## Waarschuwingen
 
-**Cluster A "epiousios" (G1967) hapax** — tekst-eigen unieke hapax. Vertaal-debat: "dagelijks" (Vulgaat "quotidianum"), "noodzakelijk" (Hieronymus), "voor-de-komende-dag" (Origenes), "boven-substantieel" (Vulgaat in Mat "supersubstantialem"). Niet over-claimen op specifieke vertaling-typologie.
+**Cluster A "epiousios" (G1967) hapax** — tekst-eigen unieke hapax met onzekere betekenis; de grondtekst geeft geen sluitende afleiding. Niet over-claimen op een specifieke vertaling of vertaling-typologie.
 
 **Cluster A vs B Mat-Luk-onderscheid** — bron-feit-verschil:
 - Mat heeft "ta ofeilēmata" (schulden, financieel); Luk heeft "tas hamartias" (zonden, moreel).

@@ -8,8 +8,8 @@
 - **Bron-discipline:** uitsluitend `Kennis/puur/` en `Kennis/strong/`. Sola scriptura. Geen training-input.
 - **As 1 (categorieën):** A4 (plaatsen-bergen)
 - **As 2 (lagen):** L1, L2 (waar door tekst zelf bevestigd)
-- **As 3 (zekerheid):** N1 voor cluster A Ri 4 Tabor-narratief; N1 voor Ps 89:12 + Jer 46:18 Tabor-vermeldingen; **N3-clue** voor "Tabor = verheerlijkings-berg" (Mat 17 / Mar 9 / Luk 9 noemen geen naam, alleen "horos hypsēlon"; 2 Pet 1:18 noemt "horei tō hagiō" zonder naam); N3-clue voor "Debora-Barak-overwinning ↔ christologische bevrijdings-typologie".
-- **Tags:** Tavor, Tabor, Devorah-Barak, Sisera, har-thabor, mogelijke-verheerlijking-berg, traditioneel-niet-bron-eigen
+- **As 3 (zekerheid):** N1 voor cluster A Ri 4 Tabor-narratief; N1 voor Ps 89:12 + Jer 46:18 Tabor-vermeldingen. Tekst-feit: de verheerlijkings-berg blijft in de grondtekst ónbenoemd (Mat 17 / Mar 9 / Luk 9 noemen alleen "horos hypsēlon"; 2 Pet 1:18 "horei tō hagiō" zonder naam).
+- **Tags:** Tavor, Tabor, Devorah-Barak, Sisera, har-thabor, verheerlijkings-berg-onbenoemd
 - **Zie ook:** `./mozes.md`, `./elia.md` cluster E, `../B_cijfer/40.md` cluster K
 
 ## Hypothese (terughoudend gemaakt)
@@ -18,7 +18,7 @@ Tekst-eigen feiten. Ri 4:6 noemt Devora's bevel aan Barak "lekh u·mashakhta b·
 
 NT-eigen typologie-claim. **Geen NT-tekst noemt Tabor expliciet.** Mat 17:1 + Mar 9:2 + Luk 9:28 noemen "horos hypsēlon kat idian" (een hoge berg apart). 2 Pet 1:18 noemt "horei tō hagiō" (heilige berg) zonder naam.
 
-Interpretatieve framings. Dat de verheerlijkings-berg = Tabor: traditionele identificatie sinds Origenes, niet bron-eigen. Alternatief Hermon (geografisch logischer gezien proximity Caesarea Filippi Mat 16:13). **N3-clue.** Dat Devora-Barak-overwinning op Tabor (Ri 4) een typologische voorafschaduwing is van christologische bevrijding: gedeeld overwinnings-thema, geen NT-koppeling. **N3-clue.**
+Wat de tekst NIET zegt. De grondtekst noemt geen naam voor de verheerlijkings-berg; een identificatie als Tabor is niet bron-eigen en valt buiten de typologie-laag. De tekst legt evenmin een koppeling tussen de Devora-Barak-overwinning op Tabor (Ri 4) en enig later bevrijdings-motief; beide blijven op zichzelf staande tekst-feiten.
 
 ## Voorkomens (per cluster)
 
@@ -60,8 +60,8 @@ Interpretatieve framings. Dat de verheerlijkings-berg = Tabor: traditionele iden
 
 **NT-OT verbinding (eerlijke beoordeling).**
 1. **Geen NT-tekst noemt Tabor expliciet.**
-2. **Niet door tekst expliciet gelegd:** Verheerlijkings-berg = Tabor. **N3-clue** (traditionele identificatie sinds Origenes, niet bron-eigen).
-3. **Niet door tekst expliciet gelegd:** Devora-Barak-overwinning ↔ christologische bevrijding. **N3-clue**.
+2. **Niet door tekst gelegd:** verheerlijkings-berg = Tabor. Berg blijft onbenoemd in de grondtekst; identificatie valt buiten de typologie-laag.
+3. **Niet door tekst gelegd:** enige koppeling Devora-Barak-overwinning ↔ later bevrijdings-motief.
 
 ## Watermerk-verbinding
 
@@ -69,11 +69,11 @@ Bij vragen over **Tabor, Devora-Barak, Sisera-overwinning, Ri 4-5**: cluster A.
 
 Bij vragen over **Tabor + Hermon, Ps 89, Jer 46 Tabor-Karmel, Hos 5**: cluster B.
 
-Bij vragen over **verheerlijkings-berg Mat 17, "horos hypsēlon", 2 Pet 1:18 horei tō hagiō**: cluster C **(met expliciete N3-clue waarschuwing dat Tabor-identificatie traditioneel is, niet bron-eigen)**.
+Bij vragen over **verheerlijkings-berg Mat 17, "horos hypsēlon", 2 Pet 1:18 horei tō hagiō**: cluster C **(met expliciete waarschuwing dat de berg in de grondtekst onbenoemd blijft; geen Tabor-identificatie)**.
 
 ## Waarschuwingen
 
-**Verheerlijkings-berg-identificatie als Tabor** is **traditionele** identificatie (Origenes, ca. 230 n.Chr.). **Geen NT-tekst noemt Tabor expliciet** in verheerlijkings-context. Mat 17:1 / Mar 9:2 / Luk 9:28 noemen alleen "horos hypsēlon"; 2 Pet 1:18 noemt "horei tō hagiō". Alternatief Hermon (geografisch logischer gezien proximity Caesarea Filippi Mat 16:13). **N3-clue**, niet over-claimen.
+**Verheerlijkings-berg blijft onbenoemd.** **Geen grondtekst noemt Tabor** in verheerlijkings-context. Mat 17:1 / Mar 9:2 / Luk 9:28 noemen alleen "horos hypsēlon"; 2 Pet 1:18 noemt "horei tō hagiō". Een naam-identificatie (Tabor, Hermon of anders) valt buiten de typologie-laag — niet over-claimen.
 
 **Cluster A Devora-Barak-narratief** — Tabor is bron-eigen overwinnings-locatie. Niet over-claimen op typologische lading buiten geografisch feit + Devora-lied (Ri 5).
 
@@ -86,7 +86,7 @@ Bij vragen over **verheerlijkings-berg Mat 17, "horos hypsēlon", 2 Pet 1:18 hor
 Alle 14 vers-references in deze entry op 2026-05-07 geverifieerd via `audit_v2.py` tegen `Kennis/strong/[boek].jsonl`. Existentie 100% (14/14). Steekproef-citaten Ri 4:6+12+14, Ri 5:4+5, Ps 89:12, Jer 46:18, Hos 5:1, Mat 17:1+2, Mar 9:2, Luk 9:28, 2 Pet 1:17+18 woord-voor-woord met bron vergeleken (transliteratie + Strong-codes).
 
 Eerdere versie corrigeerd:
-- **Verheerlijkings-berg = Tabor** als impliciete identificatie → corrigeerd naar **N3-clue** (geen NT-tekst, alternatief Hermon mogelijk).
+- **Verheerlijkings-berg = Tabor** als impliciete identificatie → verwijderd; berg blijft in de grondtekst onbenoemd, naam-identificatie valt buiten de typologie-laag (zuivering 2026-06-15).
 - **Cluster B uitgebreid** met Jer 46:18 + Hos 5:1 + Ri 5:4-5 (Devora-lied) als bron-eigen Tabor-vermeldingen.
 - **2 Pet 1:17-18** als bron-eigen NT-vermelding van "horei tō hagiō" expliciet toegevoegd.
 - **Mat 17 vs Luk 9 dagen-verschil** ("hex" vs "oktō") als bron-eigen tekst-onderscheid expliciet gemarkeerd.
@@ -94,7 +94,7 @@ Eerdere versie corrigeerd:
 
 ## Vervolgvragen
 
-1. Verheerlijkings-berg-identificatie als Tabor — buiten typologie-laag tenzij tekst expliciet wordt. **N3-clue**.
+1. Verheerlijkings-berg-identificatie als Tabor — buiten typologie-laag; berg blijft onbenoemd in de grondtekst.
 2. Cluster A Devora-typologie als vrouwelijk-leiderschap — past in toekomstige meta-entry over richters-typologie.
 3. Cluster C Mat 17 / Mar 9 / Luk 9 / 2 Pet 1 — verheerlijkings-berg verdient eigen entry los van Tabor-identificatie. Past in `F_verhaal/verschijning-aan-verlatene` (Fase 7) of eigen sub-meta?
 4. Cluster A Ri 5:5 "zeh Sinai" + Cluster B Ps 89:12 Tabor + Hermon — verbinding Sinai-Tabor-Hermon-as. Past in `D_taal` (Fase 5) of meta-onderzoek bergen-as.

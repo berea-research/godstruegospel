@@ -576,7 +576,7 @@ A    1:1-3      Eerste opdracht — Jona vlucht
 
 **Bron-eigen `lk-l·k`-paronomasie** (Gen 12:1 en Gen 22:2 — alleen deze twee plaatsen in Schrift gebruiken deze imperatief-formule met datief-suffix). Bron-feit van **dubbele-formule-haakje** rondom Abraham-cyclus.
 
-**Beperking**: chiasme-architectuur van Gen 12-22 als geheel is **interpretatief** (verschillende commentatoren tellen verschillende centra: Gen 15 verbond, Gen 17 besnijdenis, Gen 18 drie bezoekers, Gen 19 Sodom-oordeel). **N2** als structuur-aanwijzing; **N1** alleen voor het bron-eigen `lk-l·k`-formule-haakje. Niet over-claimen op vol-uitgewerkte chiasme-architectuur.
+**Beperking**: een chiasme-architectuur van Gen 12-22 als geheel is **interpretatief** — de tekst geeft geen vast centrum, en meerdere kandidaat-centra zijn mogelijk (Gen 15 verbond, Gen 17 besnijdenis, Gen 18 drie bezoekers, Gen 19 Sodom-oordeel). **N2** als structuur-aanwijzing; **N1** alleen voor het bron-eigen `lk-l·k`-formule-haakje. Niet over-claimen op vol-uitgewerkte chiasme-architectuur.
 
 ### Cluster C — Jozef-cyclus (Gen 37-50): chiasme-aanwijzing rond gevangenschap [N2]
 
@@ -594,7 +594,7 @@ A    1:1-3      Eerste opdracht — Jona vlucht
 
 **Bron-eigen `kthnth`-Strong (H3801, gewaad)** verschijnt 8× in Jozef-cyclus (Gen 37 + 41 + 42 + 47), markerend symbool-thema. **Bron-eigen vervulling-vier** van Gen 37:5-11 droom-buiging in Gen 42-50.
 
-**Beperking**: vol-uitgewerkte chiasme-architectuur van Gen 37-50 wordt door verschillende commentatoren verschillend gestructureerd. **N2** als structuur-aanwijzing; **N1** voor het bron-eigen vervulling-vier en gewaad-thema. Niet over-claimen op fix chiasme-centrum.
+**Beperking**: een vol-uitgewerkte chiasme-architectuur van Gen 37-50 is interpretatief — de tekst geeft geen vast centrum of vaste indeling. **N2** als structuur-aanwijzing; **N1** voor het bron-eigen vervulling-vier en gewaad-thema. Niet over-claimen op fix chiasme-centrum.
 
 ### Cluster D — Andere narratief-chiasme-aanwijzingen [N2/N3-clue]
 
@@ -636,7 +636,7 @@ Bij vragen over **chiasme versus inclusio versus parallellisme**: zie `./chiasme
 
 ## Waarschuwingen
 
-**Boek-niveau chiasme is interpretatief afhankelijk van indeling-keus.** Verschillende commentatoren tellen verschillende paren of centra. **Robuust voor Jona** (bron-eigen woord-voor-woord parallel-formule); **interpretatief voor andere boeken**. Niet over-claimen op fix-chiasme-architectuur waar bron alleen losse parallel-aanwijzingen geeft.
+**Boek-niveau chiasme is interpretatief afhankelijk van indeling-keus.** De tekst legt geen vaste paren of centra vast. **Robuust voor Jona** (bron-eigen woord-voor-woord parallel-formule); **interpretatief voor andere boeken**. Niet over-claimen op fix-chiasme-architectuur waar bron alleen losse parallel-aanwijzingen geeft.
 
 **Cluster A Jona** chiasme is **bron-eigen expliciete woord-voor-woord-formule**. De `qum-lk-al-ninue-e·oir-e·gdule`-formule met variant-marker `shnith` en omkering `l·brch m·l·phni ieue` ↔ `u·ilk k·dbr ieue` is expliciet. Robuust **N1**.
 
@@ -669,8 +669,7 @@ Steekproef-Jona-formule woord-voor-woord met bron vergeleken (Hebreeuwse karakte
 4. **`kthnth phsim` Jozef ↔ `kthnth pothnth` Tamar** Gen 37 + 2 Sam 13 — beide gewaad-symbolen van geliefde-koningskind. Past in `../A_entiteit/jozef.md` of *kthnth-cluster* (toekomstig).
 5. **Job-boek raamwerk-chiasme** (proza 1-2 ↔ 42:7-17 omklemt poëzie 3-42:6) — verdient eigen analyse `./raamwerk-job.md` (toekomstig).
 6. **Boek Esther chiasme** — al uitgewerkt in `./chiasme-ester.md`.
-7. **Lukas-Handelingen narratief-progressie** als tegen-voorbeeld (lineair, niet chiastisch) — past in *narratief-progressie-lukas-handelingen* (toekomstig).
-
+7. **Lukas-Handelingen narratief-progressie** als tegen-voorbeeld (lineair, niet chiastisch) — past in *narratief-progressie-lukas-handelin
 ---
 
 
@@ -779,7 +778,7 @@ Bij vragen over **Mat 6:13b doxologie tekstkritisch**: cluster E.
 
 ## Waarschuwingen
 
-**Cluster A "epiousios" (G1967) hapax** — tekst-eigen unieke hapax. Vertaal-debat: "dagelijks" (Vulgaat "quotidianum"), "noodzakelijk" (Hieronymus), "voor-de-komende-dag" (Origenes), "boven-substantieel" (Vulgaat in Mat "supersubstantialem"). Niet over-claimen op specifieke vertaling-typologie.
+**Cluster A "epiousios" (G1967) hapax** — tekst-eigen unieke hapax met onzekere betekenis; de grondtekst geeft geen sluitende afleiding. Niet over-claimen op een specifieke vertaling of vertaling-typologie.
 
 **Cluster A vs B Mat-Luk-onderscheid** — bron-feit-verschil:
 - Mat heeft "ta ofeilēmata" (schulden, financieel); Luk heeft "tas hamartias" (zonden, moreel).
@@ -1104,7 +1103,7 @@ Bij vragen over **getalsformule-techniek als wijsheids-figuur**: alle clusters.
 
 **X+1-formule is bron-zichtbaar** in grondtekst. Vertalingen brengen het meestal correct over (in tegenstelling tot acrostichon dat onzichtbaar wordt). Maar **vers-nummering verschilt MT versus westerse vertalingen** — bij citatie altijd MT-nummering aangeven naast S4A.
 
-**Cluster A Spr 30** kent **vier 3+4-formules + één alleen-4-list**. Niet alle commentatoren tellen dit zo (sommigen beschouwen 30:15-16 als deel van een andere structuur); MT-bron toont vier aparte 3+4-eenheden plus de aparte alleen-4-eenheid (24-28). Bron-feit van vier formule-eenheden + één alleen-4-list.
+**Cluster A Spr 30** kent **vier 3+4-formules + één alleen-4-list**. De indeling van 30:15-16 is interpretatief (kan ook als deel van een andere structuur worden gelezen); MT-bron toont vier aparte 3+4-eenheden plus de aparte alleen-4-eenheid (24-28). Bron-feit van vier formule-eenheden + één alleen-4-list.
 
 **Cluster B Amos 1-2** acht herhalingen is **bron-eigen feit**. Interpretatie als "achtste = jubelei-octave-getal-typologie waarbij Israël als octave-doorbreker wordt gemarkeerd" is **N3-clue** (rekenkundig feit getal-acht overstijgt zeven-volheid; typologische lading interpretatief).
 
@@ -1779,7 +1778,7 @@ Interpretatieve framings. Dat refrein = "liturgische antifoon-typologie" of "res
 
 **Bron-eigen 26 herhalingen** zonder enige variatie in formule. Volgens MorphHB-telling: **26 van 26 verzen bevatten "chsd·u"**. Dit is de meest extreme refrein-saturation van het Psalter.
 
-**Cluster-thema's** zijn tekst-eigen drie-deling: schepping (4-9), exodus (10-15), gevolgen (16-22). Niet alle commentatoren delen het zo; de drie-deling is bron-detecteerbaar via thema-clusters in vers-1ste-helften.
+**Cluster-thema's** zijn tekst-eigen drie-deling: schepping (4-9), exodus (10-15), gevolgen (16-22). De exacte grens-keuze is interpretatief; de drie-deling is bron-detecteerbaar via thema-clusters in vers-1ste-helften.
 
 ### Cluster B — Ps 107: dubbele refrein-structuur (4× cry-formule + 4× chesed-refrein) [N1]
 
@@ -1939,8 +1938,7 @@ Steekproef-voorkomens woord-voor-woord met bron vergeleken (Hebreeuwse karakters
 4. **Ezechiël "zij zullen weten dat Ik JHWH ben"-formule** — exacte teller, distributie over hoofdstukken, theologische functie. Verdient eigen entry `B_cijfer/refrein-Eze-70.md`.
 5. **Op 4:8 4× "agios" (Heilig) + Op 4-5 hymnen** — NT-vergelijking met OT-refrein-Psalmen. Past in toekomstige meta-entry `E_structuur/refrein-NT-openbaring.md`.
 6. **Ps 46 ieue tzbauth om·nu ↔ Jes 7:14 Immanuel** — bron-eigen wortel-paronomasie; typologische brug interpretatief. Past in `D_taal/paronomasie-immanuel.md` (toekomstig).
-7. **Cluster H — overig refrein-onderzoek**: Ps 49 vs 12+20 ("mens in eer blijft niet"); Ps 56 vs 4+10-11 ("op God vertrouw ik"); Ps 57 vs 5+11 ("verhef U boven hemel"); Ps 59 vs 9-10+17 (hoorvragen); Ps 99 vs 5+9 (qadosh-buigen). Buiten deze entry; verdient eigen ronde later.
-
+7. **Cluster H — overig refrein-onderzoek**: Ps 49 vs 12+20 ("mens in eer blijft niet"); Ps 56 vs 4+10-11 ("op God vertrouw ik"); Ps 57 vs 5+11 ("verhef U boven hemel"); Ps 59 vs 9-10+17 (hoorvragen); Ps 99 vs 5+9 (qadosh-buigen). Buiten deze entry; verdient eigen ronde late
 ---
 
 
@@ -2089,7 +2087,7 @@ Bij vragen over **2 Pet 1 7-voudige geestelijk-vorming-keten**: cluster E (verdi
 
 **Cluster B Rom 5:3-5** is **4-traps staircase**. Niet over-claimen op een specifieke "stoïcijnse" of "psychologische" lezing — de keten gaat over **geestelijke vorming via verdrukking**, niet over generieke karakter-ontwikkeling. Bron-eigen context: vs 1-2 wijzen op gerechtvaardigd-zijn-uit-geloof, en vs 5 noemt expliciet `pneumatos hagiou tou dothentos` (pneuma hagion gegeven) als bron van keten-werking.
 
-**Cluster C Rom 8:29-30** is **5-traps staircase** in expliciete heils-orde. **Aoristus-tijd** in elke schakel is bron-feit; eschatologische interpretatie buiten typologie-laag. Niet als bewijs voor specifieke "Calvinistische TULIP-leer" of "Arminiaanse universele genade-leer" hanteren — bron geeft alleen de keten-volgorde, niet de logische volgorde van toepassing op individuele personen.
+**Cluster C Rom 8:29-30** is **5-traps staircase** in expliciete heils-orde. **Aoristus-tijd** in elke schakel is bron-feit; eschatologische interpretatie buiten typologie-laag. Niet als bewijs voor enige specifieke heils-leer of dogmatische school hanteren — bron geeft alleen de keten-volgorde, niet de logische volgorde van toepassing op individuele personen.
 
 **Cluster D Jak 1:14-15** is **3-traps staircase met geboorte-metafoor**. Bron-eigen werkwoord-paren `sullabousa tiktei` + `apotelestheisa apokuei` zijn vrouwelijk-geboorte-werkwoorden — niet als gewone metaforen behandelen. Niet over-claimen op specifieke "begeerte = vrouw" of "Eva-typologie" toepassing.
 

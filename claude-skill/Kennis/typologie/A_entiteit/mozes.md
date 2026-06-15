@@ -8,7 +8,7 @@
 - **Bron-discipline:** uitsluitend `Kennis/puur/` en `Kennis/strong/`. Sola scriptura. Geen training-input.
 - **As 1 (categorieën):** A1 (christustypen via meervoudige NT-claims), G1 (drie ambten profeet raakvlak), G6 (knecht-heer raakvlak)
 - **As 2 (hermeneutische lagen):** L1, L2 (waar door tekst zelf bevestigd)
-- **As 3 (algemeen zekerheids-niveau):** **N1 voor cluster B** (Hand 3:22, 7:37, Joh 5:46 citeren Deu 18 letterlijk), **N1 voor cluster E koperen-slang** (Joh 3:14 expliciet) **+ rots-water** (1 Kor 10:4 expliciet "petra de ēn ho Christos") **+ doop-in-Mozes** (1 Kor 10:2 expliciet); N1 voor cluster A en C en D feiten; N2 voor "Mozes-baby-verberging Exo 2:2 ↔ Christus-baby-Mat 2"-parallel; N2 voor "manna-typologie" (Joh 6:31-51 hervat manna-thema, maar koppelt expliciet aan "ek tou ouranou"-claim, niet aan Mozes als persoon); N3-clue voor "Mozes-substitutie Exo 32:32 = Christus-substitutie".
+- **As 3 (algemeen zekerheids-niveau):** **N1 voor cluster B** (Hand 3:22, 7:37, Joh 5:46 citeren Deu 18 letterlijk), **N1 voor cluster E koperen-slang** (Joh 3:14 expliciet) **+ rots-water** (1 Kor 10:4 expliciet "petra de ēn ho Christos") **+ doop-in-Mozes** (1 Kor 10:2 expliciet); N1 voor cluster A en C en D feiten; N2 voor "Mozes-baby-verberging Exo 2:2 ↔ Christus-baby-Mat 2"-parallel; N2 voor "manna-typologie" (Joh 6:31-51 hervat manna-thema, maar koppelt expliciet aan "ek tou ouranou"-claim, niet aan Mozes als persoon). Tekst-feit Exo 32:32-33: Mozes biedt zelf-uitwissing aan, JHWH wijst het af; een koppeling aan een substitutie-leer is geleende doctrine en valt buiten de typologie-laag.
 - **Tags:** Mozes, Mōsēs, navi-kamoni, mesitēs, therapōn, drie-fasen-40-jaar, koperen-slang, manna, petra-Christos, doop-in-Mozes, Hebr-3, Hand-7, Joh-3:14, 1Kor-10
 - **Zie ook:** `./jozef.md`, `./jozua.md`, `../B_cijfer/40.md` cluster B + L, `../B_cijfer/120.md` cluster A en F, `../B_cijfer/3.md` cluster B (Sinai)
 
@@ -18,7 +18,7 @@ Tekst-eigen feiten. Deu 18:15 noemt JHWH-uitspraak "nbia m·qrb·k m·achi·k km
 
 NT-eigen typologie-claims. **Hand 3:22 + 7:37 + Joh 5:46** citeren Deu 18:15 letterlijk. **Joh 3:14** citeert Mozes' koperen slang expliciet: "kathōs Mōsēs hupsōsen ton ophin ... houtōs hupsōthēnai dei ton huion tou anthrōpou". **1 Kor 10:2** noemt expliciet "eis ton Mōsēn ebaptisanto en tē nephelē kai en tē thalassē". **1 Kor 10:4** noemt expliciet "hē de petra ēn ho Christos". **Hebr 3:5** noemt Mozes "therapōn" (G2324, dienaar) tegenover Christus "huios" (Hebr 3:6). **Joh 1:17** stelt "ho nomos dia Mōseōs edothē hē charis kai hē alētheia dia Iēsou Christou egeneto".
 
-Interpretatieve framings. Dat Mozes-baby-verborgen-3-maanden (Exo 2:2) typologisch parallel loopt met Christus-baby-Egypte-vlucht (Mat 2:13-15) is structurele parallel zonder NT-eigen-koppeling. **N2.** Dat Mozes' aangeboden substitutie (Exo 32:32 "delg mij uit Uw boek") = Christus' substitutie is interpretatieve framing. JHWH wijst Mozes' aanbod expliciet af (Exo 32:33). **N3-clue.** Dat Mat 17:3 verheerlijking-berg "Mozes tussen wet en profeten" een typologische heilshistorie-samenvoeging is: tekst noemt feit ("Mōsēs kai Ēlias met autou sullalountes") maar legt geen typologische uitleg.
+Interpretatieve framings. Dat Mozes-baby-verborgen-3-maanden (Exo 2:2) typologisch parallel loopt met Christus-baby-Egypte-vlucht (Mat 2:13-15) is structurele parallel zonder NT-eigen-koppeling. **N2.** Tekst-feit: Mozes biedt aan zichzelf uit Gods boek te laten delgen (Exo 32:32); JHWH wijst dit aanbod expliciet af (Exo 32:33). Een koppeling aan een substitutie-leer is geleende doctrine en valt buiten de typologie-laag. Dat Mat 17:3 verheerlijking-berg "Mozes tussen wet en profeten" een typologische heilshistorie-samenvoeging is: tekst noemt feit ("Mōsēs kai Ēlias met autou sullalountes") maar legt geen typologische uitleg.
 
 ## Voorkomens (per cluster)
 
@@ -52,7 +52,7 @@ Interpretatieve framings. Dat Mozes-baby-verborgen-3-maanden (Exo 2:2) typologis
 
 **Exodus 32:30** [N1] — translit "u·iei m·mchrth u·iamr Mshe al-e·om athm chtathm chta gdle u·othe aole al-ieue auli akphre bod chtath·km" (H4872+H5971a+H2398+H1419a+H3068+H3722b) — "Mozes zeide tot het volk: gij hebt grote zonde gezondigd, ik zal opklimmen tot JHWH; misschien kan ik verzoening (akhapperah, wortel kafar) doen voor uw zonde". **Wortel kafar (H3722b) — verzoenen**.
 
-**Exodus 32:32** [N1] — translit "u·othe am-thsha chtath·m u·am-ain mch·ni na m·sphr·k ashr kthbth" (H5375+H2403+H4229+H5612+H3789) — "indien Gij hun zonde wilt vergeven [...]; en zo niet, delg mij dan uit Uw boek dat Gij geschreven hebt". **Mozes biedt zelf-uitwissing aan**. JHWH wijst dit expliciet af in Exo 32:33: "wie tegen Mij zondigt, dien zal Ik uit Mijn boek delgen". Brug naar Christus-substitutie is interpretatieve typologie. **N3-clue**.
+**Exodus 32:32** [N1] — translit "u·othe am-thsha chtath·m u·am-ain mch·ni na m·sphr·k ashr kthbth" (H5375+H2403+H4229+H5612+H3789) — "indien Gij hun zonde wilt vergeven [...]; en zo niet, delg mij dan uit Uw boek dat Gij geschreven hebt". **Mozes biedt zelf-uitwissing aan**. JHWH wijst dit expliciet af in Exo 32:33: "wie tegen Mij zondigt, dien zal Ik uit Mijn boek delgen". Een brug naar een substitutie-leer is geleende doctrine en valt buiten de typologie-laag; tekst-feit is alleen het aanbod en de afwijzing.
 
 **Romeinen 9:3** [N1] — translit "ēuchomēn gar autos egō anathema einai apo tou Christou huper tōn adelphōn mou tōn suggenōn mou kata sarka" (G2172+G331+G5547+G80+G4773+G4561) — "ik zou wensen zelf vervloekt te zijn van Christus voor mijn broeders, mijn verwanten naar het vlees". **Paulus echoot Mozes' offer-aanbod-patroon**.
 
@@ -100,7 +100,7 @@ Interpretatieve framings. Dat Mozes-baby-verborgen-3-maanden (Exo 2:2) typologis
 5. **Wel door tekst expliciet gelegd:** Hebr 3:5-6 — Mozes therapōn / Christos huios contrast. **N1**.
 6. **Wel door tekst expliciet gelegd:** Joh 1:17 — wet-Mozes / genade-Christus. **N1**.
 7. **Niet door tekst expliciet gelegd:** Mozes-baby-3-maanden ↔ Christus-baby-Egypte. **N2**.
-8. **Niet door tekst expliciet gelegd:** Mozes-substitutie Exo 32:32 = Christus-substitutie. **N3-clue** (JHWH wijst Mozes' aanbod expliciet af).
+8. **Niet door tekst gelegd:** een koppeling Mozes-aanbod Exo 32:32 ↔ substitutie-leer. JHWH wijst Mozes' aanbod expliciet af (Exo 32:33); de koppeling valt buiten de typologie-laag.
 9. **Niet door tekst expliciet gelegd:** Mat 17:3 verheerlijking-berg "wet + profeten + Christus" als heilshistorie-typologie. **N2**.
 10. **Wel-thema-koppeling, niet-direct-Mozes-typos:** Joh 6:31-51 manna ↔ brood-des-levens. **N1 voor thema, N2 voor Mozes-als-persoonlijke-typos via manna**.
 
@@ -120,7 +120,7 @@ Bij vragen over **koperen slang verhoogd, manna brood des levens, rots-water pet
 
 **Mozes is "therapōn" (Hebr 3:5), Christus is "huios" (Hebr 3:6).** Onderscheid bron-eigen handhaven — Mozes-typologie is dienst-typologie, niet equivalentie-typologie.
 
-**Cluster C Mozes-substitutie Exo 32:32** — Mozes biedt aan; JHWH wijst expliciet af in Exo 32:33. Christus-substitutie wordt door God aanvaard. Geen NT-tekst legt brug Mozes-aanbod = Christus-substitutie. **N3-clue**.
+**Cluster C Mozes-aanbod Exo 32:32** — Mozes biedt aan; JHWH wijst expliciet af in Exo 32:33. Geen NT-tekst legt een brug van Mozes' aanbod naar een substitutie-leer; die koppeling valt buiten de typologie-laag. Tekst-feit blijft: het aanbod en de afwijzing.
 
 **Cluster A Mozes-baby-3-maanden Exo 2:2** — bron-feit. Brug naar Mat 2:13-15 (Christus-baby-Egypte) is structurele parallel zonder NT-eigen koppeling. **N2**.
 
@@ -137,7 +137,7 @@ Alle 25 vers-references in deze entry op 2026-05-06 geverifieerd via `audit_v2.p
 Eerdere versie corrigeerd:
 - **Hypothese**: "drie levensfasen ... totaal 120 jaar" als impliciet → corrigeerd; nu expliciet via Hand 7:23+30+36 + Deu 34:7 verankerd.
 - **Cluster A "Verberging-baby-typologie"** als impliciet N1 → corrigeerd naar **N2** (geen NT-eigen koppeling Exo 2:2 naar Mat 2:13-15).
-- **Cluster C Mozes-substitutie Exo 32:32 → Christus-substitutie**: was als typologisch raakvlak gepresenteerd → corrigeerd naar **N3-clue** (JHWH wijst Mozes' aanbod expliciet af in Exo 32:33; geen NT-tekst legt brug).
+- **Cluster C Mozes-aanbod Exo 32:32**: koppeling naar substitutie-leer verwijderd als geleende doctrine (zuivering 2026-06-15); alleen tekst-feit behouden (aanbod + afwijzing Exo 32:33).
 - **Cluster E manna**: was N1 als "Mozes-typos via manna" → corrigeerd naar **N1 voor manna-thema-koppeling, N2 voor Mozes-persoonlijke typos** (Christus is brood-tegenhanger van manna, niet van Mozes als persoon).
 - **Cluster E Mat 17:3 verheerlijking** "wet en profeten samenvoeging" → corrigeerd naar **N2** (tekst noemt Mozes-Elia-feit, geen typologische uitleg).
 - **1 Tim 2:5 + Heb 9:15** Christus-mesitēs-formule expliciet toegevoegd (was alleen verwezen).
@@ -151,5 +151,4 @@ Eerdere versie corrigeerd:
 3. Cluster E manna — verdient eigen entry `A_entiteit/manna.md` (Fase 4 voorwerpen).
 4. Cluster E rots — verdient eigen entry `A_entiteit/rots-water.md` (Fase 4).
 5. Cluster D Mozes-Christus contrast huis — verbinding met `H_contrast/twee-verbonden-oud-nieuw.md` (Fase 9).
-6. Verheerlijking-berg (Mat 17:3) Mozes + Elia — gemeenschappelijk met `./elia.md` (toekomstig). Cross-references aanvullen.
-7. Cluster C wortel kafar (H3722b Exo 32:30) — verbinding met `./noach.md` (Gen 6:14 ark-pek). Wortel-cluster in `D_taal` toekomstig?
+6. Verheerlijk

@@ -842,7 +842,7 @@ Bij vragen over **Op vierde trompet of vierde schaal of vierde zegel**: cluster 
 
 **Cluster A "twee grote lichten" niet bij naam.** Tekst noemt zon en maan niet expliciet — alleen "groot licht" en "klein licht". Niet inkleuren met astronomische details die tekst niet geeft. Latere paganistische zon-maan-cultussen worden door deze terughoudendheid impliciet gerelativeerd, maar dat is niet bron-eigen claim.
 
-**Cluster B Lazarus tetartaios is een tekst-eigen feit; de typologische lading "voorbij menselijke ommekeer-grens" of "voorbij joodse drie-dagen-conventie" is interpretatief.** Tekst Joh 11 maakt geen verbinding met Hos 6:2 of met rabbinale tradities. Sola-scriptura: Martha's "hij riekt al" geeft de eenvoudige reden van haar verzet tegen wegnemen van de steen — ontbinding. Geen midrasj-input. **N3-clue voor typologische lading**.
+**Cluster B Lazarus tetartaios is een tekst-eigen feit** (vier dagen dood). Tekst Joh 11 maakt geen verbinding met Hos 6:2; Martha's "hij riekt al" geeft de eenvoudige reden van haar verzet tegen wegnemen van de steen — ontbinding. Een typologische lading die steunt op een buitenbijbelse "drie-dagen-conventie" of midrasj valt buiten de typologie-laag; alleen het vier-dagen-feit blijft.
 
 **Cluster E (Op 8:12 als omkering Gen 1:16) is interpretatieve verbinding.** Niet door Op-tekst zelf gelegd. **N2 voor het verband**. Niet over-claimen dat Op 8:12 expliciet "scheppings-omkering" zegt; wel feitelijk dat dezelfde drie objecten (zon, maan, sterren) in beide passages voorkomen.
 
@@ -1015,7 +1015,7 @@ Eerdere versie corrigeerd:
 - **Bron-discipline:** uitsluitend `Kennis/puur/` en `Kennis/strong/`. Sola scriptura. Geen training-input.
 - **As 1 (categorieën):** C1 (dagen-typologie primair)
 - **As 2 (hermeneutische lagen):** L1, L2 (waar door tekst zelf bevestigd)
-- **As 3 (algemeen zekerheids-niveau):** N1 voor vers-bestaan en citaten in alle clusters; N2 voor structurele verbinding cluster A ↔ cluster F (geen Schrift-eigen-citaat); N3-clue voor "Wij/Ons" (Gen 1:26) als typologische Triniteit-opening en voor "zesde maand" Luk 1:26 als typologische lading
+- **As 3 (algemeen zekerheids-niveau):** N1 voor vers-bestaan en citaten in alle clusters; N2 voor structurele verbinding cluster A ↔ cluster F (geen Schrift-eigen-citaat); N3-clue voor "zesde maand" Luk 1:26 als tekst-intern getalspatroon. Tekst-feit: Gen 1:26 gebruikt meervoud "Wij/Ons" zonder uitleg; een duiding daarvan (welke dan ook) valt buiten de typologie-laag
 - **Tags:** scheppingsdag-6, yom-shishshi, mens-naar-beeld-God, derde-bara, "zeer-goed", manna-dubbel-zesde-dag, sabbatsjaar-voorbereiding, zesde-uur-kruisiging, zesde-maand-Maria, Eufraat
 - **Zie ook:** `./dagen-eerste.md`, `./dagen-vierde.md`, `./dagen-vijfde.md`, `./derde-dag.md`, `../B_cijfer/666.md`
 
@@ -1033,7 +1033,7 @@ Dat scheppings-dag-6 en kruisigings-zesde-uur typologisch op elkaar terugslaan i
 
 ### Cluster A — Gen 1:26-31: scheppingsdag 6
 
-**Genesis 1:26** [N1] — translit "uiamr aleim noshe adm btzlmnu kdmuthnu uirdu bdgth eim ubouph eshmim ubbeme ubkl -eartz ubkl -ermsh ermsh ol-eartz" — "God zeide: laten Wij mensen maken naar Ons beeld, naar Onze gelijkenis, en dat zij heersen over de vissen der zee, het gevogelte des hemels, het vee, heel de aarde, en alle kruipend gedierte". **Tekst-eigen feit: meervoud "Wij/Ons" zonder uitleg in tekst** [N3-clue voor latere triniteits-typologische duiding].
+**Genesis 1:26** [N1] — translit "uiamr aleim noshe adm btzlmnu kdmuthnu uirdu bdgth eim ubouph eshmim ubbeme ubkl -eartz ubkl -ermsh ermsh ol-eartz" — "God zeide: laten Wij mensen maken naar Ons beeld, naar Onze gelijkenis, en dat zij heersen over de vissen der zee, het gevogelte des hemels, het vee, heel de aarde, en alle kruipend gedierte". **Tekst-eigen feit: meervoud "Wij/Ons" zonder uitleg in tekst.** Een duiding van dat meervoud valt buiten de typologie-laag.
 
 **Genesis 1:27** [N1] — translit "uibra aleim ath-eadm btzlmu btzlm aleim bra athu zkr unqbe bra athm" — "God schiep (bara) de mens naar Zijn beeld, naar het beeld van God schiep Hij hem; man en vrouw schiep Hij hen". **Tekst-eigen feit: drievoudig bara binnen één vers** (H1254 driemaal).
 
@@ -1118,7 +1118,7 @@ Bij vragen over **zesde zegel/trompet/schaal, Eufraat, zon zwart maan bloed**: c
 
 ## Waarschuwingen
 
-**Cluster A "Wij/Ons" Gen 1:26** — bron-feit: meervoud zonder uitleg in tekst. Latere uitleg-tradities (triniteit, majesteits-meervoud, engelenraad) zijn interpretatief. Tekst zelf maakt geen keuze. **N3-clue voor typologische opening; niet over-claimen op specifieke duiding**.
+**Cluster A "Wij/Ons" Gen 1:26** — bron-feit: meervoud zonder uitleg in tekst. De tekst zelf geeft geen reden voor het meervoud. Elke uitleg ervan (welke dan ook) is geleende duiding en valt buiten de typologie-laag; alleen het meervoud-feit blijft.
 
 **Cluster A drievoudig bara in Gen 1:27** — bron-feit: H1254 driemaal binnen één vers. **De typologische lading "derde bara als climax" is interpretatief en niet door tekst expliciet zo benoemd**. Cross-reference `../B_cijfer/3.md` cluster B.
 
@@ -1136,7 +1136,7 @@ Alle 21 vers-references in deze entry op 2026-05-06 geverifieerd via `audit_v2.p
 
 Eerdere versie corrigeerd:
 - Hypothese-uitspraak "kruisiging op zesde uur als climax van herscheppings-week" gedowngraded; verbinding A ↔ F gehandhaafd als N2 (was eerder zwaarder geclaimd)
-- "Wij/Ons" als triniteit-typologische opening gedowngraded naar N3-clue
+- "Wij/Ons" als triniteit-typologische opening volledig verwijderd als geleende doctrine; alleen het meervoud-feit (zonder uitleg in tekst) behouden (zuivering 2026-06-15)
 - "Zesde maand Maria als incarnatie-als-herschepping-mens" gedowngraded naar N3-clue
 - Verbinding cluster B ↔ "Christus' werk op vrijdag voor sabbatsrust van het volk Gods (Hebr 4:9-10)" verwijderd uit hypothese; Hebr 4:9 noemt geen verbinding met manna dag 6
 - "Drie-bara-momenten als hiërarchische ordening kosmos-leven-mens" als observatie gehandhaafd, maar typologische duiding gemarkeerd als interpretatief
@@ -1147,9 +1147,7 @@ Eerdere versie corrigeerd:
 2. "Wij/Ons" Gen 1:26 — past in `D_taal/polysemie-elohim.md` of in eigen meervoud-typologie entry. Vereist apart bron-zoek-traject.
 3. Cluster F zesde uur kruisiging — meta-onderzoek naar "Christus' uren-cyclus" (derde, zesde, negende uur) verdient eigen entry.
 4. Cluster H zesde maand Maria — past in `H_contrast/oude-nieuwe-schepping.md` (Fase 9) als kandidaat-vers, niet als bewijs.
-5. Eufraat in cluster E — verbinding met Gen 15:18 past in `A_entiteit/water` of `H_contrast`.
-6. Cijfer 6 zelf heeft nog geen `B_cijfer/6.md` entry. Vereist eigen bron-zoek-traject.
-
+5. Eufraat in cluster E — verbind
 ---
 
 

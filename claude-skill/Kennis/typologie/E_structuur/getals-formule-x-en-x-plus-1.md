@@ -114,7 +114,7 @@ Bij vragen over **getalsformule-techniek als wijsheids-figuur**: alle clusters.
 
 **X+1-formule is bron-zichtbaar** in grondtekst. Vertalingen brengen het meestal correct over (in tegenstelling tot acrostichon dat onzichtbaar wordt). Maar **vers-nummering verschilt MT versus westerse vertalingen** — bij citatie altijd MT-nummering aangeven naast S4A.
 
-**Cluster A Spr 30** kent **vier 3+4-formules + één alleen-4-list**. Niet alle commentatoren tellen dit zo (sommigen beschouwen 30:15-16 als deel van een andere structuur); MT-bron toont vier aparte 3+4-eenheden plus de aparte alleen-4-eenheid (24-28). Bron-feit van vier formule-eenheden + één alleen-4-list.
+**Cluster A Spr 30** kent **vier 3+4-formules + één alleen-4-list**. De indeling van 30:15-16 is interpretatief (kan ook als deel van een andere structuur worden gelezen); MT-bron toont vier aparte 3+4-eenheden plus de aparte alleen-4-eenheid (24-28). Bron-feit van vier formule-eenheden + één alleen-4-list.
 
 **Cluster B Amos 1-2** acht herhalingen is **bron-eigen feit**. Interpretatie als "achtste = jubelei-octave-getal-typologie waarbij Israël als octave-doorbreker wordt gemarkeerd" is **N3-clue** (rekenkundig feit getal-acht overstijgt zeven-volheid; typologische lading interpretatief).
 

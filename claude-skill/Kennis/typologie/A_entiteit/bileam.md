@@ -82,7 +82,7 @@ Interpretatieve framings. Dat Num 24:17 "ster-uit-Jakob"-profetie typologisch is
 1. **Wel door tekst expliciet gelegd:** 2 Pet 2:15-16 — "weg van Bileam" + ezel-rebuke. **N1**.
 2. **Wel door tekst expliciet gelegd:** Jud 1:11 — "dwaling van Bileam om loon". **N1**.
 3. **Wel door tekst expliciet gelegd:** Op 2:14 — "leer van Bileam" als verleidings-typologie in NT-gemeente. **N1**.
-4. **Niet door tekst expliciet gelegd:** Num 24:17 ster-uit-Jakob ↔ Mat 2:2 magoi-ster. Mat noemt Num 24:17 niet expliciet. **N2** (joods-traditioneel typologisch zwaar).
+4. **Niet door tekst expliciet gelegd:** Num 24:17 ster-uit-Jakob ↔ Mat 2:2 magoi-ster. Mat noemt Num 24:17 niet expliciet. **N2** (gedeeld ster-motief; geen NT-citaat).
 5. **Niet door tekst expliciet gelegd:** Drie-keer-ezel-slaan = drievoudige bevestigings-typologie. **N3-clue**.
 
 ## Watermerk-verbinding

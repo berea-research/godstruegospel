@@ -33,7 +33,7 @@ In het NT zijn er drie tekst-eigen-typologische uitspraken:
 
 **Exodus 16:31** [N1] — verzamel-vers (smaak "tsappichit be-devash" — koek-met-honing).
 
-### Cluster B — Deuteronomium 8:3 theologische duiding
+### Cluster B — Deuteronomium 8:3 tekst-eigen duiding
 
 **Deuteronomium 8:3** [N1] — translit (deelvers) "u·iony·k u·iroib·k u·iakl·k ath-e·mn ashr la-idoth u·la idoun abthi·k l·mon eudio·k ki la ol-e·lchm l·bd·u ichie e·adm ki ol-kl-mutza phi-ieue ichie e·adm" — "Hij verootmoedigde u en deed u honger lijden, en gaf u manna te eten dat gij niet kende noch uw vaderen kenden, opdat Hij u zou doen weten dat de mens niet alleen van brood (lechem) leeft, maar van alles wat uit de mond van JHWH (mutza pi-JHWH) uitgaat, leeft de mens". **Tekst-eigen theologische duiding: manna leert afhankelijkheid van JHWH-woord**.
 

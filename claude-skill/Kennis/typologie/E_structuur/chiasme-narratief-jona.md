@@ -70,7 +70,7 @@ A    1:1-3      Eerste opdracht — Jona vlucht
 
 **Bron-eigen `lk-l·k`-paronomasie** (Gen 12:1 en Gen 22:2 — alleen deze twee plaatsen in Schrift gebruiken deze imperatief-formule met datief-suffix). Bron-feit van **dubbele-formule-haakje** rondom Abraham-cyclus.
 
-**Beperking**: chiasme-architectuur van Gen 12-22 als geheel is **interpretatief** (verschillende commentatoren tellen verschillende centra: Gen 15 verbond, Gen 17 besnijdenis, Gen 18 drie bezoekers, Gen 19 Sodom-oordeel). **N2** als structuur-aanwijzing; **N1** alleen voor het bron-eigen `lk-l·k`-formule-haakje. Niet over-claimen op vol-uitgewerkte chiasme-architectuur.
+**Beperking**: een chiasme-architectuur van Gen 12-22 als geheel is **interpretatief** — de tekst geeft geen vast centrum, en meerdere kandidaat-centra zijn mogelijk (Gen 15 verbond, Gen 17 besnijdenis, Gen 18 drie bezoekers, Gen 19 Sodom-oordeel). **N2** als structuur-aanwijzing; **N1** alleen voor het bron-eigen `lk-l·k`-formule-haakje. Niet over-claimen op vol-uitgewerkte chiasme-architectuur.
 
 ### Cluster C — Jozef-cyclus (Gen 37-50): chiasme-aanwijzing rond gevangenschap [N2]
 
@@ -88,7 +88,7 @@ A    1:1-3      Eerste opdracht — Jona vlucht
 
 **Bron-eigen `kthnth`-Strong (H3801, gewaad)** verschijnt 8× in Jozef-cyclus (Gen 37 + 41 + 42 + 47), markerend symbool-thema. **Bron-eigen vervulling-vier** van Gen 37:5-11 droom-buiging in Gen 42-50.
 
-**Beperking**: vol-uitgewerkte chiasme-architectuur van Gen 37-50 wordt door verschillende commentatoren verschillend gestructureerd. **N2** als structuur-aanwijzing; **N1** voor het bron-eigen vervulling-vier en gewaad-thema. Niet over-claimen op fix chiasme-centrum.
+**Beperking**: een vol-uitgewerkte chiasme-architectuur van Gen 37-50 is interpretatief — de tekst geeft geen vast centrum of vaste indeling. **N2** als structuur-aanwijzing; **N1** voor het bron-eigen vervulling-vier en gewaad-thema. Niet over-claimen op fix chiasme-centrum.
 
 ### Cluster D — Andere narratief-chiasme-aanwijzingen [N2/N3-clue]
 
@@ -130,7 +130,7 @@ Bij vragen over **chiasme versus inclusio versus parallellisme**: zie `./chiasme
 
 ## Waarschuwingen
 
-**Boek-niveau chiasme is interpretatief afhankelijk van indeling-keus.** Verschillende commentatoren tellen verschillende paren of centra. **Robuust voor Jona** (bron-eigen woord-voor-woord parallel-formule); **interpretatief voor andere boeken**. Niet over-claimen op fix-chiasme-architectuur waar bron alleen losse parallel-aanwijzingen geeft.
+**Boek-niveau chiasme is interpretatief afhankelijk van indeling-keus.** De tekst legt geen vaste paren of centra vast. **Robuust voor Jona** (bron-eigen woord-voor-woord parallel-formule); **interpretatief voor andere boeken**. Niet over-claimen op fix-chiasme-architectuur waar bron alleen losse parallel-aanwijzingen geeft.
 
 **Cluster A Jona** chiasme is **bron-eigen expliciete woord-voor-woord-formule**. De `qum-lk-al-ninue-e·oir-e·gdule`-formule met variant-marker `shnith` en omkering `l·brch m·l·phni ieue` ↔ `u·ilk k·dbr ieue` is expliciet. Robuust **N1**.
 
@@ -163,4 +163,4 @@ Steekproef-Jona-formule woord-voor-woord met bron vergeleken (Hebreeuwse karakte
 4. **`kthnth phsim` Jozef ↔ `kthnth pothnth` Tamar** Gen 37 + 2 Sam 13 — beide gewaad-symbolen van geliefde-koningskind. Past in `../A_entiteit/jozef.md` of *kthnth-cluster* (toekomstig).
 5. **Job-boek raamwerk-chiasme** (proza 1-2 ↔ 42:7-17 omklemt poëzie 3-42:6) — verdient eigen analyse `./raamwerk-job.md` (toekomstig).
 6. **Boek Esther chiasme** — al uitgewerkt in `./chiasme-ester.md`.
-7. **Lukas-Handelingen narratief-progressie** als tegen-voorbeeld (lineair, niet chiastisch) — past in *narratief-progressie-lukas-handelingen* (toekomstig).
+7. **Lukas-Handelingen narratief-progressie** als tegen-voorbeeld (lineair, niet chiastisch) — past in *narratief-progressie-lukas-handelin

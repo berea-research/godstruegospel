@@ -8,7 +8,7 @@
 - **Bron-discipline:** uitsluitend `Kennis/puur/` en `Kennis/strong/`. Sola scriptura. Geen training-input.
 - **As 1 (categorieën):** A10 (materialen primair)
 - **As 2 (hermeneutische lagen):** L1, L2 (waar door tekst zelf bevestigd)
-- **As 3 (algemeen zekerheids-niveau):** N1 voor vers-bestaan en citaten in alle clusters; **N1 voor expliciete tekst-citaat Gal 3:13 ↔ Deu 21:23** ("epikataratos pas ho kremamenos epi xylou"); N2 voor verbinding Mara-hout (Exo 15:25) ↔ kruis (geen NT-tekst legt expliciete brug); N3-clue voor "acaciahout-met-goud-bedekt = twee-naturen-typologie Christus"
+- **As 3 (algemeen zekerheids-niveau):** N1 voor vers-bestaan en citaten in alle clusters; **N1 voor expliciete tekst-citaat Gal 3:13 ↔ Deu 21:23** ("epikataratos pas ho kremamenos epi xylou"); N2 voor verbinding Mara-hout (Exo 15:25) ↔ kruis (geen NT-tekst legt expliciete brug). Acaciahout-met-goud (Exo 25) draagt in de tekst geen uitleg; duiding valt buiten de typologie-laag.
 - **Tags:** hout, etz, xylon, acaciahout, cederhout, kruishout, Gal-3-13, 1-Pet-2-24
 - **Zie ook:** `./noach.md`, `./isaak.md`, `./koperen-slang.md`, `./boom-des-levens.md`
 
@@ -18,7 +18,7 @@ Tekst-eigen feiten. Hebreeuws "etz" (H6086) en Grieks "xylon" (G3586) komen bree
 
 NT-eigen typologie-claims. Gal 3:13 citeert Deu 21:23 als sleutel-Schrift voor "Christus voor ons een vloek geworden". 1 Pet 2:24 noemt expliciet "tas hamartias hēmōn ... epi to xylon" (zonden op het hout).
 
-Interpretatieve framings. Dat Mara-hout (Exo 15:25) typologisch het kruis voorafschaduwt is structurele observatie zonder NT-tekst-koppeling. **N2.** Dat acaciahout-met-goud-bedekt een "twee-naturen-typologie Christus" vormt is buiten-tekst-traditie. **N3-clue.** Dat de drie "xylon"-Handelingen (5:30 + 10:39 + 13:29) een drievoudige bevestiging-typologie vormen is observatie zonder Schrift-eigen koppeling. **N3-clue.**
+Interpretatieve framings. Dat Mara-hout (Exo 15:25) typologisch het kruis voorafschaduwt is structurele observatie zonder NT-tekst-koppeling. **N2.** Acaciahout-met-goud-bedekt (Exo 25) draagt in de tekst geen uitleg; een duiding van de materiaal-combinatie valt buiten de typologie-laag. Dat de drie "xylon"-Handelingen (5:30 + 10:39 + 13:29) een drievoudige bevestiging-typologie vormen is observatie zonder Schrift-eigen koppeling. **N3-clue.**
 
 ## Voorkomens (per cluster)
 
@@ -59,7 +59,7 @@ Interpretatieve framings. Dat Mara-hout (Exo 15:25) typologisch het kruis vooraf
 **NT-OT verbinding (eerlijke beoordeling).**
 - **Wel door tekst expliciet gelegd:** Gal 3:13 citeert Deu 21:23 expliciet. **N1**.
 - **Niet door tekst expliciet gelegd:** dat Mara-hout (Exo 15:25) typologische voorloper is van het kruis. **N2**.
-- **Niet door tekst expliciet gelegd:** dat acaciahout-met-goud-bedekt twee-naturen-typologie Christus vormt. **N3-clue**.
+- **Niet door tekst gelegd:** acaciahout-met-goud (Exo 25) draagt in de tekst geen uitleg; elke duiding ervan valt buiten de typologie-laag.
 - **Niet door tekst expliciet gelegd:** dat drievoudig "xylon" in Hand een typologische bevestiging-stempel is. **N3-clue**.
 
 ## Watermerk-verbinding
@@ -76,7 +76,7 @@ Bij vragen over **tabernakel acaciahout, Salomo's tempel cederhout**: cluster B.
 
 **Mara-hout (Exo 15:25)** — JHWH wijst Mozes "etz" (hout); soort niet gespecificeerd. Geen NT-tekst koppelt aan kruis. Verbinding is structurele observatie. **N2**.
 
-**Acaciahout-met-goud-bedekt = twee-naturen-typologie** — buiten-tekst-traditie (vroege kerkvaders). Tekst Exo 25 noemt feiten zonder uitleg. **N3-clue**.
+**Acaciahout-met-goud-bedekt** — tekst Exo 25 noemt de materialen zonder uitleg. Een duiding van de materiaal-combinatie valt buiten de typologie-laag; niet over-claimen.
 
 **Drievoudig "xylon" Hand 5:30 + 10:39 + 13:29** — bron-feit (drie voorkomens). De typologische lading "drievoudige bevestiging" is interpretatieve framing. **N3-clue**.
 
@@ -91,7 +91,7 @@ Alle 11 vers-references in deze entry op 2026-05-07 geverifieerd via `audit_v2.p
 Eerdere versie (sjabloon V1) corrigeerd:
 - Sjabloon V2 toegepast (Bron-verificatie sectie, expliciete N-niveau-markeringen, Hypothese terughoudend gemaakt)
 - Mara-hout (Exo 15:25) ↔ kruis-typologie expliciet als N2 gemarkeerd
-- "Acaciahout-met-goud = twee-naturen-typologie" expliciet als N3-clue gemarkeerd
+- "Acaciahout-met-goud = twee-naturen-typologie" verwijderd als geleende doctrine; alleen tekst-feit (materialen zonder uitleg) behouden (zuivering 2026-06-15)
 - "Drievoudig xylon Hand" als drievoudige bevestiging-typologie als N3-clue gemarkeerd
 - Cluster C als sterkste sola-scriptura-cluster expliciet gemarkeerd
 
@@ -99,5 +99,4 @@ Eerdere versie (sjabloon V1) corrigeerd:
 
 1. Mara-hout Exo 15:25 ↔ kruis — past in `D_taal` of in eigen sub-onderzoek mits sola scriptura.
 2. Cluster C kruis-xylon corpus + Boom-des-levens xulon zōēs — gedeelde Grieks-woord-typologie, vereist sola-scriptura sub-onderzoek.
-3. Acaciahout in tabernakel — verdient eigen `acaciahout`-entry of als sub-cluster in `E_structuur/tabernakel-hemels-patroon.md`.
-4. Cederhout Salomo's tempel ↔ Christus tempel-bouw — interpretatieve verbinding, vereist eigen sub-onderzoek.
+3. Acaciahout in tabernakel — verdient eigen `acaciahout`-entry of als sub-cluster i

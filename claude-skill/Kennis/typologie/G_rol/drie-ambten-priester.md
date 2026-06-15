@@ -81,7 +81,7 @@ Interpretatieve framings. Dat de Aäron-Christus-parallel uitstrekt buiten Hebr 
 
 **Bron-eigen N1 drievoudige negatie-formule** in NT-tekst over Melchizedek: zonder vader, zonder moeder, zonder geslachtslijn. **Bron-eigen tekst-eigen NT-feit**: NT-auteur leidt dit af uit Gen 14:18-20 stilte (geen genealogie, geen ouders, geen begin- of eind-dag). **Bron-eigen N1 expliciete `aphōmoiōmenos tō huiō tou theou`** (gelijkgemaakt aan de Zoon van God) — bron-eigen NT-typologische formule in passieve voltooide deelwoord. **Bron-eigen `menei hiereus eis to diēnekes`** (blijft priester voor immer) als gevolg.
 
-**Bron-eigen waarschuwing**: NT-tekst zegt `aphōmoiōmenos` (gelijkgemaakt) — niet `homoios` (gelijk-aan) of `tupos` (type-van). **Niet over-claimen op specifieke ontologische identiteit Melchizedek = pre-incarnatie-Christus** zonder eigen analyse. Bron-feit: NT-tekst behandelt Gen 14:18-20 stilte als typologisch-passend bij Christus-Zoon.
+**Bron-eigen waarschuwing**: NT-tekst zegt `aphōmoiōmenos` (gelijkgemaakt) — niet `homoios` (gelijk-aan) of `tupos` (type-van). Een identificatie van Melchizedek valt buiten de typologie-laag. Bron-feit: NT-tekst behandelt Gen 14:18-20 stilte als typologisch-passend bij Christus-Zoon.
 
 ### Cluster E — Hebr 7:11-22 priester-orde-overgang [N1]
 
@@ -160,7 +160,7 @@ Bij vragen over **Ps 110:4 JHWH-eed `kohen le-olam`**: cluster B + waarschuwing 
 
 Bij vragen over **Hebr 5:4 Aäron-roeping-principe**: cluster C + cross-link `./drie-ambten-samenval.md` (toekomstig — voor synthese-element).
 
-Bij vragen over **Hebr 7:1-3 `aphōmoiōmenos tō huiō tou theou`**: cluster D + waarschuwing tegen ontologische over-claim Melchizedek = pre-incarnatie-Christus.
+Bij vragen over **Hebr 7:1-3 `aphōmoiōmenos tō huiō tou theou`**: cluster D + waarschuwing dat een identificatie van Melchizedek buiten de typologie-laag valt.
 
 Bij vragen over **Hebr 7:14 `ex Iouda anatetalken`**: cluster E + cross-link `./drie-ambten-koning.md` (Juda-stam koningschap — bron-eigen Gen 49:10 + Op 5:5 `leōn ek phulēs Iouda`).
 
@@ -172,7 +172,7 @@ Bij vragen over **Aäron-Christus narratief-parallel-elementen**: cluster G + cr
 
 ## Waarschuwingen
 
-**Cluster A `kohen le-El Elyon`** Gen 14:18 — bron-eigen unieke titel buiten Aaronisch verband. **Niet over-claimen** op specifieke "Melchizedek = pre-incarnatie-Christus" zonder eigen analyse. Bron-feit: Gen 14:18 introduceert hem zonder genealogie, zonder vader-moeder-vermelding, zonder einde-vermelding — Hebr 7:3 leidt typologische passing daaruit af, niet ontologische identiteit.
+**Cluster A `kohen le-El Elyon`** Gen 14:18 — bron-eigen unieke titel buiten Aaronisch verband. Een identificatie van Melchizedek valt buiten de typologie-laag. Bron-feit: Gen 14:18 introduceert hem zonder genealogie, zonder vader-moeder-vermelding, zonder einde-vermelding — Hebr 7:3 leidt typologische passing daaruit af, niet ontologische identiteit.
 
 **Cluster A `melekh shalem`** Gen 14:18 — bron-eigen plaatsnaam Salem. **Cross-link** met latere Yerushalayim-naam (Ps 76:3 `Shalem`); Hebr 7:2 levert bron-eigen NT-etymologie `basileus eirēnēs`. **Niet over-claimen** op specifieke geografische identificatie zonder cross-link `../A_entiteit/stad-jeruzalem.md`.
 

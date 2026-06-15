@@ -17,7 +17,7 @@ Tekst-eigen feiten. **Exodus 3:1-15** beschrijft Mozes' verschijning aan **`har 
 
 NT-eigen typologie-claim. **Hand 7:30-34** noemt Stefanus' citaat van Exo 3 met expliciete dating `etōn tessarakonta` (40 jaar). **N1 expliciet citaat** + **N1 expliciete chronologische uitleg**. **Mat 22:32 + Mar 12:26 + Luk 20:37** noemen drie evangelies Christus' eigen citaat van Exo 3:6 (`elohei Avraham elohei Yitzchaq elohei Yaaqov`) als bewijs voor opstanding (`ouk estin theos nekrōn alla zōntōn`). **N1 drie-evangelies-getuigenis** van christologische typologische uitleg.
 
-Interpretatieve framings. Dat de braamstruik-typologie wijst op specifieke christologische lading (incarnatie, lijden-zonder-verteren, etc.): **N3-clue** zonder NT-tekst-bridge. Dat `ehyeh asher ehyeh` formule typologisch verbonden is met NT-`egō eimi`-uitspraken (Joh 8:24 + 8:28 + 8:58 + 13:19 + 18:5-8): **N2 structurele afleiding** (geen NT-tekst legt expliciete brug, maar woord-vorm-overlap is bron-eigen feit).
+Interpretatieve framings. Een specifieke christologische lading van de braamstruik (incarnatie, lijden-zonder-verteren, etc.) is geleende uitleg en valt buiten de typologie-laag. Dat `ehyeh asher ehyeh` formule woord-vorm-overlap heeft met NT-`egō eimi`-uitspraken (Joh 8:24 + 8:28 + 8:58 + 13:19 + 18:5-8): **N2 structurele afleiding** (geen NT-tekst legt expliciete brug, maar de woord-vorm-overlap is bron-eigen feit).
 
 ## Voorkomens (per cluster)
 
@@ -114,7 +114,7 @@ Interpretatieve framings. Dat de braamstruik-typologie wijst op specifieke chris
 1. **Hand 7:30-34 expliciet citaat** van Exo 3 incl. `etōn tessarakonta` chronologie. **N1**.
 2. **Mat 22:32 + Mar 12:26 + Luk 20:37 drievoudig citaat** van Exo 3:6 met expliciete typologische uitleg `ouk estin theos nekrōn alla zōntōn`. **N1 christologische opstandings-typologie**.
 3. **Niet door tekst expliciet gelegd**: `ehyeh asher ehyeh` ↔ `egō eimi`-uitspraken. **N2 structurele afleiding**.
-4. **Niet door tekst expliciet gelegd**: braamstruik-typologie als specifieke christologische lading (incarnatie, lijden-zonder-verteren). **N3-clue**.
+4. **Niet door tekst gelegd**: een christologische lading van de braamstruik (incarnatie, lijden-zonder-verteren). Die duiding valt buiten de typologie-laag; alleen het braamstruik-feit blijft.
 
 ## Watermerk-verbinding
 
@@ -136,7 +136,7 @@ Bij vragen over **Joz 5:15 schoenen-uittrekken-parallel**: cluster B Exo 3:5 + J
 
 ## Waarschuwingen
 
-**Cluster A `malak ieue`** — bron-eigen identificatie. Specifieke "malak ieue = pre-incarnate Christus"-typologische uitwerking is **N3-clue**, geen NT-tekst-bridge.
+**Cluster A `malak ieue`** — bron-eigen identificatie (de tekst noemt "engel van JHWH"). Een identificatie als "malak ieue = pre-incarnate Christus" is geleende uitleg en valt buiten de typologie-laag; geen NT-tekst legt die brug.
 
 **Cluster A `sneh boer ba-esh ve-einennu ukkal`** — bron-eigen uniek-fenomeen. Specifieke "doornstruik-niet-verteren = lijden-Christus-zonder-vergaan" of "doornstruik = Israel-onderdrukt-niet-vernietigd"-uitwerking is **N3-clue**, geen NT-tekst-bridge.
 
@@ -171,5 +171,4 @@ Alle vers-references in deze entry op 2026-05-08 geverifieerd via grep + woord-v
 3. **`malak ieue` als specifieke verschijning-vorm** — past in toekomstige *malak-ieue* (toekomstig).
 4. **Drievoudige patriarchen-formule `elohei Avraham + Yitzchaq + Yaaqov`** in OT-NT-distributie — past in toekomstige *drie-patriarchen* (Fase 8).
 5. **`admat-qodesh` Exo 3:5 ↔ Joz 5:15** — past in toekomstige `./twee-heilig-grond-formules.md` (toekomstig).
-6. **Mat 22:32 opstandings-typologie via Exo 3:6** — past in toekomstige meta-entry *opstandings-citaat-cluster* (cross-link met Hos 6:2 + Jon 1:17 reeds-uitgewerkte clusters).
-7. **40 jaar Midian-context** — al uitgewerkt in `../B_cijfer/40.md` Cluster L; cross-update.
+6. **Mat 22:32 opstandings-typologie via Exo 3:6** — past in toekomstige meta-entry *opstandings-citaat-cluster* (cross-link met Hos 6:2 + Jon 1:17 reeds-uitgewer
